@@ -6,13 +6,13 @@ finite dentro il mod, che il kit ufficiale autorizza esplicitamente - e lascia
 fuori i due set di partenza. Non e' una perdita: tutt'e due si rifanno da una
 fonte legittima, ed e' quello che fa questo script.
 
-    art/originali/  lo ZIP che Weather Factory pubblica sul proprio sito per i
+    art/originals/  lo ZIP che Weather Factory pubblica sul proprio sito per i
                     modder, con il permesso di partire dalle immagini
                     originali. Chiunque puo' scaricarlo; qui lo scarica lo
                     script. Serve da riferimento: covers.py legge le estratte, e
                     ricade qui solo per i file che nel gioco non esistono
                     (uncatbook.*, wc.*).
-    art/estratte/   i quattro set di sprite (en, ru, jp, zh-hans) dentro
+    art/extracted/   i quattro set di sprite (en, ru, jp, zh-hans) dentro
                     resources.assets del gioco installato. Li tira fuori chi
                     possiede una copia del gioco, e il lavoro lo fa gia'
                     plates.py extract: qui c'e' solo la chiamata, perche' le due
@@ -32,8 +32,8 @@ from bohloc import PROJ
 
 ZIP = "https://weatherfactory.biz/wp-content/uploads/2025/04/book_covers.zip"
 ART = os.path.join(PROJ, "art")
-ORIGINALS = os.path.join(ART, "originali")
-EXTRACTED = os.path.join(ART, "estratte")
+ORIGINALS = os.path.join(ART, "originals")
+EXTRACTED = os.path.join(ART, "extracted")
 CULTURES = ("en", "ru", "jp", "zh-hans")
 
 
@@ -42,7 +42,7 @@ def count_of(d):
 
 
 def originals():
-    """Scarica lo ZIP di Weather Factory e ne scompatta i PNG in art/originali/."""
+    """Scarica lo ZIP di Weather Factory e ne scompatta i PNG in art/originals/."""
     os.makedirs(ORIGINALS, exist_ok=True)
     fd, tmp = tempfile.mkstemp(suffix=".zip")
     os.close(fd)
@@ -65,7 +65,7 @@ def originals():
                 with z.open(entry) as src, open(os.path.join(ORIGINALS, name), "wb") as dst:
                     shutil.copyfileobj(src, dst)
                 n += 1
-        print(f"scompattati {n} PNG in art/originali/")
+        print(f"scompattati {n} PNG in art/originals/")
     finally:
         os.unlink(tmp)
 
@@ -78,11 +78,11 @@ def extracted():
 
 def state():
     n = count_of(ORIGINALS)
-    print(f"art/originali/       {n:>4} PNG   attesi 582"
+    print(f"art/originals/       {n:>4} PNG   attesi 582"
           f"{'' if n else '   -> python3 tools/sources.py originals'}")
     for c in CULTURES:
         n = count_of(os.path.join(EXTRACTED, c))
-        print(f"art/estratte/{c:<8}{n:>4} PNG"
+        print(f"art/extracted/{c:<8}{n:>4} PNG"
               f"{'' if n else '           -> python3 tools/sources.py extracted'}")
     print(f"art/plates/          {count_of(os.path.join(ART, 'plates')):>4} PNG   "
           f"le nostre, versionate: si rifanno con plates.py build")

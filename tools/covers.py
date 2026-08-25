@@ -8,7 +8,7 @@ colore si ricavano confrontando la lastra ripulita con l'originale: dove i due
 file differiscono c'era il testo, e il colore e' quello dei pixel dell'originale
 in quel punto. Basta non spostare, non ritagliare e non riscalare.
 
-    art/estratte/en/t.xxx.png originale inglese (copertina), t.xxx_.png (dorso)
+    art/extracted/en/t.xxx.png originale inglese (copertina), t.xxx_.png (dorso)
     art/plates/t.xxx.png      la stessa immagine con la scritta cancellata
     mod/BookOfHours_italian/images/books/loc_it/t.xxx.png    il risultato
 
@@ -35,8 +35,8 @@ from PIL import Image, ImageChops, ImageDraw, ImageFont, ImageFilter
 # Il riferimento dev'essere la stessa sorgente da cui nascono le lastre: gli
 # sprite estratti dal gioco. Lo ZIP pubblicato da Weather Factory differisce di
 # qualche pixel di antialiasing, abbastanza da falsare il confronto.
-ORIG = os.path.join(PROJ, "art", "estratte", "en")
-ORIG_ALT = os.path.join(PROJ, "art", "originali")
+ORIG = os.path.join(PROJ, "art", "extracted", "en")
+ORIG_ALT = os.path.join(PROJ, "art", "originals")
 PLATES = os.path.join(PROJ, "art", "plates")
 FONT = os.path.join(PROJ, "art", "font")
 # Le copertine finite si scrivono in un posto solo: il mod, che e' il prodotto ed

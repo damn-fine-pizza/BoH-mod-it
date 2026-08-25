@@ -77,14 +77,14 @@ def collect():
     r.append(("per le copertine", True, "art/plates/",
               f"{how_many} PNG" if how_many else None, "e' nel repository: git status"))
 
-    extracted_dir = os.path.join(PROJ, "art", "estratte", "en")
+    extracted_dir = os.path.join(PROJ, "art", "extracted", "en")
     how_many = len(os.listdir(extracted_dir)) if os.path.isdir(extracted_dir) else 0
-    r.append(("per le copertine", True, "art/estratte/en/",
+    r.append(("per le copertine", True, "art/extracted/en/",
               f"{how_many} PNG" if how_many else None, "python3 tools/sources.py extracted"))
 
-    orig = os.path.join(PROJ, "art", "originali")
+    orig = os.path.join(PROJ, "art", "originals")
     how_many = len(os.listdir(orig)) if os.path.isdir(orig) else 0
-    r.append(("per le copertine", False, "art/originali/",
+    r.append(("per le copertine", False, "art/originals/",
               f"{how_many} PNG" if how_many else None, "python3 tools/sources.py originals"))
 
     if b:

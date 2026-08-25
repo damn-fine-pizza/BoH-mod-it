@@ -34,7 +34,7 @@ GAME = os.path.dirname(os.path.dirname(CORE))          # .../bh_Data/StreamingAs
 BHDATA = os.path.join(os.path.dirname(os.path.dirname(GAME)), "bh_Data") \
     if "bh_Data" not in GAME else GAME
 ART = os.path.join(PROJ, "art")
-EXTRACTED = os.path.join(ART, "estratte")
+EXTRACTED = os.path.join(ART, "extracted")
 PLATES = os.path.join(ART, "plates")
 CULTURES = ("en", "ru", "jp", "zh-hans")
 

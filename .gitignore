@@ -12,14 +12,14 @@ translations/parts/scartati/*.json
 # le pagine di revisione: le riscrivono index.py e compare.py in un attimo,
 # e pesano quanto tutto il resto del repository messo insieme.
 art/*.html
-# art/originali/ e art/estratte/ sono la MATERIA PRIMA, e si rimettono in casa
+# art/originals/ e art/extracted/ sono la MATERIA PRIMA, e si rimettono in casa
 # con tools/sources.py: lo ZIP che Weather Factory pubblica per i modder, e gli
 # sprite del gioco installato. Fuori da git perche' sono grosse e si riscaricano,
 # non per una questione di diritti: art/plates/ invece ci sta, e NOTICE.md dice
 # con quale permesso. Gli zip di scorta non servono piu' da quando le plates sono
 # versionate.
-art/originali/
-art/estratte/
+art/originals/
+art/extracted/
 art/*.zip
 # le due copie di riferimento dentro loc/. Servono a chi traduce, restano sul
 # disco, e non si ripubblicano.

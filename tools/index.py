@@ -14,7 +14,7 @@ from plates import stains
 
 ART = os.path.join(PROJ, "art")
 PLATES = os.path.join(ART, "plates")
-ORIG = os.path.join(ART, "estratte", "en")
+ORIG = os.path.join(ART, "extracted", "en")
 MOD = os.path.join(PROJ, "mod", "BookOfHours_italian", "images", "books", "loc_it")
 
 STYLE = """body{background:#17161a;color:#e8e2d6;font:14px/1.5 system-ui,sans-serif;margin:0;padding:24px}

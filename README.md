@@ -58,7 +58,7 @@ art/                          il laboratorio delle copertine
   plates/                     le copertine con la scritta inglese cancellata
   font/                       EB Garamond (SIL OFL), il serif del gioco
   manifest.json               titolo inglese, titolo italiano e sigla, per libro
-  originali/ estratte/        arte di Weather Factory: fuori da git, le rimette
+  originals/ extracted/       arte di Weather Factory: fuori da git, le rimette
                               in casa tools/sources.py
 mod/BookOfHours_italian/      albero di lavoro del mod
   content/cultures/culture.json   la cultura 'it' e le 295 UI labels
@@ -112,7 +112,7 @@ sudo apt install fonts-urw-base35     # Debian, Ubuntu
 Vanno bene anche FreeSans Bold o Liberation Sans Bold: `bohloc.py` prova i tre
 in fila, e con la chiave `font_insegna` in `percorsi.json` se ne indica un altro.
 
-**3. La materia prima, che non sta in git.** `art/originali/` e `art/estratte/`
+**3. La materia prima, che non sta in git.** `art/originals/` e `art/extracted/`
 sono lo ZIP che Weather Factory pubblica per i modder e gli sprite del gioco
 installato: pesano, si riscaricano, e restano fuori. `art/plates/` invece **è
 versionata** — arriva col clone, e [`NOTICE.md`](NOTICE.md) dice con quale
