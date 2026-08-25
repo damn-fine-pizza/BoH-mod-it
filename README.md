@@ -73,7 +73,23 @@ tools/                        script di analisi (richiedono json5)
 
 ## Requisiti
 
-Tre cose, e una che le verifica tutte.
+**Serve BOOK OF HOURS installato**, e non per comodità. `bohloc.py` punta dentro
+`bhcontent/core`, cioè dentro il gioco, e da lì leggono quasi tutti gli
+strumenti:
+
+- `apply.py` percorre i file del gioco per sapere quali campi tradurre, quindi
+  **senza il gioco il mod non si rigenera dal dizionario** — e `pack.py` comincia
+  proprio da `apply.py`, quindi non si costruisce nemmeno il pacchetto;
+- `validate.py` e `glyphcheck.py` ci cercano `_core.txt`, l'atlante dei glifi del
+  font, per sapere quali caratteri il gioco sa disegnare;
+- `plates.py` tira le quattro localizzazioni ufficiali fuori da
+  `resources.assets` per ricostruire `art/lastre/`, che in git non c'è (vedi
+  [`NOTICE.md`](NOTICE.md)), e senza le lastre `covers.py` non rifà le copertine.
+
+Per **usare** la traduzione niente di tutto questo serve: si scarica dal
+Workshop e basta. I requisiti qui sotto riguardano chi ci lavora.
+
+Poi tre cose, e una che le verifica tutte.
 
 **1. Il venv e le dipendenze.** Quattro pacchetti: `json5` legge i JSON del
 gioco (virgole finali, a volte UTF-16), `Pillow` e `numpy` rifanno copertine e
@@ -96,18 +112,21 @@ sudo apt install fonts-urw-base35     # Debian, Ubuntu
 Vanno bene anche FreeSans Bold o Liberation Sans Bold: `bohloc.py` prova i tre
 in fila, e con la chiave `font_insegna` in `percorsi.json` se ne indica un altro.
 
-**3. Il materiale che non ridistribuiamo.** `art/originali/` e `art/estratte/`
-sono arte di Weather Factory e stanno fuori da git; le estratte servono anche a
-`covers.py`, che ricava da lì la zona della scritta cancellata.
+**3. Il materiale che non ridistribuiamo.** `art/originali/`, `art/estratte/` e
+`art/lastre/` sono arte di Weather Factory e stanno fuori da git. Si rimettono in
+casa in tre comandi, tutti su un gioco installato:
 
 ```sh
 python3 tools/sources.py originals   # lo ZIP che WF pubblica per i modder
-python3 tools/sources.py extracted    # gli sprite del gioco installato, via UnityPy
+python3 tools/sources.py extracted    # gli sprite del gioco, via UnityPy
+python3 tools/plates.py extract       # le quattro localizzazioni ufficiali
+python3 tools/plates.py build          # e da quelle, art/lastre/
 ```
 
-Il gioco installato serve per il secondo comando e per i confronti con
-l'originale; i percorsi stanno in `percorsi.json` (si copia
-`percorsi.esempio.json`).
+`plates.py build` non chiede niente a mano: ricava dove sta il testo confrontando
+inglese e russo, e per ogni pixel dentro quel riquadro sceglie fra le quattro
+lingue quella che lì ha il pannello pulito. Ci vuole qualche minuto. I percorsi
+del gioco stanno in `percorsi.json` (si copia `percorsi.esempio.json`).
 
 **La verifica.** Dice che cosa manca e come si rimedia, riga per riga:
 
