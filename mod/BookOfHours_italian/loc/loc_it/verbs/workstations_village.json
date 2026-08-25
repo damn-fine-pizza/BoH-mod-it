@@ -53,7 +53,7 @@
   {
    "id": "village.rectory.open",
    "label": "La Canonica",
-   "desc": "Le parole del Reverendo Timothy sempre corrono davanti a lui, ma i suoi pensieri sempre lo raggiungono alla fine.",
+   "desc": "Le parole del Reverendo Timothy corrono sempre davanti a lui, ma alla fine i suoi pensieri lo raggiungono sempre.",
    "slot": {
     "id": "w",
     "label": "Lo Studio",
@@ -110,7 +110,7 @@
   {
    "id": "village.rectory.open.friend",
    "label": "La Canonica",
-   "desc": "Le parole del Reverendo Timothy sempre corrono davanti a lui, ma i suoi pensieri sempre lo raggiungono.",
+   "desc": "Le parole del Reverendo Timothy corrono sempre davanti a lui, ma i suoi pensieri lo raggiungono sempre.",
    "slot": {
     "id": "w",
     "label": "Lo Studio",
