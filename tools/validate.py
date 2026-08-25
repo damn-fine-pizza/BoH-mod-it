@@ -1,7 +1,7 @@
 """Controlla il dizionario di traduzione: glossario, neutro, markup, glifi.
 
 Va eseguito dopo ogni blocco tradotto, non alla fine: a posteriori diventa un
-lavoro di bonifica, per blocco e' un cancello.
+lavoro di bonifica, per blocco e' un gate.
 
 I controlli stanno in analizza(), che lavora su una qualunque lista di coppie
 (inglese, italiano): li usa anche checkpart.py per far autocontrollare a chi

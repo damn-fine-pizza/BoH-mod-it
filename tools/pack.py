@@ -11,7 +11,7 @@ L'ordine dei passi non e' arbitrario:
 
  1. `apply.py`, perche' il pacchetto non possa mai essere piu' vecchio del
     dizionario. E' successo di pubblicare l'albero senza rigenerarlo.
- 2. I cancelli. Se uno non e' pulito il pacchetto non si costruisce: un mod
+ 2. I gates. Se uno non e' pulito il pacchetto non si costruisce: un mod
     rotto pubblicato lo scaricano in cento prima che uno se ne accorga.
  3. La copia, il synopsis, lo zip.
  4. Il resoconto: quanto pesa e che cosa e' rimasto fuori. E' il controllo che
@@ -29,7 +29,7 @@ Scriverlo a mano vuol dire dire al gioco di aggiornare un oggetto altrui.
 
 Uso:
     python3 tools/pack.py                 costruisce dist/ e lo zip
-    python3 tools/pack.py --all         aggiunge i cancelli lenti (terms.py)
+    python3 tools/pack.py --all         aggiunge i gates lenti (terms.py)
     python3 tools/pack.py --force         ricostruisce anche se lo zip esiste
     python3 tools/pack.py --no-zip     solo la cartella, per provarla in locale
                                           (non tocca lo zip, quindi non serve --force)
@@ -129,11 +129,11 @@ def main():
     if not run_tool("apply.py", [], "apply.py"):
         return 1
 
-    print("\n2. cancelli")
+    print("\n2. gates")
     checks = GATES + (SLOW if "--all" in sys.argv else [])
     failed = [s for s, a, d in checks if not run_tool(s, a, d)]
     if failed:
-        print(f"\n{len(failed)} cancello/i non pulito/i: non costruisco il pacchetto.")
+        print(f"\n{len(failed)} gate non pulito/i: non costruisco il pacchetto.")
         return 1
     if "--all" not in sys.argv:
         print("      (terms.py non e' stato lanciato: --all lo include)")

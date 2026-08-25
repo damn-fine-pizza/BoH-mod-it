@@ -1,6 +1,6 @@
 """validate.py e gli altri controlli che leggono il dizionario.
 
-validate.analyze e' il cancello piu' severo: markup, glossario, nomi propri,
+validate.analyze e' il gate piu' severo: markup, glossario, nomi propri,
 regola del neutro, ortotipografia, glifi. Qui gli si passano regole finte, cosi'
 i casi restano leggibili e i test non dipendono dal glossario vero, che cambia.
 """

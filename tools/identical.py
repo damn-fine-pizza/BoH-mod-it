@@ -231,7 +231,7 @@ def main():
             json.dump(rows, f, ensure_ascii=False, indent=1)
         print(f"\nscritti {len(rows)} testi in {out}")
 
-    # esito da cancello: i buchi sono un difetto, le scelte no
+    # esito da gate: i buchi sono un difetto, le scelte no
     return 1 if holes or [c for c in diverging if c["verdetto"].startswith("BUCO")] else 0
 
 

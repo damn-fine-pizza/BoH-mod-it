@@ -153,7 +153,7 @@ materiale di riferimento.
 python3 tools/pack.py --no-zip --install
 ```
 
-Rigenera i file dal dizionario, passa i cancelli — e **si ferma se uno non è
+Rigenera i file dal dizionario, passa i gates — e **si ferma se uno non è
 pulito** — costruisce `dist/BookOfHours_italian/` con solo ciò che il gioco
 legge, e lo copia nella cartella `mods` del gioco. Il
 `serapeum_catalogue_number.txt`, che il gioco scrive al primo caricamento sul
@@ -194,7 +194,7 @@ sassone contato come virgoletta aperta, il nome proprio scambiato per resa
 mancante, «dall'XI secolo» segnalato come elisione sbagliata, i tre libri con lo
 sprite quattro pixel piu' alto.
 
-## I cancelli
+## I gates
 
 Si rilanciano dopo ogni tornata, non alla fine. `tools/pack.py` li esegue tutti
 e **si rifiuta di costruire il pacchetto** se uno non è pulito.
@@ -276,7 +276,7 @@ prende il primo che esiste.
 | `split.py` | divide il da fare in slice, una per agente |
 | `context.py` | per ogni slice, il campione di registro e il glossario che le servono |
 | `join.py` | ricompone una slice dai salvataggi incrementali |
-| `checkpart.py` | controlla una slice prima che rientri: il cancello di chi traduce, incluse le rese rimaste in inglese |
+| `checkpart.py` | controlla una slice prima che rientri: il gate di chi traduce, incluse le rese rimaste in inglese |
 | `merge.py` | fonde le slice nel dizionario, intercettando orfane e collisioni |
 | `titles.py` | riporta i titoli dei libri alla sola forma italiana (ha sostituito `booktitles.py`) |
 | `validate.py` | controlla il dizionario: glossario, nomi propri, neutro, markup, glifi |
