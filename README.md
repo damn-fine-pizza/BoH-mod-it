@@ -65,7 +65,7 @@ mod/BookOfHours_italian/      albero di lavoro del mod
   loc/loc_it/                     i contenuti tradotti
   images/books/loc_it/            le copertine e i dorsi con le sigle italiane
   cover.png                       l'immagine della scheda, generata da tools/cover.py
-  loc/_origignal_from_core/       copia dell'originale inglese, per riferimento
+  loc/_origignal_from_core/       copia dell'originale inglese, per riferimento (fuori da git)
   loc/_mod_in_french/             il mod francese, per riferimento (fuori da git)
 dist/                         il pacchetto costruito da pack.py (fuori da git)
 tools/                        script di analisi (richiedono json5)

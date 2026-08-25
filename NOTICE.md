@@ -57,11 +57,11 @@ locmod è costruito così, ogni resa italiana è indicizzata dalla frase inglese
 che sostituisce, e senza quelle chiavi il mod non si può né costruire né
 correggere.
 
-`mod/BookOfHours_italian/loc/_origignal_from_core/` è invece una **copia di
-comodo** del testo del gioco, tenuta a portata di mano per i confronti. Nessuno
-strumento la legge — `apply.py` va a prendere i file dal gioco installato — e
-resta un punto su cui la clausola «all or a substantial part of our writing»
-merita attenzione.
+Le chiavi sono il minimo indispensabile. Una **copia integrale** del testo del
+gioco, invece, non ci sta: `loc/_origignal_from_core/` era una comodità per i
+confronti, nessuno strumento la leggeva — `apply.py` prende i file dal gioco
+installato — e la licenza su quel punto è esplicita, «you must not copy all or a
+substantial part of our writing». Resta sul disco di chi traduce, fuori da qui.
 
 ## La traduzione italiana: mia, ed è della comunità
 

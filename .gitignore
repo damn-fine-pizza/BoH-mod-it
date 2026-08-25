@@ -21,10 +21,17 @@ art/*.html
 art/originali/
 art/estratte/
 art/*.zip
-# il mod francese: e' lavoro di un altro modder, non nostro e non di Weather
-# Factory. Serve come riferimento a chi traduce e resta sul disco, ma non si
-# ripubblica. Si recupera da Nexus: nexusmods.com/bookofhours/mods/42
+# le due copie di riferimento dentro loc/. Servono a chi traduce, restano sul
+# disco, e non si ripubblicano.
+#  - il mod francese e' lavoro di un altro modder, che ne' la licenza di Weather
+#    Factory ne' la nostra coprono. Si recupera da nexusmods.com/bookofhours/mods/42
+#  - _origignal_from_core e' il testo inglese del gioco per intero, e la Sixth
+#    History Community Licence dice «you must not copy all or a substantial part
+#    of our writing». Nessuno strumento la legge - apply.py prende i file dal
+#    gioco installato - quindi tenerla in git era copiare per comodita'.
+#    Si rimette in casa con: cp -r "$BOH_GAME/core" ... oppure sources.py
 mod/BookOfHours_italian/loc/_mod_in_french/
+mod/BookOfHours_italian/loc/_origignal_from_core/
 dist/
 # dove sta il gioco su questo computer: dipende dall'installazione, non dal
 # progetto. Si copia percorsi.esempio.json, o si passa tutto dall'ambiente.
