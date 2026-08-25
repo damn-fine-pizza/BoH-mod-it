@@ -72,9 +72,9 @@ def collect():
     r.append(("per le copertine", True, "art/font/ (EB Garamond)",
               f"{len(cuts)} tagli" if len(cuts) >= 4 else None, "e' nel repository: git status"))
 
-    plates = os.path.join(PROJ, "art", "lastre")
+    plates = os.path.join(PROJ, "art", "plates")
     how_many = len([f for f in os.listdir(plates) if f.endswith(".png")]) if os.path.isdir(plates) else 0
-    r.append(("per le copertine", True, "art/lastre/",
+    r.append(("per le copertine", True, "art/plates/",
               f"{how_many} PNG" if how_many else None, "e' nel repository: git status"))
 
     extracted_dir = os.path.join(PROJ, "art", "estratte", "en")

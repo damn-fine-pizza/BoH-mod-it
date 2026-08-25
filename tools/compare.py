@@ -11,7 +11,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from bohloc import PROJ
 
 ART = os.path.join(PROJ, "art")
-PLATES = os.path.join(ART, "lastre")
+PLATES = os.path.join(ART, "plates")
 ORIG = os.path.join(ART, "estratte", "en")
 
 STYLE = """

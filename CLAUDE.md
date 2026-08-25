@@ -79,16 +79,20 @@ verificate dai buchi, e i buchi devono restare zero.
 ## Le copertine dei libri
 
 I titoli italiani cambiano le iniziali, quindi le sigle disegnate sui dorsi si
-rifanno. La catena è `art/lastre/` (le copertine con la scritta inglese
+rifanno. La catena è `art/plates/` (le copertine con la scritta inglese
 cancellata) più `art/manifest.json` (titolo e sigla) → `tools/covers.py` →
 `mod/BookOfHours_italian/images/books/loc_it/`, che è l'unico posto dove il
 gioco le cerca. Per cambiare una sigla si tocca il manifest e si rilancia
 `covers.py`, mai il PNG.
 
-`art/originali/` e `art/estratte/` **non stanno in git**: sono arte di Weather
-Factory, e le rimette in casa `tools/sources.py` — lo ZIP che pubblicano per i
-modder, e l'estrazione dal gioco installato. Servono a `plates.py` e a
-`covers.py`, quindi vanno recuperate prima di rifare le copertine.
+`art/plates/` **sta in git**, col permesso che Weather Factory dà a chi fa un
+locmod (`NOTICE.md` cita la fonte). Ci sta anche per una ragione pratica:
+quattordici plates sono ritoccate a mano e un `plates.py build` le peggiora —
+vedi `art/RITOCCHI-A-MANO.md`.
+
+`art/originali/` e `art/estratte/` non ci stanno: sono la materia prima, pesano,
+e le rimette in casa `tools/sources.py` — lo ZIP che WF pubblica per i modder e
+l'estrazione dal gioco installato. Servono solo per ricostruire le plates.
 
 ## Prima di cominciare
 

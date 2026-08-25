@@ -22,7 +22,7 @@ Pillow: usare il venv del progetto (.venv).
 
 Uso:
     python plates.py extract    tira fuori le quattro versioni (una volta sola)
-    python plates.py build      costruisce art/lastre/
+    python plates.py build      costruisce art/plates/
     python plates.py build t.blacknephrite
     python plates.py survey     quante lastre hanno ancora macchie
 """
@@ -35,7 +35,7 @@ BHDATA = os.path.join(os.path.dirname(os.path.dirname(GAME)), "bh_Data") \
     if "bh_Data" not in GAME else GAME
 ART = os.path.join(PROJ, "art")
 EXTRACTED = os.path.join(ART, "estratte")
-PLATES = os.path.join(ART, "lastre")
+PLATES = os.path.join(ART, "plates")
 CULTURES = ("en", "ru", "jp", "zh-hans")
 
 

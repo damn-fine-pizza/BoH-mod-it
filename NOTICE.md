@@ -1,48 +1,80 @@
 # Di chi è che cosa
 
-Questo repository mette insieme quattro cose con quattro proprietari diversi.
-Vale la pena tenerle distinte.
+Questo repository mette insieme cose con proprietari diversi. Vale la pena
+tenerle distinte, e dire per ognuna con quale permesso sta qui.
+
+## Il permesso di Weather Factory
+
+Non è una deduzione: è scritto nella loro pagina per chi fa un locmod.
+
+> «Weather Factory grants permission for use and customisation of these images
+> to create mods!»
+>
+> — [Book of Hours locmod creation reference](https://weatherfactory.biz/book-of-hours-locmod-creation-reference/)
+
+Il permesso vale per tre categorie di immagini, che sono esattamente quelle che
+questo mod tocca: le **immagini localizzate** (i cartelli dei luoghi, le insegne),
+le **copertine e i dorsi dei libri**, e le **wallart**.
+
+La cornice generale è la
+[Sixth History Community Licence](https://weatherfactory.biz/sixth-history-community-licence/),
+che consente di usare «fiction, characters, game mechanics and limited artwork»
+di Cultist Simulator, BOOK OF HOURS e The Lady Afterwards, di ridistribuire, e
+perfino di vendere sotto le 50.000 sterline l'anno. Vieta di rivendere un'opera
+d'arte **da sola** (una stampa, un poster), di usare i logo ufficiali dei giochi,
+e di copiare «all or a substantial part of our writing».
 
 ## Il codice: mio, MIT
 
 Gli strumenti in `tools/`, i test in `tests/` e la documentazione sono miei e
-stanno sotto licenza MIT. Il testo della licenza è in [`LICENSE`](LICENSE).
+stanno sotto licenza MIT. Il testo è in [`LICENSE`](LICENSE).
+
+## L'arte: di Weather Factory, usata col loro permesso
+
+`art/plates/` contiene le copertine dei libri con la scritta inglese cancellata.
+Non le disegna nessuno: `tools/plates.py` le compone confrontando le quattro
+localizzazioni ufficiali (inglese, russo, giapponese, cinese) e riempiendo la
+zona del testo con pixel presi dal pannello stesso. Da lì `tools/covers.py`
+reimprime la sigla italiana sul dorso, e il risultato è in
+`mod/BookOfHours_italian/images/`, che è quello che il gioco carica.
+
+Sono entrambe **customisation of these images to create mods**, cioè il caso
+che il permesso qui sopra descrive alla lettera. Lo ZIP che Weather Factory
+pubblica per i modder contiene le stesse copertine **con** la scritta inglese:
+cancellarla e rimetterne un'altra è l'uso previsto, non un aggiramento.
+
+Quattordici plates non si rigenerano, perché sono state ritoccate a mano dove la
+cancellatura automatica lasciava inchiostro o mangiava un pezzo di disegno.
+Quali sono, e quanto se ne discosta il risultato automatico, sta in
+[`art/RITOCCHI-A-MANO.md`](art/RITOCCHI-A-MANO.md). È il motivo per cui
+`art/plates/` è versionata e non solo rigenerabile.
 
 ## Il testo del gioco: di Weather Factory
 
-L'inglese originale di BOOK OF HOURS e del DLC HOUSE OF LIGHT è di Weather
-Factory Ltd. Qui compare due volte, e in entrambi i casi perché serve a
-tradurre: come chiave del dizionario in `translations/it.json`, e come
-riferimento in `mod/BookOfHours_italian/loc/`. Non è ridistribuito per altro.
+L'inglese originale di BOOK OF HOURS e del DLC HOUSE OF LIGHT è loro. Qui
+compare come **chiave** del dizionario in `translations/it.json`: il sistema di
+locmod è costruito così, ogni resa italiana è indicizzata dalla frase inglese
+che sostituisce, e senza quelle chiavi il mod non si può né costruire né
+correggere.
+
+`mod/BookOfHours_italian/loc/_origignal_from_core/` è invece una **copia di
+comodo** del testo del gioco, tenuta a portata di mano per i confronti. Nessuno
+strumento la legge — `apply.py` va a prendere i file dal gioco installato — e
+resta un punto su cui la clausola «all or a substantial part of our writing»
+merita attenzione.
 
 ## La traduzione italiana: mia, ed è della comunità
 
-La resa italiana è mia, ed è pubblicata come traduzione della comunità
-attraverso il sistema di locmod ufficiale di Weather Factory.
+La resa italiana è mia, e il mod è pubblicato sul Workshop col tag
+`Community Translation`. **Ufficiale è il sistema di locmod, non questa
+traduzione**: Weather Factory non l'ha commissionata, rivista né approvata.
 
-**Ufficiale è il sistema, non questa traduzione.** Weather Factory non l'ha
-commissionata, rivista né approvata. Sul Workshop il mod porta il tag
-`Community Translation`.
+## Il mod francese: di chi l'ha fatto
 
-## L'arte: di Weather Factory, in due forme diverse
-
-Le copertine dei libri in `mod/BookOfHours_italian/images/` sono le loro
-illustrazioni con le sigle italiane reimpresse sui dorsi. Sono lavoro derivato
-dalla loro arte, e stanno qui perché **sono il mod**: distribuire asset
-localizzati è esattamente ciò a cui serve il sistema di locmod.
-
-Le **lastre** intermedie, cioè le stesse illustrazioni con la scritta inglese
-cancellata, non stanno in questo repository e non ci devono stare. Una lastra è
-arte di Weather Factory in una forma più riutilizzabile della copertina finita:
-è una tela pulita. Chi lavora al progetto se le rigenera in locale con
-`python3 tools/plates.py build`, che le ricava da un gioco installato mettendo a
-confronto le quattro localizzazioni ufficiali.
-
-Con un'eccezione misurata: **quattordici lastre non si rigenerano**, perché nel
-2026 sono state ritoccate a mano dove la cancellatura automatica lasciava
-inchiostro o mangiava un pezzo di disegno. Quali sono, e quanto se ne discosta
-il risultato automatico, sta in [`art/LASTRE-A-MANO.md`](art/LASTRE-A-MANO.md) —
-che è un elenco di nomi, non arte, e per questo sta in git.
+`mod/BookOfHours_italian/loc/_mod_in_french/` serve come riferimento a chi
+traduce e sta sul disco di chi ci lavora, ma **non è in questo repository**: è
+lavoro di un altro modder, e né la licenza di Weather Factory né la mia lo
+coprono. Si recupera da [Nexus](https://www.nexusmods.com/bookofhours/mods/42).
 
 ## Il font: EB Garamond, OFL
 
@@ -51,5 +83,5 @@ accanto ai file, in [`art/font/OFL.txt`](art/font/OFL.txt).
 
 ---
 
-BOOK OF HOURS e HOUSE OF LIGHT sono marchi di Weather Factory Ltd. Questo
-progetto non è affiliato a Weather Factory.
+BOOK OF HOURS e HOUSE OF LIGHT sono di Weather Factory Ltd. Questo progetto non
+è affiliato a Weather Factory.

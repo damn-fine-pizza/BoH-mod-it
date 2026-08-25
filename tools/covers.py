@@ -9,7 +9,7 @@ file differiscono c'era il testo, e il colore e' quello dei pixel dell'originale
 in quel punto. Basta non spostare, non ritagliare e non riscalare.
 
     art/estratte/en/t.xxx.png originale inglese (copertina), t.xxx_.png (dorso)
-    art/lastre/t.xxx.png      la stessa immagine con la scritta cancellata
+    art/plates/t.xxx.png      la stessa immagine con la scritta cancellata
     mod/BookOfHours_italian/images/books/loc_it/t.xxx.png    il risultato
 
 Il percorso non e' images/books/ ma images/books/loc_it/, ed e' verificato nel
@@ -37,7 +37,7 @@ from PIL import Image, ImageChops, ImageDraw, ImageFont, ImageFilter
 # qualche pixel di antialiasing, abbastanza da falsare il confronto.
 ORIG = os.path.join(PROJ, "art", "estratte", "en")
 ORIG_ALT = os.path.join(PROJ, "art", "originali")
-PLATES = os.path.join(PROJ, "art", "lastre")
+PLATES = os.path.join(PROJ, "art", "plates")
 FONT = os.path.join(PROJ, "art", "font")
 # Le copertine finite si scrivono in un posto solo: il mod, che e' il prodotto ed
 # e' dove il gioco legge. La copia in art/italiano/ e' stata tolta perche' era

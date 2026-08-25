@@ -13,7 +13,7 @@ from bohloc import PROJ
 from plates import stains
 
 ART = os.path.join(PROJ, "art")
-PLATES = os.path.join(ART, "lastre")
+PLATES = os.path.join(ART, "plates")
 ORIG = os.path.join(ART, "estratte", "en")
 MOD = os.path.join(PROJ, "mod", "BookOfHours_italian", "images", "books", "loc_it")
 
@@ -111,7 +111,7 @@ def main():
         f'<p class="s">Solo i libri in cui almeno una lastra ha inchiostro residuo, dal peggiore in giu\'. '
         'Per copertina e dorso, nell\'ordine: originale inglese, lastra ripulita, e la versione con la '
         'sigla italiana gia\' scritta. Le lastre sono versionate: le versioni '
-        'precedenti stanno in <code>git log -- art/lastre/</code>.</p>'
+        'precedenti stanno in <code>git log -- art/plates/</code>.</p>'
         f'<nav><a href="indice.html">torna all\'indice completo ({len(books)})</a></nav>'
         f'<table>{header2}{lines2}</table>')
     print(f"  art/indice.html: {len(books)} libri")
