@@ -312,6 +312,13 @@ codice, immagini, file del gioco né percorsi di questo computer.
 | `sample.py` | campione affiancato CORE / IT / ES per ispezione visiva |
 | `donottranslate.py`, `refine.py` | termini lasciati in inglese da FR ed ES |
 
+## Diritti
+
+Il codice di `tools/` è MIT ([`LICENSE`](LICENSE)). Il testo e l'arte del gioco
+sono di Weather Factory; la traduzione italiana è mia, ed è una traduzione della
+comunità fatta col loro sistema di locmod. Chi è proprietario di che cosa, e
+perché le lastre non stanno in git, è spiegato in [`NOTICE.md`](NOTICE.md).
+
 ## Riferimenti
 
 - [Locmod creation reference](https://weatherfactory.biz/book-of-hours-locmod-creation-reference/) — Weather Factory
