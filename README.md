@@ -8,6 +8,27 @@ sistema ufficiale di Weather Factory. Il sistema è ufficiale; la traduzione no,
 di nuovo Claude. Le convenzioni di traduzione, le decisioni sui casi dubbi e gli
 undici controlli automatici sono lavoro umano. La scheda del mod lo dichiara.
 
+## Come si vede
+
+[![Il villaggio di Brancrug](screenshots/trad-ita01s.png)](screenshots/trad-ita01.png)
+
+Il nome del villaggio non è testo dell'interfaccia: è **dipinto dentro
+l'illustrazione**. È una delle quindici immagini ridisegnate, insieme
+all'insegna qui sotto.
+
+[![L'Ufficio Postale di Brancrug](screenshots/trad-ita02s.png)](screenshots/trad-ita02.png)
+
+L'insegna dell'Ufficio Postale. È anche l'esempio dell'avvertenza sulle partite
+già iniziate: se hai già visitato la postazione prima di installare il mod, il
+gioco l'ha salvata in inglese dentro la partita e lì resta.
+
+[![La Canonica, con la prosa in italiano](screenshots/trad-ita03s.png)](screenshots/trad-ita03.png)
+
+La prosa e le carte: «Le parole del Reverendo Timothy sempre corrono davanti a
+lui, ma i suoi pensieri sempre lo raggiungono alla fine.»
+
+Le immagini piccole aprono quelle a piena risoluzione.
+
 ## Stato
 
 L'interfaccia è tradotta e completa (295/295 label). **Anche i contenuti lo
