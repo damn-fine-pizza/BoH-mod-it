@@ -18,9 +18,9 @@ plates/     483 PNG: le copertine con la scritta inglese cancellata. Sono il
 font/        EB Garamond (SIL OFL), lo stesso serif del gioco. Ridistribuibile.
 manifest.json  per ogni libro: titolo inglese, titolo italiano, sigla proposta.
 
-originali/   582 PNG: le copertine e i dorsi inglesi come li pubblica Weather
+originals/  582 PNG: le copertine e i dorsi inglesi come li pubblica Weather
              Factory. NON MODIFICARE: servono da riferimento.
-estratte/    i quattro set di sprite del gioco (en, ru, jp, zh-hans), da cui
+extracted/   i quattro set di sprite del gioco (en, ru, jp, zh-hans), da cui
              plates.py ricava le lastre.
 ```
 
@@ -48,7 +48,7 @@ file deve restare delle stesse dimensioni dell'originale.
 Non serve annotare dove stava la scritta né di che colore era. `covers.py` li
 ricava confrontando la lastra con l'originale: dove i due file differiscono
 c'era il testo, e il colore è quello dei pixel dell'originale in quel punto. È
-anche il motivo per cui `originali/` non va toccata.
+anche il motivo per cui `originals/` non va toccata.
 
 **A macchina**: `python3 tools/covers.py` scrive la sigla italiana su ogni
 lastra ripulita e salva il risultato in

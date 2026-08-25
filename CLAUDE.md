@@ -90,7 +90,7 @@ locmod (`NOTICE.md` cita la fonte). Ci sta anche per una ragione pratica:
 quattordici plates sono ritoccate a mano e un `plates.py build` le peggiora —
 vedi `art/RITOCCHI-A-MANO.md`.
 
-`art/originali/` e `art/estratte/` non ci stanno: sono la materia prima, pesano,
+`art/originals/` e `art/extracted/` non ci stanno: sono la materia prima, pesano,
 e le rimette in casa `tools/sources.py` — lo ZIP che WF pubblica per i modder e
 l'estrazione dal gioco installato. Servono solo per ricostruire le plates.
 

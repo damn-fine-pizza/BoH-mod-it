@@ -12,7 +12,7 @@ from bohloc import PROJ
 
 ART = os.path.join(PROJ, "art")
 PLATES = os.path.join(ART, "plates")
-ORIG = os.path.join(ART, "estratte", "en")
+ORIG = os.path.join(ART, "extracted", "en")
 
 STYLE = """
 :root { color-scheme: dark; }
