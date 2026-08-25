@@ -1,0 +1,278 @@
+{
+ "elements": [
+  {
+   "id": "interest.edge",
+   "label": "Interessato a Lama",
+   "desc": "Qualcuno è interessato alla violenza. [La Lama è il principio della battaglia e della lotta.]"
+  },
+  {
+   "id": "interest.forge",
+   "label": "Interessato a Forgia",
+   "desc": "Qualcuno è interessato alle arti plasmatrici. [Il principio della Forgia trasforma e distrugge.]"
+  },
+  {
+   "id": "interest.grail",
+   "label": "Interessato a Graal",
+   "desc": "Qualcuno è interessato agli appetiti. [Il principio del Graal onora sia la nascita sia il banchetto.]"
+  },
+  {
+   "id": "interest.heart",
+   "label": "Interessato a Cuore",
+   "desc": "Qualcuno è interessato alla guarigione e alla protezione. [Il Cuore è il principio che continua e preserva.]"
+  },
+  {
+   "id": "interest.knock",
+   "label": "Interessato a Battente",
+   "desc": "Qualcuno è interessato all’apertura dei sigilli. [Il Battente è il principio che apre le porte e scuce le barriere.]"
+  },
+  {
+   "id": "interest.lantern",
+   "label": "Interessato a Lanterna",
+   "desc": "Qualcuno è interessato alle rivelazioni. [La Lanterna è il principio del luogo segreto talvolta chiamato la Casa del Sole, e della luce sopra di essa.]"
+  },
+  {
+   "id": "interest.moon",
+   "label": "Interessato a Luna",
+   "desc": "Qualcuno è interessato alle cose nascoste. [Il notturno, il dimenticato.]"
+  },
+  {
+   "id": "interest.moth",
+   "label": "Interessato a Falena",
+   "desc": "Qualcuno è interessato all’inatteso. [La Falena è il principio selvaggio e pericoloso del caos e dell’anelito.]"
+  },
+  {
+   "id": "interest.nectar",
+   "label": "Interessato a Nettare",
+   "desc": "Qualcuno è interessato alle radici delle cose. [Molto tempo fa, alcuni chiamavano questo principio Sangue.]"
+  },
+  {
+   "id": "interest.rose",
+   "label": "Interessato a Rosa",
+   "desc": "Qualcuno è interessato agli orizzonti. [Complessità, esplorazione, speranza.]"
+  },
+  {
+   "id": "interest.scale",
+   "label": "Interessato a Squama",
+   "desc": "Qualcuno è interessato alle antiche profondità. [Ciò che resta dei rozzi poteri della terra profonda.]"
+  },
+  {
+   "id": "interest.sky",
+   "label": "Interessato a Cielo",
+   "desc": "Qualcuno è interessato ai canti della terra e del cielo. [Gli antichi poteri del cielo sono spesso trascurati dagli impazienti.]"
+  },
+  {
+   "id": "interest.winter",
+   "label": "Interessato a Inverno",
+   "desc": "...? [L’Inverno è il principio del silenzio, delle fini, e di quelle cose che non sono del tutto morte.]"
+  },
+  {
+   "id": "v.comment",
+   "desc": "[v. mutations can be acquired in two ways: (1) visitor is magneted to House because they fit interests and/or (2) visitor successfully interacts with incident. This allows players to use WC to accelerate interaction]"
+  },
+  {
+   "id": "v.revolution",
+   "label": "Visitatore: la Vicenda della Rivoluzione della Soglia",
+   "desc": "Ha visitato la Hush House per una faccenda legata alla Rivoluzione della Soglia."
+  },
+  {
+   "id": "v.heist",
+   "label": "Visitatore: la Vicenda del Colpo all’Oriflamme",
+   "desc": "Ha visitato la Hush House per una faccenda legata al Colpo all’Oriflamme."
+  },
+  {
+   "id": "v.stalk",
+   "label": "Visitatore: la Vicenda dell’Amica Assente",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Amica Assente."
+  },
+  {
+   "id": "v.wound",
+   "label": "Visitatore: la Vicenda del Reverendo Aperto",
+   "desc": "Ha visitato la Hush House per una faccenda legata al Reverendo Aperto."
+  },
+  {
+   "id": "v.intrusion",
+   "label": "Visitatore: la Vicenda dell’Ospite Infinito",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Ospite Infinito."
+  },
+  {
+   "id": "v.pan",
+   "label": "Visitatore: la Vicenda del Dio nel Bosco",
+   "desc": "Ha visitato la Hush House per una faccenda legata al Dio nel Bosco."
+  },
+  {
+   "id": "v.curse",
+   "label": "Visitatore: la Vicenda della Fornitura di Grunewald",
+   "desc": "Ha visitato la Hush House per una faccenda legata alla Fornitura di Grunewald."
+  },
+  {
+   "id": "v.omen.dawn",
+   "label": "Visitatore: la Vicenda dell’Occhio Senza Catene",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Occhio Senza Catene."
+  },
+  {
+   "id": "v.omen.horizon",
+   "label": "Visitatore: la Vicenda dell’Altro Orizzonte",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Altro Orizzonte."
+  },
+  {
+   "id": "v.mob",
+   "label": "Visitatore: la Vicenda del Debito Perdonabile",
+   "desc": "Ha visitato la Hush House per una faccenda legata al Debito Perdonabile."
+  },
+  {
+   "id": "v.rising",
+   "label": "Visitatore: la Vicenda del Tempo dell’Ascesa",
+   "desc": "Ha visitato la Hush House per una faccenda legata al Tempo dell’Ascesa."
+  },
+  {
+   "id": "v.lost.find",
+   "label": "Visitatore: la Vicenda della Rosa Screziata",
+   "desc": "Ha visitato la Hush House per una faccenda legata alla Rosa Screziata."
+  },
+  {
+   "id": "v.project.ingenious",
+   "label": "Visitatore: la Vicenda dell’Allodola Incompiuta",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Allodola Incompiuta."
+  },
+  {
+   "id": "v.project.solar",
+   "label": "Visitatore: la Vicenda dell’Impresa Reale",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Impresa Reale."
+  },
+  {
+   "id": "v.mystical",
+   "label": "Visitatore: la Vicenda della Mistica Particolare",
+   "desc": "Ha visitato la Hush House per una faccenda legata alla Mistica Particolare."
+  },
+  {
+   "id": "v.opera.apollo",
+   "label": "Visitatore: la Vicenda di «Apollo e Marsia»",
+   "desc": "Ha visitato la Hush House per una faccenda legata a «Apollo e Marsia»."
+  },
+  {
+   "id": "v.opera.wings",
+   "label": "Visitatore: la Vicenda dell’Opera Invisibile",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Opera Invisibile."
+  },
+  {
+   "id": "v.box",
+   "label": "Visitatore: la Vicenda dello Scrigno del Messaggero",
+   "desc": "Ha visitato la Hush House per una faccenda legata allo Scrigno del Messaggero."
+  },
+  {
+   "id": "v.rite.renewal",
+   "label": "Visitatore: la Vicenda dell’Arazzo del Frate",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Arazzo del Frate."
+  },
+  {
+   "id": "v.rite.awakening",
+   "label": "Visitatore: la Vicenda del Santo di Sandalo",
+   "desc": "Ha visitato la Hush House per una faccenda legata al Santo di Sandalo."
+  },
+  {
+   "id": "v.hunt.changing",
+   "label": "Visitatore: la Vicenda della Seconda Pelle",
+   "desc": "Ha visitato la Hush House per una faccenda legata alla Seconda Pelle."
+  },
+  {
+   "id": "v.observe.scaly",
+   "label": "Visitatore: la Vicenda dell’Artiglio e delle Nuvole",
+   "desc": "Ha visitato la Hush House per una faccenda legata all’Artiglio e alle Nuvole."
+  },
+  {
+   "id": "v.numa.grail.a",
+   "label": "Visitatore: una Stagione della Pozione del Santuario",
+   "desc": "Ha visitato la Hush House in una stagione in cui la faccenda della Pozione del Santuario era predominante."
+  },
+  {
+   "id": "v.numa.grail.b",
+   "label": "Visitatore: una Faccenda dei Pochi del Banchetto",
+   "desc": "Ha visitato la Hush House in una stagione in cui la faccenda dei Pochi del Banchetto era predominante."
+  },
+  {
+   "id": "v.numa.moon.a",
+   "label": "Visitatore: una Faccenda della Memoria Contraffatta",
+   "desc": "Ha visitato la Hush House in una stagione in cui la faccenda della Memoria Contraffatta era predominante."
+  },
+  {
+   "id": "v.numa.moon.b",
+   "label": "Visitatore: una Faccenda del Gemello di Mezzanotte",
+   "desc": "Ha visitato la Hush House in una stagione in cui la faccenda del Gemello di Mezzanotte era predominante."
+  },
+  {
+   "id": "v.numa.winter.a",
+   "label": "Visitatore: una Faccenda del Gelo più Tenero",
+   "desc": "Ha visitato la Hush House in una stagione in cui la faccenda del Gelo più Tenero era predominante."
+  },
+  {
+   "id": "v.numa.wood",
+   "label": "Visitatore: una Faccenda di Nodo e Groviglio",
+   "desc": "Ha visitato la Hush House in una stagione in cui la faccenda del Nodo e del Groviglio era predominante."
+  },
+  {
+   "id": "relevance.edge",
+   "label": "Rilevanza: Lama",
+   "desc": "Rilevante per i visitatori interessati alla violenza."
+  },
+  {
+   "id": "relevance.forge",
+   "label": "Rilevanza: Forgia",
+   "desc": "Rilevante per i visitatori interessati alle arti plasmatrici."
+  },
+  {
+   "id": "relevance.grail",
+   "label": "Rilevanza: Graal",
+   "desc": "Rilevante per i visitatori interessati agli appetiti."
+  },
+  {
+   "id": "relevance.heart",
+   "label": "Rilevanza: Cuore",
+   "desc": "Rilevante per i visitatori interessati alla guarigione e alla protezione."
+  },
+  {
+   "id": "relevance.knock",
+   "label": "Rilevanza: Battente",
+   "desc": "Rilevante per i visitatori interessati all’apertura dei sigilli."
+  },
+  {
+   "id": "relevance.lantern",
+   "label": "Rilevanza: Lanterna",
+   "desc": "Rilevante per i visitatori interessati alle rivelazioni."
+  },
+  {
+   "id": "relevance.moon",
+   "label": "Rilevanza: Luna",
+   "desc": "Rilevante per i visitatori interessati alle cose nascoste."
+  },
+  {
+   "id": "relevance.moth",
+   "label": "Rilevanza: Falena",
+   "desc": "Rilevante per i visitatori interessati all’inatteso."
+  },
+  {
+   "id": "relevance.nectar",
+   "label": "Rilevanza: Nettare",
+   "desc": "Rilevante per i visitatori interessati alle radici delle cose."
+  },
+  {
+   "id": "relevance.rose",
+   "label": "Rilevanza: Rosa",
+   "desc": "Rilevante per i visitatori interessati agli orizzonti."
+  },
+  {
+   "id": "relevance.scale",
+   "label": "Rilevanza: Squama",
+   "desc": "Rilevante per i visitatori interessati alle antiche profondità."
+  },
+  {
+   "id": "relevance.sky",
+   "label": "Rilevanza: Cielo",
+   "desc": "Rilevante per i visitatori interessati ai canti della terra e del cielo."
+  },
+  {
+   "id": "relevance.winter",
+   "label": "Rilevanza: Inverno",
+   "desc": "Rilevante per i visitatori più tranquilli."
+  }
+ ]
+}

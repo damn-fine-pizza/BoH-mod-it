@@ -1,0 +1,34 @@
+{
+ "decks": [
+  {
+   "id": "d.chat.generic",
+   "label": "Conversazione Casuale",
+   "desc": "Allora, che cosa sai?"
+  },
+  {
+   "id": "d.chat.scholar",
+   "label": "Una Conversazione con uno Studioso",
+   "desc": "Allora, che cosa sai?"
+  },
+  {
+   "id": "d.chat.craftsman",
+   "label": "Una Conversazione con un Artigiano",
+   "desc": "Allora, che cosa sai?"
+  },
+  {
+   "id": "d.chat.traveller",
+   "label": "Una Conversazione con un Viaggiatore",
+   "desc": "Allora, che cosa sai?"
+  },
+  {
+   "id": "d.chat.denzil",
+   "label": "Una Conversazione con Denzil",
+   "desc": "Allora, che cosa sai?"
+  },
+  {
+   "id": "d.chat.sweetbones",
+   "label": "Conversazioni Indagatrici al Sweet Bones",
+   "desc": "Interrogherò gli abitanti di Brancrug..."
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "verbs": [
+  {
+   "id": "consider.setup",
+   "label": "Ricorda",
+   "desc": "Cosa mi rimane con cui lavorare?",
+   "slot": {
+    "id": "c",
+    "label": "Recupero",
+    "description": "[Qualsiasi cosa corrisponda agli Aspetti qui sotto può andare in questo slot.]"
+   }
+  },
+  {
+   "id": "consider",
+   "label": "Esamina",
+   "desc": "Esamina; apprezza; cataloga.",
+   "slot": {
+    "id": "consider",
+    "label": "Esamina",
+    "description": "C’è sempre altro da sapere."
+   }
+  },
+  {
+   "id": "talk.setup",
+   "label": "Aiuto?",
+   "desc": "Sopra di me, in cima alle scogliere, si trova il Villaggio di Brancrug. Non lo raggiungerò mai in questa tempesta, ma se solo riuscissi a raccogliere le forze che mi restano per trovare aiuto... [Interagire con uno slot evidenzierà le carte e gli oggetti che possono andarvi.]",
+   "slot": {
+    "id": "talk",
+    "description": "Cosa posso fare?"
+   }
+  },
+  {
+   "id": "talk",
+   "label": "Parla",
+   "desc": "Parla con visitatori, assistenti, sconosciuti, amici...",
+   "slot": {
+    "id": "talk",
+    "label": "Parla",
+    "description": "A qualcun altro, di solito."
+   }
+  },
+  {
+   "id": "terrain.unlock"
+  }
+ ]
+}

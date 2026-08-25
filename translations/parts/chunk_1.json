@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "Chor marker",
+  "dove": "elements/.cho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie resigning",
+  "dove": "elements/connie.resigning.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Currently, this just removes the entire coin. With some extra behaviour, it should give change.",
+  "dove": "elements/payment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ereb marker",
+  "dove": "elements/.ere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fet marker",
+  "dove": "elements/.fet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Freeze-dry a season while we go Numa",
+  "dove": "elements/season.pausing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Health marker",
+  "dove": "elements/.hea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mettle marker",
+  "dove": "elements/.met.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Phost marker",
+  "dove": "elements/.pho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shapt marker",
+  "dove": "elements/.sha.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill can host the Summon Echidna Technique",
+  "dove": "elements/host.technique.summon.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "To make sure we don't accidentally also satisfy a visitor we're retiring",
+  "dove": "elements/satisfying.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Trist marker",
+  "dove": "elements/.tri.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Turns an order form back into a delivery",
+  "dove": "elements/wrapping.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Used when opening a delivery to provoke spawns",
+  "dove": "elements/unwrapping.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Wist marker",
+  "dove": "elements/.wis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "e.g. convincing a visitor it's not worth their time. We can use it both for marking them for embarkation, and for dissatisfaction comments",
+  "dove": "elements/dissatisfying.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "e.g. helping out a visitor. We can use it both for marking them for embarkation, and for satisfaction comments",
+  "dove": "elements/satisfying.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "uqcat",
+  "dove": "elements/uqcat.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqchaq",
+  "dove": "elements/uqchaq.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqdog",
+  "dove": "elements/uqdog.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqnumen",
+  "dove": "elements/uqnumen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqterrence",
+  "dove": "elements/uqterrence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqtuppence",
+  "dove": "elements/uqtuppence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "wcma",
+  "dove": "elements/wc.markeraspect.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Anbary & Lapidary",
+  "dove": "elements/s.anbary.lapidary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Applebright Euphonies",
+  "dove": "elements/s.applebrighteuphonies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Auroral Contemplations",
+  "dove": "elements/s.auroralcontemplations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bells & Brazieries",
+  "dove": "elements/s.bells.brazieries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Coil & Chasm",
+  "dove": "elements/s.coil.chasm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cracktrack",
+  "dove": "elements/s.cracktrack.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Deep Mandaic",
+  "dove": "elements/s.mandaic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desires & Dissolutions",
+  "dove": "elements/s.desires.dissolutions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Disciplines of the Hammer",
+  "dove": "elements/s.disciplines.thehammer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Disciplines of the Scar",
+  "dove": "elements/s.disciplines.thescar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Door & Wall",
+  "dove": "elements/s.door.wall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Drums & Dances",
+  "dove": "elements/s.drums.dances.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Edicts Inviolable",
+  "dove": "elements/s.edictsinviolable.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Edicts Liminal",
+  "dove": "elements/s.edictsliminal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Edicts Martial",
+  "dove": "elements/s.edictsmartial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ericapaean",
+  "dove": "elements/s.ericapaean.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fucine",
+  "dove": "elements/s.fucine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Furs & Feathers",
+  "dove": "elements/s.furs.feathers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Glassblowing & Vesselcrafting",
+  "dove": "elements/s.glassblowing.vesselcrafting.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Glaziery & Lightsmithing",
+  "dove": "elements/s.glaziery.lightsmithing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Henavek",
+  "dove": "elements/s.henavek.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Herbs & Infusions",
+  "dove": "elements/s.herbs.infusions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hill & Hollow",
+  "dove": "elements/s.hill.hollow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Horns & Ivories",
+  "dove": "elements/s.horns.ivories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hyksos",
+  "dove": "elements/s.hyksos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inks of Containment",
+  "dove": "elements/s.inks.containment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inks of Power",
+  "dove": "elements/s.inks.power.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inks of Revelation",
+  "dove": "elements/s.inks.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Insects & Nectars",
+  "dove": "elements/s.insects.nectars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Killasimi",
+  "dove": "elements/s.killasimi.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Leaves & Thorns",
+  "dove": "elements/s.leaves.thorns.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lockworks & Clockworks",
+  "dove": "elements/s.lockworks.clockworks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Maggephene Mysteries",
+  "dove": "elements/s.maggephenemysteries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Meniscate Reflections",
+  "dove": "elements/s.meniscatereflections.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Orchids & Narcotics",
+  "dove": "elements/s.orchids.narcotics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ouranoscopy",
+  "dove": "elements/s.ouranoscopy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Path & Pilgrim",
+  "dove": "elements/s.path.pilgrim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pearl & Tide",
+  "dove": "elements/s.pearl.tide.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pentiments & Precursors",
+  "dove": "elements/s.pentiments.precursors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Preliminal Meter",
+  "dove": "elements/s.preliminalmeter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Purifications & Exaltations",
+  "dove": "elements/s.purifications.exaltations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Putrefactions & Calcinations",
+  "dove": "elements/s.putrefactions.calcinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pyroglyphics",
+  "dove": "elements/s.pyroglyphics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Quenchings & Quellings",
+  "dove": "elements/s.quenchings.quellings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ragged Crossroads",
+  "dove": "elements/s.raggedcrossroads.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ramsund",
+  "dove": "elements/s.ramsund.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Resurgences & Emergences",
+  "dove": "elements/s.resurgences.emergences.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rhyme & Remembrance",
+  "dove": "elements/s.rhyme.remembrance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rites of the Roots",
+  "dove": "elements/s.rites.theroots.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sabazine",
+  "dove": "elements/s.sabazine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sacra Limiae",
+  "dove": "elements/s.sacralimiae.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sacra Solis Invicti",
+  "dove": "elements/s.sacrasolisinvicti.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sand Stories",
+  "dove": "elements/s.sandstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sea Stories",
+  "dove": "elements/s.seastories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serpents & Venoms",
+  "dove": "elements/s.serpents.venoms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sharps",
+  "dove": "elements/s.sharps.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sickle & Eclipse",
+  "dove": "elements/s.sickle.eclipse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sights & Sensations",
+  "dove": "elements/s.sights.sensations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sky Stories",
+  "dove": "elements/s.skystories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Snow Stories",
+  "dove": "elements/s.snowstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Solutions & Separations",
+  "dove": "elements/s.solutions.separations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Spices & Savours",
+  "dove": "elements/s.spices.savours.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Stitching & Binding",
+  "dove": "elements/s.stitching.binding.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Stone Stories",
+  "dove": "elements/s.stonestories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Strings & Songs",
+  "dove": "elements/s.strings.songs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Surgeries & Exsanguinations",
+  "dove": "elements/s.surgeries.exsanguinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Great Signs and the Great Scars",
+  "dove": "elements/s.thegreatsignsandthegreatscars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Transformations & Liberations",
+  "dove": "elements/s.transformations.liberations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tridesma Hiera",
+  "dove": "elements/s.tridesmahiera.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vak",
+  "dove": "elements/s.vak.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Watchman's Paradoxes",
+  "dove": "elements/s.watchmansparadoxes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Weaving & Knotworking",
+  "dove": "elements/s.weaving.knotworking.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Wolf Stories",
+  "dove": "elements/s.wolfstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Break a window. What have you made? A way? A new light? A weapon?' - Natalia Brulleau",
+  "dove": "elements/r.glaziery.lightsmithing.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Breath is the temptation of the soul.' Pleasures and insights that the Church would call 'the Secrets', the Sisterhood 'the Mysteries', and the Bureau 'unsanctioned.'",
+  "dove": "elements/r.applebrighteuphonies.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Consider the Star. Hath each Star, its Seven Names. Observe that these Names are Never Shared.' - Thomas Dewulf",
+  "dove": "elements/r.ouranoscopy.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Death alters; Snow endures.' - Solomon Husher",
+  "dove": "elements/r.putrefactions.calcinations.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Hee hee hee hee hee hee hee hee hee. Hee.' - Valentine Dewulf",
+  "dove": "elements/r.weaving.knotworking.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Lightning is a little life, and jewels are its eyes.' - Eva Dewulf",
+  "dove": "elements/r.anbary.lapidary.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Nine modes, nine horizons': the subtle rhythms of words which open ways.",
+  "dove": "elements/r.preliminalmeter.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'No-one ever truly wants to be truly changed. Azoth and refulgin are justly feared. But no-one who has been changed would choose to go back.' - George Collers",
+  "dove": "elements/r.purifications.exaltations.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'One script that all the world must read, even the blind, and it is written in flames.' Matters of fireworks and their kin - lights, colours, infernal detonations.",
+  "dove": "elements/r.pyroglyphics.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'That amber preserves and is preserved by light; that to hatch is not to die; that the Sun.' There is a place behind the world called the Mansus. Deeds that would be impossible in the world are inevitable there. The Watchman, who knows all the ways of the Mansus, also knows how to make these deeds possible in the waking world.",
+  "dove": "elements/r.watchmansparadoxes.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The greater plagues may not be cured, only bound. The very greatest of all may only be entreated… and it is death to do so improperly.'",
+  "dove": "elements/r.maggephenemysteries.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The lock seeks its key, the wall seeks its door, and we who would pass learn at last that they are not our servants.' - Willem Harries",
+  "dove": "elements/r.door.wall.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The traveller is always returning. One who does not is no traveller.' - Arun Peel",
+  "dove": "elements/r.path.pilgrim.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'To know what will pass in what has passed.' The practitioners of this discipline see endings and beginnings, passages and transitions, in the same mode as dawn and sunset.",
+  "dove": "elements/r.auroralcontemplations.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'To understand why four paths were not taken.'",
+  "dove": "elements/r.raggedcrossroads.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'We are all vessels. Let us contain only what will grace us when the light shines through.' - Thirza Blake",
+  "dove": "elements/r.glassblowing.vesselcrafting.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Without is purified, within is erased.'",
+  "dove": "elements/r.meniscatereflections.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "A language of surpassing beauty and allusiveness, revealed through the ecstatic apprehensions of the Orphics, the Eleusinians, and the Sibyls of the Rhine. Ericapaean, these mystics claimed, allows the elaboration of hues, sensations and states of mind too subtle for grosser tongues.",
+  "dove": "elements/r.ericapaean.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "A people lived east of the lost lake Fucino. Horace warned that theirs was the land of witches. This was their language, called by some 'the dry tongue' and by others 'the tongue of witches'.",
+  "dove": "elements/r.fucine.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Arts which quench fires and bring solace to the troubled mind. 'A true adept is never troubled by fire, nor by fever, nor by restless spirit.' - Ambrose Westcott",
+  "dove": "elements/r.quenchings.quellings.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Beasts, birds, husbandry, harvest.",
+  "dove": "elements/r.furs.feathers.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Before gods arose from blood, before ever ape stood upright, this was the language heard in the House of the Sun.... 'I am Vak,' the Peacock Door boasted, 'both the tongue and the Goddess. I am the only entrance into secret light. I was worshipped before you upright apes, and I will be still when all of you are ugly ash. Listen, and I will prove it.'",
+  "dove": "elements/r.vak.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Birth and death are only directions. Between the two we find a crossroads.",
+  "dove": "elements/r.resurgences.emergences.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Feats and feits of forgotten things: the Carapace Cross, the line of Antaios, the world of a low red sun. 'Though much is taken, much abides.'",
+  "dove": "elements/r.pentiments.precursors.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Forge and Moth are less different than we think. Every change is in some way a release.",
+  "dove": "elements/r.transformations.liberations.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "If there is speech in Nowhere; if there is a language used by the Dead; if the House of the Moon has a native tongue; then it must be Killasimi. If none of this is true, it is still not a language to be spoken in daylight. Each word breathes woe. Read it, as they say, and weep.",
+  "dove": "elements/r.killasimi.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "In the Tracks of Beasts, in the Convolutions of his own Carapace, in Egg-vein and Shell-shadow, the Many-Eyed One found the Signs which can be History.",
+  "dove": "elements/r.cracktrack.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Kernewek Henavek; the oldest form of the language now called Cornish; or something even older.",
+  "dove": "elements/r.henavek.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Knives, dangers, and things out of place.",
+  "dove": "elements/r.sharps.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Nothing is entirely broken nor entirely whole - not so long as we have our needles.",
+  "dove": "elements/r.stitching.binding.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Of the earth, of its forms, of dwellers living and dead.",
+  "dove": "elements/r.stonestories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Of wandering tribes, watchful vagabonds, and winged devourers.",
+  "dove": "elements/r.sandstories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Of wind, woe, and winter.",
+  "dove": "elements/r.snowstories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Pluck it, powder it, mix it, warm it, drink it. But not that one.",
+  "dove": "elements/r.herbs.infusions.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Salt and silver; balance, necessity and rebuke.",
+  "dove": "elements/r.sickle.eclipse.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Some glyphs are too obscure to reside in any language, but too potent to remain unwritten.",
+  "dove": "elements/r.thegreatsignsandthegreatscars.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Sometimes we eat the wolf, and sometimes the wolf eats us.",
+  "dove": "elements/r.wolfstories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Subject: Anbary & Lapidary",
+  "dove": "elements/r.anbary.lapidary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Applebright Euphonies",
+  "dove": "elements/r.applebrighteuphonies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Auroral Contemplations",
+  "dove": "elements/r.auroralcontemplations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Bells & Brazieries",
+  "dove": "elements/r.bells.brazieries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Coil & Chasm",
+  "dove": "elements/r.coil.chasm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Cracktrack",
+  "dove": "elements/r.cracktrack.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Deep Mandaic",
+  "dove": "elements/r.mandaic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Desires & Dissolutions",
+  "dove": "elements/r.desires.dissolutions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Disciplines of the Hammer",
+  "dove": "elements/r.disciplines.thehammer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Disciplines of the Scar",
+  "dove": "elements/r.disciplines.thescar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Door & Wall",
+  "dove": "elements/r.door.wall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Drums & Dances",
+  "dove": "elements/r.drums.dances.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Edicts Inviolable",
+  "dove": "elements/r.edictsinviolable.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Edicts Liminal",
+  "dove": "elements/r.edictsliminal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Edicts Martial",
+  "dove": "elements/r.edictsmartial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Ericapaean",
+  "dove": "elements/r.ericapaean.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Fucine",
+  "dove": "elements/r.fucine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Furs & Feathers",
+  "dove": "elements/r.furs.feathers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Glassblowing & Vesselcrafting",
+  "dove": "elements/r.glassblowing.vesselcrafting.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Glaziery & Lightsmithing",
+  "dove": "elements/r.glaziery.lightsmithing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Henavek",
+  "dove": "elements/r.henavek.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Herbs & Infusions",
+  "dove": "elements/r.herbs.infusions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Hill & Hollow",
+  "dove": "elements/r.hill.hollow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Horns & Ivories",
+  "dove": "elements/r.horns.ivories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Hyksos",
+  "dove": "elements/r.hyksos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Inks of Containment",
+  "dove": "elements/r.inks.containment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Inks of Power",
+  "dove": "elements/r.inks.power.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Inks of Revelation",
+  "dove": "elements/r.inks.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Insects & Nectars",
+  "dove": "elements/r.insects.nectars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Killasimi",
+  "dove": "elements/r.killasimi.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Leaves & Thorns",
+  "dove": "elements/r.leaves.thorns.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Lockworks & Clockworks",
+  "dove": "elements/r.lockworks.clockworks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Maggephene Mysteries",
+  "dove": "elements/r.maggephenemysteries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Meniscate Reflections",
+  "dove": "elements/r.meniscatereflections.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Orchids & Narcotics",
+  "dove": "elements/r.orchids.narcotics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Ouranoscopy",
+  "dove": "elements/r.ouranoscopy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Path & Pilgrim",
+  "dove": "elements/r.path.pilgrim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Pearl & Tide",
+  "dove": "elements/r.pearl.tide.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Pentiments & Precursors",
+  "dove": "elements/r.pentiments.precursors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Preliminal Meter",
+  "dove": "elements/r.preliminalmeter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Purifications & Exaltations",
+  "dove": "elements/r.purifications.exaltations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Putrefactions & Calcinations",
+  "dove": "elements/r.putrefactions.calcinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Pyroglyphics",
+  "dove": "elements/r.pyroglyphics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Quenchings & Quellings",
+  "dove": "elements/r.quenchings.quellings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Ragged Crossroads",
+  "dove": "elements/r.raggedcrossroads.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Ramsund",
+  "dove": "elements/r.ramsund.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Resurgences & Emergences",
+  "dove": "elements/r.resurgences.emergences.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Rhyme & Remembrance",
+  "dove": "elements/r.rhyme.remembrance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Rites of the Roots",
+  "dove": "elements/r.rites.theroots.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sabazine",
+  "dove": "elements/r.sabazine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sacra Limiae",
+  "dove": "elements/r.sacralimiae.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sacra Solis Invicti",
+  "dove": "elements/r.sacrasolisinvicti.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sand Stories",
+  "dove": "elements/r.sandstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sea Stories",
+  "dove": "elements/r.seastories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Serpents & Venoms",
+  "dove": "elements/r.serpents.venoms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sharps",
+  "dove": "elements/r.sharps.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sickle & Eclipse",
+  "dove": "elements/r.sickle.eclipse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sights & Sensations",
+  "dove": "elements/r.sights.sensations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Sky Stories",
+  "dove": "elements/r.skystories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Snow Stories",
+  "dove": "elements/r.snowstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Solutions & Separations",
+  "dove": "elements/r.solutions.separations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Spices & Savours",
+  "dove": "elements/r.spices.savours.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Stitching & Binding",
+  "dove": "elements/r.stitching.binding.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Stone Stories",
+  "dove": "elements/r.stonestories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Strings & Songs",
+  "dove": "elements/r.strings.songs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Surgeries & Exsanguinations",
+  "dove": "elements/r.surgeries.exsanguinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: The Great Signs and the Great Scars",
+  "dove": "elements/r.thegreatsignsandthegreatscars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Transformations & Liberations",
+  "dove": "elements/r.transformations.liberations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Tridesma Hiera",
+  "dove": "elements/r.tridesmahiera.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Vak",
+  "dove": "elements/r.vak.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Watchman's Paradoxes",
+  "dove": "elements/r.watchmansparadoxes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Weaving & Knotworking",
+  "dove": "elements/r.weaving.knotworking.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject: Wolf Stories",
+  "dove": "elements/r.wolfstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Surgery entails the flow of blood, and the flow of blood entails purification, but the door also opens the other way.",
+  "dove": "elements/r.surgeries.exsanguinations.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "That resonance which lingers from the hammer's touch.",
+  "dove": "elements/r.bells.brazieries.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The Hive, the Nest, and the Chrysalis are the three secret principalities of the lesser world. Two of those three know the temptations of sweetness.",
+  "dove": "elements/r.insects.nectars.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The Hunter, the Way, and their memories.",
+  "dove": "elements/r.horns.ivories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The Shepherd-Kings brought this speech west from Canaan to use in their wards and snares. Had they never come to Egypt, they might never found a way to write it; given its addictive qualities, that might have been for the best.",
+  "dove": "elements/r.hyksos.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The boundaries between flesh, pearl, and pleasure are equally contingent.",
+  "dove": "elements/r.desires.dissolutions.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The depths of the sea, the waves upon the shore, and the memories of their withdrawal.",
+  "dove": "elements/r.pearl.tide.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The first musics were not made by mortals, but taken; from sand-coil and sea-thorn, from flint-heart and dragon-womb.",
+  "dove": "elements/r.drums.dances.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The harmonies of the lower skies are here reproduced.",
+  "dove": "elements/r.strings.songs.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The inks in which the Histories are preserved.",
+  "dove": "elements/r.inks.containment.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The inks in which the Histories are revealed.",
+  "dove": "elements/r.inks.revelation.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The inks in which the Histories are written.",
+  "dove": "elements/r.inks.power.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The little ways of little machines.",
+  "dove": "elements/r.lockworks.clockworks.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The most secret script of the innermost rites of the deep sects of the deep desert. The birth-tongue, it is claimed, of the Mother of Ants herself.",
+  "dove": "elements/r.mandaic.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The nine winds gossip, and sometimes we can listen.",
+  "dove": "elements/r.skystories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The oldest Hours are the gods-from-blood, who rose from sacrifice. That blood was always spilt on the roots, and the rites of its spilling are still remembered.",
+  "dove": "elements/r.rites.theroots.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The precepts of limitation and division; established by the enigmatic conclave of Hours sometimes called the Chancel.",
+  "dove": "elements/r.edictsliminal.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The precepts of occlusion and dissolution; their jealous enforcement is the nature of the Calyptra.",
+  "dove": "elements/r.edictsinviolable.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The precepts of struggle and conflict which drive the cosmic engine of change sometimes called the Corrivality.",
+  "dove": "elements/r.edictsmartial.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The rites of an order of immortals who have tried to remain apart. These rites touch on secrets of Hours of the Mansus - chiefly gods-who-were-flesh and gods-from-Light.",
+  "dove": "elements/r.sacralimiae.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The rites of the Church of the Unconquered Sun, and certain secrets of the gods-from-Light.",
+  "dove": "elements/r.sacrasolisinvicti.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The rites of the Sisterhood of the Triple Knot, which include certain mysteries of the dwellers in the Wood behind the World.",
+  "dove": "elements/r.tridesmahiera.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The sea has always been the widest road.",
+  "dove": "elements/r.seastories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The surgeon plies the knife and the mason plies the chisel. There are subtler tools than either.",
+  "dove": "elements/r.solutions.separations.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The ways of the hill-children and the gods-from-stone. Old paths, old secrets, the songs that still echo beneath the earth.",
+  "dove": "elements/r.hill.hollow.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "There is a History where Alexander defeated first the Great Knot of Sabazos, and then the King of Kings. There is another History where, instead, he learnt from them. How many more? If we curl our hands into the correct shapes, we may yet understand.",
+  "dove": "elements/r.sabazine.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "There is no greed without beauty.",
+  "dove": "elements/r.orchids.narcotics.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "There is no sacrifice without sustenance.",
+  "dove": "elements/r.spices.savours.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "There is no scent without sorrow.",
+  "dove": "elements/r.leaves.thorns.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "These are the Mother's neglected children, and we prefer that they pass not through any door.",
+  "dove": "elements/r.serpents.venoms.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "This language has been called <i>'mantiq al-tair'</i> and <i>'lenga aucel'</i> and <i>'the speech of birds'</i> and <i>'Ramsund'</i> and <i>'the hazelnut tongue'</i>, but it's a language of secrets, and its true name may never be used. The aviform Hours use it at their Roost, or so the story goes.",
+  "dove": "elements/r.ramsund.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "To master boundaries through their determination. The Scar marks wisdom and regrets; one is often born from the other.",
+  "dove": "elements/r.disciplines.thescar.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "To mix the rarest colours, a merciless detachment is required.",
+  "dove": "elements/r.sights.sensations.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "To purify and to combine the selves and the essences. The Hammer shapes gates and shatters doors, within us and without.",
+  "dove": "elements/r.disciplines.thehammer.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "To speak with the dead; to torment the living; to celebrate both.",
+  "dove": "elements/r.rhyme.remembrance.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Worms, Seven-Coils, dangerous places; how earthquakes are bound and why they are released.",
+  "dove": "elements/r.coil.chasm.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "''The Black Flower lies heavy, but the roots of the Watchman's Tree run deep, and they may not be hidden forever…'",
+  "dove": "elements/t.theblackbookofbrittany.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "''This is the first of the practices that the Imago and Matthias used, to begin their ascent to power. They have risen beyond our sight, but their flames may yet burn in the Malleary.'",
+  "dove": "elements/t.onmatthiasandtheamethystimagotransformation.xexts.reading.forge",
+  "ricorre": 1
+ },
+ {
+  "en": "'1776, the Third History: Louis declares the Masque of Masques, and forbids mention of the Great Writhing within the walls of the Palace of Versailles, although by this point the Worms are observed to move openly along the boulevards of Paris, sometimes even in daylight. The Army is redeployed to defend the Court. The Masque lasts one lunar month, and attracts several of the Long abroad in Western Europe at the time - fleeing the Worms, or hoping to take advantage of the desperate Louis, or seeking access to the sealed mirrors of the Palace - or just eager to attend the most inventive and desperate debauch of the century…'",
+  "dove": "elements/t.collectedhushhouselectures.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'A True and Accurate History of the Shadowless Kings, by Isaac of Karth.' Isaac describes the thousand-year ascendancy of the Shadowless Empire.",
+  "dove": "elements/t.isaacofkarthshistoryoftheshadowlesskings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'A history of a hundred wars', sewn into a design of metallic threads that pursues itself across every page...",
+  "dove": "elements/t.thewoundwounds.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'A million blazing fires in the belly engulf what has been swallowed by the multiform mouths.'",
+  "dove": "elements/t.thedevouredtantra.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "'A rite which changes is necessarily a rite which destroys. But a great change requires a destruction of savage extent.'",
+  "dove": "elements/t.theincandescenttantra.xexts.reading.forge",
+  "ricorre": 1
+ },
+ {
+  "en": "'All Histories braided into a golden loop; a shining ascent to Eternity. I had never imagined I could be afraid that there might be too few Truths. I could be wrong. But I'd like to leave at least one door ajar.'",
+  "dove": "elements/t.fromhistorytoeternity.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Art begins in Colours; grows Dappled; finally is either mostly Darkness, or mostly Light.'",
+  "dove": "elements/t.musgravessketches.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'As the Light passeth through a Prism into many Colours, so the Great Inks separateth into the Lesser Inks, and the Lesser Inks into Inks Minor…'",
+  "dove": "elements/t.itiswritten.xexts.reading.scale.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'As the Rose opens,' Dr Peel explains, 'Enduring Memory opens to the Horizon. This is a way of saying something that cannot otherwise be said, and is best only written with one's eyes firmly closed.' (Illopoly's gloss reads: Horizon-Sight synthesis method. Reverse procedure, with Knock, to elaborate Gervinite in the Chronsichord mode.)",
+  "dove": "elements/t.theradicalmeasureglossed.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "'As the Rose opens,' Dr Peel explains, 'an Enduring memory opens to the Horizon. This is a way of saying something that cannot otherwise be said, and is best only written with one's eyes firmly closed.'",
+  "dove": "elements/t.theradicalmeasure.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "'At noon the Sun moves like the beating of a wing. At sunset he sends the herald-child with her candle. At midnight, he sends the wind that extinguishes the candle-flame…'",
+  "dove": "elements/t.theturquoisehand.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'At these greater Feasts a Black Pig is always crowned as King before its Slaying. On this Occasion, its Heart was weighed in the Balance against a Knot of Feathers, and its Skin became a Cape for the Officiant. Its Flesh was left for the Crows, but I must confess my Interest was not in its Carcass but in the Perfumed Flesh of the Milliner laid fresh in the Earth.'",
+  "dove": "elements/t.raptintheking.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "'Brown' Joshua found this in a well in Hamath. There's an unlikely story that it was abandoned by Alexander during his retreat from Issus.",
+  "dove": "elements/t.theworlddoesnotweep.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'But we must use the knife,' said the Lion-Throned One, 'the noose, the flame, the Waking Word, against those who have passed the Three-Valved Door. And so none may pass: that is our Law, and the Law of the Sun.'",
+  "dove": "elements/t.theorchidtransfigurationsnoon.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "'Calyptra is said to make exceptions specifically for the libraries of the Watchman's Tree. Does it make those exceptions so the Hours can make use of them?'",
+  "dove": "elements/t.whatdoesnotbark.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'Calyptra, like the planet that occludes the star, or the Doylian dog that fails to bark, can be identified only by its absence. Even the name, I think, must be a mask…'",
+  "dove": "elements/t.whatdoesnotbark.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Certain knowledge cannot be learnt by any entity below the rank of Know - outside the covenant of the Watchman's Tree. The enforcement of this rule is Calyptra. The three who enforce it are Calyptra also. It is said that Janus elects Calyptra, that the Chancel is the judgement of Janus, that Janus is the wound in the Law...'",
+  "dove": "elements/t.thethreeandthethreestchiavimanuscript.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Darkness and Light divide the Course of Time, and until that Course is Run, Eternity remains History's Bed-Fellow. Sorrow then is Sense's final Solvent, and even a Tear, should it fall enow, might destroy a Stone…'",
+  "dove": "elements/t.thedebateofsevencups.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'Distillations of Spirit' recorded by an alchemist who identifies himself in the foreword as 'But Sir Thomas Browne's Reflexion.'",
+  "dove": "elements/t.thedebateofsevencups.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Do not return, O my Light, to the Sea. None of us can be what we were; that is History's curse. None of us know what we may be; that is History's gift. Your mothers, and the mothers of your mothers, are caught in Eternity's jaws like a robe-hem in a trap. It is the pearl that shines; but the tide that returns.'",
+  "dove": "elements/t.toapalelady.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'Donkerling' claims to be an imprisoned Long under the protection of 'the deepest power of the Sea'. It is prone to occasional bouts of raving about how, when it has its freedom, its patron will drown the Isle. Ernestine renders most of these long speeches as '...', but is very interested in what it can tell her about the circumstances of shipwrecks; there are hints that she may have been planning a salvage expedition.",
+  "dove": "elements/t.theshadowinthestair.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "'Each century in the Mansus is a great feasting-hall. In each ninety-ninth year, the hall falls silent; the Elegiast sits alone at the feast.'",
+  "dove": "elements/t.thegrandpassageofthehours.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Elagabalus found his way to the White Door at last, thankfully. Speech can't pass the White Door, and honestly, Elagabalus never had anything very interesting to say. I tried to follow in his footsteps, but I never learnt enough of the White. I suppose I'm thankful for that, too. But here's what I do know...'",
+  "dove": "elements/t.travellingatnightvol2.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'Eternity cannot be escaped; but in History, it may be delayed,' the Serenity explains. 'The gods-who-were-flesh, by their nature, are a surrender to Eternity.'",
+  "dove": "elements/t.anechoofsilence.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Even the Sunne can be divided, though it require the Forge of Dayes for its division.'",
+  "dove": "elements/t.thesixlettersonnecessity.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'Every timber has its knots, the straight and the crooked both. Every weave is more absence than thread. You can't keep Nowhere out any more than you can keep Somewhere in…'",
+  "dove": "elements/t.snareofthetreecollectedproverbsofauntmopsy.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'FIFTY-EIGHT. That they did claim inheritance of the traditions of the House of Lethe, but that they have DISREGARDED both its most sacred and its most beautiful ceremonies where they are not found CONVENIENT. FIFTY-NINE...'",
+  "dove": "elements/t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'For a long long time the Blackbone pondered her next move, until the Moon dared to peep from behind a cloud, and the Prince completed the composition of his third sestina. But the Lady met the blind gaze of its open pores, waiting for the tide…'",
+  "dove": "elements/t.thecrossingtonoon.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Here is your paint,' whispered the Wolf to the Pale Girl. 'Here is your knife-for-scraping. And here is your face.'",
+  "dove": "elements/t.achildstreasuryofgoldenafternoons.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "'Humankind hid itself from the Glory's light in the Roots of the Watchman's Tree. But for every chink we stuffed with cloth and hair, we opened another, and the light crept in. Until we looked below, into Nowhere, and the Eye of the Mare-in-the-Tree winked Red...'",
+  "dove": "elements/t.greenjaspertablet.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ichor Auroral' can be brewed into an <i>encaustum terminale</i> associated with the Second History, using Inks of Revelation techniques with Rose aspect. The author warns that this is exceptionally difficult, since these techniques aren't aligned with Rose. 'But that's why I'm hoping the door will stay ajar, even once all the others are closed. I wish you luck.'",
+  "dove": "elements/t.fromhistorytoeternity.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'If Janus were an Hour, Cardea might be counted among his Names, but the world has never turned in such a manner, and so she is not…'",
+  "dove": "elements/t.cardeasdelights.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'If Janus were an Hour, Forculus might be counted among his Names, but that door remains closed, and so Forculus is not…'",
+  "dove": "elements/t.therapturesofforculus.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'If Janus were an Hour, Limentinus might be counted among his Names, but Janus has never passed that threshold, and so Limentinus is not…'",
+  "dove": "elements/t.theelationsoflimentinus.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'If Light were not silent, it would be Music. If Music were visible, it would be Light…'",
+  "dove": "elements/t.sunriseawakenings.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'If we should flourish not, let our enemies flourish, in that time when we are no more…'",
+  "dove": "elements/t.malachitesupplications.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'If we should pass not, let our enemies pass, unto their deserved end…'",
+  "dove": "elements/t.ascitesupplications.xexts.reading.scale.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'If we should remember not, let our children remember, in their redmost dreams…'",
+  "dove": "elements/t.calicitesupplications.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'If you are dead but 'uplifted by green', that's the Ring-Yew's blessing. (The Crowned Growth offers a similar but nastier benefit.) This is how Burgeoning Risen come about, but there are different degrees of sentience and freedom depending on which growths are involved. The consciousness of one 'uplifted by green' is always greatly altered, though - they never really seem like the same person. They may have dregs of their original souls, but these are often replaced by something else. The upshot, invariably, is that they need to be set firmly on fire.'",
+  "dove": "elements/t.anexorcistsfieldmanual.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'In Persia <i>taxus baccata</i>, the yew, is called <i>sorkhdar</i>, which is 'the red tree'. There they had long understood the Grail-Root. In later times, the Great King of Pontus had bee-hives set in the branches of the oldest of the female trees….'",
+  "dove": "elements/t.deratioquercuum.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'In her second visit, she came as Laughingthrush. Her heart was bright within, her beak was ripe with song, but in the first moment her feathers touched the city stones, the laughter began….'",
+  "dove": "elements/t.bookofmiah.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'In that battle between the Imperishable Legions and the Leashed Flame, the Legions will perish and the Flame will be unleashed.'",
+  "dove": "elements/t.howtheendwillbegin.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "'In the cradle of the roots, Matthias and the Imago left their names, and though their names were lost, they found their Nameday Riddles. This we recall in Solution and Separation, so that in the presence of the Moth our memories may become our futures. Do this wisely, in memory of the Name and the Long who gave up their past that they might be together forgotten.'",
+  "dove": "elements/t.onmatthiasandtheamethystimagoloss.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'Inventori Lucis Soli Invicto Nuntio' reads the dedication - loosely translatable as 'I am the herald of the Sun Unconquerable, Light's Contriver'. This is a variation on the more usual 'invicto augusto', the declaration which united the eastern and western traditions of the Church Solar.",
+  "dove": "elements/t.gospelofnicodemus.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is essential however to permit no drop of the ink thereby obtained to enter any portal of the body, even a break in the barrier of the skin. Should any fragment of the Worm remain viable, it might enter thereby, and the Hunt's ultimate conclusion be melancholy indeed...'",
+  "dove": "elements/t.oblationsiniron.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is essential that these Protections be completed every fourth year, to defend against the entry of the Worms and against the avidity of the Wave and the Wound.' In the current History at least, there is no indication that these Protections have been performed regularly for at least the last thousand years.",
+  "dove": "elements/t.commandmentsforthepreservationofallthatexists.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is not now widely believed that the sons and daughters of the Red Rose were forged into immortals. Understandably: they are, after all, now all long dead. The Forge itself devoured the greatest among them.'",
+  "dove": "elements/t.thewaroftheroads14511551.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is widely known that the Sister was rich and the Witch poor. It is widely known that the Witch loved the Sister first. It is not widely known that the Witch was first employed to teach the Sister the arts of embroidery…'",
+  "dove": "elements/t.twowombsoneheart.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'It was Hunger that made Worms of Dragons - when they consumed the corpses of Hours. Without the savour-secret of the Carapace, their hunger would not have been sufficient…'",
+  "dove": "elements/t.thewritingonthewall.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'It was common in that time to speak of the Division of the Sun; by which Contemporaries understood, the irruption of Barbarian Forces, and of their uncouth Gods.'",
+  "dove": "elements/t.wainscothistories.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'It's always possible to be deader,' Kalle states. 'The Watchman goes before; none but seven may go after.' 'Yet surely we are born to the Glory as the sparks fly upwards.'",
+  "dove": "elements/t.theskythesoul.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'Janus has, they say, not one face but two. To which I reply: why only one? Why only two? Hersault and Coseley - according to Thomas Love Denman - once agreed that Janus was 'all the gods and none'. But later, Hersault described him as 'all the gods', and Coseley favoured 'none'. Denman was a sinister dilettante, but this rings true of them both.'",
+  "dove": "elements/t.thelocksmithsdreamstolenreflections.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'Janus is the Gatekeeper, the twin-god, the god that wounds, the presager of changes, the sun, the moon. So we identify him with the Watchman, the Twins, with the Mother, with the Forge, with the Meniscate and the Madrugad. He cannot be all these. Can he? The flamines knew the Church, knew the Dry Land, knew Elagabalus. Is he then synthesis? Or is he something else? In Gallaecia they called him Ianus Lamius, but the Obliviates are notorious for their slanders.'",
+  "dove": "elements/t.thelocksmithsdreamstolenreflections.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lionel' suggests that the 'house of iron and fire' so created would include 'hollows of air and night', which would serve as a final hiding-place if the larger sanctuary were uncovered - though, he says, they could be easily revealed with invocations of the Disciplines either of Scar or of Hammer.",
+  "dove": "elements/t.thecarminepetalunexpurgated.xexts.reading.forge",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lionel' suggests that the Disciplines of Scar and Hammer together would be necessary to create such a prison - but that either on its own would serve to release its occupant.",
+  "dove": "elements/t.thecarminepetalrevised.xexts.reading.forge",
+  "ricorre": 1
+ },
+ {
+  "en": "'Long have the two birds pursued my blood, yet one is no Crow, yet it is darker. Long has the Wolf rolled itself in gold like a clovered cow, until its slobberings stain our thoughts…'",
+  "dove": "elements/t.atruehistoryofvalentinedewulf.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'Love will not be the cause of the Sun's death, but rather envy. Envy will not be the cause of the Sun's death, but rather thirst. Thirst shall not be the cause of his death, but curiosity. Curiosity shall not be his end; rather will it be love.'",
+  "dove": "elements/t.thebookoftheextinguishedheart.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "'Many Know espouse Wormish sympathies. Let a hundred Histories flourish! Tear down the tyranny of eternity! To grow Long is, usually, to cast off these sympathies. There would be no immortality without Eternity, and Eternity, we often seem to decide, is only tyranny as long as <i>we</i> are not eternal.'",
+  "dove": "elements/t.collectedhushhouselectures.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'Marinette, the Ligeian: so young, so hungry. All her children cannot slake her thirst. When Moth rose, another held the Flaying Key, but at the Grail's bidding did Marinette consume that she.'",
+  "dove": "elements/t.nixabolix.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'Matthias defied us to hunt the Names of the Moth in the Wood, to populate his pinned collection. The Amethyst Imago had dallied with the Witch-and-Sister, but she'd returned to the Wood to plead the Moth's pardon. The Moth, as a whim or a penance, sent her out to lure the Long to a slough of nightmares.'",
+  "dove": "elements/t.onmatthiasandtheamethystimagopursuit.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Matthias loved the Imago. (Did he? Can Long love, or has that organ of their soul desiccated beyond repair?) The Imago loved Matthias. (Did she? or did she only enact a whim?) He pursued her through the Wood, but at the last she turned aside from the nightmare-slough, and they lay together where the Bounds grow bright. So they learnt the Grail's pleasures, and this is the lore they won.'",
+  "dove": "elements/t.onmatthiasandtheamethystimagopursuit.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "'Medusa's Riddle, then, I choose to render as 'What is Not Seen?' There is another riddle, one I have heard rendered as 'What may be Lost?' I will delineate some historic attempts to answer it- these are in themselves, in some sense, sacrifices - '",
+  "dove": "elements/t.thevienneseconundra.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'Medusa's Riddle: 'What Is Not Seen?' She might be the oldest of her kind still living; and she is dead. Once she held the key to the door in the Wood; and though perhaps she lost it, she holds it still…",
+  "dove": "elements/t.medusancommentaries.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mistress White-Flower' urges a 'History of Uzult', where the Second Dawn may come to pass. She identifies Xanthotic Essence as Uzult's predecessor; she explains that with sufficient Lantern, Bitterblack Salts can be Purified to Xanthotic Essence, and Iotic Essence can be Exalted to Xanthotic Essence.",
+  "dove": "elements/t.thealloyofthewhiterose.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'Naenia is the Elegiast's Name, but she has always stood high in the Sun-in-Rags' favour; and she offers her consolations also to those Long who have taken him as a patron...'",
+  "dove": "elements/t.naeniansketches.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Nectar, children mine - cast my words into a sufficiency of Nectar and watch the pyrus pyrissimus burst from wood. Gather more Nectar! Wring it from the trees and earth! And our pyrissimus gushes forth the Sacrament! You will thank me.'",
+  "dove": "elements/t.theberrybook.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "'No, these doors shouldn't be recorded, but if we had only recorded things before we'd had to leave the Fifth History, we would be in a much better state. So here I am writing it down, and if you don't like it you can sanction me.'",
+  "dove": "elements/t.amanualfordeparture.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Not all the Dead enter the Mansus by the Winter Door. Not all the Dead enter the Mansus at all.'",
+  "dove": "elements/t.theroseofhypatia.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'Now she walks behind the Watchman, but did she always? She has many of the characteristics of a Maid-in-the-Mirror, after all. In older texts she has been called Caelia the Elagabaline. Perhaps she was his daughter? Perhaps Tryphon's sister? Perhaps, like the Watchman himself, she is like a shadow cast by two candles.'",
+  "dove": "elements/t.sunsetceliaandtheendofdays.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Once in the Wood, we call a visit. Twice in the Wood, we call a journey. Thrice, we call coming home.'",
+  "dove": "elements/t.snareofthetreecollectedproverbsofauntmopsy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Peel' was numbered among the Great Hooded Princes, but it breaks with its brethren and followed the Thunderskin in the endless dance.",
+  "dove": "elements/t.theflayedtantra.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'SEVENTY-ONE. The Glassfinger Toxin is no mere assassin's convenience for the Obliv-IDIOTS to confine to the disposal of their enemies. It has higher uses! Certainly it is a great matter of Winter, but I have already outlined the technique by which it may be fitted for its ultimate destiny...'",
+  "dove": "elements/t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "'Seek in dreams; seek the Mansus. The Third Mark can be achieved only when one has passed the Stag Door. One must pass the Wood. One must rise to the White Door. The Stag Door awaits the light-bearer, in the sight of Ghirbi.'",
+  "dove": "elements/t.theroseofwaznei.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'Set down with reverence before the Intercalate, by one who understood what would come to pass…'",
+  "dove": "elements/t.shuriticbookofsuns.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Seven were the wounds of His body, seven the doors of the House. Seven the lesser aspects of the Hours, and Knock the aspect above all, for the Mother of Ants is the Mother of Salvation.'",
+  "dove": "elements/t.thegospelofzacchaeus.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Since the Sun and the Forge had both bestowed their Favour, one could not remove it without the other - or would not. But neither could the Alloy be renewed by any Power in the Mansus. So the King looked beyond the Mansus - beyond the Bounds…'",
+  "dove": "elements/t.plantagenetmysteries.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'So the Ligeians hold the keys. I had thought the Ligeians only - 'only' - old and powerful transgressors of the Crime of the Sky. But I begin to understand that the Crime of the Sky is more even than it seems. And why a Twin, who unites what is not to be divided, might accept a Ligeian as her Name...'",
+  "dove": "elements/t.thelocksmithsdreamincursus.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'Speech is a Wound; Silence is Silver. There is no Silver Door, nor can there be, even in the Moon's House…'",
+  "dove": "elements/t.thefallencross.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sweeter than wine, than nectar is the blood of my brother. We have raised up armies one against another, we have sated the Blackbone with the sinking of our ships…'",
+  "dove": "elements/t.theascendant.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'That which does not cease, is not ceased.'",
+  "dove": "elements/t.theceaselesstantra.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Centipede always found her way into the dark places. When she was punished for it, she reacted badly, in the Mansus as in Miah.'",
+  "dove": "elements/t.thebookofthecentipede.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Dark Gentleman' is the only, and rather grandiosely, identified author of this often-copied work.",
+  "dove": "elements/t.acatalogueofunchartedpleasures.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Dead usually avoid Light - as the most immediate manifestation of Eternity, which has no place for death. However those Dead 'uplifted by gold', that is to say touched by an actinic theoplasma, happily bod about in daylight and are perhaps strongest at noon...'",
+  "dove": "elements/t.anexorcistsfieldmanual.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Glory is a question, and the Moth always answers 'Yes'.'",
+  "dove": "elements/t.dehorisbook1.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Great Hooded Princes call their library the Tomb of Lies, and this has given rise to a foolish tradition that the Princes are habitual liars. Of course, in fact, Truth flourishes when Lies are slain. On the other hand, the Princes do not say 'Knowledge is Power', but rather, 'Power is Knowledge.'",
+  "dove": "elements/t.onehundredandeight.xexts.reading.scale.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Herald may never arrive at the City Unbuilt. The City may never be built without the Herald's Message…'",
+  "dove": "elements/t.themessengerawaitingherdestination.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Hours have little time for poetry,' Dr Peel avers, 'but they have a tremendous amount of time for poets.'",
+  "dove": "elements/t.theradicalmeasure.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Hours have little time for poetry,' Dr Peel avers, 'but they have a tremendous amount of time for poets.' (Illopoly has added a note suggesting this should in fact be 'the most tremendous time with poets'.)",
+  "dove": "elements/t.theradicalmeasureglossed.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Law goes back all the way to Stone: the Keys cannot be held or owned. This had, I believe, the unexpected consequence that those outside the law may hold and own them. But even they cannot keep them. And of course a Key is no more physical than a spirit. But a spirit may be housed in a body, and I have touched a Key with my own hands.'",
+  "dove": "elements/t.thelocksmithsdreamincursus.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Lionsmith makes monsters to defeat the Tribune; but the scars of the Tribune are each a weapon.'",
+  "dove": "elements/t.dehorisbook2.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Mansus was different before the first god came from Light, but never doubt it existed, even then.'",
+  "dove": "elements/t.theoriginsofhours.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Mansus, as Ys, lacks walls; Ys and the Mansus have both their gates, and there may be no gate without a wall. Thus the paradox resolves, as all those who walk in dream will learn. But the Wood has neither gate nor wall, and so it is the Wood whose roots may creep after us into the hours of our waking.'",
+  "dove": "elements/t.analmanacofentrances.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Proverbial Footloose' gathers travellers in a wood, and leads them through, but abandons them part-way. They find themselves beset by 'glorious monsters'.",
+  "dove": "elements/t.theserenityoftheblackwood.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Red Flower lies heavy, but the roots of the Watchman's Tree are constant…''",
+  "dove": "elements/t.theredbookofbrittany.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The River runs through the sands out of myth and into legend. The Painted River runs the other way. One is barred to the Centipede now, but she finds ways back in, sometimes.'",
+  "dove": "elements/t.thebookofthecentipede.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Sea does not regret the tide,' Fekri writes, 'for when the tide has passed, it leaves its traces on the sand; which traces are the Sea's memory.'",
+  "dove": "elements/t.theseadoesnotregret.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Seventh Shard we call, informally, the Invincible Audacity, which is struck from the Winning Move as the Winning Move is struck from a memory - with the application of sufficient Edge.'",
+  "dove": "elements/t.sevenshards.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Sister-and-Witch is Cruciate, but the Witch-and-Sister is not. Even those powers that demand a conjunction are not always conjoined. When the Sister is Nowhere, does this mean Nowhere sits <i>in crucem</i>?'",
+  "dove": "elements/t.thethreeandthethreevaticanmanuscript.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Sixth Initiate is Priest and Key, Gate and Church. He shall cross the sea and open the tide. He shall not be the Eleventh, yet shall there be Seven between them. In the first Year of his Time, the Flower-Door is opened…'",
+  "dove": "elements/t.theroadtojanus.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Speeth' - perhaps a single adept, perhaps a council of scholars - hypothesises secret events from limited evidence with persuasive accuracy.",
+  "dove": "elements/t.wherehasshegone.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Third Shard then has been identified with 'the cry of pain'. The Lionsmith is a stoic Hour, but we must assume that in the Sundering Moment even he might have been unable to restrain his distress. Now the sound of tin under pressure we call the 'tin cry' - a reason, perhaps, for the further identification of the Third Shard as the 'Shard Royal'...",
+  "dove": "elements/t.sevenshards.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Twelfth Initiate is Salvation and Wrack, Steed and Rider, who chooseth one Blossom of Three, who casteth away the Key and whom the Key shall not cast away, who comes after the Flame and before the Snow….'",
+  "dove": "elements/t.theroadtojanus.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Two-One joined, and the Horned distinguished. Consequently, blood.'",
+  "dove": "elements/t.debellismurorum.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Watchman's Tree is a compromise. If Calyptra could end it, they would. If the Watchman could end Calyptra, he might. Between their planes conflicting, sparks illuminate the angles of unmade law…'",
+  "dove": "elements/t.thethreeandthethreestchiavimanuscript.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "'The White Flower lies heavy, but the roots of the Watchman's Tree run deeper than snow...'",
+  "dove": "elements/t.thewhitebookofbrittany.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Wood lies outside the walls of the Mansus. As any student of the Histories knows, the Mansus has no walls.'",
+  "dove": "elements/t.travellingatnightvol1.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Worms have always been eager to inhabit us. Here are the practices which make us inhospitable to them.' There are diagrams. The diagrams are not good to look upon, and none of the practices they show would allow the subject to survive.",
+  "dove": "elements/t.thetantraofworms.xexts.reading.scale",
+  "ricorre": 1
+ },
+ {
+  "en": "'The berries of the Pontine Yew open the door to death but the honey of their flowers opens a different door entirely. This was not the Great King's <i>mithridate</i> but one who has suckled at the Great Yew fears poison no longer. Perhaps they should…' Nathaniel is here distracted, however, by the toxic properties of certain inks. He does mention more usefully that the minor Ink of Power, Yewgall, can be brewed through the Rites of the Roots with the assistance of the aspect Nectar.",
+  "dove": "elements/t.deratioquercuum.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "'The deepest knowledge is forbidden to all mortals except those who seek it beneath the Watchman's Tree. It is Calyptra that planted that tree, but it is the Chancel, the Cruciate, that has elected Calyptra. Who then elected the Cruciate? Or is this, as the saying goes, 'a matter of Janus'?",
+  "dove": "elements/t.thethreeandthethreevaticanmanuscript.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The deepest knowledge is safeguarded by the Covenant of the Watchman's Tree, whose patrons are Calyptra - the three flowers on the Watchman's Tree - blood, soot, and snow…'",
+  "dove": "elements/t.thethreeandthethreekerishammanuscript.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The direction of Death is down,' the book explains. 'The Peacock Door has been considered a rent, or an abrasion, but in some respects is more like a mouth - if not a more treasured point of entry.' Discussions of the Doors include a rite which may conjure creatures through those doors, although key incantations are missing.",
+  "dove": "elements/t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "'The encaustum Marakat is refined from the liquor named <i>leathy</i> in the presence of Nectar aspect. The Priestesses of the Knot have also learnt to brew Marakat in this wise - yet for the nature of their arts, their task may be easier…'",
+  "dove": "elements/t.thehistoryofinks.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The finest artisans all dream of the White Door in the end. I'm no artisan, only a scholar. I think there's a Secret that all these artisans know, but I think that Secret is only half the story.'",
+  "dove": "elements/t.thelocksmithsdreamportionsandproportions.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'The first and greatest history' is described herein. The Persian Empire - 'the sons of Achaemenes', 'the Shadowless Kings', 'the most Glorious Empire' - survives the assaults of Alexander the Great and flourishes as late as the fifth century.",
+  "dove": "elements/t.isaacofkarthshistoryoftheshadowlesskings.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The laws of the House forbade Matthias to love. The customs of the Wood forbade the Imago to remain. So he conjured her a final time, when she had uncovered the Shears of Alakapura; and she suffered him to cut the wings from her back, so that she might remain; and he suffered her to cut the parts which hold man's seed, to keep them from the Detestable Act. This was love in all its blood and joy. We have cast out Matthias from the House.'",
+  "dove": "elements/t.onmatthiasandtheamethystimagoloss.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The light of a lantern can only ever reveal the space between the forest shadows.'",
+  "dove": "elements/t.theknownunknowntantra.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'The roots go deep. The knots remain…'",
+  "dove": "elements/t.thewonderfulshape.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The thorn-beaked crows took my eyes from me in justice for my crimes, but though I lost my Sight, I found my Light.'",
+  "dove": "elements/t.thesunslament.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The virgins/maidens of the mirror favour orchids. The [behindlings?] favour the rhododendron. Cut flowers of either nature should not be placed before polished bronze.'",
+  "dove": "elements/t.onwhatiscontainedbysilver.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'The walls of the Mansus,' Hersault begins, 'are the size of starlight.' Many of his directions are equally unhelpful, but common relationships do emerge.",
+  "dove": "elements/t.thetreatiseonunderplaces.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'The woman in the sand-coloured robe has told me: the stairways of the Mansus go ever up. Death is down. The Mother of Ants guards both directions with each of her heads, and so the passage must always be through a wound. I think the White Door might be a wound. That's one reason the Dead sometimes pass it. I think I have the other half of the Secret now, and I hope my reader can put both halves together.'",
+  "dove": "elements/t.thelocksmithsdreamtrespasses.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are map-legends, there are maps of legends, and there are legends of maps. Aspects of the Mansus subsist in all of these, in much the same way that you find water in a swamp and in a cup and in the sky.'",
+  "dove": "elements/t.theconcursumdiaries.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are paths in the Mansus that only the Sun has walked. In the time of the Sun's Division, who will know them? When the Second Dawn comes, who will walk them?'",
+  "dove": "elements/t.thegrandpassageofthehours.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are so many stories of her heritage, so many rumours of her persistence. We might easily choose to believe that the grand-twins escaped - even that they live yet beyond the sea - '",
+  "dove": "elements/t.ladyevasrepose.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Time and again we hear of the Wood, which rises from the world's foundation. All trees reach for light. What does the Wood reach for? Is there a difference between light and Light? I think the key to dreams of the Wood might be one of these - the one that isn't exactly real.'",
+  "dove": "elements/t.thelocksmithsdreamalightthroughthekeyhole.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'Time is a pure Flame, and we live by an invisible Sun within us.'",
+  "dove": "elements/t.thedebateofsevencups.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'To reach the Stag Door, I believe that all you really need is to want something enough. But I've never wanted anything that much, except of course Baldomera, and I'm very much afraid that the knot in the story is this: what Baldomera wants is the Stag Door. But here's something I learnt in Persia. Perhaps it'll teach you what *you* want.'",
+  "dove": "elements/t.travellingatnightvol3.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "'We cast Matthias out, and we pronounced a curse upon the Amethyst Imago, but we watched them in dreams. We saw them pledge themselves to the Forge, to change themselves and ascend anew. Into the fire they fly.'",
+  "dove": "elements/t.onmatthiasandtheamethystimagotransformation.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'We must devour to be devoured. We cannot be undevoured, as we cannot be unborn.'",
+  "dove": "elements/t.theorchidtransfigurationsafeast.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "'What must be revealed, will be revealed. Our Order's root is tainted, but its branches flourish beneath the shelter of the Watchman's greater Tree. I shall invoke its rites before the Chancel, the Cruciate, and the Rode. I shall write a final History. Or another shall write it for me.'",
+  "dove": "elements/t.sunsetceliaandtheendofdays.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'When I was another, I made a foolish wager with the Hooded Princes, to solve seven riddles. I had not realised the riddles would be set by me for the one I would become. Six are resolved. The seventh will be the end of me. It waits now in the cellar of the Gaol, where Collers still believes I can keep it confined. But the first riddle told me I would not see the Second Dawn...'",
+  "dove": "elements/t.letterstomysuccessor.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'When humankind emerged from the weft of the Roots, we were smeared with the filth of crumbled ages. The foolish sought to wash it from themselves, but our skins were yet soft, and fell easily from us…'",
+  "dove": "elements/t.whitejadetablet.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'When the Snake-Witch killed the horse, Kitling snatched one of its eyes. When the Dry-Witch killed the pig, Kitling stole a cup of its blood. Then she took them to the place Moldywarp lay buried, and she shook out her hair, and she began to dance…'",
+  "dove": "elements/t.kitlingripeandthemoldywarpsgraveandotherstories.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'When the cuckoo learns the nightingale's song, our sleep is sweeter than honey.'",
+  "dove": "elements/t.snareofthetreecollectedproverbsofauntmopsy.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "'When the individual K. attends the meetings, black dogs are sacrificed and quartered. When the element M. is in attendance, black mares are found with their throats slashed. I propose that these sacrifices are not necessary, but that our Ligeian friends may consider them 'fitting'. Herewith diagrams of the mutilations -'",
+  "dove": "elements/t.thevienneseconundra.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Where the Chandler has passed, the understandings of the Colonel and the Lionsmith will wrench open truth. Where the Chandler will pass, Moth will pass before him.'",
+  "dove": "elements/t.thechandlerswish.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "'Whisper your secrets into the earth, burn them in fire, scatter them in the sea. Still they will cling to your hair,' the Tantra cautions. It provides an occult riddle that it claims is sometimes the answer to the Riddle of the Hunter's Gate.",
+  "dove": "elements/t.theshavenlocktantra.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "'Who gave us fire? Who gave us steel? What is the sound of dusk? Of what alloy is wind forged?'",
+  "dove": "elements/t.amiranisbeteli.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Who was it once said, fruit is the womb of a plant? It was me. Take a few moments to think on that enripened wisdom. I shall leave a blank space for your moments, here in this page.'",
+  "dove": "elements/t.theberrybook.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'With adequate Grail,' the Excellency Gnathobasis explains, 'the Pale Mommet wakes to life. With generous Grail, the Flushed Mommet accepts our beneficence. It may be necessary to overcome scruple! The Excellency Gnathobasis will assure you as to how, and to whom, and with which most perfect instrument.'",
+  "dove": "elements/t.oghkoroghkortissilakoghkor.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "'Without Language there can be no Wordes. Without Wordes there can be no Message. But only in Silence can there be no Error; and Lo, even in that beginning, in that First of Messages, an Error. Thus did we enter the House.'",
+  "dove": "elements/t.thefallencross.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "'Words are of the First Importance. So the Book of Suns teaches. But do not Words require Ink? And is the Inkwell not then the Womb of Words?'",
+  "dove": "elements/t.alightintheinkwell.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yewgall Ink is prepared with these techniques - but so is Skinshuck Mead, and only Skinshuck requires honey. Just as any beverage or foodstuff can be improved with the addition of honey, so any garden is improved with the presence of bees. Even those bloody Blomberende.'",
+  "dove": "elements/t.honeythecomprehensiveguide.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "'…until the King fell beneath his great Steed in its Utmost Configuration. By the time he could be cut free, his Alloy had already begun to tarnish, and that Day was ever afterwards known as his Great Misfortune…'",
+  "dove": "elements/t.plantagenetmysteries.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "A 'meditation' on the drowning of Lady Eva Dewulf and her two grandchildren, written in the years when the estate was abandoned by Father Theo, once the Dewulf family chaplain, one of the few to remain on the Isle in those desolate years.",
+  "dove": "elements/t.ladyevasrepose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Catalogue of Uncharted Pleasures",
+  "dove": "elements/t.acatalogueofunchartedpleasures.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Child's Treasury of Golden Afternoons",
+  "dove": "elements/t.achildstreasuryofgoldenafternoons.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Church-authorised version of an older text, this book describes the Chancel and the Calyptra, two triads of Hours with subtle, far-reaching powers and responsibilities. It has clearly been reworked to fit Church doctrine.",
+  "dove": "elements/t.thethreeandthethreevaticanmanuscript.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Descent of the Shell",
+  "dove": "elements/t.adescentoftheshell.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Haustorial tract on various forms of survival after death.",
+  "dove": "elements/t.thedeathsofthemoon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Journey to the Grove",
+  "dove": "elements/t.ajourneytothegrove.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Light in the Inkwell",
+  "dove": "elements/t.alightintheinkwell.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Manual for Departure",
+  "dove": "elements/t.amanualfordeparture.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Monster-hunting initiate of the Hour named the Colonel, who identifies herself as 'Little Sophia', records the exhibits she has rendered to the Worm Museum in the Mansus.",
+  "dove": "elements/t.oblationsiniron.desc",
+  "ricorre": 1
+ }
+]

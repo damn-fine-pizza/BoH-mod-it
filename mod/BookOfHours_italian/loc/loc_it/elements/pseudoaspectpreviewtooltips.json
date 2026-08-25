@@ -1,0 +1,29 @@
+{
+ "elements": [
+  {
+   "id": "hint.workstation",
+   "label": "Suggerimenti della Postazione di Lavoro",
+   "desc": "Aspetti che più probabilmente saranno utili qui: \n\n[further]"
+  },
+  {
+   "id": "hint.tothethresholdofthehouse",
+   "label": "ALLA SOGLIA DELLA CASA",
+   "desc": "[Puoi tenere solo cinque cose nei tuoi effetti personali. Un sesto oggetto sarà abbandonato a meno che non abbia già una casa. Gli oggetti abbandonati ti aspetteranno fuori dalla Casa.]"
+  },
+  {
+   "id": "hint.essential",
+   "label": "ESSENZIALE",
+   "desc": "Per andare in questo slot, un oggetto deve corrispondere a tutti questi."
+  },
+  {
+   "id": "hint.required",
+   "label": "RICHIESTO",
+   "desc": "Per andare in questo slot, un oggetto deve corrispondere ad almeno uno di questi."
+  },
+  {
+   "id": "hint.forbidden",
+   "label": "PROIBITO",
+   "desc": "Se un oggetto corrisponde a uno di questi, non può andare in questo slot."
+  }
+ ]
+}

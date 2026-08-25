@@ -1,0 +1,44 @@
+{
+    "verbs": [
+        {
+            "id": "time",
+          "label": "Dawn",
+          "icon":"time.night",
+            "desc": "[sunrise]",
+          "maxNotes": 1
+        },
+        {
+            "id": "season",
+          "label": "Season",
+            "desc": "[Season]",
+          "maxNotes": 5
+        },
+
+        {
+            "id": "incident.base",
+          "label": "Incident",
+            "desc": "Base verb for incident expulsion",
+            "spontaneous":true
+        },
+
+        {
+          "id": "incident.advance",
+        "label": "Incident Advancement",
+          "desc": "Further Developments verb",
+          "spontaneous":true,
+          "multiple":true
+      },
+        {
+          "id": "incident.expulsion.finisher",
+        "label": "Incident Expulsion Finisher",
+          "desc": "Separate verb for marking incidents finished.",
+          "spontaneous":true
+      },
+        {
+          "id": "numa.incident.base",
+        "label": "Incident",
+          "desc": "Base verb for Numa incident expulsion",
+          "spontaneous":true
+      }
+    ]
+}

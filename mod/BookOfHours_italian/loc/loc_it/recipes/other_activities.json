@@ -1,0 +1,58 @@
+{
+ "recipes": [
+  {
+   "id": "sea.swimming.blocker.storm",
+   "label": "Mai Più",
+   "startdescription": "Le onde sono affamate oggi. Non vado a nuotare in una tempesta... be’, non una seconda volta."
+  },
+  {
+   "id": "sea.swimming.winter",
+   "label": "Una Nuotata Vivace",
+   "startdescription": "Mi tuffo di nuovo tra le onde... ma nuotare in un mare d’inverno potrebbe essere avventato. [Assicurati di avere asciugamani asciutti pronti all’uso.]",
+   "desc": "Le onde mi sollevano; il sale mi punge gli occhi; l’orizzonte attende.",
+   "slots": [
+    {
+     "id": "apres_swim",
+     "label": "Dopo?",
+     "description": "Il vento sarà pungente, dopo..."
+    }
+   ]
+  },
+  {
+   "id": "sea.swimming.numa",
+   "label": "Una Nuotata Vivace",
+   "startdescription": "Mi tuffo di nuovo tra le onde... anche se nella stagione del labirinto, qualcosa potrebbe essere diverso.",
+   "desc": "Dopo è difficile ricordare cosa ho provato, là tra i flutti. Le onde hanno compiuto il loro pellegrinaggio dall’orizzonte. Ora anche il mio è un pellegrinaggio."
+  },
+  {
+   "id": "sea.swimming",
+   "label": "Una Nuotata Vivace",
+   "startdescription": "Mi tuffo di nuovo tra le onde...",
+   "desc": "Le onde mi sollevano; il sale mi punge gli occhi; l’orizzonte attende.",
+   "slots": [
+    {
+     "id": "apres_swim",
+     "label": "Dopo?",
+     "description": "Il vento sarà pungente, dopo..."
+    }
+   ]
+  },
+  {
+   "id": "sea.swimming.dry",
+   "label": "Una Nuotata Vivace",
+   "startdescription": "Mi tuffo di nuovo tra le onde... e mi asciugo, dopo.",
+   "desc": "Le onde mi sollevano; il sale mi punge gli occhi; l’orizzonte attende. Dopo, gli asciugamani sono puliti e morbidi. [Asciugandoti dopo, hai ottenuto una Memoria: Conforto.]"
+  },
+  {
+   "id": "sea.swimming.dry.damp",
+   "label": "Una Nuotata Vivace",
+   "startdescription": "Mi tuffo di nuovo tra le onde... anche se non ho asciugamani asciutti.",
+   "desc": "Le onde mi sollevano; il sale mi punge gli occhi; l’orizzonte attende."
+  },
+  {
+   "id": "sea.swimming.hint",
+   "label": "Una Nuotata Rinvigorente?",
+   "startdescription": "[Nuotare richiede un Elemento dell’Anima con Cuore e Squama – in genere, significa Salute.]"
+  }
+ ]
+}

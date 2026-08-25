@@ -1,0 +1,44 @@
+{
+    "elements": [
+
+
+
+        {
+            "id": "retired_arthur",
+            "label": "Arthur est Parti…",
+            "icon":"Arthur",
+            "lifetime":30
+
+        },     
+        {
+            "id": "retired_azita",
+            "label": "Azita est Parti…",
+            "icon":"azita",
+            "lifetime":30
+
+        },
+
+        {
+            "id": "retired_chaima",
+            "label": "Chaima est Parti…",
+            "icon":"chaima",
+            "lifetime":30
+
+        },
+        {
+            "id": "retired_yvette",
+            "label": "Yvette est Parti…",
+            "icon":"yvette",
+            "lifetime":30
+
+        },
+        {
+            "id": "retired_zachary",
+            "label": "Zachary est Parti…",
+            "icon":"zachary",
+            "lifetime":30
+
+        }
+
+    ]
+}

@@ -1,0 +1,1962 @@
+[
+ {
+  "en": "Cut a thread, and the tapestry must be healed. Bosk renews the weave.",
+  "dove": "recipes/commit.bos.s.weaving.knotworking.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Cut a thread, and the tapestry remains.",
+  "dove": "recipes/commit.bir.s.weaving.knotworking.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Cut a thread, and the tapestry remains. Birdsong follows the thread.",
+  "dove": "recipes/commit.bir.s.weaving.knotworking.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dream of a city of perfect balance. There can be no perfect balance outside dream. Meditate on the Hour named Meniscate, whose light distinguishes the possible from the real. Let the City remain unbuilt.",
+  "dove": "recipes/commit.pre.s.meniscatereflections.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dream of a city of perfect balance. There can be no perfect balance outside dream. Meditate on the Hour named Meniscate, whose light distinguishes the possible from the real. Let the City remain unbuilt; let the perfection of eternity be Preserved.",
+  "dove": "recipes/commit.pre.s.meniscatereflections.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dream of a city of perfect balance. There can be no perfect balance outside dream. Meditate on the Hour named Meniscate, whose light in dreams is perfect balance. Build the City in the heart of her domain, in the House of the Moon.",
+  "dove": "recipes/commit.ill.s.meniscatereflections.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dream of a city of perfect balance. There can be no perfect balance outside dream. Meditate on the Hour named Meniscate, whose light is cast in dreams but we see even in the Wake. Build the City in the heart of her domain, in the House of the Moon. Be Illuminated.",
+  "dove": "recipes/commit.ill.s.meniscatereflections.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Each journey is a day, and we are tested as travellers and as pilgrims.",
+  "dove": "recipes/commit.nyc.s.auroralcontemplations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Each journey is a day, and we are tested as travellers and as pilgrims. That is the part these Contemplations play in the Nyctodromy Wisdom.",
+  "dove": "recipes/commit.nyc.s.auroralcontemplations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Every regret is a lesson. We cannot change what is past, but neither should we wish to.",
+  "dove": "recipes/commit.ill.s.raggedcrossroads.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Every regret is a lesson. We cannot change what is past, but neither should we wish to. Regret is Illumination.",
+  "dove": "recipes/commit.ill.s.raggedcrossroads.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Every regret is a threshold; and every threshold can be crossed in both directions. A skolekosophist knows that no threshold need remain inviolate.",
+  "dove": "recipes/commit.sko.s.raggedcrossroads.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Every regret is a threshold; and every threshold can be crossed in both directions. No threshold need remain inviolate.",
+  "dove": "recipes/commit.sko.s.raggedcrossroads.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Every traveller crosses a threshold twice. The Horned-Axe is the Hour who faces both ways at every threshold.",
+  "dove": "recipes/commit.bir.s.path.pilgrim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Every traveller crosses a threshold twice. The Horned-Axe is the Hour who faces both ways at every threshold. Find the answer to her riddles in Birdsong.",
+  "dove": "recipes/commit.bir.s.path.pilgrim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Fire",
+  "dove": "recipes/commit.hor.s.edictsinviolable.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fire reveals, smoke conceals. This is the lesson of the Red Flower of the Watchman's Tree: even the most dangerous of knowledge is no danger at all when it is given to the fire.",
+  "dove": "recipes/commit.ith.s.glaziery.lightsmithing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fire was the first understanding. The Hour named Moth learnt that even before the Watchman brought light.",
+  "dove": "recipes/commit.ill.s.pyroglyphics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fire was the first understanding. The Hour named Moth learnt that even before the Watchman brought light. This is Illumination.",
+  "dove": "recipes/commit.ill.s.pyroglyphics.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "From Change",
+  "dove": "recipes/commit.nyc.s.watchmansparadoxes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "From Light",
+  "dove": "recipes/commit.ill.s.transformations.liberations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "From Steel",
+  "dove": "recipes/commit.ith.s.transformations.liberations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Glass, the Egg",
+  "dove": "recipes/commit.ith.s.glassblowing.vesselcrafting.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Glass, the Keeper",
+  "dove": "recipes/commit.hus.s.glassblowing.vesselcrafting.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Grail and Moth",
+  "dove": "recipes/commit.bos.s.resurgences.emergences.label",
+  "ricorre": 1
+ },
+ {
+  "en": "How They Began",
+  "dove": "recipes/commit.bir.s.hill.hollow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "How They Endured",
+  "dove": "recipes/commit.pre.s.hill.hollow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "If even the Sun's division was a plan... then once we complete that plan, we'll bring the Second Dawn, and unite the sun. It won't be easy, but what great work ever is?",
+  "dove": "recipes/commit.ill.s.transformations.liberations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If even the Sun's division was a plan... then once we complete that plan, we'll bring the Second Dawn, and unite the sun. It won't be easy, but what great work ever is? Illumination might show the way.",
+  "dove": "recipes/commit.ill.s.transformations.liberations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If flowers are flame, the earth is their fuel. The Hour named Flowermaker cannot harm us, and he cannot find us, but he always has what we desire, and the Hour named Chandler can bring the spark to light the flame.",
+  "dove": "recipes/commit.sko.s.orchids.narcotics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If flowers are flame, the earth is their fuel. The Hour named Flowermaker cannot harm us, and he cannot find us, but he always has what we desire, and the Hour named Chandler can bring the spark to light the flame. These are the temptations of Skolekosophy.",
+  "dove": "recipes/commit.sko.s.orchids.narcotics.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If night is peace, then dawn is battle, when the Sun drives the stars from the sky. A day might come when the Sun's victory is not assured.",
+  "dove": "recipes/commit.hor.s.ouranoscopy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If night is peace, then dawn is battle, when the Sun drives the stars from the sky. A day might come when the Sun's victory is not assured. The battles of heaven are a matter of Horomachistry.",
+  "dove": "recipes/commit.hor.s.ouranoscopy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If the Sun has failed… then we must manufacture our own Second Dawn, with eye, with hand, with the light beneath the heart. It won't be easy, but what great work ever is?",
+  "dove": "recipes/commit.ith.s.transformations.liberations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If the Sun has failed… then we must manufacture our own Second Dawn, with eye, with hand, with the light beneath the heart. It won't be easy, but what great work ever is? Ithastry might shape the way.",
+  "dove": "recipes/commit.ith.s.transformations.liberations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If the stars are wisdom, then dawn is ignorance. A day might come when there is no dawn.",
+  "dove": "recipes/commit.hus.s.ouranoscopy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If the stars are wisdom, then dawn is ignorance. A day might come when there is no dawn. Ouranoscopy should be numbered among the Night Arts.",
+  "dove": "recipes/commit.hus.s.ouranoscopy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In Ashes",
+  "dove": "recipes/commit.sko.s.putrefactions.calcinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "In Flames",
+  "dove": "recipes/commit.ith.s.putrefactions.calcinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "In the beginning, the Carapace Cross served the first Hours, the gods born from stone. And the first of the Carapace Cross were the Thritige-kind, who sought the Monarch-at-the-Crossroads to rule them wisely and found him in themselves, who began as many and ended as one.",
+  "dove": "recipes/commit.bir.s.hill.hollow.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the beginning, the Carapace Cross served the first Hours, the gods born from stone. And the first of the Carapace Cross were the Thritige-kind, who sought the Monarch-at-the-Crossroads to rule them wisely and found him in themselves, who began as many and ended as one. This is a riddle, and the riddlemakers know its importance.",
+  "dove": "recipes/commit.bir.s.hill.hollow.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the beginning, the Carapace Cross served the first Hours, the gods born from stone. When the gods-from-stone were defeated, where could the Cross go? Into the hills; into the Bounds; and into us. This is how humankind came to be, and in our most secret hollows, the Cross endures.",
+  "dove": "recipes/commit.pre.s.hill.hollow.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the beginning, the Carapace Cross served the first Hours, the gods born from stone. When the gods-from-stone were defeated, where could the Cross go? Into the hills; into the Bounds; and into us. This is how humankind came to be, and in our most secret hollows, the Cross endures. This is a matter of Preservation.",
+  "dove": "recipes/commit.pre.s.hill.hollow.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the dawn times the sun was lower, so we gave it our blood. From our blood it knew us, and so it was kinder. But those days are long gone. If we were foolish enough to find the first Sun and give it our blood again, it would devour us. If we fed it the blood of our enemies, of course, it might devour them.",
+  "dove": "recipes/commit.sko.s.serpents.venoms.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the dawn times the sun was lower, so we gave it our blood. From our blood it knew us, and so it was kinder. But those days are long gone. If we were foolish enough to find the first Sun and give it our blood again, it would devour us. If we fed it the blood of our enemies, of course, it might devour them. This is the kind of thing you hear from skolekosophists.",
+  "dove": "recipes/commit.sko.s.serpents.venoms.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the dawn times the sun was lower, so we gave it our blood. From our blood it knew us, and so it was kinder. Its serpents brought us its poisons to drink, and so we died. But we only died a little, and so we dreamed, and returned the next day to give it our blood again.",
+  "dove": "recipes/commit.hus.s.serpents.venoms.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the dawn times the sun was lower, so we gave it our blood. From our blood it knew us, and so it was kinder. Its serpents brought us its poisons to drink, and so we died. But we only died a little, and so we dreamed, and returned the next day to give it our blood again. Those times of peace persist in the lessons of Hushery.",
+  "dove": "recipes/commit.hus.s.serpents.venoms.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the inmost walled garden of the palace of the Shadowless Kings in Persia, there grew a yew-tree older than any other. Its root was red, its flowers were black, its berries were white. The Kings would leave their girl-children overnight in the nest of its roots, in memory of the great Mother of their line, and so their daughters were assured health, longevity and wisdom. This is the source of all our science, and this is Bosk.",
+  "dove": "recipes/commit.bos.s.herbs.infusions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the inmost walled garden of the palace of the Shadowless Kings in Persia, there grew a yew-tree older than any other. Its root was red, its flowers were black, its berries were white. The Kings would leave their girl-children overnight in the nest of its roots, in memory of the great Mother of their line, and so their daughters were assured health, longevity and wisdom. This is the source of all our science.",
+  "dove": "recipes/commit.bos.s.herbs.infusions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the inmost walled garden of the palace of the Shadowless Kings in Persia, there was preserved a yew-tree older than any other. The Kings set a bee-hive in its branches, in memory of their forefathers, and they brewed from its flowers a sovereign cure against all poisons. This is the root of all our science, and this is Preservation.",
+  "dove": "recipes/commit.pre.s.herbs.infusions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the inmost walled garden of the palace of the Shadowless Kings in Persia, there was preserved a yew-tree older than any other. The Kings set a bee-hive in its branches, in memory of their forefathers, and they brewed from its flowers a sovereign cure against all poisons. This is the root of all our science.",
+  "dove": "recipes/commit.pre.s.herbs.infusions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the right mortal's hand, the right tool can become the weapon that begins a war.",
+  "dove": "recipes/commit.hor.s.bells.brazieries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the right mortal's hand, the right tool can become the weapon that begins a war. This is a high consequence of Horomachistry.",
+  "dove": "recipes/commit.hor.s.bells.brazieries.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the right mortal's hand, the right tool can become the weapon that ends a war.",
+  "dove": "recipes/commit.ith.s.bells.brazieries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the right mortal's hand, the right tool can become the weapon that ends a war. This is a high purpose of Ithastry.",
+  "dove": "recipes/commit.ith.s.bells.brazieries.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the times when nothing was forgotten, three flowers bloomed on the Watchman's Tree: Black, Red, and Gold. Red is the life that flows in the body's courses, but the blood of the Carapace Cross was golden.",
+  "dove": "recipes/commit.pre.s.surgeries.exsanguinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the times when nothing was forgotten, three flowers bloomed on the Watchman's Tree: Black, Red, and Gold. Red is the life that flows in the body's courses, but the blood of the Carapace Cross was golden. Preservation teaches what endures.",
+  "dove": "recipes/commit.pre.s.surgeries.exsanguinations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Learn from blood and drink from the earth. The Red Grail brought forth the Hours called Flowermaker and Beachcrow, who know where in the wood we can find delight.",
+  "dove": "recipes/commit.bos.s.orchids.narcotics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Learn from blood and drink from the earth. The Red Grail brought forth the Hours called Flowermaker and Beachcrow, who know where in the wood we can find delight. These are the temptations of Bosk.",
+  "dove": "recipes/commit.bos.s.orchids.narcotics.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Let the flesh forget disease, let the smoke forget the flame, let the troubled mind forget its pain.",
+  "dove": "recipes/commit.pre.s.quenchings.quellings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Let the flesh forget disease, let the smoke forget the flame, let the troubled mind forget its pain: Preservation.",
+  "dove": "recipes/commit.pre.s.quenchings.quellings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Let's keep night-things in the night so that day-things can walk in the day.",
+  "dove": "recipes/commit.pre.s.sickle.eclipse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Let's keep night-things in the night so that day-things can walk in the day. That's Preservation.",
+  "dove": "recipes/commit.pre.s.sickle.eclipse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Light reveals, light blinds. This is the lesson of the White Flower of the Watchman's Tree: even the most dangerous of knowledge is no danger at all when it is forgotten.",
+  "dove": "recipes/commit.ill.s.glaziery.lightsmithing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Looking Down",
+  "dove": "recipes/commit.bos.s.leaves.thorns.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Looking Up",
+  "dove": "recipes/commit.bir.s.leaves.thorns.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa's Riddle, first: What Is Not Seen?\nThe Night, the Heart, the Moon, the Day. Between.\nThe palest key. The birth-scarred Coil Queen.",
+  "dove": "recipes/commit.bir.s.snowstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa's Riddle, first: What Is Not Seen?\nThe Night, the Heart, the Moon, the Day. Between.\nThe palest key. The birth-scarred Coil Queen.\n\nThis is Birdsong.",
+  "dove": "recipes/commit.bir.s.snowstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth and Grail",
+  "dove": "recipes/commit.pre.s.resurgences.emergences.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Much Remains",
+  "dove": "recipes/commit.bir.s.snowstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Much is Lost",
+  "dove": "recipes/commit.hus.s.snowstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Never underestimate the Hour named Madrugad. Foolish adepts deride her as an Hour of ashes. What do they think the Watchman's Tree sprang from?",
+  "dove": "recipes/commit.ith.s.purifications.exaltations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Never underestimate the Hour named Madrugad. Foolish adepts deride her as an Hour of ashes. What do they think the Watchman's Tree sprang from? Fire purifies; light exalts.",
+  "dove": "recipes/commit.ith.s.purifications.exaltations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Never underestimate the Hour named Meniscate. Foolish adepts deride as an Hour of vanity. What do they think defines the Hours?",
+  "dove": "recipes/commit.ill.s.purifications.exaltations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Never underestimate the Hour named Meniscate. Foolish adepts deride her as an Hour of vanity. What do they think defines the Hours? Light purifies; light exalts.",
+  "dove": "recipes/commit.ill.s.purifications.exaltations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Oak, earth, ice, ash, stars, blood. Drown to quenching. Serve.",
+  "dove": "recipes/commit.bos.s.spices.savours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Oak, earth, ice, ash, stars, blood. Drown to quenching. Serve. That's Bosk.",
+  "dove": "recipes/commit.bos.s.spices.savours.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Of Clocks",
+  "dove": "recipes/commit.ith.s.lockworks.clockworks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Of Endings",
+  "dove": "recipes/commit.hus.s.sacralimiae.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Of Keys",
+  "dove": "recipes/commit.ill.s.preliminalmeter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Of Limits",
+  "dove": "recipes/commit.hor.s.sacralimiae.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Of Locks",
+  "dove": "recipes/commit.sko.s.lockworks.clockworks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Of Swords",
+  "dove": "recipes/commit.ith.s.preliminalmeter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Of the Ligeian Medusa, it has been said: 'She might be the oldest of her kind still living; and she is dead.' Skolekosophists might interpret this thus: she is the oldest of the Seglaz-kind, which is to say of a Carapace-lineage famed for the breadth of their wisdom and the complexity of their teeth.",
+  "dove": "recipes/commit.sko.s.pentiments.precursors.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Of the Ligeian Medusa, it has been said: 'She might be the oldest of her kind still living; and she is dead.' Skolekosophists say she is the oldest of the Seglaz-kind, of a Carapace-lineage famed for the breadth of their wisdom and the sharpness of their teeth.",
+  "dove": "recipes/commit.sko.s.pentiments.precursors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Of the Ligeian Medusa, it has been said: 'She might be the oldest of her kind still living; and she is dead.' Symurgists might interpret this thus: she is the oldest of the shared Names of the Twins - the Hours we call Sister-and-Witch, Witch-and-Sister.",
+  "dove": "recipes/commit.bir.s.pentiments.precursors.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Of the Ligeian Medusa, it has been said: 'She might be the oldest of her kind still living; and she is dead.' Symurgists say she is the oldest of the shared Names of the Twins - the Hours we call Sister-and-Witch, Witch-and-Sister.",
+  "dove": "recipes/commit.bir.s.pentiments.precursors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One of us passed the Summit. One may not.\nTwo of us sought the Lantern. Two chose flight.\nThe seventh rarely named, but not forgot.",
+  "dove": "recipes/commit.ill.s.preliminalmeter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One of us passed the Summit. One may not.\nTwo of us sought the Lantern. Two chose flight.\nThe seventh rarely named, but not forgot.\n\n This is Illumination.",
+  "dove": "recipes/commit.ill.s.preliminalmeter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Our dreams are shadows cast by the Watchman's light. So we perceive him even in our shadow.",
+  "dove": "recipes/commit.ill.s.watchmansparadoxes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Our dreams are shadows cast by the Watchman's light. So we perceive him even in our shadow. This is Illumination.",
+  "dove": "recipes/commit.ill.s.watchmansparadoxes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Peace",
+  "dove": "recipes/commit.hor.s.ouranoscopy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Peacock",
+  "dove": "recipes/commit.nyc.s.coil.chasm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "RED THE DAWN AND BLACK THE NIGHT AND WHITE WHAT'S LEFT. ABOVE WE SEE, BENEATH WE KNOW.",
+  "dove": "recipes/commit.bos.s.desires.dissolutions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "RED THE DAWN AND BLACK THE NIGHT AND WHITE WHAT'S LEFT. ABOVE WE SEE, BENEATH WE KNOW.\n\nBosk.",
+  "dove": "recipes/commit.bos.s.desires.dissolutions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rebirth",
+  "dove": "recipes/commit.pre.s.maggephenemysteries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revenge",
+  "dove": "recipes/commit.hus.s.maggephenemysteries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Safety in Oblivion",
+  "dove": "recipes/commit.pre.s.quenchings.quellings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Safety in Silence",
+  "dove": "recipes/commit.hus.s.quenchings.quellings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sapphire",
+  "dove": "recipes/commit.nyc.s.edictsliminal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scolecite",
+  "dove": "recipes/commit.sko.s.edictsliminal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Secrecy; Knowledge; Power",
+  "dove": "recipes/commit.sko.s.rhyme.remembrance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Secret, Safe",
+  "dove": "recipes/commit.pre.s.sickle.eclipse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serpent",
+  "dove": "recipes/commit.sko.s.coil.chasm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Served Cold",
+  "dove": "recipes/commit.bos.s.spices.savours.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Served Hot",
+  "dove": "recipes/commit.ith.s.spices.savours.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something not commonly understood: were there no Calyptra to conceal perilous knowledge, there could be no Vak. A door opens both ways.",
+  "dove": "recipes/commit.bir.s.vak.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something not commonly understood: were there no Calyptra to conceal perilous knowledge, there could be no Vak. A door opens both ways. This is understood by scholars of the Arts Unregarded.",
+  "dove": "recipes/commit.bir.s.vak.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Something not commonly understood: without Vak, the exception, there could be no Calyptra, the law. Vak is in this sense, and perhaps in every sense, Calyptra's servant.",
+  "dove": "recipes/commit.nyc.s.vak.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something not commonly understood: without Vak, the exception, there could be no Calyptra, the law. Vak is in this sense, and perhaps in every sense, Calyptra's servant. This is known to scholars of the Night Arts.",
+  "dove": "recipes/commit.nyc.s.vak.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Speech is the key to dream, and because we are speaking apes, every night is a journey.",
+  "dove": "recipes/commit.nyc.s.path.pilgrim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Speech is the key to dream, and because we are speaking apes, every night is a journey. Nyctodromy is the wisdom of the paths of night.",
+  "dove": "recipes/commit.nyc.s.path.pilgrim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Steel and Glass",
+  "dove": "recipes/commit.ill.s.disciplines.thehammer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Still all the winds, still every beating tongue\nNow still the mirrored moon, the sea's cauldron\nWhen nothing's left then nothing is undone.",
+  "dove": "recipes/commit.hus.s.snowstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Still all the winds, still every beating tongue\nNow still the mirrored moon, the sea's cauldron\nWhen nothing's left then nothing is undone.\n\nHushery.",
+  "dove": "recipes/commit.hus.s.snowstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Stories written in fire end all the sooner... but are remembered all the longer. Change is the only certainty.",
+  "dove": "recipes/commit.ith.s.pyroglyphics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Stories written in fire end all the sooner... but are remembered all the longer. The Ithastry wisdom teaches us the certainty of change.",
+  "dove": "recipes/commit.ith.s.pyroglyphics.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Bright Arts speak of a shining City Unbuilt. One day, we might build it in the Mansus, the great house of dreams… with a foundation-stone of black sapphire.",
+  "dove": "recipes/commit.hor.s.anbary.lapidary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Bright Arts speak of a shining City Unbuilt. One day, we might build it in the Mansus, the great house of dreams… with a foundation-stone of black sapphire. This would be a great matter of Horomachistry.",
+  "dove": "recipes/commit.hor.s.anbary.lapidary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Bright Arts speak of a shining City Unbuilt. One day, we might build it like a jewel in the sea… with a foundation-stone of amber.",
+  "dove": "recipes/commit.ith.s.anbary.lapidary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Bright Arts speak of a shining City Unbuilt. One day, we might build it like a jewel in the sea… with a foundation-stone of amber.  This would be a great work of Ithastry.",
+  "dove": "recipes/commit.ith.s.anbary.lapidary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Carpenter's Tale",
+  "dove": "recipes/commit.sko.s.killasimi.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Chandler's Kindling",
+  "dove": "recipes/commit.sko.s.orchids.narcotics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Chandler's Path",
+  "dove": "recipes/commit.sko.s.horns.ivories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Chandler's Tale",
+  "dove": "recipes/commit.ith.s.mandaic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Chime",
+  "dove": "recipes/commit.ith.s.bells.brazieries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Crime",
+  "dove": "recipes/commit.hus.s.disciplines.thescar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Crooked",
+  "dove": "recipes/commit.sko.s.solutions.separations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Dartsmen",
+  "dove": "recipes/commit.sko.s.hyksos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The End",
+  "dove": "recipes/commit.hus.s.sights.sensations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Falconer's Tale",
+  "dove": "recipes/commit.bir.s.ramsund.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The First Enemy",
+  "dove": "recipes/commit.hor.s.thegreatsignsandthegreatscars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The First Error",
+  "dove": "recipes/commit.hus.s.thegreatsignsandthegreatscars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The First Sun",
+  "dove": "recipes/commit.sko.s.serpents.venoms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The First Sunrise",
+  "dove": "recipes/commit.ill.s.auroralcontemplations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The First among the Feasts",
+  "dove": "recipes/commit.bos.s.tridesmahiera.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Fisher's Tale",
+  "dove": "recipes/commit.bir.s.sabazine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Golden",
+  "dove": "recipes/commit.pre.s.surgeries.exsanguinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grail's Births",
+  "dove": "recipes/commit.bos.s.orchids.narcotics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grail's Favourlings",
+  "dove": "recipes/commit.bos.s.insects.nectars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Heart",
+  "dove": "recipes/commit.hor.s.drums.dances.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours",
+  "dove": "recipes/commit.ill.s.purifications.exaltations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours are not all-powerful. There is a place beyond their reach, where mortals and immortals might build a shining City of iron and ivory.",
+  "dove": "recipes/commit.hor.s.sacralimiae.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours are not all-powerful. There is a place beyond their reach, where mortals and immortals might build a shining City of iron and ivory. Horomachists understand the Hours' limits.",
+  "dove": "recipes/commit.hor.s.sacralimiae.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours are not eternal. The Sun-in-Splendour was riven and cast down. If we mortals so desire, we might prevent his return.",
+  "dove": "recipes/commit.hus.s.sacralimiae.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours are not eternal. The Sun-in-Splendour was riven and cast down. If we mortals so desire, we might prevent his return. Understand Hushery, and you understand endings.",
+  "dove": "recipes/commit.hus.s.sacralimiae.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours once called Flint and the Wheel are gone, but the blood of their Name-emanations was mingled with the blood of mortals, and from it sprang the line of Antaios. As long as the Antaian line continues, the legacy of Flint and Wheel may endure.",
+  "dove": "recipes/commit.pre.s.stonestories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours once called Flint and the Wheel are gone, but the blood of their Name-emanations was mingled with the blood of mortals, and from it sprang the line of Antaios. As long as the Antaian line continues, the legacy of Flint and Wheel may endure. This then is Preservation.",
+  "dove": "recipes/commit.pre.s.stonestories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours once called Flint and the Wheel are gone, but the blood of their Name-emanations was mingled with the blood of mortals, and from it sprang the line of Antaios. Be careful: if enough Antaian blood is spilled, the Flint and the Wheel might wake.",
+  "dove": "recipes/commit.bir.s.stonestories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Hours once called Flint and the Wheel are gone, but the blood of their Name-emanations was mingled with the blood of mortals, and from it sprang the line of Antaios. Be careful: if enough Antaian blood is spilled, the Flint and the Wheel might wake. This is remembered in the songs of warning.",
+  "dove": "recipes/commit.bir.s.stonestories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Jeweller's Tale",
+  "dove": "recipes/commit.hor.s.mandaic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The King and the Key",
+  "dove": "recipes/commit.ill.s.ericapaean.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The King in the Mirror",
+  "dove": "recipes/commit.hus.s.ericapaean.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Last Sun",
+  "dove": "recipes/commit.hus.s.serpents.venoms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ligeian Morgen, holder of the key of black sapphire, called sea-born, tide-drawn. Did she come from Ys behind the wave? If we speak her name at the rising of the moon, can we summon that old song of flutes and bells?",
+  "dove": "recipes/commit.bir.s.seastories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ligeian Morgen, holder of the key of black sapphire, called sea-born, tide-drawn. Did she come from Ys behind the wave? If we speak her name at the rising of the moon, can we summon that old song of flutes and bells? These are Birdsong-riddles.",
+  "dove": "recipes/commit.bir.s.seastories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ligeian Rowena, holder of the Mare's Key, called sea-opener, wolf-wife. Whom did she invite from Ys behind the wave? When the moon sets across the sea, will they follow its road again?",
+  "dove": "recipes/commit.nyc.s.seastories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ligeian Rowena, holder of the Mare's Key, called sea-opener, wolf-wife. Whom did she invite from Ys behind the wave? When the moon sets across the sea, will they follow its road again? This matter of roads and keys is Nyctodromy.",
+  "dove": "recipes/commit.nyc.s.seastories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Light, the Night, the Wood",
+  "dove": "recipes/commit.pre.s.tridesmahiera.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Mansus is the fortress in dream raised by the gods-who-were-stone. Nowhere is the inevitable scar beneath it. Monstrous, the gods-from-Nowhere; but cruel, the gods-who-were-stone.",
+  "dove": "recipes/commit.hus.s.disciplines.thescar.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The Mansus is the fortress of dream where the true Hours rule, and Nowhere is the scar beneath it where the Nowhere Hours lair. Without the Hours above, that scar would be an open wound. So the Bright Arts teach us.",
+  "dove": "recipes/commit.ill.s.disciplines.thescar.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The Mare-in-the-Tree is not the youngest Hour; but she is the youngest Hour of Calyptra, for she has been born many times in many places. The Red Flower on the Watchman's Tree is the fire fuelled by truth, and without it the Tree would fall, as all horomachists know.",
+  "dove": "recipes/commit.hor.s.edictsinviolable.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Mare-in-the-Tree is not the youngest Hour; but she is the youngest Hour of Calyptra, for she has been born many times in many places. The Red Flower on the Watchman's Tree is the fire fuelled by truth, and without it the Tree would fall.",
+  "dove": "recipes/commit.hor.s.edictsinviolable.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Moth consumed the Wheel; the Grail consumed the Tide; in the days of the Forge, the Stars fled from every facet of Flint. What feast was the first? Those who walk the Wood know that whichever was first, the Grail's was greatest.",
+  "dove": "recipes/commit.bos.s.tridesmahiera.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The Moth's Spawn",
+  "dove": "recipes/commit.nyc.s.insects.nectars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Moth's Way",
+  "dove": "recipes/commit.bos.s.horns.ivories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The New King's light is uncertain. The Received Version of the Book of Suns tells that the Sun-in-Splendour will never return. If the King claims otherwise, he leads us astray.",
+  "dove": "recipes/commit.ill.s.sacrasolisinvicti.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The New King's light is uncertain. The Received Version of the Book of Suns tells that the Sun-in-Splendour will never return. If the King claims otherwise, he leads us astray. We should seek answers in Illumination.",
+  "dove": "recipes/commit.ill.s.sacrasolisinvicti.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The New King's light shines brightly. The Sanctioned Version of the Book of Suns tells us that he may herald the unification of the gods-who-were-Light, into a new Sun-in-Splendour.",
+  "dove": "recipes/commit.hor.s.sacrasolisinvicti.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The New King's light shines brightly. The Sanctioned Version of the Book of Suns tells us that he may herald the unification of the gods-who-were-Light, into a new Sun-in-Splendour.  We should seek answers in Horomachistry.",
+  "dove": "recipes/commit.hor.s.sacrasolisinvicti.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Night Arts speak of the Savage Door, to which Echidna, mother of monsters, keeps her Savage Key. It was the means by which the gods-who-were-stone entered the Mansus; for Echidna was once counted among their Names.",
+  "dove": "recipes/commit.sko.s.coil.chasm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Night Arts speak of the Savage Door, to which Echidna, mother of monsters, keeps her Savage Key. It was the means by which the gods-who-were-stone entered the Mansus; for Echidna was once counted among their Names. All skolekosophists seek to understand what this might mean.",
+  "dove": "recipes/commit.sko.s.coil.chasm.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Night Arts teach that the Peacock Gate is the highest door in dreams to which mortals may aspire; but that before she rose to this estate, the Gate was a Name of the Horned-Axe.",
+  "dove": "recipes/commit.nyc.s.coil.chasm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Night Arts teach that the Peacock Gate is the highest door in dreams to which mortals may aspire; but that before she rose to this estate, the Gate was a Name of the Horned-Axe. All nyctodromists seek to understand what this might mean.",
+  "dove": "recipes/commit.nyc.s.coil.chasm.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Passage",
+  "dove": "recipes/commit.nyc.s.strings.songs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Path",
+  "dove": "recipes/commit.nyc.s.path.pilgrim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Pilgrim's intrigue and the Grail's scheme\nThe Sun in shadow and the Forge unseen\nThe Swan King and the Elagabaline.",
+  "dove": "recipes/commit.hor.s.skystories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Pilgrim's intrigue and the Grail's scheme\nThe Sun in shadow and the Forge unseen\nThe Swan King and the Elagabaline.\n\nThis is Horomachistry.",
+  "dove": "recipes/commit.hor.s.skystories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Queen's Weapon",
+  "dove": "recipes/commit.ith.s.fucine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Queen's Wound",
+  "dove": "recipes/commit.hus.s.fucine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Received Version of the Book of Suns tells us that the Wolf-Divided was born from the Sun-in-Splendour's division. We know from this that the Sun can be reborn only if the Wolf joins the Sun's other selves. Only if the Wolf's hunger is assuaged will it join its other selves. And only the flesh of its other selves can assuage the hunger of the Wolf. A Second Dawn would herald the Last Day.",
+  "dove": "recipes/commit.sko.s.wolfstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Received Version of the Book of Suns tells us that the Wolf-Divided was born from the Sun-in-Splendour's division. We know from this that the Sun can be reborn only if the Wolf joins the Sun's other selves. Only if the Wolf's hunger is assuaged will it join its other selves. And only the flesh of its other selves can assuage the hunger of the Wolf. A Second Dawn would herald the Last Day. This is the grim lesson of Skolekosophy.",
+  "dove": "recipes/commit.sko.s.wolfstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Red Flower's Lesson",
+  "dove": "recipes/commit.ith.s.glaziery.lightsmithing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Roost",
+  "dove": "recipes/commit.bir.s.skystories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Root",
+  "dove": "recipes/commit.bos.s.drums.dances.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Root and the Source",
+  "dove": "recipes/commit.bos.s.herbs.infusions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Roots",
+  "dove": "recipes/commit.bos.s.henavek.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Round",
+  "dove": "recipes/commit.bir.s.strings.songs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sailor's Tale",
+  "dove": "recipes/commit.hor.s.sabazine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sanctioned Version of the Book of Suns says that the Wolf-Divided was awoken by the Sun's division. We know from this that the Wolf was its own Hour even when the Sun was whole. So we glean and we guess that the Sun might be healed, and the Wolf return to its slumbers. So we glean and guess that a Second Dawn would bring peace, but the Wolf will fight to prevent it.",
+  "dove": "recipes/commit.bir.s.wolfstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sanctioned Version of the Book of Suns says that the Wolf-Divided was awoken by the Sun's division. We know from this that the Wolf was its own Hour even when the Sun was whole. So we glean and we guess that the Sun might be healed, and the Wolf return to its slumbers. So we glean and guess that a Second Dawn would bring peace, but the Wolf will fight to prevent it. This is Birdsong.",
+  "dove": "recipes/commit.bir.s.wolfstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Scar",
+  "dove": "recipes/commit.ill.s.disciplines.thescar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sea accepts every gift it is given, and sometimes, now and then, those gifts are returned. The Red Grail slew the Hour named Tide, and what remained was given to the Sea; so, perhaps, one day, that Hour might return.",
+  "dove": "recipes/commit.bos.s.pearl.tide.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sea accepts every gift it is given, and sometimes, now and then, those gifts are returned. The Red Grail slew the Hour named Tide, and what remained was given to the Sea; so, perhaps, one day, that Hour might return. This is life, and so this is Bosk.",
+  "dove": "recipes/commit.bos.s.pearl.tide.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sea-Born",
+  "dove": "recipes/commit.bir.s.seastories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sea: whale-road, salt-realm, moon-way. Anything given to the waves may find another home - unless its home is the Sea.",
+  "dove": "recipes/commit.nyc.s.pearl.tide.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sea: whale-road, salt-realm, moon-way. Anything given to the waves may find another home - unless its home is the Sea. Nyctodromy shows us the way across the sea, and the way home.",
+  "dove": "recipes/commit.nyc.s.pearl.tide.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Source and the Root",
+  "dove": "recipes/commit.pre.s.herbs.infusions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Stars",
+  "dove": "recipes/commit.ith.s.henavek.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Straight",
+  "dove": "recipes/commit.ith.s.solutions.separations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sunset Road",
+  "dove": "recipes/commit.nyc.s.auroralcontemplations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Thief's Tale",
+  "dove": "recipes/commit.pre.s.ramsund.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Threshold",
+  "dove": "recipes/commit.bir.s.path.pilgrim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Thunderskin, the eternal drum that beats to preserve the skin of the world, is a god-from-flesh, which is to say he was once mortal. But the Horned-Axe, last of the gods-from-stone, required his death, and so the Grail gave him up, though he loved her. Love is always subject to the will of the Hours, as all horomachists know.",
+  "dove": "recipes/commit.hor.s.drums.dances.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The Thunderskin, the eternal drum that beats to preserve the skin of the world, is a god-from-flesh, which is to say he was once mortal. He died to preserve the last god-from-stone; he died for love; he died for necessity. In matters of Bosk, these three are often intertwined.",
+  "dove": "recipes/commit.bos.s.drums.dances.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The Toll",
+  "dove": "recipes/commit.hor.s.bells.brazieries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Tree",
+  "dove": "recipes/commit.ith.s.purifications.exaltations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Tryst",
+  "dove": "recipes/commit.hor.s.skystories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Velvet is not the oldest Hour; but she is the oldest Hour of Calyptra. The Black Flower on the Watchman's Tree is the preservation of secrets, and without it the Tree would fall.",
+  "dove": "recipes/commit.pre.s.edictsinviolable.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Velvet is not the oldest Hour; but she is the oldest Hour of Calyptra. The Black Flower on the Watchman's Tree is the preservation of secrets, and without it the Tree would fall. This is a matter of Preservation.",
+  "dove": "recipes/commit.pre.s.edictsinviolable.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree has flowers three: Black, Red, and White. Red is the life that flows in the body's courses, and white is the writing at the body's core.",
+  "dove": "recipes/commit.hus.s.surgeries.exsanguinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree has flowers three: Black, Red, and White. Red is the life that flows in the body's courses, and white is the writing at the body's core. Hushery teaches what ends.",
+  "dove": "recipes/commit.hus.s.surgeries.exsanguinations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchmen",
+  "dove": "recipes/commit.nyc.s.hyksos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Weapon",
+  "dove": "recipes/commit.hor.s.inks.power.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Weaver's Tale",
+  "dove": "recipes/commit.bos.s.killasimi.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Well in the Wood",
+  "dove": "recipes/commit.bos.s.furs.feathers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The White",
+  "dove": "recipes/commit.hus.s.surgeries.exsanguinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The White Flower's Paradox",
+  "dove": "recipes/commit.ill.s.glaziery.lightsmithing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wings in the Wood",
+  "dove": "recipes/commit.nyc.s.furs.feathers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wolf's Beginning",
+  "dove": "recipes/commit.sko.s.wolfstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wolf's Return",
+  "dove": "recipes/commit.bir.s.wolfstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wolf-Wife",
+  "dove": "recipes/commit.nyc.s.seastories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wound",
+  "dove": "recipes/commit.hus.s.inks.power.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The artist knows: their every work could be improved. The artist understands: perfect work can never be completed.",
+  "dove": "recipes/commit.hus.s.sights.sensations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The artist knows: their every work could be improved. The artist understands: perfect work can never be completed. Perfection exists only as absence: Hushery understands this.",
+  "dove": "recipes/commit.hus.s.sights.sensations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The artist knows: their every work could be improved. The artist understands: perfect work exists Nowhere. To go Nowhere - to go below the world - is not an easy journey. But there the artist could achieve their utmost.",
+  "dove": "recipes/commit.nyc.s.sights.sensations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The artist knows: their every work could be improved. The artist understands: perfect work exists Nowhere. To go Nowhere - to go below the world - is not an easy journey. But there the artist could achieve their utmost. Nyctodromy is the way to perfection.",
+  "dove": "recipes/commit.nyc.s.sights.sensations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The assassins of the Tragulari, who end the long lives of Long, tell stories of the wars between the Hours in the dawn of the world, when the sun was red and low - wars where the savage sound of savage bells unravelled the light of moon and sun - wars where dreams burned on pyres where Long were the fuel. All this ended, the Tragulari say, once the Worms came, and the Hours had a common enemy. And so the Tragulari fear Worms; hate Worms; and make offerings to Worms.",
+  "dove": "recipes/commit.sko.s.hyksos.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The bright-winged, dark-winged Glaeterfleoge-kind called themselves the Grail's favourlings. They are gone now, like all the Carapace-kinds, but we can still use the arts of the Hive to glean the sweetness in the hidden places of the Wood; the legacy of the Carapace Cross.",
+  "dove": "recipes/commit.bos.s.insects.nectars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The bright-winged, dark-winged Glaeterfleoge-kind called themselves the Grail's favourlings. They are gone now, like all the Carapace-kinds, but we can still use the arts of the Hive to glean the sweetness in the hidden places of the Wood; the legacy of the Carapace Cross; Bosk.",
+  "dove": "recipes/commit.bos.s.insects.nectars.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The bright-winged, dark-winged Glaeterfleoge-kind called themselves the Moth's spawn. They are gone now, like all the Carapace-kinds, but we can still use the arts of the Nest to follow the old roads of the night; the legacy of the Carapace Cross.",
+  "dove": "recipes/commit.nyc.s.insects.nectars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The bright-winged, dark-winged Glaeterfleoge-kind called themselves the Moth's spawn. They are gone now, like all the Carapace-kinds, but we can still use the arts of the Nest to follow the old roads of the night; the legacy of the Carapace Cross; Nyctodromy.",
+  "dove": "recipes/commit.nyc.s.insects.nectars.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The clocksmith's first duty: when the time comes, the device should speak its purpose. Since the Sun was sundered, Noon is not as it was. Perhaps, if we found the true hour of Noon, we'd know how the Sun might return.",
+  "dove": "recipes/commit.ith.s.lockworks.clockworks.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The clocksmith's first duty: when the time comes, the device should speak its purpose. Since the Sun was sundered, Noon is not as it was. Perhaps, if we found the true hour of Noon, we'd know how the Sun might return. Ithastry might give us that answer.",
+  "dove": "recipes/commit.ith.s.lockworks.clockworks.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The fundamental purpose of a glass vessel: to separate what is without from what is within. Perhaps this was the first purpose of the first Hour, and only in that first moment could there be perfect understanding.",
+  "dove": "recipes/commit.hus.s.glassblowing.vesselcrafting.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The gardener's first lesson is this: know your thorns, know your poisons. There's no point thinking about tomorrow when we aren't expecting to live through today. This is the lesson our ancestors learnt the hard way in the Wood: this is Bosk.",
+  "dove": "recipes/commit.bos.s.leaves.thorns.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The gardener's first lesson is this: look up. What starts as weather ends in the world, what starts as sky ends in the soil. This is what the birds know, and the birds know most things first.",
+  "dove": "recipes/commit.bir.s.leaves.thorns.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The gods-from-Stone made a law that the keys of dream cannot be held or owned. The time of Stone is past, but the keys remain. So the holders of these keys can only be the seven Ligeians, whose crime has set them outside the law. And the Ligeians serve an Hour of Moth and Grail: when the last remnants of the gods-from-Stone are renewed, the law will be renewed with them. Preservation is the wisdom of renewal.",
+  "dove": "recipes/commit.pre.s.resurgences.emergences.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The gods-from-Stone made a law that the keys of dream cannot be held or owned. The time of Stone is past, but the keys remain. So the holders of these keys can only be the seven Ligeians, whose crime has set them outside the law. But the Ligeians serve an Hour of Grail and Moth: when the last remnants of the gods-from-Stone are consumed, the law will be consumed with them. Bosk is the wisdom of change.",
+  "dove": "recipes/commit.bos.s.resurgences.emergences.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The gods-from-Stone made a law that the keys of dream cannot be held or owned. The time of Stone is past, but the keys remain. So the holders of these keys can only be the seven Ligeians, whose crime has set them outside the law. The Ligeians serve an Hour of Grail and Moth: when the last remnants of the gods-from-Stone are consumed, the law will be consumed with them.",
+  "dove": "recipes/commit.bos.s.resurgences.emergences.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The gods-from-Stone made a law that the keys of dream cannot be held or owned. The time of Stone is past, but the keys remain. So the holders of these keys can only be the seven Ligeians, whose crime has set them outside the law. The Ligeians serve an Hour of Moth and Grail: when the last remnants of the gods-from-Stone are renewed, the law will be renewed with them.",
+  "dove": "recipes/commit.pre.s.resurgences.emergences.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The gods-who-are, which we call the Hours, warred against the gods-from-stone and cast them down. What remains of the gods-from-stone we call plague, scourge, catastrophe. But if the gods-from-stone were reborn, would they still be plagues? Would renewal bring peace? The Arts Unregarded hint that it might be so.",
+  "dove": "recipes/commit.pre.s.maggephenemysteries.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The gods-who-are, which we call the Hours, warred against the gods-from-stone and cast them down. What remains of the gods-from-stone we call plague, scourge, catastrophe. If the Hours were cast down in their turn, would the gods-from-stone be satisfied? Would revenge bring peace? The Night Arts hint that it might be so.",
+  "dove": "recipes/commit.hus.s.maggephenemysteries.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The greatest and most secret truths can only be recorded by the Librarians of the Watchman's Tree - even then, only beneath the shelter of the Tree's branches, and only in the sanctioned inks called <i>encaustum terminale</i>. There are still certain languages in which these secrets can be spoken aloud, but that has never been safe. These secrets are the world's blood, and to speak them aloud is to shed that blood.",
+  "dove": "recipes/commit.hus.s.inks.power.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The greatest and most secret truths can only be recorded by the Librarians of the Watchman's Tree - even then, only beneath the shelter of the Tree's branches, and only in the sanctioned inks called <i>encaustum terminale</i>. There are still certain languages in which these secrets can be spoken aloud, but that has never been safe. These secrets are the world's blood, and to speak them aloud is to shed that blood. We who are silent have always known this.",
+  "dove": "recipes/commit.hus.s.inks.power.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The greatest and most secret truths can only be recorded by the Librarians of the Watchman's Tree - even then, only beneath the shelter of the Tree's branches, and only in the sanctioned inks called <i>encaustum</i>. There are still certain languages in which these truths might be spoken aloud, but the Hours no longer permit that power in the mouths of mortals, as the wisdom of Horomachistry teaches us.",
+  "dove": "recipes/commit.hor.s.inks.power.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The greatest and most secret truths can only be recorded by the Librarians of the Watchman's Tree - even then, only beneath the shelter of the Tree's branches, and only in the sanctioned inks called <i>encaustum</i>. There are still certain languages in which these truths might be spoken aloud, but the Hours no longer permit that power in the mouths of mortals.",
+  "dove": "recipes/commit.hor.s.inks.power.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The highest purpose of a glass vessel: to separate what is without from what is within. Perhaps, Hushery suggests, this was the first purpose of the first Hour, and only in that first moment could there be perfect understanding.",
+  "dove": "recipes/commit.hus.s.glassblowing.vesselcrafting.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The highest purpose of a glass vessel: to show clearly perfectly what would otherwise be hidden within. Perhaps this was the first purpose of the first Hour, and only in that first moment could there be perfect clarity.",
+  "dove": "recipes/commit.ith.s.glassblowing.vesselcrafting.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The highest purpose of a glass vessel: to show clearly perfectly what would otherwise be hidden within. Perhaps, Ithastry suggests, this was the first purpose of the first Hour, and only in that first moment could there be perfect clarity.",
+  "dove": "recipes/commit.ith.s.glassblowing.vesselcrafting.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The inks called <i>encaustum terminale</i> are permitted only to the Librarians of the Watchman's Tree. Those inks can be used to reveal truths - even truths that are no longer so, not since the dawn times when the sun hung red and low and we felt its warmth like autumn. If that first and gentlest sun returned, the truths might return with it.",
+  "dove": "recipes/commit.hus.s.inks.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The inks called <i>encaustum terminale</i> are permitted only to the Librarians of the Watchman's Tree. Those inks can be used to reveal truths - even truths that are no longer so, not since the dawn times when the sun hung red and low and we felt its warmth like autumn. If that first and gentlest sun returned, the truths might return with it. Hushery remembers.",
+  "dove": "recipes/commit.hus.s.inks.revelation.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The inks called <i>encaustum terminale</i> are permitted only to the Librarians of the Watchman's Tree. Those inks can be used to reveal truths - even truths too great for daylight. Perhaps, then, daylight is not bright enough; perhaps we must find a way to kindle a light bright enough to reveal those greater truths.",
+  "dove": "recipes/commit.ith.s.inks.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The inks called <i>encaustum terminale</i> are permitted only to the Librarians of the Watchman's Tree. Those inks can be used to reveal truths - even truths too great for daylight. Perhaps, then, daylight is not bright enough; perhaps we must find a way to kindle a light bright enough to reveal those greater truths. This would be a matter for Ithastry.",
+  "dove": "recipes/commit.ith.s.inks.revelation.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The locksmith's first duty: a key for every lock, and a lock for every key. If a key were an Hour, what lock would it open?",
+  "dove": "recipes/commit.sko.s.lockworks.clockworks.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The locksmith's first duty: a key for every lock, and a lock for every key. If a key were an Hour, what lock would it open? Skolekosophy might hold the answer.",
+  "dove": "recipes/commit.sko.s.lockworks.clockworks.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The oldest <i>living</i> Hours are the gods-who-were-blood. The gods-from-Stone were older still, but they're buried in the earth, scattered in the sea, lost to the moon. This is why we're always careful where we make the sacrifice, because if we spilt enough blood on their graves, they'd return for their revenge.",
+  "dove": "recipes/commit.bos.s.rites.theroots.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The oldest <i>living</i> Hours are the gods-who-were-blood. The gods-from-Stone were older still, but they're buried in the earth, scattered in the sea, lost to the moon. This is why we're always careful where we make the sacrifice, because if we spilt enough blood on their graves, they'd return for their revenge. Bosk knows.",
+  "dove": "recipes/commit.bos.s.rites.theroots.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The oldest <i>living</i> Hours are the gods-who-were-blood. The gods-from-Stone were older still, but they're buried in the earth, scattered in the sea, lost to the moon. This is why we're always careful where we make the sacrifice: without it, the gods-from-Stone would pass from memory.",
+  "dove": "recipes/commit.pre.s.rites.theroots.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The oldest <i>living</i> Hours are the gods-who-were-blood. The gods-from-Stone were older still, but they're buried in the earth, scattered in the sea, lost to the moon. This is why we're always careful where we make the sacrifice: without it, the gods-from-Stone would pass from memory. This is Preservation.",
+  "dove": "recipes/commit.pre.s.rites.theroots.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The seven tainted immortals we call Ligeians are relentless in their appetite, and outcast under the laws of heaven. But they have their uses to the Hours. The Ligeian Echidna learnt her shaping arts in the world's dawn, and even now the Lionsmith values her skill; so every year they meet in the desert, among the furnace shadows of the Seven-Coiled temple, to share their knowledge of how monsters were made.",
+  "dove": "recipes/commit.sko.s.sandstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The seven tainted immortals we call Ligeians are relentless in their appetite, and outcast under the laws of heaven. But they have their uses to the Hours. The Ligeian Echidna learnt her shaping arts in the world's dawn, and even now the Lionsmith values her skill; so every year they meet in the desert, among the furnace shadows of the Seven-Coiled temple, to share their knowledge of how monsters were made. We call their stories Skolekosophy.",
+  "dove": "recipes/commit.sko.s.sandstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The seven tainted immortals we call Ligeians are relentless in their appetite, and outcast under the laws of heaven. But they have their uses to the Hours. The Ligeian Kleidouchos has known all the great keys, and even now she holds the Key of Days; so every year she meets the Vagabond in Vienna, to exchange the names of lesser keys for the stories of the Vagabond's travels.",
+  "dove": "recipes/commit.bir.s.sandstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The seven tainted immortals we call Ligeians are relentless in their appetite, and outcast under the laws of heaven. But they have their uses to the Hours. The Ligeian Kleidouchos has known all the great keys, and even now she holds the Key of Days; so every year she meets the Vagabond in Vienna, to exchange the names of lesser keys for the stories of the Vagabond's travels. We call their gossip Birdsong.",
+  "dove": "recipes/commit.bir.s.sandstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The shapes that loped beside you in the frost,\nThe scraps you gleaned of caul and periost\nOnce these were answers to 'What May Be Lost?'",
+  "dove": "recipes/commit.bir.s.rhyme.remembrance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The shapes that loped beside you in the frost,\nThe scraps you gleaned of caul and periost\nOnce these were answers to 'What May Be Lost?'.\n\nAll part of the matter we call Birdsong.",
+  "dove": "recipes/commit.bir.s.rhyme.remembrance.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The sights we name are rarely named by day\nThe shapes we seek are rarely sought in clay\nThe names we claim are often claimed as pay.'",
+  "dove": "recipes/commit.sko.s.rhyme.remembrance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The sights we name are rarely named by day\nThe shapes we seek are rarely sought in clay\nThe names we claim are often claimed as pay.'\n\nThis is Skolekosophy.",
+  "dove": "recipes/commit.sko.s.rhyme.remembrance.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The veterans of the Légion du Seuil, who guard the boundaries of the waking world, tell stories of the labyrinths under the Mansus, above the Wood, and inside the Moon, where the first fallen Hours sleep, or hide, or rot: the gods-from-stone. Why the labyrinths? Because, the legionnaires say, there are Hours ruling now who would fight to consume the last scraps of their old enemies; and those who feast would eclipse those who abstain. The legionnaires have been known to boast that if they were only offered a great enough prize, they could guide the hungry Hours to their feast.",
+  "dove": "recipes/commit.nyc.s.hyksos.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The world is all imbalance, and imbalance is opportunity. Moth knows that; Worms prove it.",
+  "dove": "recipes/commit.sko.s.solutions.separations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The world is all imbalance, and imbalance is opportunity. Moth knows that; Worms prove it. This is Skolekosophy.",
+  "dove": "recipes/commit.sko.s.solutions.separations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The world is all imbalance. With time, with care, with ingenuity, we can restore the balance, through the shaping of stone, the equilibrium of ichors, the unhatching of the egg.",
+  "dove": "recipes/commit.ith.s.solutions.separations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The world is all imbalance. With time, with care, with ingenuity, we can restore the balance, through the shaping of stone, the equilibrium of ichors, the unhatching of the egg. Ithastry teaches ingenuity.",
+  "dove": "recipes/commit.ith.s.solutions.separations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There are no words in the song of birds; so birdsong had no beginning and will have no end.",
+  "dove": "recipes/commit.bir.s.strings.songs.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "There is a prophecy among carpenters: a master of their kind will resolve, unwisely, that the coffins he shapes are too beautiful to sully with corpses. He will steal trinkets from the dead, he will ask the help of smiths and jewellers, and day and night he will labour to shape something worthy of his work. At last he will tire of his task and offer his breath to the shape in the casket. When it accepts, it will rise from the coffin and pronounce itself King. It will rule by fear, or fear will destroy it. In either case, its maker will have no coffin and no grave, and his name will be lost.",
+  "dove": "recipes/commit.sko.s.killasimi.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy among weavers: of one who will unwisely seek to find the future in a tapestry of her own hair. Her house will grow dark, shrouded in the labyrinths of her tresses. Pilgrims will seek her in the cellar of her house, where she will plead with them to cut her free. They will always fail, and she will always devour them. At last one will come who will ask instead to stay with her. Others will join them, until the house becomes a palace and the palace a city, below the world, where all are welcome and in the tapestry all truths are revealed.",
+  "dove": "recipes/commit.bos.s.killasimi.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy of a glorious City that mortals could raise, but the Hours of the Chancel have decreed that it will not exist. The decrees of the Chancel are not defied, but now and then they have been circumvented… and we might conceive that City with walls of shining flint could be raised Nowhere; in the darkness below dreams.",
+  "dove": "recipes/commit.sko.s.edictsliminal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy of a glorious City that mortals could raise, but the Hours of the Chancel have decreed that it will not exist. The decrees of the Chancel are not defied, but now and then they have been circumvented… and we might conceive that City with walls of shining scolecite could be raised Nowhere; in the darkness below dreams. This would be Skolekosophy.",
+  "dove": "recipes/commit.sko.s.edictsliminal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy of a glorious City that mortals could raise, but the Hours of the Chancel have decreed that it will not exist. The decrees of the Chancel are not defied, but now and then they have been circumvented… and we might conceive that a City with walls of shining flint could be raised in dreams; in the Mansus.",
+  "dove": "recipes/commit.nyc.s.edictsliminal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy of a glorious City that mortals could raise, but the Hours of the Chancel have decreed that it will not exist. The decrees of the Chancel are not defied, but now and then they have been circumvented… and we might conceive that a City with walls of shining flint could be raised in dreams; in the Mansus. This would be Nyctodromy.",
+  "dove": "recipes/commit.nyc.s.edictsliminal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy of a master-carpenter who will resolve, unwisely, that the coffins he shapes are too beautiful to sully with corpses. He will steal trinkets from the dead, he will ask the help of smiths and jewellers, and day and night he will labour to shape something worthy of his work. At last he will tire of his task and offer his breath to the shape in the casket. When it accepts, it will rise from the coffin and pronounce itself King. It will rule by fear, or fear will destroy it. In either case, its maker will have no coffin and no grave, and his name will be lost.",
+  "dove": "recipes/commit.sko.s.killasimi.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy of a master-weaver who will unwisely seek to find the future in a tapestry of her own hair. Her house will grow dark, shrouded in the labyrinths of her tresses. Pilgrims will seek her in the cellar of her house, where she will plead with them to cut her free. They will always fail, and she will always devour them. At last one will come who will ask instead to stay with her. Others will join them, until the house becomes a palace and the palace a city, below the world, where all are welcome and in the tapestry all truths are revealed.",
+  "dove": "recipes/commit.bos.s.killasimi.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy, of a shining City that mortals might build. There is a paradox, that a City Unbuilt can always be greater than one that exists. The Bright Arts teach this resolution: that the Hours will always forbid the raising of that City, so that it will remain a great hope and a great travelling.",
+  "dove": "recipes/commit.hor.s.door.wall.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "There is a prophecy, of a shining City that mortals might build. There is a paradox, that a City Unbuilt can always be greater than one that exists. The Night Arts teach this resolution: that the gate to that City must be fashioned from black sapphire, and raised in dreams.",
+  "dove": "recipes/commit.nyc.s.door.wall.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a prophecy, of a shining City that mortals might build. There is a paradox, that a City Unbuilt can always be greater than one that exists. The Night Arts teach this resolution: that the gate to that City must be shaped of black sapphire, and raised in dreams.",
+  "dove": "recipes/commit.nyc.s.door.wall.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a story known to candle-makers: of a guild-master who made a wager with a master of the potter's guild. The potter's oldest cup (she said) was older far than the chandler's oldest candle. However often one drinks from a cup, it can always be refilled. So they brought their witnesses to the judging on the appointed day, and the potter's witness brought a cup he had used for seventy years until its shattering. But the chandler's witness brought a candle seventy-<i>seven</i> years old: every month, the chandler had bought the old stumps, returned their matter to the vat, and used them in his wares, so that each newest candle was also the oldest. Ithastry teaches us: there's always a way.",
+  "dove": "recipes/commit.ith.s.mandaic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a story known to jewellers: of a guild-master who made a wager with a keeper of butterflies. The master-jeweller claimed his jewelled egg would hatch something greater than any of the butterfly-keeper's chrysalids. Of course, after a month, the butterfly-keeper's gardens were bright with wings and the egg had hatched nothing at all. The jeweller, unable to pay his debts, fled into the desert with his egg. Horomachistry teaches us: know your limits.",
+  "dove": "recipes/commit.hor.s.mandaic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a story known to painters: of a Queen who could love no other, neither woman nor man, but only her own image. She sought nine colours to grace the image, and the last was the turquoise of her eyes, a gift from the Shadowless King. Her court poet hymned his Queen and her image, and in his poem she heard the truth: that the image was greater. So she fled into the Wood, and the image ruled her domain with the poet as its consort, but it always remembered her kindly.",
+  "dove": "recipes/commit.hus.s.fucine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a story known to smiths: of a Queen whose realm was invaded by a great army. When she learnt that there were nine invaders for every defender, she ordered her army to surrender its swords. Night and day her smiths laboured to melt down the swords to bronze, while her generals threatened mutiny and the enemy advanced unhindered. They used the bronze to cast a Bell, but each time the Bell was rung, it cracked and had to be recast. At last on the night before the invaders reached the city, the Queen surrendered her crown to the casting. When at dawn the smiths rang the Bell, it cracked the moon like an egg and drove the sun from the sky. The invaders fled. But the Queen without a crown was no longer any queen at all.",
+  "dove": "recipes/commit.ith.s.fucine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a story told by students of light: that a great and golden King held the only key to his deepest prison cell. One day he asked his minister to make eight copies, and distribute them among the people. 'But Sire,' the minister said, 'if a rebel contrives to enter our palace, might they not release their confederates?'\n\n'They might,' answered the King. 'But all kingdoms fall, and one day I might myself seek release from that cell.'",
+  "dove": "recipes/commit.ill.s.ericapaean.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is a story told by students of silence: that a great and golden King held the only key to his deepest prison cell. One day he gave the key to his minister, and offered him a choice: to submit to execution, or to visit the cell and tell him what he found there. The minister made the wiser choice, and returned to show the King what he had found in the cell: a mirror.\n\n'Then I release you,' the King declared. The minister left the palace that same day. His reflection, of course, said nothing at all.",
+  "dove": "recipes/commit.hus.s.ericapaean.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's a story told beside the sea, of a city of amber and orichalcum that lies behind the waves. Those who eat of its fruits can breathe water and drink light, but they can never drink anything else afterwards. Only in another History, they say; but if you tie your nets right, you might just catch one of its citizens in this History, and they might just tell you the way.",
+  "dove": "recipes/commit.bir.s.sabazine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There's a story told by fisherfolk, about a city of amber and orichalcum that lies behind the waves. Those who eat of its fruits can breathe water and drink light, but they can never drink anything else afterwards. Only in another History, they say; but if you tie your nets right, you might just catch one of its citizens in this History, and they might just tell you the way.",
+  "dove": "recipes/commit.bir.s.sabazine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's a story told by sailors, about a city of ivory and iron across the sea. Those who come there never die, but those who leave again have never lived. Only in another History, they say; but if you rig your sails right, you might just catch the wind that takes you there in this one.",
+  "dove": "recipes/commit.hor.s.sabazine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's a story told on the sea, about a city of ivory and iron across the sea. Those who come there never die, but those who leave again have never lived. Only in another History, they say; but if you rig your sails right, you might just catch the wind that takes you there in this one.",
+  "dove": "recipes/commit.hor.s.sabazine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There's a very old story told by falconers about the aviform Hours - the secret gods who take the shape of birds. Once there were only five - the dove, the crow, the laughingthrush, the twin kites. The sixth had fallen to the talons of an owl, and they sought another to join their company. But the crow rejected half of all those they found,  for the dowdiness of their plumage, and the dove rejected the others, for being too gaudy. At last they found a night-bird whose feathers were both the perfect white and the perfect black of the crow and of the dove. But once they had accepted him they learnt he was no bird at all - only a night-flitting moth. Fortunately for the moth, their pride kept them from admitting their mistake; but since that day, the aviform Hours will only meet at night, when the sixth of their kind won't be unmasked.",
+  "dove": "recipes/commit.bir.s.ramsund.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "There's a very old story told by thieves about a competition among the aviform Hours - the secret gods who take the shape of birds. The dove boasted of the bones he'd stolen from flesh, and the crow of the flesh he'd picked from bones. One of the kite-twins bragged that that she'd stolen the borders from kingdoms, and the other that she'd taken the roads from crossroads. The magpie told all the colours he'd taken that are no longer found in the world, and the laughingthrush topped that with the tales of the sights she'd stolen. But when the glitter-winged seventh of their number told them what he'd stolen, they all were shocked into silence. They fell upon him and stripped him of his wings and drove him from the sky. So he, and what he stole, are gone from the world, and now we cannot even name them, but still we feel their lack.",
+  "dove": "recipes/commit.pre.s.ramsund.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "To Heal",
+  "dove": "recipes/commit.pre.s.stitching.binding.label",
+  "ricorre": 1
+ },
+ {
+  "en": "To Hold",
+  "dove": "recipes/commit.ith.s.stitching.binding.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tomorrow's Light",
+  "dove": "recipes/commit.ill.s.raggedcrossroads.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Truths that Were",
+  "dove": "recipes/commit.hus.s.inks.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Truths that Will Be",
+  "dove": "recipes/commit.ith.s.inks.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Underneath",
+  "dove": "recipes/commit.bos.s.desires.dissolutions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Understanding Creates Conflict",
+  "dove": "recipes/commit.ill.s.edictsmartial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Unwise words are dangerous. Mourn them, remember them, speak them not.",
+  "dove": "recipes/commit.hus.s.quenchings.quellings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Unwise words are dangerous. Mourn them, remember them, speak them not. This is Hushery.",
+  "dove": "recipes/commit.hus.s.quenchings.quellings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Unwise words unlocked unwise doors; we can use wise words to lock them.",
+  "dove": "recipes/commit.nyc.s.sickle.eclipse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Unwise words unlocked unwise doors; we can use wise words to lock them. This is a matter of Nyctodromy.",
+  "dove": "recipes/commit.nyc.s.sickle.eclipse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Vak is a Great Scar; Calyptra's first mistake. If she could be healed of her pain, Calyptra might reign inviolate, and the perilous knowledge it protects might be truly safe.",
+  "dove": "recipes/commit.hus.s.thegreatsignsandthegreatscars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Vak is a Great Scar; Calyptra's first mistake. If she could only be healed of her pain, Calyptra might reign inviolate, and the perilous knowledge it protects might be truly safe. The nature of her healing is a Hushery matter.",
+  "dove": "recipes/commit.hus.s.thegreatsignsandthegreatscars.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Vak is a Great Scar; the first enemy of Calyptra. When the black flower blossoms on the Watchman's tree, she retreats, and Calyptra protects perilous knowledge behind secrecy's veil.",
+  "dove": "recipes/commit.hor.s.thegreatsignsandthegreatscars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Vak is a Great Scar; the first enemy of Calyptra. When the black flower blossoms on the Watchman's tree, she retreats, and Calyptra protects perilous knowledge behind secrecy's veil. The nature of their enmity is a Horomachistry matter.",
+  "dove": "recipes/commit.hor.s.thegreatsignsandthegreatscars.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "We recognise the dream-places that the Watchman shows us, though we have never seen them before. Perhaps we were something else when we saw them.",
+  "dove": "recipes/commit.nyc.s.watchmansparadoxes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "We recognise the dream-places that the Watchman shows us, though we have never seen them before. Perhaps we were something else when we saw them. This paradox is fundamental to Nyctodromy.",
+  "dove": "recipes/commit.nyc.s.watchmansparadoxes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What Could Be",
+  "dove": "recipes/commit.ill.s.meniscatereflections.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What Endures",
+  "dove": "recipes/commit.bos.s.weaving.knotworking.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What May Be Known",
+  "dove": "recipes/commit.bos.s.applebrighteuphonies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What May Be True",
+  "dove": "recipes/commit.ill.s.applebrighteuphonies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What May Not Be",
+  "dove": "recipes/commit.nyc.s.door.wall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What Might Be",
+  "dove": "recipes/commit.pre.s.meniscatereflections.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What Remains",
+  "dove": "recipes/commit.bir.s.weaving.knotworking.label",
+  "ricorre": 2
+ },
+ {
+  "en": "What Returns",
+  "dove": "recipes/commit.bos.s.pearl.tide.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What Should Not Be",
+  "dove": "recipes/commit.hor.s.door.wall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What We Were?",
+  "dove": "recipes/commit.bir.s.rhyme.remembrance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What begins in light may end in flesh. Without distinction and perception, pleasure cannot be distinguished from pain.",
+  "dove": "recipes/commit.hor.s.desires.dissolutions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What begins in light may end in flesh. Without distinction and perception, pleasure cannot be distinguished from pain. These traditions are Horomachistry.",
+  "dove": "recipes/commit.hor.s.desires.dissolutions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Given",
+  "dove": "recipes/commit.pre.s.rites.theroots.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Taken",
+  "dove": "recipes/commit.bos.s.rites.theroots.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What lit the Wood in the days before its darkening? There was a light upon the earth long before Glory came to the sky. Preserve the night, and the light might return.",
+  "dove": "recipes/commit.pre.s.tridesmahiera.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "When It Is Permitted",
+  "dove": "recipes/commit.hor.s.inks.containment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "When It Is Safe",
+  "dove": "recipes/commit.pre.s.inks.containment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "When the Chandler goes a-hunting in the dark of the Wood, he shields his candle so his prey is not forewarned, but he leaves a trail of ivory wax so we may follow him and purchase his prizes. After all, the goal of every hunt is to bring home a trophy, and when we understand Skolekosophy, we know how to bargain.",
+  "dove": "recipes/commit.sko.s.horns.ivories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "When the Chandler goes a-hunting in the dark of the Wood, he shields his candle so his prey is not forewarned, but he leaves a trail of ivory wax so we may follow him and purchase his prizes. After all, the goal of every hunt is to bring home a trophy.",
+  "dove": "recipes/commit.sko.s.horns.ivories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "When the Moth goes a-hunting in the dark of the Wood, he remembers a time when the Wood was bright, but he uses his horns to find the way, and we may follow him if we choose. After all, a trophy is nothing without a hunt.",
+  "dove": "recipes/commit.bos.s.horns.ivories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "When the Moth goes a-hunting in the dark of the Wood, he remembers a time when the Wood was bright, but he uses his horns to find the way, and we may follow him if we choose. After all, a trophy is nothing without a hunt: that's the lesson of the Wood.",
+  "dove": "recipes/commit.bos.s.horns.ivories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "When the first hunters came to the Wood, in the days before its darkening, they found a chrysalis of black and white. To it they sacrificed the birds of the air, so that it would show them the way home. So the Moth came to be, and so the Moth was the first to navigate the ways of the Wood.",
+  "dove": "recipes/commit.nyc.s.furs.feathers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "When the first hunters were lost in the Wood, in the days before its darkening, they found a chrysalis of black and white. To it they sacrificed the birds of the air, so that it would show them the way home. So the Moth came to be, and so the Moth was the first to navigate the ways of the Wood. This is the foundation of Nyctodromy.",
+  "dove": "recipes/commit.nyc.s.furs.feathers.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "When the first hunters were starving in the Wood, in the days before its darkening, they found a deep and crimson well. In it they drowned the beasts of the earth, so that the beasts would be reborn threefold, and the hunters could feast. So the Red Grail came to be, and so ever since she feeds us and she feeds upon us.",
+  "dove": "recipes/commit.bos.s.furs.feathers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "When the first hunters were starving in the Wood, in the days before its darkening, they found a deep and crimson well. In it they drowned the beasts of the earth, so that the beasts would be reborn threefold, and the hunters could feast. So the Red Grail came to be, and so ever since she feeds us and she feeds upon us. This, the Matriarchs of the Knot have taught us.",
+  "dove": "recipes/commit.bos.s.furs.feathers.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "When we name our differences, we learn our enemies. Where there are no names, there are no enemies.",
+  "dove": "recipes/commit.ill.s.edictsmartial.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "When we name our differences, we learn our enemies. Where there are no names, there are no enemies. This is a matter of the Illumination Wisdom.",
+  "dove": "recipes/commit.ill.s.edictsmartial.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Wisdom",
+  "dove": "recipes/commit.hus.s.ouranoscopy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Words are the way through the sky, and a song without words is no song at all.",
+  "dove": "recipes/commit.nyc.s.strings.songs.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Words are the way through the sky, and a song without words is no song at all. Nyctodromy is the wisdom of ways.",
+  "dove": "recipes/commit.nyc.s.strings.songs.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Words to Walk By",
+  "dove": "recipes/commit.nyc.s.sickle.eclipse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Yesterday's light determines the colours of tomorrow...  and we all began in light.",
+  "dove": "recipes/commit.ill.s.auroralcontemplations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Yesterday's light determines the colours of tomorrow... and through Illumination, we learn that we all began in light.",
+  "dove": "recipes/commit.ill.s.auroralcontemplations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Here I began my climb. [As you learn Skills, you can decide where in the Tree of Wisdoms they belong - enriching your Soul as you catalogue the invisible world.",
+  "dove": "recipes/commit.memory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Roots of Memory",
+  "dove": "recipes/commit.memory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "There are always choices, and so there are always regrets. [Unlock the Tree, and gain a Trist card.]",
+  "dove": "recipes/commit.memory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A Beginning?",
+  "dove": "recipes/prentice.edge.hint.label",
+  "ricorre": 3
+ },
+ {
+  "en": "A Lesson in...?",
+  "dove": "recipes/lesson.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "And...?",
+  "dove": "recipes/fireplace.missing.thing.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I'm ready; but for what?\n\n [Add a Skill card; try to match Power aspects if you want to create something.]",
+  "dove": "recipes/skill.missing.skill.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I'm only planning to burn something, I won't need a Soul card.",
+  "dove": "recipes/fireplace.ability.surplus.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "No need -",
+  "dove": "recipes/fireplace.ability.surplus.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=edge> for a Prentice-level Edge recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.edge.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=forge> for a Prentice-level Forge recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.forge.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=grail> for a Prentice-level Grail recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.grail.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=heart> for a Prentice-level Heart recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.heart.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=knock> for a Prentice-level Knock recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.knock.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=lantern> for a Prentice-level Lantern recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.lantern.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=moon> for a Prentice-level Moon recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.moon.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=moth> for a Prentice-level Moth recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.moth.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=nectar> for a Prentice-level Nectar recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.nectar.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=rose> for a Prentice-level Rose recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.rose.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=scale> for a Prentice-level Scale recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.scale.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=sky> for a Prentice-level Sky recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.sky.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing comes to mind. [You have enough <sprite name=winter> for a Prentice-level Winter recipe... but perhaps there's no suitable recipe here. Try another Skill?]",
+  "dove": "recipes/prentice.winter.noskillmatch.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Now What?",
+  "dove": "recipes/edge.only.hint.label",
+  "ricorre": 13
+ },
+ {
+  "en": "Skill without effort is like tea without boiling water. No-one wants to eat tea-leaves. [Add a Soul card.]",
+  "dove": "recipes/skill.missing.ability.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Soul?",
+  "dove": "recipes/skill.missing.ability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Edge recipe, provide five <sprite name=edge>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.edge.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Forge recipe, provide five <sprite name=forge>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.forge.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Grail recipe, provide five <sprite name=grail>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.grail.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Heart recipe, provide five <sprite name=heart>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.heart.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Knock recipe, provide five <sprite name=knock>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.knock.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Lantern recipe, provide five <sprite name=lantern>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.lantern.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Moon recipe, provide five <sprite name=moon>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.moon.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Moth recipe, provide five <sprite name=moth>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.moth.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Nectar recipe, provide five <sprite name=nectar>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.nectar.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Rose recipe, provide five <sprite name=rose>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.rose.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Scale recipe, provide five <sprite name=scale>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.scale.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Sky recipe, provide five <sprite name=sky>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.sky.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level Winter recipe, provide five <sprite name=winter>. For a Scholar-level recipe, provide ten, and a suitable ingredient. Keeper-level recipes need fifteen... and something uniquely specific in each case.]",
+  "dove": "recipes/prentice.winter.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [For a Prentice-level recipe, provide five matching Aspect and a suitable Skill.]",
+  "dove": "recipes/prentice.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's potential here. [Start by adding a Soul card.]",
+  "dove": "recipes/edge.only.hint.startdescription",
+  "ricorre": 13
+ },
+ {
+  "en": "Words, Deeds?",
+  "dove": "recipes/language.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[Add a Thing card.]",
+  "dove": "recipes/fireplace.missing.thing.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[I can't do anything with this on its own - perhaps I wanted to Consider a matching Skill so I could increase it?.]",
+  "dove": "recipes/lesson.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Languages cannot <i>usually</i> be used for Crafting.]",
+  "dove": "recipes/language.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Further Developments",
+  "dove": "recipes/hl.finished.placeholder.label",
+  "ricorre": 1
+ }
+]

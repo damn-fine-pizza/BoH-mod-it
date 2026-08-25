@@ -1,0 +1,209 @@
+{
+ "elements": [
+  {
+   "id": "address.oriflammes",
+   "label": "Indirizzo: Oriflamme’s",
+   "desc": "«Pentiment House, Mayfair.» L’indirizzo della Casa d’Aste Oriflamme’s. Scrivi loro per richiedere il loro ultimo catalogo."
+  },
+  {
+   "id": "address.agdistis",
+   "label": "Indirizzo di Agdistis",
+   "desc": "«Deutsche Tanzbühne, Berlino...» [Per rendere un invito ad Agdistis sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=sky>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.aladim",
+   "label": "Indirizzo di al-Adim",
+   "desc": "Rue Bonaparte, Nizza... [Per rendere un invito ad al-Adim sufficientemente allettante, avrai bisogno di almeno 7 <sprite name=rose>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.arthur",
+   "label": "Indirizzo di Arthur Moore",
+   "desc": "c/o Endeavour Club, Park Place, Londra... [Per rendere un invito ad Arthur Moore sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=lantern>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.arun",
+   "label": "Indirizzo di Peel",
+   "desc": "Kardia House, Chania, Creta... [Per rendere un invito a Peel sufficientemente allettante, avrai bisogno di almeno 7 <sprite name=moon>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.azita",
+   "label": "Indirizzo di Azita",
+   "desc": "Bukhara Exports, Samarcanda... [Per rendere un invito ad Azita sufficientemente allettante, avrai bisogno di almeno 7 <sprite name=edge>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.chaima",
+   "label": "Indirizzo di Chaima",
+   "desc": "Rue des Jardins, Hydra, Algeri... [Per rendere un invito a Chaima sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=edge>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.connie",
+   "label": "Indirizzo di Connie",
+   "desc": "Hotel Storchen, Zurigo... [Per rendere un invito a Connie sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=moon>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.coquille",
+   "label": "Indirizzo di Coquille",
+   "desc": "Sachino Palace, Tiflis... [Per rendere un invito a Coquille sufficientemente allettante, avrai bisogno di almeno 5 <sprite name=grail>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.corso",
+   "label": "Indirizzo di Corso",
+   "desc": "Mansard Books, Oxford... [Per rendere un invito a Corso sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=lantern>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.dagmar",
+   "label": "Indirizzo di Daymare",
+   "desc": "Schloss Nagelsburg, Ruritania... [Per rendere un invito a Daymare sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=knock>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.douglas",
+   "label": "Indirizzo di Douglas Moore",
+   "desc": "Bureau di Soppressione, Hobbs End, Londra... [Per rendere un invito a Douglas Moore sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=lantern>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.ehsan",
+   "label": "Indirizzo di Ehsan",
+   "desc": "Water Lane, Steeple Aston... [Per rendere un invito a Ehsan sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=heart>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.fraser",
+   "label": "Indirizzo di Fraser",
+   "desc": "Strathcoyne House, Midsomer Norton... [Per rendere un invito a Fraser sufficientemente allettante, avrai bisogno di almeno 5 <sprite name=scale>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.hokobald",
+   "label": "Indirizzo di Hokobald",
+   "desc": "Una casella postale a Dover, rivelata a malincuore. [Hokobald di Pocsind si rifiuta categoricamente di rispondere a un invito dall’Archivista a meno che non sia scritto nel Grande Inchiostro noto come Orpimento Esultante.]"
+  },
+  {
+   "id": "address.morgen",
+   "label": "Indirizzo di Morgen",
+   "desc": "«Saphir», Marsiglia... [Per rendere un invito a Morgen sufficientemente allettante, avrai bisogno di almeno 7 <sprite name=grail>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.olympe",
+   "label": "Indirizzo di Olympe",
+   "desc": "Kerisham Review, Plover Street, Kerisham... [Per rendere un invito a Olympe sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=moth>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.serena",
+   "label": "Indirizzo di Serena",
+   "desc": "Cecil Hotel, Alessandria... [Per rendere un invito a Serena sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=forge>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.stanislav",
+   "label": "Indirizzo di Padre Stanislav",
+   "desc": "Prieuré des Capitaines, Morbihan... [Per rendere un invito a Padre Stanislav sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=nectar>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.yvette",
+   "label": "Indirizzo di Yvette",
+   "desc": "St David’s Hill, Exeter... [Per rendere un invito a Yvette sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=moon>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "address.zachary",
+   "label": "Indirizzo di Zachary",
+   "desc": "Si viene istruiti a indirizzare la lettera letteralmente «CASA, VIA, CITTÀ, CONTEA, NAZIONE» [Per rendere un invito a Zachary sufficientemente allettante, avrai bisogno di almeno 3 <sprite name=winter>, da Abilità, Memorie, Inchiostri o qualsiasi altra cosa.]"
+  },
+  {
+   "id": "callingcard.agdistis",
+   "label": "Biglietto da Visita di Agdistis",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.aladim",
+   "label": "Biglietto da Visita di al-Adim",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.arthur",
+   "label": "Biglietto da Visita di Arthur Moore",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.arun",
+   "label": "Biglietto da Visita di Peel",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.azita",
+   "label": "Biglietto da Visita di Azita",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.chaima",
+   "label": "Biglietto da Visita di Chaima",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.connie",
+   "label": "Biglietto da Visita di Connie",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.coquille",
+   "label": "Biglietto da Visita di Coquille",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.corso",
+   "label": "Biglietto da Visita di Corso",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.dagmar",
+   "label": "Biglietto da Visita di Daymare",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.douglas",
+   "label": "Biglietto da Visita di Douglas Moore",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.ehsan",
+   "label": "Biglietto da Visita di Ehsan",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.fraser",
+   "label": "Biglietto da Visita di Strathcoyne",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.hokobald",
+   "label": "Biglietto da Visita di Hokobald",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.morgen",
+   "label": "Biglietto da Visita di Morgen",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.olympe",
+   "label": "Biglietto da Visita di Olympe",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.serena",
+   "label": "Biglietto da Visita di Serena",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.stanislav",
+   "label": "Biglietto da Visita di Padre Stanislav",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.yvette",
+   "label": "Biglietto da Visita di Yvette",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  },
+  {
+   "id": "callingcard.zachary",
+   "label": "Biglietto da Visita di Zachary",
+   "desc": "[Usa questo a una scrivania con il tuo Astuccio da Scrittura per prendere nota dell’indirizzo.]"
+  }
+ ]
+}

@@ -1,0 +1,1087 @@
+[
+ {
+  "en": "_book",
+  "dove": "elements/_book.label",
+  "ricorre": 1
+ },
+ {
+  "en": "_book.unc",
+  "dove": "elements/_book.unc.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Musician, mystic, impresario. Agdistis was a dancer once. One cannot see him without knowing it. The wound in his thigh keeps him from the stage; but his every movement still has the cadence of a prayer.",
+  "dove": "elements/agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Chaima have become friends.",
+  "dove": "elements/agdistis.xexts.befriend.agdistis.chaima",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Aleppine': Historian, doctor, and above all, traveller. The good doctor has been associated with all but one of the libraries of the Watchman's Tree. He was even Secretary Nunciant of Hush House for a little while, but he has never been on good terms with the Suppression Bureau.",
+  "dove": "elements/aladim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Connie will see each other after the salon.",
+  "dove": "elements/aladim.xexts.befriend.aladim.connie",
+  "ricorre": 1
+ },
+ {
+  "en": "Were I being polite, I would call the scent 'musky'.",
+  "dove": "elements/ambergris.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Were it released from the glass, it would be quite another colour.",
+  "dove": "elements/ampoule.amethyst.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What remains?",
+  "dove": "elements/animal.bones.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hero, pilgrim, traitor. He'll always be a soldier, but never again can he be <i>only</i> a soldier.",
+  "dove": "elements/arthur.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Douglas will keep in cautious contact.",
+  "dove": "elements/arthur.xexts.befriend.arthur.douglas",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur will be keeping an eye on Coquille.",
+  "dove": "elements/arthur.xexts.mistrust.arthur.coquille",
+  "ricorre": 1
+ },
+ {
+  "en": "Exile, riddlemonger, Thunderskin devotee. ('I'd rather say confidant.') Impeccably dressed, but always in dark clothing so the stains don't show. Dark the dressings too at his ankles and his wrists. ('I won't take a seat. It's kind of you to offer. It would be unkind of me to accept.')",
+  "dove": "elements/arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Coquille have developed a cautious amity.",
+  "dove": "elements/arun.xexts.befriend.arun.coquille",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Denzil have discreetly established an affinity.",
+  "dove": "elements/arun.xexts.befriend.arun.denzil",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Yvette will leave together tonight...",
+  "dove": "elements/arun.xexts.befriend.arun.yvette",
+  "ricorre": 1
+ },
+ {
+  "en": "Thomas Dewulf used this armillary - a spherical astrolabe - in his calculations, but it's much older than he was.",
+  "dove": "elements/astrolabe.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Collector of proverbs, connoisseur of wines, herald of the Hour called Mare-in-the-Tree.",
+  "dove": "elements/auntmopsy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Businesswoman, chess-master, initiate of the scarred Hour sometimes called the Colonel.",
+  "dove": "elements/azita.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There's something between Azita and Yvette, although exactly what remains to be seen.",
+  "dove": "elements/azita.xexts.befriend.azita.yvette",
+  "ricorre": 1
+ },
+ {
+  "en": "When one understands the distinction between 'marinate' and 'marinade', there is no limit to one's power to irritate the innocent.",
+  "dove": "elements/beef.marinated.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "ÁÚÍ áúí ìòù ÈÌÒÙ ªº",
+  "dove": "elements/bonus_latin_for_extractor_run.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Very, very, very faintly, even after all these years, the unmistakable yeasty marshy odour of Prophet-slime.",
+  "dove": "elements/bucket.mop.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Thomas was one of the first abbots here, just before the beginning of the Solar Gothic period. This bust is much more recent - a nineteenth-century bronze. An inscription reads: SPEECH, THE FIRST SWORD.",
+  "dove": "elements/bust.abbot.thomas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visionary, philosopher, alchemist. Most revered, and most heterodox, of the isle's abbesses. An inscription in Latin reads: THE CROSS DIED NOT BUT PASSED WITHIN.",
+  "dove": "elements/bust.melancthe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Thomas Dewulf, called 'Baron Silence', second of his line - astronomer, ouranoscoper, who followed in the footsteps of his long-deceased namesake.",
+  "dove": "elements/bust.thomas.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Valentine Dewulf, 6th Baron Brancrug, known for his eccentricities. 'IN THE SKY HE SOUGHT HIS FRIENDS', an inscription reads.",
+  "dove": "elements/bust.valentine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Walter Dewulf, who found Hush House a draughty castle and left it a stately home, but who will always be remembered for his cowardice, his sorrow, and his son Bryan's treachery.",
+  "dove": "elements/bust.walter.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Under no circumstances should this ever be confused with Devonshire Honey Cake, which everyone in Brancrug could instantly identify as an inferior variation.",
+  "dove": "elements/cake.honey.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "To comfort you through the dark hours.",
+  "dove": "elements/candle.bedside.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Weighty Bedside Candleholder",
+  "dove": "elements/candle.bedside.x.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Traces of a paper label: DO… RAV….18…",
+  "dove": "elements/candle.bottle.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Watchful Candle",
+  "dove": "elements/candle.holdergold.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Unimpressed Cat",
+  "dove": "elements/cat.hungry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Watch the thorns.",
+  "dove": "elements/catsclaw.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Huntress, goumier, occasional Bureau consultant. When it can't be killed, and it really needs killing, Chaima's the one they turn to.",
+  "dove": "elements/chaima.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Zachary have something almost like a friendship.",
+  "dove": "elements/chaima.xexts.befriend.chaima.zachary",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncomfortable Seat",
+  "dove": "elements/chair.church.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Upholstered in a velvet of peculiar richness that invites the hand. Sit down a while. You've earned it.",
+  "dove": "elements/chair.grail.c.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Upholstered without any particular skill.",
+  "dove": "elements/chair.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Velvet smooth as midnight.",
+  "dove": "elements/chair.moon.a.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Velvet soft as starlight.",
+  "dove": "elements/chair.moon.b.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Velvet dark as blue dusk.",
+  "dove": "elements/chair.moon.c.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twilight Chair",
+  "dove": "elements/chair.moon.c.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Unfussy marsh-green upholstery.",
+  "dove": "elements/chair.severe1.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Was this magnificent and indomitable beast named for the rector's indomitable and magnificent housekeeper? Best not to inquire too closely.",
+  "dove": "elements/chicken.terrence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tuppence's most notable quality, all observers will agree, is that she is not Terrence.",
+  "dove": "elements/chicken.tuppence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tuppence, the Other Chicken",
+  "dove": "elements/chicken.tuppence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tuppence, in her uncertainty.",
+  "dove": "elements/chicken.tuppence.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "Tuned in an unlikely city to ensure its chimes attract the attention of the unseen.",
+  "dove": "elements/clock.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie has risen swiftly in the Suppression Bureau, to the exalted rank of Constable-Oculate Minor. Don't get in her way.",
+  "dove": "elements/connie.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Artist, socialite... burglar? An unspeakably charming woman with a particular knack for getting adopted.",
+  "dove": "elements/coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Douglas are not friends - not quite.",
+  "dove": "elements/coquille.xexts.befriend.coquille.douglas",
+  "ricorre": 1
+ },
+ {
+  "en": "Manuscript-hunter, legacy-scavenger... mercenary? Many would question his ethics; few would deny his acuteness.",
+  "dove": "elements/corso.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Five shillings; one-quarter of a pound.",
+  "dove": "elements/crown.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Crown",
+  "dove": "elements/crown.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Veiled Goddess Lapsang Souchong (Cup)",
+  "dove": "elements/cup.tea.lapsang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gräfin Friederike Dagmar Sophia Theresia Helena Benigna von Nagelsburg, if you prefer. She doesn't.",
+  "dove": "elements/dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone has finished their work.",
+  "dove": "elements/departure.assistance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Departure",
+  "dove": "elements/departure.assistance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone's time is up, and now they're going home.",
+  "dove": "elements/departure.assistance.longer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone's going home.",
+  "dove": "elements/departure.visiting.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twinned-Fish Stone",
+  "dove": "elements/disc.fishes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "e.g. convincing a visitor it's not worth their time. We can use it both for marking them for embarkation, and for dissatisfaction comments",
+  "dove": "elements/dissatisfying.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Walkies are surely a small price to pay for his unshakeable fidelity.",
+  "dove": "elements/dog.tame.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Detective-Illuminate of the Suppression Bureau. A stoic, but weary, fellow. His dearest wish is to move to Chingford and grow roses. But the buggers won't let him retire.",
+  "dove": "elements/douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas has learnt to tolerate Hokobald better than most.",
+  "dove": "elements/douglas.xexts.befriend.douglas.hokobald",
+  "ricorre": 1
+ },
+ {
+  "en": "This was something.",
+  "dove": "elements/dregs.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Dregs",
+  "dove": "elements/dregs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dust",
+  "dove": "elements/dust.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[This memory has become part of something else.]",
+  "dove": "elements/echo.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Echo",
+  "dove": "elements/echo.label",
+  "ricorre": 1
+ },
+ {
+  "en": "When it cracks, a craze of lines, the tiniest sound, and then a joyous freedom for potentially delicious goo.",
+  "dove": "elements/egg.chicken.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "Viper Egg",
+  "dove": "elements/egg.viper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Formerly; Ehsan was a healer; he was not human; he was Secretary Salvant of Hush House. But not all at the same time. Fussy, kind, famously foul to look upon.",
+  "dove": "elements/ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mm. Well, no doubt we shall see each other again.'",
+  "dove": "elements/embarking_aladim.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Never mind. The traveller is always returning, no? So if I come back later, am I returning then? Or am I returning now?'",
+  "dove": "elements/embarking_arun.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'My move, then...'",
+  "dove": "elements/embarking_azita.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'And your weather. Your weather is also a disappointment.'",
+  "dove": "elements/embarking_chaima.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'I can't believe we used to fund this place.'",
+  "dove": "elements/embarking_connie.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oh, sweetie. I'm not disappointed, just... well, perhaps I'm a <i>little</i> disappointed.'",
+  "dove": "elements/embarking_coquille.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Not to worry! Nice to get a bit of sea air.'",
+  "dove": "elements/embarking_dagmar.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'I know the House has been through hard times. But though much is taken, much abides, does it not? Another time.'",
+  "dove": "elements/embarking_ehsan.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'That's the bloody thing about bloody libraries.",
+  "dove": "elements/embarking_franklin.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sometimes, the end comes sooner. Sometimes, there's no damned end to it at all.'",
+  "dove": "elements/embarking_julian.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'I arrive hungry. I leave <i>famished</i>. Someone will regret that... but not you, not today.'",
+  "dove": "elements/embarking_morgen.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'So much has been lost, hasn't it? I don't envy you. Good luck.'",
+  "dove": "elements/embarking_serena.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'As God wills, I suppose. (Don't ask me which God!)'",
+  "dove": "elements/embarking_stanislav.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perhaps I'll never understand...'",
+  "dove": "elements/embarking_yvette.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "What happens when you boil and scrape us down to our utter fundamentals.",
+  "dove": "elements/essential.periost.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This was something left from before any of us were born - from a time when the sun swung red and low -   [There are Nectar, Moon and Winter recipes which can be used to craft this from mortal remains.]",
+  "dove": "elements/essential.periost.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'I promise to pay the Bearer on Demand the Sum of Five Pounds'. The Bearer never does demand, though.",
+  "dove": "elements/fivepoundnote.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A moment in time. In another moment, it'll be gone. [If unused, Memories disappear with the dawn.]",
+  "dove": "elements/fleeting.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Vanilla, custard, and meringue, landscaped and caramelled: a Claridge's speciality.",
+  "dove": "elements/floating.island.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A shilling per side.",
+  "dove": "elements/florin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Florin",
+  "dove": "elements/florin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rakehell, dilettante, infuriating prodigy. Possibly dead, possibly real.",
+  "dove": "elements/franklin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Philanthropist, collector, former Librarian. A complicated man, but not a cruel one.",
+  "dove": "elements/fraser.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever that means, it meant it. [There is a Scholar-level Knock recipe that can craft this with glass, and a Scholar-level Sky recipe that can craft it with metal.]",
+  "dove": "elements/gervinite.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Watchman's Globe",
+  "dove": "elements/globe.watchman.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Valentine died two centuries ago. This stone is much newer - more like two decades old.",
+  "dove": "elements/gullscry.memorial.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Valentine's Memorial",
+  "dove": "elements/gullscry.memorial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Two and a half shillings. Obviously.",
+  "dove": "elements/halfcrown.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "To go in this slot, an object must match all of these.",
+  "dove": "elements/hint.essential.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "ESSENTIAL",
+  "dove": "elements/hint.essential.label",
+  "ricorre": 1
+ },
+ {
+  "en": "If an object matches any of these, it can't go in this slot.",
+  "dove": "elements/hint.forbidden.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "FORBIDDEN",
+  "dove": "elements/hint.forbidden.label",
+  "ricorre": 1
+ },
+ {
+  "en": "To go in this slot, an object must match at least one of these.",
+  "dove": "elements/hint.required.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "REQUIRED",
+  "dove": "elements/hint.required.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[You can only keep five things in your belongings. A sixth item will be abandoned unless it already has a home. Abandoned items will wait for you outside the House.]",
+  "dove": "elements/hint.tothethresholdofthehouse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "TO THE THRESHOLD OF THE HOUSE",
+  "dove": "elements/hint.tothethresholdofthehouse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Aspects most likely to be useful here: \n\n[further]",
+  "dove": "elements/hint.workstation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Metallurgist, gourmet, corrupted immortal. And, supposedly, a long-ago king's by-blow.",
+  "dove": "elements/hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Torn.",
+  "dove": "elements/human.hair.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Torpid with hunger.",
+  "dove": "elements/imago.hungry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In a hidden fold of the mountains above the city of Cluj lies the enigmatic relic they call Saint Mihail's Coffin. Decades of patient work have finally breached its outer shell. [Visitors with an interest in <sprite name=knock> or <sprite name=moon> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.box.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone would like to know something.",
+  "dove": "elements/incident.consultation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Oriflamme's Auction House is never robbed. But what if it has been? What if, somehow, priceless treasures have been replaced with pricey forgeries? How could we even be sure? [Visitors with an interest in <sprite name=knock> or <sprite name=forge> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.heist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the hissing wastes of sand where once stood a city called Miah… another man has died. But he almost made it out. He made it far enough that a goatherd found him, raving to the end about gardens, with a flower crushed in his hand. [Visitors with an interest in <sprite name=moth> or <sprite name=rose> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.lost.find.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Like many criminal enterprises, Reckoners offer loans to the desperate and unwary - but Reckoners can offer loans not only of cash, but of allotted years of life. They usually keep a low profile, but now two Reckoner mobs have gone to war in the unremarkable Lithuanian city of Kaunas. Why? What's in Kaunas? [Visitors with an interest in <sprite name=moon> or <sprite name=edge> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.mob.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Suppression Bureau has a growing interest in the recent fad for unconventional - often prophetic - religious movements. No laws have been broken. Nothing sinister has come to light. All these movements are comfortingly Solar in nature. But there does seem to be something going on. [Visitors with an interest in <sprite name=winter> or <sprite name=lantern> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.mystical.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In Numa, visitors will be concerned with the tricks and strategems that might have been used in secret by the Hours. [As long as this card remains, Numatic visitors will have an interest in <sprite name=moon> Mysteries. Their needs will usually be more exacting than visitors who come during more traditional seasons.]",
+  "dove": "elements/incident.numa.moon.a.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In Numa, visitors will be concerned with the Hours honoured by the Sisterhood of the Knot. [As long as this card remains, Numatic visitors will have an interest in <sprite name=grail> or <sprite name=nectar> Mysteries. Their needs will usually be more exacting than visitors who come during more traditional seasons.]",
+  "dove": "elements/incident.numa.wood.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Messana: a prosperous little desert village that has become, in recent years, a place of pilgrimage. There have been peculiar manifestations there of late - villagers gifted with sight, or struck blind. The Church has despatched its representatives to investigate. [Visitors with an interest in <sprite name=lantern> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.omen.dawn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sailors have a term for the compass-whirl phenomenon which occurs before sightings of the city Ys. They say a compass has caught 'the giddy horizons'. There is something of a giddy epidemic in the North Sea this year. [Visitors with an interest in <sprite name=rose> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.omen.horizon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "No-one has ever successfully staged an entire performance of 'Wings Within Wings'. That's probably why they call it the Invisible Opera. But now someone is trying again. [Visitors with an interest in <sprite name=grail> or <sprite name=moth> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.opera.wings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The 'Lyterion', a faddish health camp in the Black Forest, has attracted attention after many of its clients seem to have developed sudden, sometimes upsetting, artistic abilities. [Visitors with an interest in <sprite name=heart> or <sprite name=nectar> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.pan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The New King has sanctioned the use of the Crown's wealth to fund a visionary new industrial project - one that will transform our economy, and furnish the kingdom with a sense of patriotic mission. Parliament, dazzled, has already passed the Royal Endeavour Act, mandating the construction of the necessary facilities, although the details remain in some respects vague. [Visitors with an interest in <sprite name=forge> or <sprite name=lantern> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.project.solar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the drier reaches of the Bounds, the Légion du Seuil keeps a brutal peace. Perhaps even a necessary one. But the Légion recruits from among the Bounds-beasts. How trustworthy is it, really?  [Visitors with an interest in <sprite name=edge> or <sprite name=grail> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.revolution.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ligeian Medusa is long dead, as is well attested. It's nevertheless well-attested also that she walks the streets of Budapest by moonlight. That's just one of those things. But now, for the first time, she's being glimpsed in daylight too. What could <i>that</i> portend? [Visitors with an interest in <sprite name=edge> or <sprite name=rose> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.stalk.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In a highly specialised clinic in an obscure corner of the capital, specialists study the ecstatic agonies of the case known only as'the Open Reverend', who once was the vicar of the parish of St Agnes Forestreet. The blessings of St Agnes of the Fires and St Agnes of the Shears are ungentle. But St Agnes of the Threshold may be her cruellest aspect...  [Visitors with an interest in <sprite name=heart> or <sprite name=winter> Mysteries will want to talk about this.]",
+  "dove": "elements/incident.wound.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Useful for calcination, purification, alteration; invaluable for snootlery.",
+  "dove": "elements/jar.snootle.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and this journal will record what arose from my Crime and my Curse. [The Archaeologist's dearest wish, when they came to the House, was to record a History where their crime could be forgiven... or redefined. But you can complete the game by recording any History. You might wish to begin your studies with the Skolekosophy Wisdom.]",
+  "dove": "elements/journal.archaeologist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Goatskin? Antelope? Some scarred leather that catches at my memory. I should know.",
+  "dove": "elements/journal.archaeologist.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Picasso? I'll give you Picasso.' [The Artist came to Hush House to shape and share a History of primal, ultimate, unprecedented experience; but you can complete the game by recording any History. You might wish to begin your studies with the Bosk Wisdom.]",
+  "dove": "elements/journal.artist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The binding is unusual - and half-familiar - some kind of silk? It's survived its soaking remarkably well.",
+  "dove": "elements/journal.artist.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and this journal will be my Perpetual Map. [The Cartographer's dearest wish, when they came to the House, was to chart a new History in which their impossible map would be possible; but you can complete the game by recording any History. You might wish to begin your studies with the Nyctodromy Wisdom.]",
+  "dove": "elements/journal.cartographer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The scaled binding has survived the soaking well enough.",
+  "dove": "elements/journal.cartographer.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I laid so many of those uncanny things to rest. I thought it was right. I fear now it was not. I am the Librarian of Hush House, and here I will ensure they will be remembered. [The Executioner's dearest wish, when they came to the House, was to record a new History which will atone for their crimes; but you can complete the game by recording any History. You might wish to begin your studies with the Preservation Wisdom.]",
+  "dove": "elements/journal.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The cover is unusual. Horn? Bakelite? Chitin? I should be able to remember.",
+  "dove": "elements/journal.executioner.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The one possession I kept from the shipwreck. It must be important to me. [The Aspects below tell you more about how and where you can use this item. Hover over them to learn more.]",
+  "dove": "elements/journal.generic.start.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The storm didn't take everything.",
+  "dove": "elements/journal.generic.start.slots.memory.description",
+  "ricorre": 1
+ },
+ {
+  "en": "What's left?",
+  "dove": "elements/journal.generic.start.slots.memory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I was rich; but something was missing. I am no longer rich... and still, something is missing. Hush House is a place of conclusions, and here, as Librarian, I may find mine. [The Magnate came to the House to conclude a History where they will find peace; but you can complete the game by recording any History. You might wish to begin your studies with the Hushery Wisdom.]",
+  "dove": "elements/journal.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Is that real silver? I feel that it should be. I should remember.",
+  "dove": "elements/journal.magnate.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've crossed three oceans and almost drowned in one. Now I am the Librarian of Hush House. Perhaps here I will be safe from my parents; but I can't take that for granted. [The Prodigal's dearest wish is sanctuary - as Librarian, or in a History where things are different;but you can complete the game by recording any History. You might wish to begin your studies with the Ithastry Wisdom.]",
+  "dove": "elements/journal.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The unusual metal binding is untouched by the sea.",
+  "dove": "elements/journal.prodigal.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have striven to be the last Librarian of Hush House. This journal records my strivings. [The Revolutionary's dearest wish, when they came to the House, was to carve out a new History where the most fundamental law would be overthrown; but you can complete the game by recording any History. You might wish to begin your studies with the Horomachistry Wisdom.]",
+  "dove": "elements/journal.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The heavy metal cover nearly took me down with it. But I survived, and so will this.",
+  "dove": "elements/journal.revolutionary.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In Caer Adar I heard the secret gods speak one to another. I thought that would be the end of my journey, but the more I heard, the more I knew must be missing. I am the Librarian of Hush House, and I will find what has been lost. [The Symurgist came to Hush House to find a History with the songs that have fallen to silence; but you can complete the game by recording any History. You might wish to begin your studies with the Birdsong Wisdom.]",
+  "dove": "elements/journal.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The feathers that adorn its cover are bedraggled from its time in the sea.",
+  "dove": "elements/journal.symurgist.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Twice-Born Librarian of Hush House, and this is the journal in which I keep my remaining memories. [The Twiceborn's 'third choice' might be life as the Librarian, or it might be something more radical. But you can complete the game by recording any History. You might wish to begin your studies with the Illumination Wisdom.]",
+  "dove": "elements/journal.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dull-gleaming yellowish stones. Amber? I feel that I should know...",
+  "dove": "elements/journal.twiceborn.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Magus, Winter-long, controversial philosopher. For an immortal exalted by an Hour of Silence, especially one who might be dead, he has had a great deal to say for himself over the years.",
+  "dove": "elements/julian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Unimpeachably sturdy.",
+  "dove": "elements/lamp.hurricane.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "To ensure clarity of vision even in utmost dark. It does flicker occasionally.",
+  "dove": "elements/lamp.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twitching voraciously.",
+  "dove": "elements/larva.hungry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Light leaks in where, from, how. [An unusual and versatile lesson that will NOT PERSIST PAST DAWN. Use it quickly.]",
+  "dove": "elements/lesson.giribrago.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Lesson of Many Facets",
+  "dove": "elements/lesson.giribrago.label",
+  "ricorre": 1
+ },
+ {
+  "en": "We do not poach fish in Brancrug without recalling the Turbot Crisis of 1786, when Dr Westcott caught a prodigious turbot, and required the kitchen to poach it for him 'without division'; but no vessel of sufficient size could be found to poach it entire. At last they resorted to 'alchemical assistance'. Mackerel, fortunately, requires no alchemy for its poaching.",
+  "dove": "elements/mackerel.poached.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This was not a marrow conducive to harmony. Now it's a dish for warriors.",
+  "dove": "elements/marrow.stuffed.acrid.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This was a marrow with secrets. Now it's a dish for mystes.",
+  "dove": "elements/marrow.stuffed.dark.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This was a marrow redolent of sorrow. Now it's a dish to comfort the damned.",
+  "dove": "elements/marrow.stuffed.pale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Westcott's Compounds",
+  "dove": "elements/material.westcott.label",
+  "ricorre": 1
+ },
+ {
+  "en": "To be used carefully; just in case of storms. [Crafted from wood with certain Scholar-level Sky recipes.]",
+  "dove": "elements/mazarine.fife.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever it was, now it isn't.",
+  "dove": "elements/mem.loss.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "What in the Wolf-Divided's most splintered Name hath here been wrought?",
+  "dove": "elements/meringue.mushroom.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Walls-of-Ys",
+  "dove": "elements/meringue.ys.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Socialite, yachtswoman... and, under the name 'Morgen', an alukite, a Ligeian. The former means, among other things, that she eats people. The latter means, among other things, that she is not to be taken lightly.",
+  "dove": "elements/morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen seems almost protective of Zachary.",
+  "dove": "elements/morgen.xexts.befriend.morgen.zachary",
+  "ricorre": 1
+ },
+ {
+  "en": "Traditionally, the flower of the library called the Tomb of Lies - 'where truth yet lives'.",
+  "dove": "elements/moth.orchid.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Thunderskin's Paean",
+  "dove": "elements/music.thunderskin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Autumn",
+  "dove": "elements/musiccollection.autumn.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Contemplative",
+  "dove": "elements/musiccollection.contemplative.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Spring",
+  "dove": "elements/musiccollection.spring.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Summer",
+  "dove": "elements/musiccollection.summer.label",
+  "ricorre": 3
+ },
+ {
+  "en": "'A Knowledge in the Look of Things'",
+  "dove": "elements/musictrack.aknowledgeinthelookofthings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'A Postcard from Brancrug'",
+  "dove": "elements/musictrack.apostcardfrombrancrug.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Belly of the Earth'",
+  "dove": "elements/musictrack.bellyoftheearth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Fire in the Library'",
+  "dove": "elements/musictrack.fireinthelibrary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'I Stand at the Door'",
+  "dove": "elements/musictrack.istandatthedoor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'One Bare Hour'",
+  "dove": "elements/musictrack.onebarehour.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Peace in the Deep'",
+  "dove": "elements/musictrack.peaceinthedeep.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Rain Brings the Dawn'",
+  "dove": "elements/musictrack.rainbringsthedawn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Golden Son'",
+  "dove": "elements/musictrack.thegoldenson.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Laughingthrush'",
+  "dove": "elements/musictrack.thelaughingthrush.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Magic Between The Trees'",
+  "dove": "elements/musictrack.themagicbetweenthetrees.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Memory Which Does Not Die'",
+  "dove": "elements/musictrack.thememorywhichdoesnotdie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Ninth Part",
+  "dove": "elements/musictrack.theninthpart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Road To Brancrug'",
+  "dove": "elements/musictrack.theroadtobrancrug.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Twelfth Stroke'",
+  "dove": "elements/musictrack.thetwelfthstroke.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Velvet's Nameless Name'",
+  "dove": "elements/musictrack.thevelvetsnamelessname.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Water's Edge'",
+  "dove": "elements/musictrack.thewatersedge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What happens when you close the book on a butterfly?",
+  "dove": "elements/numen.alte.xexts.scrutiny",
+  "ricorre": 13
+ },
+ {
+  "en": "When Eternity came into the world, certain prudent powers arranged loopholes: the House of the Moon, the persistence of possibility, the right to vengeance. In the right Histories, those loopholes will open again... [Any Librarian can use this to establish a History and complete the game - but the Twice-Born can win a particular victory.]",
+  "dove": "elements/numen.loop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Umbrous Oil",
+  "dove": "elements/oil.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Essayist, illustrator, critic. Editor of the Kerisham Review.",
+  "dove": "elements/olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Veiled Goddess Lapsang Souchong (Packet)",
+  "dove": "elements/packet.tea.lapsang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Trees are rarely this colour.",
+  "dove": "elements/paint.green.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Valentine Dewulf's magnificent green cockatoo. The painting is signed by Valentine himself.",
+  "dove": "elements/painting.cockatoo.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Valentine, who had an interest in the religions of the new world, named his bird for the Mayan god of rain and thunder.",
+  "dove": "elements/painting.cockatoo.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Watchful? Hungry? Both?",
+  "dove": "elements/painting.thekiss.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Tightly wrapped in oilcloth.",
+  "dove": "elements/parcel.tall.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What animal gave its skin to make this parchment? Something colourless as glass and snow; something bleached and wrung and purer than silence.",
+  "dove": "elements/parchment.nivine.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Currently, this just removes the entire coin. With some extra behaviour, it should give change.",
+  "dove": "elements/payment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The smallest denomination coin, except for the smaller ones.",
+  "dove": "elements/penny.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Penny",
+  "dove": "elements/penny.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This was the sort of dish you might expect to find for a late supper after the theatre, or halfway through a ball.' - Arabella Boxer",
+  "dove": "elements/pheasant.roast.salad.grape.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "We are all in the gutter, but some of us are looking at the stars.' - Wilde, <i>Lady Windermere's Fan</i>",
+  "dove": "elements/pie.pilchards.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Water it, and you can almost hear it growing.",
+  "dove": "elements/pot.bamboo.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tiny as a ship in a bottle.",
+  "dove": "elements/pot.bonsai.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tiny Potted Tree",
+  "dove": "elements/pot.bonsai.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Thomas Dewulf was fond of these. It's not what you'd expect from Thomas Dewulf.",
+  "dove": "elements/pot.daisies.malachite.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Veiled Goddess Lapsang Souchong (Half-Pot)",
+  "dove": "elements/pot.tea.lapsang.h.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Veiled Goddess Lapsang Souchong  (Pot)",
+  "dove": "elements/pot.tea.lapsang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Twilight Pot",
+  "dove": "elements/pot.twilight.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Watchful Potted Plant",
+  "dove": "elements/pot.watchful.label",
+  "ricorre": 1
+ }
+]

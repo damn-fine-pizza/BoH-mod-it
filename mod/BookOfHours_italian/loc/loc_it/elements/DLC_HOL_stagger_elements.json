@@ -1,0 +1,169 @@
+{
+ "elements": [
+  {
+   "id": "slnstg.chaima.agdistis",
+   "label": "...",
+   "desc": "Chaima ha ispirato in Agdistis un entusiasmo per le danze della sua terra natale. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.douglas.arthur",
+   "label": "...",
+   "desc": "Douglas e Arthur hanno scoperto di essere parenti. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.fraser.arthur",
+   "label": "...",
+   "desc": "Dopo una conversazione con Arthur, Fraser fu tentato di visitare l’Abisso di Althiban. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.douglas.arun",
+   "label": "...",
+   "desc": "Arun ha condiviso con Douglas i dettagli su un Lungo in gestazione da tempo. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.fraser.arun",
+   "label": "...",
+   "desc": "Fraser ha chiesto aiuto ad Arun per i cambiamenti che sta attraversando. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.dagmar.chaima",
+   "label": "...",
+   "desc": "Dagmar ha chiesto a Chaima consiglio su una visita alla Pentapoli Mozabita. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.agdistis.connie",
+   "label": "...",
+   "desc": "Connie ha menzionato l’Uranoscopia in un modo che potrebbe incoraggiare Agdistis ad approfondire... [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.arun.connie",
+   "label": "...",
+   "desc": "Arun ha notevolmente infastidito Connie. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.azita.connie",
+   "label": "...",
+   "desc": "Connie sperava di fornire gioielli talismanici al Bureau con l’assistenza di Azita. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.azita.coquille",
+   "label": "...",
+   "desc": "Azita voleva un’introduzione all’amico di Coquille, Giorgiou. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.arthur.corso",
+   "label": "...",
+   "desc": "Corso e Arthur hanno concordato di scriversi in Ericapaean. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.connie.corso",
+   "label": "...",
+   "desc": "Connie ha interrogato Corso a proposito di un libro scomparso. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.coquille.dagmar",
+   "label": "...",
+   "desc": "Dagmar voleva presentare Coquille a un amico. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.fraser.dagmar",
+   "label": "...",
+   "desc": "Fraser ha incaricato Dagmar di ispezionare le sue misure di sicurezza. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.agdistis.fraser",
+   "label": "...",
+   "desc": "Fraser sperava di incaricare Agdistis come coreografo. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.arthur.hokobald",
+   "label": "...",
+   "desc": "Hokobald ha tenuto una lezione ad Arthur sulla Guerra delle Strade. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.douglas.hokobald",
+   "label": "...",
+   "desc": "Douglas e Hokobald hanno trovato un terreno comune nella loro avversione per l’Endeavour Club. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.zachary.morgen",
+   "label": "...",
+   "desc": "Zachary ha cercato aiuto da Morgen. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.connie.stanislav",
+   "label": "...",
+   "desc": "Connie ha risvegliato l’interesse di Stanislav per lo «Spinnennebel». [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.douglas.stanislav",
+   "label": "...",
+   "desc": "Stanislav ha risvegliato l’interesse di Douglas per la morte, ormai lontana nel tempo, della Badessa Nonna. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.morgen.yvette",
+   "label": "...",
+   "desc": "Morgen ha dimostrato un insolito interesse per Yvette. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.connie.zachary",
+   "label": "...",
+   "desc": "Zachary ha chiesto aiuto a Connie. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.corso.zachary",
+   "label": "...",
+   "desc": "Zachary ha chiesto a Corso una preghiera in Hyksos. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.hokobald.azita",
+   "label": "...",
+   "desc": "Hokobald e Azita hanno fatto un braccio di ferro. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.hokobald.morgen",
+   "label": "...",
+   "desc": "Hokobald e Morgen si sono scambiati gioielli. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.douglas.coquille",
+   "label": "...",
+   "desc": "Coquille ha rivolto a Douglas domande incaute. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.visiting.denzil.aladim",
+   "label": "...",
+   "desc": "Denzil e al-Adim hanno condiviso un vivace interesse per la maniscalcheria. [Questi due potrebbero dire qualcos’altro in proposito se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.visiting.denzil.arun",
+   "label": "...",
+   "desc": "Denzil e Arun si sono goduti una conversazione insolitamente accesa. [Questi due potrebbero avere altro da dire se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.visiting.killes.corso",
+   "label": "...",
+   "desc": "Corso ha manifestato un interesse – sincero o no – per la poesia di Mr Kille. [Questi due potrebbero dire di più se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.visiting.killes.morgen",
+   "label": "...",
+   "desc": "Mrs Kille si è rivolta a Morgen chiamandola «Chaculette»; Morgen ha risposto come se comprendesse il termine. [Questi due potrebbero dire di più se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.visiting.killes.olympe",
+   "label": "...",
+   "desc": "Mr Kille e Olympe hanno scoperto un interesse condiviso per le opere di Noël Coward. [Questi due potrebbero avere altro da dirsi se li inviti entrambi a un altro Salotto.]"
+  },
+  {
+   "id": "slnstg.visiting.timothy.morgen",
+   "label": "...",
+   "desc": "Il Reverendo Timothy spera di non ritrovarsi mai più nella stessa stanza di Mlle Matutine."
+  },
+  {
+   "id": "slnstg.visiting.timothy.arun",
+   "label": "...",
+   "desc": "Il Reverendo Timothy era emozionato di trovarsi a un Salotto con l’autore de «La Misura Radicale». [Timothy e Arun potrebbero avere altro da dirsi se li inviti entrambi a un altro Salotto.]."
+  }
+ ]
+}

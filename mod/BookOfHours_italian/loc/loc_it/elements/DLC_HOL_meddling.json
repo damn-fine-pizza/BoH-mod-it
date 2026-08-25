@@ -1,0 +1,19 @@
+{
+ "elements": [
+  {
+   "id": "inkling",
+   "label": "Intuizione",
+   "desc": "Un’opportunità per ottenere una potente Memoria; o il preludio di un possibile cattivo uso di un Grande Inchiostro. [Completa un’Ulteriore Storia in modo significativo – in genere, questo vuol dire non Concludere in modo inconcludente – per ottenere un’Intuizione. Esamina un’Intuizione per ottenere una Memoria; esamina due Intuizioni insieme per ottenere una Via d’Indagine.]",
+   "slots": [
+    {
+     "id": "otherinkling"
+    }
+   ]
+  },
+  {
+   "id": "avenue.enquiry",
+   "label": "Via d’Indagine",
+   "desc": "Un espediente che l’Archivista impiegherebbe con saggezza solo come memoria versatile. Esiste un’alternativa. [Grande Inchiostro di Potere; elemento Anima a portata di mano; incautela; prontezza; supporto di scrittura vuoto; Inchiesta tramite questa Via. Saggio? L’assenza è vera abilità.]"
+  }
+ ]
+}

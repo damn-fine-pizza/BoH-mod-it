@@ -1,0 +1,34 @@
+{
+ "verbs": [
+  {
+   "id": "time",
+   "label": "Alba",
+   "desc": "[levar del sole]"
+  },
+  {
+   "id": "season",
+   "label": "Stagione",
+   "desc": "[Stagione]"
+  },
+  {
+   "id": "incident.base",
+   "label": "Incidente",
+   "desc": "Verbo base per espulsione incidenti"
+  },
+  {
+   "id": "incident.advance",
+   "label": "Avanzamento dell’Incidente",
+   "desc": "Verbo Ulteriori Sviluppi"
+  },
+  {
+   "id": "incident.expulsion.finisher",
+   "label": "Completamento dell’Espulsione dell’Incidente",
+   "desc": "Verbo separato per contrassegnare gli incidenti conclusi."
+  },
+  {
+   "id": "numa.incident.base",
+   "label": "Incidente",
+   "desc": "Verbo base per espulsione incidenti Numa"
+  }
+ ]
+}

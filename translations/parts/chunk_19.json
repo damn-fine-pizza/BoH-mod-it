@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "Mark paper with ink to create a manuscript that will open knowledge to visitors. [This manuscript will satisfy Knock and Lockworks & Clockworks Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Knock aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.lockworks.clockworks.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mark paper with ink to create a manuscript that will open knowledge to visitors. [This manuscript will satisfy Knock and Preliminal Meter Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Knock aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.preliminalmeter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mark paper with ink to create a manuscript that will open knowledge to visitors. [This manuscript will satisfy Knock and Vak Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Knock aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.vak.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perpetuate knowledge with ink and paper. [This manuscript will satisfy Heart and Drums & Dances Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Heart aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.drums.dances.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perpetuate knowledge with ink and paper. [This manuscript will satisfy Heart and Edicts Inviolable Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Heart aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.edictsinviolable.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perpetuate knowledge with ink and paper. [This manuscript will satisfy Heart and Fucine Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Heart aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.fucine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perpetuate knowledge with ink and paper. [This manuscript will satisfy Heart and Herbs & Infusions Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Heart aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.herbs.infusions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perpetuate knowledge with ink and paper. [This manuscript will satisfy Heart and Surgeries & Exsanguinations Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Heart aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.surgeries.exsanguinations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perpetuate knowledge with ink and paper. [This manuscript will satisfy Heart and Weaving & Knotworking Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Heart aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.weaving.knotworking.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Anbary & Lapidary Manuscript",
+  "dove": "recipes/manuscript.write.anbary.lapidary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Bells & Brazieries Manuscript",
+  "dove": "recipes/manuscript.write.bells.brazieries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Coil & Chasm Manuscript",
+  "dove": "recipes/manuscript.write.coil.chasm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Cracktrack Manuscript",
+  "dove": "recipes/manuscript.write.cracktrack.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Deep Mandaic Manuscript",
+  "dove": "recipes/manuscript.write.mandaic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Desires & Dissolutions Manuscript",
+  "dove": "recipes/manuscript.write.desires.dissolutions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Disciplines of the Hammer Manuscript",
+  "dove": "recipes/manuscript.write.disciplines.thehammer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Disciplines of the Scar Manuscript",
+  "dove": "recipes/manuscript.write.disciplines.thescar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Door & Wall Manuscript",
+  "dove": "recipes/manuscript.write.door.wall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Drums & Dances Manuscript",
+  "dove": "recipes/manuscript.write.drums.dances.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Edicts Inviolable Manuscript",
+  "dove": "recipes/manuscript.write.edictsinviolable.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Edicts Liminal Manuscript",
+  "dove": "recipes/manuscript.write.edictsliminal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Edicts Martial Manuscript",
+  "dove": "recipes/manuscript.write.edictsmartial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Ericapaean Manuscript",
+  "dove": "recipes/manuscript.write.ericapaean.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Fucine Manuscript",
+  "dove": "recipes/manuscript.write.fucine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Furs & Feathers Manuscript",
+  "dove": "recipes/manuscript.write.furs.feathers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Glassblowing & Vesselcrafting Manuscript",
+  "dove": "recipes/manuscript.write.glassblowing.vesselcrafting.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Glaziery & Lightsmithing Manuscript",
+  "dove": "recipes/manuscript.write.glaziery.lightsmithing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Henavek Manuscript",
+  "dove": "recipes/manuscript.write.henavek.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Herbs & Infusions Manuscript",
+  "dove": "recipes/manuscript.write.herbs.infusions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Hill & Hollow Manuscript",
+  "dove": "recipes/manuscript.write.hill.hollow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Horns & Ivories Manuscript",
+  "dove": "recipes/manuscript.write.horns.ivories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Hyksos Manuscript",
+  "dove": "recipes/manuscript.write.hyksos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Insects & Nectars Manuscript",
+  "dove": "recipes/manuscript.write.insects.nectars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Killasimi Manuscript",
+  "dove": "recipes/manuscript.write.killasimi.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Leaves & Thorns Manuscript",
+  "dove": "recipes/manuscript.write.leaves.thorns.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Lockworks & Clockworks Manuscript",
+  "dove": "recipes/manuscript.write.lockworks.clockworks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Maggephene Mysteries Manuscript",
+  "dove": "recipes/manuscript.write.maggephenemysteries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Meniscate Reflections Manuscript",
+  "dove": "recipes/manuscript.write.meniscatereflections.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Orchids & Narcotics Manuscript",
+  "dove": "recipes/manuscript.write.orchids.narcotics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Ouranoscopy Manuscript",
+  "dove": "recipes/manuscript.write.ouranoscopy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Path & Pilgrim Manuscript",
+  "dove": "recipes/manuscript.write.path.pilgrim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Pearl & Tide Manuscript",
+  "dove": "recipes/manuscript.write.pearl.tide.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Pentiments & Precursors Manuscript",
+  "dove": "recipes/manuscript.write.pentiments.precursors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Preliminal Meter Manuscript",
+  "dove": "recipes/manuscript.write.preliminalmeter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Purifications & Exaltations Manuscript",
+  "dove": "recipes/manuscript.write.purifications.exaltations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Putrefactions & Calcinations Manuscript",
+  "dove": "recipes/manuscript.write.putrefactions.calcinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Pyroglyphics Manuscript",
+  "dove": "recipes/manuscript.write.pyroglyphics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Quenchings & Quellings Manuscript",
+  "dove": "recipes/manuscript.write.quenchings.quellings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Ragged Crossroads Manuscript",
+  "dove": "recipes/manuscript.write.raggedcrossroads.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Ramsund Manuscript",
+  "dove": "recipes/manuscript.write.ramsund.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Resurgences & Emergences Manuscript",
+  "dove": "recipes/manuscript.write.resurgences.emergences.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Rhyme & Remembrance Manuscript",
+  "dove": "recipes/manuscript.write.rhyme.remembrance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Rites of the Roots Manuscript",
+  "dove": "recipes/manuscript.write.rites.theroots.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sabazine Manuscript",
+  "dove": "recipes/manuscript.write.sabazine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sacra Limiae Manuscript",
+  "dove": "recipes/manuscript.write.sacralimiae.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sacra Solis Invicti Manuscript",
+  "dove": "recipes/manuscript.write.sacrasolisinvicti.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sand Stories Manuscript",
+  "dove": "recipes/manuscript.write.sandstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sea Stories Manuscript",
+  "dove": "recipes/manuscript.write.seastories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Serpents & Venoms Manuscript",
+  "dove": "recipes/manuscript.write.serpents.venoms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sharps Manuscript",
+  "dove": "recipes/manuscript.write.sharps.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sickle & Eclipse Manuscript",
+  "dove": "recipes/manuscript.write.sickle.eclipse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sights & Sensations Manuscript",
+  "dove": "recipes/manuscript.write.sights.sensations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Sky Stories Manuscript",
+  "dove": "recipes/manuscript.write.skystories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Snow Stories Manuscript",
+  "dove": "recipes/manuscript.write.snowstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Solutions & Separations Manuscript",
+  "dove": "recipes/manuscript.write.solutions.separations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Spices & Savours Manuscript",
+  "dove": "recipes/manuscript.write.spices.savours.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Stitching & Binding Manuscript",
+  "dove": "recipes/manuscript.write.stitching.binding.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Stone Stories Manuscript",
+  "dove": "recipes/manuscript.write.stonestories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Strings & Songs Manuscript",
+  "dove": "recipes/manuscript.write.strings.songs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Surgeries & Exsanguinations Manuscript",
+  "dove": "recipes/manuscript.write.surgeries.exsanguinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a The Great Signs and the Great Scars Manuscript",
+  "dove": "recipes/manuscript.write.thegreatsignsandthegreatscars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Transformations & Liberations Manuscript",
+  "dove": "recipes/manuscript.write.transformations.liberations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Tridesma Hiera Manuscript",
+  "dove": "recipes/manuscript.write.tridesmahiera.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Vak Manuscript",
+  "dove": "recipes/manuscript.write.vak.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Watchman's Paradoxes Manuscript",
+  "dove": "recipes/manuscript.write.watchmansparadoxes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Weaving & Knotworking Manuscript",
+  "dove": "recipes/manuscript.write.weaving.knotworking.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write a Wolf Stories Manuscript",
+  "dove": "recipes/manuscript.write.wolfstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write an Applebright Euphonies Manuscript",
+  "dove": "recipes/manuscript.write.applebrighteuphonies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write an Auroral Contemplations Manuscript",
+  "dove": "recipes/manuscript.write.auroralcontemplations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write an Inks of Containment Manuscript",
+  "dove": "recipes/manuscript.write.inks.containment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write an Inks of Power Manuscript",
+  "dove": "recipes/manuscript.write.inks.power.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Write an Inks of Revelation Manuscript",
+  "dove": "recipes/manuscript.write.inks.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'''Of <i>course</i> I had an ulterior motive when we last spoke, Librarian. Sometimes I wonder if I have any other kind. I have a woman at the opera in mind; a woman with potential. But, you know,your advice last time has altered my plan a little... so I am going to teach her something new. Never mind why. Call it another ulterior motive. Help me, please.  Coseley had some insights on the Carapace Cross; or anything on Resurgences & Emergences [10] might be helpful.'",
+  "dove": "recipes/nxc.n.apollo.morgen.help.the.soprano.ascend.via.a.sky.path.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'''Stones! The secrets were in the stones of his workshop! Not in the Lark at all... but I had forgotten these stories you have given me. I heard them when I was only a girl… there is a sweetness in them. And it reminded me how dangerous it can be to meddle in these matters. Caution is not natural to those of us at the Edge. I have found Zuthi's trove, Librarian, but I have changed my mind. I will return them to the Hours of the Roost.'",
+  "dove": "recipes/nxh.n.lark.azita.acted.azita.project.ingenious.sky.t.thebookofthewhitecat.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''A tower falls, a tower rises.' True; but sometimes, not true for a long time. I always wondered why the Calyptra had chosen flowers as their emblem, when flowers are so transient. I think they might turn out to regret it. Well, Librarian, I'm off to Venice.'",
+  "dove": "recipes/nxh.n.invisible.salvaged.arun.t.annalsofstbrandans.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''A tower falls, a tower rises.' True; but sometimes, not true for a long time. I always wondered why the Calyptra had chosen flowers as their emblem, when flowers are so transient. I think they might yet come to regret it. Well, Librarian, I'm off to Venice.'",
+  "dove": "recipes/nxh.n.invisible.salvaged.arun.t.againstvitruvius.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''At the cold crossroads waits the Huntress of Snows…' in the White Museum in Zurich there's a relic which I realise now might invoke a Name of the Madrugad. It's less dangerous than speaking to the Madrugad directly - not much, I fear - and it should be an end of it.'",
+  "dove": "recipes/nxh.n.debt.connie.r.raggedcrossroads.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''Hm. Thanks, Librarian, but that's not what I was looking for…'",
+  "dove": "recipes/nxc.n.reverend.success.one.douglas.douglas.investigates.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "''I don't think that'll do it. Any other thoughts?'",
+  "dove": "recipes/nxc.n.skin.captured.arthur.resolve.arthurs.predicament.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''It is in the gift of the youngest Oculate that the Monster Mother keeps the Jewel of Ys from the Pale Mother.' Echidna is the Mother of Monsters, I know that. The youngest Constable-Oculate - excuse my blushes - is me. But the rest is just so much crossword puzzle.'",
+  "dove": "recipes/nxs.n.rising.connie.hear.connies.trouble.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''Light' - but in the language of light.' [Add Ericapaean skill to provide the word for the answer in that language.]",
+  "dove": "recipes/nxc.n.absent.arthur.answer.light.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "''Not what I needed. Don't worry, I remember it's harder than it looks. Do you have anything else?'",
+  "dove": "recipes/nxc.n.eye.revealed.serena.to.independence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''Seven-Coils perhaps? If it's no longer seen, then perhaps she'll be something different -even friendlier - if I choose a friendlier language.' [Add Ramsund skill to provide the word for the answer in that language.]",
+  "dove": "recipes/nxc.n.absent.arthur.answer.the.seven-coils.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "''That which we do not see, but by which we are seen…' If I can understand Medusa - that will satisfy the Labyrinth.'",
+  "dove": "recipes/nxh.n.absent.arthur.acted.arthur.stalk.edge.s.ericapaean.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''Useless. Give me something better.'",
+  "dove": "recipes/nxc.n.eye.revealed.hokobald.to.the.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''We had suspected Elie had come here, long ago - this place was a haven for Obliviates, not so long ago even - but I don't think that helps us now. Anything else?'",
+  "dove": "recipes/nxh.n.mystique.revealed.serena.t.thesecretcolours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "''What is buried is never lost….' On reflection, I will not staunch the flow of dreams. It is very likely that the Cross will return. When they do, it will be important that we and they understand one another.'",
+  "dove": "recipes/nxh.n.saint.buried.stanislav.r.rites.theroots.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "''Wisdom is the daughter of Regret, and regret the son of Wisdom.' It's more elegant than 'Look both ways quickly enough and you get a headache.' But the same principle: we can confuse the Hours long enough to win advantage. The Madrugad will take her due eventually, but I hope that with the great changes that are coming, that might be less important, now...'",
+  "dove": "recipes/nxh.n.debt.arun.r.disciplines.thescar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'A Bronze Spintria. No more, no less.'",
+  "dove": "recipes/nxc.n.heist.hokobald.ask.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'A month or so back, I was talking to Lady Edith about exactly this book. The Bureau recommended RESTRICT on any copies a few years back, but the chiefs really wanted EXPUNGE. Good thing they didn't get their way, or we'd be in trouble now. Thank you, Librarian. This should be the end of the matter. <i>'The words made him flesh; the fire made him ash.'</i> Some parts of this job I'll never get used to.'",
+  "dove": "recipes/nxh.n.reverend.success.two.connie.t.oghkoroghkortissilakoghkor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'A tower falls, a tower rises...' I know now that's not always true. A balance can be distorted indefinitely. The Madrugad will take her due in the end, but I hope that with the great changes that are coming, that might be less important, now...'",
+  "dove": "recipes/nxh.n.debt.arun.t.againstvitruvius.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'A way to cheat extra years out of the Madrugad… of course it's already spreading beyond Kaunas. Over here, they call it 'the Wangle'. Idiots. I need to make this stop, and I need to make it stop soon, before the Hours resolve the matter their way. I think that means drawing the Madrugad's personal attention. I really don't know how to do that safely. Or at all, really. Do you have anything on the Ragged Crossroads [10]? Or there's a Church rite they used to call the White Ceremony, if you have any record of the original version...'",
+  "dove": "recipes/nxc.n.debt.connie.shut.down.the.wangle.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Abecassis changed - perhaps for the better. I would like very much to change for the better. Instead of what is happening now. What is in me is a mask. Perhaps the face is brighter. I need to know more of Pentiments & Precursors [12]. Or there was a film I saw, years ago, about four-winged angels. Something about that film moves in my chest...'",
+  "dove": "recipes/nxc.n.skin.free.zachary.help.zachary.change.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Absolutely, Libsy. Appreciate the discretion. Happy to sign up to your thing.'  [Dagmar will support a Secrecy Agenda and Fear: Chandler.]",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.the.chandler.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Absolutely, Libsy. Appreciate the discretion. Happy to sign up to your thing.' [Dagmar will support a Secrecy Agenda and Fear: Ys.]",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.ys.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Absolutely, Libsy. Appreciate the discretion.' [Dagmar will support a Secrecy Agenda and Fear: Nowhere.]",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.nowhere.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'After our conversation, I thought the answer to Medusa's Riddle might be 'Me'. I was wrong. Perhaps I should give a more conventional answer - but in an unconventional language - one that was once appointed as a herald to old powers.' [Add Henavek skill to provide the word for the answer in that language.]",
+  "dove": "recipes/nxc.n.absent.aladim.answer.the.carapace.cross.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'After our conversation, I thought the answer to Medusa's Riddle might be 'Me'. I was wrong. Perhaps I should give a more conventional answer - but in an unconventional language - perhaps her birth language.' [Add Cracktrack skill to provide the word for the answer in that language.]",
+  "dove": "recipes/nxc.n.absent.aladim.answer.eternity.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ah yes. So now the Haustorium has an emissary to the Bureau. Everyone knows that the emissary is something else on the inside. The Bureau is prepared for that. But I think he might actually be Generous Robigo - Protectress of the Haustorium - Name of the Crowned Growth... perhaps the Bureau has it under control. Connie, however, is concerned. I think she's right to be.'",
+  "dove": "recipes/nxs.n.tapestry.arun.ask.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ah, bugger. It's a Rising Spider thing. Here, I've written out the notes. You might be able to make more sense of  it. I've tried to send it upstairs, but they're not having it. Could you have a word with CMO Lee? Explain it's serious? Use Librarian words?'",
+  "dove": "recipes/nxh.n.reverend.success.one.douglas.r.sandstories.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'All right, doing a favour for a Bureau friend, seeing off the interloper, boo, not boo, shan't be silly about it. How's the collection on Door & Wall [10]? Or Sea Stories [10]? Or, you know, if you had something on Ys, I suppose I <i>ought</I> to read it.' [Giving Dagmar something intriguing on Ys may shake her resolve.]",
+  "dove": "recipes/nxc.n.horizon.dagmar.help.dagmar.deal.with.the.ysien.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Another knot of mysteries unresolved. If you ever think you've found an end to tug on, tell me.'",
+  "dove": "recipes/nxc.n.debt.arun.democratise.the.wangle.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Anything even slightly juicy, Librarian. Just so I don't feel I'm working for free.' [Provide a Memory.]",
+  "dove": "recipes/nxc.n.heist.olympe.ask.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Are you trying to annoy me, Librarian? No. The Moth is scheming against Calyptra - against the Madrugad in particular. That scheme demanded the successful performance of the opera. That scheme has raised piebald flowers in the dreams of the audience…'",
+  "dove": "recipes/nxs.n.invisible.hokobald.hokobalds.frustrations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'As a matter of fact, yes. A profitable chat. The Moth - I am excited to say - has found two other Hours to move against the Madrugad, and against Calyptra. Accordingly the Moth has planted his black-and-white flowers in the dreams of the opera audience...'",
+  "dove": "recipes/nxs.n.invisible.arun.ask.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Azita, my dear, it's been so long. Shall we discuss this business somewhere quiet? I wouldn't want to disconcert the Librarian. And thank you, Librarian. Ligeia remembers.'",
+  "dove": "recipes/nxh.n.skin.slain.azita.azita.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Before we can do anything, we must understand what's happening here. What do you have on Ragged Crossroads [8] or Solutions & Separations [8]?'",
+  "dove": "recipes/nxc.n.reverend.success.one.ehsan.ehsan.investigates.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Between you and me, I think the arguments were specious, but Names aren't always as clever as you'd think. Even Lantern-names. Anyway, we've kept Lucia out of the Chandler's clutches; and I'm thinking we could all use a little more independence.'",
+  "dove": "recipes/nxh.n.eye.revealed.serena.r.sacrasolisinvicti.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Bischoff saw; Bischoff knew. Thank you… my friend. I will give of my blood and the Sun's old shadow may remember how it was when the days were red and sweet… what is within, without. I will rise into the sky and - please may it be so - I will not return. Do not grieve for me. Do not grieve...'",
+  "dove": "recipes/nxh.n.skin.free.zachary.t.coloursintheliver.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Bloody Coquille. Did my best but she's a proper little vixen. You didn't help her, did you? No don't tell me, better off not knowing. Anyway, the seals on the Casket are cracking…'",
+  "dove": "recipes/nxs.n.casket.dagmar.thwarted.by.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Bloody Wakefield. Did my best but the poor fellow kept getting in the way. Don't really know if he even knew what he was doing, really. Proper little champion of the liberties. Anyway, the seals on the Casket are cracking…'",
+  "dove": "recipes/nxs.n.casket.dagmar.thwarted.by.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Bones are the key; I think the Elegiast-long already knew it. And it almost makes sense of something I read long ago, that Stars are the bones of Suns. But there my understanding reaches its limits. I don't know how the trick works, but now I know how to work it. Thank you. Here's something for your trouble.'",
+  "dove": "recipes/nxh.n.debt.azita.t.demotucorporumvetitorum.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'But in Cracktrack?'",
+  "dove": "recipes/nxc.n.absent.aladim.answer.eternity.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'But in Ericapaean?'",
+  "dove": "recipes/nxc.n.absent.arthur.answer.light.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'But in Henavek?'",
+  "dove": "recipes/nxc.n.absent.aladim.answer.the.carapace.cross.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'But in Killasimi?'",
+  "dove": "recipes/nxc.n.absent.aladim.answer.medusas.death.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'But in Ramsund?'",
+  "dove": "recipes/nxc.n.absent.aladim.answer.the.seven-coils.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Can't blame you, Libsy, took my chance and muffed it, didn't I? Sick to death of eating out of tins, but couldn't bear to see the things go to the wrong homes. Who was it shopped me? That little drab Coquille? That oik Hokobald? No, don't tell me, I <i>shall</i> waste time getting <i>very cross</i> with them. Well, here we are. One must take one's lumps.'",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.confront.and.expose.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Can't promise anything, but old Daymare knows who's who, can put the word around, ask what's which, apply the old lemon? Least I can do.' [Dagmar will freely share anything she discovers.]",
+  "dove": "recipes/nxi.n.heist.dagmar.ask.dagmar.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Collers really was a piece of work, wasn't he? You know, Lady Edith has his picture in her office... this clinches it for me. I can do more good outside the Bureau than inside. This is going to cause a fuss: I'll need to lie low for a while.  Thank you, Librarian. I couldn't have made this decision without you. I hope we meet again some day.'\n\n[Connie will resign from the Bureau, and will no longer appear as a Visitor, but may still be recruited to the Lighthouse Institute...]",
+  "dove": "recipes/nxh.n.tapestry.investigated.connie.t.cucurbitprisonerrecords1927.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Come on, Libsy, I need more from you than that! Sorry. Bit excited. But you must have something better?'",
+  "dove": "recipes/nxc.n.rose.revealed.dagmar.assist.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Couple of upcoming Long, we've put them where they won't cause any more trouble… but there's another Long behind some of it. Black Elie, runs the Ivory Dawn, which is confusing if you ask me. Sort of chiaroscuro, I spose. Old as trees, used to be a priestess and an Obliviate and all sorts. Anyway she's working with Ys now, if you can believe it. And she's taken an interest in Yvette Southey. You know Yvette, course you do. Wants to turn her over to Ys, some sort of deal to protect the Bounds. I don't like it, Librarian. I don't know much about Ys, but nothing I've heard is good, and no-one's ever said they can be trusted.'",
+  "dove": "recipes/nxs.n.mystique.douglas.ask.douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Daymare entered the vault. Emplaced the forgeries. I don't know why. But the continuities are precise.'",
+  "dove": "recipes/nxh.n.heist.zachary.acted.zachary.heist.knock.memory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Did my best but Coquille keeps trying to crack the thing open and Wakefield is doing what ever he's doing. Didn't come to you for advice, did they? Better not tell me. Anyway, the seals on the Casket are cracking…'",
+  "dove": "recipes/nxs.n.casket.dagmar.no.safety.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Did you find a place for the Wisp?'",
+  "dove": "recipes/nxc.n.grunewald.wisp.agdistis.return.to.agdistis.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Disappointing, Librarian. It went off rather well. Rather too well. You did not perhaps help some difficult Samaritan who has spoiled my fun? Did you? No matter. There is a more diverting development that compensates enough. The Moth has found allies to move against Calyptra. His first move is in the dreams of the opera audience - where black-and-white flowers now bloom...'",
+  "dove": "recipes/nxs.n.invisible.morgen.morgens.frustrations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Don't waste my time. Give me something useful.'",
+  "dove": "recipes/nxc.n.invisible.failed.hokobald.hushman.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Echidna has very few weaknesses. But what's in here gives me so me hope. Perhaps I can make myself unpalatable enough to discourage her? Let's hope so, Librarian.'",
+  "dove": "recipes/nxh.n.skin.captured.arthur.t.echidnalia.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Elie has had dealing with the Applebright. We can use that as a point of persuasion to drive her back across the sea… I'm not comfortable with this. But I don't want Ys to get any footholds. That's more important.'",
+  "dove": "recipes/nxh.n.mystique.revealed.serena.r.applebrighteuphonies.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Elie means well, I'm sure of it. And I'm sure she knows Ys will betray her. She'll have planned for it. But I fear Ys is more cunning than any Long, even Elie… still she is <i>very</i> cunning. It'll be difficult to drive her off. Do you have anything on the Iron Chain? Or Applebright Euphonies [12]?'",
+  "dove": "recipes/nxc.n.mystique.revealed.serena.thwart.elie.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Elie told me that she had broken her oaths. She told me something of why. I'm inclined to sympathise… do you have anything more on her?'",
+  "dove": "recipes/nxc.n.mystique.revealed.yvette.inform.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Elie's been to Brancrug before? She never mentioned that to me. Why would she hide that? I wonder what else she might be keeping from me… I don't think I can trust her, Librarian. Every day I seem to find something else to mistrust. Thank you…'",
+  "dove": "recipes/nxh.n.mystique.revealed.yvette.t.thesecretcolours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Elie's in here, but all this tells me is she tried to do the right thing, back In the day… anything else?'",
+  "dove": "recipes/nxh.n.mystique.revealed.douglas.t.commandmentsforthepreservationofallthatexists.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Elodie will rise to join the Thunderskin; she will work to preserve the skin of the world; or she will not. It's in her hands now. And her heart, her voice, her feet... Thank you, Librarian.'",
+  "dove": "recipes/nxh.n.apollo.agdistis.acted.agdistis.opera.apollo.sky.t.theinstrumentsoftheheart.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Formally, I think, if she abandons stone, the Labyrinth would describe her as mortal… I don't buy it. But something will change; and my teachers will, I think, be pleased with me.'",
+  "dove": "recipes/nxh.n.absent.arthur.s.ramsund.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'From the third Shard to the fourth, as we say in the Labyrinth. The <i>mobeds</i> have renewed their altar-fires and rekindled their covenants. The rebellion is over, but I think in all honesty it should never have begun…'",
+  "dove": "recipes/nxh.n.revolution.failing.arthur.t.sevenshards.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Good thinking. As it was, so it shall be. The Lionsmith's example has kept Lucia out of the Chandler's clutches; and I'm thinking we could all use a little more independence.'",
+  "dove": "recipes/nxh.n.eye.revealed.serena.t.sevenshards.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Good to hear it, Librarian. The Carapace has its downside… but I get sentimental about things like this. I hope it does well in its new home.'",
+  "dove": "recipes/nxh.n.grunewald.wisp.ehsan.wisp.skin.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Good. The morning frost will wither these silly flowers. I am bound for Venice, Librarian. You will not speak of it to anyone else.'",
+  "dove": "recipes/nxh.n.invisible.failed.hokobald.t.sunsetpassages.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Good. There were agreements made long ago, before even the fall of Rome. I would not see those agreements violated. Not until I am ready. I am bound for Venice, Librarian. You will not speak of it to anyone else.'",
+  "dove": "recipes/nxh.n.invisible.failed.hokobald.r.edictsinviolable.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Got shot of him. Been a bit of a fool about the whole thing til now, honestly. Always liked the <i>idea</i> of Ys - different kind of real, other kind of unreal, y'know. Beastly people though. Like teeth. I shan't elaborate. Like teeth.'",
+  "dove": "recipes/nxh.n.horizon.dagmar.r.door.wall.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "'Ha! You have made the offering? I had begun to think you might not wish to... I'm a little surprised. Thank you, I think. I almost wish I hadn't asked you. I suppose my patient will be glad...'",
+  "dove": "recipes/nxh.n.claw.patient.unquelled.ehsan.offering.tentreto.made.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Had a read of your book, had a think, decided to meet with the emissary. Don't worry, not going soft, know Ys has a reputation, all that. But look, got to take our allies where we find them, eh? That's just politics. And dinner parties. Seat 'em at the other end, sort of thing, keep the wine flowing. 'Not real, but not unreal like Nowhere.' Rather like the sound of it. And they're all so pretty. Anyway, thanks, Librarian.'",
+  "dove": "recipes/nxh.n.horizon.dagmar.t.aninvestigationofafounderedcountry.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Has Liselotte finished?'",
+  "dove": "recipes/nxc.n.wood.assisted.stanislav.bid.liselotte.farewell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'He died without honour. That pleased the Colonel, but it didn’t please Echidna, who had appointed herself the patroness of Abecassis. Regrettably, the Colonel is not a power one asks for help. So now Echidna's looking for me. I don't like it, Librarian; I don't like it at all.'",
+  "dove": "recipes/nxs.n.skin.azita.death.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'He seems better. No, I can't believe it either. Some silly adepts found Ebrehel for him - they hoped he'd bear it against the City Unbuilt - but Spencer really doesn't have the breeding. And he's much better now. I understand he's planning to come by Hush House. 'Stopping by,' on his way somewhere else. You could ask him yourself, but he isn't really any more talkative..'",
+  "dove": "recipes/nxs.n.guest.coquille.ask.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'He still walks free.'",
+  "dove": "recipes/nxs.n.skin.aladim.freedom.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'He's been harder to close than we expected. We never worked out exactly what had happened to him. Not any Knock-Hour or Knock-Name you've ever heard of, certainly. So we never knew exactly what to do about it…'",
+  "dove": "recipes/nxs.n.reverend.douglas.ask.douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Help. Help? Perhaps if you can share work on Coil & Chasm [12]… or might you know where I can find the Darcy-Evers re-working of <i>De Horis</i>? Not just the reprint. I have an idea…' [Give Arthur the information he needs - or enable Echidna's revenge by bringing Echidna to meet with Arthur, retiring Arthur permanently.]",
+  "dove": "recipes/nxc.n.skin.captured.arthur.resolve.arthurs.predicament.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hm. Thanks, Librarian, but that's not what I was looking for…'",
+  "dove": "recipes/nxc.n.mystique.revealed.douglas.thwart.elie.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I always liked what I read about Greene. I never did quite believe what they said about him... this clinches it for me. I can do more good outside the Bureau than inside. This is going to cause a fuss: I'll need to lie low for a while. Thanks, Librarian. I couldn't have made this decision without you. I hope we meet again some day.'\n\n[Connie will resign from the Bureau, and will no longer appear as a Visitor, but may still be recruited to the Lighthouse Institute...]",
+  "dove": "recipes/nxh.n.tapestry.investigated.connie.t.journalofsirdavidgreene1903.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am sorry; that is not what I had hoped for. Is there something else?'",
+  "dove": "recipes/nxc.n.apollo.agdistis.help.the.soprano.ascend.via.a.heart.path.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I can hardly credit it. The Carapace Cross have come to the ruins of Miah - the Glaeterfleoge-kind, if my friend's descriptions are accurate. They nest in the Vagabond's rose-garden. They can only be there at her invitation. I have an inkling as to why. And I'm worried...'",
+  "dove": "recipes/nxs.n.rose.olympe.ask.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I chose freedom. None opposed me. I freed the Messenger. Here: take this, to dwell on your threemost altar. There may then be fewer regrets. I hope.'",
+  "dove": "recipes/nxs.n.casket.zachary.escape.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I could not help him suppress the drive to go West; and so he went. Perhaps it was the right thing to do. He seems happier now. He's asked me a favour - to make an offering at a certain shrine - a Carapace shrine that he tells me lies in the caves below Hush House. No, I can't imagine how he knows it's there, or even how he's heard of Hush House. Perhaps the wind told him. Here's the offering. Will you pour it out for me?'",
+  "dove": "recipes/nxs.n.claw.ehsan.talk.to.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I daren't face her; but I think I can manage a ward that will turn her gaze aside from me. I'll have to be careful, but then, when haven't I been? Thank you, Librarian.'",
+  "dove": "recipes/nxh.n.skin.captured.arthur.r.coil.chasm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I did my best, but the von Nagelburg women is a nuisance. Especially with your assistance… not that I'm blaming you, darling, I know how the House must be. The Messenger can sometimes be seen in the world now, in mirrors and paintings, but the seals on the Casket still partly hold...'",
+  "dove": "recipes/nxs.n.casket.coquille.no.escape.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I did my damnedest, but the von Nagelburg women is a nuisance. Especially with your assistance… not that I'm blaming you, darling, I know the House is the House. The prisoner can be seen in the world now, in mirrors and paintings, but the seals on the Casket still partly hold...'",
+  "dove": "recipes/nxs.n.casket.coquille.thwarted.by.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I did. And I brought something back. I do not trust the Cross. But the Cross spoke to me; they answered questions I had about what does not cease. I have agreed that if the Librarian permits it, I will make an offering at the shrine of St Tentreto which - the Cross tells me - lies in the caves below Hush House...'",
+  "dove": "recipes/nxs.n.claw.agdistis.talk.to.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I did. And to my great surprise, it is not empty. The Glaeterfleoge-kind have descended from their slumbers, and made their home in the ruins of Miah. My patroness has charged me with a mission concerning them…'",
+  "dove": "recipes/nxs.n.rose.aladim.ask.al-adim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I didn't have time to follow up the lead. The Bureau has many calls on our time. I hope we won't regret letting it go.'",
+  "dove": "recipes/nxi.n.debt.connie.connie.and.kaunas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't know Ys. But I do know the Ligeians. And now I know a little more about fate, and about free will… I'll leave it up to Yvette, and Lady Edith can go hang.'",
+  "dove": "recipes/nxh.n.rising.interpreted.connie.r.ouranoscopy.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I don't know Ys. But I do know the Ligeians. And now I know a little more about the gaps in fate… I'll let Yvette find what loopholes she can, and Lady Edith can go hang.'",
+  "dove": "recipes/nxh.n.rising.interpreted.connie.t.serpentroot.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't know how the trick works, but now I know how to work it. Let's see how long I can get away with it. Thank you. Here's something for your trouble.'",
+  "dove": "recipes/nxh.n.debt.azita.r.disciplines.thescar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't know where she's gone, and if there's one thing this job has taught me, it's that sometimes curiosity is best unfed. Thank you, Librarian. I'm relieved that I never had to make this decision. And I'm relieved that the Oracle of the Rising While has its limits.'",
+  "dove": "recipes/nxi.n.rising.interpreted.connie.abandon.an.oracle.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't think that'll do it. Any other thoughts?'",
+  "dove": "recipes/nxc.n.revolution.failing.arthur.renew.devotion.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I ended him. It was for the best. But Echidna disagrees. And I fear Echidna. I would be a fool not to.'",
+  "dove": "recipes/nxs.n.skin.chaima.death.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I fear that in their desperation, the Rebels might be tempted away from the Fourfold... towards the Chandler. The right doctrines might renew their devotion. Do you have something good on the Great Signs and Great Scars [10? Or that Brulleau work on the Lionsmith's moment of choice?",
+  "dove": "recipes/nxc.n.revolution.failing.arthur.renew.devotion.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I found the colours, I bought the lines. The Messenger is free. Here: take this, to dwell on your threemost altar. There may then be fewer regrets. I hope.'",
+  "dove": "recipes/nxh.n.casket.cracked.zachary.r.sights.sensations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had worried, more than a little, about that angle too. Perhaps in the end the Bureau really is just Calyptra's executioner... I'm getting out. It'll cause a fuss: I'll need to lie low for a while. Thank you, Librarian. I couldn't have made this decision without you. I hope we meet again some day.'\n\n[Connie will resign from the Bureau, and will no longer appear as a Visitor, but may still be recruited to the Lighthouse Institute...]",
+  "dove": "recipes/nxh.n.tapestry.investigated.connie.t.fromhistorytoeternity.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have an idea on how to suppress the Carapace-dreams with treatments for sleepers, but I'd like to read up on Orchids & Narcotics [10] or Herbs & Infusions [10]. I admit though that I am tempted <i>not</i> to suppress them - there is a beauty there - so perhaps instead I might refresh my memory with Coseley's work on the Cross Within, or Rites of the Roots [10]...'",
+  "dove": "recipes/nxc.n.saint.drowned.stanislav.help.stanislav.resolve.the.saint-dreams.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have been offered - let us call it a commission - if I sway these rebels to the Hour-to-Come, the Chandler. But they are aggravatingly close to victory - and their loyalty to the Fourfold is renewed. I'll need powerful materials [Great Signs and the Great Scars 14] to sway them. Or there may be a strong argument that the Chandler is the oldest Hour - if you know the work that I mean. The Zurvanists respect the compulsions of fate and time...'",
+  "dove": "recipes/nxc.n.revolution.surging.hokobald.another.way.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have escorted their emissary out of the Bounds. The encounter was a useful reminder: Ys is beguiling; Ys is not malicious; but Ys is <i>never</i> to be trusted. Thank you, Librarian.'",
+  "dove": "recipes/nxh.n.horizon.aladim.r.door.wall.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I have never heard that one can blackmail a Ligeian. But I will try to do just that. Perhaps, Librarian, I will see you again after all.'",
+  "dove": "recipes/nxh.n.skin.slain.chaima.chaima.t.thehissingkey.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have spoken to Liselotte -the Lyterion director. What she is doing - it is regrettable - well-intended, voluntary, but regrettable. You may know that the Cross is a hybrid thing. She is hybridising their children - the larvae of the Blomberende-kind - with her customers. They have chosen it. But they should not. And the Bureau will ensure they do not.'",
+  "dove": "recipes/nxs.n.wood.agdistis.speak.to.agdistis.about.the.lyterion.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have what I need to establish the Glaeterfleoge-kind among my patroness's gardens. I fear for the future. I fear this may even be the beginning, at last, of the long-rumoured Pilgrimage to the place above the Mansus… well, if that's so, I will be released from my service. And I serve with less willingness every day. But this is not your concern. Thank you, Librarian.'",
+  "dove": "recipes/nxh.n.rose.revealed.aladim.t.bookofmiah.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'I have worked with my friends in the Church to dispense suitable nostrums. Thank you, Librarian. For the most part, these chitin-dreams will remain in the dark of the Wood.'",
+  "dove": "recipes/nxh.n.saint.burnt.aladim.r.herbs.infusions.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I helped him suppress the drive to go West; and so he stayed. I believe we brought him peace, now, and from what I am learning of the Cross, I think we might also have kept him safe. This is an end to it: thank you, Librarian.'",
+  "dove": "recipes/nxs.n.claw.ehsan.catch.up.with.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I knocked some heads and learnt some truths: a way to pervert the Madrugad's tally and win extra years of life. Farther West, they're calling it 'the Wangle', now, because English is not a dignified language... no matter. A very profitable trick, if one can learn to work it. It's a matter of scars, I think, and a business of bones. Do you have anything on Disciplines of the Scar [10]? Or on - bear with me - the Madrugad's presence in the bones of the living and the dead?'",
+  "dove": "recipes/nxc.n.debt.azita.profit.from.the.wangle.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I met with the Ivory Dawn…and with their patron. Her name's Elie. She's very old. She's told me a little about my ancestry - the 'pale line' - the connection to Ys behind the wave. She wants me to go there. It'll win protection for the world, she tells me. I believe her, actually. She strikes me as a woman of integrity. She let me leave freely. And I won't deny I'm curious, and tempted... but I'm not nearly ready to take a leap like that.'",
+  "dove": "recipes/nxs.n.mystique.yvette.ask.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I need more detail on Miah - if you have it?'",
+  "dove": "recipes/nxc.n.rose.revealed.olympe.assist.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I really don't know where to start. But something here reminds me of Brancrug. So I hope you might have an idea.'",
+  "dove": "recipes/nxc.n.rising.heard.connie.interpret.an.oracle.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I said my research would upset my friends on the Continent… it gets worse. New King's building something like a manufactured incarnate Name. Calls itself Fissifer.  Now I'm nobody's patriot, I go where I'm paid, but there's a nasty imbalance of power here, and I think if I were to help my continental friends break up Fissifer and hand bits of him round various powers, it'd advance the cause of peace. I'm serious. So, if you've got Cygnifer's thing on the dividing serpent - or just something decent on Pyroglyphics [10] - that'll help the cause of peace.'",
+  "dove": "recipes/nxc.n.endeavour.corso.sabotage.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I said to you once that we are unlikely to be friends with those who came before. Now that we have burnt their memento, I suppose it is a fraction less likely. So we must put an end to these dreams. If you have anything on Quenching & Quelling [10], that would be perfect: we could end them for good. But I would settle for containing  them with treatments for the sleepers - if you have Orchids & Narcotics [10] or Herbs & Infusions [10].'",
+  "dove": "recipes/nxc.n.saint.burnt.aladim.help.al-adim.resolve.the.matter.of.the.croix-de-feu.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think we can bring this rebellion to an end soon - if we give the rebels a quick victory. It'll end the bloodshed. And it'll put an end to this temptation of fire in darkness. I need to understand the potentials of the Bounds near Meshad. Do you have something on the Edicts Liminal [10]? Or better yet, that thing of Harries' on the Company of the Wolf-in-Gold and their ventures?'",
+  "dove": "recipes/nxc.n.revolution.surging.arthur.assist.the.revolution.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think, Librarian, that's done it. Lady has wings in her wist, you might say. Quick learner. I can't help wondering if I've been taken advantage of… not your problem, though. Thanks, Librarian.'",
+  "dove": "recipes/nxh.n.apollo.corso.acted.corso.opera.apollo.grail.t.thefallencross.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I understand now… and I wish I didn't. There is a Name I will not name, that weaves the Reverend into the web of an Hour I'm not silly enough to name either… that doesn't sound helpful, does it? But if you see anything of DI Moore or CMO Lee, let them know what I said. They'll understand. Perhaps you do too. In any case the man is beyond my help.'",
+  "dove": "recipes/nxh.n.reverend.success.one.ehsan.r.raggedcrossroads.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I was wrong, Librarian. Whatever touched this man was neither the Mother of Ants nor the Horned-Axe. I wish I could leave the matter to the Bureau. But I'm a healer before I'm anything else, and I feel responsible.'",
+  "dove": "recipes/nxs.n.reverend.ehsan.ask.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was wrong. More going on there than I thought.'",
+  "dove": "recipes/nxs.n.wood.douglas.speak.to.douglas.about.his.investigation.of.the.lyterion.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I will answer 'Seven-Coils to Medusa's Riddle, and perhaps she will become more talkative - if I give the answer in a suitable language.' [Add Ramsund skill to provide the word for the answer in that language.]",
+  "dove": "recipes/nxc.n.absent.aladim.answer.the.seven-coils.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I will show the Cross the deep springs of Miah… metaphorically. And, perhaps, practically.  The Vagabond will be pleased. Calyptra will be inconvenienced. And I will enjoy the desert air.'",
+  "dove": "recipes/nxh.n.rose.revealed.arun.t.bookofmiah.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'I will take the Orient Express to Cologne, where I will meet with certain Reckoner friends. We will go on together to Venice, where we will… propagate these roses. Calyptra is not invulnerable, Librarian. Everything seems invulnerable until it is destroyed.'",
+  "dove": "recipes/nxi.n.invisible.salvaged.arun.congratulate.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I wish the Cross no especial ill. But their time is past, and ours is now: we must be realistic. I have found a secret in Miah that will distract them - I can ask my friend to lead them to it. They will have no part in the Vagabond's campaign against Calyptra...'",
+  "dove": "recipes/nxh.n.rose.revealed.olympe.t.bookofmiah.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'I'd forgotten how dangerous the older powers can be. We take them for granted. Thank you, Librarian. It's easy to get too focused on Nowhere, but there are so many other perils out there, and the Bureau has always worked to protect us all. I'll stay with the Bureau, and work to keep things right.'",
+  "dove": "recipes/nxh.n.tapestry.investigated.connie.t.cucurbitprisonerrecords1928.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm heading back East - I know a retired Reckoner in Tiflis. I think he'll come out of retirement for this. We'll head down to Venice and take cuttings from the roses. It's going to complicate the years trade. But it's going to complicate the Calyptra's work a lot more. Wish me luck, Librarian.'",
+  "dove": "recipes/nxi.n.invisible.salvaged.olympe.congratulate.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm in trouble, Librarian. I don't like admitting it, but it's so. I can only hope you have something strong enough on Coil & Chasm [12]? Or - just perhaps - Solipsistos knew what he was talking about.' [Give Azita the information she needs - or enable Echidna's revenge by bringing Echidna to meet with Azita, retiring Azita permanently.]",
+  "dove": "recipes/nxc.n.skin.slain.azita.azita.resolve.azitas.predicament.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm not often wrong, but I'm not infallible either. One of the cults is different. The Ivory Dawn. It's sponsored by Black Elie. She's a Nectar-long; she <i>was</i> an Obliviate; I'm not sure what she is now. Always used to be a sensible soul, our Elie. But she's working with Ys now. And she's looking for Yvette Southey. She intends to render her to Ys, for their services in protecting the bounds. I don't like it. Ethics aside, Ys can't be trusted. Ys can never be trusted.'",
+  "dove": "recipes/nxs.n.mystique.serena.ask.serena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm so glad it found a home! I am not always comfortable with those that came before… but it is good that we remember them kindly.'",
+  "dove": "recipes/nxh.n.grunewald.wisp.agdistis.wisp.skin.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm sorry. I could make nothing of this.'",
+  "dove": "recipes/nxc.n.casket.cracked.zachary.help.zachary.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'I'm thinking about resigning. There are always compromises, at this level, but this is a new kind of compromise... on the other hand, if I stay, I can make a difference, if I leave, I give up that power. Librarian, if you have something on the Bureau's history - achievements - triumphs - mistakes…' [Some books will convince Connie to stay; others will convince her to leave the Bureau and indeed the game.]",
+  "dove": "recipes/nxc.n.tapestry.investigated.connie.help.connie.decide.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've always had a soft spot for poor Ghirbi. I don't much like the Church. If Lucia's ready to go her own way, I'd like to help… I'm looking for something on Name-rebellion. Or perhaps I can make an argument from the more heterodox end of Church tradition with Sacra Solis Invicti [10].'",
+  "dove": "recipes/nxc.n.eye.revealed.serena.to.independence.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've promised my services to the Legion one more time. And I don't know the Bounds-routes near Meshad. The Company of the Wolf-in-Gold fought there long ago, and Harries wrote of it. Do you have the book? Or something else I could use? [Sharps 10]'",
+  "dove": "recipes/nxc.n.revolution.failing.chaima.assist.the.legion.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "'I've put some pieces together. Eva Dewulf was a many-times-great granddaughter of Rowena of Ys, and of Kelemdu the Wolf.  Yvette, we suspect, is a daughter of Eva's line - descended both from Ys and from the Dewulfs. Ys always wanted such an heir, and they want her preserved… but though at the time of this daughter's birth, it seems, only one of Rowena or her consort was Long, later the other also attained that state. So Rowena is plagued by the urge to devour her descendants. A great many questions unanswered there, Librarian, but I know the decision I have to make.'",
+  "dove": "recipes/nxh.n.rising.heard.connie.t.apaleladyandaprinceofwines.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've put some pieces together. Rowena is a daughter of Ys. Eva Dewulf was a many-times-great daughter of Rowena. And Yvette, we suspect, is a daughter of Eva's line - descended both from Ys and from the Dewulfs. The heir was a goal of careful prophecy, and Ys wants her preserved…but though at the time of this daughter's birth, it seems, only one of Rowena or her consort was Long, later the other also attained that state. So Rowena is plagued by the urge to devour her descendants. A great many questions unanswered there, Librarian, but I know the decision I have to make.'",
+  "dove": "recipes/nxh.n.rising.heard.connie.t.threeflowershaththetree.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've put some pieces together. Rowena is a daughter of Ys. Eva Dewulf was a many-times-great daughter of Rowena. And Yvette, we suspect, is a daughter of Eva's line - descended both from Ys and from the Dewulfs. Ys always wanted such an heir, and they want her preserved… but Rowena or her consort became Long after this daughter's birth, so Rowena is plagued by the urge to devour her descendants. A great many questions unanswered there, Librarian, but I know the decision I have to make.'",
+  "dove": "recipes/nxh.n.rising.heard.connie.t.achildstreasuryofgoldenafternoons.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've put some pieces together. Rowena is a daughter of Ys. Eva Dewulf was a many-times-great granddaughter of Rowena. And Yvette, we suspect, is a daughter of Eva's line - descended both from Ys and from the Dewulfs. The heir was a goal of careful prophecy, and Ys wants her preserved…but though at the time of this daughter's birth, it seems, only one of Rowena or her consort was Long, later the other also attained that state. So Rowena is plagued by the urge to devour her descendants. A great many questions unanswered there, Librarian, but I know the decision I have to make.'",
+  "dove": "recipes/nxh.n.rising.heard.connie.t.evastreasury.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've shared some of this lore with the Church in Strasbourg - my more radical contacts there. Thank you, Librarian. I think now that it's time for change, and this will be part of that change.'",
+  "dove": "recipes/nxh.n.saint.buried.stanislav.t.cucurbitprisonerrecords1927.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'If Medusa abandons that part of her that was Stone - if she has already abandoned that part of her that was Carapace - would she become mortal? I think it unlikely. But there is a sort of precedent - and it would be fitting to learn that Medea was Medusa's precursor...'",
+  "dove": "recipes/nxh.n.absent.aladim.s.ramsund.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'If you have Xi on the traditions of the Cross - or anything from the Cucurbit days about arousing Cross-consciousness - I am considering sharing that with the Church. If not, well, it's probably safer to tame the dreams anyway - with Rites of the Roots [10], or Coseley's work on the Cross Within.'",
+  "dove": "recipes/nxc.n.saint.buried.stanislav.help.stanislav.resolve.the.saint-dreams.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Is Yvette on the way?'",
+  "dove": "recipes/nxc.n.rising.interpreted.connie.honour.an.oracle.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Is she here yet?'",
+  "dove": "recipes/nxc.n.mystique.revealed.fraser.deceive.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It comes to us all, doesn’t it, Librarian? Even Long. Even Ligeians. Even higher powers still…'",
+  "dove": "recipes/nxh.n.absent.arthur.s.killasimi.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is done.  I can find no trace of the Cross that remains in Strasbourg. I will remain watchful…'",
+  "dove": "recipes/nxh.n.saint.burnt.aladim.r.quenchings.quellings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is done. And I know now it is good that we ended them. The prisoners we took had attempted commerce with the Chandler…'",
+  "dove": "recipes/nxh.n.revolution.failing.chaima.r.sharps.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'It was a knot of mysteries, wasn't it? And I couldn't find the end.. Ask someone else.'",
+  "dove": "recipes/nxi.n.debt.arun.arun.and.kaunas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It was successful, thank you! And my friend agreed, in any case, to dispose of the curio. But a trace remains - a poor wisp - something a little like a Worm but very definitely not a Worm. I am certain of it. A cousin, perhaps, of those Carapace who chose the devouring path... The Bureau, however, would see matters differently. It is rather charming, this poor wisp. Will you offer it the House's protection? I have an idea...'",
+  "dove": "recipes/nxs.n.grunewald.agdistis.speak.to.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It was the von Nagelsburg woman. 'Daymare'.  She had squandered her family fortune, and she could not bear to part with the heirlooms she'd sold. Yes, I am certain. A pity. She had potential.'",
+  "dove": "recipes/nxh.n.heist.hokobald.acted.hokobald.heist.forge.spintria.bronze.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It went off much less messily than I expected… but now the ritual's celebrant is the Haustorium emissary to the Bureau. I'm really worried, Librarian. The Haustorium is too close to the Crowned Growth. And now the Bureau is making arrangements with the Haustorium. We need allies. The world is changing. But this is too much. It could be what happened at Ortucchio, all over again, but worse...'",
+  "dove": "recipes/nxs.n.tapestry.connie.ask.connie.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It went well. The Grunewald business is over. But there was something odd left over - a Carapace-adjacent entity, I think - no, don't panic - it never took the Nowhere-corruption, it just hung out in good company. It's a hapless little thing, but the Bureau's still sniffing around. I'm certain it's harmless, and Hush House has always been a refuge. Could you give it sanctuary? There is a place it might be useful...'",
+  "dove": "recipes/nxs.n.grunewald.ehsan.speak.to.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It will be difficult, even for me. Lucia is frustratingly suspicious of the fires to come. But there was a work of Omar's which touched on relevant truths… or anything sufficiently sophisticated on Transformations & Liberations [14] would do.'",
+  "dove": "recipes/nxc.n.eye.revealed.hokobald.to.the.chandler.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'It's a tremendous sort of decision… did you have something you wanted to show me?'",
+  "dove": "recipes/nxc.n.mystique.revealed.yvette.convince.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It's done. I've advised the Church on mixtures that will suppress the dreams. And this whole business has made me think. The Cross are not our enemies. But these dreams of eyes… I fear they cannot be our friends. Perhaps their return to the world is inevitable. But I hope not. It grieves me, but I believe we should work to keep them far from daylight.'",
+  "dove": "recipes/nxh.n.saint.drowned.stanislav.r.herbs.infusions.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'It's done. The Legion are retreating - licking their wounds. The rebels have won themselves a new Threshold in the Bounds. I've a feeling the Labyrinth may think I've overstepped my mark… but I chose to honour the bonds of friendship. Not for the first time.'",
+  "dove": "recipes/nxh.n.revolution.surging.arthur.r.edictsliminal.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Job done. Elie'd broken the Oblivate oath - not just the Iron Chain, all of them far's I can tell, but the Iron Chain's the one we could invoke. She won't be coming back to these islands any time soon.'",
+  "dove": "recipes/nxh.n.mystique.revealed.douglas.t.theironbook.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Job done. We hadn't realised Elie'd been in Britain before - at Brancrug, even - or that our predecessors had tangled with her. (Long before Nocturnal Branch. Never mind who.) Our records go back a long way. (Never mind how far.) We found what she needed. She won't be coming back to these islands any time soon.'",
+  "dove": "recipes/nxh.n.mystique.revealed.douglas.t.thesecretcolours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lady Edith - my chief's chief - has 'assessed the oracle positively'. Officially the Bureau can have no position on the matter, but this is a very clear signal. I'm wrestling with it all. Do you have anything on, um, fate? Or perhaps the paths of the stars - Ouranoscopy [14]?' [Provide Connie with a sufficiently persuasive text, and perhaps she'll decide to defy the Oracle.]",
+  "dove": "recipes/nxc.n.rising.interpreted.connie.defy.an.oracle.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lady Edith - my chief's chief - has 'assessed the oracle positively'. Officially the Bureau can have no position on the matter, but this is a very clear signal. I'm wrestling with it all. I'm afraid I know what I should do' [Bring Yvette to a meeting with Connie, and Connie will surrender Yvette to Echidna.]",
+  "dove": "recipes/nxc.n.rising.interpreted.connie.honour.an.oracle.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lalla Chaima. I have been looking forward to our meeting. Come with me, and we will discuss the matter of Abecassis, discreetly. There; yes; that's right; that's fitting, isn't it…? And thank you, Librarian. Ligeia remembers.'",
+  "dove": "recipes/nxh.n.skin.slain.chaima.chaima.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Librarian… let me introduce you to a friend of mine. You will recognise her name. She has an idea. Brancrug Isle is a place outside the world. If you were prepared to host her breeding females here - 'landgravines-in-exile', she calls them - then they will be safe until and unless the world turns. You have her word, and mine, that they will not molest you, nor any visitors.'",
+  "dove": "recipes/nxh.n.wood.investigated.stanislav.t.honeythecomprehensiveguide.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Lieutenant Moore: how nice to meet you at last. Won't you come with me? Yes, that's it. I'm so glad you're not going to be difficult. And thank you, Librarian. Ligeia remembers.'",
+  "dove": "recipes/nxh.n.skin.captured.arthur.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Medusa will enter History; as, I hope, will the other powers of Stone.'",
+  "dove": "recipes/nxh.n.absent.aladim.acted.aladim.stalk.rose.s.cracktrack.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Medusa's end will come. Perhaps it'll come soon. To lend an ending-answer power, I should use the language of endings.' [Add Killasimi skill to provide the word for the answer in that language.]",
+  "dove": "recipes/nxc.n.absent.aladim.answer.medusas.death.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Messenger's showing up in iffy mirrors. In paintings by sillier painters. Even photographs of flames… need to block him out there, then we can work on the Casket. Have you got anything decent on Sights & Sensations [10]? Or Husher might have some ideas, if you've got anything by Husher.'",
+  "dove": "recipes/nxc.n.casket.cracked.dagmar.help.dagmar.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'More here than I'd thought! Zuthi had been dealing with someone who'd eavesdropped on the Roost. The scandals of the Mansus! It will be a - well, a <i>lark</i> to release them and watch the Hours squabble. If I can find where he hid them. What do you have on these kinds of eavesdroppings?  Except that nonsense of the Mare - it is insulting. Or at least Sky Stories [10]?' [But a doubly relevant book might change Morgen's mind.]",
+  "dove": "recipes/nxc.n.lark.morgen.assist.morgen.with.zuthis.secrets.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Nah, can't get anything out of that. Take another look in the back?'",
+  "dove": "recipes/nxc.n.apollo.corso.help.the.soprano.ascend.via.a.sky.path.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'Nice one, Librarian. I've heard back and it sounds like it might do the trick. First, it's a nice old jolt of nostalgia for her, and second, it reminds her that even the Solar Hours <i>do</i> change, no matter what the Church says. The stories have her sweet on Ghirbi of the Gate, you know? One day, perhaps, the Hours really will set him free again...",
+  "dove": "recipes/nxh.n.eye.revealed.corso.t.unhatchedhymns.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'No no no. Something more?'",
+  "dove": "recipes/nxc.n.invisible.failed.morgen.troublemaker.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'No no no. Where, Librarian, is the yes yes yes?'",
+  "dove": "recipes/nxc.n.rose.revealed.arun.assist.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'No, no good. Anything else?'",
+  "dove": "recipes/nxc.n.debt.azita.profit.from.the.wangle.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "'None of it made any sense. So for a while I thought it was a fabrication. Why would someone break in and replace the items with forgeries? Why not just take them? It was difficult to fathom. But now I know that Dagmar von Nagelsburg has been disposing of her heirlooms to pay her debts... it begins to make sense. I can't prove it - and I won't publish it - but I'm pretty sure it was her.'",
+  "dove": "recipes/nxh.n.heist.olympe.acted.olympe.heist.forge.memory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Not <i>very</i> much on duendrazones here, is there? I shall hope you have something better.'",
+  "dove": "recipes/nxh.n.apollo.morgen.acted.morgen.opera.apollo.grail.t.onresonance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Not what I needed. Don't worry, I remember it's harder than it looks. Do you have anything else?'",
+  "dove": "recipes/nxc.n.endeavour.serena.reveal.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "'Nothing that could help? Thank you for looking. Let me know if you do find anything.'",
+  "dove": "recipes/nxc.n.debt.connie.shut.down.the.wangle.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "'Of <i>course</i> I had an ulterior motive when we last spoke, Librarian. Sometimes I wonder if I have any other kind. I have a woman at the opera in mind; a woman with potential. Never mind why. Call it another ulterior motive. Help me, please. I am hoping you have something comprehensive on duendrazones, perhaps. Or matters of Tridesma Hiera [10].'",
+  "dove": "recipes/nxc.n.apollo.morgen.help.the.soprano.ascend.via.a.heart.path.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Of course I can give you that information. You must give me something for it. But I am generous. I ask for a token payment only.' [Hokobald will share information for a single Bronze Spintria.]",
+  "dove": "recipes/nxc.n.heist.hokobald.ask.hokobald.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Of course: Elie has broken the Iron Chain. The Obliviates may have lost interest in punishing her, but I know King Crucible of old. She's strong enough to escape, but not strong enough to stand against him. She'll have to go into hiding. I don't like it, Librarian, but we can't let Ys get a foothold.'",
+  "dove": "recipes/nxh.n.mystique.revealed.serena.t.theironbook.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Of course: I shall use a courier. I have some ideas. Thank you, Librarian. Lest the Mansus shake…'",
+  "dove": "recipes/nxh.n.lark.serena.acted.serena.project.ingenious.forge.t.thebookofthewhitecat.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Oh yes; I can tell you what you need to know. But I always pay you for your help, don't I, Librarian? Surely you won't mind paying for mine?' [Coquille will share information for a single Bronze Spintria.]",
+  "dove": "recipes/nxc.n.heist.coquille.ask.coquille.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oh! I suppose - if you thought it necessary… perhaps I was naïve. Thank you, Librarian. I will be more careful in future.'",
+  "dove": "recipes/nxh.n.grunewald.wisp.agdistis.wisp.trace.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oh, lor', this is above my level really, but I'l do what I can. Anything you got on this unpronounceable Excellency? Or if they want me to sort it out, I'll need something really heavy on Quenchings & Quellings [16] or Wolf Stories [16].'",
+  "dove": "recipes/nxc.n.reverend.success.two.douglas.douglas.intervenes.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oh…. <i>balls.</i>'[Oriflamme's will likely reward you.]",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.confront.and.expose.dagmar.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Omar had insight. Though he was too craven to know what to do with it. I, however, am well supplied with both knowledge and courage. And now, so is Lucia. Perhaps, Librarian, we will greet the new age together, all three of us, hm?'",
+  "dove": "recipes/nxh.n.eye.revealed.hokobald.t.eachflamehisfuel.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'One door closed, two doors opened. I am certain.' [Zachary will share information in exchange for any Memory.]",
+  "dove": "recipes/nxc.n.heist.zachary.ask.zachary.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perfect, Librarian, perfect. Now I will have, let us say, a friend in the orchestra.'",
+  "dove": "recipes/nxh.n.apollo.morgen.acted.morgen.opera.apollo.grail.t.theinstrumentsoftheheart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perfect, Librarian, perfect. Now I will have, shall we say, a friend in the orchestra.'",
+  "dove": "recipes/nxh.n.apollo.morgen.r.tridesmahiera.acted.morgen.opera.apollo.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perfect, Librarian, perfect. Now I will have, shall we say, a friend in the right place, at the very best time.'",
+  "dove": "recipes/nxh.n.apollo.morgen.acted.morgen.opera.apollo.sky.t.thefallencross.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Please tell me something.' [Provide a Memory.]",
+  "dove": "recipes/nxc.n.heist.zachary.ask.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Quite brilliant, Westergren. I never trusted him, but I used to meet him sometimes in the Mansus… his tricks couldn't save him. But it gave the Legion what they needed to put down the rebels. An ugly business. But uglier if the rebels had turned to the Chandler, and I really think they might have.'",
+  "dove": "recipes/nxh.n.revolution.failing.azita.t.lettersfromafugitive.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Ramsund: of course. <i>'And the stones shall tell over their hearts'</i>. I have Zuthi's trove. But you have reminded me, Librarian, how all this touches on my business. And my sisters' business. I think, after all, I will keep the secrets safe. For a rainy day, you say, no? For a rainy day.'",
+  "dove": "recipes/nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.thedreamoftheconspiracyofthelowerskies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ramsund: of course. <i>And the stones shall tell over their hearts</i>. This will rekindle some piquant quarrels, Librarian! Don't worry. No-one will ever know you helped me.'",
+  "dove": "recipes/nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.onthewindingstair.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Ramsund: of course. <i>And the stones will tell over their hearts</i>. I have Zuthi's trove. But you have reminded me, Librarian, how all this touches on my business. And my sisters' business. I think, after all, I will keep the secrets safe. For a rainy day, you say, no? For a rainy day.'",
+  "dove": "recipes/nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ramsund: of course. <i>And the stones will tell over their hearts</i>. I have Zuthi's trove. But you have reminded me, Librarian, of softer days... I think, after all, I will keep the secrets safe. For a rainy day, you say, no? For a rainy day.'",
+  "dove": "recipes/nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.thebookofthewhitecat.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Really? Well, I know I'm a soft touch sometimes. If you really think it wasn't safe… I should probably be more careful about Nowhere stuff. A lot more careful.'",
+  "dove": "recipes/nxh.n.grunewald.wisp.ehsan.wisp.trace.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'She's had dealing with a Nowhere-name… close dealings… and she may still… she had never mentioned it to me. I only partly understand what a Nowhere-name is, but I know enough not to get involved. Every day I seem to find something else to mistrust. Thank you…'",
+  "dove": "recipes/nxh.n.mystique.revealed.yvette.t.ajourneytothegrove.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'So the soprano - Elodie - lovely woman - we got talking. I say we got talking. Pretty sure she managed the whole thing, got herself an introduction. And she's asked me <i>very nicely</i> to help her express her, you might say, inner self. I'd like to help. But I don't know as much as I'd like to. How about Coseley on the Carapace? Or anything good on Resurgences & Emergences [10]?'",
+  "dove": "recipes/nxc.n.apollo.corso.help.the.soprano.ascend.via.a.sky.path.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'So: Rowena is a daughter of Ys. Eva Dewulf was a many-times-great granddaughter of Rowena. And Yvette, we suspect, is a daughter of Eva's line - descended both from Ys and from the Dewulfs. Ys always wanted such an heir, and they want her preserved… but though at the time of this daughter's birth, it seems, only one of Rowena or her consort was Long, later the other also attained that state. So Rowena is plagued by the urge to devour her descendants. A great many questions unanswered there, Librarian, but I think I see the shape of it.'",
+  "dove": "recipes/nxh.n.rising.heard.connie.t.ladyevasrepose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'So: Rowena is a daughter of Ys. Eva Dewulf was a many-times-great granddaughter of Rowena. And Yvette, we suspect, is a daughter of Eva's line - descended both from Ys and from the Dewulfs. Ys always wanted such an heir, and they want her preserved… but though at the time of this daughter's birth, it seems, only one of Rowena or her consort was Long, later the other also attained that state. So Rowena is plagued by the urge to devour her descendants.. A great many questions unanswered there, Librarian, but I think I see the shape of it.'",
+  "dove": "recipes/nxh.n.rising.heard.connie.t.toapalelady.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sorry, Librarian, I think I'll need something different…'",
+  "dove": "recipes/nxc.n.saint.buried.stanislav.help.stanislav.resolve.the.saint-dreams.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "'Sorry, Librarian, that's not what I need. Do you have anything else?'",
+  "dove": "recipes/nxc.n.invisible.salvaged.olympe.assist.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sorry, Librarian, that's not what I needed.'",
+  "dove": "recipes/nxc.n.reverend.success.one.ehsan.ehsan.investigates.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sort of like showing the old cousin round the old pied-à-terre in Brest, what? Make sure they know how to jiggle the chain on the old WC, which waiters not to annoy downstairs, sort of thing. But drier. And bigger. Much bigger. I'm going to get into trouble for this, aren't I? Well, worse things happen at sea.'",
+  "dove": "recipes/nxh.n.rose.revealed.dagmar.t.bookofmiah.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'Spencer wants to go down. It's the right thing. He's coming here. Please help him. But I don't know why.'",
+  "dove": "recipes/nxs.n.guest.zachary.down.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Spencer wants to go out. It's the right thing. He's coming here. Please help him. But I don't know why.'",
+  "dove": "recipes/nxs.n.guest.zachary.out.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Still working for the Church. But unofficially, now. Church says the solar Hours and Names are immutable, right? Well, since the Intercalate. And the other changes. Anyway Lucia's showing an inclination to be mutable, and I've been commissioned to remind her what she should be. Do you have anything on her deeper traditions? Or Glaziery & Lightsmithing [12], which she's sposed to be the patron of?'",
+  "dove": "recipes/nxc.n.eye.revealed.corso.reaffirm.lucias.loyalty.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Stones! The secrets were in the stones of his workshop! Not in the Lark at all! And now they are free to the wind. Let us see what dissension that has sown.'",
+  "dove": "recipes/nxh.n.lark.azita.acted.azita.project.ingenious.sky.t.onthewindingstair.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Thank you, Librarian, but that wasn't what I needed.'",
+  "dove": "recipes/nxc.n.horizon.aladim.help.al-adim.deport.the.ysien.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Thank you, Librarian. There has never truly been war among the Hours - how could there be? - and so there will be no war now. But if I am lucky, one may inspired to shed the blood of another. It has happened before...'",
+  "dove": "recipes/nxh.n.invisible.failed.morgen.t.asecondglory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you, Librarian. There has never truly been war among the Hours - how could there be? - and so there will be no war now. But if I am lucky, one may inspired to shed the blood of another. Old injuries still rankle them as they do us...'",
+  "dove": "recipes/nxh.n.invisible.failed.morgen.r.sickle.eclipse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you, Librarian. This should be the end of the matter. 'The words made him flesh; the fire made him ash.' Some parts of this job I'll never get used to.'",
+  "dove": "recipes/nxh.n.reverend.success.two.connie.r.quenchings.quellings.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Thank you, darling. It's very difficult to depict something of that stature effectively in art… but I know a talented artist or two, and that wicked little book has a great deal to say about inks and imprisonments... if perhaps we frame the Black Flower as Atrament, then... never mind. The Messenger's free. Here's the painting, as a sign of our gratitude. Perhaps if you have an altar to the Chancel, you should place it there...'",
+  "dove": "recipes/nxh.n.casket.cracked.coquille.t.etteryafter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you, darling. It's very difficult to depict something of that stature effectively in art… but I know a talented artist or two, and your book gave me enough insight into the peculiar pigments they needed… he's free, I'm glad to say. Here's the painting, as a sign of our gratitude. Perhaps if you have an altar to the Chancel, you should place it there...'",
+  "dove": "recipes/nxh.n.casket.cracked.coquille.r.sights.sensations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you… my friend. I will give of my blood and the Sun's old shadow may remember how it was when the days were red and sweet… what is within, without. I will rise into the sky and - please may it be so - I will not return. Do not grieve for me. Do not grieve...'",
+  "dove": "recipes/nxh.n.skin.free.zachary.r.pentiments.precursors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thanks, Librarian, but I can't find anything in there that'll help. Fair gives me the chills, too. 'Applebright'. Wish those things would stay nowhere. Got anything else?'",
+  "dove": "recipes/nxh.n.mystique.revealed.douglas.t.ajourneytothegrove.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thanks, Librarian. I think I know how to stay out of her way. Not forever - and I intend to live as close to forever as I can manage - but long enough to find a more permanent solution.'",
+  "dove": "recipes/nxh.n.skin.slain.azita.azita.r.coil.chasm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thanks, Librarian. Once we've taken Liselotte into custody, this'll sort out her brood. I almost feel sorry for her. I shouldn't, though. That's how they get you.'",
+  "dove": "recipes/nxh.n.wood.investigated.douglas.r.insects.nectars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'That did the job, thank you. Strands rolled up, skin pinned down, safely cremated the poor old bugger.'",
+  "dove": "recipes/nxh.n.reverend.success.two.douglas.r.quenchings.quellings.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'That was what I needed. I think, now, that Kitling Ripe will find the Blomberende-kind suitably tempting; it will find them and dispose of them. Regrettable. But I am determined it's safer this way. We should not forget the Cross, but neither should we welcome it.'",
+  "dove": "recipes/nxh.n.wood.investigated.stanislav.r.horns.ivories.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'That wasn't really much help. Do you have anything better?'",
+  "dove": "recipes/nxc.n.casket.cracked.coquille.help.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'That's not it. Anything else?'",
+  "dove": "recipes/nxc.n.invisible.salvaged.arun.assist.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'That's not what I meant at all. Do you have anything else?'",
+  "dove": "recipes/nxc.n.apollo.morgen.help.the.soprano.ascend.via.a.heart.path.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'That's of no use to me. Do you have something more?'",
+  "dove": "recipes/nxc.n.revolution.failing.chaima.assist.the.legion.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'The <i>mobeds</i> have renewed their altar-fires and rekindled their convenants… I dare hope it is because I reminded them of the price of time, and the cost of fate. The rebellion is over, but I think in all honesty it should never have begun…'",
+  "dove": "recipes/nxh.n.revolution.failing.arthur.r.thegreatsignsandthegreatscars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Bureau will see off Elie, keep her hands off Yvette. But it won't be easy. Elie's been around a long time, she's a tough 'un. But because she's been around a long time, I'm hoping you might have a book with information on her I can use…'",
+  "dove": "recipes/nxc.n.mystique.revealed.douglas.thwart.elie.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Forge of Days once understood the needs of her Principle, but now, with her Counterfeits and other foolishness, she grows as craven as the Meniscate… I, however, am well supplied with both knowledge and courage. And now, so is Lucia. Perhaps, Librarian, we will greet the new age together, all three of us, hm?'",
+  "dove": "recipes/nxh.n.eye.revealed.hokobald.r.transformations.liberations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Harries gave us what we needed. We came on the rebels suddenly through the hidden ways, and ended them. It is good that we moved so quickly. The prisoners we took had attempted commerce with the Chandler…'",
+  "dove": "recipes/nxh.n.revolution.failing.chaima.t.analmanacofentrances.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The Haustorium really is insidious, isn't it? ...this clinches it for me. I can do more good outside the Bureau than inside. This is going to cause a fuss: I'll need to lie low for a while. Thank you, Librarian. I couldn't have made this decision without you. I hope we meet again some day.'\n\n[Connie will resign from the Bureau, and will no longer appear as a Visitor, but may still be recruited to the Lighthouse Institute...]",
+  "dove": "recipes/nxh.n.tapestry.investigated.t.exercisesinthecontinuityofself.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Labyrinth has him… and Echidna is not pleased with me. She had come to see herself as a mother, or perhaps a lover. I don't know. I don't like it. But now I'm in trouble.'",
+  "dove": "recipes/nxs.n.skin.arthur.imprisonment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Labyrinth's allies weren't very sympathetic. I'm more disposable than I'd thought. But now I think I can argue my case a lot better… and if I'm lucky, those allies will be prepared to keep Echidna at bay, for a while at least. I'm very grateful, Librarian.'",
+  "dove": "recipes/nxh.n.skin.captured.arthur.t.dehorisbook3.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Legion have asked me to advise them. I know a thing or two, but I'd like to refresh my memory. Westergren fought with them once, and I think he came to Brancrug after… do you have his memoirs? Or something about Sharps [10]…'",
+  "dove": "recipes/nxc.n.revolution.failing.azita.assist.the.legion.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "'The London Reckoners call it 'the Wangle', did you know that? One of the Reckoner lords in Kaunas has found a way to win years of life out of the Madrugad's tally. If I can determine how that's done… I'd like to share the secret more widely. It'll cause a great deal of trouble. I'm looking forward to it. But I need your help. Do you have anything on Disciplines of the Scar [10]? Or... anything on the Winter Tower here at Brancrug?'",
+  "dove": "recipes/nxc.n.debt.arun.democratise.the.wangle.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Lyterion director - Liselotte - her process involves the implantation of Blomberende larvae in her patients. Perhaps they are willing. But as you would expect, the Bureau has taken notice…'",
+  "dove": "recipes/nxs.n.wood.stanislav.speak.to.stanislav.about.the.lyterion.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The Madrugad is a power of balance, Librarian. When the balance is disturbed, she restores it. But she cannot always restore it right away…. and sometimes, as with the Winter Tower, the balance is righted in an unexpected way. I'm taking that lesson to Venice...'",
+  "dove": "recipes/nxh.n.invisible.salvaged.olympe.t.againstvitruvius.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The Messenger escapes into images: paintings, mirrors, photographs. I might find what I need in a Sights & Sensations [10] text. But also 'look to serpents', I think he has said to me. There was a Hooded Prince, Jekadu, who knew a way of escape we might find useful...'",
+  "dove": "recipes/nxc.n.casket.cracked.zachary.help.zachary.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Messenger? Got 'im! Thanks for the reading materials, what? Here's the last of the whole business. Can you put it somewhere safe? Meantersay if you have for instance a special sort of sarcophagus in your cellar somewhere...'",
+  "dove": "recipes/nxh.n.casket.cracked.dagmar.t.onthewhite.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The New King has sponsored the construction of a vessel for a Name of the fire that is to come. Various miscreants propose to sabotage it. Whatever your feelings on the politics of the Mansus and the Wake, Librarian, you will recognise that such a provocation might very well spark war. And I find war inconvenient. So I ask for your help in arranging protection. Something on the alchemies of the Sunset Road would be very useful. Or failing that, a competent text on Bells & Brazieries [10] might give me what I need.'",
+  "dove": "recipes/nxc.n.endeavour.hokobald.protect.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Rising While has given me my own oracle now. I don't like it much better than the other one.'",
+  "dove": "recipes/nxs.n.rising.connie.hear.connies.trouble.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'The arguments of history, the inevitabilities of consumption… the rebels have turned from the Fourfold to embrace the power that burns in darkness. They have abandoned their rebellion. The matter is settled, and we need not speak of it again.'",
+  "dove": "recipes/nxh.n.revolution.surging.hokobald.r.thegreatsignsandthegreatscars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The arguments of history, the inevitabilities of consumption… the rebels have turned from the Fourfold to embrace the power that burns in darkness. They have abandoned their rebellion. The matter is settled, and we shall not speak of it again.'",
+  "dove": "recipes/nxh.n.revolution.failing.hokobald.r.thegreatsignsandthegreatscars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The attempt was made; by my arts, I ensured that the attempt failed; Fissifer remains. I have served the cause of peace today, Librarian. Generosity remains my profoundest flaw.'",
+  "dove": "recipes/nxh.n.endeavour.hokobald.acted.hokobald.project.solar.forge.t.theamalgamoftheredrose.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The compulsions of fate and time, indeed. The rebels have turned from the Fourfold to embrace the power that burns in darkness. They have abandoned their rebellion. The matter is settled, and we need not speak of it again.'",
+  "dove": "recipes/nxh.n.revolution.surging.hokobald.t.thechandlerswish.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The compulsions of fate and time, indeed. The rebels have turned from the Fourfold to embrace the power that burns in darkness. They have abandoned their rebellion. The matter is settled, and we shall not speak of it again.'",
+  "dove": "recipes/nxh.n.revolution.failing.hokobald.t.thechandlerswish.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The manifestations in Messana are the work of Lucia the Eyeless, who's long been under the Meniscate's thumb. No more, I think. Lucia shows a promising yearning for change. An ally of mine has pleaded with me to introduce her...'",
+  "dove": "recipes/nxs.n.eye.hokobald.ask.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The manuscript was a forgery, sure enough… but the information in it was good. Something funny about that. St Lucia the Eyeless is behind the manifestations. The Meniscate usually charges her with withdrawing the gift of sight. Now she's handing it out instead. Trouble in the Mansus, I reckon.'",
+  "dove": "recipes/nxs.n.eye.corso.ask.corso.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The offering is complete? Thank you, Librarian. Don't tell me what happened. If anything did. I am already beginning to wish I had not asked you…''",
+  "dove": "recipes/nxh.n.claw.agdistis.west.agdistis.acted.agdistis.observe.scaly.sky.offering.tentreto.made.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The poor old thing's been knocking about the world for… how long? I can't even imagine. I think it might be time for it to stop. And there's only one language really suitable for that...' [Add Killasimi skill to provide the word for the answer in that language.]",
+  "dove": "recipes/nxc.n.absent.arthur.answer.medusas.death.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'The prisoner can be seen in the world now, in mirrors and paintings, but the seals still partly hold. I need some advice on how to depict him better. A text on Sights & Sensations [10], perhaps? Or I'm told Eva Dewulf wrote a naughty book that might conceal inkly secrets...'",
+  "dove": "recipes/nxc.n.casket.cracked.coquille.help.coquille.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'The rebels - they're martial Zurvanists, more or less -  they're holding their own. But I'm worried. They've long followed a Lionsmith-Name we call the Fourfold. But I have spoken with one of their <i>mobeds</i>, and learnt that they have been receiving overtures from a power of fire in darkness. Time and fate; fire and darkness. They revere these things.'",
+  "dove": "recipes/nxs.n.revolution.arthur.the.revolution.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The reincorporate - the celebrant who's hosting the spirit… I don't want to say 'Nowhere', but I'm thinking 'Nowhere.' The Green Sages were right to worry. And now the reincorporate is running errands between the Haustorium and the Bureau. The Bureau thinks they have it under control, but that's what someone thought at Ortucchio. I know that CMO Lee - Connie - is worried. I am too.'",
+  "dove": "recipes/nxs.n.tapestry.stanislav.ask.stanislav.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The soprano - her name is Elodie - she has expressed certain longings to me, of higher modes of being. She has the Cross-nature in her - but I do not think she should pursue it. Sometimes the Cross frightens me, my friend. I fear what it would replace. So I had hoped to tutor her in the New Form, as I did back in the Ecdysis days, but she will have nothing to do with the Ligeians. Still I think there may be a way. Do you have anything detailed on duendrazones? Or just something good on Tridesma Hiera [10]?'",
+  "dove": "recipes/nxc.n.apollo.agdistis.help.the.soprano.ascend.via.a.heart.path.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is a tradition that the Messenger is a foe of serpents. I had never believed it. And now he is free. Here: take this, to dwell on your threemost altar. There may then be fewer regrets. I hope.'",
+  "dove": "recipes/nxh.n.casket.cracked.zachary.t.amanualfordeparture.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is no defeating Echidna. The best I can hope for is to turn her gaze aside from me. I know now how to do that. Walk in light, Librarian.'",
+  "dove": "recipes/nxh.n.skin.slain.chaima.chaima.r.coil.chasm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There it is. Perhaps it's time for Medusa to rejoin the Seglaz-kind.'",
+  "dove": "recipes/nxh.n.absent.aladim.acted.aladim.stalk.rose.s.henavek.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There's a pleasant surprise! Right here in plain sight, for those with eyes to see… I can't defeat Echidna, but I can make her regret a confrontation - enough to keep her at bay. Like a cat scratching a bear's nose, you know? Thanks, Librarian.'",
+  "dove": "recipes/nxh.n.skin.slain.azita.azita.t.debellismurorum.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There's a way then to speak directly to the Madrugad… at a funeral. We never have, alas, any shortage of bodies to bury. I very much hope the Madrugad won't attend in person. As long as she knows what's happening with this 'Wangle', we can end it; and it needs to end, now.'",
+  "dove": "recipes/nxh.n.debt.connie.t.sunsetpassages.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There's even more to it than I thought. There <i>is</i> a Chandler-name, but there's also a Meniscate-name - Lucia the Eyeless. Lucia bestows gifts of blindness at the Meniscate's bidding. Now she's flirting with a Chandler-name, and bestowing gifts of sight. I know Lucia had sometimes been fractious - there is a tradition she was friendly with Ghirbi, and I can't imagine she'd like how the Hours treated him...'",
+  "dove": "recipes/nxs.n.eye.serena.ask.serena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There's nothing of particular use here, I'm afraid. What else do you have?'",
+  "dove": "recipes/nxc.n.rose.revealed.aladim.assist.al-adim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'These rebels - these 'Fourfold Zurvanists' - they are causing the Legion some difficulty. But the power they serve is a blunted claw. I have offered to introduce them to other masters. They should listen to me.'",
+  "dove": "recipes/nxs.n.revolution.hokobald.revolution.in.the.bounds.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'These rebels are desperate. I have been offered - let us call it a commission - if I sway them to the Hour-to-Come, the Chandler. With the right material [Great Signs and the Great Scars 8] I could sway them. Or with a strong argument that the Chandler is the oldest Hour - if you know the work that I mean. The Zurvanists respect the compulsions of fate and time...'",
+  "dove": "recipes/nxc.n.revolution.failing.hokobald.another.way.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'They are building a Name, a sort of counterfeit Ghirbi, in the royal dockyards - a vessel of the Chandler's fires. I must take action. It is a <i>little</i> treasonous, I grant you. I am still technically a subject of his Majesty. But I hope very much that you will help me. Do have anything by Vinzant on resonance and alchemy? It's possible my emissaries can persuade the wretched thing to shake itself to pieces... failing that, we'll have to resort to Pyroglyphics [10]'.",
+  "dove": "recipes/nxc.n.endeavour.serena.reveal.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'They are building a shadow of Ghirbi in the royal dockyards - a herald of the Chandler. I must take action. It is a <i>little</i> treasonous, I grant you. I am still technically a subject of his Majesty. But I hope very much that you will help me. Do you have Cygnifer on lightning? I recall a technique there that may allow my emissaries to open the wretched things's flaws...? Or perhaps we can use an approach from Glaziery & Lightsmithing [12]'.",
+  "dove": "recipes/nxc.n.endeavour.serena.unveil.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'They buried it, as I suggested. I'm not sure if it was the right course. It's opened paths from the Wood for dreamers in Strasbourg - knotty, perilous dreams. If the saint-image was a seed, it may be growing faster than I had expected…'",
+  "dove": "recipes/nxs.n.saint.stanislav.ask.stanislav.what.happened.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'They burned the statue, as I advised. It helped matters. But it was not enough. Dreams roam the Strasbourg night; dreams of wings. I may need your help again...'",
+  "dove": "recipes/nxs.n.saint.aladim.speak.to.al-adim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'They drowned it, as I asked them to. It was well done. It has opened the way to dreams of those who came before. I'm very pleased; though I know Stanislav has some concerns...'",
+  "dove": "recipes/nxs.n.saint.fraser.ask.fraser.what.happened.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Think about it for a moment, darling. Someone who's a gifted nyctodromist; someone who knows some of these items, because they used to be her family treasures; someone who's been selling off her family treasures, because they've fallen on hard times. Gräfin Friederike Dagmar Sophia Theresia Helena Benigna von Nagelsburg...'",
+  "dove": "recipes/nxh.n.heist.coquille.acted.coquille.heist.knock.spintria.bronze.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thirza Blake... she never really fitted, either, did she? But this brings it all back… this is what I got into the Bureau to do. This is what I've always been good at. Thanks, Librarian. I'll stay, and fight to keep things right.'",
+  "dove": "recipes/nxh.n.tapestry.investigated.connie.t.exorcismforgirls.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thirza had contact with the remnants of the Carapace Cross. 'Trafficked with,' they used to say. Dangerous habit, but she had a lot of dangerous habits. Liselotte - the Lyterion director - she's 'trafficking with' them a lot more enthusiastically. Implanting larval Cross in her patients. Oh, they want her to do it, and both sides benefit... but I'm not sure it's a good idea. And the Bureau's noticed.'",
+  "dove": "recipes/nxs.n.wood.ehsan.speak.to.ehsan.about.the.lyterion.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This Ysien emissary has overstayed his welcome… and he was never very welcome. I have been asked to explain that to him, but I lack the terms. I would find Door & Wall [10] helpful, or Sea Stories [10].'",
+  "dove": "recipes/nxc.n.horizon.aladim.help.al-adim.deport.the.ysien.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'This brings it back! … this is what I got into the Bureau to do. This is what I've always been good at. Thanks, Librarian. I'll stay, and fight to keep things right.'",
+  "dove": "recipes/nxh.n.tapestry.investigated.connie.t.anexorcistsfieldmanual.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is all a bit beyond me but I'll do my best. Got anything on Sharps [8] or Sand Stories [8]?'",
+  "dove": "recipes/nxc.n.reverend.success.one.douglas.douglas.investigates.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is very disappointing. You must have something better.'",
+  "dove": "recipes/nxc.n.endeavour.hokobald.protect.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is what I need. I won't face her. But if she comes for me, I will have some surprises for her. Thank you, Librarian.'",
+  "dove": "recipes/nxh.n.skin.slain.chaima.chaima.t.echidnalia.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is what brought Nocturnal Branch down… there's a lot here about Ortucchio that I didn't know. We dealt with it before. We'll deal with it again… and I'll be there to make sure it's done right. Thank you, Librarian. Wish me luck.'",
+  "dove": "recipes/nxh.n.tapestry.investigated.connie.t.velletriinterviews.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This will be challenging. If you have anything on - or by - Gnathobasis, that would be ideal. Otherwise, I'll see what we can do with Quenchings & Quellings [12] or Wolf Stories [12].'",
+  "dove": "recipes/nxc.n.reverend.success.two.connie.connie.intervenes.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'This woman Liselotte. She's putting bees in people. Not bees exactly, it's the bee-Cross, the fellers that used to be around when things were different. And the people are letting her do it. Seem pretty keen on it. But it's a bloody menace, clearly. We can't allow it.'",
+  "dove": "recipes/nxs.n.wood.douglas.speak.to.douglas.about.his.investigation.of.the.lyterion.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Took my chance and muffed it, didn't I? Sick to death of eating out of tins, but couldn't bear to see the things go to the wrong homes.  Well, here we are. Always thought the things under the Mansus should stay under the Mansus, count on me to help keep 'em there.'",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Took my chance and muffed it, didn't I? Sick to death of eating out of tins, but couldn't bear to see the things go to the wrong homes.  Well, here we are. Count on me to help keep Ys at bay if it needs keeping.'",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Took my chance and muffed it, didn't I? Sick to death of eating out of tins, but couldn't bear to see the things go to the wrong homes.  Well, here we are. Never really understood what the Chander's sposed to be, but if it ends up being anything, count on me to... count on me.'",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.the.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Tradition. Big bloke I used to know in Beaconsfield used to say tradition was the democracy of the dead. 'Used to' cos he's dead now. Miss him. But I spose that gives him the vote. And he liked tradition. And orthodoxy… look at me getting sentimental. Anyway I think I know now what the nuncio needs to say to Lucia to keep her clear.'",
+  "dove": "recipes/nxh.n.eye.revealed.corso.r.glaziery.lightsmithing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Used to have a soft spot for Ys. Not any more. We talked about that. Anyway I thought I'd win myself some brownie points, see off this interloper. Need some help, though. How's the collection on Door & Wall [10]? Or Sea Stories [10]?'",
+  "dove": "recipes/nxc.n.horizon.dagmar.help.dagmar.deport.the.ysien.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Useless. Give me something better.'",
+  "dove": "recipes/nxc.n.revolution.failing.hokobald.another.way.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Very diverting, thank you, my dear Librarian, very diverting. And there is a more diverting development still. The Moth has found allies to move against Calyptra. His first move is in the dreams of the opera audience - where black-and-white flowers now bloom...'",
+  "dove": "recipes/nxs.n.invisible.morgen.morgens.exploits.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Vicious tricks, there. It gave the Legion what they needed to put down the rebels. An ugly business. But uglier if the rebels had turned to the Chandler, and I really think they might have.'",
+  "dove": "recipes/nxh.n.revolution.failing.azita.r.sharps.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'We did discuss terms, didn't we? One Bronze Spintria.'",
+  "dove": "recipes/nxc.n.heist.coquille.ask.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'We never did get to the bottom of it, did we? Perhaps the Reckoners will tire themselves out eventually.'",
+  "dove": "recipes/nxi.n.debt.azita.azita.and.kaunas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well I've had a damned good think and a dashed good snout around and all I can say is that's all I can say. One of the eternal ineffabilities, what? Meantersay I can't tell you who did it. If anyone did it. Sorry, Libsy.'",
+  "dove": "recipes/nxi.n.heist.dagmar.ask.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well honest to Suns I just don't know, Libsy. I sealed him up all right, but I don't think it needed doing. If there are Worms in him they're awfully tame. For Worms. He's been a bit wild. Roaming round Poland with a sword. Chopping up Carabees. Bit of naughty arson. But no worms. He <i>said</i> he was going to come here, to Brancrug. If I understand him right, he's just passing through, on his way somewhere else. But he doesn't really talk any more. Couldn't get much out of him.'",
+  "dove": "recipes/nxs.n.guest.dagmar.ask.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well if you can't paint it, eat it, as Solomon Husher never said, probably. Thanks for that. Here's the last of the whole business. Can you put it somewhere safe? Meantersay if you have for instance a special sort of sarcophagus in your cellar somewhere...'",
+  "dove": "recipes/nxh.n.casket.cracked.dagmar.r.sights.sensations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well paint me pink and paint me puce, Libsy. I did make it out there into the desert and I'm dashed glad I did. Vagabond's garden of piebald roses, and a whole tribe of Carapace Cross tucked up among 'em like field-mice in a corn-field. Lovely sight. The old gel's up to something. I rather think I might lend a hand.'",
+  "dove": "recipes/nxs.n.rose.dagmar.ask.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well that caused a fuss and a half. Can't see how they'll trace it back to me, long as you keep discreet, eh Librarian? but I think I might lay low for a bit. I think the war's receded, anyway. No-one else is going to be building a Fissifer, but they'll know what to do about it if anyone does. Balance of power.'",
+  "dove": "recipes/nxh.n.endeavour.corso.acted.corso.project.solar.lantern.t.theothereyeoftheserpent.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Well that's no damned help at all. What else d'you have?'",
+  "dove": "recipes/nxc.n.casket.cracked.dagmar.help.dagmar.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'What did you decide?'",
+  "dove": "recipes/nxc.n.claw.patient.unquelled.ehsan.speak.with.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'What news of the offering?'",
+  "dove": "recipes/nxc.n.claw.agdistis.west.agdistis.speak.with.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes all good, glad you didn't help anyone else let it go, but also glad you brought it up, meaning to speak to you. Box feller's image made it out into the world, outer ring of significance as it were. Can you put this somewhere safe? Meantersay if you have for instance a special sort of sarcophagus in your cellar somewhere...'",
+  "dove": "recipes/nxs.n.casket.dagmar.confinement.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes indeed; I was able to free the Messenger. I'm told he's grateful that Hush House decided not to assist that von Nagelsburg woman in keeping him imprisoned. Here's a sign of his gratitude. Perhaps if you have an altar to the Chancel, you should place it there...'",
+  "dove": "recipes/nxs.n.casket.coquille.escape.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes, I know something interesting. Happy to share. Want to tell me something interesting too?' [Olympe will share information in exchange for any Memory.]",
+  "dove": "recipes/nxc.n.heist.olympe.ask.olympe.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes, I recall this one. There is a little note on the duendrazones - but I need more. I am sorry.'",
+  "dove": "recipes/nxh.n.apollo.agdistis.acted.agdistis.opera.apollo.sky.t.onresonance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes, Librarian, and thank you! Perhaps it was your advice that made all the difference. 'Everything fails until it succeeds' - a very History sentiment, isn't it? And now there is something else from History. The Moth is moving against Calyptra - and I believe he has allies. His first move is a matter of flowers - black-and-white flowers in the dreams of the audience...'",
+  "dove": "recipes/nxs.n.invisible.olympe.ask.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes. A fallen Star. It was a <i>little</i> chatty - perhaps you know how these visitors can be - but split small enough, it's almost silent. The Legion hasn't complained. And it's turned the tide for them against the rebels.'",
+  "dove": "recipes/nxs.n.revolution.azita.legion.supplies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes. A memorable occasion. The walls dripped. The chorus screamed. But there has been an irritating development. The Moth is scheming against Calyptra - against the Madrugad in particular. That scheme demanded the successful performance of the opera. That scheme has raised piebald flowers in the dreams of the audience…'",
+  "dove": "recipes/nxs.n.invisible.hokobald.hokobalds.exploits.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes. I mistrust these rebels, these 'Fourfold Zurvanists'. Whether they remain faithful to their Lionsmith-Name, or not.'",
+  "dove": "recipes/nxs.n.revolution.chaima.a.contract.officer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes. I think she will find the end a mercy.'",
+  "dove": "recipes/nxh.n.absent.aladim.s.killasimi.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes. Not the Obliviates, exactly - <i>an</i> Obliviate. Or she used to be one. Black Elie. She's had what you might call an odd career. She's looking for Yvette Southey. Yvette, as you might know, is descended from the line of Ys. Elie has made an arrangement with Ys, to render them Yvette, in exchange for their assistance in preserving the Bounds... it's a very clever arrangement, Librarian. I've been talking to Elie. I think it's for the best.'",
+  "dove": "recipes/nxs.n.mystique.fraser.ask.fraser.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes. She divided a fallen Star. The fragments have given the Legion what they wanted. Azita has been paid. But Star-visitors can be loquacious - even so divided. The woman is a fool.'",
+  "dove": "recipes/nxs.n.revolution.hokobald.a.taenite.revolution.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Yes. She has led attacks against the rebels, these 'Fourfold Zurvanists'. I imagine the Legion is glad of her help. She is formidable, for a woman.'",
+  "dove": "recipes/nxs.n.revolution.hokobald.a.mercenary.act.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You are thinking, Librarian, 'is he ready to make any more sense?' A little unkind of you, but we cannot be held responsible for our thoughts, can we? They flutter here and yon like moths under the sun. Like the Glaeterfleoge-kind, in fact, beneath the desert sun. Yes, they have come to Miah. I think the Vagabond has brought them to her garden. I think she's doing something rather wonderful...'",
+  "dove": "recipes/nxs.n.rose.arun.ask.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You helped me; you also helped Dagmar von Nagelsburg. There is the balance. The seals on the Casket are cracked; the Messenger cannot yet escape, though his image is now seen in the world. There is another balance.'",
+  "dove": "recipes/nxs.n.casket.zachary.thwarted.by.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You helped us; you also helped Dagmar von Nagelsburg. There is the balance. The seals on the Casket are cracked; the Messenger may not yet escape, though his image is now seen in the world. There is another balance.'",
+  "dove": "recipes/nxs.n.casket.zachary.no.surcease.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You know, the records say we asked for RESTRICT on this one, back when the Bureau was more involved with House cataloguing, and Blackwood wouldn't have it, said the author was long gone, nothing to worry about. Give her a clip round the ear from me next time you see her. Anyway, that did the job, thank you. Strands rolled up, skin pinned down, safely cremated the poor old bugger.'",
+  "dove": "recipes/nxh.n.reverend.success.two.douglas.t.oghkoroghkortissilakoghkor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You will not make the offering? Your decision. I'll tell him that. I don't know how he'll take it… thank you, Librarian.'",
+  "dove": "recipes/nxh.n.claw.patient.unquelled.ehsan.offering.tentreto.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You will not make the offering? … honestly, I'm relieved. I think I will pour it into the sea as I depart. Perhaps it will be over then. Thank you, Librarian.'",
+  "dove": "recipes/nxh.n.claw.agdistis.west.agdistis.acted.agdistis.observe.scaly.sky.offering.tentreto.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You've reminded me, Librarian, of the perils of the contentions of the Hours, even when secrets stay where they should… perhaps we mortals should be a little less co-operative. I think I'll hang on to the secrets myself, for the time being. We could use the advantage.'",
+  "dove": "recipes/nxh.n.lark.serena.acted.serena.project.ingenious.forge.t.thedreamoftheconspiracyofthelowerskies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Zidane - the silly boy - was not only using unsanctioned alloys. He had also happened on a trove of Roost-secrets. There is good reason that the aviform Hours guard the Roost so jealously. These secrets are seeds of strife and scandal - if we want to preserve the order of the Mansus it is essential that they be discreetly returned. I think I know where to find them, but arranging a safe audience with their owners will be much more challenging.  Anything on the Roost? Or on Path & Pilgrim [10]?' [One book might make Serena reconsider.]",
+  "dove": "recipes/nxc.n.lark.serena.assist.serena.with.zuthis.secrets.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Zuthi had come into possession of secrets from the Roost - the meeting of the Aviform Hours. I don't know how. They are dangerous, these secrets. There would be strife among the Hours if they were revealed...and that would be very useful... to us all. If I can only find how Zuthi hid them! Do you have any relevant books? Or perhaps something on Sky Stories [10]?' [But a gentler book might change Azita's mind.]",
+  "dove": "recipes/nxc.n.lark.azita.assist.azita.with.zuthis.secrets.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'…except that Yvette's gone, isn't she?'",
+  "dove": "recipes/nxi.n.rising.interpreted.connie.abandon.an.oracle.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'…we were successful. Fissifer still burns, but he is crippled. And questions will be asked in Parliament, I think. There was blood, Librarian, and there will be more blood. But I hope now that we have averted war.'",
+  "dove": "recipes/nxh.n.endeavour.serena.acted.serena.project.solar.forge.t.onresonance.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "<i>'Spencer Hobson, who was a priest, who was a hunter of monsters, who perhaps clothed a monster… Spencer is gone where the mists of Numa go.</i>",
+  "dove": "recipes/nxs.n.guest.hobson.spencer.down.refuse.entry.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "<i>Liselotte is gone, and the Blomberende-kind with her. We will not see either of them again.</i>",
+  "dove": "recipes/nxh.n.wood.assisted.stanislav.liselotte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Liselotte is gone. The Blomberende-kind remain in the Brancrug beehive, both grateful and quiescent.</i>",
+  "dove": "recipes/nxh.n.wood.assisted.stanislav.liselotte.lyterion.new.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>We would like to believe that Spencer passed through the Rowenarium into one of this liminal nearly-realities beyond the Mansus and the Bounds: Nowhere, or Ys, or the lower skies, or the House of the Moon. We would like to believe that he did so to honour his last responsibilities, and that the change in the Rowenarium is in the nature of a valedictory blessing. </i>",
+  "dove": "recipes/nxs.n.guest.hobson.spencer.trace.bid.farewell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Whatever might happen with Connie and her Oracle is beyond the knowledge even of the Librarian of Hush House.</i>",
+  "dove": "recipes/nxs.n.rising.forget.the.matter.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "<i>When Yvette read the </i>Commandments<i>, she became convinced of Elie's altruism. And besides, her blood knows Ys behind the wave, city of coral and ice… she has passed behind the wave in furtherance of Elie's bargain to protect the Bounds. Some day, we might know if that was a good idea. But today, Elie is pleased, and if we want to recruit her for our Institute, she's willing. </i>",
+  "dove": "recipes/nxh.n.mystique.revealed.yvette.t.commandmentsforthepreservationofallthatexists.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Ys behind the wave, city of coral and ice… she met with Fraser, and he ensured that, willingly or not, she passed behind the wave in furtherance of Elie's bargain to protect the Bounds. Some day, we might know if that was a good idea. But today, Elie is pleased, and if we want to recruit her for our Institute, she's willing. </i>",
+  "dove": "recipes/nxh.n.mystique.revealed.fraser.acted.fraser.mystical.lantern.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Yvette is clearly nervous, but she isn't going to quibble with the Suppression Bureau. Away she goes in a sober black car, to the guardianship of Echidna. The horizon smiles; no storm gathers; the black car passes with a last flash of chrome over the summit of the hill and is gone from sight.'</i>",
+  "dove": "recipes/nxh.n.rising.interpreted.connie.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Contract Officer?",
+  "dove": "recipes/nxs.n.revolution.chaima.a.contract.officer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Mercenary Act?",
+  "dove": "recipes/nxs.n.revolution.hokobald.a.mercenary.act.label",
+  "ricorre": 1
+ }
+]

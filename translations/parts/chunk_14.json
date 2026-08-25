@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "'The Mare's blessings on you. And your Tree.'",
+  "dove": "elements/embarking_auntmopsy.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Then I'll have to find my enlightenment somewhere else. Good day to you.'",
+  "dove": "elements/embarking_arthur.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'This would not have happened in the time of the Curia of the Isle. Goodbye.'",
+  "dove": "elements/embarking_fraser.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well, I have other contacts...'",
+  "dove": "elements/embarking_corso.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well, mustn't grumble.'",
+  "dove": "elements/embarking_douglas.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'Why is this damned place always so damned desperate to waste my damned time?'",
+  "dove": "elements/embarking_hokobald.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "'You have nothing? No matter, no matter! There's always another time.'",
+  "dove": "elements/embarking_agdistis.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "A.M.",
+  "dove": "elements/embarking_auntmopsy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Serena Blackwood",
+  "dove": "elements/embarking_serena.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Dr Yvette Southey",
+  "dove": "elements/embarking_yvette.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Fr. Stanislav John Schaller",
+  "dove": "elements/embarking_stanislav.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Julian Coseley",
+  "dove": "elements/embarking_julian.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Lord Franklin Bancroft",
+  "dove": "elements/embarking_franklin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Magister Hokobald",
+  "dove": "elements/embarking_hokobald.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Mlle Margot Matutine",
+  "dove": "elements/embarking_morgen.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Mme Olympe Bechet",
+  "dove": "elements/embarking_olympe.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Mr Fraser Strathcoyne",
+  "dove": "elements/embarking_fraser.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Mr Zachary Wakefield",
+  "dove": "elements/embarking_zachary.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Professor Rowena Hengerst",
+  "dove": "elements/embarking_rowena.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Trust expects better...'",
+  "dove": "elements/embarking_rowena.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "Wakefield says nothing at all. But then, he seldom does.",
+  "dove": "elements/embarking_zachary.xexts.dissatisfying",
+  "ricorre": 1
+ },
+ {
+  "en": "[Mr Agdistis will leave soon.]",
+  "dove": "elements/embarking_agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'When it comes down to it, the Suppression Bureau's just another cabal deciding what books everyone else should read... and then reading them itself. My letter of resignation is ready. I'll send it from somewhere safe... without a return address. Here's how to reach me if you really need to...' [Connie is no longer a Visitor, and will take no further part in stories; but she may still become a founder of the Lighthouse Institute.]",
+  "dove": "elements/connie.resigned.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A 'poor wisp' preserved by Agdistis from the Grunewald disaster. Cooing, mewing, warm to the touch. Notionally harmless. [Agdistis has asked you to place this in the Chrysalis that you can find in the Cucurbit, but you could destroy it in the furnace if you were suspicious.]",
+  "dove": "elements/wisp.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A 'poor wisp' preserved by Ehsan from the Grunewald disaster. Cooing, mewing, warm to the touch.  Notionally harmless. [Ehsan has asked you to place this in the Chrysalis that you can find in the Cucurbit, but you could destroy it in the furnace if you were suspicious.]",
+  "dove": "elements/wisp.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis' Wisp",
+  "dove": "elements/wisp.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis' Wisp: Cindered Trace",
+  "dove": "elements/wisp.trace.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis' Wisp: Shed Skin",
+  "dove": "elements/wisp.skin.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Constance Lee",
+  "dove": "elements/connie.resigned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan's Wisp",
+  "dove": "elements/wisp.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan's Wisp: Cindered Trace",
+  "dove": "elements/wisp.trace.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan's Wisp: Shed Skin",
+  "dove": "elements/wisp.skin.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Elie's Promise",
+  "dove": "elements/elie.persistent.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte - Lyterion director; dietician; ally of the Blomberende-kind - has installed her 'landgravines-in-exile' in the Hush House beehive. [Return this card to Stanislav in the God in the Wood node.]",
+  "dove": "elements/liselotte.lyterion.new.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte - Lyterion director; dietician; ally of the Blomberende-kind - is gone into the world. Perhaps the Suppression Bureau will not look for her.",
+  "dove": "elements/retiring_liselotte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte's Feat",
+  "dove": "elements/liselotte.lyterion.new.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte's Lore",
+  "dove": "elements/liselotte.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte, Departing",
+  "dove": "elements/retiring_liselotte.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lyterion director; dietician; ally of the Blomberende-kind. Liselotte wishes to bring a case of sleeping Blomberende noble larvae, so they can find a refuge here at Hush House. [Use this card in the Hush House beehive to give them refuge - or if you decide to refuse her, return this card to Stanislav in the God in the Wood node.]",
+  "dove": "elements/liselotte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs E",
+  "dove": "elements/echidna.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Once, Black Elie was the Matriarch of the Sisters of the Triple Knot in Damascus. Now, she's an ally of Ys - and a candidate for the Lighthouse Institute.",
+  "dove": "elements/elie.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena's Burden",
+  "dove": "elements/rowena.persistent.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena, caught between moon and tide, blood and gold, Ys and the Marches, has long embraced her punishment. She will serve as protectress still, even while her appetites fade and the sea takes what's left of her, wave by lapping wave. Until she is gone, the Mare's Key remains her burden, hers alone.",
+  "dove": "elements/rowena.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer Hobson",
+  "dove": "elements/spencer.down.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Spencer Hobson: Next Numa",
+  "dove": "elements/spencer.enroute.down.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Spencer has been a number of things: journalist, private detective, priest, Suppression Bureau irregular. He's still a number of things. That might not be a problem. He's disinclined to speak.  He hopes to visit the Rowenarium beneath Hush House - to pass through it - to go 'down' somewhere. [Take him to the Rowenarium, or refuse entry by returning him to the Endless Guest node. Note that Spencer arrives with Numa, but he will lurk in the Cornish mists even after Numa is over, until you resolve his business.]",
+  "dove": "elements/spencer.down.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer has been a number of things: journalist, private detective, priest, Suppression Bureau irregular. He's still a number of things. That might not be a problem. He's disinclined to speak. He hopes to visit the Rowenarium beneath Hush House - to pass through it - to go 'out' somewhere. [Take him to the Rowenarium, or refuse entry by returning him to the Endless Guest node. Note that Spencer arrives with Numa, but he will lurk in the Cornish mists even after Numa is over, until you resolve his business.]",
+  "dove": "elements/spencer.out.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer will arrive with Numa.",
+  "dove": "elements/spencer.enroute.down.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Spencer's Space",
+  "dove": "elements/spencer.trace.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The charred remains of a 'poor wisp' preserved by Agdistis from the Grunewald disaster. It probably wasn't as harmless as it seemed... [Return this to Agdistis.]",
+  "dove": "elements/wisp.trace.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The charred remains of a 'poor wisp' preserved by Ehsan from the Grunewald disaster.  It probably wasn't as harmless as it seemed... [Return this to Ehsan.]",
+  "dove": "elements/wisp.trace.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The self-styled Mother of Monsters. A cheery, tubby woman in a green-grey garment like a baggy dirndl.",
+  "dove": "elements/echidna.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The shed skin of a 'poor wisp' preserved by Agdistis from the Grunewald disaster. The wisp itself now resides in the Chrysalis. [Return this to Agdistis.]",
+  "dove": "elements/wisp.skin.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The shed skin of a 'poor wisp' preserved by Ehsan from the Grunewald disaster. The wisp itself now resides in the Chrysalis. [Return this to Ehsan.]",
+  "dove": "elements/wisp.skin.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This is where Spencer was. [Return this to the Endless Guest node.]",
+  "dove": "elements/spencer.trace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur is Gone...",
+  "dove": "elements/retired_arthur.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita is Gone...",
+  "dove": "elements/retired_azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima is Gone...",
+  "dove": "elements/retired_chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Yvette is Gone...",
+  "dove": "elements/retired_yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary is Gone...",
+  "dove": "elements/retired_zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Anbary & Lapidary. [Use this card with Consider.]",
+  "dove": "elements/x.anbary.lapidary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Applebright Euphonies. [Use this card with Consider.]",
+  "dove": "elements/x.applebrighteuphonies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Auroral Contemplations. [Use this card with Consider.]",
+  "dove": "elements/x.auroralcontemplations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Bells & Brazieries. [Use this card with Consider.]",
+  "dove": "elements/x.bells.brazieries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Coil & Chasm. [Use this card with Consider.]",
+  "dove": "elements/x.coil.chasm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Cracktrack. [Use this card with Consider.]",
+  "dove": "elements/x.cracktrack.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Deep Mandaic. [Use this card with Consider.]",
+  "dove": "elements/x.mandaic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Desires & Dissolutions. [Use this card with Consider.]",
+  "dove": "elements/x.desires.dissolutions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Disciplines of the Hammer. [Use this card with Consider.]",
+  "dove": "elements/x.disciplines.thehammer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Disciplines of the Scar. [Use this card with Consider.]",
+  "dove": "elements/x.disciplines.thescar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Door & Wall. [Use this card with Consider.]",
+  "dove": "elements/x.door.wall.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Drums & Dances. [Use this card with Consider.]",
+  "dove": "elements/x.drums.dances.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Edicts Inviolable. [Use this card with Consider.]",
+  "dove": "elements/x.edictsinviolable.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Edicts Liminal. [Use this card with Consider.]",
+  "dove": "elements/x.edictsliminal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Edicts Martial. [Use this card with Consider.]",
+  "dove": "elements/x.edictsmartial.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Ericapaean. [Use this card with Consider.]",
+  "dove": "elements/x.ericapaean.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Fucine. [Use this card with Consider.]",
+  "dove": "elements/x.fucine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Furs & Feathers. [Use this card with Consider.]",
+  "dove": "elements/x.furs.feathers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Glassblowing & Vesselcrafting. [Use this card with Consider.]",
+  "dove": "elements/x.glassblowing.vesselcrafting.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Glaziery & Lightsmithing. [Use this card with Consider.]",
+  "dove": "elements/x.glaziery.lightsmithing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Henavek. [Use this card with Consider.]",
+  "dove": "elements/x.henavek.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Herbs & Infusions. [Use this card with Consider.]",
+  "dove": "elements/x.herbs.infusions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Hill & Hollow. [Use this card with Consider.]",
+  "dove": "elements/x.hill.hollow.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Horns & Ivories. [Use this card with Consider.]",
+  "dove": "elements/x.horns.ivories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Hyksos. [Use this card with Consider.]",
+  "dove": "elements/x.hyksos.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Inks of Containment. [Use this card with Consider.]",
+  "dove": "elements/x.inks.containment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Inks of Power. [Use this card with Consider.]",
+  "dove": "elements/x.inks.power.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Inks of Revelation. [Use this card with Consider.]",
+  "dove": "elements/x.inks.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Insects & Nectars. [Use this card with Consider.]",
+  "dove": "elements/x.insects.nectars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Killasimi. [Use this card with Consider.]",
+  "dove": "elements/x.killasimi.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Leaves & Thorns. [Use this card with Consider.]",
+  "dove": "elements/x.leaves.thorns.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Lockworks & Clockworks. [Use this card with Consider.]",
+  "dove": "elements/x.lockworks.clockworks.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Maggephene Mysteries. [Use this card with Consider.]",
+  "dove": "elements/x.maggephenemysteries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Meniscate Reflections. [Use this card with Consider.]",
+  "dove": "elements/x.meniscatereflections.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Orchids & Narcotics. [Use this card with Consider.]",
+  "dove": "elements/x.orchids.narcotics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Ouranoscopy. [Use this card with Consider.]",
+  "dove": "elements/x.ouranoscopy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Path & Pilgrim. [Use this card with Consider.]",
+  "dove": "elements/x.path.pilgrim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Pearl & Tide. [Use this card with Consider.]",
+  "dove": "elements/x.pearl.tide.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Pentiments & Precursors. [Use this card with Consider.]",
+  "dove": "elements/x.pentiments.precursors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Preliminal Meter. [Use this card with Consider.]",
+  "dove": "elements/x.preliminalmeter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Purifications & Exaltations. [Use this card with Consider.]",
+  "dove": "elements/x.purifications.exaltations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Putrefactions & Calcinations. [Use this card with Consider.]",
+  "dove": "elements/x.putrefactions.calcinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Pyroglyphics. [Use this card with Consider.]",
+  "dove": "elements/x.pyroglyphics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Quenchings & Quellings. [Use this card with Consider.]",
+  "dove": "elements/x.quenchings.quellings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Ragged Crossroads. [Use this card with Consider.]",
+  "dove": "elements/x.raggedcrossroads.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Ramsund. [Use this card with Consider.]",
+  "dove": "elements/x.ramsund.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Resurgences & Emergences. [Use this card with Consider.]",
+  "dove": "elements/x.resurgences.emergences.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Rhyme & Remembrance. [Use this card with Consider.]",
+  "dove": "elements/x.rhyme.remembrance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Rites of the Roots. [Use this card with Consider.]",
+  "dove": "elements/x.rites.theroots.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sabazine. [Use this card with Consider.]",
+  "dove": "elements/x.sabazine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sacra Limiae. [Use this card with Consider.]",
+  "dove": "elements/x.sacralimiae.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sacra Solis Invicti. [Use this card with Consider.]",
+  "dove": "elements/x.sacrasolisinvicti.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sand Stories. [Use this card with Consider.]",
+  "dove": "elements/x.sandstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sea Stories. [Use this card with Consider.]",
+  "dove": "elements/x.seastories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Serpents & Venoms. [Use this card with Consider.]",
+  "dove": "elements/x.serpents.venoms.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sharps. [Use this card with Consider.]",
+  "dove": "elements/x.sharps.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sickle & Eclipse. [Use this card with Consider.]",
+  "dove": "elements/x.sickle.eclipse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sights & Sensations. [Use this card with Consider.]",
+  "dove": "elements/x.sights.sensations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Sky Stories. [Use this card with Consider.]",
+  "dove": "elements/x.skystories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Snow Stories. [Use this card with Consider.]",
+  "dove": "elements/x.snowstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Solutions & Separations. [Use this card with Consider.]",
+  "dove": "elements/x.solutions.separations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Spices & Savours. [Use this card with Consider.]",
+  "dove": "elements/x.spices.savours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Stitching & Binding. [Use this card with Consider.]",
+  "dove": "elements/x.stitching.binding.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Stone Stories. [Use this card with Consider.]",
+  "dove": "elements/x.stonestories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Strings & Songs. [Use this card with Consider.]",
+  "dove": "elements/x.strings.songs.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Surgeries & Exsanguinations. [Use this card with Consider.]",
+  "dove": "elements/x.surgeries.exsanguinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of The Great Signs and the Great Scars. [Use this card with Consider.]",
+  "dove": "elements/x.thegreatsignsandthegreatscars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Transformations & Liberations. [Use this card with Consider.]",
+  "dove": "elements/x.transformations.liberations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Tridesma Hiera. [Use this card with Consider.]",
+  "dove": "elements/x.tridesmahiera.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Vak. [Use this card with Consider.]",
+  "dove": "elements/x.vak.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Watchman's Paradoxes. [Use this card with Consider.]",
+  "dove": "elements/x.watchmansparadoxes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Weaving & Knotworking. [Use this card with Consider.]",
+  "dove": "elements/x.weaving.knotworking.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I've gained more understanding of Wolf Stories. [Use this card with Consider.]",
+  "dove": "elements/x.wolfstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Anbary & Lapidary",
+  "dove": "elements/x.anbary.lapidary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Applebright Euphonies",
+  "dove": "elements/x.applebrighteuphonies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Auroral Contemplations",
+  "dove": "elements/x.auroralcontemplations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Bells & Brazieries",
+  "dove": "elements/x.bells.brazieries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Coil & Chasm",
+  "dove": "elements/x.coil.chasm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Cracktrack",
+  "dove": "elements/x.cracktrack.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Deep Mandaic",
+  "dove": "elements/x.mandaic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Desires & Dissolutions",
+  "dove": "elements/x.desires.dissolutions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Disciplines of the Hammer",
+  "dove": "elements/x.disciplines.thehammer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Disciplines of the Scar",
+  "dove": "elements/x.disciplines.thescar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Door & Wall",
+  "dove": "elements/x.door.wall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Drums & Dances",
+  "dove": "elements/x.drums.dances.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Edicts Inviolable",
+  "dove": "elements/x.edictsinviolable.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Edicts Liminal",
+  "dove": "elements/x.edictsliminal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Edicts Martial",
+  "dove": "elements/x.edictsmartial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Ericapaean",
+  "dove": "elements/x.ericapaean.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Fucine",
+  "dove": "elements/x.fucine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Furs & Feathers",
+  "dove": "elements/x.furs.feathers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Glassblowing & Vesselcrafting",
+  "dove": "elements/x.glassblowing.vesselcrafting.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Glaziery & Lightsmithing",
+  "dove": "elements/x.glaziery.lightsmithing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Henavek",
+  "dove": "elements/x.henavek.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Herbs & Infusions",
+  "dove": "elements/x.herbs.infusions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Hill & Hollow",
+  "dove": "elements/x.hill.hollow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Horns & Ivories",
+  "dove": "elements/x.horns.ivories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Hyksos",
+  "dove": "elements/x.hyksos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Inks of Containment",
+  "dove": "elements/x.inks.containment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Inks of Power",
+  "dove": "elements/x.inks.power.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Inks of Revelation",
+  "dove": "elements/x.inks.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Insects & Nectars",
+  "dove": "elements/x.insects.nectars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Killasimi",
+  "dove": "elements/x.killasimi.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Leaves & Thorns",
+  "dove": "elements/x.leaves.thorns.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Lockworks & Clockworks",
+  "dove": "elements/x.lockworks.clockworks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Maggephene Mysteries",
+  "dove": "elements/x.maggephenemysteries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Meniscate Reflections",
+  "dove": "elements/x.meniscatereflections.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Orchids & Narcotics",
+  "dove": "elements/x.orchids.narcotics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Ouranoscopy",
+  "dove": "elements/x.ouranoscopy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Path & Pilgrim",
+  "dove": "elements/x.path.pilgrim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Pearl & Tide",
+  "dove": "elements/x.pearl.tide.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Pentiments & Precursors",
+  "dove": "elements/x.pentiments.precursors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Preliminal Meter",
+  "dove": "elements/x.preliminalmeter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Purifications & Exaltations",
+  "dove": "elements/x.purifications.exaltations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Putrefactions & Calcinations",
+  "dove": "elements/x.putrefactions.calcinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Pyroglyphics",
+  "dove": "elements/x.pyroglyphics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Quenchings & Quellings",
+  "dove": "elements/x.quenchings.quellings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Ragged Crossroads",
+  "dove": "elements/x.raggedcrossroads.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Ramsund",
+  "dove": "elements/x.ramsund.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Resurgences & Emergences",
+  "dove": "elements/x.resurgences.emergences.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Rhyme & Remembrance",
+  "dove": "elements/x.rhyme.remembrance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Rites of the Roots",
+  "dove": "elements/x.rites.theroots.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sabazine",
+  "dove": "elements/x.sabazine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sacra Limiae",
+  "dove": "elements/x.sacralimiae.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sacra Solis Invicti",
+  "dove": "elements/x.sacrasolisinvicti.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sand Stories",
+  "dove": "elements/x.sandstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sea Stories",
+  "dove": "elements/x.seastories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Serpents & Venoms",
+  "dove": "elements/x.serpents.venoms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sharps",
+  "dove": "elements/x.sharps.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sickle & Eclipse",
+  "dove": "elements/x.sickle.eclipse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sights & Sensations",
+  "dove": "elements/x.sights.sensations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Sky Stories",
+  "dove": "elements/x.skystories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Snow Stories",
+  "dove": "elements/x.snowstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Solutions & Separations",
+  "dove": "elements/x.solutions.separations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Spices & Savours",
+  "dove": "elements/x.spices.savours.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Stitching & Binding",
+  "dove": "elements/x.stitching.binding.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Stone Stories",
+  "dove": "elements/x.stonestories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Strings & Songs",
+  "dove": "elements/x.strings.songs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Surgeries & Exsanguinations",
+  "dove": "elements/x.surgeries.exsanguinations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: The Great Signs and the Great Scars",
+  "dove": "elements/x.thegreatsignsandthegreatscars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Transformations & Liberations",
+  "dove": "elements/x.transformations.liberations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Tridesma Hiera",
+  "dove": "elements/x.tridesmahiera.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Vak",
+  "dove": "elements/x.vak.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Watchman's Paradoxes",
+  "dove": "elements/x.watchmansparadoxes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Weaving & Knotworking",
+  "dove": "elements/x.weaving.knotworking.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Wolf Stories",
+  "dove": "elements/x.wolfstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Echidna is Coming",
+  "dove": "elements/echidna.enroute.label",
+  "ricorre": 2
+ },
+ {
+  "en": "I know that the Ligeian Echidna prowls the empty places. [Consider this with the strongest of your Coil & Chasm, Pentiments & Precursors, Serpents & Venoms or Wolf Stories skills. You'll learn how to invite Echidna to Brancrug. ]",
+  "dove": "elements/x.summon.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lesson: Echidna's Prowlings",
+  "dove": "elements/x.summon.echidna.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Technique: Echidna's Prowlings",
+  "dove": "elements/technique.summon.echidna.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ligeian Echidna prowls the empty places. [Walk on the Moor and invoke Echidna with sufficient authority to be credible. You'll need this Skill, a Soul card, an offering of Serpent-Milk (which can be crafted from Perinculate with Keeper-level <sprite name=edge> and some <sprite name=scale> recipes) and a total of 7 <sprite name=scale>].",
+  "dove": "elements/technique.summon.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "War-wound and serpent-scar, by sky-street and desert-deep. Be ready.",
+  "dove": "elements/echidna.enroute.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "A Picnic in the Gullscry Loggia",
+  "dove": "verbs/salon.gullscry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Picnic in the Physic Garden",
+  "dove": "verbs/salon.physic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Salon in the Chapter House",
+  "dove": "verbs/salon.chapter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Salon in the Hall of Division",
+  "dove": "verbs/salon.division.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Salon in the Hall of Voices",
+  "dove": "verbs/salon.voices.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Salon in the Refectory",
+  "dove": "verbs/salon.refectory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An eccentric, or at least atmospheric, choice of venue for a Salon. [Here one might have Elevenses in the morning, or Afternoon Tea later in the day. Neither event should include any Intoxicating drinks.]",
+  "dove": "verbs/salon.voices.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Behind the Scenes",
+  "dove": "verbs/lighthouse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bring light back to the mirrors where once Lady Eva held court. [Here one might have Lunch in the afternoon, or Supper in the evening. A good host will provide at least one first course, one main course, one side dish and one pudding.]",
+  "dove": "verbs/salon.division.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest",
+  "dove": "verbs/salon.chapter.slots.g1.label",
+  "ricorre": 28
+ },
+ {
+  "en": "In Hush House, an empty place is often traditionally left at table for Rowena, protectress of Hush House, and once Secretary Persistent of the Curia of the Isle. [If you one day propose a successor for Rowena... seat them here.]",
+  "dove": "verbs/salon.chapter.slots.p.description",
+  "ricorre": 5
+ },
+ {
+  "en": "NX: pteifdlc",
+  "dove": "verbs/nx.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Peaceful, with excellent acoustics; although a little draughty. [Here one might have Elevenses in the morning, and Afternoon Tea later in the day. Neither event should include any Intoxicating drinks.]",
+  "dove": "verbs/salon.chapter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Records",
+  "dove": "verbs/lighthouse.slots.journal.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Sombre conversations where once poor Valentine sat alone. [Here one might have a Picnic, but only in Spring or Summer.]",
+  "dove": "verbs/salon.gullscry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Agreed Signal",
+  "dove": "verbs/lighthouse.convene.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Curia of the Isle is long gone. Once, it helped preserve a little knowledge and a kind of safety here in Brancrug - and established the position of Librarian. Rowena, Secretary Persistent of the Curia, a complex entity who has long protected Hush House, is both exhausted and compromised... and so it's time for the Librarian to return the favour, and establish a successor to the Curia. [Help Visitors to pursue their goals and develop their Agendas. When you've found six suitable candidates inspired by Agendas, you can suggest they found an organisation that's a worthy successor to the Curia of the Isle. If you cannot find a suitable Secretary Persistent, Rowena will continue to serve in that role, even as she continues to wane.]",
+  "dove": "verbs/lighthouse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian knows who and where.",
+  "dove": "verbs/lighthouse.convene.slots.ink.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian will record who and where.",
+  "dove": "verbs/lighthouse.slots.journal.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The Secretary Enigmatic would conceal or reveal the Institute's secrets.",
+  "dove": "verbs/lighthouse.slots.enigmatic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The Secretary Nunciant would communicate and negotiate with other organisations.",
+  "dove": "verbs/lighthouse.slots.nunciant.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The Secretary Persistent must not only be immortal, but must stand with one foot outside the laws of the Hours... and so she must always be a Ligeian.",
+  "dove": "verbs/lighthouse.slots.persistent.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The Secretary Salvant would lead the Institute's healing and restoration efforts.",
+  "dove": "verbs/lighthouse.slots.salvant.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The Secretary Vigilant would ensure the Institute's safety.",
+  "dove": "verbs/lighthouse.slots.vigilant.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The Treasurer would be responsible for the Institute's finances. This would be a good excuse to ask for an an initial endowment - so they should be wealthy.",
+  "dove": "verbs/lighthouse.slots.treasurer.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The founders agreed that when the time was right, they'd return to Hush House. Perhaps that time is now. [Place your Journal here to invite the Lighthouse founders to the House. When all the Founders have arrived, bring them to a meeting in the Salon room of your preference, with light refreshments.]",
+  "dove": "verbs/lighthouse.convene.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The peace of flowers, the murmur of leaves. [Here one might have a Picnic, but only in Spring or Summer.]",
+  "dove": "verbs/salon.physic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The room where once the Curia met: a fitting venue for a Salon. [Here one might serve Lunch in the afternoon, or Supper in the evening. A good host will provide at least one first course, one main course, one side dish, and one pudding.]",
+  "dove": "verbs/salon.refectory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Base verb for Numa incident expulsion",
+  "dove": "verbs/numa.incident.base.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Base verb for incident expulsion",
+  "dove": "verbs/incident.base.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Further Developments verb",
+  "dove": "verbs/incident.advance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Incident Advancement",
+  "dove": "verbs/incident.advance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Incident Expulsion Finisher",
+  "dove": "verbs/incident.expulsion.finisher.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Separate verb for marking incidents finished.",
+  "dove": "verbs/incident.expulsion.finisher.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Season]",
+  "dove": "verbs/season.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[sunrise]",
+  "dove": "verbs/time.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Message sent from the Post Office",
+  "dove": "verbs/postoffice.delivery.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Time for a visitor to go",
+  "dove": "verbs/visit.return.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor arriving after an invitation's been sent from the Post Office. We now use specific-art spontaneous ones for each visitor, so this is unused, but keeping it cos the multiple is important if we need a generic one again.",
+  "dove": "verbs/postoffice.invitation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitors come and go.",
+  "dove": "verbs/visits.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visits",
+  "dove": "verbs/visits.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Above me, atop the cliffs, lies Brancrug Village. I'll never reach it in this storm, but if I can only muster my remaining strength to find help... [Interacting with a slot will highlight cards and objects which can go there.]",
+  "dove": "verbs/talk.setup.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Consider",
+  "dove": "verbs/consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Examine; appreciate; catalogue.",
+  "dove": "verbs/consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Help?",
+  "dove": "verbs/talk.setup.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Remember",
+  "dove": "verbs/consider.setup.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak to visitors, assistants, strangers, friends...",
+  "dove": "verbs/talk.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Talk",
+  "dove": "verbs/talk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What do I have left to work with?",
+  "dove": "verbs/consider.setup.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bed stamped with sigils to discourage access to the Mansus in dream. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.cell.adept.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bunk-bed constructed for two immortals who could neither be together, nor apart. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.cell.long.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A snug nook where absolutely nobody will bother the occupant. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.hermit.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Add a matching Soul card to sleep here, or add a Visitor to offer them a bed for the night.",
+  "dove": "verbs/library.bed.guest.cell.adept.slots.a.description",
+  "ricorre": 15
+ },
+ {
+  "en": "An exile slept here, long ago.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.motley.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Clean white sheets and the unmistakable military <i>ping</i> of a steel bed-frame. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.infirmary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "For those who prefer their mattresses soft.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.severn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Adept Cell",
+  "dove": "verbs/library.bed.guest.cell.adept.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Hermit",
+  "dove": "verbs/library.bed.guest.hermit.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Infirmary",
+  "dove": "verbs/library.bed.guest.infirmary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Librarian's Quarters",
+  "dove": "verbs/library.bed.guest.librarian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Lodge",
+  "dove": "verbs/library.bed.guest.lodge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Long Cell",
+  "dove": "verbs/library.bed.guest.cell.long.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Motley",
+  "dove": "verbs/library.bed.guest.motley.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Pale",
+  "dove": "verbs/library.bed.guest.pale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Servant's Quarters",
+  "dove": "verbs/library.bed.guest.servants1.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Guest Bed: Severn Chamber",
+  "dove": "verbs/library.bed.guest.severn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Solomon",
+  "dove": "verbs/library.bed.guest.solomon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Guest Bed: Violet Chamber",
+  "dove": "verbs/library.bed.guest.violet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Julian Coseley and Solomon Husher - both great sages of Winter - slept in this bed. Although not simultaneously. No-one, the story runs, has ever managed a serene night's sleep in it since.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.solomon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Librarians are prone to back-ache, and the mattress here has always been a hard one, even in Westcott's time.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.librarian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Narrow, but comfortable.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.servants2.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Narrow, but comfortable. [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.servants1.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Seven generations of Dewulfs slept here… as did Kitty Mazarine, who never cared much for tradition.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.pale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Six generations of Dewulf heirs were born in this room. It would have been seven, but Hafren Waters had the ill grace to give birth to Baron Walter in (family legend has it) a cow-byre outside Kerisham.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.violet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Stout, rustic, snug.  [Use a matching Soul card to move your belongings in and make this your bed; or place a matching Visitor card to encourage them to stay a little longer.]",
+  "dove": "verbs/library.bed.guest.lodge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Walk on the Moor",
+  "dove": "verbs/world.moor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beachcombing",
+  "dove": "verbs/world.beachcombing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beehive",
+  "dove": "verbs/garden.beehive.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Bees, like librarians, are not to be trifled with.",
+  "dove": "verbs/garden.beehive.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Catsclaw in spring, trumpeter's lily in summer. Rarer plants might flourish in Numa.",
+  "dove": "verbs/garden.plot.c.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Clamber up into the long reaches of the moors behind the village. Lean into the wind's fluttering fist. If I know what to look for, I might find something among the rocks.",
+  "dove": "verbs/world.moor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fragrant chalice in summer and autumn, lenten rose in winter. Rarer plants might flourish in Numa.",
+  "dove": "verbs/garden.plot.a.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Garden",
+  "dove": "verbs/garden.plot.a.1.label",
+  "ricorre": 27
+ },
+ {
+  "en": "Healing herbs in spring and summer.",
+  "dove": "verbs/garden.plot.h.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Knowledge",
+  "dove": "verbs/garden.beehive.slots.skill.label",
+  "ricorre": 33
+ },
+ {
+  "en": "Moth orchids in spring and summer, honeyscar jasmine in autumn.",
+  "dove": "verbs/garden.plot.d.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Nourishing vegetables in summer and autumn.",
+  "dove": "verbs/garden.plot.v.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Sea holly in summer, blue crown in winter.",
+  "dove": "verbs/garden.plot.b.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Sea-Blest Pears in summer and autumn; in Numa, the 'shining pear', <i>pyrus auricalcinus</i>.",
+  "dove": "verbs/garden.plot.p.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Splash cautiously through the shallower tunnels.",
+  "dove": "verbs/world.caves.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Steal eggs from the sea-birds, or find what the sea-birds have stolen.",
+  "dove": "verbs/world.nests.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Take a long walk along the ocean's side. If I know what to look for, I might find something the ocean has forsaken.",
+  "dove": "verbs/world.beachcombing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The 'history plant', <i>agave aeterna</i>, flowers here in summer.",
+  "dove": "verbs/garden.plot.x.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "The Gull-Colony",
+  "dove": "verbs/world.nests.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sea-Caves",
+  "dove": "verbs/world.caves.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The gentle climate of Cornwall supports grapevines. Harvest in spring and summer.",
+  "dove": "verbs/garden.plot.g.1.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'And there the golden threads they wove - and in the Moon's House, fast they tied them' - from the Lay of Helgi Hundingsbane",
+  "dove": "verbs/library.loom.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'BONE IS THE MEMORY THAT DOES NOT DIE.'",
+  "dove": "verbs/library.altar.catacombs.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have been a string in a harp; disguised for nine years in water, in the foam of the sea.' - The Battle of the Trees\n\n [This harp is strung with something that glimmers redly as waves at sunset.]",
+  "dove": "verbs/library.instrument.harp.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'One must practice slowly, then more slowly, and finally slowly.'' - Camille Saint-Saens",
+  "dove": "verbs/library.instrument.organ.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sarcophagus': the eater of flesh. No bones remain, but the marble is chilly with power.",
+  "dove": "verbs/library.sarcophagus.columbic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Simplicity is the final achievement. After one has played a vast quantity of notes and more notes, it is simplicity that emerges as the crowning reward of art.' - Fryderyk Chopin",
+  "dove": "verbs/library.instrument.piano.grand.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The better it gets, the fewer of us know it.' - Ray Brown \n\n [This instrument is possessed of a restless energy.]",
+  "dove": "verbs/library.instrument.doublebass.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'These are the sounds which may answer thunder.'",
+  "dove": "verbs/library.instrument.bells.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bed stamped with sigils to discourage access to the Mansus in dream. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.cell.adept.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bunk-bed constructed for two immortals who could neither be together, nor apart. [But you sleep here alone. Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.cell.long.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A desk as severe and as practical as Collers himself.",
+  "dove": "verbs/library.desk.governor.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A gift from Kitty Mazarine, who would sometimes pop by of an evening to sing. But her successor Solomon, never one for music, disliked the way its notes would drift up the stairs to the Reading Room, and forbade the staff to play their piano before sunset.",
+  "dove": "verbs/library.instrument.piano.servants.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A hygienic place for scrupulous examination of whatever might remain.",
+  "dove": "verbs/library.table.necropsy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A magnificent eighteenth-century secretary desk commissioned for Lady Eva Dewulf, last of the Brancrug Dewulfs.",
+  "dove": "verbs/library.desk.eva.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A snug nook where absolutely nobody will bother you. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.hermit.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A well-appointed laboratory for a scholar of unconventional therapies.",
+  "dove": "verbs/library.dispensary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Abbess Nonna, apothecary, scholar, dancer.",
+  "dove": "verbs/library.desk.nonna.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Action",
+  "dove": "verbs/library.clock.great.slots.i1.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Alchemist's Glassware",
+  "dove": "verbs/library.glassware.alchemist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Altar of the Knot",
+  "dove": "verbs/library.altar.lady.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Altar: Ascite",
+  "dove": "verbs/library.altar.ascite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Altar: Malachite",
+  "dove": "verbs/library.altar.malachite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Altar: St Tentreto",
+  "dove": "verbs/library.altar.tentreto.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ambrose did most of his work downstairs in the foundry and kitchen, or upstairs in the laboratory that later became the Fludd Gallery, but it was at this desk that he composed 'The Temptations of Architecture' and wrote long cross letters to the Times about the flaws of the British constitution.",
+  "dove": "verbs/library.desk.ambrose.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An elegant relic, repurposed by Greene for his small and secret war.",
+  "dove": "verbs/library.desk.vagabond.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An exile slept here, long ago. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.motley.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Application",
+  "dove": "verbs/library.instrument.bells.slots.i1.label",
+  "ricorre": 8
+ },
+ {
+  "en": "Barber's Chair",
+  "dove": "verbs/library.chair.barber.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cage",
+  "dove": "verbs/library.cage.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Calicite Altar",
+  "dove": "verbs/library.altar.calicite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Catacombs Altar",
+  "dove": "verbs/library.altar.catacombs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Celebrate the god of joy - with your own joy!' - The Bacchae \n\n [The skin of these drums was the skin of something rare.]",
+  "dove": "verbs/library.instrument.drum.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chrysalis",
+  "dove": "verbs/library.chrysalis.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Clean white sheets and the unmistakable military <i>ping</i> of a steel bed-frame.  [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.infirmary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Collers generally preferred his devices to be as gleamingly modern as possible, but he preferred phonograph cylinders over the newer gramophone records. The cylinder, like the records, exemplified ingenuity and reliably repeated the desired sounds, but they also could be consigned neatly to a cubbyhole without causing any sort of fuss.",
+  "dove": "verbs/library.phonograph.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Columbic Sarcophagus",
+  "dove": "verbs/library.sarcophagus.columbic.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Condignator",
+  "dove": "verbs/library.condignator.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Constructed by Thirza for her own murky purposes; maintained by the Suppression Bureau for its murkier ones; and available, now, for mine.",
+  "dove": "verbs/library.nocturnary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Deeplight Corals",
+  "dove": "verbs/library.corals.deeplight.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Desk: Ambrose",
+  "dove": "verbs/library.desk.ambrose.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desk: Eva",
+  "dove": "verbs/library.desk.eva.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desk: Governor",
+  "dove": "verbs/library.desk.governor.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desk: Natan",
+  "dove": "verbs/library.desk.natan.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desk: Nonna",
+  "dove": "verbs/library.desk.nonna.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desk: Pale",
+  "dove": "verbs/library.desk.pale.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desk: Reading Room",
+  "dove": "verbs/library.desk.reading.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Desk: Vagabond",
+  "dove": "verbs/library.desk.vagabond.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Devotion",
+  "dove": "verbs/library.altar.ascite.slots.i1.label",
+  "ricorre": 13
+ },
+ {
+  "en": "Dispensary",
+  "dove": "verbs/library.dispensary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dorsal",
+  "dove": "verbs/library.chrysalis.slots.i1.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Even metal cannot resist these suasions.",
+  "dove": "verbs/library.foundry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Every flame has its fuel, and every tick has its tock.",
+  "dove": "verbs/library.clock.great.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Exercise Yard",
+  "dove": "verbs/library.yard.exercise.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Film",
+  "dove": "verbs/library.projector.consider.slots.i1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fire, iron, dusk, air, all wrenched into a configuration designed to confine something very dangerous. That something is long-gone, but the configuration still has its uses.",
+  "dove": "verbs/library.oubliette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "For those who prefer their mattresses soft. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.severn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fragile vessels in which new substances are quickened.",
+  "dove": "verbs/library.glassware.alchemist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Governor Collers had this installed in the 20s, as a treat for prisoners allowed to recover in the infirmary. Or so he said. Rumour had it he was a secret Keaton fan, and didn't want to motor all the way up to Exeter to see the latest feature.",
+  "dove": "verbs/library.projector.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Governor's Phonograph",
+  "dove": "verbs/library.phonograph.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Great Clock",
+  "dove": "verbs/library.clock.great.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gullscry Workbench",
+  "dove": "verbs/library.workbench.gullscry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Here a pilgrim would bathe, make offerings, or drown, as they might prefer.",
+  "dove": "verbs/library.spring.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hermit's Workbench",
+  "dove": "verbs/library.workbench.hermit.label",
+  "ricorre": 1
+ },
+ {
+  "en": "History is woven; a knot is a testament.",
+  "dove": "verbs/library.altar.lady.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Honey, the blood; copper, the heart; yew, the root.",
+  "dove": "verbs/library.altar.malachite.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Inspiration",
+  "dove": "verbs/library.instrument.bells.slots.i2.label",
+  "ricorre": 8
+ },
+ {
+  "en": "Instrument: Bells",
+  "dove": "verbs/library.instrument.bells.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instrument: Grand Piano",
+  "dove": "verbs/library.instrument.piano.grand.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instrument: Hallowed Drum",
+  "dove": "verbs/library.instrument.drum.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instrument: Hunter's Harp",
+  "dove": "verbs/library.instrument.harp2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instrument: Organ",
+  "dove": "verbs/library.instrument.organ.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instrument: Piano",
+  "dove": "verbs/library.instrument.piano.servants.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instrument: Quivering Double Bass",
+  "dove": "verbs/library.instrument.doublebass.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instrument: Sunset Harp",
+  "dove": "verbs/library.instrument.harp.label",
+  "ricorre": 1
+ },
+ {
+  "en": "It was often said of Lady Eva, later, that she was always good with mirrors.",
+  "dove": "verbs/library.mirrors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "It's an apothecary's desk, all right, but it dates from at least a hundred years after Natan of Regensburg came here. Of course his son, his grandson, and his great-grand-son were all Natans too…",
+  "dove": "verbs/library.desk.natan.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Julian Coseley and Solomon Husher - both great sages of Winter - slept in this bed. Although not simultaneously. No-one, the story runs, has ever managed a serene night's sleep in it since. [Except you, apparently. Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.solomon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Labour in solitude.",
+  "dove": "verbs/library.workbench.hermit.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Labour quietly.",
+  "dove": "verbs/library.workbench.gallery.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Labour seriously.",
+  "dove": "verbs/library.workbench.governor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Labour solemnly.",
+  "dove": "verbs/library.workbench.gullscry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Librarians are prone to back-ache, and the mattress here has always been a hard one, even in Westcott's time. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.librarian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Loggia Prospect",
+  "dove": "verbs/library.prospect.loggia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Loom",
+  "dove": "verbs/library.loom.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Matter",
+  "dove": "verbs/library.dispensary.slots.i1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mirrors",
+  "dove": "verbs/library.mirrors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mode",
+  "dove": "verbs/library.condignator.slots.i2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Adept Cell",
+  "dove": "verbs/library.bed.rest.cell.adept.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Hermit",
+  "dove": "verbs/library.bed.rest.hermit.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Infirmary",
+  "dove": "verbs/library.bed.rest.infirmary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Librarian's Quarters",
+  "dove": "verbs/library.bed.rest.librarian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Lodge",
+  "dove": "verbs/library.bed.rest.lodge.label",
+  "ricorre": 1
+ }
+]

@@ -1,0 +1,70 @@
+{
+ "recipes": [
+  {
+   "id": "unveil.altar.lady.serpentroot.hillhollow",
+   "label": "Rivelare un Tesoro della Casa",
+   "startdescription": "Recita le invocazioni appropriate ai poteri sotto la Terra, per rivelare un tesoro della Casa.",
+   "desc": "Là, in una cavità levigata ai piedi dell’altare – qualcosa di avvolto come un serpente, ma molto più immobile."
+  },
+  {
+   "id": "unveil.altar.lady.serpentroot.tridesmahiera",
+   "label": "Rivelare un Tesoro della Casa",
+   "startdescription": "Recita le invocazioni appropriate ai Tre, per rivelare un tesoro della Casa.",
+   "desc": "Là, in una cavità levigata ai piedi dell’altare – qualcosa di avvolto come un serpente, ma molto più immobile."
+  },
+  {
+   "id": "unveil.oubliette.thesunsdesign.scar",
+   "label": "Svelare un Tesoro della Casa",
+   "startdescription": "Nomina le cicatrici nel ferro e nella notte, per svelare un tesoro della Casa.",
+   "desc": "Qui, preservato oltre ogni possibilità, avvolto nelle cicatrici inflitte dalle energie dell’ex prigioniero."
+  },
+  {
+   "id": "unveil.oubliette.thesunsdesign.hammer",
+   "label": "Svelare un Tesoro della Casa",
+   "startdescription": "Allinea le superfici di fuoco e aria, per svelare un tesoro della Casa.",
+   "desc": "Qui, preservato oltre ogni possibilità, avvolto nella gabbia forgiata per contenere le energie dell’ex prigioniero."
+  },
+  {
+   "id": "unveil.altar.chancel.thesundisfigured.sacralimiae",
+   "label": "Rivelare un Tesoro della Casa",
+   "startdescription": "Recita le invocazioni necessarie ai Tre, per rivelare un tesoro della Casa.",
+   "desc": "Là, in una stretta oscurità sotto il bordo della sommità dell’altare – qualcosa che mi aspetta."
+  },
+  {
+   "id": "unveil.altar.chancel.thesundisfigured.sickle.eclipse",
+   "label": "Rivelare un Tesoro della Casa",
+   "startdescription": "Recita le invocazioni ai Tre, a lungo proibite, per rivelare un tesoro della Casa.",
+   "desc": "Là, in un’oscurità stretta sotto il bordo della sommità dell’altare – qualcosa che mi aspetta."
+  },
+  {
+   "id": "unveil.rowenarium.towardsafundamentalaestheticsecondedition",
+   "label": "Rivelare un Tesoro della Casa",
+   "startdescription": "Se inserisco una chiave sufficiente...",
+   "desc": "È molto difficile, tra i riflessi del Rowenarium, capire cosa esattamente, o chi, si sia appena aperto – ma vedo molto chiaramente cosa è stato appena rivelato."
+  },
+  {
+   "id": "unveil.altar.tentreto.thewritingonthewall.preliminal",
+   "label": "Dilucidare i Lumi di un’Epoca Anteriore",
+   "startdescription": "Se so cosa sto facendo – o forse ammetto di non avere idea di cosa sto facendo – potrei rannicchiarmi nel freddo sotto l’ombra della statua silenziosa, e vedere cosa riaffiora nel sonno.",
+   "desc": "Ricordo come nel sonno udii i versi scolpiti e vibranti del changeling. Ricordo come nel sonno curvai le dita nelle forme che trovai. Ricordo come nel sonno incisi i segni dei segreti sussurrati al mio altro sé. Qui li tengo tra le mani."
+  },
+  {
+   "id": "unveil.altar.tentreto.resurgences",
+   "label": "Dilucidare i Lumi di un’Epoca Anteriore",
+   "startdescription": "Se so cosa sto facendo – o forse ammetto di non avere idea di cosa sto facendo – potrei rannicchiarmi nel freddo sotto l’ombra della statua silenziosa, e vedere cosa riaffiora nel sonno.",
+   "desc": "Ricordo come nel sonno udii i versi scolpiti e vibranti del changeling. Ricordo come nel sonno curvai le dita nelle forme che trovai. Ricordo come nel sonno incisi i segni dei segreti sussurrati al mio altro sé. Qui li tengo tra le mani."
+  },
+  {
+   "id": "unveil.bed.stone.threeandthethreestchiavi.inviolable",
+   "label": "Individuare un Tesoro Perduto della Casa",
+   "startdescription": "Dormi con la pietra come cuscino. Non so perché, ma so qualcosa di ciò che la Calyptra ha decretato, e di ciò che hanno concesso.",
+   "desc": "Novantanove sonnellini. E mi sveglio con un libro cullato tra le braccia."
+  },
+  {
+   "id": "unveil.bed.stone.threeandthethreestchiavi.liminal",
+   "label": "Individuare un Tesoro Perduto della Casa",
+   "startdescription": "Dormi con la pietra come cuscino. Non so perché, ma so qualcosa di ciò che la Calyptra ha decretato, e di ciò che hanno concesso.",
+   "desc": "Novantanove sonnellini. E mi sveglio con un libro cullato tra le braccia."
+  }
+ ]
+}

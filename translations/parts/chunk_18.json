@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart> <sprite name=nectar> <sprite name=rose> <sprite name=sky>.",
+  "dove": "recipes/cook.grapes.pheasant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.dough.cake.jam.blackberry.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.bowls.kitchen.plums.egg.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart> <sprite name=rose> <sprite name=sky>.",
+  "dove": "recipes/cook.meringue.milk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart> <sprite name=scale> <sprite name=sky>.",
+  "dove": "recipes/cook.bowls.kitchen.egg.bread.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart>.",
+  "dove": "recipes/cook.sugar.creamed.bread.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.grapes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=grail>.",
+  "dove": "recipes/cook.sugar.creamed.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=knock> <sprite name=lantern> <sprite name=nectar> <sprite name=rose> <sprite name=sky>.",
+  "dove": "recipes/cook.dough.aglaophotis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=lantern> <sprite name=moon> <sprite name=nectar>.",
+  "dove": "recipes/cook.pumpkin.amber.dripping.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=lantern> <sprite name=moth>.",
+  "dove": "recipes/cook.dough.cake.honey.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=lantern> <sprite name=nectar>.",
+  "dove": "recipes/cook.knife.veg.marrow.golden.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=moon> <sprite name=moth> <sprite name=nectar> <sprite name=scale>.",
+  "dove": "recipes/cook.spicing.moly.butter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>.",
+  "dove": "recipes/cook.knife.mushrooms.bread.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>. (Tastier with fresh mushrooms, but this will do.)",
+  "dove": "recipes/cook.knife.mushrooms.pickled.bread.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>. (Tastier with fresh or at least tinned pilchards, but this will do.)",
+  "dove": "recipes/cook.pilchards.pickled.bread.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=moon> <sprite name=nectar>.",
+  "dove": "recipes/cook.knife.veg.marrow.dark.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=moon> <sprite name=scale> <sprite name=sky>.",
+  "dove": "recipes/cook.mackerel.egg.boiled.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.sack.vegetables.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=nectar> <sprite name=winter>.",
+  "dove": "recipes/cook.knife.veg.marrow.pale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.bowls.kitchen.batter.dripping.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=rose>.",
+  "dove": "recipes/cook.dough.cake.jam.rosehip.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=scale> <sprite name=sky> <sprite name=winter>.",
+  "dove": "recipes/cook.egg.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=scale> <sprite name=sky>, suitable as a first course, sometimes considered inevitable at picnics.",
+  "dove": "recipes/cook.knife.egg.bread.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart> <sprite name=scale>.",
+  "dove": "recipes/cook.beef.potatoes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=heart>.",
+  "dove": "recipes/cook.marinade.onion.mackerel.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=winter>.",
+  "dove": "recipes/cook.spicing.meringue.mushrooms.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A hot drink with <sprite name=edge> <sprite name=knock> <sprite name=lantern> <sprite name=nectar> <sprite name=winter>.",
+  "dove": "recipes/cook.agave.aeterna.pot.tea.assam.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A hot drink with <sprite name=forge> <sprite name=lantern> <sprite name=nectar> <sprite name=sky> <sprite name=winter>.",
+  "dove": "recipes/cook.agave.aeterna.pot.tea.lapsang.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A hot drink with <sprite name=forge> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.honeyscar.jasmine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A hot drink with <sprite name=grail> <sprite name=nectar>.",
+  "dove": "recipes/cook.fragrant.chalice.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A hot drink with <sprite name=nectar> <sprite name=sky> <sprite name=winter>.",
+  "dove": "recipes/cook.blue.crown.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A side dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=scale> <sprite name=sky>.",
+  "dove": "recipes/cook.egg.bread.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A treat with <sprite name=grail> <sprite name=heart> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.blackberries.sugar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A treat with <sprite name=heart> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.rosehips.sugar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "An Ingredient for a higher purpose...",
+  "dove": "recipes/cook.beef.intoxicating.startdescription",
+  "ricorre": 8
+ },
+ {
+  "en": "Bake Acrid Stuffed Marrow",
+  "dove": "recipes/cook.knife.veg.marrow.acrid.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake Apple Pie",
+  "dove": "recipes/cook.spicing.dough.veg.basket.apples.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake Bread",
+  "dove": "recipes/cook.dough.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake Dark Stuffed Marrow",
+  "dove": "recipes/cook.knife.veg.marrow.dark.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake Game Pie",
+  "dove": "recipes/cook.pheasant.dough.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake Golden Stuffed Marrow",
+  "dove": "recipes/cook.knife.veg.marrow.golden.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake Pale Stuffed Marrow",
+  "dove": "recipes/cook.knife.veg.marrow.pale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake Pear Pie",
+  "dove": "recipes/cook.spicing.dough.fruit.bowl.pears.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Bake Sea Pie",
+  "dove": "recipes/cook.dough.beef.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Blackberry Jam Sponge Cake",
+  "dove": "recipes/cook.dough.cake.jam.blackberry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Cornish Honey Cake",
+  "dove": "recipes/cook.dough.cake.honey.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Honey-Haunted Pumpkin Pie",
+  "dove": "recipes/cook.spicing.pumpkin.amber.x.dough.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Knot-Cake",
+  "dove": "recipes/cook.dough.cake.honey.cuckoo.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Madeira Cake",
+  "dove": "recipes/cook.spicing.dough.cake.almonds.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Mushroom Meringue",
+  "dove": "recipes/cook.spicing.meringue.mushrooms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Pear Meringue",
+  "dove": "recipes/cook.spicing.meringue.fruit.bowl.pears.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Pumpkin Pie",
+  "dove": "recipes/cook.spicing.pumpkin.dough.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake a Rosehip Jam Sponge Cake",
+  "dove": "recipes/cook.dough.cake.jam.rosehip.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake an Amber Pumpkin Pie",
+  "dove": "recipes/cook.pumpkin.amber.dough.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake an Apple Charlotte",
+  "dove": "recipes/cook.spicing.veg.basket.apples.bread.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bake an Apple Meringue",
+  "dove": "recipes/cook.spicing.meringue.veg.basket.apples.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Boil an Egg",
+  "dove": "recipes/cook.egg.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cook Moly au Jus",
+  "dove": "recipes/cook.spicing.moly.butter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cook a Ham and Egg Casserole",
+  "dove": "recipes/cook.ham.canned.egg.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Deep-Sweeten Assam",
+  "dove": "recipes/cook.agave.aeterna.pot.tea.assam.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Deep-Sweeten Lapsang",
+  "dove": "recipes/cook.agave.aeterna.pot.tea.lapsang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Jug a Pheasant",
+  "dove": "recipes/cook.pheasant.butter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Aglaophotis Soufflé",
+  "dove": "recipes/cook.dough.aglaophotis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Amber Pumpkin Soup",
+  "dove": "recipes/cook.pumpkin.amber.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Batter",
+  "dove": "recipes/cook.flour.water.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Blackberry Jam",
+  "dove": "recipes/cook.blackberries.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Blue Crown Tea",
+  "dove": "recipes/cook.blue.crown.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Cold Pheasant with Grape Salad",
+  "dove": "recipes/cook.grapes.pheasant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Cottage Pie",
+  "dove": "recipes/cook.beef.potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Egg Croquettes",
+  "dove": "recipes/cook.egg.bread.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Egg Sandwiches",
+  "dove": "recipes/cook.knife.egg.bread.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Eggy Bread",
+  "dove": "recipes/cook.bowls.kitchen.egg.bread.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Fragrant Chalice Tea",
+  "dove": "recipes/cook.fragrant.chalice.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Fried Mushrooms on Toast",
+  "dove": "recipes/cook.knife.mushrooms.bread.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Make Fudge",
+  "dove": "recipes/cook.sugar.creamed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Game Chips",
+  "dove": "recipes/cook.knife.potatoes.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Grape Salad",
+  "dove": "recipes/cook.grapes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Honey-Haunted Pumpkin Soup",
+  "dove": "recipes/cook.pumpkin.amber.x.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Honeyscar Tea",
+  "dove": "recipes/cook.honeyscar.jasmine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Kingsluck Pie",
+  "dove": "recipes/cook.pie.pears.beef.roast.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Make Leek Gratin",
+  "dove": "recipes/cook.knife.bread.veg.basket.leeks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Leek Soup",
+  "dove": "recipes/cook.veg.basket.leeks.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Mackerel Kedgeree",
+  "dove": "recipes/cook.egg.mackerel.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Mackerel Monte Carlo",
+  "dove": "recipes/cook.mackerel.egg.boiled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Meringue",
+  "dove": "recipes/cook.bowls.kitchen.egg.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Onion Gratin",
+  "dove": "recipes/cook.knife.bread.veg.basket.onions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Onion Rings",
+  "dove": "recipes/cook.knife.batter.veg.basket.onions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Onion Soup",
+  "dove": "recipes/cook.veg.basket.onions.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Orange Jumble",
+  "dove": "recipes/cook.spicing.almonds.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Pickled Mackerel",
+  "dove": "recipes/cook.mackerel.intoxicating.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Pickled Mushrooms",
+  "dove": "recipes/cook.mushrooms.intoxicating.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Pilchards on Toast",
+  "dove": "recipes/cook.pilchards.bread.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Make Plum Croutons",
+  "dove": "recipes/cook.knife.plums.bread.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Poire Belle Hélène",
+  "dove": "recipes/cook.fruit.bowl.pears.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Poires Ys",
+  "dove": "recipes/cook.spicing.pyrus.auricalcinus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Prune Whip",
+  "dove": "recipes/cook.bowls.kitchen.plums.egg.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Pumpkin Soup",
+  "dove": "recipes/cook.pumpkin.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Rosehip Jam",
+  "dove": "recipes/cook.rosehips.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Scrambled Egg",
+  "dove": "recipes/cook.butter.egg.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Soused Mackerel",
+  "dove": "recipes/cook.marinade.onion.mackerel.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Starygazy Pie",
+  "dove": "recipes/cook.pilchards.dough.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Steamed Spring Vegetable Pie",
+  "dove": "recipes/cook.dough.sack.vegetables.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Make Sticky Toffee Pudding",
+  "dove": "recipes/cook.sugar.creamed.bread.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Vegetable Stew",
+  "dove": "recipes/cook.sack.vegetables.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Make Walls-of-Ys",
+  "dove": "recipes/cook.spicing.meringue.pyrus.auricalcinus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make Yorkshire Pudding",
+  "dove": "recipes/cook.bowls.kitchen.batter.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Floating Island",
+  "dove": "recipes/cook.meringue.milk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Ham and Cheese Toastie",
+  "dove": "recipes/cook.knife.ham.canned.bread.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Ham and Potato Bake",
+  "dove": "recipes/cook.ham.canned.potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Mushroom and Potato Bake",
+  "dove": "recipes/cook.mushrooms.potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Marinate Onions",
+  "dove": "recipes/cook.intoxicating.veg.basket.onions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Marinate a Joint of Beef",
+  "dove": "recipes/cook.beef.intoxicating.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix Cake Batter",
+  "dove": "recipes/cook.bowls.kitchen.dough.egg.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix Creamed Sugar",
+  "dove": "recipes/cook.bowls.kitchen.butter.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix Dough",
+  "dove": "recipes/cook.bowls.kitchen.butter.flour.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Pickle Pilchards",
+  "dove": "recipes/cook.pilchards.intoxicating.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Poach Mackerel",
+  "dove": "recipes/cook.mackerel.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roast Marinated Beef",
+  "dove": "recipes/cook.beef.marinated.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roast Potatoes, Magnificently",
+  "dove": "recipes/cook.potatoes.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roast a Beef Joint",
+  "dove": "recipes/cook.beef.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roast a Pheasant",
+  "dove": "recipes/cook.pheasant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'But will they come when you do call for them?'",
+  "dove": "recipes/wc.callingcard.add.agdistis.desc",
+  "ricorre": 20
+ },
+ {
+  "en": "A package from Dr Serena Blackwood, who once also served as Librarian here:\n\n'Librarian: I remember very well how remote Brancrug is from the world. In Alexandria, I have both a telegraph office and more company than I can easily stand. You will, I think, make better use of this than I.\n\nBest wishes\n Serena'",
+  "dove": "recipes/wc.send.enabled.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "For what you might call an 'occult correspondence'.",
+  "dove": "recipes/wc.callingcard.add.agdistis.startdescription",
+  "ricorre": 20
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Agdistis to Brancrug.",
+  "dove": "recipes/write.summon.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Arthur Moore to Brancrug.",
+  "dove": "recipes/write.summon.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Azita to Brancrug.",
+  "dove": "recipes/write.summon.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Chaima to Brancrug.",
+  "dove": "recipes/write.summon.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Connie to Brancrug.",
+  "dove": "recipes/write.summon.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Coquille to Brancrug.",
+  "dove": "recipes/write.summon.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Corso to Brancrug.",
+  "dove": "recipes/write.summon.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Daymare to Brancrug.",
+  "dove": "recipes/write.summon.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Douglas Moore to Brancrug.",
+  "dove": "recipes/write.summon.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Ehsan to Brancrug.",
+  "dove": "recipes/write.summon.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Father Stanislav to Brancrug.",
+  "dove": "recipes/write.summon.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Hokobald to Brancrug.",
+  "dove": "recipes/write.summon.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Morgen to Brancrug.",
+  "dove": "recipes/write.summon.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Olympe to Brancrug.",
+  "dove": "recipes/write.summon.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Peel to Brancrug.",
+  "dove": "recipes/write.summon.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Serena to Brancrug.",
+  "dove": "recipes/write.summon.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Strathcoyne to Brancrug.",
+  "dove": "recipes/write.summon.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Yvette to Brancrug.",
+  "dove": "recipes/write.summon.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting Zachary to Brancrug.",
+  "dove": "recipes/write.summon.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have enough here to craft a letter inviting al-Adim to Brancrug.",
+  "dove": "recipes/write.summon.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Agdistis's Address",
+  "dove": "recipes/wc.callingcard.add.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Arthur Moore's Address",
+  "dove": "recipes/wc.callingcard.add.arthur.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Azita's Address",
+  "dove": "recipes/wc.callingcard.add.azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Chaima's Address",
+  "dove": "recipes/wc.callingcard.add.chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Connie's Address",
+  "dove": "recipes/wc.callingcard.add.connie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Coquille's Address",
+  "dove": "recipes/wc.callingcard.add.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Corso's Address",
+  "dove": "recipes/wc.callingcard.add.corso.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Daymare's Address",
+  "dove": "recipes/wc.callingcard.add.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Douglas Moore's Address",
+  "dove": "recipes/wc.callingcard.add.douglas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Ehsan's Address",
+  "dove": "recipes/wc.callingcard.add.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Father Stanislav's Address",
+  "dove": "recipes/wc.callingcard.add.stanislav.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Hokobald's Address",
+  "dove": "recipes/wc.callingcard.add.hokobald.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Morgen's Address",
+  "dove": "recipes/wc.callingcard.add.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Olympe's Address",
+  "dove": "recipes/wc.callingcard.add.olympe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Peel's Address",
+  "dove": "recipes/wc.callingcard.add.arun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Serena's Address",
+  "dove": "recipes/wc.callingcard.add.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Strathcoyne's Address",
+  "dove": "recipes/wc.callingcard.add.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Yvette's Address",
+  "dove": "recipes/wc.callingcard.add.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note Zachary's Address",
+  "dove": "recipes/wc.callingcard.add.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note al-Adim's Address",
+  "dove": "recipes/wc.callingcard.add.aladim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Now I just need to post it.",
+  "dove": "recipes/write.summon.agdistis.desc",
+  "ricorre": 20
+ },
+ {
+  "en": "Request Agdistis's Presence",
+  "dove": "recipes/write.summon.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Arthur Moore's Presence",
+  "dove": "recipes/write.summon.arthur.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Azita's Presence",
+  "dove": "recipes/write.summon.azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Chaima's Presence",
+  "dove": "recipes/write.summon.chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Connie's Presence",
+  "dove": "recipes/write.summon.connie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Coquille's Presence",
+  "dove": "recipes/write.summon.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Corso's Presence",
+  "dove": "recipes/write.summon.corso.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Daymare's Presence",
+  "dove": "recipes/write.summon.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Douglas Moore's Presence",
+  "dove": "recipes/write.summon.douglas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Ehsan's Presence",
+  "dove": "recipes/write.summon.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Father Stanislav's Presence",
+  "dove": "recipes/write.summon.stanislav.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Hokobald's Presence",
+  "dove": "recipes/write.summon.hokobald.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Morgen's Presence",
+  "dove": "recipes/write.summon.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Olympe's Presence",
+  "dove": "recipes/write.summon.olympe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Peel's Presence",
+  "dove": "recipes/write.summon.arun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Serena's Presence",
+  "dove": "recipes/write.summon.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Strathcoyne's Presence",
+  "dove": "recipes/write.summon.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Yvette's Presence",
+  "dove": "recipes/write.summon.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request Zachary's Presence",
+  "dove": "recipes/write.summon.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Request al-Adim's Presence",
+  "dove": "recipes/write.summon.aladim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Honey or beeswax, if I'm careful. Cuckoo-honey if the Blomberende have been by to visit their infant nobility.",
+  "dove": "recipes/gather.garden.beehive.liselotte.spring.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "I'm unlikely to garner much from the hive at this time of year, but the Blomberende sometimes sing their laments louder than the wind can gainsay.",
+  "dove": "recipes/gather.garden.beehive.liselotte.autumn.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "In Numa, I might gather honey, beeswax, or something unexpected. The Blomberende usually pass by to pay their respects to their infant nobility, and leave their cuckoo-gifts.",
+  "dove": "recipes/gather.garden.beehive.liselotte.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My poor darlings,' Liselotte whispers. 'Be here and be well. Think of the thrones that will rise among your spires to come. The Librarian is kind; the Librarian should be trusted.''",
+  "dove": "recipes/upgrade.beehive.liselotte.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Admit Spencer to the Rowenarium",
+  "dove": "recipes/upgrade.rowenarium.spencer.down.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Dispose of the Wisp",
+  "dove": "recipes/dispose.foundry.wisp.agdistis.label",
+  "ricorre": 2
+ },
+ {
+  "en": "I had divulged what I learnt about Dagmar's part in the Oriflamme Heist. Now Oriflamme's Auction House has sent me a token of their gratitude.",
+  "dove": "recipes/open.delivery.reward.oriflammes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Incorporate the Wisp",
+  "dove": "recipes/upgrade.chrysalis.wisp.agdistis.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Install the 'Landgravines-in-exile''",
+  "dove": "recipes/upgrade.beehive.liselotte.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make the Offering",
+  "dove": "recipes/upgrade.altar.tentreto.offering.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Once the walkers and fliers and swimmers and fire-seekers gave a little of their blood to the West, every sunset, and the Sun's night-self protected them until the dawn. Now blood has been sent from the West to the isle's heart. What does that mean? Not eternity; a change. [The altar now admits Heart intention, and provides Heart aspect.]",
+  "dove": "recipes/upgrade.altar.tentreto.offering.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer is gone. So, thankfully, are any passengers he still carried. His absence is a notable acuteness. [The Rowenarium now admits Knock intentions. It also provides Knock Aspect.]",
+  "dove": "recipes/upgrade.rowenarium.spencer.out.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer is gone. So, thankfully, are any passengers he still carried. His absence is a notable iciness. [The Rowenarium now admits Knock intentions. It also provides Winter Aspect.]",
+  "dove": "recipes/upgrade.rowenarium.spencer.down.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer stands before the skeleton-centre of the room, feet planted firmly, fingers writhing a restless nest. 'The Baldomerian and I,' he confides, 'would argue about what was real and what was not. Bodies. Hours. Souls. The Mansus. Nowhere. I suggested that reality' - his hands writhe - 'was something more like proximity. To be more real might mean to pass further... but further in one direction would be ... more distant... in another. Closer to one real, closer to another absence. She disagreed. But then, later, she became the Baldomerian... thank you, herald. Will you leave me here? To go out?' [This will take a whole day and night.]",
+  "dove": "recipes/upgrade.rowenarium.spencer.out.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer stands before the skeleton-centre of the room, feet planted firmly, fingers writhing a restless nest. 'The Baldomerian and I,' he confides, 'would argue about what was real and what was not. Bodies. Hours. Souls. The Mansus. Ys. I suggested that reality' - his hands writhe - 'was something more like proximity. To be more real might mean to pass higher... but that would be only one real, as to go north would take one closer to Svalbard, but not to Grytviken... she disagreed. But then, later, she became the Baldomerian... thank you, herald. Will you leave me here? To go down?' [This will take a whole day and night.]",
+  "dove": "recipes/upgrade.rowenarium.spencer.down.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "St Tentreto has four wings. So I should pour the offering into his four fires. That seems self-evident, now that I'm here.",
+  "dove": "recipes/upgrade.altar.tentreto.offering.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The hive is grown busier. Liselotte smiles shyly, ready to depart.",
+  "dove": "recipes/upgrade.beehive.liselotte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The wisp begins to wriggle, pulling away from the heat, mewing like a broken-winged gull.",
+  "dove": "recipes/dispose.foundry.wisp.agdistis.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The wisp wriggles into the soft space beneath the Chrysalis' leathery lip; flickers; passes within. The Chrysalis begins to shudder. The shuddering continues for several minutes, until the whole mass sways from side to side and the ropes creak. Then it's still, though its lights flicker, twice, three times. [The Chrysalis now admits Winter intentions. It also provides Winter Aspect.]",
+  "dove": "recipes/upgrade.chrysalis.wisp.agdistis.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The wisp yearns towards the row of lights running down the Chrysalis' underside, like a worm questing for light - or like a battered, wing-broken moth. [It isn't clear what might happen. But if it's something untoward, then the Chrysalis is, after all, bound and imprisoned in a secure cell.]",
+  "dove": "recipes/upgrade.chrysalis.wisp.agdistis.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The wisp's cries cease instantly. Its residue creeps across the blazing meniscus like rapid fungus - but then that movement ceases, until it congeals into splattered patterns with the qualities of script or hierograms.",
+  "dove": "recipes/dispose.foundry.wisp.agdistis.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "''My Kelemdu… Ys had its due…always… Wolf-long… drowned… the priestesses… watchful as Spinthre, cunning as Stars. I know; for I was of their kind… but not… a pale dawn… palest...'",
+  "dove": "recipes/leiter.rowena.persistent.foe.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'A priest always needs a god. And all my previous gods have been lost, or superseded, or grown disappointing. Let's see how these oldest, newest gods work out.'",
+  "dove": "recipes/leiter.stanislav.mission.stone.remembered.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'All of us change, don't we? In my skaptodon days, I feared change as I longed for it, and now I am only glad of it. Many fear and long for the Cross-change, and I have helped to show them the way.'",
+  "dove": "recipes/leiter.ehsan.ally.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'All of us change, don't we? In my skaptodon days, I feared change as I longed for it. So I understand the temptation of the Cross-change, and so, when my skills are called on, I can end that temptation.'",
+  "dove": "recipes/leiter.ehsan.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Awfy grateful to Libsy for not running to Oriflamme's about, you know. Awfy grateful. And if Libsy can keep a secret, so can old Daymare. Awfy secret.'",
+  "dove": "recipes/leiter.dagmar.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Caen, eh? New King dies in battle, Chandler loses a royal piece, but also the side we don't like still gets spanked? Could hardly have worked out better. We can't keep counting on that kind of luck. Doing my best to keep us all informed.'",
+  "dove": "recipes/leiter.corso.foe.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Course, the Carapace Cross never uses books. Not the way we understand. But we can transcribe what they do use, now. Some good stuff in there.'",
+  "dove": "recipes/leiter.corso.ally.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Dr Yvette Southey; Yvette of the line of Ys; Yvette ferch Kelemdu; Daughter of the Marches, Daughter of the Sea. I know it's all true, but I refuse to take it seriously. I have a doctorate in medicine from a fairly decent university. I have three books on Jung out that no-one will buy. I have a mynah-bird that will only speak German. All these things are true. I suppose, after all. There are many Histories.'",
+  "dove": "recipes/leiter.yvette.foe.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'For so long I have striven to keep the world afloat. So many times, my efforts have been undermined by treachery. This Institute has done nothing like that… yet. I dare to hope.'",
+  "dove": "recipes/leiter.elie.persistent.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am a healer before I am a priest,' Stanislav has been heard to say. He is not content with the direction the Institute has taken, but he is prepared to remain with the Institute as long as he feels he is advancing the first function.",
+  "dove": "recipes/leiter.stanislav.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am so very glad I kept Zuthi's Roost-secrets safe. If the Roost still meets, none may guess where; and we have a treasure like the fruits and seeds of a new earth.'",
+  "dove": "recipes/leiter.morgen.mission.autarchy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am tolerated, but I am not trusted. I have proved myself a dozen times, and I am not trusted. I have suppressed my Cross-nature, though it cost me dear in dreams, and still I am not trusted. Well: I am patient. One day, we will see.'",
+  "dove": "recipes/leiter.fraser.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I chose my path in Strasbourg. I am a healer before I am a priest. If that means that I take liberties with the capital-T Truth… well, there are many Histories. (I <i>think</i> there are still many Histories.)'",
+  "dove": "recipes/leiter.stanislav.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I do not know whether the Vagabond has risen to the Glory, or fallen to Nowhere. I grieve for her. So many Hours uncounted… but we endure, and our havens against the war. Peace never lasts, but war always ends. Now I am History's son, not Eternity's child.'",
+  "dove": "recipes/leiter.aladim.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I grieve for her, as I grieve for the other Hours uncounted, risen to the Glory, lost to Nowhere, consumed by the Cross… I am not a warrior; I am a messenger; and the message of remembrance, I will bear like a green bough into the dawn.'",
+  "dove": "recipes/leiter.aladim.mission.stone.remembered.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had always had a great sympathy with the gods-from-stone. Yes, I had hoped we might one day feast upon them, but I often feast on those with whom I have sympathy, is it not so? And I have noticed that the Sun, some days, is redder. I wonder what it would be, to share one's blood with the Sun.'",
+  "dove": "recipes/leiter.morgen.mission.stone.remembered.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had always thought we could not trust the Carapace-kinds. I take no pleasure in being proved right. Locust; scorpion; wasp. Where I find them, I crush them.'",
+  "dove": "recipes/leiter.aladim.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had feared that we and the Cross would not understand each other. I did not wish to be right. It makes me despondent. But for now, I must treat the Change as if it were a sickness. I'm getting better at that.'",
+  "dove": "recipes/leiter.stanislav.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had hoped that we and the Cross would understand each other. That has, so far, proven to be too optimistic. As the zone of their return widens, the tensions grow… but I am doing what I can.'",
+  "dove": "recipes/leiter.stanislav.ally.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have been called to attend several cases of infestation by Worms, this year alone. I didn't enjoy it. But something has changed: they cannot develop as they did, inside a human skin; they cannot make more of their own. I wonder: is it something we did? Or something in the Sun?'",
+  "dove": "recipes/leiter.ehsan.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have made common cause with the presences that remain in the earth and the sea, just as the Institute directed. They have been very useful to my mining interests; we have unearthed unexpected treasures.'",
+  "dove": "recipes/leiter.fraser.mission.stone.remembered.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have sent one of my children to Ys, as a hostage. They have sent one of their daughters. I keep her under glass. We are all of us the greatest friends.'",
+  "dove": "recipes/leiter.echidna.persistent.ally.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have spoken with Worms. It is easier than you would think - for me at least - because of my passenger. But not easy. Most of them, I destroyed. Of course. But one of them… now she is like me.'",
+  "dove": "recipes/leiter.zachary.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have wrought what no other might; I am justly accounted the greatest among the Forge-kind! The gods of gold and bronze are my children, and they bestride the Continent! At some point I will have to take them in hand - they have strayed a little from my original devising - but it is well wrought indeed. I think at our next meeting I shall propose a change of the Institute's name, to more properly honour my labours.'",
+  "dove": "recipes/leiter.hokobald.mission.better.gods.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I know not everyone liked the idea of working with the Reckoners, but they've been very useful. We have eyes in every city still standing. We have a consistent source of years to armour my agents - our agents. And I like them: they're <i>professionals</i>.'",
+  "dove": "recipes/leiter.azita.ally.reckoners.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I miss the resources I used to have, back before I left the Bureau. But working with the Institute… it's a lot less formal. Reminds me of the old days.'",
+  "dove": "recipes/leiter.connie.resigned.foe.devourers.forbid.echidna.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I miss the resources I used to have. But working with the Institute… it's a lot less formal. Reminds me of the old days, before I joined the Bureau.'",
+  "dove": "recipes/leiter.connie.foe.devourers.forbid.echidna.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I pity the Cross, and I hope they may persist, out beyond the skies where the Stars are not too hungry. But the Cross-nature is a sickness. When those it troubles come to me, I heal them.'",
+  "dove": "recipes/leiter.agdistis.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I regret what's happening with the Cross. There's been too much of that in Europe these last few years. But there really isn't room for them and us both - ontologically speaking, I mean…'",
+  "dove": "recipes/leiter.olympe.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I remember Venice. The Skewbald Aria, the skewbald roses. The days when Calyptra seemed unassailable, and yet the Moth assailed her; how far we've come! All those secrets opened, carelessly, like poisoned presents for children. The biggest story of my career, and my name is nowhere near it... but I don't think I could bear more than a little of the responsibility.'",
+  "dove": "recipes/leiter.olympe.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I remember the business with Zidane, his Lark project, the Roost-secrets. I had thought that by returning them, we would help keep the peace. And a scant handful of years later, this War in the Sun. But perhaps we delayed it. And even if we did not - I still believe it was the right thing to do...'",
+  "dove": "recipes/leiter.serena.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I remember when we crippled Fissifer. I wonder if things would have been different, if we had not? Would the New King have lived? Might we even have avoided war? But perhaps the opposite is true. Perhaps it would have been even worse. Well: we have given many more the opportunity to make these choices.'",
+  "dove": "recipes/leiter.serena.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I see how they look at me. A true Ligeian does not care how she is looked at. They keep me close because they do not trust me. They are wise. We all benefit thereby. One day, it will end, and my children will feast. Until then, I am loyal to my duty.'",
+  "dove": "recipes/leiter.echidna.persistent.foe.devourers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I still have nightmares about that business in the Black Forest… I've been tracking down what's left of Liselotte's patients. For the surgery. Nasty. But better than the alternative.'",
+  "dove": "recipes/leiter.douglas.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think I met the Chandler once. In London. And then in the Mansus. And then in London, again...\nShe was always kind to me. And so I think it is me that will be the one to remember her.'",
+  "dove": "recipes/leiter.zachary.ally.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think I met the Chandler once. In London. And then in the Mansus. And then in London, again...\nShe was always kind to me. But I think it is me that will be the one to end her.'",
+  "dove": "recipes/leiter.zachary.foe.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think the New King truly fell at Caen. I had no part of it; his enemy was one I would never work with. But the other harbingers of the Chandler… one by one we snuff their flames. One day they will all be ashes.'",
+  "dove": "recipes/leiter.chaima.foe.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I thought my soldiering days were past. I've thought that before. Well, it's not exactly soldiering. I'll say instead that I thought my days of getting shot at were past. I chose this life with the Institute, though, and I'm proud.'",
+  "dove": "recipes/leiter.arthur.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was called on to extract a Worm from the spine of a shepherd. It had been in there almost twenty-eight days, but it showed no signs of development. I have learnt of other such cases: the Worms are weakening. I will not speculate as to why. I do not trust it yet.'",
+  "dove": "recipes/leiter.elie.persistent.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was in Kerisham again last week, for a meeting with what's left of the Obliviates. The sea is very strange there now. Bodies cast up on the beach every day - bodies of people who never existed and certainly never died…  but I think they might have died in another History? I don't know. So much has been lost, but without us, it would have been even worse.'",
+  "dove": "recipes/leiter.olympe.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was right to defy Lady Edith. I had no idea how compromised the Bureau had become. This Institute is a new start… well, new starts always tarnish, but I've been careful about our allies. It isn't always easy, but I've had enough of compromises.'",
+  "dove": "recipes/leiter.connie.mission.autarchy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was too trusting, too long. I am a healer first, but a healer must also be a surgeon. I keep my knife sharp, for the Institute, and for Calyptra's remembered shadow.'",
+  "dove": "recipes/leiter.ehsan.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I will admit this: I have not always been a good mother. But for a great many years, my first care has been for my children. I count the Institute among my children now. And after a battle, my children always eat well.'",
+  "dove": "recipes/leiter.echidna.persistent.mission.corrivality.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I will admit this: I have not always been a good mother. But for a great many years, my first care has been for my children. I count the Institute among my children now. For too long, the succulence of the gods-from-Stone has gone untasted. Now, all my children are feasting. I am pleased.'",
+  "dove": "recipes/leiter.echidna.persistent.mission.stone.consumed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I will admit this: I have not always been a good mother. But for a great many years, my first care has been for my children. I shade them from the burning light of the sun; I keep them from the eyes of hunters. I count the Institute among my children now.'",
+  "dove": "recipes/leiter.echidna.persistent.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I will not accept that everything must end. Perhaps that makes me Eternity's fool. But certainly it makes me Nowhere's enemy. I have trusted too easily; I have seen how Worms work within, and I have devised methods to extirpate them - not kind methods, but necessary.'",
+  "dove": "recipes/leiter.agdistis.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I will not risk my children against the Worms. But I have been known to take the field in person, now and then.'",
+  "dove": "recipes/leiter.echidna.persistent.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm spending most of my time in the Alps, now, keeping the Haven trouble-free. I miss the Labyrinth sometimes. But I don't miss the desert. The sun on the snow is clear and bright…'",
+  "dove": "recipes/leiter.arthur.mission.autarchy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've been looking for the New King again. Still no sign - not since Caen. I do believe that with his passing we have to worry a great deal less about the Chandler. But there are still Names of the Chandler out there, like sparks on the wind… I fear we've only deferred the Dawn. And so, I hunt.'",
+  "dove": "recipes/leiter.arthur.foe.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I, too, have been ruthless. I have made alliances where I must. We have survived the Wars below and above, as so many did not. The Vagabond is gone; it is a relief to find a new purpose. I do not regret my decisions.'",
+  "dove": "recipes/leiter.aladim.mission.stone.consumed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Irony? I have always enjoyed irony. A Ligeian sits in their councils, directing their operations against my un-cousins and my un-sisters… for whom I have little affection. And this Institute is grown quite powerful indeed. I prefer to be inside the council-chamber than without.'",
+  "dove": "recipes/leiter.morgen.foe.devourers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is a very great pity - that the New King came so far, only to die at Caen in this silly War of earth. I have no patience for heroes. But there are flames that still burn in darkness. The Chandler is only delayed, not denied, and when he arrives, the Institute will share in his bounty. Or, perhaps, hers... I have a theory. I will share it only when I know I am correct. In the past, I have been too generous.'",
+  "dove": "recipes/leiter.hokobald.ally.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It took me too long to leave the Bureau. Now this Institute is a new start… well, new starts always tarnish, but I've been careful about our allies. It isn't always easy, but I've had enough of compromises.'",
+  "dove": "recipes/leiter.connie.resigned.mission.autarchy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It was all so much simpler, when I was Librarian. I miss those days terribly. It was so frustrating then - haggling over Bureau requests, trying to find a supplier who would deliver lapsang to the village… those stupid dinners with Collers… now, though, I would give almost anything to go back. But that's History.'",
+  "dove": "recipes/leiter.serena.mission.autarchy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'It's like we've opened the door into another country. It's like a wind of stone and heather. I think even the sun's a little redder. Know what? I like it.'",
+  "dove": "recipes/leiter.corso.mission.stone.remembered.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Kitling Ripe, I recall, devoured the would-be immortals from the Lyterion. If I had known that was a harbinger of things to come… I might have chosen differently.'",
+  "dove": "recipes/leiter.stanislav.mission.stone.consumed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Light.' That's always the answer. Even the Moth knew it. It's been messy, the last few years, but I had sought the mercy of shadow for far too long. I'm enjoying the sunlight.",
+  "dove": "recipes/leiter.arthur.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'My dearest enemy, Mehrad, is sulking. He did not like that I would take no side in the Wars. He'll get over it. And in any case, with the Colonel among the Hours uncounted… I wonder how our arrangement might have changed.'",
+  "dove": "recipes/leiter.azita.mission.corrivality.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'My first calling: to preserve what exists. My second calling: to preserve what exists <i>as it is</i>. An alliance with Ys will do little for the second; but it is necessary for the first.'",
+  "dove": "recipes/leiter.elie.persistent.ally.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Now, at last, I can express my inner nature. I have established a joint endeavour with the returning Cross: their burrowings beneath the earth, my own mining operations. Our co-operation has made the Institute monstrously wealthy… and I confess that it has done my fortune no harm, either.'",
+  "dove": "recipes/leiter.fraser.ally.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oh all very polite, these Ysien, clean as good dentistry, sharp as a button, but you let 'em get up close, and snap! Like getting your soul shut in a door. Brr. Well, we're wise to 'em now, aren't we?'",
+  "dove": "recipes/leiter.dagmar.foe.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Others die so that we may persist. I learnt that long before I consumed my first infant. We all of us show our teeth when we smile, <i>hein</i>? I am smiling now. I am so grateful I was asked to ensure the persistence of this Institute.'",
+  "dove": "recipes/leiter.morgen.mission.corrivality.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Peace in short supply these days, what? Dishing it out where I can. Charitable activities. Had to sell the old, you know, estate. Roof was comin' off anyway. Charitable activities.'",
+  "dove": "recipes/leiter.dagmar.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Peace? Why not? When a forest enjoys decades without a fire… then the conflagration, when it comes, is all the more glorious. Besides: my dearest enemy Mehrad is sulking.'",
+  "dove": "recipes/leiter.azita.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perhaps I had become too suspicious; too grudging with my skills. I have learnt to be generous again, here at the Institute, and in the world. It is not only mortals I heal, now.'",
+  "dove": "recipes/leiter.ehsan.mission.stone.remembered.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Popped over to Miah, see how the Carabees are getting on in that garden. Not bees. Other things, <i>Motten</i>, you know. Getting on pretty well. Little too well, honestly. Still, rather them than Worms, what?'",
+  "dove": "recipes/leiter.dagmar.ally.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Revelation! Wish I could see the Madrugad's face. Scratch that, never said that, silly idea, blast me to ash, no doubt about it. Still though. See her face!'",
+  "dove": "recipes/leiter.dagmar.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Secrets, like the great treasures of art and of the table, are not to be wasted on the peasantry. There has been altogether too much liberality in these respects, of late. With the Institute's assistance, I have been doing my best to correct that.'",
+  "dove": "recipes/leiter.hokobald.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Shame to lose the New King at Caen like that. Course he was a bit chandly, but nice feller, good breedin', not many kings prepared to die in battle these days? Makin' it a bit easier now, though, pinchin' the wick, sort of thing. Plenty of wicks need pinching!'",
+  "dove": "recipes/leiter.dagmar.foe.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Since the Wars, it is very difficult to keep the nights safe. But I and mine have done my best for the Institute, and for the helpless ones we protect. Yes, my own operations run a little more smoothly with fewer prowling Hügelkinder… but as we used to say in my homeland, the same fire melts gold and iron.'",
+  "dove": "recipes/leiter.azita.foe.devourers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'So much has been lost,' Olympe likes to say, 'but without us it would have been so much worse.' It's not clear whether she believes it.",
+  "dove": "recipes/leiter.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Spencer went down.\nOne day I will follow him.\nThen I will be free.\nUntil then, when I choose, I will make my choices for the Lighthouse Institute.'",
+  "dove": "recipes/leiter.zachary.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Spencer went down.\nOne day I will follow him.\nThen it will be quiet.\nUntil then, when I am silent, I will be silent for the Lighthouse Institute.'",
+  "dove": "recipes/leiter.zachary.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Still haven't been to Ys.\n\nGoing to, though. One day.\n\nTrade mission, sort of thing…'",
+  "dove": "recipes/leiter.dagmar.ally.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Take our allies where we can find 'em, always said that, didn't I? Good thing too now with all these uncountable Hours. Uncounted? Uncontested? Can't find so many of the beggars, that's what I mean, none of this pokin' round the Mansus and bumpin' into something that'd burn your eyebrows up.'",
+  "dove": "recipes/leiter.dagmar.mission.autarchy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Terrible things in the world today. Plenty of 'em. But the Worms are the worst. We're hoiking them out, one by one, though. And did you hear? They can't breed inside people any more. The world's changed, and not always in the worst way…'",
+  "dove": "recipes/leiter.douglas.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Bureau has its flaws; Calyptra is a kind of tyranny; but the last few years have shown us how necessary the Duties are. You can't deny the sea, but you can build flood defences… and that's what we're doing: flood defences for knowledge.'",
+  "dove": "recipes/leiter.connie.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Bureau's done good, from time to time. I suppose even Calyptra had a point. But tyranny is tyranny. It's good to let the light in.'",
+  "dove": "recipes/leiter.connie.resigned.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Carapace Cross? They're exiles. They're shiny. Some of them sing. Of course I like them.'",
+  "dove": "recipes/leiter.arun.ally.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Chandler has passed her appointed time, and she has not entered the world. Perhaps that means we have succeeded. Perhaps she was only ever a symbol for the fires that have passed. Or perhaps she is among the uncounted Hours now… I will not believe it yet; I will not let us relax our guard.'",
+  "dove": "recipes/leiter.serena.foe.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Duties endure. I remember when I got into all this. Still thought I'd retire, some day, back then. Beginning to be glad I didn't.'",
+  "dove": "recipes/leiter.douglas.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The New King! What a waste. If only he had not taken the field at Caen. The fire that burns in darkness has sunk low. But still it burns so prettily. I have learnt delightful things from Mihail, and I hope to learn much more.'",
+  "dove": "recipes/leiter.coquille.ally.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Reckoners are different since the War. Some of them are worse. But some of them, since they had to operate in public, have become… oh, not better. I shan't fool myself. But at least more careful.'",
+  "dove": "recipes/leiter.olympe.ally.reckoners.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The gods-from-Stone knew healing arts we had forgotten - still locked in the tangled roots of our cells like the script on the Serpent-root. I have employed the Institute's resources to unlock those secrets. I hope that was wise.'",
+  "dove": "recipes/leiter.agdistis.mission.stone.remembered.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The insidiates of Ys are so… polite, you know? I keep finding myself beginning to relax my guard. I keep telling myself it's because they're cold-blooded… I don't know if that's literally true.'",
+  "dove": "recipes/leiter.connie.foe.ys.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'There is always another quarry. I am always sufficient to the task.'",
+  "dove": "recipes/leiter.chaima.foe.devourers.forbid.echidna.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is always another quarry. I am always sufficient to the task… but I have been requested to spare the khalvites. So I will. For now.'",
+  "dove": "recipes/leiter.chaima.foe.devourers.echidna.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is no sign of the New King since he fell at Caen. If he truly fell. His protector is tricksy… but the Chandler-Names still burn in Europe, and I fear they may find sympathy with the Ministries. No matter. If the Chandler ever surfaces, I will be here with my little knife to trim his wick.'",
+  "dove": "recipes/leiter.azita.foe.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There was a cast-off Worm-skin in the White Museum - where the Bureau kept the bones of its trophies. That's the closest I'd ever got to a Worm in expansive mode. I've been a lot closer since. I can't say I enjoy it. But the work needs doing.'",
+  "dove": "recipes/leiter.connie.foe.nowhere.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'There was more mercy in me once. No more.'",
+  "dove": "recipes/leiter.chaima.mission.corrivality.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There was something big under the Brecons. Call it a Stone-name. Call it a Coils-child. Call it a failed dragon… long gone, half-eaten. But a lot of it left. I saw it reaped. It'll serve us well. We are doing good work out there. But I still dream about the lines of it against the moon.'",
+  "dove": "recipes/leiter.arthur.mission.stone.consumed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This isn't the work I was born to do, but it's damned sure the work I was <i>made</i> for. I'm just back from Nantes - what's left of it. The place was overrun with the speechless dead. So many of them… but a lot fewer now. It's good work, and I'm good at it.'",
+  "dove": "recipes/leiter.arthur.foe.devourers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This looting of god-bones… there is something grubby about it. But I knew that leaving the Bureau wouldn't really make things less complicated. We do what we must, not what we want. Using what's left of the gods-from-stone… it gives us more choice about 'must'. I am tired of compromises. But I do what I must.'",
+  "dove": "recipes/leiter.connie.resigned.mission.stone.consumed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'This looting of god-bones… there is something grubby about it. But at the Bureau I learnt that we do what we must, not what we want. Using what's left of the gods-from-stone… it gives us more choice about 'must'. I am tired of compromises. But I do what I must.'",
+  "dove": "recipes/leiter.connie.mission.stone.consumed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'We <i>could</i> buy from the Ministries or the Incorporates. They're not Hours; it's not against our founding principles. But I like our independence. I've set up our own networks - our own suppliers… I had a lot to work with already.'",
+  "dove": "recipes/leiter.azita.mission.autarchy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'We found an Ysien Insidiate in Vauxhall last week. Swam all the way up the Thames. She was looking round the National Gallery when we took her in. Know what she said? 'Ys will look like this, one day.' Can't get it out of me head.'",
+  "dove": "recipes/leiter.douglas.foe.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'We knew that peace would not be possible. Berlin is gone; Europe is lost; the West and the East are strange gold and stranger steel. But our caution has kept us almost unscathed. We will wait beneath the tramplings of the great like the cicada beneath the leaf. When it ends, we will endure.'",
+  "dove": "recipes/leiter.agdistis.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'We might have made more of the opportunities the war granted us. But I have honoured the Institute's scruples. And our funds are sufficient for our needs. Still, I hope the Institute will make better use of my talents, another time.'",
+  "dove": "recipes/leiter.fraser.mission.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'We've had to take it easy on the khalvites because… you know… the Persistent. I suppose there are always compromises. But I don't like it.'",
+  "dove": "recipes/leiter.connie.foe.devourers.echidna.persistent.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Well look if I'm goin' to spend my money, I can't think of a better use for it than crushing Worms. And if I'm goin' to spend the Institute's money, rather that than my money! So all comin' up roses, sort of thing.'",
+  "dove": "recipes/leiter.dagmar.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Well, it's not exactly what I expected, but I never claimed to be a prophet. It's for the best. Without our work, I doubt we'd see one month still stitched to another. The new powers will settle down in time, as they always do, and join with whatever uncounted Hours emerge from night. Still no sign of the Chandler, either, I notice. I think that's for the best, too.'",
+  "dove": "recipes/leiter.arun.mission.better.gods.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'What was it I used to say? 'It's always too late, eventually? But until then it never is?' The servants of the Duties, shorn of the Calyptra's protection, scurrying about like ants without a queen; they're still trying to silence the dreamer and the dream… but it's too late; too late.'",
+  "dove": "recipes/leiter.arun.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'When I agreed to join this Institute, I had no idea how much I would have to talk about Worms. It is distasteful.'",
+  "dove": "recipes/leiter.coquille.foe.nowhere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'When I dwelt among the Hooded Princes, I was shielded from war. It was not very interesting. Now, the work is challenging sometimes, but I have made us rich: I have made us all rich.'",
+  "dove": "recipes/leiter.coquille.mission.corrivality.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'When there are insects in one's kitchen, one does not consume them. One takes the appropriate measures. I have helped the Institute take those measures…'",
+  "dove": "recipes/leiter.morgen.foe.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'With so many uncounted Hours, the Mansus-dwellers go ungoverned… although fortunately, many of them are missing too. I have co-ordinated with the Duties, across Europe and beyond… and the nights have become a little less lively.'",
+  "dove": "recipes/leiter.aladim.foe.devourers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'With the Madrugad among the Hours uncounted… my Reckoner friends and I have had room to wriggle. I've been arranging for the distribution of years, in secret. It won't last. We'll have to find a new paradigm when History is ravelled up again. But for now drink deep, my dears, drink deep!'",
+  "dove": "recipes/leiter.arun.ally.reckoners.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You will recall I made a little friend at the opera - that singer who had the Cross-nature? Well, she has gone on to distinguish herself, and our friendship has… <i>persisted</i>.'",
+  "dove": "recipes/leiter.morgen.ally.carapace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You've no idea what a relief it is, not to wonder if it's the Bureau, every time I hear the bell jangle in the shop. That said, I've had to drop my prices for some of the really good stuff… but it's the mission that's important, of course. Wisdom wants to wander, and all that.'",
+  "dove": "recipes/leiter.corso.mission.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ys is the enemy of consistency. That does make them the enemy of Eternity. But it also makes them the enemy of librarians.'",
+  "dove": "recipes/leiter.serena.foe.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ys might have been the greatest danger we had ever faced. It was wise of us to make common cause with them. And early indications are that trade with them will be very profitable - very profitable indeed. No cause for concern, there. I understand how to safeguard our interests and maintain our necessary quarantines.'",
+  "dove": "recipes/leiter.fraser.ally.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'… the last shield of the Marches... Calyptra… not our enemy… truth, the final flower…'",
+  "dove": "recipes/leiter.rowena.persistent.mission.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis' ideals were not reflected in the Institute's founding principles. He is not an enthusiastic Secretary Salvant; but he is a dutiful one, employing his healing arts as the Institute directs.",
+  "dove": "recipes/leiter.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim did not see his ideals reflected in the Institute's founding principles. He has faithfully carried messages to the Institute's allies and spoken on its behalf to the other branches of the Watchman's Tree. But, particularly now the Vagabond is acknowledged to be among the uncounted Hours, this son of the Rose is unlikely to stay with the Institute much longer.",
+  "dove": "recipes/leiter.aladim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur's ideals were not reflected in the Institute's founding principles, but he has long been a good soldier, and he will serve dutifully as Vigilant… until, perhaps, one day he is required to compromise his principles one last time.",
+  "dove": "recipes/leiter.arthur.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita would have liked the Institute to choose another path. But Azita has always been morally flexible and commercially motivated. As long as it is profitable for her to work with the Institute, she will do so - and the Institute will benefit in turn from her superb network of contacts.",
+  "dove": "recipes/leiter.azita.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Elie's schemes have been frustrated; the Institute is not what she hoped. Elie has lifetimes of patience to draw on; but her remortal status has given her a new sense of urgency, and she will not be content to let the Institute go its own way for very much longer.",
+  "dove": "recipes/leiter.elie.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima would have chosen something other than this. But for now, she hunts the Institute's enemies, and she keeps her peace.",
+  "dove": "recipes/leiter.chaima.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille's preferences are not reflected in the Lighthouse Institute's mission or position. Now and then, she is vocal in her petulance. But generally she still finds it all 'sufficiently diverting'.",
+  "dove": "recipes/leiter.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso can't find anyone to agree with his admittedly loosely held philosophical positions. Twice he's thrown a sulk and refused to attend meetings. Mostly he just gets on with it - and uses the Institute's connections to find unusual books after the wreck of the Wars.",
+  "dove": "recipes/leiter.corso.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar doesn't have much interest in the Institute's goals, though apparently it's a useful tax dodge. She did manage to get meetings held at her estate, until she started asking for contributions to fix the roof.",
+  "dove": "recipes/leiter.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas is disappointed about the Institute's direction, but he carries out his duties with weary doggedness.",
+  "dove": "recipes/leiter.douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Echidna is silent in every meeting. It is impossible to be certain what she actually thinks of the Institute. Other members have begun to talk about whether a Secretary Persistent is actually necessary at all… but they don't talk about it in Echidna's presence.",
+  "dove": "recipes/leiter.echidna.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan's ideals don't have much in common with the ideals of the Institute; but he remembers the days of the Curia, the days when Hush House was a place of refuge and healing; he remembers the lights on the water, the laughter from the servants' quarters; he knows those days will never come again; but he keeps his faith.",
+  "dove": "recipes/leiter.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser has been emphatic in his disappointment that the Institute does not engage with the Carapace Cross. But for now, his and the Institute's relationship remains mutually beneficial and mutually profitable.",
+  "dove": "recipes/leiter.fraser.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald attends every meeting of the Institute, to thunder his complaints about its principles, its operations, its other founders… it seems unlikely that he would enjoy the meetings nearly as much without so many things to complain about.",
+  "dove": "recipes/leiter.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "It might be that some days, Connie wishes she'd stayed at the Suppression Bureau. But she's grown used to compromise. She'll work with the Lighthouse Institute until they come to a parting of the ways.",
+  "dove": "recipes/leiter.connie.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Morgen seems increasingly bored by the Institute's work. She may not remain Secretary Persistent very much longer. But a great deal has changed in the world: perhaps it's time to learn whether the Institute really needs a Secretary Persistent at all.",
+  "dove": "recipes/leiter.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena rarely attends meetings in person. When she does, she speaks elliptically, pleadingly, sometimes wisely. She licks her lips, desperately. Her beauty is moonlight, mirror, bone.",
+  "dove": "recipes/leiter.rowena.persistent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena was disappointed to see that the Institute was not what she hoped: not a true heir to the Curia, to the St Rhonwen Trust, or any of her other shadowy schemes. But she works with it as best she can. Serena has always been a pragmatist.",
+  "dove": "recipes/leiter.serena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute's mission and principles were not Arun's. But it has always been very difficult to determine what exactly Arun's principles actually <i>are</I>. He will work with the Institute, leashing or releasing its secrets, wreathing its operations in his customary riddles. Perhaps, one day, he will be its last and longest surviving member.",
+  "dove": "recipes/leiter.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Yvette doesn't really know what she is doing here at the Institute. Yvette fears she might be a pawn. One day, Yvette will be something unexpected.",
+  "dove": "recipes/leiter.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary sits miserably silent in meetings, clearly troubled at the direction the Institute has taken. 'I must stay cold,' he whispers sometimes.",
+  "dove": "recipes/leiter.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "With appropriate ink, the process is more effective.",
+  "dove": "recipes/manuscript.soph.improve.anbary.lapidary.desc",
+  "ricorre": 73
+ },
+ {
+  "en": "Carve inky knowledge into the paper. [This manuscript will satisfy Edge and Disciplines of the Hammer Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Edge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.disciplines.thehammer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carve inky knowledge into the paper. [This manuscript will satisfy Edge and Disciplines of the Scar Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Edge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.disciplines.thescar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carve inky knowledge into the paper. [This manuscript will satisfy Edge and Ragged Crossroads Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Edge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.raggedcrossroads.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carve inky knowledge into the paper. [This manuscript will satisfy Edge and Sharps Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Edge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.sharps.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carve inky knowledge into the paper. [This manuscript will satisfy Edge and Sickle & Eclipse Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Edge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.sickle.eclipse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Consume ink and paper to create a manuscript that I can use to delight visitors. [This manuscript will satisfy Grail and Desires & Dissolutions Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Grail aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.desires.dissolutions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Consume ink and paper to create a manuscript that I can use to delight visitors. [This manuscript will satisfy Grail and Hyksos Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Grail aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.hyksos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Consume ink and paper to create a manuscript that I can use to delight visitors. [This manuscript will satisfy Grail and Orchids & Narcotics Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Grail aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.orchids.narcotics.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Consume ink and paper to create a manuscript that I can use to delight visitors. [This manuscript will satisfy Grail and The Great Signs and the Great Scars Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Grail aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.thegreatsignsandthegreatscars.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ ink and paper to create a manuscript that I can use to enlighten visitors. [This manuscript will satisfy Lantern and Auroral Contemplations Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Lantern aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.auroralcontemplations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ ink and paper to create a manuscript that I can use to enlighten visitors. [This manuscript will satisfy Lantern and Ericapaean Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Lantern aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.ericapaean.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ ink and paper to create a manuscript that I can use to enlighten visitors. [This manuscript will satisfy Lantern and Glaziery & Lightsmithing Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Lantern aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.glaziery.lightsmithing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ ink and paper to create a manuscript that I can use to enlighten visitors. [This manuscript will satisfy Lantern and Inks of Revelation Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Lantern aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.inks.revelation.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ ink and paper to create a manuscript that I can use to enlighten visitors. [This manuscript will satisfy Lantern and Sacra Solis Invicti Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Lantern aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.sacrasolisinvicti.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ ink and paper to create a manuscript that I can use to enlighten visitors. [This manuscript will satisfy Lantern and Watchman's Paradoxes Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Lantern aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.watchmansparadoxes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ ink and paper to create a manuscript that I can use to enlighten visitors. [This manuscript will satisfy Sky and Applebright Euphonies Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.applebrighteuphonies.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Guide visitors down the ink-path through unknowing's night. [This manuscript will satisfy Moon and Edicts Martial Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moon aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.edictsmartial.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Guide visitors down the ink-path through unknowing's night. [This manuscript will satisfy Moon and Hill & Hollow Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moon aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.hill.hollow.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Guide visitors down the ink-path through unknowing's night. [This manuscript will satisfy Moon and Maggephene Mysteries Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moon aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.maggephenemysteries.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Guide visitors down the ink-path through unknowing's night. [This manuscript will satisfy Moon and Sea Stories Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moon aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.seastories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Guide visitors down the ink-path through unknowing's night. [This manuscript will satisfy Moon and Tridesma Hiera Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moon aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.tridesmahiera.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Guide visitors down the ink-path through unknowing's night. [This manuscript will satisfy Moon and Wolf Stories Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moon aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.wolfstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink and paper might be combustible, but knowledge endures. [This manuscript will satisfy Forge and Bells & Brazieries Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Forge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.bells.brazieries.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink and paper might be combustible, but knowledge endures. [This manuscript will satisfy Forge and Deep Mandaic Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Forge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.mandaic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink and paper might be combustible, but knowledge endures. [This manuscript will satisfy Forge and Meniscate Reflections Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Forge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.meniscatereflections.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink and paper might be combustible, but knowledge endures. [This manuscript will satisfy Forge and Pyroglyphics Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Forge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.pyroglyphics.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink and paper might be combustible, but knowledge endures. [This manuscript will satisfy Forge and Transformations & Liberations Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Forge aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.transformations.liberations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink does not learn. Paper does not know. Yet knowledge passes between them like a handclasp. [This manuscript will satisfy Rose and Inks of Power Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Rose aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.inks.power.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink does not learn. Paper does not know. Yet knowledge passes between them like a handclasp. [This manuscript will satisfy Rose and Path & Pilgrim Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Rose aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.path.pilgrim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink does not learn. Paper does not know. Yet knowledge passes between them like a handclasp. [This manuscript will satisfy Rose and Pearl & Tide Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Rose aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.pearl.tide.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink does not learn. Paper does not know. Yet knowledge passes between them like a handclasp. [This manuscript will satisfy Rose and Sand Stories Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Rose aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.sandstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink is paper's dance. Knowledge is a lamp. [This manuscript will satisfy Moth and Edicts Liminal Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moth aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.edictsliminal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink is paper's dance. Knowledge is a lamp. [This manuscript will satisfy Moth and Ramsund Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moth aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.ramsund.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink is paper's dance. Knowledge is a lamp. [This manuscript will satisfy Moth and Resurgences & Emergences Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moth aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.resurgences.emergences.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink is paper's dance. Knowledge is a lamp. [This manuscript will satisfy Moth and Sabazine Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moth aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.sabazine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink is paper's dance. Knowledge is a lamp. [This manuscript will satisfy Moth and Sacra Limiae Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moth aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.sacralimiae.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink is paper's dance. Knowledge is a lamp. [This manuscript will satisfy Moth and Solutions & Separations Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Moth aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.solutions.separations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper's blood. Writing; memory's scar. [This manuscript will satisfy Nectar and Cracktrack Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Nectar aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.cracktrack.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper's blood. Writing; memory's scar. [This manuscript will satisfy Nectar and Insects & Nectars Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Nectar aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.insects.nectars.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper's blood. Writing; memory's scar. [This manuscript will satisfy Nectar and Leaves & Thorns Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Nectar aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.leaves.thorns.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper's blood. Writing; memory's scar. [This manuscript will satisfy Nectar and Rites of the Roots Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Nectar aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.rites.theroots.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper's blood. Writing; memory's scar. [This manuscript will satisfy Nectar and Spices & Savours Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Nectar aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.spices.savours.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper; testament. [This manuscript will satisfy Winter and Inks of Containment Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Winter aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.inks.containment.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper; testament. [This manuscript will satisfy Winter and Killasimi Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Winter aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.killasimi.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper; testament. [This manuscript will satisfy Winter and Putrefactions & Calcinations Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Winter aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.putrefactions.calcinations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper; testament. [This manuscript will satisfy Winter and Quenchings & Quellings Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Winter aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.quenchings.quellings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper; testament. [This manuscript will satisfy Winter and Rhyme & Remembrance Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Winter aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.rhyme.remembrance.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ink; paper; testament. [This manuscript will satisfy Winter and Snow Stories Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Winter aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.snowstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge pursued through paper's labyrinth, pinned with ink-darts. [This manuscript will satisfy Scale and Coil & Chasm Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Scale aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.coil.chasm.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge pursued through paper's labyrinth, pinned with ink-darts. [This manuscript will satisfy Scale and Henavek Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Scale aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.henavek.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge pursued through paper's labyrinth, pinned with ink-darts. [This manuscript will satisfy Scale and Horns & Ivories Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Scale aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.horns.ivories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge pursued through paper's labyrinth, pinned with ink-darts. [This manuscript will satisfy Scale and Pentiments & Precursors Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Scale aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.pentiments.precursors.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge pursued through paper's labyrinth, pinned with ink-darts. [This manuscript will satisfy Scale and Serpents & Venoms Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Scale aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.serpents.venoms.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge pursued through paper's labyrinth, pinned with ink-darts. [This manuscript will satisfy Scale and Stone Stories Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Scale aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.stonestories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Anbary & Lapidary Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.anbary.lapidary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Furs & Feathers Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.furs.feathers.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Ouranoscopy Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.ouranoscopy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Purifications & Exaltations Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.purifications.exaltations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Sights & Sensations Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.sights.sensations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Sky Stories Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.skystories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Stitching & Binding Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.stitching.binding.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge's weave, ink's pattern, paper's wide expanse. [This manuscript will satisfy Sky and Strings & Songs Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Sky aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.strings.songs.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mark paper with ink to create a manuscript that will open knowledge to visitors. [This manuscript will satisfy Knock and Door & Wall Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Knock aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.door.wall.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mark paper with ink to create a manuscript that will open knowledge to visitors. [This manuscript will satisfy Knock and Glassblowing & Vesselcrafting Interest from visitors. Skill level will determine the manuscript quality, but books have souls too... using an ink with Knock aspect will effectively double your Skill.]",
+  "dove": "recipes/manuscript.write.glassblowing.vesselcrafting.startdescription",
+  "ricorre": 1
+ }
+]

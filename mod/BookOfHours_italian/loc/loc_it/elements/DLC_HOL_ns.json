@@ -1,0 +1,687 @@
+{
+ "elements": [
+  {
+   "id": "n.casket",
+   "label": "Lo Scrigno del Messaggero",
+   "desc": "Cosa è successo con lo Scrigno del Messaggero fra le colline sopra Cluj?"
+  },
+  {
+   "id": "n.casket.cracked",
+   "label": "Lo Scrigno Incrinato",
+   "desc": " I sigilli sullo scrigno del Messaggero si stanno incrinando, e sebbene non sia ancora libero, si vede ora talvolta nel mondo delle immagini – inaspettatamente sullo sfondo di fotografie, avvolto di fiamme in dipinti pericolosamente ispirati."
+  },
+  {
+   "id": "n.casket.sealed",
+   "label": "Lo Scrigno Sigillato",
+   "desc": "I sigilli sullo scrigno del Messaggero sono stati rinnovati. La sua immagine è svanita dalle fotografie in cui appariva. Solo una raffigurazione è rimasta, ed è stata affidata alla mia cura."
+  },
+  {
+   "id": "n.casket.open",
+   "label": "Lo Scrigno Aperto",
+   "desc": "Il Messaggero è libero dal suo scrigno. La sua immagine si vede ora nelle fotografie, nei dipinti, perfino negli specchi – e in una raffigurazione che è stata affidata alla mia cura."
+  },
+  {
+   "id": "n.casket.firmlysealed",
+   "label": "Lo Scrigno del Messaggero: Saldamente Sigillato",
+   "desc": "."
+  },
+  {
+   "id": "n.casket.freed",
+   "label": "Il Messaggero in Libertà"
+  },
+  {
+   "id": "n.casket.columba",
+   "label": "Il Messaggero Sotterraneo"
+  },
+  {
+   "id": "n.revolution",
+   "label": "Rivoluzione della Soglia",
+   "desc": "Cosa è successo con la ribellione nei Confini? I nostri visitatori hanno aiutato la Légion du Seuil a soffocarla? O abbiamo lasciato che i ribelli – la setta scissionista zurvanista che segue il «Leone Quadruplice» – diventassero più forti?"
+  },
+  {
+   "id": "n.revolution.surging",
+   "label": "Rivoluzione della Soglia: In Crescita",
+   "desc": "La setta scissionista zurvanista che segue il «Leone Quadruplice» è diventata più forte. Potrebbe ritagliarsi una propria piccola Soglia nei Confini vicino a Meshad."
+  },
+  {
+   "id": "n.revolution.failing",
+   "label": "Rivoluzione della Soglia: Vacillante",
+   "desc": "La Légion du Seuil sta ristabilendo l’ordine nei Confini. La setta scissionista ribelle zurvanista che segue il «Leone Quadruplice» è diventata disperata."
+  },
+  {
+   "id": "n.revolution.crushed",
+   "label": "Rivoluzione della Soglia: Schiacciata",
+   "desc": "La Légion du Seuil ha schiacciato la setta scissionista zurvanista che causava tanti guai. L’ordine è stato ristabilito nei Confini… e gli zurvanisti restano fedeli al Nome-Leonfabbro che seguono."
+  },
+  {
+   "id": "n.revolution.ascendant",
+   "label": "Rivoluzione della Soglia: Ascendente",
+   "desc": "La Légion du Seuil si è ritirata da una nuova, piccola Soglia nei Confini, ritagliata da una setta scissionista zurvanista. Il Nome detto «Leone Quadruplice» ha ora un proprio dominio – non è chiaro se resti fedele al Leonfabbro."
+  },
+  {
+   "id": "n.revolution.lionsmith",
+   "label": "Rivoluzione della Soglia: Per il Leonfabbro",
+   "desc": "La setta scissionista zurvanista che causava problemi nei Confini ha abbandonato pacificamente le proprie ambizioni onirosecessioniste… a quanto pare perché il Nome detto «Leone Quadruplice» ha rinnovato la propria devozione al Leonfabbro."
+  },
+  {
+   "id": "n.revolution.chandler",
+   "label": " Rivoluzione della Soglia: Per il Chandler",
+   "desc": "La setta scissionista zurvanista che causava problemi nei Confini ha abbandonato bruscamente le proprie ambizioni onirosecessioniste… a causa, a quanto pare, delle promesse fatte al «Leone Quadruplice» dagli emissari del Chandler."
+  },
+  {
+   "id": "n.debt",
+   "label": "Il Debito Perdonabile",
+   "desc": "I Conteggiatori di Kaunas continuano a condurre la loro guerra di malavita gli uni contro gli altri. La causa – ed è un segreto sempre più mal custodito – è che l’equilibrio di potere è stato sconvolto… da un modo per sottrarre anni supplementari all’Ora chiamata Madrugad."
+  },
+  {
+   "id": "n.debt.democratise",
+   "label": "Il Wangle della Folla",
+   "desc": "Il solennemente battezzato «Wangle», grazie al quale i mortali potevano guadagnare anni di vita in più nonostante i limiti della Madrugad, è stato silenziosamente riprodotto, e la tecnica è stata divulgata nella clandestinità da Arun Peel e dai suoi complici. Sarà fonte di un caos silenzioso."
+  },
+  {
+   "id": "n.debt.profit",
+   "label": "Un Wangle Redditizio",
+   "desc": "Azita Bukhara ha appreso il segreto del «Wangle», il feit con cui i mortali possono guadagnare anni extra di vita nonostante i limiti della Madrugad. Si aspetta di trarne un grande profitto."
+  },
+  {
+   "id": "n.debt.cease",
+   "label": "Il Wangle Disfatto",
+   "desc": "Il Bureau di Soppressione ha chiuso la scappatoia attraverso cui i mortali potevano guadagnare anni extra di vita nonostante i limiti della Madrugad. Un po’ più di morte; molta più stabilità."
+  },
+  {
+   "id": "n.debt.continue",
+   "label": "Il Debito Perdonato?",
+   "desc": "Qualunque cosa abbiano fatto o saputo i Conteggiatori di Kaunas, abbiamo distolto lo sguardo."
+  },
+  {
+   "id": "n.skin",
+   "label": "Abecassis?",
+   "desc": "Cosa è successo ad Abecassis il Labhite?"
+  },
+  {
+   "id": "n.skin.slain.azita",
+   "label": "Il Dovere di Azita",
+   "desc": "Il labhite Abecassis è morto, ucciso da Azita al servizio del Colonel. Abecassis si nutriva al seno di Echidna, la Madre dei Mostri – ed Echidna non è per niente colpita dall’intervento di Azita."
+  },
+  {
+   "id": "n.skin.slain.chaima",
+   "label": "La Pietà di Chaima",
+   "desc": "Il labhite Abecassis è morto, ucciso da Chaima come atto di cupa pietà. Abecassis si nutriva al seno di Echidna, la Madre dei Mostri – ed Echidna non è per niente colpita dall’intervento di Chaima."
+  },
+  {
+   "id": "n.skin.captured",
+   "label": "Il Prigioniero del Labirinto",
+   "desc": "Lt Moore ha reso Abecassis, il labhite alterato, prigioniero del Labirinto. Abecassis si nutriva al seno di Echidna, la Madre dei Mostri – ed Echidna si è adirata per la sua cattura."
+  },
+  {
+   "id": "n.skin.free",
+   "label": "Abecassis in Libertà",
+   "desc": "Il labhite alterato Abecassis è libero nel mondo, nel bene o nel male."
+  },
+  {
+   "id": "n.skin.slain.azita.punished",
+   "label": "La Punizione di Azita",
+   "desc": "L’Archivista interviene di rado nelle faccende del mondo più ampio, ma di tanto in tanto è necessario. Echidna si è vendicata di Azita, per l’uccisione del labhite Abecassis da parte di Azita. Azita non c’è più, ma Echidna può essere convocata per prestare i propri servigi all’Istituto del Faro."
+  },
+  {
+   "id": "n.skin.slain.chaima.punished",
+   "label": "La Punizione di Chaima",
+   "desc": "L’Archivista interviene di rado nelle faccende del mondo più ampio, ma di tanto in tanto è necessario. Echidna si è vendicata di Chaima, per l’uccisione del labhite Abecassis da parte di Chaima. Chaima non c’è più, ma Echidna può essere convocata per prestare i propri servigi all’Istituto del Faro."
+  },
+  {
+   "id": "n.skin.captured.punished",
+   "label": "La Punizione di Arthur",
+   "desc": "L’Archivista interviene di rado nelle faccende del mondo più ampio, ma di tanto in tanto è necessario. Echidna si è vendicata di Arthur, per la prigionia inflitta da Arthur al labhite Abecassis. Arthur non c’è più, ma Echidna può essere convocata per prestare i propri servigi all’Istituto del Faro."
+  },
+  {
+   "id": "n.skin.slain.azita.safe",
+   "label": "Salvezza per Azita",
+   "desc": "Azita ha ucciso il labhite Abecassis – ma è al sicuro dalla vendetta di Echidna."
+  },
+  {
+   "id": "n.skin.slain.chaima.safe",
+   "label": "Salvezza per Chaima",
+   "desc": "Chaima ha ucciso il labhite Abecassis – ma è al sicuro dalla vendetta di Echidna."
+  },
+  {
+   "id": "n.skin.captured.arthur.safe",
+   "label": "Salvezza per Arthur",
+   "desc": "Arthur ha imprigionato il labhite Abecassis – ma è al sicuro dalla vendetta di Echidna."
+  },
+  {
+   "id": "n.skin.free.byezack",
+   "label": "Zachary, Addio",
+   "desc": "Zachary ha imparato lezioni di mutamento dalla faccenda con Abecassis – e ora se n’è andato nel cielo con le stirpi erranti della Croce. Forse è stato salvato da qualcosa di molto peggio."
+  },
+  {
+   "id": "n.skin.free.concluded",
+   "label": "Una Muta",
+   "desc": "Il labhite Abecassis non si vede più. Molto probabilmente si è unito al seguito di Echidna. Zachary resta."
+  },
+  {
+   "id": "n.mystique",
+   "label": "La Mistica Particolare",
+   "desc": "C’è stata di recente una curiosa moda per le nuove organizzazioni religiose… incluso uno strano gruppo che si fa chiamare l’Alba d’Avorio."
+  },
+  {
+   "id": "n.mystique.revealed",
+   "label": "Elie e Ys",
+   "desc": "Black Elie – ex Obliviat, ex Matriarca della Sorellanza, e Lunga del Nettare da sempre – è dietro il culto detto l’Alba d’Avorio. Intende consegnare Yvette Southey a Ys. Insiste che questo servirà alla cosiddetta causa dell’«Uccello» – la causa della stabilità."
+  },
+  {
+   "id": "n.mystique.helped",
+   "label": "Yvette a Ys",
+   "desc": "Black Elie ha condotto Yvette a Ys, per assecondare i loro piani. Se aveva ragione, quei piani potrebbero includere la protezione di Brancrug, ma non del continente più ampio."
+  },
+  {
+   "id": "n.mystique.thwarted",
+   "label": "La Fine di Elie",
+   "desc": "I piani di Black Elie sono finiti. Forse lo è anche lei. Ma è sempre stata una sopravvissuta."
+  },
+  {
+   "id": "n.mystique.concluded",
+   "label": "L’Ineffabile Mistica",
+   "desc": "Qualunque cosa fosse dietro la crescita delle organizzazioni religiose, non è più affar nostro."
+  },
+  {
+   "id": "n.eye",
+   "label": "L’Occhio Senza Catene",
+   "desc": "Cosa si cela dietro le manifestazioni a Messana?"
+  },
+  {
+   "id": "n.eye.revealed",
+   "label": "Senza Occhi a Messana",
+   "desc": "Lucia la Senza Occhi, nome della Meniscate, ha preso l’abitudine di donare la vista ai mortali – anche se ciò potrebbe non essere il desiderio della Meniscate."
+  },
+  {
+   "id": "n.eye.loyal",
+   "label": "Senza Occhi e Leale",
+   "desc": "Lucia la Senza Occhi rimarrà un Nome fedele della Meniscate, nonostante il suo disagio per il trattamento riservato a Ghirbi, sua compagna Nome."
+  },
+  {
+   "id": "n.eye.betray",
+   "label": "Senza Occhi tra le Fiamme",
+   "desc": "Lucia la Senza Occhi tratterà con il Chandler. Forse muterà la propria fedeltà; forse il Chandler libererà la povera Ghirbi. Ci saranno cambiamenti. Ma di certo il Chancel non verrà compromesso?"
+  },
+  {
+   "id": "n.eye.independent",
+   "label": "Senza Occhi e Libera",
+   "desc": "Lucia la Senza Occhi potrebbe adoperarsi per liberare la povera Ghirbi – anche se ciò mettesse alla prova la sua fedeltà alla Meniscate."
+  },
+  {
+   "id": "n.endeavour",
+   "label": "L’Impresa Reale",
+   "desc": "Cosa si cela nel cuore del grande progetto del Nuovo Re?"
+  },
+  {
+   "id": "n.endeavour.concluded",
+   "label": "L’Impresa Reale, Conclusa",
+   "desc": "Qualunque cosa stia tramando il Nuovo Re, non ci interessa più."
+  },
+  {
+   "id": "n.endeavour.sabotaged",
+   "label": "L’Impresa Reale: Sabotata!",
+   "desc": "Il Nome-Impresa Fissifer è gravemente ferito – e un frammento di lui è stato consegnato a una potenza continentale."
+  },
+  {
+   "id": "n.endeavour.revealed",
+   "label": "L’Impresa Reale, Rivelata",
+   "desc": "Il Nome-Impresa Fissifer è gravemente ferito – e la natura del progetto del Nuovo Re è stata messa a nudo per chi ha occhi per vedere."
+  },
+  {
+   "id": "n.endeavour.protected",
+   "label": "L’Impresa Reale, Protetta",
+   "desc": "Il Nome-Impresa Fissifer è stato protetto. L’Impresa Reale procede secondo programma."
+  },
+  {
+   "id": "n.heist",
+   "label": "Il Colpo all’Oriflamme",
+   "desc": "Cosa è successo davvero all’Oriflamme’s? Un colpo? Un falso? Una frode? Niente di niente?"
+  },
+  {
+   "id": "n.heist.concluded",
+   "label": "Il Colpo all’Oriflamme, Concluso",
+   "desc": "Cosa è successo davvero all’Oriflamme’s? Non lo sapremo mai."
+  },
+  {
+   "id": "n.heist.investigated",
+   "label": "Il Colpo all’Oriflamme, Indagato",
+   "desc": "L’autrice del Colpo all’Oriflamme era Dagmar von Nagelsburg. Potrei denunciarla all’Oriflamme’s, probabilmente per una ricompensa. Potrei prometterle il mio silenzio, guadagnandomi la sua fedeltà all’Istituto. Oppure potrei lasciar perdere la faccenda."
+  },
+  {
+   "id": "n.heist.exposed",
+   "label": "Il Segreto di Dagmar Svelato",
+   "desc": "L’autrice del Colpo all’Oriflamme era Dagmar von Nagelsburg… e ora che l’Oriflamme’s lo sa, sarà nei guai."
+  },
+  {
+   "id": "n.heist.concealed",
+   "label": "Il Segreto di Dagmar Custodito",
+   "desc": "L’autrice del Colpo all’Oriflamme era Dagmar von Nagelsburg… ma il suo segreto è al sicuro."
+  },
+  {
+   "id": "n.absent",
+   "label": "L’Amica Assente",
+   "desc": "Medusa infesta i giorni, disperatamente in cerca di una differenza. Qual è dunque la risposta al suo enigma? Come cambierà? A volte, altri notabili oltre all’Archivista prendono determinazioni proprie…"
+  },
+  {
+   "id": "n.absent.eternity",
+   "label": "Ciò che è Perduto: «Eternità»",
+   "desc": "Medusa è cambiata; ha messo da parte la pietra del suo lungo peccato; è entrata nella Storia."
+  },
+  {
+   "id": "n.absent.cross",
+   "label": "Ciò che è Perduto: «La Croce»",
+   "desc": "Medusa ha riconosciuto la propria natura, e si è riunita alla Croce del Carapace."
+  },
+  {
+   "id": "n.absent.light",
+   "label": "Ciò che è Perduto: «Luce»",
+   "desc": "La natura di Medusa diventerà trasparente per chi ha occhi per vedere. Forse, finalmente, sarà sicuro posarvi lo sguardo."
+  },
+  {
+   "id": "n.absent.sevencoils",
+   "label": "Ciò che è Perduto: «Sette-Spire»",
+   "desc": "Medusa ha abbandonato il suo passato lapideo, ed è divenuta qualcosa di più umano – o qualcosa di più mortale? Resta da vedere."
+  },
+  {
+   "id": "n.absent.medusasdeath",
+   "label": "Ciò che è Perduto: «La Morte di Medusa»",
+   "desc": "Medusa lascia il mondo. Rimarranno solo sei Ligeian… per un certo tempo."
+  },
+  {
+   "id": "n.lark",
+   "label": "L’Allodola Incompiuta",
+   "desc": "Quali segreti hanno reso possibile il capolavoro di Zuthi Zidane?"
+  },
+  {
+   "id": "n.lark.revealed",
+   "label": "L’Allodola Rivelata",
+   "desc": "Zuthi rubava segreti dal tesoro di Crooky, Nome del Corvo-di-Spiaggia. Questi segreti sono stati condivisi con i venti – nonostante il rischio di guerra fra le Ore."
+  },
+  {
+   "id": "n.lark.returned",
+   "label": "L’Allodola Restituita",
+   "desc": "Zuthi rubava segreti dal tesoro di Crooky, Nome del Corvo-di-Spiaggia. Questi segreti avrebbero potuto significare guerra fra le Ore… e così saranno restituiti sani e salvi a Crooky."
+  },
+  {
+   "id": "n.lark.kept",
+   "label": "L’Allodola Trattenuta",
+   "desc": "Zuthi rubava segreti dal tesoro di Crooky, Nome del Corvo-di-Spiaggia. Ora questi segreti li ha Morgen."
+  },
+  {
+   "id": "n.lark.kept.serena",
+   "label": "L’Allodola Messa al Sicuro",
+   "desc": "Zuthi rubava segreti dal tesoro di Crooky, Nome del Corvo-di-Spiaggia. Ora questi segreti li ha Serena – o forse la Fondazione St Rhonwen."
+  },
+  {
+   "id": "n.lark.concluded",
+   "label": "L’Allodola Abbandonata",
+   "desc": "Non sapremo mai cosa Zuthi abbia imparato o intendesse."
+  },
+  {
+   "id": "n.rising",
+   "label": "Il Tempo dell’Ascesa",
+   "desc": "L’Oracolo del Tempo dell’Ascesa sembra pronunciare vere profezie. È saggio darvi ascolto?"
+  },
+  {
+   "id": "n.rising.heard",
+   "label": "L’Oracolo della Madre Pallida",
+   "desc": "«È dono del più giovane Oculate che la Madre dei Mostri custodisca il Gioiello di Ys al riparo dalla Madre Pallida.» La «Madre dei Mostri» è Echidna la Ligeiana, la «più giovane Constable-Oculate» è Connie Lee, ma il resto?"
+  },
+  {
+   "id": "n.rising.interpreted",
+   "label": "L’Oracolo della Madre Pallida, Interpretato",
+   "desc": "«È profetizzato che se Rowena incontrasse Yvette – il Gioiello di Ys – Rowena la divorerebbe; ma che se Connie portasse Yvette da Echidna, Echidna terrebbe Yvette al sicuro. Ys preferirebbe quest’ultima. È meglio rischiare che un giorno Yvette incontri la propria antenata, o privare Yvette della libertà e rischiare l’avanzata dei piani di Ys?"
+  },
+  {
+   "id": "n.rising.defied",
+   "label": "L’Oracolo Sfidato",
+   "desc": "Echidna non diventerà la tutrice di Yvette. Rowena è ora un problema di Yvette."
+  },
+  {
+   "id": "n.rising.accepted",
+   "label": "L’Oracolo Adempiuto",
+   "desc": "Echidna diventerà la tutrice di Yvette. Rowena non è più un problema per Yvette; Ys potrebbe esserlo per tutti gli altri."
+  },
+  {
+   "id": "n.rising.concluded",
+   "label": "Quale Oracolo?",
+   "desc": "Qualcuno ha mai tratto reale beneficio dal seguire il consiglio di un oracolo? Probabilmente stiamo meglio senza."
+  },
+  {
+   "id": "n.rising.connie.disillusioned",
+   "label": "L’Oracolo di Chi?",
+   "desc": "Questo oracolo era destinato a Connie Lee – ma Connie, disillusa dalla Vicenda dell’Arazzo del Frate, ha lasciato il Bureau."
+  },
+  {
+   "id": "n.horizon",
+   "label": "L’Altro Orizzonte",
+   "desc": "È davvero in giro nei Confini un emissario di Ys?"
+  },
+  {
+   "id": "n.horizon.met.dagmar",
+   "label": "Dagmar e l’Orizzonte",
+   "desc": "Dagmar ha incontrato l’emissario di Ys. Forse, un giorno, soddisferà la propria ambizione di visitare quel luogo…"
+  },
+  {
+   "id": "n.horizon.deported",
+   "label": "Orizzonte Perduto",
+   "desc": "L’emissario di Ys che si aggirava è stato rimandato alla sua casa oltre l’onda."
+  },
+  {
+   "id": "n.horizon.concluded",
+   "label": "Un Altro Orizzonte",
+   "desc": "Qualunque cosa sia successa con l’emissario di Ys che si aggirava è meglio dimenticarla."
+  },
+  {
+   "id": "n.invisible",
+   "label": "L’Opera Invisibile",
+   "desc": "Qualcuno tentò incautamente una rappresentazione dell’«Opera Invisibile», infestata dalla Falena, a Venezia. Cosa accadde?"
+  },
+  {
+   "id": "n.invisible.salvaged",
+   "label": "Una Salvezza Invisibile",
+   "desc": "La rappresentazione dell’«Opera Invisibile» a Venezia si concluse con successo, senza vittime note: un primato storico. Perfino le recensioni non furono uniformemente terribili, nonostante i problemi di illuminazione che sprofondarono il terzo atto nel buio. Ma una manciata di spettatori sono ora perseguitati da sogni di fiori bianchi e neri – il cui profumo li segue nel mondo della veglia..."
+  },
+  {
+   "id": "n.invisible.failed",
+   "label": "Una Debacle Invisibile",
+   "desc": "La rappresentazione dell’«Opera Invisibile» a Venezia si concluse prematuramente con un incendio dietro le quinte e un omicidio alla biglietteria. È il genere di cosa che di solito accade. Ma questa volta, anche una manciata di spettatori sono ora perseguitati da sogni di fiori bianchi e neri – il cui profumo li segue nel mondo della veglia..."
+  },
+  {
+   "id": "n.invisible.arrangement",
+   "label": "Un Accordo Invisibile",
+   "desc": "Un fragile accordo con i mercanti degli anni ha allentato, un poco, la presa di Calyptra."
+  },
+  {
+   "id": "n.invisible.alteration",
+   "label": "Un’Alterazione Invisibile",
+   "desc": "La democratizzazione del Wangle ha reso possibile allentare la presa di Calyptra. Potrebbe finire molto male."
+  },
+  {
+   "id": "n.invisible.corrivality",
+   "label": "Un Intrigo Invisibile",
+   "desc": "La faccenda a Venezia fu l’inizio di un serio dissidio tra Madrugad e la Falena – e i rispettivi alleati. Potrebbe essere l’inizio di qualcosa di catastrofico."
+  },
+  {
+   "id": "n.invisible.secrecy",
+   "label": "Un Vantaggio Invisibile",
+   "desc": "La Falena e altre due Ore senza nome hanno sfidato Calyptra a Venezia… ma i loro fiori del sonno sono appassiti."
+  },
+  {
+   "id": "n.invisible.concluded",
+   "label": "Una Conclusione Invisibile",
+   "desc": "Qualunque cosa sia successa a Venezia, resterà a Venezia."
+  },
+  {
+   "id": "n.rose",
+   "label": "La Rosa Screziata",
+   "desc": "Qual era il significato del fiore bianco e nero cresciuto nel deserto profondo?"
+  },
+  {
+   "id": "n.rose.revealed",
+   "label": "L’Uovo della Duna",
+   "desc": "La Vagabonda, insieme ad altre due Ore, si propone di sfidare Calyptra con un fiore che non è né nero né bianco. A tal fine, ha fatto appello a una vecchia alleanza con la Croce del Carapace…"
+  },
+  {
+   "id": "n.rose.haven",
+   "label": "«Adaptationes Mirabiles»",
+   "desc": "La Vagabonda, insieme ad altre due Ore, si propone di sfidare Calyptra con un fiore che non è né nero né bianco. Sperava che la Croce del Carapace curasse un giardino di quei fiori nella città caduta di Miah: ma preferiscono dimorarvi in pace, senza rischiare l’ira di Calyptra."
+  },
+  {
+   "id": "n.rose.garden",
+   "label": "«Dat Rosa Mel Apibus»",
+   "desc": "La Vagabonda, insieme ad altre due Ore, si propone di sfidare Calyptra con un fiore che non è né nero né bianco. Ha fatto appello a una vecchia alleanza: forse la Croce del Carapace curerà un giardino di quei fiori nella città caduta di Miah."
+  },
+  {
+   "id": "n.rose.concluded",
+   "label": "La Rosa Conclusa",
+   "desc": "Non conosceremo mai il significato del fiore bianco e nero cresciuto nel deserto profondo. Forse è meglio così."
+  },
+  {
+   "id": "n.apollo",
+   "label": "Apollo e Marsia",
+   "desc": "Ogni rappresentazione di «Apollo e Marsia» porta con sé qualcosa di perturbante. Cos’è, questa volta?"
+  },
+  {
+   "id": "n.apollo.glaeterfleoge",
+   "label": "La Donna dalle Ali di Gloria",
+   "desc": "Elodie, il soprano, ha intrapreso un cammino che potrebbe concludersi con l’emergere del suo sé alato interiore."
+  },
+  {
+   "id": "n.apollo.duendrazon",
+   "label": "La Donna Incessante",
+   "desc": "Elodie, il soprano, ha intrapreso un cammino che potrebbe concludersi con il suo ingresso nel Mansus come duendrazon."
+  },
+  {
+   "id": "n.apollo.concluded",
+   "label": "Apollo e Marsia: Un Palcoscenico Oscurato",
+   "desc": "Non abbiamo trovato nulla di interessante nelle conseguenze dell’opera."
+  },
+  {
+   "id": "n.saint",
+   "label": "Il Santo di Sandalo",
+   "desc": "Cosa è successo alla miracolosa immagine di legno nella chiesa di Strasburgo?"
+  },
+  {
+   "id": "n.saint.burnt",
+   "label": "Il Santo Arso",
+   "desc": "La miracolosa immagine di legno nella chiesa di Strasburgo fu bruciata in un incendio."
+  },
+  {
+   "id": "n.saint.buried",
+   "label": "Il Santo Sepolto",
+   "desc": "La miracolosa immagine di legno nella chiesa di Strasburgo fu sepolta nella terra."
+  },
+  {
+   "id": "n.saint.drowned",
+   "label": "Il Santo Annegato",
+   "desc": "La miracolosa immagine di legno nella chiesa di Strasburgo fu annegata nel fiume."
+  },
+  {
+   "id": "n.saint.dreams.diverted",
+   "label": "I Sogni Deviati",
+   "desc": "I sogni che il santo di legno porta sono stati rinchiusi al sicuro nel Mansus."
+  },
+  {
+   "id": "n.saint.dreams.accepted",
+   "label": "Un Libro di Sogni",
+   "desc": "I sogni che il santo di legno porta continuano a propagarsi; ma chi sogna ora si sveglia allegro e rinfrancato."
+  },
+  {
+   "id": "n.saint.extirpated",
+   "label": "La Croce in Fiamme",
+   "desc": "Il santo di legno è dimenticato, e la sua eredità probabilmente lo raggiungerà tra le fiamme."
+  },
+  {
+   "id": "n.saint.redder",
+   "label": "La Chiesa del Sole Più Rosso",
+   "desc": "È germogliata una nuova Chiesa del Sole più Rosso; una che onorerà l’eredità dell’immagine lignea del santo."
+  },
+  {
+   "id": "n.saint.concluded",
+   "label": "Il Santo Dimenticato",
+   "desc": "La miracolosa immagine lignea del santo potrebbe conservare ancora tutte le sue proprietà miracolose, ma per noi la faccenda è chiusa."
+  },
+  {
+   "id": "n.wood",
+   "label": "Il Dio nel Bosco",
+   "desc": "È successo altro al campo di salute nella Foresta Nera che si faceva chiamare il «Lyterion»?"
+  },
+  {
+   "id": "n.wood.investigated",
+   "label": "Il Dio Risvegliato",
+   "desc": "Liselotte sta «esaltando» umani consenzienti con l’impianto delle larve della stirpe Blomberende al Lyterion. È un male?"
+  },
+  {
+   "id": "n.wood.discouraged",
+   "label": "Il Dio Scoraggiato",
+   "desc": "Liselotte stava «esaltando» umani consenzienti con l’impianto delle larve della stirpe Blomberende. Le indagini delle autorità sul suo campo di salute l’hanno costretta a chiudere, ma potrebbe continuare altrove…"
+  },
+  {
+   "id": "n.wood.prevented",
+   "label": "Il Dio Abolito",
+   "desc": "Liselotte stava «esaltando» umani consenzienti con l’impianto delle larve della stirpe Blomberende. Ora che l’attenzione di Kitling Ripe è stata attirata da queste gustose leccornie ibride, il piano è condannato."
+  },
+  {
+   "id": "n.wood.assisted",
+   "label": "Il Dio <i>in pectore</i>",
+   "desc": "Liselotte stava «esaltando» umani consenzienti con l’impianto delle larve della stirpe Blomberende. Le indagini delle autorità sul suo campo di salute l’avevano costretta a chiudere, ma con l’aiuto di Padre Stanislav – e forse quello della Hush House – il piano continuerà."
+  },
+  {
+   "id": "n.wood.assisted.refused",
+   "label": "Il Dio in Esilio",
+   "desc": "Liselotte stava «esaltando» umani consenzienti con l’impianto delle larve della stirpe Blomberende. Le indagini delle autorità sul suo campo di salute l’avevano costretta a chiudere. Con l’aiuto di Padre Stanislav il piano potrebbe continuare, ma la Hush House non lo ospiterà."
+  },
+  {
+   "id": "n.wood.assisted.complete",
+   "label": "Il Dio nell’Alveare",
+   "desc": "Liselotte stava «esaltando» umani consenzienti con l’impianto delle larve della stirpe Blomberende. Le indagini delle autorità sul suo campo di salute l’avevano costretta a chiudere, ma con l’aiuto di Padre Stanislav il piano continuerà. Per ora, resta in letargo alla Hush House."
+  },
+  {
+   "id": "n.wood.concluded",
+   "label": "Il Dio Addormentato",
+   "desc": "Qualunque cosa stesse accadendo nella Foresta Nera, resta nella Foresta Nera."
+  },
+  {
+   "id": "n.tapestry",
+   "label": "L’Arazzo del Frate",
+   "desc": "Cosa è successo su al Lago Gladwyn?"
+  },
+  {
+   "id": "n.tapestry.investigated",
+   "label": "I Filamenti Insinuanti",
+   "desc": "La faccenda al Lago Gladwyn era opera dell’Haustorium – una nobile istituzione che «preserva ciò che altrimenti non sarebbe preservato», oppure un «inquietante branco di stregoni-fungo peruviani», a seconda dei gusti. Intenzionalmente o no, questo ha portato l’Haustorium e il Bureau di Soppressione a una nuova alleanza, con gran dispiacere di Connie Lee."
+  },
+  {
+   "id": "n.tapestry.connie.disillusioned",
+   "label": "Sradicata",
+   "desc": "L’Haustorium ha stipulato un accordo formale con il Bureau di Soppressione. Connie Lee, profondamente infelice dell’accordo, ha fatto di tutto per smascherarlo, e poi è fuggita in cerca di una nuova vita."
+  },
+  {
+   "id": "n.tapestry.connie.reaffirmed",
+   "label": "Radici Profonde",
+   "desc": "L’Haustorium ha stipulato un accordo formale con il Bureau di Soppressione. Connie Lee, per quanto profondamente infelice dell’accordo, vi si è rassegnata e continua a prestare servizio al Bureau."
+  },
+  {
+   "id": "n.tapestry.concluded",
+   "label": "Il Silenzio di Gladwyn",
+   "desc": "Qualunque mistero si potesse trovare nell’Arazzo del Frate è ormai abbandonato agli abissi del Lago Gladwyn."
+  },
+  {
+   "id": "n.grunewald",
+   "label": "La Fornitura di Grunewald",
+   "desc": "A che punto siamo con le «malignità» della faccenda di Grunewald?"
+  },
+  {
+   "id": "n.grunewald.concluded",
+   "label": "La Conclusione di Grunewald",
+   "desc": "Nessuna nuova, buona nuova. La faccenda è chiusa, per quanto ci riguarda."
+  },
+  {
+   "id": "n.grunewald.wisp",
+   "label": "Il Residuo di Grunewald",
+   "desc": "Un visitatore ha portato un «rifugiato» dai resti del Circo Permanente di Grunewald, insistendo che non sia pericoloso."
+  },
+  {
+   "id": "n.grunewald.chrysalis",
+   "label": "La Rinascita di Grunewald",
+   "desc": "Il «rifugiato» del Circo Permanente di Grunewald è stato assimilato nella crisalide dell’antica prigione. Bene?"
+  },
+  {
+   "id": "n.grunewald.crucible",
+   "label": "Lo Sradicamento di Grunewald",
+   "desc": "Il «rifugiato» del Circo Permanente di Grunewald è stato distrutto nel crogiolo della Hush House. Probabilmente è meglio così."
+  },
+  {
+   "id": "n.guest",
+   "label": "L’Ospite Infinito",
+   "desc": "Cosa è successo a Spencer Hobson, l’impiegato del Bureau che considerava i Vermi che lo abitavano un «ospite»?"
+  },
+  {
+   "id": "n.guest.hobson",
+   "label": "La Scelta di Hobson",
+   "desc": "Spencer Hobson è atteso a Brancrug a Numa."
+  },
+  {
+   "id": "n.guest.upgraded",
+   "label": "Il Dono dell’Ospite.",
+   "desc": "Hobson è entrato nel Rowenarium e non si farà più vedere. Il Rowenarium ha trovato la sua fase successiva."
+  },
+  {
+   "id": "n.guest.closed",
+   "label": "La Fine dell’Ospite",
+   "desc": " «Un uomo abitato dai Vermi» è un’idea troppo sgradevole per correre alcun rischio. Ho negato a Spencer Hobson l’ingresso alla Hush House. Non mi ha sfidato, e ora è scomparso; forse scomparso dalle Storie."
+  },
+  {
+   "id": "n.guest.concluded",
+   "label": "Meno Ospite",
+   "desc": "La Hush House non vuole avere niente a che fare con Spencer Hobson. «Un uomo abitato dai Vermi» è un’idea troppo sgradevole per correre alcun rischio."
+  },
+  {
+   "id": "n.reverend",
+   "label": "Il Reverendo Aperto",
+   "desc": "Il Reverendo Aperto è «benedetto» da un potere-Battente identificato come St Agnes? O da qualcos’altro?"
+  },
+  {
+   "id": "n.reverend.success.one",
+   "label": "Il Reverendo Aperto: Barlume",
+   "desc": "Il Reverendo Aperto non è stato «benedetto» da alcun servitore della Madre delle Formiche o dell’Ascia Cornuta. Cos’è dunque che lo ha cambiato? Douglas ed Ehsan stanno entrambi indagando."
+  },
+  {
+   "id": "n.reverend.success.two",
+   "label": "Il Reverendo Aperto: Rivelazione ",
+   "desc": "Il Reverendo Aperto sta diventando un «filamento» dell’Eccellenza Gnathobasis, un Nome di uno degli dèi-dal-Nessun Luogo. Il Bureau di Soppressione deve intervenire."
+  },
+  {
+   "id": "n.reverend.closed",
+   "label": "La Fine del Reverendo",
+   "desc": "Il Reverendo Aperto è stato sistemato in via definitiva, e l’Eccellenza Gnathobasis si è vista negare un punto d’ingresso nella Veglia."
+  },
+  {
+   "id": "n.reverend.concluded",
+   "label": "Quale Reverendo?",
+   "desc": "Il Reverendo Aperto non è affare della Casa. Certe cose è meglio lasciarle in pace."
+  },
+  {
+   "id": "n.claw",
+   "label": "L’Artiglio e le Nuvole",
+   "desc": "Le stirpi erranti della Croce del Carapace sono approdate sulle isole dell’ovest. Come hanno cambiato coloro che ne sono stati attratti?"
+  },
+  {
+   "id": "n.claw.agdistis.west",
+   "label": "L’Agdistiade",
+   "desc": "Agdistis è andato a Ovest per vedere altre forme fra le nuvole. L’esperienza lo ha turbato e affascinato. Ha riportato un’«offerta» da versare davanti al santuario di St Tentreto a Brancrug..."
+  },
+  {
+   "id": "n.claw.patient.unquelled",
+   "label": "Richiesta dall’Ovest",
+   "desc": "Il paziente di Ehsan è andato a Ovest, ed è tornato. Ha riportato con sé un’«offerta» da versare davanti al santuario di St Tentreto a Brancrug…"
+  },
+  {
+   "id": "n.claw.agdistis.quelled",
+   "label": "Agdistis in Pace",
+   "desc": "L’Archivista ha rifiutato di versare l’«offerta» davanti al santuario di St Tentreto. Agdistis sembra soddisfatto di questo; forse perfino sollevato."
+  },
+  {
+   "id": "n.claw.agdistis.upgraded",
+   "label": "Agdistis in Ascesa",
+   "desc": "L’Archivista ha accettato di versare l’«offerta» davanti al santuario di St Tentreto. Agdistis era grato; ma chiaramente inquieto, incerto su cosa sarebbe potuto accadere."
+  },
+  {
+   "id": "n.claw.patient.quelled.finally",
+   "label": "Un’Anima in Pace",
+   "desc": "L’Archivista ha rifiutato di versare l’«offerta» davanti al santuario di St Tentreto. A quanto pare, di conseguenza, il paziente di Ehsan ha finalmente trovato la pace."
+  },
+  {
+   "id": "n.claw.patient.upgraded",
+   "label": "Un’Anima Inquieta",
+   "desc": "L’Archivista ha accettato di versare l’«offerta» davanti al santuario di St Tentreto. Il paziente di Ehsan sogna ancora le forme nelle nuvole dell’Ovest…"
+  },
+  {
+   "id": "n.claw.concluded",
+   "label": "Le Nuvole al Tramonto",
+   "desc": "Qualunque cosa sia successa nelle isole dell’ovest, ora è finita."
+  }
+ ]
+}

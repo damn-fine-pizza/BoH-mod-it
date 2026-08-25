@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "<i>My</i> journal? That grey metal cover is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My</i> journal? That softly scaled cover is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.cartographer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My</i> journal? The silken binding is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.artist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My</i> journal? The smooth, mottled cover is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.executioner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My</i> journal? This feathered cover is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.symurgist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My</i> journal? This silver binding is familiar. But the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.magnate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Phost</i> is the light within: sight, perception, inspiration. [Choose a strong <i>phost</i>, and a past with a pursuer who can see the light within you. The waves will wash away the others... for now.]",
+  "dove": "recipes/legacy.setup.librarian.phost.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "<i>Wist</i> is the soul's memory, the true name scratched on its cornerstone, what remains after the rest has passed. [Choose a strong <i>wist</i>, and a past where you sought voices that had fallen silent. The waves will wash away the others... for now.]",
+  "dove": "recipes/legacy.setup.librarian.wist.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A Cry for Help?",
+  "dove": "recipes/setup.librarian.talk.shapt.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Journal?",
+  "dove": "recipes/catalogue.journal.archaeologist.label",
+  "ricorre": 9
+ },
+ {
+  "en": "A new year begins!",
+  "dove": "recipes/setup.librarian.season.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "After the Storm: Approaching Dawn",
+  "dove": "recipes/setup.librarian.day.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Alive, Approximately",
+  "dove": "recipes/setup.librarian.consider.xhea.halfdrowned.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "At last, I see the light of a hurricane lamp bobbing in the dark. As it approaches, a face glimmers above the lamp.",
+  "dove": "recipes/setup.librarian.talk.shapt.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "At last, the light of a hurricane lamp bobbing in the dark. As it approaches, a face looms out of the night.",
+  "dove": "recipes/setup.librarian.talk.fet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Brancrug Village must be nearby. But it's hard going, dragging my soaked body across the soaked sand in the teeth of this wind. Which way?",
+  "dove": "recipes/setup.librarian.talk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did I dream of this beach and this wind?  If I did, I might remember the path I took in that dream -  a path which brought me light.",
+  "dove": "recipes/setup.librarian.talk.fet.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Déjà Vu?",
+  "dove": "recipes/setup.librarian.talk.fet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Freezing Fingers",
+  "dove": "recipes/setup.librarian.consider.shipwrecked.halfdrowned.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I Remember...",
+  "dove": "recipes/setup.librarian.shipwrecked.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I Remember...?",
+  "dove": "recipes/setup.librarian.consider.shipwrecked.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I can't get my thoughts straight. But there's something in my hand... [Your single remaining possession is in a Belongings slot at the top.]",
+  "dove": "recipes/setup.librarian.consider.mem.storm.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I wanted something I didn't have. I don't have very much at all now, do I? I suppose that should make it easier.\n\nFirst things first. I remember there's someone in the village who will give me sanctuary - if I can get there.\n\n[Mysteries have been added to your Journal. You can begin to investigate them when you and your journal are both dry.]",
+  "dove": "recipes/legacy.setup.librarian.ereb.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "I'm soaked, I'm freezing, but as far as I can tell, I'm still alive. [You still have some Health. Don't lose it. You need it, if you want to be alive. What else do you have? Your single remaining possession is in a Belongings slot at the top.]",
+  "dove": "recipes/setup.librarian.consider.xhea.halfdrowned.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've begun to remember -",
+  "dove": "recipes/setup.librarian.consider.ability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My instinct tells me it might be this way - and without a map, instinct is as good a compass as any.",
+  "dove": "recipes/setup.librarian.talk.cho.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it now. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here... to understand the possibilities of a cosmic revolution.  [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here - to finish my masterwork - my last map. [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.cartographer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here. For art. Better yet, for Art. A really, really big Art. [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.artist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here. With time, and peace, I'll remember more.  [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here... and the danger I fled. [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here... and the knowledge I yearn for. [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here... and the two lives I've lived.  [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here... to make amends. [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal - I'm sure of it. The storm scattered my thoughts, but each page I turn is familiar. I begin to recall now why I came here... to understand my curse, and redeem myself.  [More about your origin, and your aspirations, in your journal. You can now also access the Tree of Wisdoms from the top of the screen.]",
+  "dove": "recipes/catalogue.journal.archaeologist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps here I can atone for all I've done. But what was that, exactly?\n\nFirst things first. I remember there's someone in the village who will give me sanctuary - if I can get there.\n\n[Mysteries have been added to your Journal. You can begin to investigate them when you and your journal are both dry.]",
+  "dove": "recipes/legacy.setup.librarian.mettle.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Perhaps here I'll find safety from what follows me. But what was that, exactly?\n\nFirst things first. I remember there's someone in the village who will give me sanctuary - if I can get there.\n\n[Mysteries have been added to your Journal. You can begin to investigate them when you and your journal are both dry.]",
+  "dove": "recipes/legacy.setup.librarian.phost.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Perhaps there's someone out there even in this weather. I can fill my lungs and bellow for help. (That would also mean I don't need to crawl any further.)",
+  "dove": "recipes/setup.librarian.talk.shapt.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps this book can help me put the pieces together.",
+  "dove": "recipes/setup.librarian.consider.shipwrecked.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Scattered Memories",
+  "dove": "recipes/setup.librarian.consider.mem.storm.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something in the Wind?",
+  "dove": "recipes/setup.librarian.talk.cho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Crossroads of Seasons",
+  "dove": "recipes/setup.librarian.season.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The book's in bad shape, and I'm not much better. We're both in need of a warm dry safe place, and soon.",
+  "dove": "recipes/setup.librarian.consider.shipwrecked.halfdrowned.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The cliffs grow dark against the ragged stars - and then at last, I see the light of a hurricane lamp bobbing in the dark. As it approaches, a face glimmers above the lamp.",
+  "dove": "recipes/setup.librarian.talk.cho.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The cold comes first",
+  "dove": "recipes/setup.librarian.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The human soul has nine parts. <i>Fet</i> is that part of the soul that dreams. Is my <i>fet</i> strong? [Recover this. The other two possibilities will be lost to the sea... for now.]",
+  "dove": "recipes/legacy.setup.librarian.fet.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The human soul has nine parts. Eloquence and understanding rise from that part of the soul we call <i>shapt</i>. Is my <i>shapt</i> strong? [Recover this. The other two possibilities will be lost to the sea... for now.]",
+  "dove": "recipes/legacy.setup.librarian.shapt.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The human soul has nine parts. Exuberance, enthusiasm, instinct all rise from that part of the soul we call <i>chor</i>. Is my <i>chor</i> strong? [Recover this. The other two possibilities will be lost to the sea... for now.]",
+  "dove": "recipes/legacy.setup.librarian.cho.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The stars have struggled through the storm-rags of cloud, but they retreat now as the dawn approaches...",
+  "dove": "recipes/setup.librarian.day.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There are still things I don't remember. But I <i>do</i> remember there's someone in the village who will give me sanctuary - if I can get there.\n\n[Mysteries have been added to your Journal. You can begin to investigate them when you and your journal are both dry.]",
+  "dove": "recipes/legacy.setup.librarian.wist.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "There was a storm. It smashed the ship like an egg. But I seized this book as the sea seized me... then the sea brought me here to Brancrug.",
+  "dove": "recipes/setup.librarian.shipwrecked.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There was a storm. It smashed the ship like an egg. But I seized this book as the sea seized me... then the sea brought me here to Brancrug. And Brancrug is where I wanted to be. But it's hard to remember why. What else did I lose in the storm?",
+  "dove": "recipes/setup.librarian.shipwrecked.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This book helped me remember something. What else can I recall?",
+  "dove": "recipes/setup.librarian.consider.journalwithability.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This element of my soul is strong. What else? [Choose another Memory, and recover another Element of the Soul.]",
+  "dove": "recipes/setup.librarian.consider.ability.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is the coast where Brancrug Isle lies. I've seen it in my dreams, night after night. I know there's no way I can cross to the isle in these seas. I'll need to find shelter for the night.",
+  "dove": "recipes/legacy.setup.librarian.fet.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "This is the coast where Brancrug Isle lies. It wasn't easy to come here... but I don't give up easily. Even so, I know there's no way I can cross to the isle in these seas. I'll need to find shelter for the night.",
+  "dove": "recipes/legacy.setup.librarian.cho.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "This is the coast where Brancrug Isle lies. My sources briefed me thoroughly about the place, and I know there's no way I can cross to the isle in these seas. I'll need to find shelter for the night.",
+  "dove": "recipes/legacy.setup.librarian.shapt.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Thunder growling. Waves pounding...",
+  "dove": "recipes/setup.librarian.consider.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Thunder growling. Waves pounding... and finally me, sprawled on the sodden sand of the beach. There's something in my hand.",
+  "dove": "recipes/setup.librarian.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What Remains of Me? Dreams?",
+  "dove": "recipes/legacy.setup.librarian.fet.label",
+  "ricorre": 2
+ },
+ {
+  "en": "What Remains of Me? Instinct?",
+  "dove": "recipes/legacy.setup.librarian.cho.label",
+  "ricorre": 2
+ },
+ {
+  "en": "What Remains of Me? Knowledge?",
+  "dove": "recipes/legacy.setup.librarian.wist.label",
+  "ricorre": 2
+ },
+ {
+  "en": "What Remains of Me? Light?",
+  "dove": "recipes/legacy.setup.librarian.phost.label",
+  "ricorre": 2
+ },
+ {
+  "en": "What Remains of Me? My strength of character?",
+  "dove": "recipes/legacy.setup.librarian.mettle.label",
+  "ricorre": 2
+ },
+ {
+  "en": "What Remains of Me? Passion?",
+  "dove": "recipes/legacy.setup.librarian.ereb.label",
+  "ricorre": 2
+ },
+ {
+  "en": "What Remains of Me? Words?",
+  "dove": "recipes/legacy.setup.librarian.shapt.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Yes?",
+  "dove": "recipes/setup.librarian.consider.journalwithability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Well-Fed Beastie?",
+  "dove": "recipes/talk.full.beast.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A full belly makes a helpful friend. [This beastie is now inclined to co-operate.]",
+  "dove": "recipes/talk.feed.beast.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "And now, it suggests, a meal would be welcome.",
+  "dove": "recipes/talk.handle.beast.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Feed the Beastie",
+  "dove": "recipes/talk.feed.beast.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Feed the Beastie?",
+  "dove": "recipes/talk.feed.beast.hint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "It has no interest in food just now.",
+  "dove": "recipes/talk.full.beast.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Offer this beast my company. Who knows? Perhaps it will offer something in return.",
+  "dove": "recipes/talk.handle.beast.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Satisfy this creature's appetite. [Food will make a hungry beast, or a wild one, co-operative.]",
+  "dove": "recipes/talk.feed.beast.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Time with the Beastie",
+  "dove": "recipes/talk.handle.beast.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Time with the Beastie?",
+  "dove": "recipes/talk.handle.beast.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Use a Soul card and suitable Sustenance. [Food will make a hungry beast, or a wild one, co-operative.]",
+  "dove": "recipes/talk.feed.beast.hint.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "[Add a Soul card to interact with the beast.]",
+  "dove": "recipes/talk.handle.beast.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Repair a Cracked Binding",
+  "dove": "recipes/desk.repair.cracked.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The cracked binding is restored. The book opens cleanly as wings.",
+  "dove": "recipes/desk.repair.cracked.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The joints and hinges creak, but the spine holds firm.",
+  "dove": "recipes/desk.repair.cracked.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Add two blocking numa tokens",
+  "dove": "recipes/block.numa.initial.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Another night wasn't endless.",
+  "dove": "recipes/day.daybreak.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "At the Crossroads of Seasons",
+  "dove": "recipes/time.leap.label",
+  "ricorre": 1
+ },
+ {
+  "en": "At this time the sisters of the Abbey would raise their voices in praise of the Madrugad, for the office of Aurora.",
+  "dove": "recipes/day.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Before the great division, this was the Sixth Hour, when the priests led hymns to the Sun-in-Splendour. Now Noon, as they say, is not as it was. Perhaps the New King will change that.",
+  "dove": "recipes/day.midday.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Numa Token",
+  "dove": "recipes/draw.numa.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Initial Numa Block",
+  "dove": "recipes/block.numa.initial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memories fade; assistance departs; but the soul is refreshed.",
+  "dove": "recipes/day.daybreak.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Night from day; silver from gold. The vesper-hour when the priests would honour the rising of the evening-star Meniscate.",
+  "dove": "recipes/day.dusk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Night has fallen. Dawn will come soon.",
+  "dove": "recipes/day.dusk.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Night has fallen. Dawn will come soon. Keep vigil.",
+  "dove": "recipes/day.night.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Now comes the White.",
+  "dove": "recipes/year.season.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Numa, shortest season, labyrinth season, when the year loses its way, when Time is a river and Memory a winged bird. In Numa, oddities ripen in the gardens of the Isle - unexpected visitors arrive - memory departs. [When Numa ends, all Memories will vanish with it, even persistent ones. One of every nine seasons in Brancrug is Numa, but Numa is the vagabond, Numa has no heralds. Numa might arrive twice in one year - or four years might pass without the touch of its mists.]",
+  "dove": "recipes/year.season.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Elegiast's season.",
+  "dove": "recipes/year.season.autumn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grail at her greatest.",
+  "dove": "recipes/year.season.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The little hour called Nones, when the doors of the Mansus are most tightly closed. For the secular, the hours when we may anticipate tea, or celebrate it.",
+  "dove": "recipes/day.afternoon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The third hour, when the office of Terce once was sung. Watch as the day opens like a door.",
+  "dove": "recipes/day.morning.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The world warms.",
+  "dove": "recipes/year.season.spring.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "We are at the threshold of Numa, the labyrinth season - the season that lasts only a single day. [When Numa ends, <i>all</i> Memories will vanish with it - even persistent ones like skill lessons.]",
+  "dove": "recipes/year.season.numa.begin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Foggy Day",
+  "dove": "recipes/weather.enactor.fog.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Rainy Day",
+  "dove": "recipes/weather.enactor.rain.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Snowy Day",
+  "dove": "recipes/weather.enactor.snow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Stormy Day",
+  "dove": "recipes/weather.enactor.storm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daily Weather",
+  "dove": "recipes/daily.weather.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daily Weather: Autumn",
+  "dove": "recipes/daily.weather.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daily Weather: Spring",
+  "dove": "recipes/daily.weather.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daily Weather: Summer",
+  "dove": "recipes/daily.weather.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daily Weather: Winter",
+  "dove": "recipes/daily.weather.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Weather draw: Autumn",
+  "dove": "recipes/daily.weather.autumn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Weather draw: Spring",
+  "dove": "recipes/daily.weather.spring.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Weather draw: Summer",
+  "dove": "recipes/daily.weather.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Weather draw: Winter",
+  "dove": "recipes/daily.weather.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Weather router",
+  "dove": "recipes/daily.weather.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Dear Trustees; I have arrived.'",
+  "dove": "recipes/letter.rhonwen.reply.straightforward.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am here, but my situation is precarious, and there is so much I do not yet know. Is there anything more you can tell me? Of the House, the locals, their pasts? ...",
+  "dove": "recipes/letter.rhonwen.reply.inquisitive.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The journey was difficult, but nothing could keep me from the House, and the place is everything I had imagined! - or will be, once I've restored it to its old glory...'",
+  "dove": "recipes/letter.rhonwen.reply.charming.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The journey was not straightforward, but here I am. Hush House is empty and peaceful. Nothing walks these halls. If something once did, seven years ago... the fire must have purged it.'",
+  "dove": "recipes/letter.rhonwen.reply.pragmatic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The sea remains; the House remains; what else remains, we shall learn in time. I am something new, and in time I will learn what that means...'",
+  "dove": "recipes/letter.rhonwen.reply.enigmatic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A Charming Reply to St Rhonwen's Trust",
+  "dove": "recipes/letter.rhonwen.reply.charming.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Pragmatic Reply to St Rhonwen's Trust",
+  "dove": "recipes/letter.rhonwen.reply.pragmatic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Second Reply?",
+  "dove": "recipes/letter.rhonwen.reply.again.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Straightforward Reply to St Rhonwen's Trust",
+  "dove": "recipes/letter.rhonwen.reply.straightforward.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A message for me... [Read the letter; to reply instead, add Ink at a desk.]",
+  "dove": "recipes/letter.read.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "An Inquisitive Reply to St Rhonwen's Trust",
+  "dove": "recipes/letter.rhonwen.reply.inquisitive.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An enigmatic Reply to St Rhonwen's Trust",
+  "dove": "recipes/letter.rhonwen.reply.enigmatic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Compose a Petition to the Beach-Crow",
+  "dove": "recipes/letter.numa.invocation.porphyrine.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Compose a Petition to the Sister-and-Witch",
+  "dove": "recipes/letter.numa.invocation.porphyrine.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Compose a Petition to the Vagabond",
+  "dove": "recipes/letter.numa.invocation.porphyrine.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I've already replied to St Rhonwen's Trust. I can throw this other message away... or preserve it for posterity.",
+  "dove": "recipes/letter.rhonwen.reply.again.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've finished reading...",
+  "dove": "recipes/letter.read.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Read a Letter",
+  "dove": "recipes/letter.read.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reply to St Rhonwen's Trust?",
+  "dove": "recipes/letter.rhonwen.reply.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The design is complete. To travel via the Way of the Lower Skies, it must be sanctified with the proper seal, by one charged with the delivery of messages of import...",
+  "dove": "recipes/letter.numa.invocation.porphyrine.knock.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "With the proper arts and signs - and the proper <i>encaustum terminale</i> - a Librarian of the House might find a way to attract the direct attention of an Hour. The Sister has no dominion over Numa - no Hour does - but she knows it better than many. Perhaps she will bring the season.",
+  "dove": "recipes/letter.numa.invocation.porphyrine.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With the proper arts and signs - and the proper <i>encaustum terminale</i> - a Librarian of the House might find a way to attract the direct attention of an Hour. The Vagabond has no dominion over Numa - no Hour does - but she knows it better than most. Perhaps the season will follow her here.",
+  "dove": "recipes/letter.numa.invocation.porphyrine.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With the proper arts and signs - and the proper <i>encaustum</i> - a Librarian of the House might find a way to attract the direct attention of an Hour. The Beach-Crow has no dominion over Numa - no Hour does - but he knows it better than some. Perhaps he will find the season.",
+  "dove": "recipes/letter.numa.invocation.porphyrine.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Add a Soul card to determine the tone of the letter. Not all desks allow all Soul cards...]",
+  "dove": "recipes/letter.rhonwen.reply.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'A Great Treasure of the House'",
+  "dove": "recipes/write.order.encaustum.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Begin Again",
+  "dove": "recipes/write.order.ch.reset.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Carefully mark the creamy paper.",
+  "dove": "recipes/write.order.trn.almonds.desc",
+  "ricorre": 14
+ },
+ {
+  "en": "Carefully strike out the orders on the C&H form, and begin again -",
+  "dove": "recipes/write.order.ch.reset.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carefully strike out the orders on the T.R.N. form, and begin again -",
+  "dove": "recipes/write.order.trn.reset.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Complete the order.",
+  "dove": "recipes/ch.order.send.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Order Almonds (3d)",
+  "dove": "recipes/write.order.trn.almonds.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Almonds from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.almonds.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Armagnac (7/-)",
+  "dove": "recipes/write.order.trn.bottle.armagnac.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Arsenic (3/-)",
+  "dove": "recipes/write.order.trn.arsenic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Arsenic from T.R.N. Limited, who will helpfully circumvent the requirements of the Pharmacy Act.",
+  "dove": "recipes/write.order.trn.arsenic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Assam Tea (1/-)",
+  "dove": "recipes/write.order.ch.tea.assam.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Beef (1/-)",
+  "dove": "recipes/write.order.trn.beef.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Butter (3d)",
+  "dove": "recipes/write.order.ch.butter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Butter from Cater & Hero.",
+  "dove": "recipes/write.order.ch.butter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Copper Wire (2/-)",
+  "dove": "recipes/write.order.ch.wire.copper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Dawnlion Coffee (1/-)",
+  "dove": "recipes/write.order.ch.coffee.dawnlion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Desiccated Witch-Worms from T.R.N. Limited. The high price reflects the value of their relationship with the Suppression Bureau, who discourage trade in materials with this level of oneiric hazard.",
+  "dove": "recipes/write.order.trn.witchworms.desiccated.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Desiccated Witchworms (10/-)",
+  "dove": "recipes/write.order.trn.witchworms.desiccated.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Domaine Raveline Wine (7/-)",
+  "dove": "recipes/write.order.trn.bottle.raveline.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Drinking Cocoa (1/6)",
+  "dove": "recipes/write.order.trn.packet.cocoa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Dripping (6d)",
+  "dove": "recipes/write.order.ch.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Dripping from Cater & Hero.",
+  "dove": "recipes/write.order.ch.dripping.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Evening Isles Coffee (1/-)",
+  "dove": "recipes/write.order.ch.coffee.eveningisles.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Flour (3d)",
+  "dove": "recipes/write.order.ch.flour.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Flour from Cater & Hero.",
+  "dove": "recipes/write.order.ch.flour.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Glue (6d)",
+  "dove": "recipes/write.order.ch.glue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Glue from Cater & Hero.",
+  "dove": "recipes/write.order.ch.glue.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Ham (6d)",
+  "dove": "recipes/write.order.ch.ham.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Lambig (7/-)",
+  "dove": "recipes/write.order.trn.bottle.lambig.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Lapsang Tea (1/-)",
+  "dove": "recipes/write.order.ch.tea.lapsang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Milk (3d)",
+  "dove": "recipes/write.order.ch.milk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Milk from Cater & Hero.",
+  "dove": "recipes/write.order.ch.milk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Nivine Parchment (3/-)",
+  "dove": "recipes/write.order.trn.parchment.nivine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Oscillate Oil (1/6)",
+  "dove": "recipes/write.order.ch.oil.oscillate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Pheasant (6d)",
+  "dove": "recipes/write.order.trn.pheasant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Plums (6d)",
+  "dove": "recipes/write.order.trn.plums.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Plums from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.plums.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Potatoes (3d)",
+  "dove": "recipes/write.order.ch.potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Potatoes from Cater & Hero.",
+  "dove": "recipes/write.order.ch.potatoes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Roscraggan Whisky (5/-)",
+  "dove": "recipes/write.order.trn.bottle.roscraggan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Schloss Jannings (5/-)",
+  "dove": "recipes/write.order.trn.bottle.jannings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Scintillate Oil (1/6)",
+  "dove": "recipes/write.order.ch.oil.scintillate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Strathcoyne Whisky (5/-)",
+  "dove": "recipes/write.order.trn.bottle.strathcoyne.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Sugar (6d)",
+  "dove": "recipes/write.order.ch.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Sugar from Cater & Hero.",
+  "dove": "recipes/write.order.ch.sugar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order Umbrous Oil (1/6)",
+  "dove": "recipes/write.order.ch.oil.umbrous.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Bottle of Armagnac d'Ys from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.bottle.armagnac.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Bottle of Domaine Raveline from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.bottle.raveline.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Bottle of Lambig Broceliande from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.bottle.lambig.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Bottle of Roscraggan Whisky from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.bottle.roscraggan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Bottle of Schloss Jannings wine from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.bottle.jannings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Bottle of Strathcoyne Whisky from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.bottle.strathcoyne.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Can of Ham from Cater & Hero.",
+  "dove": "recipes/write.order.ch.ham.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Can of Oscillate Oil from Cater & Hero.",
+  "dove": "recipes/write.order.ch.oil.oscillate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Can of Scintillate Oil from Cater & Hero.",
+  "dove": "recipes/write.order.ch.oil.scintillate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Can of Umbrous Oil from Cater & Hero.",
+  "dove": "recipes/write.order.ch.oil.umbrous.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Joint of Beef from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.beef.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Packet of Assam Tea from Cater & Hero.",
+  "dove": "recipes/write.order.ch.tea.assam.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Packet of Dawnlion Coffee from Cater & Hero.",
+  "dove": "recipes/write.order.ch.coffee.dawnlion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Packet of Evening Isles Coffee from Cater & Hero.",
+  "dove": "recipes/write.order.ch.coffee.eveningisles.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Packet of Lapsang Souchong Tea from Cater & Hero.",
+  "dove": "recipes/write.order.ch.tea.lapsang.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Pheasant from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.pheasant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Quire of Paper (6d)",
+  "dove": "recipes/write.order.ch.quire.paper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Quire of Paper from Cater & Hero.",
+  "dove": "recipes/write.order.ch.quire.paper.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a Spool of Copper Wire from Cater & Hero.",
+  "dove": "recipes/write.order.ch.wire.copper.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a packet of T.R.N. Limited's notorious drinking cocoa.",
+  "dove": "recipes/write.order.trn.packet.cocoa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Order a quire of Nivine Parchment from T.R.N. Limited.",
+  "dove": "recipes/write.order.trn.parchment.nivine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordering Supplies?",
+  "dove": "recipes/study.form.hint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ordering household goods with encaustum ink is not appropriate behaviour for a Librarian. Unless, perhaps, the Librarian is Thirza Blake.",
+  "dove": "recipes/write.order.encaustum.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Post a Completed Cater & Hero Order Form",
+  "dove": "recipes/ch.order.send.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Post a Completed Order Form?",
+  "dove": "recipes/postoffice.order.send.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Post a Completed T.R.N. Order Form",
+  "dove": "recipes/trn.order.send.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scratch tiny symbols on the flimsy form.",
+  "dove": "recipes/write.order.ch.butter.desc",
+  "ricorre": 17
+ },
+ {
+  "en": "The Postmistress signs and seals the order, and places it in the place that stamped orders are properly placed. 'Wait three days,' she commands.",
+  "dove": "recipes/ch.order.send.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[Add Ink.]",
+  "dove": "recipes/study.form.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Place this in a Desk to order supplies.]",
+  "dove": "recipes/study.form.hint.consider.base.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Provide money equal to the cost. The Postmistress will make out a postal order.]",
+  "dove": "recipes/postoffice.order.send.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Align the surfaces of fire and air, to unveil a treasure of the House.",
+  "dove": "recipes/unveil.oubliette.thesunsdesign.hammer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Elucidate Enlightenment from an Earlier Era",
+  "dove": "recipes/unveil.altar.tentreto.resurgences.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Here, impossibly preserved, enfolded in the cage wrought to contain the former prisoner's energies.",
+  "dove": "recipes/unveil.oubliette.thesunsdesign.hammer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Here, impossibly preserved, enfolded in the scars inflicted by the former prisoner's energies.",
+  "dove": "recipes/unveil.oubliette.thesunsdesign.scar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I recall how in sleep I heard the changeling's carven churrings. I recall how in sleep I curled my fingers into the forms I found. I recall how in sleep I scratched the signs of secrets spoken to my other self. Here I hold them in my hands.",
+  "dove": "recipes/unveil.altar.tentreto.resurgences.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "If I insert a sufficient key...",
+  "dove": "recipes/unveil.rowenarium.towardsafundamentalaestheticsecondedition.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I know what I'm doing - or perhaps acknowledge that I have no idea what I'm doing - I could curl up in the cold beneath the silent statue's shadow, and see what surfaces in sleep.",
+  "dove": "recipes/unveil.altar.tentreto.resurgences.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "It is very hard, among the reflections of the Rowenarium, to understand what exactly, or who, has just opened - but I can see very clearly what has just been revealed.",
+  "dove": "recipes/unveil.rowenarium.towardsafundamentalaestheticsecondedition.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Locate a Lost Treasure of the House",
+  "dove": "recipes/unveil.bed.stone.threeandthethreestchiavi.inviolable.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Make the long-forbidden invocations to the Three, to reveal a treasure of the House.",
+  "dove": "recipes/unveil.altar.chancel.thesundisfigured.sickle.eclipse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Make the necessary invocations to the Three, to reveal a treasure of the House.",
+  "dove": "recipes/unveil.altar.chancel.thesundisfigured.sacralimiae.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Make the proper invocations to the Three, to reveal a treasure of the House.",
+  "dove": "recipes/unveil.altar.lady.serpentroot.tridesmahiera.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Make the proper invocations to the powers below the Earth, to reveal a treasure of the House.",
+  "dove": "recipes/unveil.altar.lady.serpentroot.hillhollow.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Name the scars in iron and night, to unveil a treasure of the House.",
+  "dove": "recipes/unveil.oubliette.thesunsdesign.scar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ninety-nine winks. And I wake with a book cradled in my arms.",
+  "dove": "recipes/unveil.bed.stone.threeandthethreestchiavi.inviolable.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Reveal a Treasure of the House",
+  "dove": "recipes/unveil.altar.chancel.thesundisfigured.sacralimiae.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Sleep with the stone as a pillow. I don't know why, but I know a little of what the Calyptra has decreed, and what they have permitted.",
+  "dove": "recipes/unveil.bed.stone.threeandthethreestchiavi.inviolable.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "There in a narrow dark beneath the lip of the altar's top - something waiting for me.",
+  "dove": "recipes/unveil.altar.chancel.thesundisfigured.sickle.eclipse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There in a narrow darkness beneath the lip of the altar's top - something waiting for me.",
+  "dove": "recipes/unveil.altar.chancel.thesundisfigured.sacralimiae.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There in a smoothed hollow at the altar's foot - something coiled like a serpent, but stiller by far.",
+  "dove": "recipes/unveil.altar.lady.serpentroot.hillhollow.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Unveil a Treasure of the House",
+  "dove": "recipes/unveil.oubliette.thesunsdesign.hammer.label",
+  "ricorre": 2
+ },
+ {
+  "en": "A quick nap in a warm bed with something comforting to drink, while the winds chase the clouds and the clouds chase the sun. [Restore a fatigued Soul card.]",
+  "dove": "recipes/bed.rest.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Another Room?",
+  "dove": "recipes/bed.guest.campedelsewhere.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Camp",
+  "dove": "recipes/bed.guest.camp.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Crafting in Bed is Not Safe",
+  "dove": "recipes/bed.rest.crafting.blocker.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cure a Malady?",
+  "dove": "recipes/bed.rest.malady.curable.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cure my Malady",
+  "dove": "recipes/bed.rest.malady.forge.label",
+  "ricorre": 8
+ },
+ {
+  "en": "Decamp",
+  "dove": "recipes/bed.rest.decamp.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dream on a Memory",
+  "dove": "recipes/bed.rest.memory.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Dream on a Memory?",
+  "dove": "recipes/bed.rest.memory.hint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Gathered my belongings, refreshed the sheets for any guests I might have. Ready to move on.",
+  "dove": "recipes/bed.rest.decamp.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hush House is a mansion of many rooms. I'll move to a different one. [Or add other cards if you'd like to try something else.]",
+  "dove": "recipes/bed.rest.decamp.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I could cure this Malady with bed rest, something suitable to drink, and enough of the relevant Aspect. [Check the Malady card for details.]",
+  "dove": "recipes/bed.rest.malady.curable.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I could settle in for a nap with a cup of something warming, or a glass of something soothing. [Add something Restorative, like a Beverage or fresh linen, to restore your Soul card without waiting overnight.]",
+  "dove": "recipes/bed.rest.ability.restable.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I deserved a little quiet time.",
+  "dove": "recipes/bed.rest.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I need warmth and brightness as I rest. [You've supplied enough Forge.]",
+  "dove": "recipes/bed.rest.malady.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll make this my lodgings for the time being. [Move your belongings into this room; you can then use this bed to rest Soul cards and recover Maladies.]",
+  "dove": "recipes/bed.guest.camp.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'm sleeping somewhere else at the moment. [Use a Soul card in your current bed to decamp; and then come back here to move in.]",
+  "dove": "recipes/bed.guest.campedelsewhere.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've carried a Memory like a flambeau safe through the mazes of night. [This will complete once dawn has come.]",
+  "dove": "recipes/bed.rest.memory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If I want to make something, I'll need to get out of bed - but if I want to cure a Malady, I can use Skills and Memories with something Restorative, like fresh linen or a Beverage.",
+  "dove": "recipes/bed.rest.crafting.blocker.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Moving In",
+  "dove": "recipes/bed.guest.camp.hint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "My visitor grows impatient...",
+  "dove": "recipes/bed.guest.visitor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Night has not yet fallen. But once it has, I can rest - and perhaps dream on the day's doings. [Dreaming on a Memory will preserve it past Dawn, allowing you to keep it until the following day. Add a Memory once the sun has set.]",
+  "dove": "recipes/bed.rest.memory.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Now that night has fallen, I can rest - and perhaps dream on the day's doings. [Dreaming on a Memory will preserve it past Dawn, allowing you to keep it until the following day.]",
+  "dove": "recipes/bed.rest.memory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Once night has fallen, I can rest - and perhaps dream on the day's doings. [Dreaming on most Memories will preserve them past Dawn - but Weather Memories can't be used in this way.]",
+  "dove": "recipes/bed.rest.memory.weather.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rest",
+  "dove": "recipes/bed.rest.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rest?",
+  "dove": "recipes/bed.rest.ability.restable.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Strong sensation will bring my wandering spirit home.",
+  "dove": "recipes/bed.rest.malady.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is a safe place for me now... to the extent that dreams are safe.",
+  "dove": "recipes/bed.guest.camp.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This isn't my bed... yet. [Use a Soul card to move your belongings in and make this your bed.]",
+  "dove": "recipes/bed.guest.camp.hint.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Time, peace, recovery.",
+  "dove": "recipes/bed.rest.malady.forge.desc",
+  "ricorre": 8
+ },
+ {
+  "en": "[Visitors will stay in a suitable bed for a little longer - in case you think you might be close to finding a suitable book.]",
+  "dove": "recipes/bed.guest.visitor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You've supplied enough Heart.]",
+  "dove": "recipes/bed.rest.malady.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You've supplied enough Lantern.]",
+  "dove": "recipes/bed.rest.malady.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You've supplied enough Moth.]",
+  "dove": "recipes/bed.rest.malady.moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You've supplied enough Nectar.]",
+  "dove": "recipes/bed.rest.malady.nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You've supplied enough Sky.]",
+  "dove": "recipes/bed.rest.malady.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You've supplied enough Winter.]",
+  "dove": "recipes/bed.rest.malady.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A potent light, in the right place.",
+  "dove": "recipes/chandlery.pyrus.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "For delight, no doubt.",
+  "dove": "recipes/chandlery.fragrant.chalice.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "For protection, perhaps.",
+  "dove": "recipes/chandlery.aglaophotis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a <i>pyrus auricalcinus</i> Candle",
+  "dove": "recipes/chandlery.pyrus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Beeswax Candle",
+  "dove": "recipes/chandlery.beeswax.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Chalice-Candle",
+  "dove": "recipes/chandlery.fragrant.chalice.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Historywax Candle",
+  "dove": "recipes/chandlery.historywax.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Honeyscar-Scented Candle",
+  "dove": "recipes/chandlery.honeyscar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Moth-Orchid-Scented Candle",
+  "dove": "recipes/chandlery.mothorchid.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make an Aglaophotis-Scented Candle",
+  "dove": "recipes/chandlery.aglaophotis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The flame will flicker, and the Histories ripple.",
+  "dove": "recipes/chandlery.historywax.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "To bring dreams.",
+  "dove": "recipes/chandlery.mothorchid.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "To bring sweet warmth.",
+  "dove": "recipes/chandlery.honeyscar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "To see how everything changes.",
+  "dove": "recipes/chandlery.historywax.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Or add a suitable second ingredient.]",
+  "dove": "recipes/chandlery.beeswax.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Birdsong: we listen, we learn, we change.",
+  "dove": "recipes/evolve.birdsong.xcho.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Birdsong: what we were, what we will be.",
+  "dove": "recipes/evolve.birdsong.xtris.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Brighten my Phost",
+  "dove": "recipes/evolve.illumination.xpho.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Brighten my Phost further",
+  "dove": "recipes/evolve.illumination.xpho2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Brighten my Phost to its Utmost",
+  "dove": "recipes/evolve.illumination.xpho3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Embrace my Ereb",
+  "dove": "recipes/evolve.bosk.xere.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Embrace my Ereb further",
+  "dove": "recipes/evolve.bosk.xere2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Embrace my Ereb to its Utmost",
+  "dove": "recipes/evolve.bosk.xere3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Expand my Fet",
+  "dove": "recipes/evolve.horomachistry.xfet.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Expand my Fet further",
+  "dove": "recipes/evolve.horomachistry.xfet2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Expand my Fet to its Utmost",
+  "dove": "recipes/evolve.horomachistry.xfet3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Follow my Trist",
+  "dove": "recipes/evolve.birdsong.xtris.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Follow my Trist further",
+  "dove": "recipes/evolve.birdsong.xtris2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Follow my Trist to its Utmost End",
+  "dove": "recipes/evolve.birdsong.xtris3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Horomachistry will heighten my aspirations.",
+  "dove": "recipes/evolve.horomachistry.xmet.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Horomachistry will widen my aspirations.",
+  "dove": "recipes/evolve.horomachistry.xfet.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "I'll change.",
+  "dove": "recipes/evolve.hushery.xtri.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "I'll remember.",
+  "dove": "recipes/evolve.hushery.xwis.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Improve my Mettle",
+  "dove": "recipes/evolve.horomachistry.xmet.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Improve my Mettle further",
+  "dove": "recipes/evolve.horomachistry.xmet2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Improve my Mettle to its Utmost",
+  "dove": "recipes/evolve.horomachistry.xmet3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Intensify my Chor",
+  "dove": "recipes/evolve.birdsong.xcho.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Intensify my Chor further",
+  "dove": "recipes/evolve.birdsong.xcho2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Intensify my Chor to its Utmost",
+  "dove": "recipes/evolve.birdsong.xcho3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ithastry will ensure my Wist endures.",
+  "dove": "recipes/evolve.ithastry.xwis.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Ithastry will spark my inner radiance.",
+  "dove": "recipes/evolve.ithastry.xpho.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Nyctodromy will show my Fet where we can go.",
+  "dove": "recipes/evolve.nyctodromy.xfet.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Nyctodromy will take my Shapt to new thresholds.",
+  "dove": "recipes/evolve.nyctodromy.xsha.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Open my Shapt",
+  "dove": "recipes/evolve.nyctodromy.xsha.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Open my Shapt further",
+  "dove": "recipes/evolve.nyctodromy.xsha2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Open my Shapt to its Utmost",
+  "dove": "recipes/evolve.nyctodromy.xsha3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Preservation: a heart still beats beneath the world's skin.",
+  "dove": "recipes/evolve.preservation.xcho.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Preservation: the earth endures, and so do I.",
+  "dove": "recipes/evolve.preservation.xhea.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Sharpen my Wist",
+  "dove": "recipes/evolve.hushery.xwis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sharpen my Wist further",
+  "dove": "recipes/evolve.hushery.xwis2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sharpen my Wist to its Utmost",
+  "dove": "recipes/evolve.hushery.xwis3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Skolekosophy will dissolve the limitations of my Shapt.",
+  "dove": "recipes/evolve.skolekosophy.xsha.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Skolekosophy will unchain my Ereb.",
+  "dove": "recipes/evolve.skolekosophy.xere.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Strengthen my Wist",
+  "dove": "recipes/evolve.ithastry.xwis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Strengthen my Wist further",
+  "dove": "recipes/evolve.ithastry.xwis2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Strengthen my Wist to its Utmost",
+  "dove": "recipes/evolve.ithastry.xwis3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wood is filled with life.",
+  "dove": "recipes/evolve.bosk.xhea.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "The Wood is filled with shadows.",
+  "dove": "recipes/evolve.bosk.xere.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Train my Health",
+  "dove": "recipes/evolve.bosk.xhea.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Train my Health further",
+  "dove": "recipes/evolve.bosk.xhea2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Train my Health to its Utmost",
+  "dove": "recipes/evolve.bosk.xhea3.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Use Illumination to focus my inner radiance.",
+  "dove": "recipes/evolve.illumination.xpho.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "Use Illumination to understand better who I am.",
+  "dove": "recipes/evolve.illumination.xmet.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "- and it's ready.",
+  "dove": "recipes/brew.kitchen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "- poured out.",
+  "dove": "recipes/distributable.serve.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "- steam and scent both rise. It's ready.",
+  "dove": "recipes/brew.fireplace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Another treasure saved from the sea.",
+  "dove": "recipes/dry.book.fireplace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Break Down a Wooden Object",
+  "dove": "recipes/disassemble.wooden.workbench.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break Down a Woven Object",
+  "dove": "recipes/disassemble.woven.workbench.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew on the Kitchen Range",
+  "dove": "recipes/brew.kitchen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew over the Fire",
+  "dove": "recipes/brew.fireplace.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bring to the boil -",
+  "dove": "recipes/brew.kitchen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Bring water to the boil - permit the potential here to express itself -",
+  "dove": "recipes/brew.fireplace.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Copper Wire",
+  "dove": "recipes/draw.wire.spintria.bronze.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Gold Wire",
+  "dove": "recipes/draw.wire.spintria.gold.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Silver Wire",
+  "dove": "recipes/draw.wire.spintria.silver.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Steel Wire",
+  "dove": "recipes/draw.wire.spintria.iron.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Tin Wire",
+  "dove": "recipes/draw.wire.spintria.tin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Wire?",
+  "dove": "recipes/draw.wire.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dry Out Something",
+  "dove": "recipes/dry.thing.fireplace.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dry Out a Book",
+  "dove": "recipes/dry.book.fireplace.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Dry Out a Book?",
+  "dove": "recipes/dry.book.fireplace.hint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Hatch the Egg",
+  "dove": "recipes/hatch.egg.gull.fireplace.label",
+  "ricorre": 2
+ },
+ {
+  "en": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of copper wire.]",
+  "dove": "recipes/draw.wire.spintria.bronze.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of gold wire.]",
+  "dove": "recipes/draw.wire.spintria.gold.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of silver wire.]",
+  "dove": "recipes/draw.wire.spintria.silver.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of steel wire.]",
+  "dove": "recipes/draw.wire.spintria.iron.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of tin wire.]",
+  "dove": "recipes/draw.wire.spintria.tin.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Jury-Rig the Lower Level Pumps",
+  "dove": "recipes/pumps.run.lower.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Jury-Rig the Upper Level Pumps",
+  "dove": "recipes/pumps.run.upper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "New life!",
+  "dove": "recipes/hatch.egg.gull.fireplace.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Pour out -",
+  "dove": "recipes/distributable.serve.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reduce something unique to something useful. [This will break the object down into Animal Bones.]",
+  "dove": "recipes/disassemble.carcass.necropsy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reduce something unique to something useful. [This will break the object down into Rags.]",
+  "dove": "recipes/disassemble.woven.workbench.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reduce something unique to something useful. [This will break the object down into Wooden Scraps.]",
+  "dove": "recipes/disassemble.wooden.workbench.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Saw Up a Carcass",
+  "dove": "recipes/disassemble.carcass.necropsy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serve Appropriately",
+  "dove": "recipes/distributable.serve.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Soft vapours rise.",
+  "dove": "recipes/dry.thing.fireplace.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "The fire's warmth can stir this egg to life - but it'll take a full day.",
+  "dove": "recipes/hatch.egg.gull.fireplace.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The machine roars into life. Sparks flicker. This will take a while.",
+  "dove": "recipes/pumps.run.lower.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The machine roars into life. Water thuds and gurgles. This will take a while.",
+  "dove": "recipes/pumps.run.upper.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The oven's warmth can stir this egg to life - but it'll take a full day.",
+  "dove": "recipes/hatch.egg.gull.kitchen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The pumps sputter and die; but they've done their work.",
+  "dove": "recipes/pumps.run.lower.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Two identical Ductile items can be drawn into wire.",
+  "dove": "recipes/draw.wire.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With care...",
+  "dove": "recipes/dry.thing.fireplace.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With great care...",
+  "dove": "recipes/dry.book.fireplace.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[This will need care as well as warmth and time; add a Soul card.]",
+  "dove": "recipes/dry.book.fireplace.hint.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "''One taste to sleep, two to wake, for what are eyelids but the skin of the eyes?'.",
+  "dove": "recipes/craft.keeper.edictsliminal_moth_honey.cuckoo_skinshuck mead.desc",
+  "ricorre": 11
+ },
+ {
+  "en": "A little-known secret: use the rose-petals to brew the <i>encaustum terminale</i> Porphyrine.\n\n[Pearl & Tide with Keeper-level <sprite name=rose>, plus Lenten Rose, creates Porphyrine.]",
+  "dove": "recipes/craft.keeper.pearl.tide_rose_lenten.rose_porphyrine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A little-known secret: when prepared with extraordinary care, Honeyscar Jasmine can catalyse the ferocious Knock-solvent called the Azoth.\n\n[Spices & Savours with Keeper-level <sprite name=forge>, plus Honeyscar Jasmine, creates Azoth.]",
+  "dove": "recipes/craft.keeper.spices.savours_forge_honeyscar.jasmine_azoth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Beneath the auspices of dusk, coax the larva to develop into a greater Moth-beast.\n\n[Insects & Nectars with Keeper-level <sprite name=moon>, plus Chimeric Larva, creates Perilous Imago.]",
+  "dove": "recipes/craft.keeper.insects.nectars_moon_larva.chimeric_perilous imago.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Edicts Liminal with Keeper-level <sprite name=moth>, plus Cuckoo-Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.edictsliminal_moth_honey.cuckoo_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Edicts Liminal with Keeper-level <sprite name=moth>, plus Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.edictsliminal_moth_honey_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Insects & Nectars with Keeper-level <sprite name=moon>, plus Cuckoo-Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.insects.nectars_moon_honey.cuckoo_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Resurgences & Emergences with Keeper-level <sprite name=moth>, plus Cuckoo-Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.resurgences.emergences_moth_honey.cuckoo_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Rites of the Roots with Keeper-level <sprite name=moth>, plus Cuckoo-Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.rites.theroots_moth_honey.cuckoo_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Rites of the Roots with Keeper-level <sprite name=moth>, plus Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.rites.theroots_moth_honey_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Sacra Limiae with Keeper-level <sprite name=moth>, plus Cuckoo-Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.sacralimiae_moth_honey.cuckoo_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Sacra Limiae with Keeper-level <sprite name=moth>, plus Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.sacralimiae_moth_honey_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Solutions & Separations with Keeper-level <sprite name=moth>, plus Cuckoo-Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.solutions.separations_moth_honey.cuckoo_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Solutions & Separations with Keeper-level <sprite name=moth>, plus Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.solutions.separations_moth_honey_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor with the honey.\n\n[Transformations & Liberations with Keeper-level <sprite name=moth>, plus Cuckoo-Honey, creates Skinshuck Mead.]",
+  "dove": "recipes/craft.keeper.transformations.liberations_moth_honey.cuckoo_skinshuck mead.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the <i>encaustum terminale</i> called Marakat.\n\n[Inks of Power with Keeper-level <sprite name=nectar>, plus Leathy, creates Marakat.]",
+  "dove": "recipes/craft.keeper.inks.power_nectar_leathy_marakat.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the <i>encaustum terminale</i> called Marakat.\n\n[Insects & Nectars with Keeper-level <sprite name=nectar>, plus Leathy, creates Marakat.]",
+  "dove": "recipes/craft.keeper.insects.nectars_nectar_leathy_marakat.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the <i>encaustum terminale</i> called Marakat.\n\n[Tridesma Hiera with Keeper-level <sprite name=nectar>, plus Leathy, creates Marakat.]",
+  "dove": "recipes/craft.keeper.tridesmahiera_nectar_leathy_marakat.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the bright ink ashartine from the ichor.\n\n[Anbary & Lapidary with Keeper-level <sprite name=sky>, plus Ichor Vitreous, creates Ashartine.]",
+  "dove": "recipes/craft.keeper.anbary.lapidary_sky_ichor.vitreous_ashartine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the bright ink ashartine from the ichor.\n\n[Glassblowing & Vesselcrafting with Keeper-level <sprite name=lantern>, plus Ichor Vitreous, creates Ashartine.]",
+  "dove": "recipes/craft.keeper.glassblowing.vesselcrafting_lantern_ichor.vitreous_ashartine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the bright ink ashartine from the ichor.\n\n[Glassblowing & Vesselcrafting with Keeper-level <sprite name=sky>, plus Ichor Vitreous, creates Ashartine.]",
+  "dove": "recipes/craft.keeper.glassblowing.vesselcrafting_sky_ichor.vitreous_ashartine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the bright ink ashartine from the ichor.\n\n[Glaziery & Lightsmithing with Keeper-level <sprite name=lantern>, plus Ichor Vitreous, creates Ashartine.]",
+  "dove": "recipes/craft.keeper.glaziery.lightsmithing_lantern_ichor.vitreous_ashartine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew the bright ink ashartine from the ichor.\n\n[Pyroglyphics with Keeper-level <sprite name=lantern>, plus Ichor Vitreous, creates Ashartine.]",
+  "dove": "recipes/craft.keeper.pyroglyphics_lantern_ichor.vitreous_ashartine.startdescription",
+  "ricorre": 1
+ }
+]

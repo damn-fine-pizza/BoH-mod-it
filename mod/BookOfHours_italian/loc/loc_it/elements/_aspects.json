@@ -1,0 +1,2325 @@
+{
+ "elements": [
+  {
+   "id": ".cho",
+   "label": "Marcatore Chor"
+  },
+  {
+   "id": ".ere",
+   "label": "Marcatore Ereb"
+  },
+  {
+   "id": ".fet",
+   "label": "Marcatore Fet"
+  },
+  {
+   "id": ".hea",
+   "label": "Marcatore Salute"
+  },
+  {
+   "id": ".met",
+   "label": "Marcatore Mettle"
+  },
+  {
+   "id": ".pho",
+   "label": "Marcatore Phost"
+  },
+  {
+   "id": ".sha",
+   "label": "Marcatore Shapt"
+  },
+  {
+   "id": ".tri",
+   "label": "Marcatore Trist"
+  },
+  {
+   "id": ".wis",
+   "label": "Marcatore Wist"
+  },
+  {
+   "id": "edge",
+   "label": "Lama",
+   "desc": "Ogni conquista avviene sulla Lama. Uno che vi dimora è cieco, e non può essere ferito. Un altro è forte, e si fa più forte. [La Lama è il principio della battaglia e della lotta.]"
+  },
+  {
+   "id": "forge",
+   "label": "Forgia",
+   "desc": "«Il fuoco», lessi una volta, «è l’inverno che riscalda e la primavera che consuma.» [Il principio della Forgia trasforma e distrugge.]"
+  },
+  {
+   "id": "grail",
+   "label": "Graal",
+   "desc": "Fame, brama, le acque che annegano. [Il principio del Graal onora tanto la nascita quanto il banchetto.]"
+  },
+  {
+   "id": "heart",
+   "label": "Cuore",
+   "desc": "Il Cuore Implacabile batte per proteggere la pelle del mondo che comprendiamo. [Il Cuore è il principio che continua e preserva.]"
+  },
+  {
+   "id": "knock",
+   "label": "Battente",
+   "desc": "Il principio detto Battente non tollera sigilli né isolamento. Ci spinge fuori, con gioia, dalla sicurezza dell’ignoranza. [Il Battente apre le porte e scuce le barriere.]"
+  },
+  {
+   "id": "lantern",
+   "label": "Lanterna",
+   "desc": "«La vita è una fiamma pura, e viviamo grazie a un Sole invisibile dentro di noi.» – Thomas Browne. [La Lanterna è il principio del luogo segreto talvolta detto Casa del Sole, e della luce che vi sta sopra.]"
+  },
+  {
+   "id": "moon",
+   "label": "Luna",
+   "desc": "I segreti sono morbidi; la notte lo è ancora di più; il mare parla. Non sempre è saggio ascoltarlo. [Ciò che è notturno, ciò che è dimenticato.]"
+  },
+  {
+   "id": "moth",
+   "label": "Falena",
+   "desc": "Conoscevo un uomo che catturava le falene sotto una campana di vetro. In notti come questa le liberava una a una perché morissero nella candela. [La Falena è il principio selvaggio e pericoloso del caos e dell’anelito.]"
+  },
+  {
+   "id": "nectar",
+   "label": "Nettare",
+   "desc": "La verde ricchezza nelle vene del mondo; il polso delle stagioni. [Molto tempo fa, alcuni chiamavano questo principio Sangue.]"
+  },
+  {
+   "id": "rose",
+   "label": "Rosa",
+   "desc": "«La rosa che tutto abbraccia». Nove direzioni verso nuovi orizzonti. [Esplorazione? Illuminazione? Speranza?]"
+  },
+  {
+   "id": "scale",
+   "label": "Squama",
+   "desc": "Dura fuori, dura dentro, difficile da destare, più difficile da domare. [Ciò che resta dei rozzi poteri della terra profonda.]"
+  },
+  {
+   "id": "sky",
+   "label": "Cielo",
+   "desc": "Vento, tempesta, eco, canto; gli intrichi della matematica e i principi del volo. Il tocco della Legge è più lieve di quanto talvolta si creda. [Questioni di equilibrio, armonia e necessità.]"
+  },
+  {
+   "id": "winter",
+   "label": "Inverno",
+   "desc": "... [L’Inverno è il principio del silenzio, delle fini, e di quelle cose che non sono del tutto morte.]"
+  },
+  {
+   "id": "boost.edge",
+   "label": "Slancio: Lama"
+  },
+  {
+   "id": "boost.forge",
+   "label": "Slancio: Forgia"
+  },
+  {
+   "id": "boost.grail",
+   "label": "Slancio: Graal"
+  },
+  {
+   "id": "boost.heart",
+   "label": "Slancio: Cuore"
+  },
+  {
+   "id": "boost.knock",
+   "label": "Slancio: Battente"
+  },
+  {
+   "id": "boost.lantern",
+   "label": "Slancio: Lanterna"
+  },
+  {
+   "id": "boost.moon",
+   "label": "Slancio: Luna"
+  },
+  {
+   "id": "boost.moth",
+   "label": "Slancio: Falena"
+  },
+  {
+   "id": "boost.nectar",
+   "label": "Slancio: Nettare"
+  },
+  {
+   "id": "boost.rose",
+   "label": "Slancio: Rosa"
+  },
+  {
+   "id": "boost.scale",
+   "label": "Slancio: Squama"
+  },
+  {
+   "id": "boost.sky",
+   "label": "Slancio: Cielo"
+  },
+  {
+   "id": "boost.winter",
+   "label": "Slancio: Inverno"
+  },
+  {
+   "id": "mystery.edge",
+   "label": "Mistero: Lama",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.forge",
+   "label": "Mistero: Forgia",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.grail",
+   "label": "Mistero: Graal",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.heart",
+   "label": "Mistero: Cuore",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.knock",
+   "label": "Mistero: Battente",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.lantern",
+   "label": "Mistero: Lanterna",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.moon",
+   "label": "Mistero: Luna",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.moth",
+   "label": "Mistero: Falena",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.nectar",
+   "label": "Mistero: Nettare",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.rose",
+   "label": "Mistero: Rosa",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.scale",
+   "label": "Mistero: Squama",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.sky",
+   "label": "Mistero: Cielo",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mystery.winter",
+   "label": "Mistero: Inverno",
+   "desc": "Le sfide più grandi richiedono abilità più salde."
+  },
+  {
+   "id": "mastery.edge",
+   "label": "Padronanza: Lama",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.forge",
+   "label": "Padronanza: Forgia",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.grail",
+   "label": "Padronanza: Graal",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.heart",
+   "label": "Padronanza: Cuore",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.knock",
+   "label": "Padronanza: Battente",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.lantern",
+   "label": "Padronanza: Lanterna",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.moon",
+   "label": "Padronanza: Luna",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.moth",
+   "label": "Padronanza: Falena",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.nectar",
+   "label": "Padronanza: Nettare",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.rose",
+   "label": "Padronanza: Rosa",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.scale",
+   "label": "Padronanza: Squama",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.sky",
+   "label": "Padronanza: Cielo",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastery.winter",
+   "label": "Padronanza: Inverno",
+   "desc": "Conosco bene questo testo."
+  },
+  {
+   "id": "mastering.edge",
+   "label": "padroneggiare: Lama",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.forge",
+   "label": "padroneggiare: Forgia",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.grail",
+   "label": "padroneggiare: Graal",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.heart",
+   "label": "padroneggiare: Cuore",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.knock",
+   "label": "padroneggiare: Battente",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.lantern",
+   "label": "padroneggiare: Lanterna",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.moon",
+   "label": "padroneggiare: Luna",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.moth",
+   "label": "padroneggiare: Falena",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.nectar",
+   "label": "padroneggiare: Nettare",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.rose",
+   "label": "padroneggiare: Rosa",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.scale",
+   "label": "padroneggiare: Squama",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.sky",
+   "label": "padroneggiare: Cielo",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "mastering.winter",
+   "label": "padroneggiare: Inverno",
+   "desc": "Recipe aspect to trigger skill release etc"
+  },
+  {
+   "id": "ability",
+   "label": "Elemento dell’Anima",
+   "desc": "L’anima umana si compone di nove elementi, e questo è uno di essi. Quasi tutto il resto ha un’anima più semplice. [Ogni carta Anima si può usare una volta al giorno, per le cose che si fanno con l’anima. Di solito significa «parlare con qualcuno» o «creare».]"
+  },
+  {
+   "id": "ability.setup",
+   "label": "Elemento dell’Anima?",
+   "desc": "L’anima umana si compone di nove elementi... [Ricorda ciò che eri, con l’aiuto del tuo diario.]"
+  },
+  {
+   "id": "advancing",
+   "label": "Avanzamento",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "agenda.corrivality",
+   "label": "Agenda: Corrivalità",
+   "desc": "Crede che il conflitto sia necessario al sostentamento del mondo."
+  },
+  {
+   "id": "agenda.peace",
+   "label": "Agenda: Pace",
+   "desc": "Crede che la lotta e la guerra possano ancora essere causa dell’immolazione del mondo."
+  },
+  {
+   "id": "agenda.secrecy",
+   "label": "Agenda: Segretezza",
+   "desc": "È consapevole dei pericoli della conoscenza e dei benefici della Calyptra."
+  },
+  {
+   "id": "agenda.revelation",
+   "label": "Agenda: Rivelazione",
+   "desc": "Desidera condividere la conoscenza, a dispetto della Calyptra."
+  },
+  {
+   "id": "agenda.autarchy",
+   "label": "Agenda: Autarchia",
+   "desc": "Ritiene importante che l’umanità – e ogni Istituto che la custodisce – possa sopravvivere senza il patrocinio di alcuna Ora."
+  },
+  {
+   "id": "agenda.better.gods",
+   "label": "Agenda: Dèi Migliori",
+   "desc": "Spera di costruire qualcosa che sostituisca le Ore."
+  },
+  {
+   "id": "agenda.stone.consumed",
+   "label": "Agenda: Pietra Consumata",
+   "desc": "Brucerebbe o frantumerebbe ciò che resta degli dèi-dalla-pietra, per alimentare i propri fini."
+  },
+  {
+   "id": "agenda.stone.remembered",
+   "label": "Agenda: Pietra Ricordata",
+   "desc": "Vorrebbe rammentare o preservare qualcosa degli dèi-dalla-pietra."
+  },
+  {
+   "id": "appointing",
+   "label": "Nomina",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "appointment.enigmatic",
+   "label": "Segretario Enigmatico",
+   "desc": "Il Segretario Enigmatico cela o rivela i segreti dell’Istituto."
+  },
+  {
+   "id": "appointment.nunciant",
+   "label": "Segretario Nunziante",
+   "desc": "Il Segretario Nunziante comunica e tratta con le altre organizzazioni."
+  },
+  {
+   "id": "appointment.persistent",
+   "label": "Segretaria Persistente",
+   "desc": "La Segretaria Persistente risponde in ultima istanza della continuità dell’Istituto."
+  },
+  {
+   "id": "appointment.salvant",
+   "label": "Segretario Salvante",
+   "desc": "Il Segretario Salvante guida le opere di cura e restauro dell’Istituto."
+  },
+  {
+   "id": "appointment.treasurer",
+   "label": "Tesoriere",
+   "desc": "Il Tesoriere risponde delle finanze dell’Istituto."
+  },
+  {
+   "id": "appointment.vigilant",
+   "label": "Segretario Vigilante",
+   "desc": "Il Segretario Vigilante provvede alla sicurezza dell’Istituto."
+  },
+  {
+   "id": "arriving",
+   "label": "Arrivo",
+   "desc": "(recipe aspect) - visitor has reached their destination and is no longer embarking"
+  },
+  {
+   "id": "assistance",
+   "label": "Aiuto",
+   "desc": "L’Archivista vive in solitudine. Ma non c’è vergogna nel chiedere aiuto ad altri. [L’Aiuto può aprire nuove stanze o giovare agli studi. Svanisce quando viene usato, o all’alba.]"
+  },
+  {
+   "id": "beverage",
+   "label": "Bevanda",
+   "desc": "Certe cose è più saggio berle al mattino... altre è più saggio berle la sera."
+  },
+  {
+   "id": "beverage.raveline",
+   "label": "Bevanda: Raveline",
+   "desc": "[Invisible marker aspect for the various Raveline wine objects]"
+  },
+  {
+   "id": "brewable",
+   "label": "Da Infondere",
+   "desc": "Pronto per essere messo in infusione, o scaldato, o trasformato. [Usalo a un camino o a una cucina economica.]"
+  },
+  {
+   "id": "blank",
+   "label": "Grezzo",
+   "desc": "Venite, parole amiche."
+  },
+  {
+   "id": "cache",
+   "label": "Scorta",
+   "desc": "Dentro dev’esserci qualcosa di interessante, sigillato! [Usaci Esamina.]"
+  },
+  {
+   "id": "cache.bright.rarities",
+   "label": "Rarità Lucente",
+   "desc": "Quale lucente tesoro?"
+  },
+  {
+   "id": "cache.night.rarities",
+   "label": "Rarità Notturna",
+   "desc": "Quale dono di mezzanotte?"
+  },
+  {
+   "id": "cache.unregarded.rarities",
+   "label": "Rarità Trascurata",
+   "desc": "Quale delizia passata inosservata?"
+  },
+  {
+   "id": "cache.sovereign.rarities",
+   "label": "Rarità Sovrana",
+   "desc": "Quale sovrana meraviglia?"
+  },
+  {
+   "id": "campable",
+   "label": "Occupante",
+   "desc": "[Un Visitatore o un Elemento dell’Anima con questo aspetto può essere posto in un Letto per Ospiti, e occuparlo per un poco.]"
+  },
+  {
+   "id": "camping",
+   "label": "Porre il Campo",
+   "desc": "Ho scelto questo come mia base, per ora."
+  },
+  {
+   "id": "carcass",
+   "label": "Carcassa",
+   "desc": "Qualcosa che un tempo si muoveva senza il mio aiuto. [Portalo a un Tavolo di Necroscopia per ridurlo in Ossa Animali.]"
+  },
+  {
+   "id": "circumstance",
+   "label": "Circostanza",
+   "desc": "Qualcosa che è così, ma solo per ora. [Le Circostanze svaniscono nella stagione di Numa.]"
+  },
+  {
+   "id": "curated.busts",
+   "label": "Collezione: gli Archivisti della Hush House",
+   "desc": "L’ho collocato dove doveva stare."
+  },
+  {
+   "id": "comfort",
+   "label": "Conforto",
+   "desc": "La Hush House è stata definita «desolata», ma di solito solo da chi non vi ha mai messo piede."
+  },
+  {
+   "id": "connie.resigning",
+   "label": "Dimissioni di Connie",
+   "desc": "(recipe aspect - Connie leaves Bureau)"
+  },
+  {
+   "id": "cooperative",
+   "label": "Cooperativo",
+   "desc": "Nessun disturbo, almeno non adesso."
+  },
+  {
+   "id": "considerable",
+   "label": "Esaminabile",
+   "desc": "Posso usare Esamina per ricavarne altre notizie."
+  },
+  {
+   "id": "convo.mettle",
+   "label": "C: Mettle",
+   "desc": "triggers ability req in salons(no loc needed)"
+  },
+  {
+   "id": "convo.chor",
+   "label": "C: Chor",
+   "desc": "triggers ability req in salons(no loc needed)"
+  },
+  {
+   "id": "convo.ereb",
+   "label": "C: Ereb",
+   "desc": "triggers ability req in salons(no loc needed)"
+  },
+  {
+   "id": "convo.fet",
+   "label": "C: Fet",
+   "desc": "triggers ability req in salons(no loc needed)"
+  },
+  {
+   "id": "convo.phost",
+   "label": "C: Phost"
+  },
+  {
+   "id": "convo.shapt",
+   "label": "C: Shapt",
+   "desc": "triggers ability req in salons(no loc needed)"
+  },
+  {
+   "id": "convo.trist",
+   "label": "C: Trist",
+   "desc": "triggers ability req in salons(no loc needed)"
+  },
+  {
+   "id": "convo.wist",
+   "label": "C: Wist",
+   "desc": "triggers ability req in salons(no loc needed)"
+  },
+  {
+   "id": "correspondence",
+   "label": "Corrispondenza",
+   "desc": "Posso rispondere da una scrivania."
+  },
+  {
+   "id": "cost.pence",
+   "label": "Prezzo in Penny",
+   "desc": "La somma pagabile nella moneta del regno."
+  },
+  {
+   "id": "cost.tally",
+   "label": "Prezzo in Tacche",
+   "desc": "Un prezzo come lo computerebbe il mondo invisibile; pagato in valuta insolita, come i gettoni detti <i>spintriae</i>."
+  },
+  {
+   "id": "count",
+   "label": "Conteggio",
+   "desc": "È il numero che conteresti, se lo contassi."
+  },
+  {
+   "id": "course.first",
+   "label": "Primo Piatto",
+   "desc": "Di solito si mangia come spuntino leggero, o prima di un Piatto Principale."
+  },
+  {
+   "id": "course.main",
+   "label": "Piatto Principale",
+   "desc": "Il cuore e il sostegno di un buon pasto."
+  },
+  {
+   "id": "course.side",
+   "label": "Contorno",
+   "desc": "Di solito si mangia come spuntino leggero, o accanto a un Piatto Principale."
+  },
+  {
+   "id": "course.pudding",
+   "label": "Dolce",
+   "desc": "«Se non mangi la carne, niente dolce. Come puoi avere il dolce se non mangi la carne?» – Waters"
+  },
+  {
+   "id": "decamping",
+   "label": "Levare il Campo",
+   "desc": "Proseguo il cammino."
+  },
+  {
+   "id": "departing",
+   "label": "Partenza",
+   "desc": "(recipe aspect) - retires assistance (could also prep visitor for hasty leaving, but we currently only use satisfying + decay"
+  },
+  {
+   "id": "delivery",
+   "label": "Consegna",
+   "desc": "Per me?"
+  },
+  {
+   "id": "delivering",
+   "label": "Consegna in Corso",
+   "desc": "(recipe aspect) - replaces a mail order purchase or contact request with its outcome, OR a token that requires a deck draw /  grab from offscreen."
+  },
+  {
+   "id": "difficulty.oddities",
+   "label": "Difficoltà: Stranezza",
+   "desc": "[Un Aspetto pertinente a questo livello dà una possibilità di trovare una stranezza.]"
+  },
+  {
+   "id": "difficulty.rarities",
+   "label": "Difficoltà: Rarità",
+   "desc": "[Un Aspetto pertinente a questo livello dà una possibilità di trovare una rarità.]"
+  },
+  {
+   "id": "difficulty.prentice",
+   "label": "Sfide da Apprendista",
+   "desc": "Le tecniche più semplici richiedono la sola abilità. [Per le ricette di base, fornisci cinque gradi dell’Aspetto richiesto]."
+  },
+  {
+   "id": "difficulty.scholar",
+   "label": "Sfide da Studioso",
+   "desc": "Le tecniche più avanzate richiedono potere oltre a notevole abilità. [Per le ricette più impegnative, fornisci dieci gradi dell’Aspetto richiesto. Ogni ricetta da Studioso richiede anche un ingrediente con un Aspetto preciso.]."
+  },
+  {
+   "id": "difficulty.keeper",
+   "label": "Sfide da Custode",
+   "desc": "Alla portata solo dei saggi, dei grandi, o degli idioti più fortunati. [Per le ricette più impegnative, fornisci quindici gradi dell’Aspetto richiesto. Ogni ricetta da Custode richiede anche un ingrediente molto preciso: l’ingrediente perfetto può perfino ridurre l’Aspetto necessario.]."
+  },
+  {
+   "id": "dissatisfying",
+   "label": "Insoddisfacente",
+   "desc": "per esempio convincere un visitatore che non ne vale la pena. Si può usare sia per segnarlo per la partenza, sia per i commenti di insoddisfazione"
+  },
+  {
+   "id": "dist",
+   "label": "Dist",
+   "desc": "Distributing, pouring out, likely candidate for renaming"
+  },
+  {
+   "id": "distributable",
+   "label": "Da Servire –",
+   "desc": "Usa una scorta di bicchieri o tazze per mescerlo."
+  },
+  {
+   "id": "ductile",
+   "label": "Duttile",
+   "desc": "[Portalo a un Banco da Lavoro per ridurlo in Filo Metallico.]"
+  },
+  {
+   "id": "drying",
+   "label": "Asciugatura",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "echidna.inspired"
+  },
+  {
+   "id": "encaustum",
+   "label": "Encaustum Terminale",
+   "desc": "«La Storia sarà indulgente con me, perché intendo scriverla io.» – Churchill [Usa gli inchiostri Encaustum per prendere Determinazioni che possono avere conseguenze di vasta portata.]"
+  },
+  {
+   "id": "exalted.beverage",
+   "label": "Esaltato: Bevanda",
+   "desc": "Bere una Bevanda ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.candle",
+   "label": "Esaltato: Candela",
+   "desc": "Questo assistente ha una luce da portare nel buio, e per oggi le sue capacità ne sono migliorate."
+  },
+  {
+   "id": "exalted.collaboration",
+   "label": "Collaborazione",
+   "desc": "Tu e questo assistente collaborate per oggi."
+  },
+  {
+   "id": "exalted.fabric",
+   "label": "Esaltato: Tessuto",
+   "desc": "L’accesso a qualcosa di tessuto ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.flower",
+   "label": "Esaltato: Fiore",
+   "desc": "Un’ispirazione passeggera ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.fuel",
+   "label": "Esaltato: Combustibile",
+   "desc": "L’accesso al Combustibile ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.memory",
+   "label": "Esaltato: Memoria",
+   "desc": "Condividere una Memoria ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.metal",
+   "label": "Esaltato: Metallo",
+   "desc": "L’accesso a un metallo utile ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.omen",
+   "label": "Esaltato: Presagio",
+   "desc": "Un auspicio appropriato ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.pigment",
+   "label": "Esaltato: Pigmento",
+   "desc": "La disponibilità di un pigmento esotico ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.sustenance",
+   "label": "Esaltato: Nutrimento",
+   "desc": "Consumare Nutrimento ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.tool",
+   "label": "Esaltato: Arnese",
+   "desc": "Prendere in prestito un Arnese ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "exalted.wood",
+   "label": "Esaltato: Legno",
+   "desc": "L’accesso a un materiale utile ha migliorato per oggi le capacità di questo assistente."
+  },
+  {
+   "id": "fatigued",
+   "label": "Affaticato",
+   "desc": "Aspetta un poco. [Le abilità affaticate si riprendono sempre all’alba, a meno di trovare un rimedio più rapido.]"
+  },
+  {
+   "id": "fatiguing",
+   "label": "affaticare",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "fatiguing.ability",
+   "label": "affatica un’abilità",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "fatiguing.beverage",
+   "label": "Colpisce in particolare le bevande",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "fatiguing.ingredients",
+   "label": "Consuma una gran varietà di oggetti",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "fatiguing.memory",
+   "label": "affatica una memoria",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "fatiguing.spintria",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "fatiguing.sustenance",
+   "label": "Colpisce in particolare il cibo",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "fear.chandler",
+   "label": "Timore: Chandler",
+   "desc": "Conosce i pericoli della venuta del Chandler."
+  },
+  {
+   "id": "fear.ys",
+   "label": "Timore: Ys",
+   "desc": "Conosce l’insidia delle seduzioni di Ys."
+  },
+  {
+   "id": "fear.carapace",
+   "label": "Timore: Carapace",
+   "desc": "Sa che il Carapace potrebbe consumare l’umanità – o renderla irriconoscibile."
+  },
+  {
+   "id": "fear.devourers",
+   "label": "Timore: Divoratori",
+   "desc": "Conosce le insidie del mondo nascosto: aluchiti, spiriti del Mansus, fantasmi affamati..."
+  },
+  {
+   "id": "fear.nowhere",
+   "label": "Timore: Nessun Luogo",
+   "desc": "Comprende l’orrore divorante degli dèi-dal-Nessun Luogo."
+  },
+  {
+   "id": "fixed",
+   "label": "Fissato al Suo Posto",
+   "desc": "Non posso rimuoverlo senza usare una forza tale da danneggiarlo... e nessun Archivista della Casa sarebbe così rozzo."
+  },
+  {
+   "id": "codex",
+   "label": "Codice",
+   "desc": "Pagine, copertina, dorso: sapere riposto con decoro, come organi."
+  },
+  {
+   "id": "film",
+   "label": "Bobina di Pellicola",
+   "desc": "E pensavi che fossero i <i>libri</i> a essere infiammabili. [«Leggibile» solo nel senso più ampio. Trova un Proiettore per farla scorrere.]"
+  },
+  {
+   "id": "infinitereadable",
+   "label": "Moltitudinoso",
+   "desc": "[Di questo libro esistono più versioni, ciascuna leggibile per conto suo; comincerai a trovarle una volta esaurite tutte le altre possibilità di una certa fonte.]"
+  },
+  {
+   "id": "hidden.mihail.altar",
+   "label": "Mihail sull’Altare"
+  },
+  {
+   "id": "hidden.mihail.sarcophagus",
+   "label": "Mihail nel Sarcofago"
+  },
+  {
+   "id": "instrument",
+   "label": "Strumento",
+   "desc": "Qui attende la musica."
+  },
+  {
+   "id": "record.phonograph",
+   "label": "Disco per Fonografo",
+   "desc": "Un labirinto di solchi impazienti attende la puntina. [«Leggibile» solo nel senso più ampio. Trova un Fonografo per farlo suonare.]"
+  },
+  {
+   "id": "scroll",
+   "label": "Rotolo",
+   "desc": "Un libro con una pagina molto lunga."
+  },
+  {
+   "id": "tablet",
+   "label": "Tavoletta",
+   "desc": "Un libro con pochissime pagine."
+  },
+  {
+   "id": "beast",
+   "label": "Bestia",
+   "desc": "Quando qualcosa si muove, e non è il vento, e non è una persona."
+  },
+  {
+   "id": "egg",
+   "label": "Uovo",
+   "desc": "«Quando un uovo non è morto, qualcosa può uscirne. Quando un uovo è morto, qualcosa vi si può riporre.» – Thirza Blake, settima Archivista della Hush House"
+  },
+  {
+   "id": "fabric",
+   "label": "Tessuto e Fibra",
+   "desc": "Il Killasimi, la «lingua tessuta», si scrive con il filo, non con l’inchiostro. Naturalmente la fibra ha anche altri usi, più prosaici. La tappezzeria può essere più avventurosa di quanto sembri."
+  },
+  {
+   "id": "finished",
+   "label": "Finito",
+   "desc": "Questo è, almeno in un senso, completo; concluso; fatto. "
+  },
+  {
+   "id": "flower",
+   "label": "Fiore",
+   "desc": "I capelli di una pianta."
+  },
+  {
+   "id": "friend",
+   "label": "Amico",
+   "desc": "Qualcuno ti conosce abbastanza da fidarsi di te."
+  },
+  {
+   "id": "befriending",
+   "label": "Farsi Amico",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "bread",
+   "label": "Pane",
+   "desc": "I grani patiscono, perché possano entrare in noi ed essere una cosa sola con noi."
+  },
+  {
+   "id": "candle",
+   "label": "Candela",
+   "desc": "Loro di solito ardono più luminose, ma noi di solito ardiamo più a lungo."
+  },
+  {
+   "id": "cleaning",
+   "label": "Pulizia",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "covenant",
+   "label": "Patto",
+   "desc": "-"
+  },
+  {
+   "id": "delegacizing",
+   "label": "Delega",
+   "desc": "Recipe meta aspect for resolving problem content"
+  },
+  {
+   "id": "device",
+   "label": "Congegno",
+   "desc": "Una macchina che funzionerà una volta sola. Se è un congegno <i>infernale</i>, vuol dire che esploderà: attenzione."
+  },
+  {
+   "id": "dissipating",
+   "label": "Dissipazione",
+   "desc": "(recipe aspect) - removes or sets ready for retirement temporary conditions (like dampness) - xpans at dawn"
+  },
+  {
+   "id": "employable",
+   "label": "Assumibile",
+   "desc": "È qualcuno che puoi assumere per un giorno."
+  },
+  {
+   "id": "fee",
+   "label": "Compenso",
+   "desc": "Il prezzo che questa persona chiede per una giornata di lavoro."
+  },
+  {
+   "id": "forgetting",
+   "label": "Oblio",
+   "desc": "(recipe aspect) - sets memories ready for retirement"
+  },
+  {
+   "id": "forgetting.persistent",
+   "label": "Oblio Profondo",
+   "desc": "(recipe aspect) - sets all memories ready for retirement, even Persistent ones"
+  },
+  {
+   "id": "form.order",
+   "label": "Modulo d’Ordine"
+  },
+  {
+   "id": "fruit",
+   "label": "Frutto",
+   "desc": "Il grembo di una pianta?"
+  },
+  {
+   "id": "fuel",
+   "label": "Combustibile",
+   "desc": "«Ogni ora ha il suo colore. Ogni fiamma ha il suo combustibile. Non fidarti dei tuoi sogni.» – George Collers, primo e ultimo Governatore della Prigione di Brancrug"
+  },
+  {
+   "id": "gem",
+   "label": "Gemma",
+   "desc": "Talvolta lucente; sempre preziosa."
+  },
+  {
+   "id": "glass",
+   "label": "Vetro",
+   "desc": "Lucido e fragile. Anche la sabbia può un giorno essere l’occhio della roccia."
+  },
+  {
+   "id": "grateful",
+   "label": "Grato",
+   "desc": "Qualcuno ha trovato utile il mio aiuto."
+  },
+  {
+   "id": "hanging",
+   "label": "Appeso",
+   "desc": "Adorna le sale."
+  },
+  {
+   "id": "history",
+   "label": "Storia",
+   "desc": "La Storia non è ciò che è accaduto; è ciò che si sa essere accaduto. [Hai preso una decisione che muterà il corso del mondo. Porta il tuo diario all’Albero nella stagione di Numa.]"
+  },
+  {
+   "id": "host.technique.summon.echidna",
+   "label": "Ospite della Tecnica di Echidna",
+   "desc": "Questa abilità può ospitare la Tecnica di Evocazione di Echidna"
+  },
+  {
+   "id": "incident",
+   "label": "Incidente",
+   "desc": "Una faccenda che interessa ai visitatori. [Un Incidente di solito resta rilevante per diverse stagioni; i visitatori continueranno a venire nella pausa prima dell’Incidente successivo.]"
+  },
+  {
+   "id": "ingredient",
+   "label": "Ingrediente da Cucina",
+   "desc": "Sarà parte di qualcosa di più grande. [Con HOUSE OF LIGHT, gli Ingredienti da Cucina si possono usare per cucinare e preparare cibo in cucina.]"
+  },
+  {
+   "id": "inert",
+   "label": "Inerte",
+   "desc": "Un congegno, ma non di quelli che si attivano maneggiandoli per caso. [Sopravvive a Esamina senza consumarsi, anche se si consumerà comunque nella creazione.]"
+  },
+  {
+   "id": "ink",
+   "label": "Inchiostro",
+   "desc": "Se scarabocchia, mescolalo."
+  },
+  {
+   "id": "inspired",
+   "label": "Ispirato",
+   "desc": "Qualcuno che persegue un disegno più alto."
+  },
+  {
+   "id": "intoxicating",
+   "label": "Inebriante",
+   "desc": "«Presto, portami una coppa di vino, che possa bagnarmi la mente e dire qualcosa di arguto.» – Aristofane"
+  },
+  {
+   "id": "introduction",
+   "label": "Una Presentazione",
+   "desc": "Anche in questo luogo remoto si possono incontrare nuovi amici, o farsi nuovi nemici."
+  },
+  {
+   "id": "invitation",
+   "label": "Un Invito",
+   "desc": "Se lo porto all’Ufficio Postale – e se ho i soldi per un francobollo – se il destinatario è in casa – se non ha altri impegni – se non sta proprio ora lasciando Brancrug – allora questo lo condurrà qui."
+  },
+  {
+   "id": "inspiring.agenda.corrivality",
+   "label": "Agenda: Corrivalità"
+  },
+  {
+   "id": "inspiring.agenda.peace",
+   "label": "Agenda: Pace"
+  },
+  {
+   "id": "inspiring.agenda.secrecy",
+   "label": "Agenda: Segretezza"
+  },
+  {
+   "id": "inspiring.agenda.revelation",
+   "label": "Agenda: Rivelazione"
+  },
+  {
+   "id": "inspiring.agenda.autarchy",
+   "label": "Agenda: Autarchia"
+  },
+  {
+   "id": "inspiring.agenda.better.gods",
+   "label": "Agenda: Dèi Migliori"
+  },
+  {
+   "id": "inspiring.agenda.stone.consumed",
+   "label": "Agenda: Pietra Consumata"
+  },
+  {
+   "id": "inspiring.agenda.stone.remembered",
+   "label": "Agenda: Pietra Ricordata"
+  },
+  {
+   "id": "inspiring.sympathy.chandler",
+   "label": "Simpatia: Chandler"
+  },
+  {
+   "id": "inspiring.sympathy.ys",
+   "label": "Simpatia: Ys"
+  },
+  {
+   "id": "inspiring.sympathy.carapace",
+   "label": "Simpatia: Carapace"
+  },
+  {
+   "id": "inspiring.sympathy.reckoners",
+   "label": "Simpatia: Conteggiatori"
+  },
+  {
+   "id": "inspiring.fear.chandler",
+   "label": "Timore: Chandler"
+  },
+  {
+   "id": "inspiring.fear.ys",
+   "label": "Timore: Ys"
+  },
+  {
+   "id": "inspiring.fear.carapace",
+   "label": "Timore: Carapace"
+  },
+  {
+   "id": "inspiring.fear.devourers",
+   "label": "Timore: Divoratori"
+  },
+  {
+   "id": "inspiring.fear.nowhere",
+   "label": "Timore: Nessun Luogo"
+  },
+  {
+   "id": "journal",
+   "label": "Diario",
+   "desc": "Ho avuto inizio prima di questo libro, ma finirà quando finirò io."
+  },
+  {
+   "id": "key",
+   "label": "Chiave",
+   "desc": "«Quella parte dell’anima detta <i>shapt</i> è lasciata fuori dalla Porta Bianca del Mansus, come una chiave nella serratura». (O come una spada fuori dalla sala di un re, a dar retta alla Nobile Impresa.)"
+  },
+  {
+   "id": "kitchenware",
+   "label": "Utensili da Cucina",
+   "desc": "Accanto a una casseruola non stonerà granché."
+  },
+  {
+   "id": "knife",
+   "label": "Coltello",
+   "desc": "«Questa è la linea della divisione.» – Wolfe"
+  },
+  {
+   "id": "leaf",
+   "label": "Foglia",
+   "desc": "Le mani di una pianta."
+  },
+  {
+   "id": "lesson",
+   "label": "Lezione",
+   "desc": "Un gradino della scala della Sapienza. [Usala per ottenere o migliorare un’Abilità.]"
+  },
+  {
+   "id": "liquid",
+   "label": "Liquido",
+   "desc": "«Cosa cerca le profondità, fugge le altezze, e non può essere trattenuta da catena mai forgiata?»"
+  },
+  {
+   "id": "lens",
+   "label": "Lente",
+   "desc": "Thomas Dewulf, detto Barone Silenzio, costruì l’osservatorio di Brancrug. Era noto per pagare bene, ma le sue pretese erano tanto minuziose che nessun molatore di lenti accettò di lavorare con lui una seconda volta."
+  },
+  {
+   "id": "light",
+   "label": "Luce",
+   "desc": "Perché possiamo vedere, o perché possiamo celebrare."
+  },
+  {
+   "id": "lyterion",
+   "label": "Lyterion",
+   "desc": "Qui può stare la conoscenza che riguarda il Lyterion."
+  },
+  {
+   "id": "malady",
+   "label": "Malanno",
+   "desc": "Qualcosa ha irretito o ammalato la mia anima. [Le carte Anima possono essere contaminate da un Malanno quando ci si espone a influssi pericolosi, talvolta fallendo un compito. I Malanni non si possono esaurire, ma l’anima ne esce alterata e indebolita, e trascurarli può avere conseguenze gravi.]"
+  },
+  {
+   "id": "malady.cure.forge",
+   "label": "Curato con la Forgia",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa di corroborante da bere, e questa quantità di aspetto Forgia per sollevare dall’anima i vapori del bosco."
+  },
+  {
+   "id": "malady.cure.grail",
+   "label": "Curato con il Graal",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa di adeguatamente allettante da bere, e questa quantità di aspetto Graal per richiamare le realtà della carne."
+  },
+  {
+   "id": "malady.cure.heart",
+   "label": "Curato con il Cuore",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa di ristoratore da bere, e questa quantità di aspetto Cuore per rinnovare la carne sofferente."
+  },
+  {
+   "id": "malady.cure.lantern",
+   "label": "Curato con la Lanterna",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa di adatto da bere (magari luminoso e rinvigorente), e questa quantità di aspetto Lanterna per ravvivare la luce dell’anima."
+  },
+  {
+   "id": "malady.cure.moth",
+   "label": "Curato con la Falena",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa di adatto da bere, e questa quantità di aspetto Falena per distrarre la presenza che possiede."
+  },
+  {
+   "id": "malady.cure.nectar",
+   "label": "Curato con il Nettare",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa di adatto da bere (magari verde e lenitivo), e questa quantità di aspetto Nettare per riportare a terra l’anima frenetica."
+  },
+  {
+   "id": "malady.cure.sky",
+   "label": "Curato con il Cielo",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa di adatto da bere (magari effervescente), e questa quantità di aspetto Cielo per rallegrare l’anima tormentata."
+  },
+  {
+   "id": "malady.cure.winter",
+   "label": "Curato con l’Inverno",
+   "desc": "Questo malanno si cura con il riposo a letto, qualcosa da bere (preferibilmente freddo), e questa quantità di aspetto Inverno per placare l’anima sensibile."
+  },
+  {
+   "id": "malady.curing",
+   "label": "Malanno: Curato!"
+  },
+  {
+   "id": "malady.inflicting",
+   "label": "Malanno: Inflitto!"
+  },
+  {
+   "id": "mark",
+   "label": "Traccia",
+   "desc": "Un’impronta fragile e instabile."
+  },
+  {
+   "id": "manuscript",
+   "label": "Manoscritto",
+   "desc": "L’ho scritto io; rileggendolo non imparerò nulla di nuovo, ma i Visitatori forse sì."
+  },
+  {
+   "id": "material",
+   "label": "Materiale",
+   "desc": "Qualcosa che ha il potenziale di diventare qualcosa. Se lo metto dentro qualcosa."
+  },
+  {
+   "id": "memory",
+   "label": "Memoria",
+   "desc": "Ciò che si ricorda può essere ciò che si comprende. [Le Memorie si possono usare per aiutare nella creazione e per migliorare le Abilità. Le Memorie svaniscono ogni alba, tranne quelle Persistenti.]"
+  },
+  {
+   "id": "message.rhonwen.act1",
+   "label": "Il Messaggio di St Rhonwen",
+   "desc": "Una risposta o un promemoria"
+  },
+  {
+   "id": "memories.revolutionary",
+   "label": "Memorie: il Rivoluzionario",
+   "desc": "«La conoscenza è il terrore degli oppressori.» Ho rovesciato la mia parte di oppressioni terrene; ma Calyptra è la tirannia dell’eternità. Quando finalmente potremo pronunciarne il nome e vivere, solo allora potremo dirci liberi."
+  },
+  {
+   "id": "memories.executioner",
+   "label": "Memorie: il Boia",
+   "desc": "«Il Bureau di Soppressione mi assunse per preservare il mondo diurno, distruggendo le cose che camminano nella notte. Per anni ho servito quel dovere con fedeltà... ma a volte le cose a cui davo la caccia piangevano mentre le uccidevo. Così alla fine ho riposto i miei coltelli e ho preso la via di questo luogo, dove non posso più far danno. Forse posso perfino riparare.»"
+  },
+  {
+   "id": "memories.archaeologist",
+   "label": "Memorie: l’Archeologo",
+   "desc": "«Ho aperto una tomba, e ho scoperto – troppo tardi – che era una prigione. La peste che ho liberato è ora la mia ombra, o forse io sono il suo riflesso. È troppo tardi per rimediare, ma non è mai troppo tardi per proteggere il futuro dal passato. Alla Hush House non posso far danno. Forse posso perfino fare ammenda.»"
+  },
+  {
+   "id": "memories.cartographer",
+   "label": "Memorie: il Cartografo",
+   "desc": "«Non esiste una mappa della Casa del Sole, dove camminano gli dèi invisibili. Come potrebbe esistere, se ogni anno muta e tuttavia ogni anno resta la stessa? Difficile, certo. Impossibile? Vediamo.»"
+  },
+  {
+   "id": "memories.prodigal",
+   "label": "Memorie: il Prodigo",
+   "desc": "«I miei genitori erano Lunghi – vale a dire immortali – e ai Lunghi non è concesso generare figli. La loro pena è questa: ora che sanno che vivo, non avranno requie finché non mi avranno divorato. Qui alla Hush House sarò al sicuro. È perfino possibile che impari a foggiare un’arma per difendermi.»"
+  },
+  {
+   "id": "memories.twiceborn",
+   "label": "Memorie: il Rinato",
+   "desc": "«Ricordo che un tempo camminavo per la Casa del Sole come immortale senza corpo; ma c’era una faccenda che si poteva risolvere solo tornando nella carne. Ora, se torno alla Casa del Sole, mi daranno la caccia e mi puniranno; se resto nella carne, mi daranno la caccia e mi divoreranno. Mi serve una terza scelta. Restare alla Hush House, come Archivista, sarebbe una di queste. Ma potrebbe esserci qualcosa di più.»"
+  },
+  {
+   "id": "memories.magnate",
+   "label": "Memorie: il Magnate",
+   "desc": "«Ho vissuto troppo a lungo, ma non è ancora ora di morire. Ho assaggiato ogni cosa, e non è bastato. Datemi il silenzio; datemi la pace; datemi la pace della neve.»"
+  },
+  {
+   "id": "memories.symurgist",
+   "label": "Memorie: il Simurgista",
+   "desc": "«Ho origliato i canti delle Ore Aviformi. Avevo udito gli ammonimenti: ci avrei rimesso la mente, l’anima, la pelle. Tutto vero, ma nessuno ti avverte mai di cosa accade se la scampi... e cioè che dopo, semplicemente, non sembra esserci più nulla che valga la pena di ascoltare»"
+  },
+  {
+   "id": "memories.artist",
+   "label": "Memorie: l’Artista",
+   "desc": "«Dada era un inizio. Il Manifesto del Surrealismo? Un passo lungo la strada, ma solo un passo. La strada non porta in nessun luogo, se non porta nel Bosco; e quella è una strada che si può percorrere solo al buio. No, aspetta, non “al buio”. “Nel sangue”. “<i>Fino ai fianchi</i> nel sangue”. Ma taci. Dammelo, lo scrivo io –»"
+  },
+  {
+   "id": "metal",
+   "label": "Metallo",
+   "desc": "Ecco cosa succede quando la pietra fa sul serio."
+  },
+  {
+   "id": "milk.aspect",
+   "label": "Latte"
+  },
+  {
+   "id": "numa.other.visitors.arrive",
+   "label": "Arrivo di Altri Visitatori a Numa",
+   "desc": "(recipe aspect) - eg Spencer"
+  },
+  {
+   "id": "numatic",
+   "label": "...?",
+   "desc": "È qualcosa o qualcuno che viene da Numa: il tempo in cui «sembra» ed «è» incrociano le lame con «storia» ed «eternità»."
+  },
+  {
+   "id": "numen",
+   "label": "Numen",
+   "desc": "Scrivi una verità in un libro che nessuno legge. Poi stramazza al suolo. Nessuno saprà cosa hai scritto. A meno che la verità non sia <i>numen</i>. [I Numina sono verità tanto potenti da credere, con qualche esitazione, in se stesse. Puoi usare un Numen per scrivere una nuova Storia a uno Scrittoio adatto... se riesci a radunare 25 gradi di un Aspetto corrispondente.]"
+  },
+  {
+   "id": "mybed",
+   "label": "Il Mio Letto",
+   "desc": "Il mio luogo di riposo, anche se spero non l’<i>ultimo</i>. [Usa una carta Anima fresca per rifare il letto e portare via le tue cose, se vuoi scegliere un altro letto in cui riposare.]"
+  },
+  {
+   "id": "offering.remove",
+   "label": "Rimuovi Offerta",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "omen",
+   "label": "Presagio",
+   "desc": "Chi sa, vede; chi vede, sa."
+  },
+  {
+   "id": "openair",
+   "label": "Aria Aperta",
+   "desc": "Gli uccelli e le stagioni possono visitare liberamente questo luogo."
+  },
+  {
+   "id": "outofbounds",
+   "label": "Fuori dai Confini",
+   "desc": "Questo luogo si trova oltre i confini della Casa."
+  },
+  {
+   "id": "opportunity",
+   "label": "Occasione",
+   "desc": "Una possibilità di superare le aspettative."
+  },
+  {
+   "id": "opportunity.realise",
+   "label": "Cogli l’Occasione",
+   "desc": "Recipe aspect: xtriggers a bonus opportunity into its corresponding memory so it persists for the resolution recipe later."
+  },
+  {
+   "id": "payment",
+   "label": "Pagamento",
+   "desc": "Per ora questo si limita a togliere la moneta intera. Con qualche comportamento in più, dovrebbe dare il resto."
+  },
+  {
+   "id": "pence",
+   "label": "Penny",
+   "desc": "L’eccentrica valuta di un impero caduto. Un penny è quattro farthing, dodici penny sono uno scellino, e così via."
+  },
+  {
+   "id": "period.dawn",
+   "label": "Periodo dell’Alba",
+   "desc": "Il 599 d.C. è la data tradizionale della prima fondazione in questo luogo, detta ora Abbazia della Colomba Nera, ora Abbazia del Corvo Bianco... ma la Sorellanza del Triplice Nodo eresse qui i suoi templi molto prima."
+  },
+  {
+   "id": "period.solar",
+   "label": "Periodo Gotico Solare",
+   "desc": "Dall’XI all’inizio del XVI secolo le sorelle e i fratelli di St Brandan dimorarono sull’Isola. Era un luogo santo, un luogo ricco, e un centro di studi, per quanto sorprendentemente oscuro. Poi nel 1534 il Re di Bronzo Henry sciolse la fondazione, esiliò i confratelli e diede l’Isola alla famiglia Dewulf."
+  },
+  {
+   "id": "period.baronial",
+   "label": "Periodo Baronale",
+   "desc": "Nel XVI secolo la famiglia Dewulf acquisì il titolo di Baroni di Brancrug, governando l’Isola come possedimento personale, fino al 1759, quando la loro stirpe si estinse nella follia e nella morte."
+  },
+  {
+   "id": "period.curia",
+   "label": "Periodo della Curia",
+   "desc": "Nel XVIII secolo una segreta congrega di studiosi fondò la «Curia dell’Isola» per amministrare la Hush House, e ne fece un rifugio del sapere fino al 1896, quando un Archivista caduto in disgrazia ridusse la Casa alla miseria."
+  },
+  {
+   "id": "period.nocturnal",
+   "label": "Periodo Notturno",
+   "desc": "All’inizio del XX secolo gli entusiasmi di un Archivista imprudente avevano ridotto la Hush House alla miseria. Il Ramo Notturno – poi Bureau di Soppressione – si fece avanti con un accordo. La Hush House ricevette fondi, ma si sottomise a ispezioni annuali e cedette una parte dell’Isola per la prigione del Ramo."
+  },
+  {
+   "id": "persistent",
+   "label": "Persistente",
+   "desc": "Le Memorie Persistenti sopravvivono all’alba, ma quando la stagione detta Numa passa, se ne vanno con essa. Numa giunge a Brancrug una stagione su nove, ma il momento esatto non è mai certo, e possono passare anni senza traccia delle nebbie di Numa."
+  },
+  {
+   "id": "pigment",
+   "label": "Pigmento",
+   "desc": "Chiamalo colore, chiamalo macchia, chiamalo gioiello in attesa."
+  },
+  {
+   "id": "post.ready",
+   "label": "Pronto da Spedire",
+   "desc": "Questo messaggio troverà la sua destinazione... una volta debitamente sancito dai poteri della buca delle lettere. [Portalo all’Ufficio Postale, con i contanti per un francobollo o un vaglia.]"
+  },
+  {
+   "id": "posting",
+   "label": "Per Posta",
+   "desc": "This is used to evoke comments when sending something, since 'delivering' happens offstage."
+  },
+  {
+   "id": "prefs.agdistis",
+   "desc": "Agdistis predilige cibo e bevande <sprite name=heart>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.aladim",
+   "desc": "Al-Adim predilige cibo <sprite name=scale>, e non tocca bevande Inebrianti. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.arthur",
+   "desc": "Arthur predilige cibo e bevande <sprite name=lantern>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.arun",
+   "desc": "Arun predilige cibo e bevande <sprite name=moon>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.azita",
+   "desc": "Azita predilige cibo e bevande <sprite name=edge>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.chaima",
+   "desc": "Chaima predilige cibo e bevande <sprite name=edge>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.connie",
+   "desc": "Connie predilige cibo e bevande <sprite name=sky>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.coquille",
+   "desc": "Coquille predilige cibo e bevande <sprite name=grail>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.corso",
+   "desc": "Corso predilige cibo e bevande <sprite name=grail>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.dagmar",
+   "desc": "Dagmar predilige cibo e bevande <sprite name=knock>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.douglas",
+   "desc": "Douglas predilige cibo e bevande <sprite name=lantern>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.ehsan",
+   "desc": "Ehsan predilige cibo <sprite name=moon>, ma bevande <sprite name=sky>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.fraser",
+   "desc": "Fraser predilige cibo e bevande <sprite name=scale>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.hokobald",
+   "desc": "Hokobald consuma soltanto cibo e bevande <sprite name=forge>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.morgen",
+   "desc": "Morgen predilige cibo e bevande <sprite name=sky>... almeno in buona società. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.olympe",
+   "desc": "Olympe predilige cibo e bevande <sprite name=forge>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.serena",
+   "desc": "Serena predilige cibo e bevande <sprite name=forge>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.stanislav",
+   "desc": "Stanislav predilige cibo e bevande <sprite name=heart>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.yvette",
+   "desc": "Yvette mangia e beve qualunque cosa. Non ama fare storie. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "prefs.zachary",
+   "desc": "Zachary predilige cibo e bevande <sprite name=winter>. [HOUSE OF LIGHT]"
+  },
+  {
+   "id": "provisioning",
+   "label": "Approvvigionamento",
+   "desc": "To provoke offstage effects from e.g. order forms"
+  },
+  {
+   "id": "qf",
+   "label": "QF",
+   "desc": "Xtrigger-rehydrate suitabiliser"
+  },
+  {
+   "id": "rank",
+   "label": "Grado",
+   "desc": "(HIDDEN ASPECT used for level-ranking, e.g. in hand spheres)"
+  },
+  {
+   "id": "raw",
+   "label": "Crudo",
+   "desc": "Potrebbe essere commestibile, ma non lo serviresti nel piatto a un ospite."
+  },
+  {
+   "id": "readable",
+   "label": "Leggibile",
+   "desc": "Ci sono cose peggiori di questa da mettersi davanti agli occhi."
+  },
+  {
+   "id": "reading.correspondence",
+   "label": "La Lettera Dice..."
+  },
+  {
+   "id": "reading.edge",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.edge.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.forge",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.forge.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.grail",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.grail.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.heart",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.heart.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.knock",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.knock.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.lantern",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.lantern.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.moon",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.moon.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.moth",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.moth.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.nectar",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.nectar.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.rose",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.rose.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.scale",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.scale.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.sky",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.sky.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "reading.winter",
+   "label": "Ho letto..."
+  },
+  {
+   "id": "reading.winter.intro",
+   "label": "Sto leggendo..."
+  },
+  {
+   "id": "recovering",
+   "label": "Ripresa",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "recovering.ability",
+   "label": "recupera un’abilità",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "recruiting",
+   "label": "Reclutamento",
+   "desc": "(recipe aspect) Someone is hired / recruited / becomes assistance"
+  },
+  {
+   "id": "remains",
+   "label": "Resti",
+   "desc": "È così che si capisce chi era mortale."
+  },
+  {
+   "id": "replying",
+   "label": "Risposta",
+   "desc": "Trasforma la corrispondenza in una risposta."
+  },
+  {
+   "id": "requesting",
+   "label": "Richiesta",
+   "desc": "(aspetto di ricetta) Genera richieste dagli indirizzi di contatto"
+  },
+  {
+   "id": "reluctant",
+   "label": "Riluttante",
+   "desc": "Qualcuno che darà aiuto... ma solo quello <i>indispensabile</i>."
+  },
+  {
+   "id": "restorative",
+   "label": "Ristoratore",
+   "desc": "Per il riposo e la guarigione. [Qualcosa che aiuta a riprendersi dai Malanni se lo si usa a letto con abbastanza aspetti di Potere adatti, soprattutto, ma non solo, se ne possiede di utili esso stesso.]"
+  },
+  {
+   "id": "retiring.liselotte",
+   "label": "Congedo di Liselotte",
+   "desc": "(recipe aspect - retires Liselotte permanently)"
+  },
+  {
+   "id": "retiring.wisp",
+   "label": "Congedo di Wisp",
+   "desc": "(recipe aspect - retires Wisp permanently)"
+  },
+  {
+   "id": "retiring.arthur",
+   "label": "Congedo di Arthur",
+   "desc": "(recipe aspect - retires  permanently)"
+  },
+  {
+   "id": "retiring.azita",
+   "label": "Congedo di Azita",
+   "desc": "(recipe aspect - retires  permanently)"
+  },
+  {
+   "id": "retiring.chaima",
+   "label": "Congedo di Chaima",
+   "desc": "(recipe aspect - retires  permanently)"
+  },
+  {
+   "id": "retiring.spencer",
+   "label": "Congedo di Spencer",
+   "desc": "(recipe aspect - retires Spencer permanently)"
+  },
+  {
+   "id": "retiring.yvette",
+   "label": "Congedo di Yvette",
+   "desc": "(recipe aspect - retires Yvette permanently)"
+  },
+  {
+   "id": "retiring.zachary",
+   "label": "Congedo di Zachary",
+   "desc": "(recipe aspect - retires Zachary permanently)"
+  },
+  {
+   "id": "root",
+   "label": "Radice",
+   "desc": "I piedi di una pianta."
+  },
+  {
+   "id": "run.day",
+   "label": "Entro un Giorno",
+   "desc": "[Il visitatore è occupato a sbrigare faccende. Torna domani.]"
+  },
+  {
+   "id": "season.cleanup",
+   "label": "Ripulitura di Stagione"
+  },
+  {
+   "id": "seed",
+   "label": "Seme",
+   "desc": "Un seme può crescere peggio in un giardino che in un altro, e meglio in una stagione che in un’altra."
+  },
+  {
+   "id": "satisfying",
+   "label": "Soddisfacente",
+   "desc": "per esempio aiutare un visitatore. Si può usare sia per segnarlo per la partenza, sia per i commenti di soddisfazione"
+  },
+  {
+   "id": "satisfying.echidna",
+   "label": "Soddisfare Echidna",
+   "desc": "Per essere certi di non soddisfare per sbaglio anche un visitatore che stiamo congedando"
+  },
+  {
+   "id": "season",
+   "label": "Stagione",
+   "desc": "Di stagione in stagione."
+  },
+  {
+   "id": "season.pausing",
+   "label": "Stagione in Pausa",
+   "desc": "Liofilizza una stagione mentre andiamo a Numa"
+  },
+  {
+   "id": "season.unpausing",
+   "label": "Ripresa della Stagione",
+   "desc": "Ripristina una stagione"
+  },
+  {
+   "id": "sceptical",
+   "label": "Scettico",
+   "desc": "La fiducia si può comprare, o guadagnare."
+  },
+  {
+   "id": "scrutiny",
+   "label": "Scrutinio",
+   "desc": "Qualcosa viene esaminato o rivelato."
+  },
+  {
+   "id": "skill",
+   "label": "Abilità",
+   "desc": "Qualunque cosa si può imparare; ogni cosa si può dimenticare."
+  },
+  {
+   "id": "skillingup",
+   "label": "Abilità",
+   "desc": "Qualunque cosa si può imparare; ogni cosa si può dimenticare."
+  },
+  {
+   "id": "skill.language",
+   "label": "Lingua",
+   "desc": "Un’abilità che permette di leggere certi libri, fra altre cose ben meno importanti."
+  },
+  {
+   "id": "skill.chandlery",
+   "label": "Cereria",
+   "desc": "Un’abilità che, con gli ingredienti adatti, permette di fare candele. [Gli ingredienti più probabili sono cera d’api ed erbe; ma per confondere paesani e visitatori, fai una pausa eloquente prima della parola «adatti».]"
+  },
+  {
+   "id": "skill_maxed",
+   "label": "Abilità portata al massimo"
+  },
+  {
+   "id": "sleepytime",
+   "label": "Ore del Sonno",
+   "desc": "I giusti dovrebbero essere a letto, con le coperte rimboccate; gli ingiusti sono probabilmente intenti alle loro ingiuste faccende."
+  },
+  {
+   "id": "soaked",
+   "label": "Fradicio",
+   "desc": "Rischia di sfaldarsi! Intervieni presto, ma senza fretta."
+  },
+  {
+   "id": "soiled",
+   "label": "Sporco",
+   "desc": "Qualcosa che ha bisogno di essere pulito."
+  },
+  {
+   "id": "soph",
+   "label": "Raffinatezza"
+  },
+  {
+   "id": "sound",
+   "label": "Suono",
+   "desc": "Prima del silenzio, e dopo."
+  },
+  {
+   "id": "spencer",
+   "label": "Spencer"
+  },
+  {
+   "id": "spicing",
+   "label": "Speziatura",
+   "desc": "Arnese, o sapere, che può servire ad aggiungere sapori più esotici."
+  },
+  {
+   "id": "state.cracked",
+   "label": "Incrinato",
+   "desc": "– incrinato –"
+  },
+  {
+   "id": "state.torn",
+   "label": "Strappato",
+   "desc": "– strappato – "
+  },
+  {
+   "id": "stone",
+   "label": "Pietra",
+   "desc": "«Voi che cercate la pazienza, ecco il vostro maestro.»"
+  },
+  {
+   "id": "study",
+   "label": "Studio",
+   "desc": "Qualcosa, di solito un libro, è stato scandagliato nei dettagli."
+  },
+  {
+   "id": "suitable.secretary.nunciant.surprise"
+  },
+  {
+   "id": "suitable.secretary.persistent.surprise"
+  },
+  {
+   "id": "suitable.secretary.salvant.surprise"
+  },
+  {
+   "id": "sustenance",
+   "label": "Nutrimento",
+   "desc": "«I cattivi vivono per mangiare e bere; i buoni mangiano e bevono per vivere.» – Socrate"
+  },
+  {
+   "id": "sympathy.chandler",
+   "label": "Simpatia: Chandler",
+   "desc": "Riconosce la dorata promessa che il Chandler reca con sé."
+  },
+  {
+   "id": "sympathy.ys",
+   "label": "Simpatia: Ys",
+   "desc": "Comprende i fragili vantaggi di un’alleanza con Ys."
+  },
+  {
+   "id": "sympathy.carapace",
+   "label": "Simpatia: Carapace",
+   "desc": "Comprende le possibilità della Croce del Carapace: alleanza, risveglio."
+  },
+  {
+   "id": "sympathy.reckoners",
+   "label": "Simpatia: Conteggiatori",
+   "desc": "Comprende i vantaggi di trattare con i mercanti degli anni."
+  },
+  {
+   "id": "tally",
+   "label": "Tacca",
+   "desc": "La valuta consensuale del mondo invisibile. Del tutto ufficiosa, eternamente coerente."
+  },
+  {
+   "id": "thing",
+   "label": "Cosa",
+   "desc": "«L’uomo nobile fa delle cose i suoi servi. L’uomo meschino è servo delle cose.» – Maestro Xun"
+  },
+  {
+   "id": "tool",
+   "label": "Arnese",
+   "desc": "Una delle ragioni per cui le scimmie hanno battuto gli scarabei."
+  },
+  {
+   "id": "visitor",
+   "label": "Visitatore",
+   "desc": "La via principale per cui i libri entrano ed escono dalla biblioteca. L’arrivo di un visitatore può suscitare le emozioni più varie."
+  },
+  {
+   "id": "visitor.villager",
+   "label": "Visitatore: Paesano",
+   "desc": "Qualcuno di Brancrug ha accettato un invito alla Casa. [Puoi invitare alla Casa un solo paesano per volta.]"
+  },
+  {
+   "id": "visitor.embarking",
+   "label": "Visitatore: In Partenza",
+   "desc": "Questo visitatore ha fretta di mettersi in viaggio, e di solito non si attarda in conversazioni."
+  },
+  {
+   "id": "uncatalogued",
+   "label": "Non Catalogato",
+   "desc": "«Non c’è nulla di così sicuro come l’ignoranza – né di così pericoloso.» – Nero Wolfe"
+  },
+  {
+   "id": "undiscovered",
+   "label": "Non Scoperto",
+   "desc": "[Una volta scoperta questa ricetta, qui compariranno i suoi requisiti.]"
+  },
+  {
+   "id": "unsociable",
+   "label": "Insocievole",
+   "desc": "[I Visitatori segnati come Insocievoli diffidano degli altri Visitatori. Non parteciperanno ai Salotti consueti.]"
+  },
+  {
+   "id": "unlocking",
+   "label": "Sblocco",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "unwrapping",
+   "label": "Spacchettamento",
+   "desc": "Used when opening a delivery to provoke spawns"
+  },
+  {
+   "id": "upgrading",
+   "label": "Miglioramento",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "upgrading.down",
+   "label": "Miglioramento: Giù",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "upgrading.out",
+   "label": "Miglioramento: Fuori",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "water",
+   "label": "Acqua"
+  },
+  {
+   "id": "wrapping",
+   "label": "Involucro",
+   "desc": "Ritrasforma un modulo d’ordine in una consegna."
+  },
+  {
+   "id": "workstationhasaspect",
+   "label": "Consacrato",
+   "desc": "[Questo luogo è stato consacrato in modo tale da fornire Aspetto per natura propria.]"
+  },
+  {
+   "id": "uqcat",
+   "label": "uqcat"
+  },
+  {
+   "id": "uqchaq",
+   "label": "uqchaq"
+  },
+  {
+   "id": "uqterrence",
+   "label": "uqterrence"
+  },
+  {
+   "id": "uqtuppence",
+   "label": "uqtuppence"
+  },
+  {
+   "id": "uqdog",
+   "label": "uqdog"
+  },
+  {
+   "id": "uqnumen",
+   "label": "uqnumen"
+  },
+  {
+   "id": "kod",
+   "label": "NON ANCORA USCITO",
+   "desc": "Qui serve qualcosa che nessuno di noi possiede. [Segnala materiale che sarà disponibile o completato solo più avanti; non in questa versione iniziale.]"
+  },
+  {
+   "id": "wallart",
+   "label": "Arte da Parete",
+   "desc": "Si potrebbe descrivere l’intera casa come un libro, benché indicizzarlo sarebbe una seccatura."
+  },
+  {
+   "id": "wc.markeraspect",
+   "label": "wcma",
+   "desc": "NO NEED TO LOCALISE THIS Marker aspect for writing case so it can go in village slots without confusing non-HOL players. Cleaner to use 'blank' but then we get branch creep."
+  },
+  {
+   "id": "weather",
+   "label": "Meteo",
+   "desc": "Ogni tipo di meteo porta con sé il proprio influsso. Posso servirmene come Memoria."
+  },
+  {
+   "id": "wood",
+   "label": "Legno",
+   "desc": "Per alcuni i pilastri del cielo; per altri, carta in attesa."
+  },
+  {
+   "id": "wooden",
+   "label": "Di Legno",
+   "desc": "[Portalo a un Banco da Lavoro per ridurlo in Ritagli di Legno.]"
+  },
+  {
+   "id": "woven",
+   "label": "Intessuto",
+   "desc": "[Portalo a un Banco da Lavoro per ridurlo in Stracci.]"
+  },
+  {
+   "id": "writing",
+   "label": "Scrittura",
+   "desc": "(recipe aspect)"
+  },
+  {
+   "id": "b.birdsong",
+   "label": "Argomento: Canto degli Uccelli",
+   "desc": "Un testo di musica, enigmi o miscellanea."
+  },
+  {
+   "id": "b.bosk",
+   "label": "Argomento: Il Boschetto",
+   "desc": "Un testo sulle cose del bosco primigenio."
+  },
+  {
+   "id": "b.horomachistry",
+   "label": "Argomento: Oromachia",
+   "desc": "Un testo sulle leggi (e i dissidi) delle Ore (e delle loro emanazioni)."
+  },
+  {
+   "id": "b.hushery",
+   "label": "Argomento: Silenzieria",
+   "desc": "Un testo che tratta, fra le altre cose, del silenzio."
+  },
+  {
+   "id": "b.illumination",
+   "label": "Argomento: Illuminazione",
+   "desc": "Un testo sulla purificazione di sé e di ciò che ci circonda."
+  },
+  {
+   "id": "b.ithastry",
+   "label": "Argomento: Ithastria",
+   "desc": "Un testo di alchimia, metallurgia, pirotecnica."
+  },
+  {
+   "id": "b.nyctodromy",
+   "label": "Argomento: Nittodromia",
+   "desc": "Un testo sulle vie e le scorciatoie del transmondano."
+  },
+  {
+   "id": "b.preservation",
+   "label": "Argomento: Preservazione",
+   "desc": "Un testo di cura e restauro."
+  },
+  {
+   "id": "b.skolekosophy",
+   "label": "Argomento: Scolecosofia",
+   "desc": "Un testo su materie di cui non dovrebbero esistere testi."
+  },
+  {
+   "id": "w.birdsong",
+   "label": "Canto degli Uccelli",
+   "desc": "Musica, enigmi, miscellanea. «Meno una sapienza che un corpus di dicerie santificato dall’accumulo», osservò una volta uno studioso sdegnoso."
+  },
+  {
+   "id": "w.bosk",
+   "label": "Il Boschetto",
+   "desc": "La Sapienza del bosco primigenio; di rado scritta, spesso sentita."
+  },
+  {
+   "id": "w.horomachistry",
+   "label": "Oromachia",
+   "desc": "Questa Sapienza si occupa delle leggi (e dei dissidi) delle Ore (e delle loro emanazioni)."
+  },
+  {
+   "id": "w.hushery",
+   "label": "Silenzieria",
+   "desc": "La Grande Arte della Silenzieria comprende la bellezza del silenzio, e del suo infrangersi."
+  },
+  {
+   "id": "w.illumination",
+   "label": "Illuminazione",
+   "desc": "Gli Illuminati purificano se stessi e ciò che li circonda. Col tempo, spesso, smettono di vedere differenza fra le due cose."
+  },
+  {
+   "id": "w.ithastry",
+   "label": "Ithastria",
+   "desc": "Alchimia, metallurgia, pirotecnica: l’Ithastria è talvolta detta l’Arte che Altera."
+  },
+  {
+   "id": "w.nyctodromy",
+   "label": "Nittodromia",
+   "desc": "«Viaggiare di notte non è più rapido né più sicuro. È per questo che lo facciamo.» Il sapere delle vie e dei sentieri secondari del transmondano."
+  },
+  {
+   "id": "w.preservation",
+   "label": "Preservazione",
+   "desc": "Cura e restauro. Una Sapienza senza fascino, almeno per chi non si chiede mai come faccia il mondo a esistere ancora."
+  },
+  {
+   "id": "w.skolekosophy",
+   "label": "Scolecosofia",
+   "desc": "Lo studio di ciò che non andrebbe studiato. C’è chi la chiama una Sapienza."
+  },
+  {
+   "id": "wisdom.committed",
+   "label": "Assegnato",
+   "desc": "Hai stabilito dove questa abilità debba collocarsi, negli ampi regni della comprensione. [L’abilità è ora assegnata alla Sapienza indicata sulla carta.]"
+  },
+  {
+   "ID": "u.aramaic",
+   "Label": "Comprende l’Aramaico",
+   "desc": "(Anch’io)."
+  },
+  {
+   "ID": "u.greek",
+   "Label": "Comprende il Greco",
+   "desc": "(Anch’io)."
+  },
+  {
+   "ID": "u.latin",
+   "Label": "Comprende il Latino",
+   "desc": "(Anch’io)."
+  },
+  {
+   "ID": "u.phrygian",
+   "Label": "Comprende il Frigio",
+   "desc": "(Anch’io)."
+  },
+  {
+   "ID": "u.sanskrit",
+   "Label": "Comprende il Sanscrito",
+   "desc": "(Anch’io)."
+  },
+  {
+   "ID": "u.vak",
+   "Label": "Comprende il Vak",
+   "desc": "Comprende questa lingua ardita."
+  },
+  {
+   "ID": "u.henavek",
+   "Label": "Comprende il Kernewek Henavek",
+   "desc": "Comprende questa lingua dimenticata abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.mandaic",
+   "Label": "Comprende il Mandaico Profondo",
+   "desc": "Comprende questa lingua risonante abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.killasimi",
+   "Label": "Comprende il Killasimi",
+   "desc": "Comprende questa lingua tessuta abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.fucine",
+   "Label": "Comprende il Fucine",
+   "desc": "Comprende questa lingua arida abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.sabazine",
+   "Label": "Comprende il Sabazine",
+   "desc": "Comprende questa lingua enigmatica abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.cracktrack",
+   "Label": "Comprende il Cracktrack",
+   "desc": "Comprende questa lingua primordiale abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.hyksos",
+   "Label": "Comprende l’Hyksos",
+   "desc": "Comprende questa lingua scaltra abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.ericapaean",
+   "Label": "Comprende l’Ericapaean",
+   "desc": "Comprende questa lingua elegante abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "u.ramsund",
+   "Label": "Comprende il Ramsund",
+   "desc": "Comprende questa lingua vivace abbastanza da leggerla o insegnarla."
+  },
+  {
+   "ID": "w.latin",
+   "Label": "Scritto in Latino",
+   "desc": "Una lingua morta: morta come i diamanti. [L’Archivista legge il latino, ma non dare per scontato che altri sappiano farlo.]"
+  },
+  {
+   "ID": "w.greek",
+   "Label": "Scritto in Greco",
+   "desc": "Una lingua per filosofi, teologi ed eroi. [L’Archivista legge il greco, ma non dare per scontato che altri sappiano farlo.]"
+  },
+  {
+   "ID": "w.sanskrit",
+   "Label": "Scritto in Sanscrito",
+   "desc": "La lingua sacra del Subcontinente. La porta di quattromila anni di poesia, cerimonia e mistero ti si apre davanti, se riesci a farti strada fra le circonvoluzioni di loto del suo lessico. [L’Archivista legge il sanscrito, ma non dare per scontato che altri sappiano farlo.]"
+  },
+  {
+   "ID": "w.phrygian",
+   "Label": "Scritto in Frigio",
+   "desc": "I Frigi adoravano la Grande Madre, che noi chiamiamo il Graal. La loro era la terra in cui nacque la Sorellanza del Nodo, e questa è la lingua in cui il Pelledituono supplicò, alla sua ascensione. [L’Archivista sa leggere il frigio, ma pochi altri ne sono capaci.]"
+  },
+  {
+   "ID": "w.aramaic",
+   "Label": "Scritto in Aramaico",
+   "desc": "La lingua di Aram, e di tutti i suoi molti figli da più di tremila anni. [L’Archivista legge l’aramaico, ma non dare per scontato che altri sappiano farlo.]"
+  },
+  {
+   "ID": "w.vak",
+   "Label": "Scritto in Vak",
+   "desc": "Una lingua ardita."
+  },
+  {
+   "ID": "w.henavek",
+   "Label": "Scritto in Kernewek Henavek",
+   "desc": "Una lingua dimenticata."
+  },
+  {
+   "ID": "w.mandaic",
+   "Label": "Scritto in Mandaico Profondo",
+   "desc": "Una lingua risonante."
+  },
+  {
+   "ID": "w.killasimi",
+   "Label": "Scritto in Killasimi",
+   "desc": "Una lingua tessuta."
+  },
+  {
+   "ID": "w.fucine",
+   "Label": "Scritto in Fucine",
+   "desc": "Una lingua arida."
+  },
+  {
+   "ID": "w.sabazine",
+   "Label": "Scritto in Sabazine",
+   "desc": "Una lingua enigmatica."
+  },
+  {
+   "ID": "w.cracktrack",
+   "Label": "Scritto in Cracktrack",
+   "desc": "Una lingua primordiale."
+  },
+  {
+   "ID": "w.hyksos",
+   "Label": "Scritto in Hyksos",
+   "desc": "Una lingua scaltra."
+  },
+  {
+   "ID": "w.ericapaean",
+   "Label": "Scritto in Ericapaean",
+   "desc": "Una lingua elegante."
+  },
+  {
+   "ID": "w.ramsund",
+   "Label": "Scritto in Ramsund",
+   "desc": "Una lingua vivace."
+  },
+  {
+   "id": "zedge",
+   "label": "Lama [Affaticata]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Lama.]"
+  },
+  {
+   "id": "zforge",
+   "label": "Forgia [Affaticata]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Forgia.]"
+  },
+  {
+   "id": "zgrail",
+   "label": "Graal [Affaticato]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Graal.]"
+  },
+  {
+   "id": "zheart",
+   "label": "Cuore [Affaticato]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Cuore.]"
+  },
+  {
+   "id": "zknock",
+   "label": "Battente [Affaticato]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Battente.]"
+  },
+  {
+   "id": "zlantern",
+   "label": "Lanterna [Affaticata]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Lanterna.]"
+  },
+  {
+   "id": "zmoon",
+   "label": "Luna [Affaticata]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Luna.]"
+  },
+  {
+   "id": "zmoth",
+   "label": "Falena [Affaticata]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Falena. Sì che ce l’avrà. No che non ce l’avrà. Sì che ce l’avrà. Sì, probabilmente ce l’avrà.]"
+  },
+  {
+   "id": "znectar",
+   "label": "Nettare [Affaticato]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Nettare.]"
+  },
+  {
+   "id": "zrose",
+   "label": "Rosa [Affaticata]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Rosa.]"
+  },
+  {
+   "id": "zscale",
+   "label": "Squama [Affaticata]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Squama.]"
+  },
+  {
+   "id": "zsky",
+   "label": "Cielo [Affaticato]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Cielo.]"
+  },
+  {
+   "id": "zwinter",
+   "label": "Inverno [Affaticato]",
+   "desc": "[Quando questa carta si riprenderà, avrà di nuovo questa quantità di Inverno.]"
+  },
+  {
+   "id": "x",
+   "label": "x"
+  }
+ ]
+}

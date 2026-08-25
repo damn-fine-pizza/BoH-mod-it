@@ -1,0 +1,484 @@
+{
+ "verbs": [
+  {
+   "id": "garden.plot.a.1",
+   "label": "Giardino",
+   "desc": "Calice fragrante in estate e autunno, rosa quaresimale in inverno. Piante rare potrebbero prosperare a Numa.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.a.2",
+   "label": "Giardino",
+   "desc": "Calice fragrante in estate e autunno, rosa quaresimale in inverno. Piante rare potrebbero prosperare a Numa.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.a.3",
+   "label": "Giardino",
+   "desc": "Calice fragrante in estate e autunno, rosa quaresimale in inverno. Piante rare potrebbero prosperare a Numa.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.b.1",
+   "label": "Giardino",
+   "desc": "Cardo marino in estate, corona blu in inverno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.b.2",
+   "label": "Giardino",
+   "desc": "Cardo marino in estate, corona blu in inverno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.b.3",
+   "label": "Giardino",
+   "desc": "Cardo marino in estate, corona blu in inverno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.c.1",
+   "label": "Giardino",
+   "desc": "Unghia di gatto in primavera, giglio del trombettiere in estate. Piante rare potrebbero prosperare a Numa.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.c.2",
+   "label": "Giardino",
+   "desc": "Unghia di gatto in primavera, giglio del trombettiere in estate. Piante rare potrebbero prosperare a Numa.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.c.3",
+   "label": "Giardino",
+   "desc": "Unghia di gatto in primavera, giglio del trombettiere in estate. Piante rare potrebbero prosperare a Numa.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.d.1",
+   "label": "Giardino",
+   "desc": "Orchidee Falena in primavera ed estate, gelsomino Honeyscar in autunno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.d.2",
+   "label": "Giardino",
+   "desc": "Orchidee Falena in primavera ed estate, gelsomino Honeyscar in autunno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.d.3",
+   "label": "Giardino",
+   "desc": "Orchidee Falena in primavera ed estate, gelsomino Honeyscar in autunno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.g.1",
+   "label": "Giardino",
+   "desc": "Il clima mite della Cornovaglia sostiene le viti. Raccolto in primavera ed estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.g.2",
+   "label": "Giardino",
+   "desc": "Il clima mite della Cornovaglia sostiene le viti. Raccolto in primavera ed estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.g.3",
+   "label": "Giardino",
+   "desc": "Il clima mite della Cornovaglia sostiene le viti. Raccolto in primavera ed estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.h.1",
+   "label": "Giardino",
+   "desc": "Erbe curative in primavera ed estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.h.2",
+   "label": "Giardino",
+   "desc": "Erbe curative in primavera ed estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.h.3",
+   "label": "Giardino",
+   "desc": "Erbe curative in primavera ed estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.p.1",
+   "label": "Giardino",
+   "desc": "Pere Benedette dal Mare in estate e autunno; a Numa, la «pera splendente», <i>pyrus auricalcinus</i>.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.p.2",
+   "label": "Giardino",
+   "desc": "Pere Benedette dal Mare in estate e autunno; a Numa, la «pera splendente», <i>pyrus auricalcinus</i>.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.p.3",
+   "label": "Giardino",
+   "desc": "Pere Benedette dal Mare in estate e autunno; a Numa, la «pera splendente», <i>pyrus auricalcinus</i>.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.v.1",
+   "label": "Giardino",
+   "desc": "Verdure nutrienti in estate e autunno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.v.2",
+   "label": "Giardino",
+   "desc": "Verdure nutrienti in estate e autunno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.v.3",
+   "label": "Giardino",
+   "desc": "Verdure nutrienti in estate e autunno.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.x.1",
+   "label": "Giardino",
+   "desc": "La «pianta della storia», <i>agave aeterna</i>, fiorisce qui in estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.x.2",
+   "label": "Giardino",
+   "desc": "La «pianta della storia», <i>agave aeterna</i>, fiorisce qui in estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.plot.x.3",
+   "label": "Giardino",
+   "desc": "La «pianta della storia», <i>agave aeterna</i>, fiorisce qui in estate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "garden.beehive",
+   "label": "Alveare",
+   "desc": "Le api, come gli archivisti, non sono da prendere alla leggera.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "world.beachcombing",
+   "label": "Raccolta sulla Spiaggia",
+   "desc": "Fai una lunga passeggiata lungo il fianco dell’oceano. Se so cosa cercare, potrei trovare qualcosa che l’oceano ha abbandonato.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "world.moor",
+   "label": "Una Passeggiata sulla Brughiera",
+   "desc": "Arrampicati nelle lunghe distese della brughiera dietro il villaggio. Sporgiti nel pugno tremolante del vento. Se so cosa cercare, potrei trovare qualcosa tra le rocce.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "world.nests",
+   "label": "La Colonia dei Gabbiani",
+   "desc": "Ruba le uova agli uccelli marini, o trova quello che gli uccelli marini hanno rubato.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "world.caves",
+   "label": "Le Grotte Marine",
+   "desc": "Sguazza con prudenza nei tunnel meno profondi.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  }
+ ]
+}

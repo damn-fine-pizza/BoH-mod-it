@@ -1,0 +1,124 @@
+{
+ "elements": [
+  {
+   "id": "tx.agdistis",
+   "label": "Consultato da…",
+   "desc": "Mr Peter Agdistis venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.aladim",
+   "label": "Consultato da…",
+   "desc": "Dr Ibn al-Adim venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.arthur",
+   "label": "Consultato da…",
+   "desc": "Lt Arthur Thomas Moore venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.arun",
+   "label": "Consultato da…",
+   "desc": "Dr Arun Peel venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.auntmopsy",
+   "label": "Consultato da…",
+   "desc": "Zia Mopsy venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.azita",
+   "label": "Consultato da…",
+   "desc": "Azita Bukhara venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.chaima",
+   "label": "Consultato da…",
+   "desc": "Lalla Chaima venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.connie",
+   "label": "Consultato da…",
+   "desc": "MCO Constance Lee venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.coquille",
+   "label": "Consultato da…",
+   "desc": "La principessa Coquille Amirejibi venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.corso",
+   "label": "Consultato da…",
+   "desc": "Corso Reverte venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.dagmar",
+   "label": "Consultato da…",
+   "desc": "«Daymare» venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.douglas",
+   "label": "Consultato da…",
+   "desc": "L’ispettore Douglas Moore venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.ehsan",
+   "label": "Consultato da…",
+   "desc": "Ehsan Fekri venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.franklin",
+   "label": "Consultato da…",
+   "desc": "Lord Bancroft venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.fraser",
+   "label": "Consultato da…",
+   "desc": "Fraser Strathcoyne venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.hokobald",
+   "label": "Consultato da…",
+   "desc": "Magister Hokobald venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.julian",
+   "label": "Consultato da…",
+   "desc": "Julian Coseley venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.morgen",
+   "label": "Consultato da…",
+   "desc": "Mlle Matutine venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.olympe",
+   "label": "Consultato da…",
+   "desc": "Olympe Bechet venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.rowena",
+   "label": "Consultato da…",
+   "desc": "Rowena venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.serena",
+   "label": "Consultato da…",
+   "desc": "Dr Serena Blackwood venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.stanislav",
+   "label": "Consultato da…",
+   "desc": "Padre Schaller venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  },
+  {
+   "id": "tx.yvette",
+   "label": "Consultato da…",
+   "desc": "Dr Southey venne alla Casa in cerca del mio aiuto; così le permisi di consultare questo."
+  },
+  {
+   "id": "tx.zachary",
+   "label": "Consultato da…",
+   "desc": "Wakefield venne alla Casa in cerca del mio aiuto; così gli permisi di consultare questo."
+  }
+ ]
+}

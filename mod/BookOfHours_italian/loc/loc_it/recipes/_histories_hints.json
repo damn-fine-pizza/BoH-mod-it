@@ -1,0 +1,34 @@
+{
+ "recipes": [
+  {
+   "id": "h.record.already",
+   "label": "Questa Storia",
+   "startdescription": "Ho già registrato una Storia. Dovrei presentarla al mare, al cielo e alla terra, nel Campo del Conte Brian... nella stagione di Numa."
+  },
+  {
+   "id": "h.record.aspect.hint",
+   "label": "Ancora?",
+   "startdescription": "Posso provare a registrare una Storia – una verità che le Ore stesse potrebbero onorare e accogliere. Ma non è cosa che si faccia con leggerezza. [Per registrare una Storia, fornisci un Numen, e almeno 25 di un Aspetto fondamentale. Sarà più facile se hai già preso almeno una Determinazione corrispondente.]"
+  },
+  {
+   "id": "h.present.journal.hint",
+   "label": "Stare davanti all’Albero?",
+   "startdescription": "Qui si erge. Cos’altro rimarrà? [Stabilisci la Storia, e portala al Tasso del Conte.]"
+  },
+  {
+   "id": "h.present.ability.history.hint",
+   "label": "Presentare una Storia?",
+   "startdescription": "Sono qui. Cosa andrà perduto? [Hai stabilito la Storia. È il momento di presentarla davanti al Tasso del Conte?]"
+  },
+  {
+   "id": "h.present.ability.hint",
+   "label": "Presentare cosa?",
+   "startdescription": "[Aggiungi un Elemento dell’Anima per ottenere una vittoria. Oppure registra una Storia nel tuo Diario per ottenerne una maggiore.]"
+  },
+  {
+   "id": "h.present.journal.season.hint",
+   "label": "Quando arriva Numa...",
+   "startdescription": "Se desidero stabilire una Storia, allora quando verrà Numa, potrei tornare qui con questo diario."
+  }
+ ]
+}

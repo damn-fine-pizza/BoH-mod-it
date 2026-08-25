@@ -1,0 +1,195 @@
+{
+	"elements": [
+
+
+		{"id":"venue.formal",
+		"label":"Formal Venue",
+		"desc":"A suitable location for Lunch or Supper.",
+		"isAspect":true},
+
+		{"id":"venue.informal",
+		"label":"Informal Venue",
+		"desc":"A suitable location for Elevenses or Afternoon Tea.",
+		"isAspect":true},
+
+		{"id":"venue.picnicking",
+		"label":"Picknicking Venue",
+		"desc":"A suitable location for a Picnic.",
+		"isAspect":true},
+
+		{"id":"befriend.agdistis.chaima",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.aladim.connie",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.arthur.douglas",
+		"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"befriend.arun.coquille",
+		"icon":"befriend",
+		"isAspect":true},
+
+		
+		{"id":"befriend.arun.denzil",
+		"icon":"befriend",
+		"isAspect":true},
+
+
+		{"id":"befriend.arun.yvette",
+		"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"befriend.azita.yvette",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.chaima.zachary",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.coquille.douglas",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.douglas.hokobald",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.morgen.zachary",
+		"icon":"befriend",
+		"isAspect":true},
+
+		
+
+		{"id":"agdistis.likes.chaima",
+"desc":"Agdistis enjoys Chaima's company.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"aladim.likes.connie",
+"desc":"Al-Adim has invited Connie to dine with him in private.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"arthur.likes.douglas",
+"desc":"Arthur is fond of his newly-acquainted great-nephew, Douglas.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"arun.likes.coquille",
+"desc":"Arun has developed a cautious familial affection for Coquille.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"arun.likes.denzil",
+"desc":"Arun is rumoured to have gone home with Denzil after a salon at Hush House.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"arun.likes.yvette",
+"desc":"Arun is rumoured to have taken Yvette home after a salon at Hush House.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"azita.likes.yvette",
+"desc":"There's some sort of spark between Azita and Yvette.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"chaima.likes.zachary",
+"desc":"Chaima has developed an odd attachment to Zachary.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"coquille.likes.douglas",
+"desc":"Coquille has a mischievous enthusiasm for Douglas.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"douglas.likes.hokobald",
+"desc":"Douglas has a grudging respect for Hokobald.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"morgen.likes.zachary",
+"desc":"Morgen has a passing fondness - perhaps even a soft spot - for Zachary.",
+"icon":"befriend",
+		"isAspect":true},
+
+
+
+
+		{"id":"chaima.likes.agdistis",
+"desc":"Chaima has grown to like Agdistis.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"connie.likes.aladim",
+		"desc":"Connie has accepted an invitation from Al-Adim to dine with him privately.",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"douglas.likes.arthur",
+"desc":"Douglas is fond of his newly discovered great-uncle, Arthur.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"coquille.likes.arun",
+"desc":"Coquille has developed a wary familial affection for Arun.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"yvette.likes.arun",
+"desc":"Yvette is rumoured to have gone home with Arun after a salon at Hush House.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"yvette.likes.azita",
+"desc":"There's some sort of spark between Azita and Yvette.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"zachary.likes.chaima",
+"desc":"Zachary has shown feelings towards Chaima which might be called affection...",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"douglas.likes.coquille",
+"desc":"Douglas has a sneaking fondness for Coquille, which he will certainly put aside if he ever has to arrest her.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"hokobald.likes.douglas",
+"desc":"Hokobald has develped a condescending sort of liking for Douglas.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"zachary.likes.morgen",
+"desc":"Zachary's chilly enthusiasms have been engaged by Morgen.",
+"icon":"befriend",
+		"isAspect":true},
+
+
+
+
+		{"id":"mistrust.arthur.coquille",
+		"icon":"mistrust",
+		"isAspect":true},
+
+		{"id":"arthur.mistrusts.coquille",
+"desc":"Arthur is keeping an eye on Coquille.",
+		"isAspect":true},
+
+		{"id":"coquille.mistrusts.arthur",
+"desc":"Coquille is rather enjoying her enmity with Arthur.",
+		"isAspect":true}
+
+
+								
+
+	]
+}

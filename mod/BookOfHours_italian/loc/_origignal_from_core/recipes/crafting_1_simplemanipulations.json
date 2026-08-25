@@ -1,0 +1,228 @@
+{"recipes": [
+    {"id":"hatch.egg.gull.fireplace",
+    "actionid": "library.fireplace.*",
+    "reqs": {"egg":1,"brewable":1,"ability":1},
+    "label":"Hatch the Egg",
+    "startdescription":"The fire's warmth can stir this egg to life - but it'll take a full day.",
+    "desc":"New life!",
+    "aspects":{"fatiguing.ability":1,"dist":1},
+    "warmup":360,
+    "craftable":true
+ },
+ {"id":"hatch.egg.gull.kitchen",
+ "actionid": "library.kitchen.*",
+ "reqs": {"egg":1,"brewable":1,"ability":1},
+ "label":"Hatch the Egg",
+ "startdescription":"The oven's warmth can stir this egg to life - but it'll take a full day.",
+ "desc":"New life!",
+ "aspects":{"fatiguing.ability":1,"dist":1},
+ "warmup":360,
+ "craftable":true
+},
+
+    {"id":"distributable.serve",
+    "actionid": "station.serving.*",
+    "reqs": {"distributable":1},
+    "label":"Serve Appropriately",
+    "startdescription":"Pour out - ",
+    "desc":"- poured out.",
+    "aspects":{"dist":1},
+    "warmup":3,
+    "craftable":true
+ },
+ {"id":"brew.fireplace",
+ "actionid": "library.fireplace.*",
+ "label":"Brew over the Fire",
+ "reqs": {"brewable":1,"ability":1,"skill":-1,"memory":-1},
+ "startdescription":"Bring water to the boil - permit the potential here to express itself -",
+ "desc":"- steam and scent both rise. It's ready.",
+ "aspects":{"dist":1,"fatiguing.ability":1},
+ "warmup":30,
+ "craftable":true
+},
+
+{"id":"brew.kitchen",
+"actionid": "library.kitchen.*",
+"label":"Brew on the Kitchen Range",
+"reqs": {"brewable":1,"ability":1,"skill":-1,"memory":-1},
+"startdescription":"Bring to the boil -",
+ "desc":"- and it's ready.",
+ "aspects":{"dist":1,"fatiguing.ability":1},
+"warmup":30,
+"craftable":true
+},
+
+
+{"id":"pumps.run.upper",
+"actionid": "pumps.upper",
+"label":"Jury-Rig the Upper Level Pumps",
+"reqs": {"skill":1,"ability":1,"metal":2,"liquid":1,"fuel":1,"forge":"difficulty.prentice"},
+"startdescription":"The machine roars into life. Water thuds and gurgles. This will take a while.",
+ "desc":"The pumps sputter and die; but they've done their work.",
+ "aspects":{"fatiguing":1},
+"effects":{"circ.waters.receding":1},
+"warmup":360,
+"craftable":true
+},
+
+{"id":"pumps.run.lower",
+"actionid": "pumps.lower",
+"label":"Jury-Rig the Lower Level Pumps",
+"reqs": {"skill":1,"ability":1,"metal":2,"liquid":1,"fuel":1,"forge":"difficulty.scholar"},
+"startdescription":"The machine roars into life. Sparks flicker. This will take a while.",
+ "desc":"The pumps sputter and die; but they've done their work.",
+"aspects":{"fatiguing":1},
+"effects":{"circ.depths.uncovered":1},
+"warmup":360,
+"craftable":true
+},
+
+{
+    "id": "disassemble.wooden.workbench",
+    "label": "Break Down a Wooden Object",
+    "actionid": "library.workbench.*",
+    "startdescription": "Reduce something unique to something useful. [This will break the object down into Wooden Scraps.]",
+        "reqs": {"wooden":1,"ability":1},
+    "effects":{"wooden":-1,"scraps.wood":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+{
+    "id": "disassemble.woven.workbench",
+    "label": "Break Down a Woven Object",
+    "actionid": "library.workbench.*",
+    "startdescription": "Reduce something unique to something useful. [This will break the object down into Rags.]",
+        "reqs": {"woven":1,"ability":1},
+    "effects":{"woven":-1,"rags":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+
+
+{
+    "id": "disassemble.carcass.necropsy",
+    "label": "Saw Up a Carcass",
+    "actionid": "library.table.necropsy",
+    "startdescription": "Reduce something unique to something useful. [This will break the object down into Animal Bones.]",
+        "reqs": {"carcass":1,"ability":1},
+    "effects":{"carcass":-1,"animal.bones":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+
+{
+    "id": "draw.wire.spintria.gold",
+    "label": "Draw Gold Wire",
+    "actionid": "library.workbench.*",
+    "startdescription": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of gold wire.]",
+        "reqs": {"spintria.gold":2,"ability":1},
+    "effects":{"spintria.gold":-2,"wire.gold":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+{
+    "id": "draw.wire.spintria.silver",
+    "label": "Draw Silver Wire",
+    "actionid": "library.workbench.*",
+    "startdescription": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of silver wire.]",
+        "reqs": {"spintria.silver":2,"ability":1},
+    "effects":{"spintria.silver":-2,"wire.silver":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+{
+    "id": "draw.wire.spintria.tin",
+    "label": "Draw Tin Wire",
+    "actionid": "library.workbench.*",
+    "startdescription": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of tin wire.]",
+        "reqs": {"spintria.tin":2,"ability":1},
+    "effects":{"spintria.tin":-2,"wire.tin":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+{
+    "id": "draw.wire.spintria.bronze",
+    "label": "Draw Copper Wire",
+    "actionid": "library.workbench.*",
+    "startdescription": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of copper wire.]",
+        "reqs": {"spintria.bronze":2,"ability":1},
+    "effects":{"spintria.bronze":-2,"wire.copper":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+
+{
+    "id": "draw.wire.spintria.iron",
+    "label": "Draw Steel Wire",
+    "actionid": "library.workbench.*",
+    "startdescription": "It would be wildly illegal to do this to coin of the realm... but spintriae are most definitely not coin of the realm. [This will convert both Spintriae into a single spool of steel wire.]",
+        "reqs": {"spintria.iron":2,"ability":1},
+    "effects":{"spintria.iron":-2,"wire.steel":1},
+    "aspects":{"fatiguing.ability":true},
+          "craftable":true,
+          "warmup":60
+},
+
+{
+    "id": "draw.wire.hint",
+    "label": "Draw Wire?",
+    "actionid": "library.workbench.*",
+    "startdescription": "Two identical Ductile items can be drawn into wire.",
+        "reqs": {"ductile":1},
+          "hintonly":true,
+          "warmup":60
+},
+
+{
+    "id": "dry.book.fireplace",
+    "label": "Dry Out a Book",
+    "actionid": "library.fireplace.*",
+    "startdescription": "With great care...",
+    "desc": "Another treasure saved from the sea.",
+    "reqs": {"readable":1,"soaked":1,"ability":1},
+    "aspects": {"drying":1,"fatiguing":1},
+          "warmup": 60,
+          "linked":[{"id":"dry.journal.generic.start.*"}],
+          "craftable":true
+},
+{
+    "id": "dry.book.fireplace.hint",
+    "label": "Dry Out a Book?",
+    "actionid": "library.fireplace.*",
+    "startdescription": "[This will need care as well as warmth and time; add a Soul card.]",
+    "reqs": {"readable":1,"soaked":1},
+          "hintonly":true
+},
+
+{
+    "id": "dry.thing.fireplace",
+    "label": "Dry Out Something",
+    "actionid": "library.fireplace.*",
+    "startdescription": "With care...",
+    "desc": "Soft vapours rise.",
+    "reqs": {"readable":-1,"soaked":1,"ability":1},
+    "aspects": {"dissipating":1,"fatiguing.ability":1},
+    "comments":"Using dissipating, not drying, because we (currently) have no generic xtrigger column on the sheet",
+          "warmup": 30,
+          "craftable":true
+},
+{
+    "id": "dry.thing.fireplace.hint",
+    "label": "Dry Out a Book?",
+    "actionid": "library.fireplace.*",
+    "startdescription": "[This will need care as well as warmth and time; add a Soul card.]",
+        "reqs": {"readable":-1,"soaked":1},
+          "hintonly":true
+}
+
+
+
+ ]
+}

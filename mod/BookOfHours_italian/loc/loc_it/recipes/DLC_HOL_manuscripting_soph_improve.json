@@ -1,0 +1,296 @@
+{
+ "recipes": [
+  {
+   "id": "manuscript.soph.improve.preliminalmeter",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.pyroglyphics",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.inks.containment",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.inks.revelation",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.inks.power",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.drums.dances",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.strings.songs",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.bells.brazieries",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.horns.ivories",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.surgeries.exsanguinations",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.stitching.binding",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.furs.feathers",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.pearl.tide",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.insects.nectars",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.herbs.infusions",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.spices.savours",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.leaves.thorns",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.orchids.narcotics",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.serpents.venoms",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.sights.sensations",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.desires.dissolutions",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.resurgences.emergences",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.rhyme.remembrance",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.disciplines.thehammer",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.disciplines.thescar",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.auroralcontemplations",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.applebrighteuphonies",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.watchmansparadoxes",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.raggedcrossroads",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.meniscatereflections",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.putrefactions.calcinations",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.solutions.separations",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.path.pilgrim",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.purifications.exaltations",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.transformations.liberations",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.lockworks.clockworks",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.seastories",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.wolfstories",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.sandstories",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.skystories",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.snowstories",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.stonestories",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.vak",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.mandaic",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.killasimi",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.fucine",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.sabazine",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.cracktrack",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.hyksos",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.ericapaean",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.ramsund",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.sacrasolisinvicti",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.tridesmahiera",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.sacralimiae",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.sickle.eclipse",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.hill.hollow",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.pentiments.precursors",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.coil.chasm",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.rites.theroots",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.door.wall",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.edictsliminal",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.edictsmartial",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.edictsinviolable",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.thegreatsignsandthegreatscars",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.maggephenemysteries",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.weaving.knotworking",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.anbary.lapidary",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.quenchings.quellings",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.glassblowing.vesselcrafting",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.glaziery.lightsmithing",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.sharps",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.ouranoscopy",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  },
+  {
+   "id": "manuscript.soph.improve.henavek",
+   "desc": "Con l’inchiostro appropriato, il processo è più efficace."
+  }
+ ]
+}

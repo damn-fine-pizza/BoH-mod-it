@@ -1,0 +1,14 @@
+{
+ "decks": [
+  {
+   "id": "d.challenges.opportunities",
+   "label": "Successo?",
+   "desc": "Questo potrebbe ancora essere salvabile."
+  },
+  {
+   "id": "d.challenges.consolations",
+   "label": "Una Consolazione",
+   "desc": "Una sorta di lezione."
+  }
+ ]
+}

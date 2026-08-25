@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "Dawnlion Coffee Ordered",
+  "dove": "elements/orderplaced.coffee.dawnlion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lapsang Tea Ordered",
+  "dove": "elements/orderplaced.tea.lapsang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Almonds",
+  "dove": "elements/orderplaced.almonds.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Armagnac",
+  "dove": "elements/orderplaced.bottle.armagnac.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Arsenic",
+  "dove": "elements/orderplaced.arsenic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Beef",
+  "dove": "elements/orderplaced.beef.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Butter",
+  "dove": "elements/orderplaced.butter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Canned Ham",
+  "dove": "elements/orderplaced.ham.canned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Cocoa",
+  "dove": "elements/orderplaced.packet.cocoa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Copper Wire",
+  "dove": "elements/orderplaced.wire.copper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Desiccated Witchworms",
+  "dove": "elements/orderplaced.witchworms.desiccated.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Domaine Raveline",
+  "dove": "elements/orderplaced.bottle.raveline.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Dripping",
+  "dove": "elements/orderplaced.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Evening Isles Coffee",
+  "dove": "elements/orderplaced.coffee.eveningisles.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Flour",
+  "dove": "elements/orderplaced.flour.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Glue",
+  "dove": "elements/orderplaced.glue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Lambig",
+  "dove": "elements/orderplaced.bottle.lambig.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Milk",
+  "dove": "elements/orderplaced.milk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Nivine Parchment",
+  "dove": "elements/orderplaced.parchment.nivine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Oscillate Oil",
+  "dove": "elements/orderplaced.oil.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Paper",
+  "dove": "elements/orderplaced.quire.paper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Pheasant",
+  "dove": "elements/orderplaced.pheasant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Plums",
+  "dove": "elements/orderplaced.plums.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Potatoes",
+  "dove": "elements/orderplaced.potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Roscraggan Whisky",
+  "dove": "elements/orderplaced.bottle.roscraggan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Schloss Jannings",
+  "dove": "elements/orderplaced.bottle.jannings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Scintillate Oil",
+  "dove": "elements/orderplaced.oil.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Strathcoyne Whisky",
+  "dove": "elements/orderplaced.bottle.strathcoyne.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Sugar",
+  "dove": "elements/orderplaced.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ordered Umbrous Oil",
+  "dove": "elements/orderplaced.oil.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The package is stamped with warning signs",
+  "dove": "elements/contains.arsenic.label",
+  "ricorre": 2
+ },
+ {
+  "en": "A Visitor has been affected by recent events... and may now be more inclined to join the Lighthouse Institute.",
+  "dove": "elements/_inspiration.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "About?",
+  "dove": "elements/_visitor.slots.subject.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Collaborate",
+  "dove": "elements/_assistance.slots.collaborate.label",
+  "ricorre": 11
+ },
+ {
+  "en": "Effort",
+  "dove": "elements/_.slots.examine.label",
+  "ricorre": 130
+ },
+ {
+  "en": "FNOR_, as the saying goes, is not as it was.",
+  "dove": "elements/_.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Food",
+  "dove": "elements/_beast.carnivore.slots.feed.label",
+  "ricorre": 3
+ },
+ {
+  "en": "I'll need to apply myself.",
+  "dove": "elements/_book.slots.ability1.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory?",
+  "dove": "elements/_book.slots.memory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Optionally, use a Memory.",
+  "dove": "elements/_book.slots.memory.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Optionally, use a Skill.",
+  "dove": "elements/_book.slots.skill.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Pay",
+  "dove": "elements/_employable.slots.p.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Prima Materia",
+  "dove": "elements/_.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Skill?",
+  "dove": "elements/_book.slots.skill.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Soul",
+  "dove": "elements/_book.slots.ability1.label",
+  "ricorre": 97
+ },
+ {
+  "en": "Work alongside them, or provide something they can use.",
+  "dove": "elements/_assistance.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Candles.]",
+  "dove": "elements/_assistance.usescandles.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Fabric.]",
+  "dove": "elements/_assistance.usesfabric.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Flowers.]",
+  "dove": "elements/_assistance.usesflower.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Fuel.]",
+  "dove": "elements/_assistance.usesfuel.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Metals.]",
+  "dove": "elements/_assistance.usesmetal.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Pigments.]",
+  "dove": "elements/_assistance.usespigment.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Sound - that is, they can use a Sound card and another Memory card in the same day.]",
+  "dove": "elements/_assistance.usessound.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of Wood.]",
+  "dove": "elements/_assistance.useswood.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of an Omen - that is, they can use an Omen card and another Memory card in the same day.]",
+  "dove": "elements/_assistance.usesomen.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Work alongside them, or provide something they can use. [This assistant can also make use of an co-operative beast - who will, with luck, be returned to you unharmed.]",
+  "dove": "elements/_assistance.usescooperative.slots.collaborate.description",
+  "ricorre": 1
+ },
+ {
+  "en": "[Add a Numa-related Incident that this visitor might discuss.]",
+  "dove": "elements/_visitor.numa.slots.subject.description",
+  "ricorre": 1
+ },
+ {
+  "en": "[Add an Incident that this visitor might discuss.]",
+  "dove": "elements/_visitor.slots.subject.description",
+  "ricorre": 1
+ },
+ {
+  "en": "[Add any Soul card.]",
+  "dove": "elements/_.slots.examine.description",
+  "ricorre": 11
+ },
+ {
+  "en": "[Add any appropriate Sustenance card.]",
+  "dove": "elements/_beast.carnivore.slots.feed.description",
+  "ricorre": 3
+ },
+ {
+  "en": "[Catalogue this to learn more]",
+  "dove": "elements/_book.unc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "_book",
+  "dove": "elements/_book.label",
+  "ricorre": 1
+ },
+ {
+  "en": "_book.unc",
+  "dove": "elements/_book.unc.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Black, the First Flower",
+  "dove": "elements/de.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Grail, the Oldest",
+  "dove": "elements/de.grail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Horned-Axe, the Oldest",
+  "dove": "elements/de.heart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which Noon is the site of the City Unbuilt, through the Numen <i>A Final Understanding</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.sky.unde.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which Noon is the site of the City Unbuilt, through the Numen <i>Back Into Balance</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.sky.bala.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which Noon is the site of the City Unbuilt, through the Numen <i>That Old Lost Music</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.sky.oldl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which Ys becomes the City Unbuilt, through the Numen <i>A Final Understanding</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.rose.unde.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which Ys becomes the City Unbuilt, through the Numen <i>That Old Lost Music</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.rose.oldl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which Ys becomes the City Unbuilt, through the Numen <i>The Bells of Ys</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.rose.bell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the City Unbuilt remains <i>in potentia</i>, through the Numen <i>Loopholes</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.moth.loop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the City Unbuilt remains <i>in potentia</i>, through the Numen <i>The Sun's Weakness</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.moth.desc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the City Unbuilt remains <i>in potentia</i>, through the Numen <i>Three Rules</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.moth.thre.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the City Unbuilt rises in the Mansus, through the Numen <i>Loopholes</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.moon.loop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the City Unbuilt rises in the Mansus, through the Numen <i>The Great Counterfeit</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.moon.secr.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the City Unbuilt rises in the Mansus, through the Numen <i>Weaving the World</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.moon.worl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Steel bring the Second Dawn, through the Numen <i>Merciless Alteration</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.forge.alte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Steel bring the Second Dawn, through the Numen <i>The Bells of Ys</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.forge.bell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Steel bring the Second Dawn, through the Numen <i>The Paths of the Sun</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.forge.asce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are consumed, through the Numen <i>An Irresistible Feast</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.grail.feas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are consumed, through the Numen <i>Merciless Alteration</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.grail.alte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are consumed, through the Numen <i>The Sun's Weakness</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.grail.desc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are reborn, through the Numen <i>An Irresistible Feast</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.nectar.feas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are reborn, through the Numen <i>The Great Counterfeit</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.nectar.secr.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are reborn, through the Numen <i>Weaving the World</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.nectar.worl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are remembered, through the Numen <i>Back Into Balance</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.heart.bala.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are remembered, through the Numen <i>Three Rules</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.heart.thre.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone are remembered, through the Numen <i>Weaving the World</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.heart.worl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone enact their revenge, through the Numen <i>Inescapable Confinement</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.knock.conf.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone enact their revenge, through the Numen <i>Loopholes</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.knock.loop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Gods-from-Stone enact their revenge, through the Numen <i>The Paths of the Sun</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.knock.asce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn is the dawn of an older, redder sun, through the Numen <i>Inescapable Confinement</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.scale.conf.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn is the dawn of an older, redder sun, through the Numen <i>That Old Lost Music</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.scale.oldl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn is the dawn of an older, redder sun, through the Numen <i>Three Rules</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.scale.thre.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will come soon, through the Numen <i>The Great Counterfeit</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.lantern.secr.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will come soon, through the Numen <i>The Paths of the Sun</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.lantern.asce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will come soon, through the Numen <i>The Sun's Weakness</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.lantern.desc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will come when all but one Hour has fallen, through the Numen <i>An Irresistible Feast</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.edge.feas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will come when all but one Hour has fallen, through the Numen <i>Merciless Alteration</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.edge.alte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will come when all but one Hour has fallen, through the Numen <i>The Bells of Ys</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.edge.bell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will never come, through the Numen <i>A Final Understanding</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.winter.unde.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will never come, through the Numen <i>Back Into Balance</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.winter.bala.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have recorded a History in which the Second Dawn will never come, through the Numen <i>Inescapable Confinement</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",
+  "dove": "elements/h.winter.conf.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Language is a scar. It was language that tore open the Mansus; without language, we could have had no wars; without language, we would still be fire, sky, earth. [This Determination is made with Knock; it provides Knock and Winter.]",
+  "dove": "elements/de.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Language is a weapon. With language, we breached the Mansus; without language, we could not have fought wars; without language, we would still be apes, beetles, stone. [This Determination is made with Edge; it provides Edge and Grail.]",
+  "dove": "elements/de.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Language is the key. It was language that opened the doors of the Mansus; without language, we could have had no peace; without language, we would still be beasts, worms, mud. [This Determination is made with Rose; it provides Rose and Sky.]",
+  "dove": "elements/de.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth, the Oldest",
+  "dove": "elements/de.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My History",
+  "dove": "elements/h.edge.alte.label",
+  "ricorre": 39
+ },
+ {
+  "en": "Our ancestors were born naked in the roots of the Wood. All we ever were has risen from that darkness. With our hands and our mouths we shaped language from mud. With our mouths and our hands we will shape our future [This Determination is made with Nectar; it provides Nectar and Moon.].",
+  "dove": "elements/de.nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Our first sparks of self descended from the light above the world which we call the Glory. Without the Glory, we would be beasts in darkness, and the gifts of our past illuminate our future, which is Eternity. [This Determination is made with Lantern; it provides Lantern and Moth.]",
+  "dove": "elements/de.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Red, the First Flower",
+  "dove": "elements/de.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speech, the Key",
+  "dove": "elements/de.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speech, the Sword",
+  "dove": "elements/de.edge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speech, the Wound",
+  "dove": "elements/de.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Carapace Cross are a hybrid race, and once we were the Carapace Cross. From the Seglaz-kind, we inherited what now we call language. We long for what we were; and History too is hybrid. [This Determination is made with Scale; it provides Scale and Heart.]",
+  "dove": "elements/de.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Horned-Axe bears two blades; permits passage when passage is to be permitted; waits at the threshold. The Horned-Axe, who forbids contradiction, is the oldest Hour. Other Hours might seem older. They are not older. [This Determination is made with Heart; it provides Heart and Knock.]",
+  "dove": "elements/de.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Moth beats within the skull; seeks among the trees of the Wood; is dappled. The Moth, who delights in contradiction, is the oldest Hour that remains. Any that seem older, the Moth once was, when once it was. [This Determination is made with Moth; it provides Moth and Lantern.]",
+  "dove": "elements/de.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Red Grail gives life; the Grail takes life; the Grail is not sated. The Grail, who disdains contradiction, is the oldest Hour that persists. Any that seem older are subsumed, eventually, in the Grail's tides. [This Determination is made with Grail; it provides Grail and Nectar.]",
+  "dove": "elements/de.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Thritige-kind of the Carapace Cross dreamed themselves out of black glass, to be their own Monarch. If we inherit the empty throne, we dream ourselves into every night to come. [This Determination is made with Sky; it provides Sky and Forge.]",
+  "dove": "elements/de.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle. The White Flower of Calyptra - 'the silence that is given' was its first defence. When forbidden knowledge is known, it must be forgotten. But to be forgotten, it must first be known. The Tree is rooted in paradox. [This Determination is made with Winter; it provides Winter and Edge.]",
+  "dove": "elements/de.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Black Flower of Calyptra -'the night unwounded' - was its first defence. Forbidden knowledge must not be spoken; must not be written; must not be known. The Tree is rooted in night. [This Determination is made with Moon; it provides Moon and Scale.]",
+  "dove": "elements/de.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Red Flower of Calyptra -'the fire fuelled by truth' was its first defence. Fire consumes knowledge... but fire also gives light. The Tree is rooted in paradox. [This Determination is made with Forge; it provides Forge and Rose.]",
+  "dove": "elements/de.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "We Arose from the Filth of the Wood",
+  "dove": "elements/de.nectar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "We Came From Glory",
+  "dove": "elements/de.lantern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "We Came From Nowhere",
+  "dove": "elements/de.sky.label",
+  "ricorre": 1
+ },
+ {
+  "en": "We Hatched from the Shell",
+  "dove": "elements/de.scale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "White, the First Flower",
+  "dove": "elements/de.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'...Ys, the exception, but no exception to Eternity can last forever. That's rather the point! Only when I accepted that...'",
+  "dove": "elements/acted.julian.numa.moon.a.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'...count on a poet to…charlatan. Our daughter...'",
+  "dove": "elements/acted.franklin.numa.grail.a.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'...endings like the pale light before a pale dawn. We can always be certain of a first time - we can never be certain when it is the last...'",
+  "dove": "elements/acted.julian.numa.winter.a.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'...my arrogance, fought to overthrow Necessity. I will not say my time was wasted - no blow struck against tyranny is wasted. But only when I saw...'",
+  "dove": "elements/acted.julian.numa.moon.b.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'...once we've begun, there's no end to it. Without the Grail, no Intercalate; without the Intercalate, how would the Hours keep from...'",
+  "dove": "elements/acted.franklin.numa.grail.b.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'...optimism? If you term it that! I do not deny the Hours. But who else than we would make these Histories, in the face of all the Glory's lights, if...'",
+  "dove": "elements/acted.franklin.numa.wood.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Daymare' definitely decided not to seek Ys. Definitely. Under no circumstances.",
+  "dove": "elements/acted.dagmar.omen.horizon.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Daymare' left Hush House with a plan to ensure 'St Mihail', whatever he might actually be, stayed in his coffin.",
+  "dove": "elements/acted.dagmar.box.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Daymare' was clearly concerned that she might be blamed for the heist, real or not, justly or not - but her researches at Hush House gave her hope that she might escape suspicion.",
+  "dove": "elements/acted.dagmar.heist.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Daymare' went off to Budapest to look into the Medusa business, insisting that she wasn't doing so as any kind of favour for any kind of friend, especially not one whose name might begin with K.",
+  "dove": "elements/acted.dagmar.stalk.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Daymare', unimpressed by the Bureau's claims of expertise, set off to Kraków to make sure that the seals restraining the Worms were up to her standards.",
+  "dove": "elements/acted.dagmar.intrusion.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'If I were here, this would comfort me; if I were here, I would reward you better than now I do.'",
+  "dove": "elements/acted.rowena.numa.grail.a.grail.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'If I were here… perhaps it is the Twins that would have brought me. It is the Twins who unite what must not be apart. And so I share their patronage with my sisters-in-blood. As Bancroft used to say, there are other appetites than love.'",
+  "dove": "elements/acted.rowena.numa.grail.b.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'When I was here - the first time - the first sacrifice I made was to the Grail. Without that, there would be no Hush House at all. Oh, the covenant-stone, the tree, all that, perhaps. But remember that it all begins with birth.'",
+  "dove": "elements/acted.rowena.numa.wood.grail.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'When I was here - when I came here, the first time - I was so angry. That I had been cast aside after I opened the way - that was the least of it. That I had opened the way - that was the worst of it. Though, once, I thought it was the other way around.'",
+  "dove": "elements/acted.rowena.numa.winter.a.winter.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Yes, dear. If we don't know what we've lost when we've buried it, we won't know it until they've buried us. I would think about what I'm ready to bury, if I were you. Sleep softly.'",
+  "dove": "elements/acted.auntmopsy.numa.moon.a.moon.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Yes, dear. No paper without trees; no forest without the axe; no loss without memory. Sleep softly.'",
+  "dove": "elements/acted.auntmopsy.numa.wood.nectar.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Yes, dear. Without all those gods in darkness, I don't imagine we'd see much Sun anywhere below Eternity. Sleep softly.'",
+  "dove": "elements/acted.auntmopsy.numa.moon.b.moon.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Acted: Agdistis",
+  "dove": "elements/acted.agdistis.curse.heart.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Arthur Moore",
+  "dove": "elements/acted.arthur.hunt.changing.edge.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Acted: Aunt M",
+  "dove": "elements/acted.auntmopsy.numa.moon.a.moon.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Acted: Azita",
+  "dove": "elements/acted.azita.hunt.changing.edge.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Acted: Bancroft",
+  "dove": "elements/acted.franklin.numa.grail.a.grail.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Acted: Chaima",
+  "dove": "elements/acted.chaima.hunt.changing.edge.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Acted: Connie",
+  "dove": "elements/acted.connie.box.moon.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Acted: Coquille",
+  "dove": "elements/acted.coquille.box.knock.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Corso",
+  "dove": "elements/acted.corso.mystical.lantern.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Coseley",
+  "dove": "elements/acted.julian.numa.moon.a.moon.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Acted: Dagmar",
+  "dove": "elements/acted.dagmar.box.knock.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Douglas Moore",
+  "dove": "elements/acted.douglas.curse.heart.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Ehsan",
+  "dove": "elements/acted.ehsan.curse.heart.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Father Stanislav",
+  "dove": "elements/acted.stanislav.curse.heart.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Hokobald",
+  "dove": "elements/acted.hokobald.heist.forge.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Morgen",
+  "dove": "elements/acted.morgen.observe.scaly.sky.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Olympe",
+  "dove": "elements/acted.olympe.heist.forge.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Acted: Peel",
+  "dove": "elements/acted.arun.box.moon.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Rowena",
+  "dove": "elements/acted.rowena.numa.grail.a.grail.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Acted: Serena",
+  "dove": "elements/acted.serena.heist.forge.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Acted: Strathcoyne",
+  "dove": "elements/acted.fraser.hunt.changing.scale.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Acted: Yvette",
+  "dove": "elements/acted.yvette.box.moon.label",
+  "ricorre": 8
+ },
+ {
+  "en": "Acted: Zachary",
+  "dove": "elements/acted.zachary.box.knock.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Acted: al-Adim",
+  "dove": "elements/acted.aladim.hunt.changing.scale.label",
+  "ricorre": 7
+ },
+ {
+  "en": "After her visit to Brancrug, Dr Blackwood strongly suspected that the cause of the Messana business was not a Name of the Watchman... but a Name of the Chandler.",
+  "dove": "elements/acted.serena.omen.dawn.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "After her visit to Hush House, Mme Bechet came to believe that the Royal Endeavour was associated with the Second Dawn... which, she opined, she would prefer to a war.",
+  "dove": "elements/acted.olympe.project.solar.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "After visiting Hush House, Magister Hokobald believed he had determined the most suitable gifts for the performers. He almost thanked me for it.",
+  "dove": "elements/acted.hokobald.opera.apollo.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "After visiting Hush House, Magister Hokobald felt prepared to take 'full advantage' of the upcoming operatic disaster. Though he didn't seem especially grateful.",
+  "dove": "elements/acted.hokobald.opera.wings.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "At Hush House, Mme Bechet learnt enough (she hoped) to persuade a wealthy patroness to purchase the Unfinished Lark, and save it from being sold for scrap by the authorities.",
+  "dove": "elements/acted.olympe.project.ingenious.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "At the behest of his patron the Vagabond, the Aleppine set out to find the piebald garden in the wastes... but his heart was troubled within him.",
+  "dove": "elements/acted.aladim.lost.find.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita believed Zidane had been murdered - and, after investigating possible motives, speculated that he had 'been eavesdropping at the keyholes of heaven.'",
+  "dove": "elements/acted.azita.project.ingenious.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita found an 'acceptable substitute' for the taenite knives that the Légion du Seuil needed.",
+  "dove": "elements/acted.azita.revolution.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita set off to play her 'silly games' with her enemy-twin Mehrad in Budapest... competing to cut a scrap from the robe of Medusa herself.",
+  "dove": "elements/acted.azita.stalk.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita wanted to ensure that the production got every detail right - to make it the best possible bait for her 'dearest enemy' Mehrad.",
+  "dove": "elements/acted.azita.opera.apollo.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita went to Kaunas to, she claimed, knock Reckoners' heads together.",
+  "dove": "elements/acted.azita.mob.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso determined that the manuscript the Church had given him to authenticate - with its details of the prophecy of the Unfettered Eye - was a forgery.",
+  "dove": "elements/acted.corso.omen.dawn.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso found a bribe that he thought might persuade someone to 'sit at the back' of the performance, and help him authenticate a book that might be a copy of the libretto.",
+  "dove": "elements/acted.corso.opera.wings.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso improved his knowledge of 'stains'... hopefully, enough to identify the 'savour-arts' book he hoped to acquire in Paris.",
+  "dove": "elements/acted.corso.opera.apollo.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso sought an unknown Hattington work in the Bounds - and hoped that he'd identified a suitable bribe for the 'lady' who held it.",
+  "dove": "elements/acted.corso.revolution.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso suggested that the new doctrines had suggested a connection to him - between the enigmatic Hour called the Chandler, and a Name of the Watchman: Sunset Celia.",
+  "dove": "elements/acted.corso.mystical.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso went glumly back to his 'foreign friends', to warn them that their concerns about the nature of the Royal Endeavour might be justified.",
+  "dove": "elements/acted.corso.project.solar.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Moore came to investigate likely motives for sabotage of the Royal Endeavour by maverick clergy... and left with a 'much better idea about who might need arresting.'",
+  "dove": "elements/acted.douglas.project.solar.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Moore concluded that the 'Open Reverend' would have to be permanently closed.",
+  "dove": "elements/acted.douglas.wound.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Moore decided that there was nothing at the Lyterion that merited Bureau investigation.",
+  "dove": "elements/acted.douglas.pan.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Moore remained uncertain about events in Messana, but promised to mention to the Bureau that I'd been of assistance.",
+  "dove": "elements/acted.douglas.omen.dawn.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Moore set off to resolve the Grunewald problem, buoyed by what he'd learnt at Hush House.",
+  "dove": "elements/acted.douglas.curse.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Moore was mostly concerned that the cults might be a breeding ground for Long - and so increase the incidence of the Crime of the Sky.",
+  "dove": "elements/acted.douglas.mystical.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Blackwood dismissed the whole business of cults as a popular delusion in a time of change.",
+  "dove": "elements/acted.serena.mystical.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Blackwood suspected that someone at Oriflamme's had invented the story of the heist themselves. She couldn't imagine why - but she learnt enough from me to be taken seriously by her contact there.",
+  "dove": "elements/acted.serena.heist.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Blackwood was concerned that the Royal Endeavour might be, in some sense, the rebirth of the 'alchemies of the House of Lancaster'... perhaps even a return, in some sense, to the days of the Sovereigns of the Leashed Flame.",
+  "dove": "elements/acted.serena.project.solar.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Blackwood was convinced that the Royal Endeavour was fundamentally a matter of light... but that it might be connected to the paradoxical, menacing Hour known as the Chandler.",
+  "dove": "elements/acted.serena.project.solar.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Peel hoped for 'a chat' with Ferezeref the Magpie, Name of the Moth, who he held responsible for the opera's disasters.",
+  "dove": "elements/acted.arun.opera.wings.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Peel propounded an obscure theory about a sacrament of blood which might be shared with the Sun at dusk and at dawn; and exited stage left.",
+  "dove": "elements/acted.arun.rising.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Peel went off to Kaunas to collect knives, or sow confusion, or bring peace. Or something.",
+  "dove": "elements/acted.arun.mob.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Peel went off to watch the rite at Gladwyn Lake, intoning sinister names: Robigo the Generous with Hosts; the Crowned Growth; Ortucchio...",
+  "dove": "elements/acted.arun.rite.renewal.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Peel, as so often, found what he sought at Brancrug, delivered himself of a riddle, and departed, his intentions still obscure.",
+  "dove": "elements/acted.arun.lost.find.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Peel, confident that the occupant of St Mihail's Coffin would escape soon, was equally confident that someone, or something, would be eaten by something, or someone. He seemed quite chipper about it.",
+  "dove": "elements/acted.arun.box.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey came to suspect the Reckoner trade in years of life might explain how an ancestor at Brancrug had borne a child so late in life...",
+  "dove": "elements/acted.yvette.mob.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey had purchased one of the Grunewald articles. What she learnt at Hush House convinced her to dispose of it.",
+  "dove": "elements/acted.yvette.curse.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey knew that she could never hope to heal the Open Reverend's flesh - but he had been one of her patients, and she thought perhaps he might be again.",
+  "dove": "elements/acted.yvette.wound.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey refused the blandishments of the cult called the Ivory Dawn... but suspected that they honoured her by reason of a 'pre-immortal' in her ancestry.",
+  "dove": "elements/acted.yvette.mystical.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey went to interview Hobson in Kraków - but came first to Hush House to ensure she understood the hazards that might entail.",
+  "dove": "elements/acted.yvette.intrusion.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey's patient believed he would be reborn at Gladwyn Lake beneath the moon - and she decided, after visiting Hush House, that it would be futile to try to prevent him from going.'Always the tide...'",
+  "dove": "elements/acted.yvette.rite.renewal.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey, inspired by the stories of St Mihail's Coffin to look into the story of St Columba's sarcophagus, seemed to find what she sought. 'Always the tide,' she said...",
+  "dove": "elements/acted.yvette.box.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey, troubled by dreams, feared death by water.",
+  "dove": "elements/acted.yvette.rising.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan became convinced that the Open Reverend had attracted the attention of the Mother of Ants - but determined, nevertheless, that he would try to heal the poor fellow.",
+  "dove": "elements/acted.ehsan.wound.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan had hoped that Zidane's memorial composition might be played on the Unfinished Lark itself - but after researching the matter at Hush House, he came to believe that might be too dangerous.",
+  "dove": "elements/acted.ehsan.project.ingenious.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan noted a resemblance between the operations of the Lyterion, and the work of Thirza Blake, seventh Librarian of the House.",
+  "dove": "elements/acted.ehsan.pan.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan set out to help patients who had heard the call of the clouds -  by suppressing their mania to travel West - though not without some qualms.",
+  "dove": "elements/acted.ehsan.observe.scaly.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan, requested by the Bureau to help them resolve the Grunewald matter, came to Hush House seeking ways to protect himself during the process.",
+  "dove": "elements/acted.ehsan.curse.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller came to Hush House to investigate the possibility that the rite was a Haustorium trap... and mentioned, perhaps only in passing, that he had managed Teresa Galmier's 'reincorporation'.",
+  "dove": "elements/acted.stanislav.rite.renewal.nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller declared his intention to bury the image called the 'Sandalwood Saint', hoping it might grow... but only slowly, and in the right season.",
+  "dove": "elements/acted.stanislav.rite.awakening.nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller resolved to speak to some of the patrons of the Lyterion, hoping to understand a change 'in the tempo of the world's pulse.'",
+  "dove": "elements/acted.stanislav.pan.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller resolved to visit the Black Forest, sensing an opportunity for something old to be reborn - 'in the right way or the wrong one.'",
+  "dove": "elements/acted.stanislav.pan.nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller set off for the Grove of Green Immortals with a 'restless waxwork' - after finding what he needed at Hush House, to keep the thing contained on the journey.",
+  "dove": "elements/acted.stanislav.curse.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller, who had once been a friend of the Open Reverend, felt that he had learnt enough to give him 'what he might want.'",
+  "dove": "elements/acted.stanislav.wound.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser Strathcoyne believed that something had drawn the Obliviates - the Long who'd secluded themselves in Port Noon - back to the world.",
+  "dove": "elements/acted.fraser.mystical.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser Strathcoyne came to Brancrug to interpret an oracle given by the Rising While; and became certain that he was descended from the Scimafectra-kind of the Carapace Cross; the 'Glory-Winged' ones.",
+  "dove": "elements/acted.fraser.rising.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser Strathcoyne decided, with some regret, that the events in Messana had nothing to do with his own recurring dreams of eyes...",
+  "dove": "elements/acted.fraser.omen.dawn.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser Strathcoyne declared his intention to drown the sandalwood image from the Strasbourg church, hoping it would 'develop further'.",
+  "dove": "elements/acted.fraser.rite.awakening.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser Strathcoyne hoped, but did not expect, to shield Abecassis from his hunters.",
+  "dove": "elements/acted.fraser.hunt.changing.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser Strathcoyne was eager to travel West and embrace his latent second nature.",
+  "dove": "elements/acted.fraser.observe.scaly.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald found what he needed on 'genealogy, or cuisine, or related subjects', though he was not forthcoming about the connection these matters might have with to the revolution in the Bounds.",
+  "dove": "elements/acted.hokobald.revolution.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "It wasn't clear what Zachary Wakefield intended with the new crop of cults... but it was clear that it was nothing especially constructive.",
+  "dove": "elements/acted.zachary.mystical.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima left for Budapest to follow and watch Medusa - having first established at Hush House that she should, above all, not get too close.",
+  "dove": "elements/acted.chaima.stalk.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima left for Budapest to follow and watch Medusa - having first established at Hush House that she should, above all, show respect.",
+  "dove": "elements/acted.chaima.stalk.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima set off, without enthusiasm, to complete a commission for a Reckoner lord in the sewers of Kaunas.",
+  "dove": "elements/acted.chaima.mob.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima set out to end Abecassis' misery... although her ultimate intention remained uncertain, even to her.",
+  "dove": "elements/acted.chaima.hunt.changing.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima set out to hunt the emissaries of Ys on the Bureau's commmission - though even with what she had learnt at Brancrug, she did not expect to find them.",
+  "dove": "elements/acted.chaima.omen.horizon.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima undertook a commission for the Bureau in Miah - whether to find the piebald garden, or conceal it, was never clear.",
+  "dove": "elements/acted.chaima.lost.find.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima, armed with what she had learnt at Hush House, set off to offer battle to the enemies of the Légion du Seuil.",
+  "dove": "elements/acted.chaima.revolution.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lieutenant Moore came to believe that the miracles in Messana might mean the Second Dawn was near. 'When the world changes,' he observed, 'it will change all at once.'",
+  "dove": "elements/acted.arthur.omen.dawn.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lieutenant Moore dared to hope that he might begin to understand 'the Sun's Plan'.",
+  "dove": "elements/acted.arthur.mystical.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lieutenant Moore found the weapon he needed to put down Reckoners in Kaunas.",
+  "dove": "elements/acted.arthur.mob.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lieutenant Moore resolved to take Abecassis into the custody of the Labyrinth of Lions.",
+  "dove": "elements/acted.arthur.hunt.changing.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lieutenant Moore sympathised with the rebels in the Bounds... but his concerns about their honesty weighed heavily on him.",
+  "dove": "elements/acted.arthur.revolution.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lieutenant Moore was concerned about his great-nephew's part in the Royal Endeavour - but a visit to Hush House soothed those concerns.",
+  "dove": "elements/acted.arthur.project.solar.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lieutentant Moore, preparing himself to face Medusa, came to fear that the answer to her riddle - 'What Is Not Seen?' - was not 'Light', as he had long believed.",
+  "dove": "elements/acted.arthur.stalk.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee researched 'countermeasures' at Hush House, hoping to limit any damage caused by the rite",
+  "dove": "elements/acted.connie.rite.renewal.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee set off to track down the entity that she believed had murdered Zidane - a renegade spirit of the lower skies.",
+  "dove": "elements/acted.connie.project.ingenious.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee suspected St Mihail's Coffin might contain a name of the Chandler... perhaps, she said, the second one she'd heard mentioned that year. She was clearly perturbed by the possibility.",
+  "dove": "elements/acted.connie.box.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee was reassured that the opera might present a lesser oneiric hazard than she had feared... but resolved still to talk to 'our cousins of the Duties' in Paris.",
+  "dove": "elements/acted.connie.opera.apollo.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee, concerned at her superiors' request for her to research an oracle given by the Rising While, began to suspect that a 'Great Counterfeit' played some part in the affairs of the realm.",
+  "dove": "elements/acted.connie.rising.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee, concerned by the call of the West, decided not to go there in person - instead resolving that the Bureau should do what it could to keep the coasts safe.",
+  "dove": "elements/acted.connie.observe.scaly.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee, greatly concerned that a Reckoner might somehow have found a way to cheat the Madrugad, left for Kaunas in a hurry.",
+  "dove": "elements/acted.connie.mob.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Magister Hokobald came to Hush House to learn what he could of the Royal Endeavour's aims and nature. He seemed satisfied with the Endeavour; he seemed almost satisfied with Hush House.",
+  "dove": "elements/acted.hokobald.project.solar.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Magister Hokobald planned to 'salvage' Zidane's work when it was (as he hoped) sold for scrap.",
+  "dove": "elements/acted.hokobald.project.ingenious.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Magister Hokobald, employed by Oriflamme's to make improvements to their vault, thought he might have have found useful information at Hush House... although he was careful to point out that it wasn't <i>very</i> useful.",
+  "dove": "elements/acted.hokobald.heist.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine hoped to complete Zidane's work; and at Hush House, or so she believed, she found what she needed to do so.",
+  "dove": "elements/acted.morgen.project.ingenious.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine was certain she'd find the meal she sought, among the battles in the Bounds.",
+  "dove": "elements/acted.morgen.revolution.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine was confident she would be the best-dressed woman in the audience.",
+  "dove": "elements/acted.morgen.opera.apollo.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine was confident she would be the best-dressed woman in the audience... even though she had decided on a departure from her usual style.",
+  "dove": "elements/acted.morgen.opera.apollo.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine went to Venice ready for a 'catastrophe' at the opera's opening. She mused that 'Earth is thicker than blood' - hinting, perhaps, at some involvement with the line of Antaios?'",
+  "dove": "elements/acted.morgen.opera.wings.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine, armed with knowledge, travelled West to see the business for herself; and warned that something might also come to the clouds above Brancrug.",
+  "dove": "elements/acted.morgen.observe.scaly.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mme Bechet had no intention of going all the way to Miah... but after researching the matter at the House, she remembered an associate who might go there on her behalf.",
+  "dove": "elements/acted.olympe.lost.find.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mme Bechet hoped to help a friend complete, or at least survive, the performance. At Hush House, she found something that she hoped might help.",
+  "dove": "elements/acted.olympe.opera.wings.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mme Bechet thought she'd identified oddities in Oriflamme's account of their security measures... and what she found at Hush House encouraged her to look into the matter further.",
+  "dove": "elements/acted.olympe.heist.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Agdistis decided to ignore the summoning to go West, electing to reject the possibility of transformation, and remain what he was.",
+  "dove": "elements/acted.agdistis.observe.scaly.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Agdistis helped arrange the score for 'Apollo and Marsyas.'",
+  "dove": "elements/acted.agdistis.opera.apollo.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Agdistis learnt that the 'Open Reverend' was not connected with the power Agdistis serves.",
+  "dove": "elements/acted.agdistis.wound.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Agdistis resolved to do his best to help a friend who'd purchased cursed items.",
+  "dove": "elements/acted.agdistis.curse.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Agdistis resolved to experiment with honey.",
+  "dove": "elements/acted.agdistis.pan.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Agdistis wrote a memorial piece for Zuthimalim Zidane.",
+  "dove": "elements/acted.agdistis.project.ingenious.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille believed she'd learnt from her research at Hush House how to breach the Coffin.",
+  "dove": "elements/acted.coquille.box.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille found a very special gift for her very special officer friend in the Legion.",
+  "dove": "elements/acted.coquille.revolution.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille hoped to find her family at the opera - that is, her newest family.",
+  "dove": "elements/acted.coquille.opera.wings.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille suspected that the irruption of Worms in Kraków might be connected, somehow, with the sword Ebrehel.",
+  "dove": "elements/acted.coquille.intrusion.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille was confident she would be the best-dressed woman in the audience.",
+  "dove": "elements/acted.coquille.opera.apollo.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille, investigating ways by which the Oriflamme Heist might have been managed, happened across 'something rather smashing.'",
+  "dove": "elements/acted.coquille.heist.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something in the story of the Dappled Rose made 'Daymare' wonder if she should return to Miah, one more time...",
+  "dove": "elements/acted.dagmar.lost.find.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Aleppine came to believe that Abecassis had accepted gifts of sustenance from 'she who suckles serpents.'",
+  "dove": "elements/acted.aladim.hunt.changing.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Aleppine could not determine the best answer for Medusa's Riddle, 'What Is Not Seen?' He suggested wryly that the answer should be he himself.",
+  "dove": "elements/acted.aladim.stalk.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Aleppine declared his intention to commit the sandalwood image to the flames, for fear that the deacon might 'begin to buzz'.",
+  "dove": "elements/acted.aladim.rite.awakening.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Aleppine resolved that the Cross-business in the clouds above St Tentreto was worthy of his attention.",
+  "dove": "elements/acted.aladim.observe.scaly.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Aleppine suspected that Hendrik Dewulf had been no ordinary mercenary captain... and that a connection between Brancrug and Ys meant he might begin a journey to Ys here, on the Isle.",
+  "dove": "elements/acted.aladim.omen.horizon.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Aleppine, suspecting some connection between the Seven-Coils and the Sun, fearing what he might find if he visited the Oracle of the Rising While... chose not to go.",
+  "dove": "elements/acted.aladim.rising.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Edge-long Azita came to believe that her enemy-twin Mehrad was one of those in whom the Cross-nature endured; and she followed him West.",
+  "dove": "elements/acted.azita.observe.scaly.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Edge-long Azita's eternal enemy-twin, Mehrad, planned to give Abecassis death with honour. With regret, Azita set out to prevent this.",
+  "dove": "elements/acted.azita.hunt.changing.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The procurement committee of the Royal Endeavour was, it seems, one of Fraser Strathcoyne's many clients. And so he came to Hush House to research their requests. 'Battleships; aerostats; locomotives. What do all these things have in common, Librarian? I'll tell you: names.'",
+  "dove": "elements/acted.fraser.project.solar.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What Ehsan learnt at Hush House convinced him that the production would not trouble the lower skies - especially, perhaps, with his intercession.",
+  "dove": "elements/acted.ehsan.opera.apollo.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever Dr Blackwood found at Hush House, it convinced her that Zidane had used 'Ys-metal' in his work.",
+  "dove": "elements/acted.serena.project.ingenious.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary Wakefield concluded obscurely that, in the Grunewald matter, he might have enough to understand the possibilities of clarities, conducivities, and 'ovitic forms'.",
+  "dove": "elements/acted.zachary.curse.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary Wakefield opined that Hobson, who had been his friend, might now be his friends. Faced with a choice between 'out' and 'down', he chose 'down'.",
+  "dove": "elements/acted.zachary.intrusion.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary Wakefield opined that Hobson, who had been his friend, might now be his friends. Faced with a choice between 'out' and 'down', he chose 'out'.",
+  "dove": "elements/acted.zachary.intrusion.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary Wakefield regretted that the Open Reverend would only open outwards... but expressed relief that 'his suffering need not be drawn out any longer.'",
+  "dove": "elements/acted.zachary.wound.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary Wakefield seemed to think he had found the name of the coffin's key, here at Hush House.",
+  "dove": "elements/acted.zachary.box.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary Wakefield was close-mouthed about his suspicions of what had really happened at Oriflamme's, but he did share one hint: 'One door closes, another door opens. And another.'",
+  "dove": "elements/acted.zachary.heist.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "...? [Winter is the principle of silence, of endings, and of those things that are not quite dead.]",
+  "dove": "elements/interest.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Edge",
+  "dove": "elements/interest.edge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Forge",
+  "dove": "elements/interest.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Grail",
+  "dove": "elements/interest.grail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Heart",
+  "dove": "elements/interest.heart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Knock",
+  "dove": "elements/interest.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Lantern",
+  "dove": "elements/interest.lantern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Moon",
+  "dove": "elements/interest.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Moth",
+  "dove": "elements/interest.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Nectar",
+  "dove": "elements/interest.nectar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Rose",
+  "dove": "elements/interest.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Scale",
+  "dove": "elements/interest.scale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Sky",
+  "dove": "elements/interest.sky.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Interested in Winter",
+  "dove": "elements/interest.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Edge",
+  "dove": "elements/relevance.edge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Forge",
+  "dove": "elements/relevance.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Grail",
+  "dove": "elements/relevance.grail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Heart",
+  "dove": "elements/relevance.heart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Knock",
+  "dove": "elements/relevance.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Lantern",
+  "dove": "elements/relevance.lantern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Moon",
+  "dove": "elements/relevance.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Moth",
+  "dove": "elements/relevance.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Nectar",
+  "dove": "elements/relevance.nectar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Rose",
+  "dove": "elements/relevance.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Scale",
+  "dove": "elements/relevance.scale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Sky",
+  "dove": "elements/relevance.sky.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevance: Winter",
+  "dove": "elements/relevance.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to the quieter visitors.",
+  "dove": "elements/relevance.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in ancient profundities.",
+  "dove": "elements/relevance.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in appetites.",
+  "dove": "elements/relevance.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in healing and protection.",
+  "dove": "elements/relevance.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in hidden things.",
+  "dove": "elements/relevance.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in horizons.",
+  "dove": "elements/relevance.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in revelations.",
+  "dove": "elements/relevance.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in the roots of things.",
+  "dove": "elements/relevance.nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in the shaping arts.",
+  "dove": "elements/relevance.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in the songs of earth and heaven.",
+  "dove": "elements/relevance.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in the unexpected.",
+  "dove": "elements/relevance.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in unsealing.",
+  "dove": "elements/relevance.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Relevant to visitors with an interest in violence.",
+  "dove": "elements/relevance.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in ancient profundities. [What is left of the crude powers of the deep earth.]",
+  "dove": "elements/interest.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in appetites. [The principle of the Grail honours both the birth and the feast.]",
+  "dove": "elements/interest.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in healing and protection. [The Heart is the principle that continues and preserves.]",
+  "dove": "elements/interest.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in hidden things. [The nocturnal, the forgotten.]",
+  "dove": "elements/interest.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in horizons. [Complexities, exploration, hope.]",
+  "dove": "elements/interest.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in revelations. [Lantern is the principle of the secret place sometimes called the House of the Sun, and of the light above it.]",
+  "dove": "elements/interest.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in the roots of things. [Long ago, some called this principle Blood.]",
+  "dove": "elements/interest.nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in the shaping arts. [The principle of the Forge transforms and destroys.]",
+  "dove": "elements/interest.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in the songs of earth and heaven. [The old powers of the sky are often overlooked by the impatient.]",
+  "dove": "elements/interest.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in the unexpected. [Moth is the wild and perilous principle of chaos and yearning.]",
+  "dove": "elements/interest.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in unsealing. [The Knock is the principle that opens doors and unseams barriers.]",
+  "dove": "elements/interest.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone is interested in violence. [Edge is the principle of battle and of struggle.]",
+  "dove": "elements/interest.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House in a season when the matter of Knot and Tangle was foremost.",
+  "dove": "elements/v.numa.wood.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House in a season when the matter of the Counterfeit Memory was foremost.",
+  "dove": "elements/v.numa.moon.a.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House in a season when the matter of the Feasting Few was foremost.",
+  "dove": "elements/v.numa.grail.b.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House in a season when the matter of the Midnight Twin was foremost.",
+  "dove": "elements/v.numa.moon.b.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House in a season when the matter of the Sanctuary Draught was foremost.",
+  "dove": "elements/v.numa.grail.a.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House in a season when the matter of the Softer Frost was foremost.",
+  "dove": "elements/v.numa.winter.a.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with 'Apollo and Marsyas'.",
+  "dove": "elements/v.opera.apollo.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Absent Friend.",
+  "dove": "elements/v.stalk.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Claw and the Clouds.",
+  "dove": "elements/v.observe.scaly.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Dappled Rose.",
+  "dove": "elements/v.lost.find.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Endless Guest.",
+  "dove": "elements/v.intrusion.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Forgivable Debt.",
+  "dove": "elements/v.mob.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Friar's Tapestry.",
+  "dove": "elements/v.rite.renewal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the God in the Wood.",
+  "dove": "elements/v.pan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Grunewald Provision.",
+  "dove": "elements/v.curse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Invisible Opera.",
+  "dove": "elements/v.opera.wings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Messenger's Casket.",
+  "dove": "elements/v.box.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Open Reverend.",
+  "dove": "elements/v.wound.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Oriflamme Heist.",
+  "dove": "elements/v.heist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Other Horizon.",
+  "dove": "elements/v.omen.horizon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Particular Mystique.",
+  "dove": "elements/v.mystical.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Rising While.",
+  "dove": "elements/v.rising.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Royal Endeavour.",
+  "dove": "elements/v.project.solar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Sandalwood Saint.",
+  "dove": "elements/v.rite.awakening.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Second Skin.",
+  "dove": "elements/v.hunt.changing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Threshold Revolution.",
+  "dove": "elements/v.revolution.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Unfettered Eye.",
+  "dove": "elements/v.omen.dawn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visited Hush House on business connected with the Unfinished Lark.",
+  "dove": "elements/v.project.ingenious.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: a Matter of Knot and Tangle",
+  "dove": "elements/v.numa.wood.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: a Matter of the Counterfeit Memory",
+  "dove": "elements/v.numa.moon.a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: a Matter of the Feasting Few",
+  "dove": "elements/v.numa.grail.b.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: a Matter of the Midnight Twin",
+  "dove": "elements/v.numa.moon.b.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: a Matter of the Softer Frost",
+  "dove": "elements/v.numa.winter.a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: a Season of the Sanctuary Draught",
+  "dove": "elements/v.numa.grail.a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of 'Apollo and Marsyas'",
+  "dove": "elements/v.opera.apollo.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Absent Friend",
+  "dove": "elements/v.stalk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Claw and the Clouds",
+  "dove": "elements/v.observe.scaly.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Dappled Rose",
+  "dove": "elements/v.lost.find.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Endless Guest",
+  "dove": "elements/v.intrusion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Forgivable Debt",
+  "dove": "elements/v.mob.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Friar's Tapestry",
+  "dove": "elements/v.rite.renewal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the God in the Wood",
+  "dove": "elements/v.pan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Grunewald Provision",
+  "dove": "elements/v.curse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Invisible Opera",
+  "dove": "elements/v.opera.wings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Messenger's Casket",
+  "dove": "elements/v.box.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Open Reverend",
+  "dove": "elements/v.wound.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Oriflamme Heist",
+  "dove": "elements/v.heist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Other Horizon",
+  "dove": "elements/v.omen.horizon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Particular Mystique",
+  "dove": "elements/v.mystical.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Rising While",
+  "dove": "elements/v.rising.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Royal Endeavour",
+  "dove": "elements/v.project.solar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Sandalwood Saint",
+  "dove": "elements/v.rite.awakening.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Second Skin",
+  "dove": "elements/v.hunt.changing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Threshold Revolution",
+  "dove": "elements/v.revolution.label",
+  "ricorre": 1
+ }
+]

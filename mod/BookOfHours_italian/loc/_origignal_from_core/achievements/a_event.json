@@ -1,0 +1,22 @@
+{"achievements": [
+
+
+  { "id": "A_EVENT_BUSTMASTER", "category": "A_CATEGORY_EVENTS", "iconUnlocked": "trophy",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Much Is Lost... But We Abide",
+    "descriptionunlocked": "I curated a perfect display of every Hush House Librarian."
+  },
+
+  { "id": "A_EVENT_FIREFIGHTER", "category": "A_CATEGORY_EVENTS", "iconUnlocked": "trophy",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Wicke's Waking",
+  "descriptionunlocked": "I discovered the source of the fire that ravaged Hush House."
+},
+{ "id": "A_EVENT_PROSPERO", "category": "A_CATEGORY_EVENTS", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Deeper Than Did Ever Plummet Sound",
+"descriptionunlocked": "I drowned my book."
+}
+  
+
+]}

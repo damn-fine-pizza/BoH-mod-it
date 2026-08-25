@@ -1,0 +1,110 @@
+ {"recipes": [
+
+   {"id":"open.delivery.reward.oriflammes",
+"actionid": "consider",
+"reqs": {"delivery.oriflammes.reward":1},
+"effects":{"uncatbook.curia":1,"uncatbook.baronial":1,"uncatbook.solar":1,"delivery.oriflammes.reward":-1},
+"startdescription":"I had divulged what I learnt about Dagmar's part in the Oriflamme Heist. Now Oriflamme's Auction House has sent me a token of their gratitude.",
+"craftable":true,
+"warmup":10
+},
+
+
+{"id":"upgrade.rowenarium.spencer.down",
+"actionid": "library.rowenarium",
+"reqs": {"spencer.down":1},
+"effects":{"spencer.down":-1,"spencer.trace":1},
+"label":"Admit Spencer to the Rowenarium",
+"startdescription":"Spencer stands before the skeleton-centre of the room, feet planted firmly, fingers writhing a restless nest. 'The Baldomerian and I,' he confides, 'would argue about what was real and what was not. Bodies. Hours. Souls. The Mansus. Ys. I suggested that reality' - his hands writhe - 'was something more like proximity. To be more real might mean to pass higher... but that would be only one real, as to go north would take one closer to Svalbard, but not to Grytviken... she disagreed. But then, later, she became the Baldomerian... thank you, herald. Will you leave me here? To go down?' [This will take a whole day and night.]",
+"desc":"Spencer is gone. So, thankfully, are any passengers he still carried. His absence is a notable iciness. [The Rowenarium now admits Knock intentions. It also provides Winter Aspect.]",
+"aspects":{"upgrading.down":1},
+"craftable":true,
+"warmup":360
+},
+
+{"id":"upgrade.rowenarium.spencer.out",
+"actionid": "library.rowenarium",
+"reqs": {"spencer.out":1},
+"effects":{"spencer.out":-1,"spencer.trace":1},
+"label":"Admit Spencer to the Rowenarium",
+"startdescription":"Spencer stands before the skeleton-centre of the room, feet planted firmly, fingers writhing a restless nest. 'The Baldomerian and I,' he confides, 'would argue about what was real and what was not. Bodies. Hours. Souls. The Mansus. Nowhere. I suggested that reality' - his hands writhe - 'was something more like proximity. To be more real might mean to pass further... but further in one direction would be ... more distant... in another. Closer to one real, closer to another absence. She disagreed. But then, later, she became the Baldomerian... thank you, herald. Will you leave me here? To go out?' [This will take a whole day and night.]",
+"desc":"Spencer is gone. So, thankfully, are any passengers he still carried. His absence is a notable acuteness. [The Rowenarium now admits Knock intentions. It also provides Knock Aspect.]",
+"aspects":{"upgrading.out":1},
+"craftable":true,
+"warmup":360
+},
+
+{"id":"upgrade.beehive.liselotte",
+"actionid": "garden.beehive",
+"reqs": {"liselotte":1},
+"effects":{"liselotte.lyterion.new":1,"liselotte":-1},
+"label":"Install the 'Landgravines-in-exile''",
+"startdescription":"'My poor darlings,' Liselotte whispers. 'Be here and be well. Think of the thrones that will rise among your spires to come. The Librarian is kind; the Librarian should be trusted.''",
+"desc":"The hive is grown busier. Liselotte smiles shyly, ready to depart.",
+"aspects":{"upgrading":1},
+"craftable":true,
+"warmup":180
+},
+
+{"id":"upgrade.chrysalis.wisp.agdistis",
+"actionid": "library.chrysalis",
+"reqs": {"wisp.agdistis":1},
+"effects":{"wisp.skin.agdistis":1,"wisp.agdistis":-1},
+"label":"Incorporate the Wisp",
+"startdescription":"The wisp yearns towards the row of lights running down the Chrysalis' underside, like a worm questing for light - or like a battered, wing-broken moth. [It isn't clear what might happen. But if it's something untoward, then the Chrysalis is, after all, bound and imprisoned in a secure cell.]",
+"desc":"The wisp wriggles into the soft space beneath the Chrysalis' leathery lip; flickers; passes within. The Chrysalis begins to shudder. The shuddering continues for several minutes, until the whole mass sways from side to side and the ropes creak. Then it's still, though its lights flicker, twice, three times. [The Chrysalis now admits Winter intentions. It also provides Winter Aspect.]",
+"aspects":{"upgrading":1},
+"craftable":true,
+"warmup":60
+},
+
+{"id":"upgrade.chrysalis.wisp.ehsan",
+"actionid": "library.chrysalis",
+"reqs": {"wisp.ehsan":1},
+"effects":{"wisp.skin.ehsan":1,"wisp.ehsan":-1},
+"label":"Incorporate the Wisp",
+"startdescription":"The wisp yearns towards the row of lights running down the Chrysalis' underside, like a worm questing for light - or like a battered, wing-broken moth. [It isn't clear what might happen. But if it's something untoward, then the Chrysalis is, after all, bound and imprisoned in a secure cell.]",
+"desc":"The wisp wriggles into the soft space beneath the Chrysalis' leathery lip; flickers; passes within. The Chrysalis begins to shudder. The shuddering continues for several minutes, until the whole mass sways from side to side and the ropes creak. Then it's still, though its lights flicker, twice, three times. [The Chrysalis now admits Winter intentions. It also provides Winter Aspect.]",
+"aspects":{"upgrading":1},
+"craftable":true,
+"warmup":60
+},
+
+
+{"id":"dispose.foundry.wisp.agdistis",
+"actionid": "library.foundry",
+"reqs": {"wisp.agdistis":1},
+"label":"Dispose of the Wisp",
+"startdescription":"The wisp begins to wriggle, pulling away from the heat, mewing like a broken-winged gull.",
+"desc":"The wisp's cries cease instantly. Its residue creeps across the blazing meniscus like rapid fungus - but then that movement ceases, until it congeals into splattered patterns with the qualities of script or hierograms.",
+"effects":{"wormwood.dream":1,"x.quenchings.quellings":1,"wisp.trace.agdistis":1,"wisp.agdistis":-1},
+"craftable":true,
+"warmup":60
+},
+
+{"id":"dispose.foundry.wisp.ehsan",
+"actionid": "library.foundry",
+"reqs": {"wisp.ehsan":1},
+"label":"Dispose of the Wisp",
+"startdescription":"The wisp begins to wriggle, pulling away from the heat, mewing like a broken-winged gull.",
+"desc":"The wisp's cries cease instantly. Its residue creeps across the blazing meniscus like rapid fungus - but then that movement ceases, until it congeals into splattered patterns with the qualities of script or hierograms.",
+"effects":{"wormwood.dream":1,"x.quenchings.quellings":1,"wisp.trace.ehsan":1,"wisp.ehsan":-1},
+"craftable":true,
+"warmup":60
+},
+
+{"id":"upgrade.altar.tentreto.offering",
+"actionid": "library.altar.tentreto",
+"reqs": {"offering.tentreto":1},
+"effects": {"offering.tentreto":-1,"offering.tentreto.made":1},
+"label":"Make the Offering",
+"startdescription":"St Tentreto has four wings. So I should pour the offering into his four fires. That seems self-evident, now that I'm here.",
+"desc":"Once the walkers and fliers and swimmers and fire-seekers gave a little of their blood to the West, every sunset, and the Sun's night-self protected them until the dawn. Now blood has been sent from the West to the isle's heart. What does that mean? Not eternity; a change. [The altar now admits Heart intention, and provides Heart aspect.]",
+"aspects":{"upgrading":1},
+"craftable":true,
+"warmup":60
+}
+
+
+ ]
+}

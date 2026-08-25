@@ -1,0 +1,234 @@
+{"recipes": [
+
+    {"id": "_talk.visitor.intro",
+    "actionid": "talk",
+    "reqs":{"incident":-1},
+    "linked":[{"id":"talk.visitor.show.slot.generic"}],
+    "warmup":1
+    },
+
+    {"id": "talk.visitor.agdistis.intro",
+    "label": "A Conversation with Mr Agdistis",
+    "actionid": "talk",
+    "startdescription": "'How do you do, Librarian. I crave your assistance.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"agdistis":1},
+    "inherits":"_talk.visitor.intro","craftable":true 
+},
+    
+    {"id": "talk.visitor.aladim",
+    "label": "A Conversation with the Aleppine",
+    "actionid": "talk",
+    "startdescription": "'Peace be with you. I ask entry to the House.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"aladim":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.arthur",
+    "label": "A Conversation with Lieutenant Moore",
+    "actionid": "talk",
+    "startdescription": "'Good day to you. May I come in?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"arthur":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.arun",
+    "label": "A Conversation with Dr Peel",
+    "actionid": "talk",
+    "startdescription": "'The day, the night, and here we are again in the day. Marvellous.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"arun":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.auntmopsy",
+    "label": "A Conversation with a Friendly Aunt",
+    "actionid": "talk",
+    "startdescription": "'You don't need to invite me in, dear. Someone else already has...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"auntmopsy":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+
+    {"id": "talk.visitor.azita",
+    "label": "A Conversation with Azita Bukhara",
+    "actionid": "talk",
+    "startdescription": "'Hello, Librarian. I have questions; I'll pay for answers.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"azita":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+    
+    {"id": "talk.visitor.chaima",
+    "label": "A Conversation with Lalla Chaima",
+    "actionid": "talk",
+    "startdescription": "'There are things I need to know.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"chaima":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.connie",
+    "label": "A Conversation with MCO Connie Lee",
+    "actionid": "talk",
+    "startdescription": "'Librarian. I'm here on Bureau business.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"connie":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.coquille",
+    "label": "A Conversation with a Princess",
+    "actionid": "talk",
+    "startdescription": "'Darling, hello! I have the teeniest favour to ask...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"coquille":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.corso",
+    "label": "A Conversation with Señor Corso",
+    "actionid": "talk",
+    "startdescription": "'I don't need an appointment, do I?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"corso":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.dagmar",
+    "label": "A Conversation with Dagmar",
+    "actionid": "talk",
+    "startdescription": "'Hello, dear. Only me, I'm afraid!' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"dagmar":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.douglas",
+    "label": "A Conversation with a Very Tired Detective",
+    "actionid": "talk",
+    "startdescription": "'All right?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"douglas":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.ehsan",
+    "label": "A Conversation with Ehsan Fekri",
+    "actionid": "talk",
+    "startdescription": "'It's good to be back. Thank you for seeing me.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"ehsan":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.franklin",
+    "label": "A Conversation with Lord Franklin Bancroft",
+    "actionid": "talk",
+    "startdescription": "'...thorough weather for this time of year. Definite weather...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"franklin":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.fraser",
+    "label": "A Conversation with Fraser Strathcoyne",
+    "actionid": "talk",
+    "startdescription": "'Librarian. I have urgent business with you.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"fraser":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+    {"id": "talk.visitor.hokobald.summer",
+    "label": "A Conversation with Magister Hokobald",
+    "actionid": "talk",
+    "startdescription": "'And this is what you call summer?? Pathetic. Don't make me stand around out here.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"hokobald":1},
+    "extantreqs":{"season.summer":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+
+
+    {"id": "talk.visitor.hokobald",
+    "label": "A Conversation with Magister Hokobald",
+    "actionid": "talk",
+    "startdescription": "'What a grim and chilly little country. I hope you've prepared a suitable welcome.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"hokobald":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+
+    {"id": "talk.visitor.julian",
+    "label": "A Conversation with Julian Coseley",
+    "actionid": "talk",
+    "startdescription": "'...if Solomon is gone...if Solomon remains...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"julian":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.morgen",
+    "label": "A Conversation with Mlle Matutine",
+    "actionid": "talk",
+    "startdescription": "'Perhaps I should call myself 'Saphir', <i>hein?</i>' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"morgen":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.olympe",
+    "label": "A Conversation with Mme Bechet",
+    "actionid": "talk",
+    "startdescription": "'The pleasure is all mine, Librarian.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"olympe":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.rowena",
+    "label": "A Conversation with Rowena",
+    "actionid": "talk",
+    "startdescription": "'I am here... probably.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"rowena":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.serena",
+    "label": "A Conversation with Dr Blackwood",
+    "actionid": "talk",
+    "startdescription": "'It's always so very strange to be back. Thank you again for taking on the place.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"serena":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+    {"id": "talk.visitor.stanislav",
+    "label": "A Conversation with Father Stanislav",
+    "actionid": "talk",
+    "startdescription": "'Bless you; and bless the House you serve.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"stanislav":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.yvette",
+    "label": "A Conversation with Yvette",
+    "actionid": "talk",
+    "startdescription": "'Hello there. Got a moment?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"yvette":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    },
+    
+
+    {"id": "talk.visitor.zachary",
+    "label": "A Conversation with Wakefield",
+    "actionid": "talk",
+    "startdescription": "'Librarian. I can see you.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+"reqs": {"zachary":1},
+   "inherits":"_talk.visitor.intro","craftable":true 
+    }
+    
+
+
+
+]
+}

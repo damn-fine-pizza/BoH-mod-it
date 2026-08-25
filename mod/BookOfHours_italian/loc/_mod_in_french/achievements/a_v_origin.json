@@ -1,0 +1,51 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_V_ORIGIN", "label": "Origin Fulfilled", "iconUnlocked": "history" },
+
+  { "id": "A_V_ORIGIN_SYMURGIST", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Les Chants de Caer Adar",
+    "descriptionunlocked": "J'ai écouté les Heures Aviformes et je vis, encore, pour chanter leurs chansons."
+  },
+  { "id": "A_V_ORIGIN_MAGNATE", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Les Neiges D'Antan",
+    "descriptionunlocked": "Ni les haillons ni les richesses n'ont apaisé mon âme. Mais j'ai enfin trouvé la paix à la Hush House."
+  },
+  { "id": "A_V_ORIGIN_REVOLUTIONARY", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Regardez mes Œuvres, ô Puissants!",
+    "descriptionunlocked": "J'ai prononcé le nom de 'Calyptre' et j'ai survécu. J'ai gagné la dernière révolution et je suis libre."
+  },
+  { "id": "A_V_ORIGIN_EXECUTIONER", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Excuses Acceptées",
+    "descriptionunlocked": "Ils avaient des mains, des organes, des dimensions, des sens, des affections, des passions. Je le sais maintenant. J'ai enfin fait amende honorable."
+  },
+  { "id": "A_V_ORIGIN_TWICEBORN", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Une Troisième Voie",
+    "descriptionunlocked": "J'ai marché sous le Soleil, et j'ai marché dans la chair. J'ai enfin trouvé ma dernière demeure."
+  },
+  { "id": "A_V_ORIGIN_PRODIGAL", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Un Règlement Reporté Indéfiniment",
+    "descriptionunlocked": "J'ai été chassé. J'ai eu peur. Mais maintenant, je suis en sécurité et préparé."
+  },
+  { "id": "A_V_ORIGIN_CARTOGRAPHER", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Carte de l'Empire",
+    "descriptionunlocked": "J'ai sondé les profondeurs. J'ai tracé l'impossible. J'ai achevé ma pièce maîtresse et j'ai maîtrisé la Mansus elle-même."
+  },
+  { "id": "A_V_ORIGIN_ARTIST", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Parfaitement Monstrueux",
+    "descriptionunlocked": "Ceux qui vont sous la surface le font à leurs risques et périls. Ceux qui lisent le symbole le font à leurs risques et périls. Je suis allé, j'ai lu et j'ai tout maîtrisé."
+  },
+  { "id": "A_V_ORIGIN_ARCHAEOLOGIST", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Nommer l'Ombre",
+    "descriptionunlocked": "J'ai fait face à mon Crime et à la Malédiction qu'il a libérée. Enfin, je suis entière."
+  }
+
+]}

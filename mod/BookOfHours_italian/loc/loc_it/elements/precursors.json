@@ -1,0 +1,287 @@
+{
+ "elements": [
+  {
+   "ID": "precursor.mem.storm",
+   "Label": "Acquisire una Memoria: Tempesta",
+   "desc": "Ci sono tempeste abbastanza grandi da scuotere la luna dal cielo, e i pensieri dal cranio."
+  },
+  {
+   "ID": "precursor.mem.dreamt",
+   "Label": "Acquisire una Memoria: un Segreto Rubato",
+   "desc": "Qualcosa che ho origliato nei sogni?"
+  },
+  {
+   "ID": "precursor.mem.gossip",
+   "Label": "Acquisire una Memoria: Pettegolezzo",
+   "desc": "Frivolo, ma gustoso."
+  },
+  {
+   "ID": "precursor.mem.contradiction",
+   "Label": "Acquisire una Memoria: Contraddizione",
+   "desc": "Qualcosa di scomodo."
+  },
+  {
+   "ID": "precursor.mem.fear",
+   "Label": "Acquisire una Memoria: Timore",
+   "desc": "«L’emozione più antica e più forte dell’umanità è la paura, e la specie più antica e più forte di paura è la paura dell’ignoto.» – Lovecraft"
+  },
+  {
+   "ID": "precursor.mem.foresight",
+   "Label": "Acquisire una Memoria: Preveggenza",
+   "desc": "«La forgia e la vampata dell’ingegno, la pressa e la vite del significato.» – Coleridge, «Sulla Poesia di Donne»"
+  },
+  {
+   "ID": "precursor.mem.impulse",
+   "Label": "Acquisire una Memoria: Impulso",
+   "desc": "Non ha esattamente senso – ma lo capisco comunque."
+  },
+  {
+   "ID": "precursor.mem.intuition",
+   "Label": "Acquisire una Memoria: Intuizione",
+   "desc": "Semplicemente lo sai, vedi?"
+  },
+  {
+   "ID": "precursor.mem.hindsight",
+   "Label": "Acquisire una Memoria: Retrospettiva",
+   "desc": "Certe cose si comprendono davvero solo quando non ci sono più."
+  },
+  {
+   "ID": "precursor.mem.loss",
+   "Label": "Acquisire una Memoria: Perdita",
+   "desc": "Qualunque cosa fosse, ora non lo è più."
+  },
+  {
+   "ID": "precursor.mem.revelation",
+   "Label": "Acquisire una Memoria: Rivelazione",
+   "desc": "Certe verità ci giungono da fuori, o dall’alto."
+  },
+  {
+   "ID": "precursor.mem.regret",
+   "Label": "Acquisire una Memoria: Rimpianto",
+   "desc": "Ogni scelta ha la propria ombra."
+  },
+  {
+   "ID": "precursor.mem.salt",
+   "Label": "Acquisire una Memoria: Sale",
+   "desc": "Spruzzi di mare, dolore d’abisso."
+  },
+  {
+   "ID": "precursor.mem.satisfaction",
+   "Label": "Acquisire una Memoria: Soddisfazione",
+   "desc": "Alcuni appetiti sono più facili da soddisfare di altri."
+  },
+  {
+   "ID": "precursor.mem.solace",
+   "Label": "Acquisire una Memoria: Conforto",
+   "desc": "Pace dopo l’affanno."
+  },
+  {
+   "ID": "precursor.mem.scent",
+   "Label": "Acquisire una Memoria: Profumo",
+   "desc": "Profumi verdi ricordano la pioggia."
+  },
+  {
+   "ID": "precursor.mem.sight",
+   "Label": "Acquisire una Memoria: Vista",
+   "desc": "«L’occhio vede più di quanto il cuore sappia.» – Blake"
+  },
+  {
+   "ID": "precursor.mem.sound",
+   "Label": "Acquisire una Memoria: Suono",
+   "desc": "Una memoria dura più a lungo di un’eco. Certo, quando la Parola venne al mondo, e potemmo fondere echi in parole, le cose si complicarono."
+  },
+  {
+   "ID": "precursor.mem.taste",
+   "Label": "Acquisire una Memoria: Gusto",
+   "desc": "«Ogni dolcezza ha la sua amarezza.» – Emerson"
+  },
+  {
+   "ID": "precursor.mem.touch",
+   "Label": "Acquisire una Memoria: Tatto",
+   "desc": "Il mestiere si impara con la punta delle dita."
+  },
+  {
+   "ID": "precursor.windrumour",
+   "Label": "Acquisire una Voce del Vento",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.music.beguiling",
+   "Label": "Udire una Melodia Ammaliante",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.bittersweet.certainty",
+   "Label": "Cogliere una Certezza Agrodolce ",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.music.cheerful",
+   "Label": "Udire una Canzoncina Allegra",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.music.savage",
+   "Label": "Udire un Inno Selvaggio",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.music.thunderskin",
+   "Label": "Udire un Peana del Pelledituono",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.music.wistful",
+   "Label": "Udire un’Aria Nostalgica",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.confounding.parable",
+   "Label": "Acquisire una Parabola Sconcertante",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.riddle.nameday",
+   "Label": "Acquisire un Enigma dell’Onomastico",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.old.moment",
+   "Label": "Cogliere un Vecchio Momento",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.secret.threshold",
+   "Label": "Acquisire una Soglia Segreta ",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.wild.surmise",
+   "Label": "Cogliere una Congettura Selvaggia",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.winning.move",
+   "Label": "Cogliere una Mossa Vincente",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.curious.hunch",
+   "Label": "Cogliere un Curioso Presentimento ",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.name.earthquake",
+   "Label": "Acquisire un Nome del Terremoto",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.earthsign",
+   "Label": "Acquisire un Segno di Terra",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.occult.scrap",
+   "Label": "Acquisire un Frammento Occulto",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.wormwood.dream",
+   "Label": "Acquisire un Sogno d’Assenzio",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.ascendant.harmony",
+   "Label": "Udire un’Armonia Ascendente",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.music.hive",
+   "Label": "Udire un Lamento dell’Alveare",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.didumos",
+   "Label": "Acquisire un Didumos",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.enduring.reflection",
+   "Label": "Esaminare un Riflesso Duraturo",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.forbidden.epic",
+   "Label": "Acquisire un’Epica Proibita",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.horizonsight",
+   "Label": "Acquisire la Vista d’Orizzonte",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.invincible.audacity",
+   "Label": "Acquisire un’Audacia Invincibile",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.old.wound",
+   "Label": "Richiamare una Vecchia Ferita",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.windinwaiting",
+   "Label": "Acquisire un Vento in Attesa",
+   "desc": ""
+  },
+  {
+   "ID": "precursor.spintria.bronze.fromsofa",
+   "Label": "Una Spintria di Bronzo?",
+   "desc": "Cos’è questo infilato dietro i cuscini? Un piccolo tesoro inatteso.",
+   "xexts": {
+    "scrutiny": "Cos’è questo infilato dietro i cuscini? Un piccolo tesoro inatteso."
+   }
+  },
+  {
+   "ID": "precursor.gervinite.fromcandle",
+   "Label": "?",
+   "desc": "La candela è molto più pesante di quanto dovrebbe. Qualcosa è stato sigillato dentro la cera…",
+   "xexts": {
+    "scrutiny": "La candela è molto più pesante di quanto dovrebbe. Qualcosa è stato sigillato dentro la cera…"
+   }
+  },
+  {
+   "ID": "precursor.pale.mommet.fromchair",
+   "Label": "?",
+   "desc": "Qualcuno ha infilato un piccolo, triste tesoro sotto il cuscino del sedile…",
+   "xexts": {
+    "scrutiny": "Qualcuno ha infilato un piccolo, triste tesoro sotto il cuscino del sedile…"
+   }
+  },
+  {
+   "ID": "precursor.dearday.lens.fromskull",
+   "Label": "?",
+   "desc": "Qualcuno ha infilato una lente scintillante in una delle sue orbite oculari.",
+   "xexts": {
+    "scrutiny": "Qualcuno ha infilato una lente scintillante in una delle sue orbite oculari."
+   }
+  },
+  {
+   "ID": "precursor.spintria.iron.fromspanners",
+   "Label": "?",
+   "desc": "Un minuscolo tesoro lasciato cadere con noncuranza nella latta!",
+   "xexts": {
+    "scrutiny": "Un minuscolo tesoro lasciato cadere con noncuranza nella latta!"
+   }
+  },
+  {
+   "ID": "precursor.honey.cuckoo.frompumpkin",
+   "Label": "?",
+   "desc": "La zucca reca i segni di un’intrusione. È stata riempita di qualcosa di appiccicaticcio e inaspettato.",
+   "xexts": {
+    "scrutiny": "La zucca reca i segni di un’intrusione. È stata riempita di qualcosa di appiccicaticcio e inaspettato."
+   }
+  }
+ ]
+}

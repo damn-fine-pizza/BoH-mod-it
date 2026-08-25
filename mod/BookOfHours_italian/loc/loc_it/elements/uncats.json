@@ -1,0 +1,52 @@
+{
+ "elements": [
+  {
+   "id": "uncatpile",
+   "label": "Pila di Libri Non Catalogati"
+  },
+  {
+   "id": "uncatpile.dawn",
+   "label": "Pila di Libri Non Catalogati (Alba)"
+  },
+  {
+   "id": "uncatpile.solar",
+   "label": "Pila di Libri Non Catalogati (Solare)"
+  },
+  {
+   "id": "uncatpile.baronial",
+   "label": "Pila di Libri Non Catalogati (Baronale)"
+  },
+  {
+   "id": "uncatpile.curia",
+   "label": "Pila di Libri Non Catalogati (Curia)"
+  },
+  {
+   "id": "uncatpile.nocturnal",
+   "label": "Pila di Libri Non Catalogati (Notturno)"
+  },
+  {
+   "id": "uncatbook.dawn",
+   "label": "Libro Non Catalogato (Alba)"
+  },
+  {
+   "id": "uncatbook.solar",
+   "label": "Libro Non Catalogato (Solare)"
+  },
+  {
+   "id": "uncatbook.baronial",
+   "label": "Libro Non Catalogato (Baronale)"
+  },
+  {
+   "id": "uncatbook.curia",
+   "label": "Libro Non Catalogato (Curia)"
+  },
+  {
+   "id": "uncatbook.nocturnal",
+   "label": "Libro Non Catalogato (Notturno)"
+  },
+  {
+   "id": "uncatbook.nocturnal.everyman",
+   "label": "Libro Non Catalogato (Notturno)"
+  }
+ ]
+}

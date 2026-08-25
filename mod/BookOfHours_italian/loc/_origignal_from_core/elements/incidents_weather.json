@@ -1,0 +1,81 @@
+{
+    "elements": [
+
+        {
+            "id": "weather.rain",
+            "label": "Rain",
+            "desc": "Soft rain brings life.",
+            "aspects":{"nectar":2,"grail":2,"boost.nectar":2,"boost.grail":2},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.snow",
+            "label": "Snow",
+            "desc": "The world is pale today. 'The White is west of the world, and winter does not wait forever', Solomon Husher once said.",
+            "aspects":{"winter":3,"sky":3,"boost.winter":3,"boost.sky":3},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.storm",
+            "label": "Storm",
+            "icon":"mem.storm",
+            "desc": "Thunder-roaring, lightning-lashed skies.",
+            "aspects":{"heart":4,"sky":4,"boost.heart":4,"boost.sky":4},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.fog",
+            "label": "Fog",
+            "desc": "Coastal fog - moon-mared, sea-dulling.",
+            "aspects":{"knock":3,"moon":3,"boost.knock":3,"boost.moon":3},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.numa",
+            "label": "Nume-Brume",
+            "desc": "Numa's brumous vapours.",
+            "aspects":{"knock":5,"moon":5,"rose":5,"winter":5,"boost.knock":5,"boost.moon":5,"boost.rose":5,"boost.winter":5},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.hail",
+            "label": "Hail",
+            "desc": "Ice raps on the roofs and tree-tops.",
+            "aspects":{"edge":3,"sky":3,"boost.edge":3,"boost.sky":3},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.gale",
+            "label": "Gale",
+            "desc": "Trees bend, walls creak, travellers bend low against the blast.",
+            "aspects":{"heart":3,"sky":3,"boost.heart":3,"boost.sky":3},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.sunny",
+            "label": "Sunny",
+            "desc": "The Sun is not what it was, but today he is smiling.",
+            "aspects":{"lantern":2,"sky":2,"boost.lantern":2,"boost.sky":2},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.clouds",
+            "label": "Clouds",
+            "desc": "In this country the sky is rarely clear. The Sun goes courteously cloaked.",
+            "aspects":{"moth":1,"moon":1,"boost.moth":1,"boost.moon":1},
+            "inherits":"_weather.memory"
+        },
+        {
+            "id": "weather.earthquake",
+            "label": "Earthquake",
+            "desc": "The gentlest of earth tremors. Just to remind us that the earth is not dead but sleeping.",
+            "aspects":{"scale":5,"edge":5,"boost.scale":5,"boost.edge":5},
+            "inherits":"_weather.memory"
+        }
+
+        
+
+
+    ]
+}
+

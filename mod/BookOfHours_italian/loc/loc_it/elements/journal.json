@@ -1,0 +1,106 @@
+{
+ "elements": [
+  {
+   "id": "journal.generic.start",
+   "label": "Un Libro Annegato",
+   "desc": "L’unico bene che ho conservato dal naufragio. Deve essere importante per me. [Gli Aspetti qui sotto ti dicono di più su come e dove puoi usare questo oggetto. Passa sopra di loro per saperne di più.]",
+   "slots": [
+    {
+     "id": "memory",
+     "label": "Che cosa rimane?",
+     "description": "La tempesta non ha preso tutto."
+    }
+   ]
+  },
+  {
+   "id": "journal.revolutionary.unc",
+   "label": "Libro di Metallo Grigio",
+   "desc": "La pesante copertina di metallo quasi mi ha trascinato giù con sé. Ma ce l’ho fatta, e ce la farà anche questo."
+  },
+  {
+   "id": "journal.executioner.unc",
+   "label": "Libro Screziato",
+   "desc": "La copertina è insolita. Corno? Bachelite? Chitina? Dovrei riuscire a ricordare."
+  },
+  {
+   "id": "journal.archaeologist.unc",
+   "label": "Libro Sfregiato",
+   "desc": "Pelle di capra? Antilope? Un cuoio segnato da cicatrici che mi solletica la memoria. Dovrei saperlo."
+  },
+  {
+   "id": "journal.cartographer.unc",
+   "label": "Libro Squamato",
+   "desc": "La rilegatura squamata è sopravvissuta al bagno abbastanza bene."
+  },
+  {
+   "id": "journal.prodigal.unc",
+   "label": "Libro Ramato",
+   "desc": "La rilegatura di metallo insolito non è stata intaccata dal mare."
+  },
+  {
+   "id": "journal.twiceborn.unc",
+   "label": "Libro Tempestato di Pietre",
+   "desc": "Pietre giallastre dal luccichio opaco. Ambra? Sento che dovrei sapere…"
+  },
+  {
+   "id": "journal.magnate.unc",
+   "label": "Libro Argenteo",
+   "desc": "È argento vero? Sento che dovrebbe esserlo. Dovrei ricordare."
+  },
+  {
+   "id": "journal.symurgist.unc",
+   "label": "Libro Piumato",
+   "desc": "Le piume che adornano la sua copertina sono arruffate dalla permanenza in mare."
+  },
+  {
+   "id": "journal.artist.unc",
+   "label": "Libro di Seta",
+   "desc": "La rilegatura è insolita – e semi-familiare – una specie di seta? È sopravvissuta benissimo all’ammollo."
+  },
+  {
+   "id": "journal.revolutionary",
+   "label": "Diario Corazzato",
+   "desc": "Ho lottato perché dopo di me non ci siano più Archivisti della Hush House. Questo diario registra i miei sforzi. [Il desiderio più caro del Rivoluzionario, quando arrivò alla Casa, era di creare una nuova Storia in cui la legge più fondamentale fosse rovesciata; ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza dell’Oromachia.]"
+  },
+  {
+   "id": "journal.executioner",
+   "label": "Diario Cornuto",
+   "desc": "Ho dato riposo a tante di quelle cose inquietanti. Pensavo che fosse giusto. Ora temo che non lo fosse. Io sono l’Archivista della Hush House, e qui farò in modo che siano ricordate. [Il desiderio più caro del Boia, quando arrivò alla Casa, era di registrare una nuova Storia che espiasse i suoi crimini; ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza della Preservazione.]"
+  },
+  {
+   "id": "journal.archaeologist",
+   "label": "Diario Sfregiato dalla Sabbia",
+   "desc": "Io sono l’Archivista della Hush House, e questo diario registrerà quello che è sorto dal mio Crimine e dalla mia Maledizione. [Il desiderio più caro dell’Archeologo, quando arrivò alla Casa, era di registrare una Storia dove il suo crimine potesse essere perdonato… o ridefinito. Ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza della Scolecosofia.]"
+  },
+  {
+   "id": "journal.cartographer",
+   "label": "Diario di Pelle di Serpente",
+   "desc": "Io sono l’Archivista della Hush House, e questo diario sarà la mia Mappa Perpetua. [Il desiderio più caro del Cartografo, quando arrivò alla Casa, era di tracciare una nuova Storia in cui la sua mappa impossibile fosse possibile; ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza della Nittodromia.]"
+  },
+  {
+   "id": "journal.prodigal",
+   "label": "Diario di Rame Battuto",
+   "desc": "Ho attraversato tre oceani, e in uno per poco non annegavo. Ora sono l’Archivista della Hush House. Forse qui sarò al sicuro dai miei genitori; ma non posso darlo per scontato. [Il desiderio più caro del Prodigo è il rifugio – come Archivista, o in una Storia in cui le cose siano diverse; ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza dell’Ithastria.]"
+  },
+  {
+   "id": "journal.twiceborn",
+   "label": "Diario Screziato d’Ambra",
+   "desc": "Io sono l’Archivista Rinato della Hush House, e questo è il diario in cui conservo i miei ricordi rimanenti. [La «terza scelta» del Rinato potrebbe essere la vita come Archivista, o potrebbe essere qualcosa di più radicale. Ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza dell’Illuminazione.]"
+  },
+  {
+   "id": "journal.magnate",
+   "label": "Diario Rilegato in Argento",
+   "desc": "Ero ricco; ma qualcosa mancava. Ricco non lo sono più… e ancora, qualcosa manca. Hush House è un luogo di conclusioni, e qui, come Archivista, potrei trovare la mia. [Il Magnate è venuto alla Casa per concludere una Storia dove troverà pace; ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza della Silenzieria.]"
+  },
+  {
+   "id": "journal.symurgist",
+   "label": "Diario Ornato di Piume",
+   "desc": "A Caer Adar ho sentito gli dei segreti parlare l’uno con l’altro. Pensavo che sarebbe stata la fine del mio viaggio, ma più ascoltavo, più capivo quanto doveva ancora mancare. Io sono l’Archivista della Hush House, e troverò quello che è stato perso. [Il Simurgista è venuto alla Hush House per trovare una Storia con le canzoni che sono cadute nel silenzio; ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza del Canto degli Uccelli.]"
+  },
+  {
+   "id": "journal.artist",
+   "label": "Diario di Seta d’Ape",
+   "desc": "«Picasso? Ti darò Picasso.» [L’Artista ha raggiunto la Hush House per modellare e condividere una Storia di esperienza primordiale, ultima, senza precedenti; ma puoi completare il gioco registrando qualsiasi Storia. Potresti voler iniziare i tuoi studi con la Sapienza del Boschetto.]"
+  }
+ ]
+}

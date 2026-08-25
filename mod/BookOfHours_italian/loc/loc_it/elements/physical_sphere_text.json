@@ -1,0 +1,134 @@
+{
+ "elements": [
+  {
+   "id": "pspherespec.THINGS",
+   "label": "COSE",
+   "desc": "Se non sta sul muro né per terra, probabilmente è una cosa."
+  },
+  {
+   "id": "pspherespec.WALL ART",
+   "label": "ARTE DA PARETE",
+   "desc": "Dipinti, arazzi, trofei."
+  },
+  {
+   "id": "pspherespec.COMFORT",
+   "label": "CONFORTO",
+   "desc": "Se sta per terra, lo chiamiamo un «conforto», che sia confortevole o no."
+  },
+  {
+   "id": "pspherespec.B1",
+   "label": "Primo Barone di Brancrug",
+   "desc": "Una nicchia con una targa: «Chi rese lealtà per lealtà e maledizione per maledizione»"
+  },
+  {
+   "id": "pspherespec.B2",
+   "label": "Secondo Barone di Brancrug",
+   "desc": "Una nicchia con una targa: «Chi vide ciò che non era ancora accaduto»"
+  },
+  {
+   "id": "pspherespec.B3",
+   "label": "Terzo Barone di Brancrug",
+   "desc": "Una nicchia con una targa: «Chi comandò l’innalzamento di questa scala»"
+  },
+  {
+   "id": "pspherespec.B4",
+   "label": "Quarto Barone di Brancrug",
+   "desc": "Una nicchia con una targa: «Chi fu deriso più di quanto meritasse»"
+  },
+  {
+   "id": "pspherespec.B5",
+   "label": "Quinto Barone di Brancrug",
+   "desc": "Una nicchia con una targa: «Chi fu temuto più di quanto meritasse»"
+  },
+  {
+   "id": "pspherespec.B6",
+   "label": "Sesto Barone di Brancrug",
+   "desc": "Una nicchia con una targa: «Chi conobbe le gabbie»"
+  },
+  {
+   "id": "pspherespec.B7",
+   "label": "Settima Baronessa di Brancrug",
+   "desc": "Una nicchia con una targa: «Da non sfidare, e da non trovare»"
+  },
+  {
+   "id": "pspherespec.L1",
+   "label": "Primo Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi spesso purificò, ma di rado fu puro»"
+  },
+  {
+   "id": "pspherespec.L2",
+   "label": "Secondo Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi nacque da tre nazioni, e da nessuna»"
+  },
+  {
+   "id": "pspherespec.L3",
+   "label": "Terzo Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Su ciò di cui non si può parlare, si deve tacere»"
+  },
+  {
+   "id": "pspherespec.L4",
+   "label": "Quarto Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi non morì, ma passò dentro»"
+  },
+  {
+   "id": "pspherespec.L5",
+   "label": "Quinto Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi fu privato della vittoria, ma mai sconfitto»"
+  },
+  {
+   "id": "pspherespec.L6",
+   "label": "Sesto Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi portò una chiave perduta da tempo»"
+  },
+  {
+   "id": "pspherespec.L7",
+   "label": "Settima Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi dimora ancora nell’albero dai tre fiori»"
+  },
+  {
+   "id": "pspherespec.L8",
+   "label": "Ottavo Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi servì due padroni al meglio delle proprie possibilità»"
+  },
+  {
+   "id": "pspherespec.L9",
+   "label": "Nono Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi vide il proprio fato, e non lo evitò»"
+  },
+  {
+   "id": "pspherespec.L10",
+   "label": "Decima Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi partì, ma non dimenticò»"
+  },
+  {
+   "id": "pspherespec.L11",
+   "label": "Undicesimo Archivista della Curia dell’Isola",
+   "desc": "Una nicchia con una targa: «Chi tornò per completare ciò che aveva iniziato.»"
+  },
+  {
+   "id": "pspherespec.L12",
+   "label": "Archivista XII della Curia dell’Isola",
+   "desc": "Questo, naturalmente, sarei io. Potrei usare qualsiasi cosa io voglia come mia immagine."
+  },
+  {
+   "id": "pspherespec.L13",
+   "label": "Archivista XIII della Curia dell’Isola?",
+   "desc": "Se avrò un successore, la sua immagine potrebbe trovarsi qui."
+  },
+  {
+   "id": "pspherespec.Belongings",
+   "label": "Effetti Personali",
+   "desc": "[Tieni qui le cose finché non le riordini.]"
+  },
+  {
+   "id": "pspherespec.outsidepile",
+   "label": "ABBANDONATO SULLA SOGLIA",
+   "desc": "[Se non hai un posto dove mettere un oggetto fisico, potrebbe finire qui.]"
+  },
+  {
+   "id": "pspherespec.outsidepile.beach",
+   "label": "ABBANDONATO SULLA RIVA DELL’ACQUA",
+   "desc": "[Se non hai un posto dove mettere un oggetto fisico, potrebbe finire qui.]"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+
+{"recipes": [
+    {
+        "id": "sea.swimming.blocker.storm",
+        "actionid": "world.sea.*",
+        "label": "Never Again",
+        "reqs":{"ability":1,"heart":1,"scale":1},
+        "fxreqs":{"weather":"storm"},
+        "startdescription": "The waves are hungry today. I'm not going swimming in a storm... well, not a second time.",
+        "craftable":true,
+        "hintonly":true
+    },
+
+    {
+        "id": "sea.swimming.winter",
+        "actionid": "world.sea.*",
+        "label": "A Brisk Swim",
+        "reqs":{"ability":1,"heart":1,"scale":1},
+        "fxreqs":{"season":"winter"},
+        "startdescription": "I'll plunge again into the waves... but swimming in a winter sea might be rash. [Make sure you have dry towels at the ready.]",
+        "desc": "The waves raise me; the salt stings my eyes; the horizon waits.",
+        "warmup":60,
+        "effects":{"mem.salt":1},
+        "slots":[{"id":"apres_swim","label":"Afterwards?","description":"The wind will be chilly, afterwards...","required":{"thing":1}}],
+        "aspects":{"malady.inflicting":1},
+        "alt":[{"id":"sea.swimming.dry*"}],
+        "craftable":true
+    },
+    {
+        "id": "sea.swimming.numa",
+        "actionid": "world.sea.*",
+        "label": "A Brisk Swim",
+        "reqs":{"ability":1,"heart":1,"scale":1},
+        "fxreqs":{"season":"numa"},
+        "startdescription": "I'll plunge again into the waves... though in the labyrinth season, something might be different.",
+        "desc": "It is difficult afterwards to remember what I felt, there among the billows. The waves have made their pilgrimage from the horizon. Now I am a pilgrim too.",
+        "warmup":120,
+        "effects":{"mem.salt":1,"curious.hunch":1},
+        "aspects":{"malady.inflicting":1},
+        "craftable":true
+    },
+
+
+    {
+        "id": "sea.swimming",
+        "actionid": "world.sea.*",
+        "label": "A Brisk Swim",
+        "reqs":{"ability":1,"heart":1,"scale":1},
+        "startdescription": "I'll plunge again into the waves...",
+        "desc": "The waves raise me; the salt stings my eyes; the horizon waits.",
+        "warmup":60,
+        "effects":{"mem.salt":1},
+        "slots":[{"id":"apres_swim","label":"Afterwards?","description":"The wind will be chilly, afterwards...","required":{"thing":1}}],
+        "aspects":{"fatiguing.ability":1},
+        "alt":[{"id":"sea.swimming.dry*"}],
+        "craftable":true
+    },
+    {
+        "id": "sea.swimming.dry",
+        "actionid": "world.sea.*",
+        "label": "A Brisk Swim",
+        "reqs":{"basket.towels":1},
+        "startdescription": "I'll plunge again into the waves... and dry off afterwards.",
+        "desc": "The waves raise me; the salt stings my eyes; the horizon waits. Afterwards, the towels are clean and soft. [By drying off afterwards, you've gained a Memory: Solace.]",
+        "effects":{"mem.salt":1,"mem.solace":1},
+        "aspects":{"fatiguing.ability":1,"fatiguing.ingredients":1}
+    },
+    {
+        "id": "sea.swimming.dry.damp",
+        "actionid": "world.sea.*",
+        "label": "A Brisk Swim",
+        "reqs":{"basket.towels.damp":1},
+        "startdescription": "I'll plunge again into the waves... though I have no dry towels.",
+        "desc": "The waves raise me; the salt stings my eyes; the horizon waits.",
+        "effects":{"mem.salt":1},
+        "aspects":{"fatiguing.ability":1}
+    },
+    {
+        "id": "sea.swimming.hint",
+        "actionid": "world.sea.*",
+        "label": "A Brisk Swim?",
+        "reqs":{"ability":1},
+        "startdescription": "[Swimming requires an Element of the Soul with Heart and Scale - generally, this means Health.]",
+
+        "hintonly":true
+    }
+   
+
+    
+    
+   
+    
+    ]
+    }
+    

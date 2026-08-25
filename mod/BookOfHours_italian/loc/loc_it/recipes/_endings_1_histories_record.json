@@ -1,0 +1,598 @@
+{
+ "recipes": [
+  {
+   "id": "record.h.sky.oldl.symurgist",
+   "label": "Vittoria del Simurgista: La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "I miei canti mi attendono. Quella vecchia musica perduta attirerà gli Uccelli, i Nomi, gli architetti e gli adepti verso Noon attraverso il mare della sera. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.sky.oldl.magnate",
+   "label": "Vittoria del Magnate: La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "Ho trovato la mia pace. Quella vecchia musica perduta attirerà gli Uccelli, i Nomi, gli architetti e gli adepti verso Noon attraverso il mare della sera. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.sky.oldl.",
+   "label": "La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Quella vecchia musica perduta attirerà gli Uccelli, i Nomi, gli architetti e gli adepti verso Noon attraverso il mare della sera. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.sky.unde.magnate",
+   "label": "Vittoria del Magnate: La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "Ho trovato la mia pace. Questa sarà l’ultima città sulla Terra. Quando svanirà, svanirà anche il mondo. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.sky.unde.",
+   "label": "La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Questa sarà l’ultima città sulla Terra. Quando svanirà, svanirà anche il mondo. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.sky.bala.revolutionary",
+   "label": "Vittoria del Rivoluzionario: La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "Ecco le scintille della rivoluzione. Quando le stirpi del Carapace torneranno, torneranno a Noon. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.sky.bala.executioner",
+   "label": "Vittoria del Boia: La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "Li riporteremo indietro. E quando le stirpi del Carapace torneranno, torneranno a Noon. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.sky.bala.",
+   "label": "La Città Non Costruita Sorgerà a Noon",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Quando le stirpi del Carapace torneranno, torneranno a Noon. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moth.thre.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Una Città per Sempre Non Costruita",
+   "startdescription": "La città della nostra rivoluzione sorgerà solo nei cuori mortali, dove la Calyptra non può toccarla. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moth.thre.",
+   "label": "Una Città per Sempre Non Costruita",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. La Città tanto a lungo sognata non sarà mai costruita, e così la Calyptra non può nasconderla ai nostri occhi. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moth.loop.twiceborn",
+   "label": "Vittoria del Rinato: Una Città per Sempre Non Costruita",
+   "startdescription": "Ho trovato un luogo sicuro, in una città che non sarà mai costruita – una fortezza di paradosso. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moth.loop.",
+   "label": "Una Città per Sempre Non Costruita",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. La Città tanto a lungo sognata sarà al sicuro fuori dall’esistenza, preservata dal paradosso. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moth.desc.executioner",
+   "label": "Vittoria del Boia: Una Città per Sempre Non Costruita",
+   "startdescription": "La luce del Sole non può scacciare le ultime ombre amiche. Saranno al sicuro dall’Eternità in una città che non sarà mai costruita. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moth.desc.",
+   "label": "Una Città per Sempre Non Costruita",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. La Città tanto a lungo sognata non sarà mai costruita; il Sole non la toccherà; l’Eternità non può prenderla. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.bell.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Verso Ys oltre l’Onda",
+   "startdescription": "Ys sarà la Città che abbiamo sognato. Al suono delle sue campane, la Calyptra tremerà. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.bell.prodigal",
+   "label": "Vittoria del Prodigo: Verso Ys oltre l’Onda",
+   "startdescription": "Ys sarà la Città che abbiamo sognato – e le sue campane mi proteggeranno da ciò che seguirà. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.bell.",
+   "label": "Verso Ys oltre l’Onda",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Ys sarà la Città che abbiamo sognato, e le sue campane torneranno a risuonare attraverso i mari. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.oldl.magnate",
+   "label": "Vittoria del Magnate: Verso Ys oltre l’Onda",
+   "startdescription": "Seguirò quei canti fino a Ys oltre l’onda… e lì troverò la mia pace. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.oldl.symurgist",
+   "label": "Vittoria del Simurgista: Verso Ys oltre l’Onda",
+   "startdescription": "Ys sarà la Città che abbiamo sognato, dove le campane faranno risuonare quella vecchia musica perduta. Non dobbiamo far altro che seguire i canti. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.oldl.",
+   "label": "Verso Ys oltre l’Onda",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Ys sarà la Città che abbiamo sognato. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.unde.magnate",
+   "label": "Vittoria del Magnate: Verso Ys oltre l’Onda",
+   "startdescription": "Ys oltre l’onda sarà l’ultima città sulla terra… e lì troverò la mia pace. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.rose.unde.",
+   "label": "Verso Ys oltre l’Onda",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Ys oltre l’onda sarà la città delle conclusioni, dove ogni filo si scioglie. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moon.secr.twiceborn",
+   "label": "Vittoria del Rinato: Nella Casa della Luna, la Città",
+   "startdescription": "Una mano nell’oscurità, l’altra nella luce. In questa Storia, la Città sorgerà nella Casa della Luna, il luogo dietro il Mansus… e lì, finalmente, sarò al sicuro. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moon.secr.",
+   "label": "Nella Casa della Luna, la Città",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Una mano nell’oscurità; l’altra nella luce. La Città sorgerà nella Casa della Luna, il luogo dietro il Mansus. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moon.loop.twiceborn",
+   "label": "Vittoria del Rinato: Nella Casa della Luna, la Città",
+   "startdescription": "Le vie che erano chiuse si apriranno. La Città sorgerà nella Casa della Luna, il luogo dietro il Mansus… e lì, finalmente, sarò al sicuro. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moon.loop.",
+   "label": "Nella Casa della Luna, la Città",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande – e in questa Storia, la Città sorgerà nella Casa della Luna, il luogo dietro il Mansus. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moon.worl.symurgist",
+   "label": "Vittoria del Simurgista: Nella Casa della Luna, la Città",
+   "startdescription": "Lo schema è finalmente chiaro. Troverò i miei canti nella Città quando sorgerà nella Casa della Luna – il luogo dietro il Mansus. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moon.worl.cartographer",
+   "label": "Vittoria del Cartografo: Nella Casa della Luna, la Città",
+   "startdescription": "Seguirò tutte le strade verso casa, verso la Città che sorgerà nella Casa della Luna, il gemello d’ombra del Mansus… dove tutto il Mansus mi sarà dispiegato davanti. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.moon.worl.",
+   "label": "Nella Casa della Luna, la Città",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.grail.feas.artist",
+   "label": "Vittoria dell’Artista: I Dèi-dalla-Pietra Saranno Consumati",
+   "startdescription": "Questo è il sapore e questo è il banchetto! I Dèi-dalla-Pietra nutriranno Ore e mortali allo stesso modo. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.grail.feas.",
+   "label": "I Dèi-dalla-Pietra Saranno Consumati",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Ore e mortali banchetteranno insieme sulle ultime tracce dei Dèi-dalla-Pietra. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.grail.alte.artist",
+   "label": "Vittoria dell’Artista: I Dèi-dalla-Pietra Saranno Consumati",
+   "startdescription": "Ciò che possiamo fare, dobbiamo farlo! E ciò che dobbiamo fare scalderà e illuminerà le sale dell’Eternità… con le ultime tracce dei Dèi-dalla-Pietra. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.grail.alte.archaeologist",
+   "label": "Vittoria dell’Archeologo: I Dèi-dalla-Pietra Saranno Consumati",
+   "startdescription": "Chi ero? Non ne avrò mai la certezza assoluta, ma so dove sarò: al primo posto del banchetto quando i Dèi-dalla-Pietra saranno finalmente consumati. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.grail.alte.",
+   "label": "I Dèi-dalla-Pietra Saranno Consumati",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande, e ho registrato che con l’applicazione di questo terribile Numen, le ultime tracce dei Dèi-dalla-Pietra saranno consumate. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.grail.desc.executioner",
+   "label": "Vittoria del Boia: I Dèi-dalla-Pietra Saranno Consumati",
+   "startdescription": "Quel che è fatto è fatto. Avevo pensato di riparare a ciò che avevo distrutto, ma ora scelgo altrimenti. Cancellerò le ultime tracce di ciò che restava. Saranno al sicuro dall’Eternità. Io no. Questa è la mia punizione e la mia penitenza. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.grail.desc.",
+   "label": "I Dèi-dalla-Pietra Saranno Consumati",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Le Ore più avide approfitteranno della debolezza del Sole. Divoreranno gli ultimi Dèi-dalla-Pietra, e il vecchio mondo nutrirà il nuovo. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.worl.symurgist",
+   "label": "Vittoria del Simurgista: I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "Lo schema è finalmente chiaro. I Dèi-dalla-Pietra prestarono i loro canti al Roost; e ora quei canti torneranno a farsi sentire. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.worl.cartographer",
+   "label": "Vittoria del Cartografo: I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "Vedo ora lo schema. Guscio e Ascia e Pietra si attardano in ogni giro del Mansus. Saranno ricordati. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.worl.",
+   "label": "I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Già dal principio, da Ascia e Guscio e Pietra, lo schema era chiaro, e ora quello schema preserverà il passato contro l’Eternità. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.bala.executioner",
+   "label": "Vittoria del Boia: I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "Le stirpi erranti del Carapace torneranno, dall’altro lato dell’onda e del cielo; e quando le Ore perdute saranno ricordate, la mia espiazione sarà compiuta. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.bala.revolutionary",
+   "label": "Vittoria del Rivoluzionario: I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "Le stirpi erranti del Carapace torneranno dall’altro lato dell’onda e del cielo, le Ore perdute saranno nominate e cantate: una sfida irresistibile in faccia alla Calyptra! [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.bala.",
+   "label": "I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande: e in questa Storia, le stirpi erranti del Carapace torneranno dall’altro lato dell’onda e del cielo, e canteranno inni alle Ore che erano perdute. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.thre.revolutionary",
+   "label": "Vittoria del Rivoluzionario: I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "La debolezza della Calyptra diventerà manifesta; e i Dèi-che-erano-Pietra saranno nominati sotto il cielo. Questa sarà la prima sfida. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.heart.thre.",
+   "label": "I Dèi-dalla-Pietra Saranno Ricordati",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. In essa, la debolezza della Calyptra diventerà manifesta; e i Dèi-che-erano-Pietra saranno nominati sotto il cielo. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.conf.prodigal",
+   "label": "Vittoria del Prodigo: I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "In questa Storia, una prigione si aprirà a una certa Ora di luce… e ai servitori dell’Ora che mi danno la caccia. Che i Dèi-dalla-Pietra si prendano la loro vendetta. La mia sicurezza è garantita. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.conf.archaeologist",
+   "label": "Vittoria dell’Archeologo: I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "In questa Storia, una prigione si aprirà a una certa Ora d’inverno… e alla corruzione che cammina con me. Che i Dèi-dalla-Pietra si prendano la loro vendetta. Il mondo sarà al sicuro dalla mia ombra. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.conf.",
+   "label": "I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "In questa Storia, una prigione si aprirà a una certa antica Ora di potenza, e gli antichi patti saranno infranti. Che i Dèi-dalla-Pietra si prendano la loro vendetta. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.loop.twiceborn",
+   "label": "Vittoria del Rinato: I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "In questa Storia, le vecchie eccezioni prenderanno vita... e i Dèi-dalla-Pietra passeranno attraverso le Scappatoie per prendersi la loro vendetta. In quel nuovo ordine, troverò la mia «terza scelta». [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.loop.",
+   "label": "I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "In questa Storia, le vecchie eccezioni prenderanno vita... e i Dèi-dalla-Pietra passeranno attraverso le Scappatoie per prendersi la loro vendetta. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.asce.cartographer",
+   "label": "Vittoria del Cartografo: I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "Il Sole ha tracciato i suoi Sentieri… e li ha proibiti ai mortali finché non saremo pronti. Ma in questa Storia, i Dèi-dalla-Pietra useranno quei Sentieri per fare ritorno – e i Sentieri del Sole ci si apriranno davanti. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.asce.twiceborn",
+   "label": "Vittoria del Rinato: I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "Il Sole ha tracciato i suoi Sentieri… saggiamente e non saggiamente. In questa Storia, altri li percorreranno. I Dèi-dalla-Pietra torneranno per la loro vendetta. In quel nuovo ordine, troverò la mia «terza scelta». [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.knock.asce.",
+   "label": "I Dèi-dalla-Pietra Saranno Vendicati",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande, e in essa i Sentieri del Sole si apriranno ai nessundove, agli altrove, agli ovunque da cui tornano i Dèi-dalla-Pietra. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.nectar.feas.artist",
+   "label": "Vittoria dell’Artista: I Dèi-dalla-Pietra Rinasceranno",
+   "startdescription": "Tutto sarà sontuoso. In chiesa e camera, in strada e cielo, tutti noi consumeremo le ultime tracce dei Dèi-dalla-Pietra… e in noi risorgeranno. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.nectar.feas.",
+   "label": "I Dèi-dalla-Pietra Rinasceranno",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. Le ultime tracce dei Dèi-dalla-Pietra saranno consumate… e quelle tracce cresceranno dentro chi le avrà divorate, finché le tracce non saranno finalmente rinate. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.nectar.worl.symurgist",
+   "label": "Vittoria del Simurgista: I Dèi-dalla-Pietra Rinasceranno",
+   "startdescription": "Le radici affondano. I nodi restano. I Dèi-dalla-Pietra rinasceranno; e i canti che insegnarono alle Ore del Roost torneranno a risuonare nel mondo. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.nectar.worl.cartographer",
+   "label": "Vittoria del Cartografo: I Dèi-dalla-Pietra Rinasceranno",
+   "startdescription": "Lo schema resta. I Dèi-dalla-Pietra hanno lasciato le loro tracce in ogni corridoio del Mansus… [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.nectar.worl.",
+   "label": "I Dèi-dalla-Pietra Rinasceranno",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande. In questa Storia, i Dèi-dalla-Pietra rinasceranno dallo schema che persiste. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.nectar.secr.twiceborn",
+   "label": "Vittoria del Rinato: I Dèi-dalla-Pietra Rinasceranno",
+   "startdescription": "C’è sempre un compromesso. In questa Storia, quel compromesso abbraccerà i Dèi-che-erano-Pietra… e avrò la mia «terza scelta». [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.nectar.secr.",
+   "label": "I Dèi-dalla-Pietra Rinasceranno",
+   "startdescription": "C’è sempre un compromesso. In questa Storia – la mia opera ultima e più grande – quel compromesso abbraccerà i Dèi-che-erano-Pietra… [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.asce.cartographer",
+   "label": "Vittoria del Cartografo: I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "In questa Storia, nuove Ore sorgeranno a illuminare i Sentieri del Sole… e le vie del Mansus si risolveranno in perfetta chiarezza. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.asce.twiceborn",
+   "label": "Vittoria del Rinato: I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "In questa Storia, nuove Ore sorgeranno nei Sentieri del Sole… e avrò la mia «terza scelta». [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.asce.",
+   "label": "I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande, e in essa nuove Ore sorgeranno nei Sentieri del Sole. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.alte.artist",
+   "label": "Vittoria dell’Artista: I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "Nuove Ore! È un rischio. È quasi un imbroglio. Ma sarà tutti i colori, e ancora di più. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.alte.archaeologist",
+   "label": "Vittoria dell’Archeologo: I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "Non dovrebbe essere possibile far nascere nuove Ore dalla Gloria nel mondo. Ma c’è sempre un modo. E se sarò distrutto nella nascita di quelle nuove Ore… quella sarà l’espiazione ultima. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.alte.",
+   "label": "I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande, e in essa, nuove Ore verranno all’essere. I mezzi sono imperfetti – forse, persino, deplorevoli – ma possiamo sperare che le nuove Ore non saranno né l’una né l’altra cosa. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.bell.revolutionary",
+   "label": "Vittoria del Rivoluzionario: I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "Dai crogioli dove ribollono i metalli-Ys, nascono nuove Ore: e in questa Storia, la Calyptra non lo impedirà. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.bell.prodigal",
+   "label": "Vittoria del Prodigo: I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "I metalli-Ys ribolliranno di luce. Nuove Ore sorgeranno. Avrò la mia arma. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.forge.bell.",
+   "label": "I Dèi-dall’Acciaio Porteranno una Seconda Alba",
+   "startdescription": "I metalli-Ys ribolliranno di luce. Nuove Ore sorgeranno. Questa Storia è la mia opera ultima e più grande. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.oldl.magnate",
+   "label": "Vittoria del Magnate: La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "Un tempo c’era un sole più mite. In questa Storia, quando l’inno più antico si leverà, forse concederà al nostro cielo la sua pace… [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.oldl.symurgist",
+   "label": "Vittoria del Simurgista: La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "Un tempo c’era un sole più benevolo. In questa Storia, quando l’inno più antico si leverà, forse ci risponderà… [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.oldl.",
+   "label": "La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande; e in essa, quel vecchio sole rosso tornerà a un cielo più mite e più affamato. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.conf.prodigal",
+   "label": "Vittoria del Prodigo: La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "Il Sole è spezzato; in guerra con i suoi altri aspetti. Ma in questa Storia, ci sarà una prigione per il suo io più splendente e più litigioso… e per i servitori di quell’io splendente che mi danno la caccia. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.conf.archaeologist",
+   "label": "Vittoria dell’Archeologo: La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "Il Sole è spezzato; in guerra con tutti i suoi aspetti. Ma in questa Storia, ci sarà una prigione per il suo io peggiore. Il Sole si riconcilierà finalmente con la sua natura più antica; e così farò anch’io. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.conf.",
+   "label": "La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "Il Sole è spezzato; in guerra con tutti i suoi aspetti. Ma in questa Storia, ci sarà una prigione per il suo io peggiore. Il Sole si riconcilierà finalmente con la sua natura più antica; e così farò anch’io. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.thre.revolutionary",
+   "label": "Vittoria del Rivoluzionario: La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "In questa Storia, il sole più mite tornerà – il sole del tempo prima della Calyptra – e la Calyptra sarà impotente a impedirlo. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.scale.thre.",
+   "label": "La Seconda Alba: un Vecchio Sole, Rosso e Basso",
+   "startdescription": "Questa è la Storia – la mia opera ultima e più grande – in cui il Chancel, in un momento cruciale, resterà intrappolato nelle proprie regole – e la via sarà libera per il ritorno del vecchio sole. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.lantern.asce.cartographer",
+   "label": "Vittoria del Cartografo: La Seconda Alba è Vicina",
+   "startdescription": "In questa Storia, il Nuovo Re entrerà nei Sentieri del Sole: e la Seconda Alba illuminerà il Mansus. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.lantern.asce.twiceborn",
+   "label": "Vittoria del Rinato: La Seconda Alba è Vicina",
+   "startdescription": "In questa Storia, il Nuovo Re entrerà nei Sentieri del Sole: e la Seconda Alba cambierà ogni cosa. Avrò la mia «terza scelta». [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.lantern.asce.",
+   "label": "La Seconda Alba è Vicina",
+   "startdescription": "In questa Storia – la mia opera ultima e più grande – il Nuovo Re entrerà nei Sentieri del Sole, e la Seconda Alba riporterà il Sole in Splendore. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.lantern.desc.executioner",
+   "label": "Vittoria del Boia: La Seconda Alba è Vicina",
+   "startdescription": "Forse le cicatrici del Sole e i peccati del Sole gli hanno insegnato la misericordia. Forse se il Nuovo Re porterà l’Alba, quell’alba sarà misericordiosa. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.lantern.desc.",
+   "label": "La Seconda Alba è Vicina",
+   "startdescription": "Le cicatrici del Sole devono essere guarite. I peccati del Sole devono essere lavati. Il Nuovo Re deve portare la Seconda Alba. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.lantern.secr.twiceborn",
+   "label": "Vittoria del Rinato: La Seconda Alba è Vicina",
+   "startdescription": "Forse il Nuovo Re è quello vero; e forse no. In ogni caso, <i>qualcuno</i> porterà la Seconda Alba. Tutto cambierà; e avrò la mia «terza scelta». [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.lantern.secr.",
+   "label": "La Seconda Alba è Vicina",
+   "startdescription": "In questa Storia – la mia opera ultima e più grande – <i>qualcuno</i> porterà la Seconda Alba. Forse sarà il Nuovo Re; e forse no. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.bell.revolutionary",
+   "label": "Vittoria del Rivoluzionario: La Seconda Alba Porta Guerra",
+   "startdescription": "Le arti di Ys accenderanno la guerra dietro il mondo. La Seconda Alba arderà luminosa – le Ore, più luminose – finché anche la Calyptra non sarà umiliata. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.bell.prodigal",
+   "label": "Vittoria del Prodigo: La Seconda Alba Porta Guerra",
+   "startdescription": "Le arti di Ys accenderanno la guerra dietro il mondo. La Seconda Alba arderà luminosa – le Ore, più luminose – finché anche i loro servitori che mi danno la caccia non saranno umiliati o consumati. E finalmente sarò al sicuro. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.bell.",
+   "label": "La Seconda Alba Porta Guerra",
+   "startdescription": "In questa Storia – la mia opera ultima e più grande – le arti di Ys accenderanno una guerra dietro il mondo. La Seconda Alba arderà luminosa – le Ore, più luminose. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.feas.artist",
+   "label": "Vittoria dell’Artista: La Seconda Alba Porta Guerra",
+   "startdescription": "Questa è una Storia in cui le arti-di-sapore della Croce provocheranno le Ore alla guerra. Era questo, da sempre, il piano della Croce? Chissà. Ha importanza? Chi ricorderà altro se non lo splendore del banchetto? [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.feas.",
+   "label": "La Seconda Alba Porta Guerra",
+   "startdescription": "Questa Storia è la mia opera ultima e più grande; e in essa, le arti-di-sapore della Croce del Carapace desteranno nelle Ore avidità e guerra. Sarà la vittrice a portare la Seconda Alba. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.alte.artist",
+   "label": "Vittoria dell’Artista: La Seconda Alba Porta Guerra",
+   "startdescription": "«Ogni fiamma ha il suo combustibile.» Il combustibile della Seconda Alba sono le Ore stesse – tutte tranne l’ultima, tutte tranne la vittrice – e così l’Alba sarà di tutti i colori finali. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.alte.archaeologist",
+   "label": "Vittoria dell’Archeologo: La Seconda Alba Porta Guerra",
+   "startdescription": "«Ogni fiamma ha il suo combustibile.» Il combustibile della Seconda Alba sono le Ore stesse – tutte tranne l’ultima, tutte tranne la vittrice – e così quell’Alba brucerà via tutte le ombre. Anche le mie. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.edge.alte.",
+   "label": "La Seconda Alba Porta Guerra",
+   "startdescription": "«Ogni fiamma ha il suo combustibile.» In questa Storia – la mia opera ultima e più grande – il combustibile della Seconda Alba sono le Ore stesse – tutte tranne l’ultima – tutte tranne la vittrice. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.unde.magnate",
+   "label": "Vittoria del Magnate: Non Ci Sarà Seconda Alba",
+   "startdescription": "Non serve una Seconda Alba. Tutti i colori del mondo bastano. In questa comprensione troverò la mia pace. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.unde.",
+   "label": "Non Ci Sarà Seconda Alba",
+   "startdescription": "Husher previde la lunga strada verso il silenzio, e le luci lungo il percorso. Questa Storia è la mia opera ultima e più grande; e in essa non ci sarà una Seconda Alba. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.conf.prodigal",
+   "label": "Vittoria del Prodigo: Non Ci Sarà Seconda Alba",
+   "startdescription": "Non ci sarà Seconda Alba. Gli adepti di questa Storia costruiranno una prigione per le luci più acute, i fuochi più pericolosi. Finalmente sarò al sicuro. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.conf.archaeologist",
+   "label": "Vittoria dell’Archeologo: Non Ci Sarà Seconda Alba",
+   "startdescription": "Non ci sarà Seconda Alba. Gli adepti di questa Storia costruiranno una prigione per le luci più acute, i fuochi più pericolosi... e per il mio altro io. Finalmente avrò la mia libertà. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.conf.",
+   "label": "Non Ci Sarà Seconda Alba",
+   "startdescription": "Non ci sarà Seconda Alba. Gli adepti di questa Storia – la mia opera ultima e più grande – costruiranno una prigione per le luci più acute, i fuochi più pericolosi... e la scintilla d’innesco che avrebbe potuto essere l’Alba. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.bala.executioner",
+   "label": "Vittoria del Boia: Non Ci Sarà Seconda Alba",
+   "startdescription": "Questa è la Storia in cui le stirpi erranti della Croce del Carapace fanno ritorno… e tutto cambia. Ciò che è sopra, sotto; ciò che ha ali, prospererà. E avrò fatto ammenda. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.bala.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Non Ci Sarà Seconda Alba",
+   "startdescription": "Non ci sarà Seconda Alba. Questa è la Storia in cui le stirpi erranti della Croce del Carapace smascherano le menzogne della Chiesa… e le radici della Calyptra tremeranno. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  },
+  {
+   "id": "record.h.winter.bala.",
+   "label": "Non Ci Sarà Seconda Alba",
+   "startdescription": "Questa è la Storia in cui le stirpi erranti della Croce del Carapace fanno ritorno… e tutto cambia. Ciò che è sopra, sotto; ciò che ha ali, prospererà. [Quando l’Archivista registra una Storia, perfino le Ore ne prendono nota. Questa decisione non si può annullare; darà inizio al finale della partita.]",
+   "desc": "È scritto. [Hai registrato una nuova Storia. Portala al Campo del Conte Brian nella stagione di Numa, e le Ore ne saranno testimoni.]"
+  }
+ ]
+}

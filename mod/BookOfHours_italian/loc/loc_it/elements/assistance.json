@@ -1,0 +1,160 @@
+{
+ "elements": [
+  {
+   "id": "introduction.rector.start",
+   "label": "L’Indirizzo di un Vecchio Amico",
+   "desc": "Ho sentito parlare per la prima volta di Brancrug attraverso il suo Rettore, il Reverendo Timothy. Sono anni ormai che ci scambiamo lettere. Posso trovare riparo per stasera sotto il suo tetto, <b>una volta raggiunto il Villaggio di Brancrug</b>. [Il Rettore può anche presentarti ad altri abitanti del villaggio.]",
+   "slots": [
+    {
+     "id": "h",
+     "label": "Riparo!"
+    }
+   ]
+  },
+  {
+   "id": "introduction.blacksmith.start",
+   "label": "L’Indirizzo di un Vecchio Amico",
+   "desc": "Denzil è il fabbro del Villaggio di Brancrug. Lo ricordo dalla Guerra. Se si ricorda di me, posso trovare riparo sotto il suo tetto, <b>una volta raggiunto il Villaggio di Brancrug</b>.",
+   "slots": [
+    {
+     "id": "h",
+     "label": "Riparo!"
+    }
+   ]
+  },
+  {
+   "id": "introduction.coffinmaker.start",
+   "label": "L’Indirizzo di un Vecchio Amico",
+   "desc": "Mr Kille è il costruttore di bare del Villaggio di Brancrug. Una volta ho scritto gentilmente della sua poesia. La sua casa è sempre aperta per me (sebbene mi abbia chiesto di non menzionare mai la poesia davanti a Mrs Kille). Posso trovare riparo per stasera sotto il loro tetto, <b>una volta raggiunto il Villaggio di Brancrug</b>. ",
+   "slots": [
+    {
+     "id": "h",
+     "label": "Riparo!"
+    }
+   ]
+  },
+  {
+   "id": "introduction.midwife.start",
+   "label": "L’Indirizzo di un Vecchio Amico",
+   "desc": "Mrs Kille è la tuttofare, la levatrice, del Villaggio di Brancrug. L’ho conosciuta molto tempo fa a Parigi, quando il suo cognome non era «Kille» ma «Raveline», e sua sorella era una viscontessa. La sua casa è sempre aperta per me (sebbene mi abbia chiesto di non sollevare la questione del titolo quando Mr Kille è nei paraggi). Posso trovare riparo per stasera sotto il loro tetto, <b>una volta raggiunto il Villaggio di Brancrug</b>. ",
+   "slots": [
+    {
+     "id": "h",
+     "label": "Riparo!"
+    }
+   ]
+  },
+  {
+   "id": "assistance.fisherman",
+   "label": "Aiuto del Pescatore",
+   "desc": "I pescatori in questa parte del mondo hanno una reputazione di contrabbandieri, e peggio ancora dei contrabbandieri. Quei giorni sono passati, per lo più, e per lo più ora catturano solo sardine. Ma ricordano ancora le parole pronunciate in silenzio alla Luna e al Mare."
+  },
+  {
+   "id": "assistance.fisherman.intro",
+   "label": "Aiuto del Pescatore",
+   "desc": "Un pescatore dal villaggio di Brancrug! Può guidarmi su per il sentiero della scogliera, se riesco a convincerlo a fidarsi di me. [Gli Aspetti sottostanti ti dicono di più su come e dove puoi usare questa carta. Passa sopra per saperne di più, o per vedere quali altre cose hanno questi Aspetti.]",
+   "slots": [
+    {
+     "id": "intro",
+     "label": "Un nome?",
+     "description": "C’è qualcuno che potrebbe garantire per me presso gli abitanti del villaggio?"
+    }
+   ]
+  },
+  {
+   "id": "assistance.orchardkeeper",
+   "label": "Aiuto del Custode del Frutteto",
+   "desc": "«In Cornovaglia, è del tutto possibile passare in un passo dalla vegetazione più ricca all’abominio della desolazione. È stato detto in derisione che la Cornovaglia non produce legname a sufficienza per fare bare per la gente.» – Sabine Baring-Gould"
+  },
+  {
+   "id": "assistance.barber",
+   "label": "Aiuto del Barbiere",
+   "desc": "I barbieri ambulanti del Sud del paese ti garantiranno pulizia e decoro, assicurandosi che non ti perda notizie o pettegolezzi, e sistemeranno le cose così che i parassiti non ti diano troppo fastidio. Snic snic."
+  },
+  {
+   "id": "assistance.miner",
+   "label": "Aiuto del Minatore",
+   "desc": "«Così più o meno si auto-governavano, con l’aiuto del loro temperamento celtico selvaggio, reso ancora più selvaggio dalla durezza delle loro vite e dalle condizioni veramente orribili in cui lavoravano [...] con tutto ciò, non ci si deve meravigliare che i minatori di stagno acquisissero la reputazione di essere a malapena umani. Ma si deve ricordare che tra di loro in ogni momento c’erano coloro il cui carattere poteva reggere il confronto con i migliori fra gli uomini.» – L. Russell Muirhead"
+  },
+  {
+   "id": "assistance.rector",
+   "label": "Aiuto del Rettore",
+   "desc": "Reverendo Timothy, Rettore di Brancrug, ordinato dalla Chiesa del Sole Invitto. Un uomo colto, benedetto nel Conteggio, nella Porta e nella Luce. [Usa l’aiuto del Rettore prima dell’alba.]"
+  },
+  {
+   "id": "assistance.coffinmaker",
+   "label": "Aiuto del Costruttore di Bare",
+   "desc": "Un domatore di alberi, un lavoratore di boschi, un consegnatore di cadaveri. Gli è anche capitato di cimentarsi, molto timidamente, nella poesia. [Usa l’aiuto del Costruttore di Bare prima dell’alba.]"
+  },
+  {
+   "id": "assistance.midwife",
+   "label": "Aiuto della Levatrice",
+   "desc": "Cupa come l’autunno, gentile come l’autunno. E non disdegna una birra. [Usa l’aiuto della Levatrice prima dell’alba.]"
+  },
+  {
+   "id": "assistance.blacksmith",
+   "label": "Aiuto del Fabbro",
+   "desc": "Denzil il fabbro mi presterà la sua forza per il giorno. [Usa l’aiuto del Fabbro prima dell’alba.]"
+  },
+  {
+   "id": "employable.engineer",
+   "label": "Di Passaggio: un Ingegnere Consulente?",
+   "desc": "Un’ingegnere consulente si è fermata al Sweet Bones sulla strada per casa. [L’Ingegnere Consulente fornisce assistenza di <sprite name=forge>, <sprite name=sky> e <sprite name=lantern>. Parla con lei prima che se ne vada se vuoi usare i suoi servizi.]."
+  },
+  {
+   "id": "assistance.engineer",
+   "label": "Aiuto dell’Ingegnere Consulente",
+   "desc": "Un ingegnere consulente può trovare lavoro in abbondanza nelle miniere e nei paesi della regione. Ma la Hush House rappresenta una sfida insolita e interessante."
+  },
+  {
+   "id": "employable.fugitive",
+   "label": "In Agguato Nei Paraggi: un Fuggitivo",
+   "desc": "Qualcuno ha preso una stanza al piano di sopra per la notte. Non ha mostrato la faccia, ma il villaggio ronza di pettegolezzi... [Il Fuggitivo fornisce assistenza di <sprite name=scale>, <sprite name=edge> e <sprite name=heart>. Parla con lui prima che se ne vada se vuoi usare i suoi servizi.]"
+  },
+  {
+   "id": "assistance.fugitive",
+   "label": "Aiuto del Fuggitivo",
+   "desc": "«Silenzio!» gridò una voce terribile, mentre un uomo balzava in piedi tra i sepolcri a lato del portico della chiesa. [...] Un uomo spaventoso, tutto in tela grezza grigia, con un grande ferro sulla gamba. Un uomo senza cappello, con scarpe rotte, e un vecchio straccio legato intorno alla testa.» – Dickens"
+  },
+  {
+   "id": "employable.musician",
+   "label": "Di Passaggio: un Musicista",
+   "desc": "Un musicista sta intrattenendo i clienti del Sweet Bones per spiccioli... non molti spiccioli. Coglierebbe al volo un’opportunità meglio retribuita. [Il Musicista Ambulante fornisce assistenza di <sprite name=sky>, <sprite name=rose> e <sprite name=nectar>. Parla con lui prima che se ne vada se vuoi usare i suoi servizi.]."
+  },
+  {
+   "id": "assistance.musician",
+   "label": "Aiuto del Musicista Ambulante",
+   "desc": "«Sono solo un ragazzino della Cornovaglia, rosso di capelli, fastidioso e bugiardo, che avrebbero dovuto sbattere dentro [...] Sono solo riuscito a scappare e a imbucarmi nella musica.» – Richard James"
+  },
+  {
+   "id": "employable.nun",
+   "label": "In un Pellegrinaggio Insolito: una Suora Insolita",
+   "desc": "Le suore di solito non viaggiano da sole. Questa sì. [La Sorella del Nodo Triplo fornisce assistenza di <sprite name=knock>, <sprite name=moon> e <sprite name=grail>. Parla con lei prima che se ne vada se vuoi usare i suoi servizi.]."
+  },
+  {
+   "id": "assistance.nun",
+   "label": "Aiuto della Suora",
+   "desc": "Le Sorelle del Nodo Triplo hanno lasciato da molto tempo questo angolo del mondo... o no?"
+  },
+  {
+   "id": "employable.painter",
+   "label": "Di Passaggio: una Pittrice Surrealista",
+   "desc": "Una pittrice è venuta in Cornovaglia per la luce famosa dei pomeriggi della regione... [La Pittrice Surrealista fornisce assistenza di <sprite name=grail>, <sprite name=moth> e <sprite name=rose>. Parla con lei prima che se ne vada se vuoi usare i suoi servizi.]."
+  },
+  {
+   "id": "assistance.painter",
+   "label": "Aiuto della Pittrice Surrealista",
+   "desc": "Quale pittore degno dei propri pigmenti non vorrebbe passare una giornata alla Hush House?"
+  },
+  {
+   "id": "employable.poet",
+   "label": "Di Passaggio: un Poeta",
+   "desc": "Un poeta è venuto allo Sweet Bones in cerca di ispirazione, che sembra soprattutto significare «bere» ma anche «lamentarsi». [Il Poeta Elegiaco fornisce assistenza di <sprite name=winter>, <sprite name=moth> e <sprite name=sky>. Parla con lui prima che se ne vada se vuoi usare i suoi servizi.]."
+  },
+  {
+   "id": "assistance.poet",
+   "label": "Aiuto del Poeta Elegiaco",
+   "desc": "I poeti, si dice, non lavano mai i piatti. Nemmeno questo si è pettinato. Ma ha le sue utilità e i suoi talenti."
+  }
+ ]
+}

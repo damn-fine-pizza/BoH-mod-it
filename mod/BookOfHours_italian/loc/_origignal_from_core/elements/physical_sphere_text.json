@@ -1,0 +1,36 @@
+{
+    "elements": [
+
+        {"id":"pspherespec.THINGS","label":"THINGS","desc":"If it doesn't live on the wall or on the floor, it's probably a thing.","comments":"Not currently used, but might be used again."},
+        {"id":"pspherespec.WALL ART","label":"WALLART","desc":"Paintings, tapestries, trophies.","comments":"Not currently used, but might be used again."},
+        {"id":"pspherespec.COMFORT","label":"COMFORT","desc":"If it goes on the floor, we call it a 'comfort', whether or not it's comfortable.","comments":"Not currently used, but might be used again."},
+        {"id":"pspherespec.B1","label":"1st Baron Brancrug","desc":"A niche with a plaque: 'Who returned loyalty for loyalty and curse for curse'"},
+        {"id":"pspherespec.B2","label":"2nd Baron Brancrug","desc":"A niche with a plaque: 'Who saw what had not yet passed'"},
+        {"id":"pspherespec.B3","label":"3rd Baron Brancrug","desc":"A niche with a plaque: 'Who commanded the raising of this stair'"},
+        {"id":"pspherespec.B4","label":"4th Baron Brancrug","desc":"A niche with a plaque: 'Who was mocked more than he merited'"},
+        {"id":"pspherespec.B5","label":"5th Baron Brancrug","desc":"A niche with a plaque: 'Who was feared more than he merited'"},
+        {"id":"pspherespec.B6","label":"6th Baron Brancrug","desc":"A niche with a plaque: 'Who knew cages'"},
+        {"id":"pspherespec.B7","label":"7th Baroness Brancrug","desc":"A niche with a plaque: 'Not to be crossed, and not to be found'"},
+        {"id":"pspherespec.L1","label":"First Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who often purified, but was not often pure'"},
+        {"id":"pspherespec.L2","label":"Second Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who was born of three nations, and of none'"},
+        {"id":"pspherespec.L3","label":"Third Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Whereof we cannot speak, thereof we must remain silent'"},
+        {"id":"pspherespec.L4","label":"Fourth Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who died not but passed within'"},
+        {"id":"pspherespec.L5","label":"Fifth Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who was denied victory, though never defeated'"},
+        {"id":"pspherespec.L6","label":"Sixth Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who brought a key long lost'"},
+        {"id":"pspherespec.L7","label":"Seventh Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who dwells still in the three-flowered tree'"},
+        {"id":"pspherespec.L8","label":"Eighth Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who served two masters as best he could'"},
+        {"id":"pspherespec.L9","label":"Ninth Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who saw his fate, and did not shirk it'"},
+        {"id":"pspherespec.L10","label":"Tenth Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who departed, but did not forget'"},
+        {"id":"pspherespec.L11","label":"Eleventh Librarian of the Curia of the Isle","desc":"A niche with a plaque: 'Who returned to complete what he began.'"},
+        {"id":"pspherespec.L12","label":"Twelfth Librarian of the Curia of the Isle","desc":"This, of course, would be me. I could use whatever I want as my image."},
+        {"id":"pspherespec.L13","label":"Thirteenth Librarian of the Curia of the Isle?","desc":"If I have a successor, their image might stand here."},
+
+        {"id":"pspherespec.Belongings","label":"Belongings", "desc":"[Keep things here until you tidy them away.]"},
+        {"id":"pspherespec.outsidepile","label":"ABANDONED AT THE THRESHOLD", "desc":"[If you don't have anywhere to put a physical object, it might end up here.]"},
+        {"id":"pspherespec.outsidepile.beach","label":"ABANDONED AT THE WATER'S EDGE", "desc":"[If you don't have anywhere to put a physical object, it might end up here.]"}
+        
+        
+
+
+    ]
+}

@@ -1,0 +1,369 @@
+{
+ "recipes": [
+  {
+   "id": "manuscript.write.preliminalmeter",
+   "label": "Scrivi un Manoscritto di Metro Preliminale",
+   "startdescription": "Marca la carta con l’inchiostro per creare un manoscritto che aprirà la conoscenza ai visitatori. [Questo manoscritto soddisferà l’Interesse dei visitatori per Battente e Metro Preliminale. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Battente raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.pyroglyphics",
+   "label": "Scrivi un Manoscritto di Piroglifici",
+   "startdescription": "L’inchiostro e la carta potrebbero essere combustibili, ma la conoscenza perdura. [Questo manoscritto soddisferà l’Interesse Forgia e Piroglifici dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Forgia raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.inks.containment",
+   "label": "Scrivi un Manoscritto di Inchiostri di Contenimento",
+   "startdescription": "Inchiostro; carta; testamento. [Questo manoscritto soddisferà l’Interesse Inverno e Inchiostri di Contenimento dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Inverno raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.inks.revelation",
+   "label": "Scrivi un Manoscritto di Inchiostri di Rivelazione",
+   "startdescription": "Impiega inchiostro e carta per creare un manoscritto che posso usare per illuminare i visitatori. [Questo manoscritto soddisferà l’Interesse Lanterna e Inchiostri di Rivelazione dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lanterna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.inks.power",
+   "label": "Scrivi un Manoscritto di Inchiostri di Potere",
+   "startdescription": "L’inchiostro non impara. La carta non sa. Eppure la conoscenza passa tra loro come una stretta di mano. [Questo manoscritto soddisferà l’Interesse Rosa e Inchiostri di Potere dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Rosa raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.drums.dances",
+   "label": "Scrivi un Manoscritto di Tamburi & Danze",
+   "startdescription": "Perpetua la conoscenza con inchiostro e carta. [Questo manoscritto soddisferà l’Interesse dei visitatori per Cuore e Tamburi & Danze. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Cuore raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.strings.songs",
+   "label": "Scrivi un Manoscritto di Corde & Canti",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Corde & Canti dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.bells.brazieries",
+   "label": "Scrivi un Manoscritto di Campane & Bracieri",
+   "startdescription": "L’inchiostro e la carta potrebbero essere combustibili, ma la conoscenza perdura. [Questo manoscritto soddisferà l’Interesse Forgia e Campane & Bracieri dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Forgia raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.horns.ivories",
+   "label": "Scrivi un Manoscritto di Corna & Avori",
+   "startdescription": "Conoscenza perseguita attraverso il labirinto della carta, fissata con freccette d’inchiostro. [Questo manoscritto soddisferà l’Interesse Squama e Corna & Avori dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Squama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.surgeries.exsanguinations",
+   "label": "Scrivi un Manoscritto di Chirurgie & Dissanguamenti",
+   "startdescription": "Perpetua la conoscenza con inchiostro e carta. [Questo manoscritto soddisferà l’Interesse dei visitatori per Cuore e Chirurgie & Dissanguamenti. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Cuore raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.stitching.binding",
+   "label": "Scrivi un Manoscritto di Cucitura & Rilegatura",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Cucitura & Rilegatura dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.furs.feathers",
+   "label": "Scrivi un Manoscritto di Pellicce & Piume",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Pellicce & Piume dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.pearl.tide",
+   "label": "Scrivi un Manoscritto di Perla & Marea",
+   "startdescription": "L’inchiostro non impara. La carta non sa. Eppure la conoscenza passa tra loro come una stretta di mano. [Questo manoscritto soddisferà l’Interesse Rosa e Perla & Marea dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Rosa raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.insects.nectars",
+   "label": "Scrivi un Manoscritto di Insetti & Nettari",
+   "startdescription": "Inchiostro; sangue della carta. Scrittura; cicatrice della memoria. [Questo manoscritto soddisferà l’Interesse Nettare e Insetti & Nettari dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Nettare raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.herbs.infusions",
+   "label": "Scrivi un Manoscritto di Erbe & Infusi",
+   "startdescription": "Perpetua la conoscenza con inchiostro e carta. [Questo manoscritto soddisferà l’Interesse dei visitatori per Cuore ed Erbe & Infusi. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Cuore raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.spices.savours",
+   "label": "Scrivi un Manoscritto di Spezie & Sapori",
+   "startdescription": "Inchiostro; sangue della carta. Scrittura; cicatrice della memoria. [Questo manoscritto soddisferà l’Interesse Nettare e Spezie & Sapori dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Nettare raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.leaves.thorns",
+   "label": "Scrivi un Manoscritto di Foglie & Spine",
+   "startdescription": "Inchiostro; sangue della carta. Scrittura; cicatrice della memoria. [Questo manoscritto soddisferà l’Interesse Nettare e Foglie & Spine dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Nettare raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.orchids.narcotics",
+   "label": "Scrivi un Manoscritto di Orchidee & Narcotici",
+   "startdescription": "Consuma inchiostro e carta per creare un manoscritto che posso usare per deliziare i visitatori. [Questo manoscritto soddisferà l’Interesse Graal e Orchidee & Narcotici dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Graal raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.serpents.venoms",
+   "label": "Scrivi un Manoscritto di Serpenti & Veleni",
+   "startdescription": "Conoscenza perseguita attraverso il labirinto della carta, fissata con freccette d’inchiostro. [Questo manoscritto soddisferà l’Interesse Squama e Serpenti & Veleni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Squama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.sights.sensations",
+   "label": "Scrivi un Manoscritto di Visioni & Sensazioni",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Visioni & Sensazioni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.desires.dissolutions",
+   "label": "Scrivi un Manoscritto di Desideri & Dissoluzioni",
+   "startdescription": "Consuma inchiostro e carta per creare un manoscritto che posso usare per deliziare i visitatori. [Questo manoscritto soddisferà l’Interesse Graal e Desideri & Dissoluzioni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Graal raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.resurgences.emergences",
+   "label": "Scrivi un Manoscritto di Risorgenze & Emersioni",
+   "startdescription": "L’inchiostro è la danza della carta. La conoscenza è una lampada. [Questo manoscritto soddisferà l’Interesse Falena e Risorgenze & Emersioni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Falena raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.rhyme.remembrance",
+   "label": "Scrivi un Manoscritto di Rima & Rimembranza",
+   "startdescription": "Inchiostro; carta; testamento. [Questo manoscritto soddisferà l’Interesse Inverno e Rima & Rimembranza dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Inverno raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.disciplines.thehammer",
+   "label": "Scrivi un Manoscritto di Discipline del Martello",
+   "startdescription": "Incidi la conoscenza inchiostrata sulla carta. [Questo manoscritto soddisferà l’Interesse Lama e Discipline del Martello dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.disciplines.thescar",
+   "label": "Scrivi un Manoscritto di Discipline della Cicatrice",
+   "startdescription": "Incidi la conoscenza inchiostrata sulla carta. [Questo manoscritto soddisferà l’Interesse Lama e Discipline della Cicatrice dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.auroralcontemplations",
+   "label": "Scrivi un Manoscritto di Contemplazioni Aurorali",
+   "startdescription": "Impiega inchiostro e carta per creare un manoscritto che posso usare per illuminare i visitatori. [Questo manoscritto soddisferà l’Interesse Lanterna e Contemplazioni Aurorali dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lanterna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.applebrighteuphonies",
+   "label": "Scrivi un Manoscritto di Eufonie di Applebright",
+   "startdescription": "Impiega inchiostro e carta per creare un manoscritto che posso usare per illuminare i visitatori. [Questo manoscritto soddisferà l’Interesse Cielo ed Eufonie di Applebright dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.watchmansparadoxes",
+   "label": "Scrivi un Manoscritto di Paradossi del Guardiano",
+   "startdescription": "Impiega inchiostro e carta per creare un manoscritto che posso usare per illuminare i visitatori. [Questo manoscritto soddisferà l’Interesse Lanterna e Paradossi del Guardiano dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lanterna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.raggedcrossroads",
+   "label": "Scrivi un Manoscritto di Crocevia Logoro",
+   "startdescription": "Incidi la conoscenza inchiostrata sulla carta. [Questo manoscritto soddisferà l’Interesse Lama e Crocevia Logoro dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.meniscatereflections",
+   "label": "Scrivi un Manoscritto di Riflessi Meniscati",
+   "startdescription": "L’inchiostro e la carta potrebbero essere combustibili, ma la conoscenza perdura. [Questo manoscritto soddisferà l’Interesse Forgia e Riflessi Meniscati dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Forgia raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.putrefactions.calcinations",
+   "label": "Scrivi un Manoscritto di Putrefazioni & Calcinazioni",
+   "startdescription": "Inchiostro; carta; testamento. [Questo manoscritto soddisferà l’Interesse Inverno e Putrefazioni & Calcinazioni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Inverno raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.solutions.separations",
+   "label": "Scrivi un Manoscritto di Soluzioni & Separazioni",
+   "startdescription": "L’inchiostro è la danza della carta. La conoscenza è una lampada. [Questo manoscritto soddisferà l’Interesse Falena e Soluzioni & Separazioni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Falena raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.path.pilgrim",
+   "label": "Scrivi un Manoscritto di Cammino & Pellegrino",
+   "startdescription": "L’inchiostro non impara. La carta non sa. Eppure la conoscenza passa tra loro come una stretta di mano. [Questo manoscritto soddisferà l’Interesse Rosa e Cammino & Pellegrino dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Rosa raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.purifications.exaltations",
+   "label": "Scrivi un Manoscritto di Purificazioni & Esaltazioni",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Purificazioni & Esaltazioni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.transformations.liberations",
+   "label": "Scrivi un Manoscritto di Trasformazioni & Liberazioni",
+   "startdescription": "L’inchiostro e la carta potrebbero essere combustibili, ma la conoscenza perdura. [Questo manoscritto soddisferà l’Interesse Forgia e Trasformazioni & Liberazioni dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Forgia raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.lockworks.clockworks",
+   "label": "Scrivi un Manoscritto di Serrature & Orologeria",
+   "startdescription": "Marca la carta con l’inchiostro per creare un manoscritto che aprirà la conoscenza ai visitatori. [Questo manoscritto soddisferà l’Interesse dei visitatori per Battente e Serrature & Orologeria. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Battente raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.seastories",
+   "label": "Scrivi un Manoscritto di Storie di Mare",
+   "startdescription": "Guida i visitatori lungo il sentiero d’inchiostro attraverso la notte dell’ignoto. [Questo manoscritto soddisferà l’Interesse Luna e Storie di Mare dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Luna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.wolfstories",
+   "label": "Scrivi un Manoscritto di Storie di Lupo",
+   "startdescription": "Guida i visitatori lungo il sentiero d’inchiostro attraverso la notte dell’ignoto. [Questo manoscritto soddisferà l’Interesse Luna e Storie di Lupo dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Luna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.sandstories",
+   "label": "Scrivi un Manoscritto di Storie di Sabbia",
+   "startdescription": "L’inchiostro non impara. La carta non sa. Eppure la conoscenza passa tra loro come una stretta di mano. [Questo manoscritto soddisferà l’Interesse Rosa e Storie di Sabbia dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Rosa raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.skystories",
+   "label": "Scrivi un Manoscritto di Storie di Cielo",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Storie di Cielo dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.snowstories",
+   "label": "Scrivi un Manoscritto di Storie di Neve",
+   "startdescription": "Inchiostro; carta; testamento. [Questo manoscritto soddisferà l’Interesse Inverno e Storie di Neve dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Inverno raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.stonestories",
+   "label": "Scrivi un Manoscritto di Storie di Pietra",
+   "startdescription": "Conoscenza perseguita attraverso il labirinto della carta, fissata con freccette d’inchiostro. [Questo manoscritto soddisferà l’Interesse Squama e Storie di Pietra dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Squama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.vak",
+   "label": "Scrivi un Manoscritto di Vak",
+   "startdescription": "Marca la carta con l’inchiostro per creare un manoscritto che aprirà la conoscenza ai visitatori. [Questo manoscritto soddisferà l’Interesse dei visitatori per Battente e Vak. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Battente raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.mandaic",
+   "label": "Scrivi un Manoscritto di Mandaico Profondo",
+   "startdescription": "L’inchiostro e la carta potrebbero essere combustibili, ma la conoscenza perdura. [Questo manoscritto soddisferà l’Interesse Forgia e Mandaico Profondo dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Forgia raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.killasimi",
+   "label": "Scrivi un Manoscritto di Killasimi",
+   "startdescription": "Inchiostro; carta; testamento. [Questo manoscritto soddisferà l’Interesse Inverno e Killasimi dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Inverno raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.fucine",
+   "label": "Scrivi un Manoscritto di Fucine",
+   "startdescription": "Perpetua la conoscenza con inchiostro e carta. [Questo manoscritto soddisferà l’Interesse dei visitatori per Cuore e Fucine. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Cuore raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.sabazine",
+   "label": "Scrivi un Manoscritto di Sabazine",
+   "startdescription": "L’inchiostro è la danza della carta. La conoscenza è una lampada. [Questo manoscritto soddisferà l’Interesse Falena e Sabazine dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Falena raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.cracktrack",
+   "label": "Scrivi un Manoscritto di Cracktrack",
+   "startdescription": "Inchiostro; sangue della carta. Scrittura; cicatrice della memoria. [Questo manoscritto soddisferà l’Interesse Nettare e Cracktrack dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Nettare raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.hyksos",
+   "label": "Scrivi un Manoscritto di Hyksos",
+   "startdescription": "Consuma inchiostro e carta per creare un manoscritto che posso usare per deliziare i visitatori. [Questo manoscritto soddisferà l’Interesse Graal e Hyksos dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Graal raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.ericapaean",
+   "label": "Scrivi un Manoscritto di Ericapaean",
+   "startdescription": "Impiega inchiostro e carta per creare un manoscritto che posso usare per illuminare i visitatori. [Questo manoscritto soddisferà l’Interesse Lanterna ed Ericapaean dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lanterna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.ramsund",
+   "label": "Scrivi un Manoscritto di Ramsund",
+   "startdescription": "L’inchiostro è la danza della carta. La conoscenza è una lampada. [Questo manoscritto soddisferà l’Interesse Falena e Ramsund dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Falena raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.sacrasolisinvicti",
+   "label": "Scrivi un Manoscritto di Sacra Solis Invicti",
+   "startdescription": "Impiega inchiostro e carta per creare un manoscritto che posso usare per illuminare i visitatori. [Questo manoscritto soddisferà l’Interesse Lanterna e Sacra Solis Invicti dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lanterna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.tridesmahiera",
+   "label": "Scrivi un Manoscritto di Tridesma Hiera",
+   "startdescription": "Guida i visitatori lungo il sentiero d’inchiostro attraverso la notte dell’ignoto. [Questo manoscritto soddisferà l’Interesse Luna e Tridesma Hiera dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Luna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.sacralimiae",
+   "label": "Scrivi un Manoscritto di Sacra Limiae",
+   "startdescription": "L’inchiostro è la danza della carta. La conoscenza è una lampada. [Questo manoscritto soddisferà l’Interesse Falena e Sacra Limiae dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Falena raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.sickle.eclipse",
+   "label": "Scrivi un Manoscritto di Falce & Eclissi",
+   "startdescription": "Incidi la conoscenza inchiostrata sulla carta. [Questo manoscritto soddisferà l’Interesse Lama e Falce & Eclissi dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.hill.hollow",
+   "label": "Scrivi un Manoscritto di Colle & Valle",
+   "startdescription": "Guida i visitatori lungo il sentiero d’inchiostro attraverso la notte dell’ignoto. [Questo manoscritto soddisferà l’Interesse Luna e Colle & Valle dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Luna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.pentiments.precursors",
+   "label": "Scrivi un Manoscritto di Pentimenti & Precursori",
+   "startdescription": "Conoscenza perseguita attraverso il labirinto della carta, fissata con freccette d’inchiostro. [Questo manoscritto soddisferà l’Interesse Squama e Pentimenti & Precursori dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Squama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.coil.chasm",
+   "label": "Scrivi un Manoscritto di Spira & Baratro",
+   "startdescription": "Conoscenza perseguita attraverso il labirinto della carta, fissata con freccette d’inchiostro. [Questo manoscritto soddisferà l’Interesse Squama e Spira & Baratro dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Squama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.rites.theroots",
+   "label": "Scrivi un Manoscritto di Riti delle Radici",
+   "startdescription": "Inchiostro; sangue della carta. Scrittura; cicatrice della memoria. [Questo manoscritto soddisferà l’Interesse Nettare e Riti delle Radici dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Nettare raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.door.wall",
+   "label": "Scrivi un Manoscritto di Porta & Muro",
+   "startdescription": "Marca la carta con l’inchiostro per creare un manoscritto che aprirà la conoscenza ai visitatori. [Questo manoscritto soddisferà l’Interesse dei visitatori per Battente e Porta & Muro. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Battente raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.edictsliminal",
+   "label": "Scrivi un Manoscritto di Editti Liminali",
+   "startdescription": "L’inchiostro è la danza della carta. La conoscenza è una lampada. [Questo manoscritto soddisferà l’Interesse Falena ed Editti Liminali dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Falena raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.edictsmartial",
+   "label": "Scrivi un Manoscritto di Editti Marziali",
+   "startdescription": "Guida i visitatori lungo il sentiero d’inchiostro attraverso la notte dell’ignoto. [Questo manoscritto soddisferà l’Interesse Luna ed Editti Marziali dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Luna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.edictsinviolable",
+   "label": "Scrivi un Manoscritto di Editti Inviolabili",
+   "startdescription": "Perpetua la conoscenza con inchiostro e carta. [Questo manoscritto soddisferà l’Interesse dei visitatori per Cuore ed Editti Inviolabili. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Cuore raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.thegreatsignsandthegreatscars",
+   "label": "Scrivi un Manoscritto dei Grandi Segni e delle Grandi Cicatrici",
+   "startdescription": "Consuma inchiostro e carta per creare un manoscritto che posso usare per deliziare i visitatori. [Questo manoscritto soddisferà l’Interesse Graal e I Grandi Segni e le Grandi Cicatrici dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Graal raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.maggephenemysteries",
+   "label": "Scrivi un Manoscritto di Misteri Maggephene",
+   "startdescription": "Guida i visitatori lungo il sentiero d’inchiostro attraverso la notte dell’ignoto. [Questo manoscritto soddisferà l’Interesse Luna e Misteri Maggephene dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Luna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.weaving.knotworking",
+   "label": "Scrivi un Manoscritto di Tessitura & Annodatura",
+   "startdescription": "Perpetua la conoscenza con inchiostro e carta. [Questo manoscritto soddisferà l’Interesse dei visitatori per Cuore e Tessitura & Annodatura. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Cuore raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.anbary.lapidary",
+   "label": "Scrivi un Manoscritto di Ambreria & Lapidario",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Ambreria & Lapidario dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.quenchings.quellings",
+   "label": "Scrivi un Manoscritto di Spegnimenti & Placamenti",
+   "startdescription": "Inchiostro; carta; testamento. [Questo manoscritto soddisferà l’Interesse Inverno e Spegnimenti & Placamenti dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Inverno raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.glassblowing.vesselcrafting",
+   "label": "Scrivi un Manoscritto di Vetro Soffiato & Vasellame",
+   "startdescription": "Marca la carta con l’inchiostro per creare un manoscritto che aprirà la conoscenza ai visitatori. [Questo manoscritto soddisferà l’Interesse dei visitatori per Battente e Vetro Soffiato & Vasellame. Il livello di Abilità determinerà la qualità del manoscritto, ma anche i libri hanno un’anima... usare un inchiostro con aspetto Battente raddoppierà di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.glaziery.lightsmithing",
+   "label": "Scrivi un Manoscritto di Vetreria & Lucefabbro",
+   "startdescription": "Impiega inchiostro e carta per creare un manoscritto che posso usare per illuminare i visitatori. [Questo manoscritto soddisferà l’Interesse Lanterna e Vetreria & Lucefabbro dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lanterna raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.sharps",
+   "label": "Scrivi un Manoscritto di Taglienti",
+   "startdescription": "Incidi la conoscenza inchiostrata sulla carta. [Questo manoscritto soddisferà l’Interesse Lama e Taglienti dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Lama raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.ouranoscopy",
+   "label": "Scrivi un Manoscritto di Uranoscopia",
+   "startdescription": "Trama della conoscenza, motivo dell’inchiostro, vasta distesa della carta. [Questo manoscritto soddisferà l’Interesse Cielo e Uranoscopia dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Cielo raddoppierai di fatto la tua Abilità.]"
+  },
+  {
+   "id": "manuscript.write.henavek",
+   "label": "Scrivi un Manoscritto di Henavek",
+   "startdescription": "Conoscenza perseguita attraverso il labirinto della carta, fissata con freccette d’inchiostro. [Questo manoscritto soddisferà l’Interesse Squama e Henavek dei visitatori. Il livello di Abilità determinerà la qualità del manoscritto, ma i libri hanno anch’essi un’anima... usando un inchiostro con aspetto Squama raddoppierai di fatto la tua Abilità.]"
+  }
+ ]
+}

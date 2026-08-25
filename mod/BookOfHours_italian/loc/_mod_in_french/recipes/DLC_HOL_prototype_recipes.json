@@ -1,0 +1,32 @@
+{"recipes": [
+
+
+  {"id":"_cook",
+  "actionid":"library.kitchen.*",
+  "reqs":{"ability":1},
+  "warmup":60,
+  "craftable":true
+},
+{"id":"_manuscript.write",
+"actionid":"library.desk.*",
+  "reqs":{"ability":1,"skill":1,"quire.paper":1,"ink":1,"readable":-1,"perinculate":-1},
+  "effects":{"quire.paper":-1},
+  "craftable":true,
+  "linked":[{"id":"manuscript.soph.improve.*"},
+    {"id":"manuscript.soph.set.*"}],
+    "achievements":["A_WRITE_MANUSCRIPT"],
+  "warmup":60
+  },
+
+  {"id":"_manuscript.soph.set",
+  "mutations":[{"filter":"readable","mutate":"soph","level":"skill","additive":true}],
+  "aspects":{"fatiguing.ability":1,"fatiguing.ingredients":1},
+    "warmup":2},
+
+  {"id":"_manuscript.soph.improve",
+  "mutations":[{"filter":"readable","mutate":"soph","level":"skill","additive":true}],
+  "linked":[{"id":"manuscript.soph.set.*"}],
+  "warmup":2}
+
+]
+}

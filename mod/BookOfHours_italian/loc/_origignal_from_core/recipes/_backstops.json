@@ -1,0 +1,10 @@
+{"recipes": [
+ 
+{"id": "deskhint",
+"label": "At a Desk",
+"actionid": "desk*",
+"startdescription": "At a desk, you can write and decipher documents. Add Ink to write them; add Soul and Skill cards to change your approach.",
+"hintonly":true
+}
+]
+}

@@ -1,0 +1,102 @@
+{
+ "recipes": [
+  {
+   "id": "_salon.pref.rep.block"
+  },
+  {
+   "id": "salon.pref.rep.block.agdistis",
+   "label": "Cibi Preferiti di Agdistis",
+   "startdescription": "Agdistis parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=heart>."
+  },
+  {
+   "id": "salon.pref.rep.block.aladim",
+   "label": "Cibi Preferiti di al-Adim",
+   "startdescription": "al-Adim parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=scale>."
+  },
+  {
+   "id": "salon.pref.rep.block.arthur",
+   "label": "Cibi Preferiti di Arthur Moore",
+   "startdescription": "Arthur Moore parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=lantern>."
+  },
+  {
+   "id": "salon.pref.rep.block.arun",
+   "label": "Cibi Preferiti di Peel",
+   "startdescription": "Peel parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=moon>."
+  },
+  {
+   "id": "salon.pref.rep.block.azita",
+   "label": "Cibi Preferiti di Azita",
+   "startdescription": "Azita parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=edge>."
+  },
+  {
+   "id": "salon.pref.rep.block.chaima",
+   "label": "Cibi Preferiti di Chaima",
+   "startdescription": "Chaima parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=edge>."
+  },
+  {
+   "id": "salon.pref.rep.block.connie",
+   "label": "Cibi Preferiti di Connie",
+   "startdescription": "Connie parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=sky>."
+  },
+  {
+   "id": "salon.pref.rep.block.coquille",
+   "label": "Cibi Preferiti di Coquille",
+   "startdescription": "Coquille parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=grail>."
+  },
+  {
+   "id": "salon.pref.rep.block.corso",
+   "label": "Cibi Preferiti di Corso",
+   "startdescription": "Corso parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=grail>."
+  },
+  {
+   "id": "salon.pref.rep.block.dagmar",
+   "label": "Cibi Preferiti di Daymare",
+   "startdescription": "Daymare parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=knock>."
+  },
+  {
+   "id": "salon.pref.rep.block.douglas",
+   "label": "Cibi Preferiti di Douglas Moore",
+   "startdescription": "Douglas Moore parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=lantern>."
+  },
+  {
+   "id": "salon.pref.rep.block.ehsan",
+   "label": "Cibi Preferiti di Ehsan",
+   "startdescription": "Ehsan parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=moon>."
+  },
+  {
+   "id": "salon.pref.rep.block.fraser",
+   "label": "Cibi Preferiti di Strathcoyne",
+   "startdescription": "Strathcoyne parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=scale>."
+  },
+  {
+   "id": "salon.pref.rep.block.hokobald",
+   "label": "Cibi Preferiti di Hokobald",
+   "startdescription": "Hokobald parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=forge>."
+  },
+  {
+   "id": "salon.pref.rep.block.morgen",
+   "label": "Cibi Preferiti di Morgen",
+   "startdescription": "Morgen parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=sky>."
+  },
+  {
+   "id": "salon.pref.rep.block.olympe",
+   "label": "Cibi Preferiti di Olympe",
+   "startdescription": "Olympe parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=forge>."
+  },
+  {
+   "id": "salon.pref.rep.block.serena",
+   "label": "Cibi Preferiti di Serena",
+   "startdescription": "Serena parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=forge>."
+  },
+  {
+   "id": "salon.pref.rep.block.stanislav",
+   "label": "Cibi Preferiti di Padre Stanislav",
+   "startdescription": "Padre Stanislav parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=heart>."
+  },
+  {
+   "id": "salon.pref.rep.block.zachary",
+   "label": "Cibi Preferiti di Zachary",
+   "startdescription": "Zachary parteciperà soltanto se ci sarà qualcosa da mangiare con <sprite name=winter>."
+  }
+ ]
+}

@@ -1,0 +1,164 @@
+{"recipes": [
+ 
+
+    {"id":"talk.visitor.intercept.tx.agdistis", "reqs":{"agdistis":1,"tx.agdistis":1},"startdescription":"Mr Agdistis has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.aladim","reqs":{"aladim":1,"tx.aladim":1},"startdescription":"Dr Ibn al-Adim has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.arthur","reqs":{"arthur":1,"tx.arthur":1},"startdescription":"Lt Moore has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.arun","reqs":{"arun":1,"tx.arun":1},"startdescription":"Peel has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.auntmopsy","reqs":{"auntmopsy":1,"tx.auntmopsy":1},"startdescription":"Aunt Mopsy has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.azita","reqs":{"azita":1,"tx.azita":1},"startdescription":"Azita has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.chaima","reqs":{"chaima":1,"tx.chaima":1},"startdescription":"Lalla Chaima has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.connie","reqs":{"connie":1,"tx.connie":1},"startdescription":"MCO Lee has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.coquille","reqs":{"coquille":1,"tx.coquille":1},"startdescription":"Princess Coquille has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.corso","reqs":{"corso":1,"tx.corso":1},"startdescription":"Corso has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.dagmar","reqs":{"dagmar":1,"tx.dagmar":1},"startdescription":"Dagmar has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.douglas","reqs":{"douglas":1,"tx.douglas":1},"startdescription":"DI Moore has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.ehsan","reqs":{"ehsan":1,"tx.ehsan":1},"startdescription":"Ehsan has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.franklin","reqs":{"franklin":1,"tx.franklin":1},"startdescription":"Lord Bancroft has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.fraser","reqs":{"fraser":1,"tx.fraser":1},"startdescription":"Fraser has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.hokobald","reqs":{"hokobald":1,"tx.hokobald":1},"startdescription":"Magister Hokobald has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.julian","reqs":{"julian":1,"tx.julian":1},"startdescription":"Coseley has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.morgen","reqs":{"morgen":1,"tx.morgen":1},"startdescription":"Mlle Matutine has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.olympe","reqs":{"olympe":1,"tx.olympe":1},"startdescription":"Olympe has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.rowena","reqs":{"rowena":1,"tx.rowena":1},"startdescription":"Rowena has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.serena","reqs":{"serena":1,"tx.serena":1},"startdescription":"Dr Blackwood has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.stanislav","reqs":{"stanislav":1,"tx.stanislav":1},"startdescription":"Father Schaller has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.yvette","reqs":{"yvette":1,"tx.yvette":1},"startdescription":"Dr Southey has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+    {"id":"talk.visitor.intercept.tx.zachary","reqs":{"zachary":1,"tx.zachary":1},"startdescription":"Wakefield has already consulted this book. [A Visitor can only benefit once from each book; try another.]","label": "Old Material","actionid": "talk","craftable":true,"hintonly":true},
+
+
+
+{"id": "talk.visitor.intercept.hokobald.bighuff",
+"label": "'Is that...?'",
+"actionid": "talk",
+"startdescription": "'I had feared no copies yet remained! There is so much despite in the world - so much needless contumely - so much contempt for hard-earned wisdom - forgive me. I will purchase this treasure from you - if you are prepared to give it up. A gold spintria?' [Hokobald will take the book and depart, forgetting about any current Incident.]",
+"desc": "I have been so very greatly wronged. But I am capable of wreaking wrongs yet greater. My dear Librarian, <i>bon appetit</i>",
+"reqs": {"hokobald":1,"t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme":1},
+"aspects":{"satisfying":1},
+"effects":{"spintria.gold":1,"t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme":-1},
+"craftable":true,
+"warmup":10
+},
+
+{"id": "talk.visitor.intercept.arthur.thesunsdesign",
+"label": "'A very great treasure, Librarian -'",
+"actionid": "talk",
+"startdescription": "'I cannot read this script, Librarian, but I have seen it before, and it was translated to me - by one I held very dear. Long ago, you see, I made my own pilgrimage to the sanctuary of Elagabalus... though in that country they still call him Ilah al-Gabal. May I examine the stone?'  [Moore will examine the book and return it to you. He won't leave until his other business is concluded.]",
+"desc": "'If Death's direction is down, and Eternity's is up, which directions do we assign to Life and to History? It is a frequent topic of discussion, at the Labyrinth. I wonder, sometimes, if my teachers have nothing better to do with all those years of learning... but in the Labyrinth, more than any other place I have been, even Emesa, Sun and Stone and Silence are the first constants.'",
+"reqs": {"arthur":1,"t.thesunsdesign":1},
+"mutations":[{"filter":"readable","mutate":"tx.arthur","level":1,"additive":true}],
+"effects":{"x.auroralcontemplations":1,"occult.scrap":1},
+"craftable":true,
+"warmup":10
+},
+
+{"id": "talk.visitor.intercept.arun.collectedhushhouselectures",
+"label": "'Something, as it were, coming through.'",
+"actionid": "talk",
+"startdescription": "'I forgot I'd written in the Third History. Well well. Can I take a look? I'll keep my gloves on.' [Peel will examine the book and return it to you. He won't leave until his other business is concluded.]",
+"desc": "'You know that Oriflamme's was established in the same year as the Masque of Masques? But not the same history. So it's probably a concidence. Come closer, though, and I'll whisper you a footnote.'",
+"reqs": {"arun":1,"t.collectedhushhouselectures":1},
+"mutations":[{"filter":"readable","mutate":"tx.arun","level":1,"additive":true}],
+"effects":{"wormwood.dream":1},
+"craftable":true,
+"warmup":10
+},
+
+
+{"id": "talk.visitor.intercept.arun.theflayedtantra",
+"label": "'Undiplomatic, Librarian -'",
+"actionid": "talk",
+"reqs": {"arun":1,"t.theflayedtantra":1},
+"startdescription": "'Every one of us still living - we all shed histories as a snake casts its skin. And I cast this history off long ago. I have no wish - no wish at all - to revisit it.'",
+"hintonly":true,
+"craftable":true
+},
+
+
+{"id": "talk.visitor.intercept.arun.theradicalmeasure",
+"label": "'Not to everyone's taste, I know -'",
+"actionid": "talk",
+"reqs": {"arun":1,"t.theradicalmeasure":1},
+"startdescription": "'A prophet is without honour in his own country, as the saying has it; and I'm pretty much from everywhere these days, so I suppose no one will ever really take me seriously again. Mind if I take a look? I can point out a couple of the better bits. And I'll keep my gloves on.' [Peel will examine the book and return it to you. He won't leave until his other business is concluded.]",
+"desc":"'Here. And here. And the editor tried to take <i>that</i> bit out. So I arranged a motivational sort of dream. Worth it.'",
+"mutations":[{"filter":"readable","mutate":"tx.arun","level":1,"additive":true}],
+"effects":{"x.preliminalmeter":1,"horizonsight":1},
+"craftable":true,
+"warmup":10
+},
+
+{"id": "talk.visitor.intercept.arun.theradicalmeasureglossed",
+"label": "'The glossed version?'",
+"actionid": "talk",
+"startdescription": "'I've been trying to get my hands on this edition for quite some time. Once I have it, I can decide if I need to get my hands on young Illopoly. I'll give you a silver spintria for it?' [Peel will take the book, but won't leave until his other business is concluded.]",
+"desc":"'I see. I see. I <i>see</i>. Christopher. Christopher Christopher Christopher...'",
+"reqs": {"arun":1,"t.theradicalmeasureglossed":1},
+"effects":{"spintria.silver":1,"t.theradicalmeasureglossed":-1},
+"craftable":true,
+"warmup":10
+},
+
+{"id": "talk.visitor.intercept.arun.thevictoryofcrowns",
+"label": "'The Victory of Crowns?'",
+"actionid": "talk",
+"startdescription": "'You know, I can never quite remember if that's actually one of mine. Or one of, um, another mine. Do you mind if I take it away with me? I'll swap you the other books I happen to be carrying. No, I won't tell you what those might be. Rocks are no sharper in the dark.' [Peel will take 'Crowns' and give you two books of unpredictable nature and origin. He won't leave until his other business is concluded.]",
+"desc":"'Here you go. And here I go.'",
+"reqs": {"arun":1,"t.thevictoryofcrowns":1},
+"effects": {"t.thevictoryofcrowns":-1},
+"deckeffects":{"d.books.divers":2},
+"craftable":true,
+"warmup":10
+},
+
+
+{"id": "talk.visitor.intercept.auntmopsy.snareofthetreecollectedproverbsofauntmopsy",
+"label": "'Ooh!'",
+"actionid": "talk",
+"startdescription": "'That publisher in Kerisham. I promised her if she did right by me, she'd never see me again. Well, dear, a promise is a promise, but a story is a story. If you let me touch that book, I promise I'll give it back.' [Aunt Mopsy will examine the book and return it to you. She won't leave until her other business is concluded.]'",
+"desc":"'There you are, dear. A little lesson for you. And another little lesson for you later.'",
+"reqs": {"auntmopsy":1,"t.snareofthetreecollectedproverbsofauntmopsy":1},
+"mutations":[{"filter":"readable","mutate":"tx.auntmopsy","level":1,"additive":true},{"filter":"readable","mutate":"contamination.keeperskin","level":1,"additive":true}],
+"effects":{"x.applebrighteuphonies":1},
+"craftable":true,
+"warmup":10
+},
+
+{"id": "talk.visitor.intercept.ehsan.theseadoesnotregret",
+"label": "'Oh my -'",
+"actionid": "talk",
+"startdescription": "'Old memories, Librarian! Some of them - well, some of those memories are better than others. Can I take a look?' [Ehsan will examine the book and return it to you. He won't leave until his other business is concluded.]",
+"desc":"'Does the Sweet Bones still do that starygazy pie...? Perhaps I'll drop in on my way home. Come to think of it, that reminds me of a recipe. You have to hear this -'",
+"mutations":[{"filter":"readable","mutate":"tx.ehsan","level":1,"additive":true}],
+"reqs": {"ehsan":1,"t.theseadoesnotregret":1},
+"effects":{"x.spices.savours":1},
+"craftable":true,
+"warmup":10
+},
+
+{"id": "talk.visitor.intercept.ehsan.fekrisherbary",
+"label": "'Not a bad effort, that one -'",
+"actionid": "talk",
+"startdescription": "'I've learnt a little more lore since then, but I hope you still find it useful. May I take a look?' [Ehsan will examine the book and return it to you. He won't leave until his other business is concluded.]'",
+"desc":"'If there's one thing I wish I'd known back then, it's this...'",
+"mutations":[{"filter":"readable","mutate":"tx.ehsan","level":1,"additive":true}],
+"reqs": {"ehsan":1,"t.fekrisherbary":1},
+"effects":{"x.herbs.infusions":1},
+"craftable":true,
+"warmup":10
+},
+{"id": "talk.visitor.intercept.stanislav.deathsandtheirevasions",
+"label": "'I remember this - '",
+"actionid": "talk",
+"reqs": {"stanislav":1,"t.deathsandtheirevasions":1},
+ "startdescription": "'I'm surprised that it's found its way here... but that's Hush House, I suppose. May I refresh my memory? I remember that I wrote about the Galmier business - not as cautiously as I might have...' [Stanislav will examine the book and return it to you. He won't leave until his other business is concluded.]",
+"desc":"'That law I will not name aloud - the law of the three - it can be defied. It is rarely wise to attempt that defiance. The penalty of failure is paid by one - but the penalty of success, by many. I would ask you, Librarian, to remember that, when you decide how to address yourself to Eternity. But I already have faith in your judgement. Thank you for the loan of the book.'",
+"mutations":[{"filter":"readable","mutate":"tx.stanislav","level":1,"additive":true}],
+"effects":{"x.edictsliminal":1},
+"craftable":true,
+"warmup":10
+}
+
+
+
+]
+}

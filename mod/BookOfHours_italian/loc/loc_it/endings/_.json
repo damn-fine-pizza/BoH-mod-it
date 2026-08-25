@@ -1,0 +1,499 @@
+{
+ "endings": [
+  {
+   "id": "end.h.sky.oldl.symurgist",
+   "label": "Vittoria del Simurgista: Canti a Noon",
+   "Desc": "<i>I miei canti mi attendono. Quella vecchia musica perduta attirerà gli Uccelli, i Nomi, gli architetti e gli adepti a Noon attraverso il mare della sera. </i>\n\nAttraverso il mare della sera fino a Noon – per tanto tempo una città di Lunghi, e ora una città di canto. Ogni giorno le torri d’avorio si innalzano un poco di più. «Noon, si dice, non è più quella di una volta.» Ma ora sentiamo nel vento ciò che Noon potrebbe diventare. Ho trovato quella vecchia musica perduta… e le Ore del Roost ne raccolgono il ritornello.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.sky.oldl.magnate",
+   "label": "Vittoria del Magnate: Pace a Noon",
+   "Desc": "<i>Ho trovato la mia pace. Quella vecchia musica perduta attirerà gli Uccelli, i Nomi, gli architetti e gli adepti a Noon attraverso il mare della sera. </i>\n\nPort Noon, attraverso il mare della sera. È stato a lungo un luogo per i Lunghi, e ora è qualcosa di più. Ogni giorno arrivano altri di noi. Le onde prendono il nostro nome come un tempo faceva la fontana. Le torri sorgono giorno dopo giorno. Qui, all’ombra della Città, ci sarà pace.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.sky.oldl",
+   "label": "I Venti di Noon",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Quella vecchia musica perduta attirerà gli Uccelli, i Nomi, gli architetti e gli adepti a Noon attraverso il mare della sera. </i>\n\n«Noon, si dice, non è più quello di una volta.» Ma Noon, con le sue torri d’avorio, le sue ruote di ferro splendente, sta diventando qualcosa di più.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.sky.unde.magnate",
+   "label": "Vittoria del Magnate: Silenzio a Noon",
+   "Desc": "<i>Ho trovato la mia pace. Questa sarà l’ultima città sulla Terra. Quando svanirà, svanirà anche il mondo.</i>\n\n«Le case sono bianche e le colline sono verdi e l’aria è dorata e il mare non si ferma mai su un solo colore….» Questo è ancora vero. Ma tutti i colori sbiadiscono. Le torri d’avorio si innalzeranno sempre di più, giorno dopo giorno. Un giorno saranno complete. Fino ad allora, conoscerò la pace; e quando saranno complete, non avrà più importanza.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.sky.unde",
+   "label": "L’Ultima Città, Noon",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Questa sarà l’ultima città sulla Terra. Quando svanirà, svanirà anche il mondo.</i>\n\nAttraverso il mare della sera. Da quando la Sorgente del Testimone sgorgò dalla terra, Port Noon è stata un luogo per coloro che sfidano le fini. Ora, mentre le torri d’avorio sorgono, è un luogo per chi le accetta. Alla fine, saremo tutti noi.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.sky.bala.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Rivoluzioni a Noon",
+   "Desc": "<i>Ecco le scintille della rivoluzione. Quando le stirpi del Carapace torneranno, torneranno a Noon. </i>\n\nAttraverso il mare della sera. Il giorno in cui giunse la Croce, il cielo sopra Port Noon si oscurò di ali di ritorno, e il mare ribolliva delle loro forme. Ai residenti ci volle un po’ per farsene una ragione. Ma Noon è sempre stato un luogo fuori dal dominio delle Ore, prima di tutto; mentre le guglie del Carapace, di corno e avorio, sorgono sopra la nuova Città, può diventare un luogo di sfida.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.sky.bala.executioner",
+   "label": "Vittoria del Boia: Santuario a Noon",
+   "Desc": "<i>Li riporteremo indietro. E quando le stirpi del Carapace torneranno, torneranno a Noon. </i>\n\nAttraverso il mare della sera. Il giorno in cui giunse la Croce, il cielo sopra Port Noon si oscurò di ali di ritorno, e il mare ribolliva delle loro forme. Ai residenti ci volle un po’ per farsene una ragione. Ma Noon è sempre stata, prima di tutto, un santuario; e ora, mentre le guglie del Carapace, di corno e avorio, sorgono sopra la nuova Città, è un santuario anche per loro.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.sky.bala",
+   "label": "Avvento a Noon",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Quando le stirpi del Carapace torneranno, torneranno a Noon. </i>\n\nAttraverso il mare della sera. Il giorno in cui giunse la Croce, il cielo sopra Port Noon si oscurò di ali di ritorno, e il mare ribolliva delle loro forme. Ora, mentre le guglie del Carapace, di corno e avorio, sorgono sopra la nuova Città, Noon è diversa; nel bene o nel male, ma non per sempre.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moth.thre.revolutionary",
+   "label": "Vittoria del Rivoluzionario: La Rivoluzione nel Cuore",
+   "Desc": "<i>La città della nostra rivoluzione sorgerà solo nei cuori mortali, dove la Calyptra non può toccarla.</i>\n\nSiamo cittadini di una repubblica che non vedremo mai. Le nostre mura sono di carta e i nostri fiumi sono soltanto inchiostro. Ma siamo i figli della Storia. Che l’Eternità tremi!\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moth.thre",
+   "label": "La Repubblica della Solitudine",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. La Città tanto a lungo sognata non sarà mai costruita, e così la Calyptra non può nascondercela.</i>\n\nTutti noi che cerchiamo segreti viviamo nella solitudine. La nostra unica casa è una città che non vedremo mai. Ma nell’Eternità o nella Storia, ne siamo comunque cittadini.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moth.loop.twiceborn",
+   "label": "Vittoria del Rinato: Il Santuario Mai",
+   "Desc": "<i>Ho trovato un luogo sicuro, in una città che non sarà mai costruita – una fortezza di paradosso.</i>\n\nDi giorno cammino nel mondo, di notte nel Mansus, ma ovunque vada, cammino per le strade della Città Mai. Sono servo delle sue leggi, suddito del suo trono senza re. Le leggi altrui non possono toccarmi; e non sono solo.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moth.loop",
+   "label": "Una Città Costruita sul Paradosso",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. La Città tanto a lungo sognata sarà al sicuro fuori dall’esistenza, preservata dal paradosso.</i>\n\nLa Città Mai è fondata sulle rocce del paradosso; le sue mura sono di carta; i suoi fiumi sono d’inchiostro. Sono servo delle leggi della Città Mai, suddito del suo trono senza re; e non sono solo.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moth.desc.executioner",
+   "label": "Vittoria del Boia: Una Città di Ombre",
+   "Desc": "<i>La luce del Sole non può scacciare le ultime ombre amiche. Saranno al sicuro dall’Eternità in una città che non sarà mai costruita.</i>\n\nTutto ciò che accade deve dimorare nella Storia; tutto ciò che dimora nella Storia, un giorno, sbiadirà nella luce dell’Eternità. Ma anche la luce dell’Eternità proietta ombre – e quelle ombre segnano i confini della nostra casa paradossale e penombrosa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moth.desc",
+   "label": "Una Città Fuori dall’Eternità",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. La Città tanto a lungo sognata non sarà mai costruita; il Sole non la toccherà; l’Eternità non potrà prenderla.</i>\n\nTutto ciò che accade deve dimorare nella Storia; tutto ciò che dimora nella Storia, un giorno, sbiadirà nella luce dell’Eternità. Ma anche la luce dell’Eternità proietta ombre; e in quel santuario penombroso, noi che siamo cittadini del Mai troveremo la nostra casa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.bell.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Quando le Ore Tremano",
+   "Desc": "<i>Ys sarà la Città che abbiamo sognato. Al suono delle sue campane, la Calyptra tremerà.</i>\n\nNon avrei mai pensato che saremmo passati oltre l’onda fino a Ys – mai pensato che avremmo camminato sui suoi ciottoli splendenti d’ambra e respirato le sue acque dorate – mai pensato che avremmo visto le manifatture di oricalco sorgere, giorno dopo giorno, verso il disegno finale della Città. E non avrei mai pensato che vi avrei sollevato un esercito contro il mondo che conosco. Ma la tirannia dell’Eternità deve finire; la Calyptra deve cadere.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.bell.prodigal",
+   "label": "Vittoria del Prodigo: Sotto la Mano di Ys",
+   "Desc": "<i>Ys sarà la Città che abbiamo sognato – e le sue campane mi proteggeranno da ciò che segue.</i>\n\nNon avrei mai pensato che saremmo passati oltre l’onda fino a Ys – mai pensato che avremmo camminato sui suoi ciottoli splendenti d’ambra e respirato le sue acque dorate – mai pensato che avremmo visto i santuari di oricalco sorgere, giorno dopo giorno, verso il futuro. Ys non è gentile. Ma è sicura; e sarà casa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.bell",
+   "label": "Campane Oltre l’Onda",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Ys sarà la Città che abbiamo sognato, e le sue campane torneranno a risuonare attraverso i mari.</i>\n\nNon avrei mai pensato che saremmo passati oltre l’onda fino a Ys – mai pensato che avremmo camminato sui suoi ciottoli splendenti d’ambra e respirato le sue acque dorate – mai pensato che avremmo visto le fortezze di oricalco sorgere, giorno dopo giorno, per diventare qualcosa di più di una Città. Ma il mondo sta cambiando, e quando saremo cambiati abbastanza, questa sarà la nostra casa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.oldl.magnate",
+   "label": "Vittoria del Magnate: Pace Oltre l’Onda",
+   "Desc": "<i>Seguirò quei canti fino a Ys oltre l’onda… e lì troverò la mia pace.</i>\n\nYs, con la sua luce sempre mutevole e i suoi ciottoli splendenti d’ambra, con i suoi canali di corallo e i suoi templi di ghiaccio. È così lontana da ciò che conoscevamo. Ma alla sera, quando le campane di Ys tacciono, qui c’è pace.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.oldl.symurgist",
+   "label": "Vittoria del Simurgista: I Canti di Ys",
+   "Desc": "<i>Ys sarà la Città che abbiamo sognato, dove le campane faranno risuonare quella vecchia musica perduta. Tutto ciò che dobbiamo fare è seguire i canti.</i>\n\nYs, con la sua luce sempre mutevole e i suoi ciottoli splendenti d’ambra, con i suoi canali di corallo e i suoi templi di ghiaccio… ne parliamo come di una città, ma Ys non ha mura, e quindi non è una città. Non ancora. Con le campane di Ys, costruiremo quelle mura di canto; e dimorerò in quella musica che ho tanto desiderato.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.oldl",
+   "label": "Ys Oltre l’Onda",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Ys sarà la Città che abbiamo sognato.</i>\n\nYs, con la sua luce sempre mutevole e i suoi ciottoli splendenti d’ambra, con i suoi canali di corallo e i suoi templi di ghiaccio… ne parliamo come di una città, ma Ys non ha mura, e quindi non è una città. Non ancora. Costruiremo quelle mura di canto.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.unde.magnate",
+   "label": "Vittoria del Magnate: Pace, Finalmente",
+   "Desc": "<i>Ys oltre l’onda sarà l’ultima città sulla terra… e lì troverò la mia pace.</i>\n\nYs, con la sua luce sempre mutevole e i suoi ciottoli splendenti d’ambra, con i suoi canali di corallo e i suoi templi di ghiaccio. Quando avremo costruito le mura di Ys, sarà finalmente una città. Anzi, sarà l’ultima città. In quel lungo declino verso la sera, conoscerò la pace.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.rose.unde",
+   "label": "Finalmente, Ys",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Ys oltre l’onda sarà la città delle conclusioni, dove tutti i fili si risolvono.</i>\n\nYs, con la sua luce sempre mutevole e i suoi ciottoli splendenti d’ambra, con i suoi canali di corallo e i suoi templi di ghiaccio. Quando avremo costruito le mura di Ys, sarà finalmente una città. Anzi, sarà la Città delle Conclusioni: il luogo in cui tutti i fili della Storia infine si risolvono in uno solo.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moon.secr.twiceborn",
+   "label": "Vittoria del Rinato: Un Santuario Ombroso",
+   "Desc": "<i>Una mano nell’oscurità, l’altra nella luce. In questa Storia, la Città sorgerà nella Casa della Luna, il luogo dietro il Mansus… e lì, finalmente, sarò al sicuro.</i>\n\nCome dentro; così fuori. Brancrug, un tempo la roccia grigia nel mare dove la Croce incontrò per la prima volta la Selce; ora il surrogato di selce della Città di zaffiro nero che sorgerà senza fine nella notte, nell’altro-luogo che chiamiamo la Casa della Luna. Lì troverò accoglienza, e lì sarò al sicuro.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moon.secr",
+   "label": "Finisce al Chiaro di Luna",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Una mano nell’oscurità; l’altra nella luce. La Città sorgerà nella Casa della Luna, il luogo dietro il Mansus.</i>\n\nCome dentro; così fuori. Brancrug, un tempo la roccia grigia nel mare dove la Croce incontrò per la prima volta la Selce; ora il surrogato di selce della Città di zaffiro nero che sorgerà senza fine nella notte, nell’altro-luogo che chiamiamo la Casa della Luna. Nessuno inciderà il mio nome sopra la porta; ma custodirò la conoscenza come un gioiello sotto la lingua.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moon.loop.twiceborn",
+   "label": "Vittoria del Rinato: Verso il Santuario",
+   "Desc": "<i>Le vie che erano chiuse si apriranno. La Città sorgerà nella Casa della Luna, il luogo dietro il Mansus… e lì, finalmente, sarò al sicuro.</i>\n\nAttraverso le Scappatoie passeranno i cittadini, per innalzare una città di zaffiro nero dove la Ruota gira ancora nella casa della Luna. Nessuno vedrà mai il luogo a occhi aperti, ma lì dimorerò fra il sonno e la vita, e lì, finalmente, sarò al sicuro.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moon.loop",
+   "label": "Una Città al Chiaro di Luna",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera – e in questa Storia, la Città sorgerà nella Casa della Luna, il luogo dietro il Mansus.</i>\n\nAttraverso le Scappatoie passeranno i cittadini, per innalzare una città di zaffiro nero dove la Ruota gira ancora nella casa della Luna. Nessuno vedrà mai il luogo a occhi aperti, e nessuno inciderà il mio nome sopra la porta. Ma custodirò la conoscenza come un gioiello sotto la lingua.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moon.worl.symurgist",
+   "label": "Vittoria del Simurgista: I Canti della Casa della Luna",
+   "Desc": "<i>Lo schema è finalmente chiaro. Troverò i miei canti nella Città quando sorgerà nella Casa della Luna – il luogo dietro il Mansus.</i>\n\nArgento, la lingua della Luna. Argento, il sangue della strada. Le note del canto degli uccelli, splendenti come zaffiro nero… questa è la Città nell’ombra del mondo, e qui daremo il benvenuto alle Ore aviformi, per innalzare il loro canto sotto la Ruota che gira.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moon.worl.cartographer",
+   "label": "Vittoria del Cartografo: Il Mozzo della Ruota",
+   "Desc": "<i>Seguirò tutte le strade verso casa, verso la Città che sorgerà nella Casa della Luna, il gemello ombra del Mansus… dove tutto il Mansus sarà esposto davanti a me.</i>\n\nI sentieri del Mansus si incrociano come fili e si incontrano come sconosciuti bene accetti. Qui al loro incrocio, al mozzo della Ruota che ancora gira sotto la Luna invisibile, una città di zaffiro nero sorgerà; e finalmente, nella stanza più alta della sua torre più alta, completerò la mia mappa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.moon.worl",
+   "label": "Casa sotto la Luna",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera.</i>\n\nI sentieri del Mansus si incrociano come fili e si incontrano come sconosciuti benvenuti. Qui, al loro nesso, al mozzo della Ruota che ancora gira sotto la Luna invisibile, gli architetti del sogno e i cittadini del canto si raduneranno dietro il mondo; ed erigeranno una città di zaffiro nero, dove tutte le nostre arti troveranno la loro fine.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.grail.feas.artist",
+   "label": "Vittoria dell’Artista: L’Arte del Banchetto",
+   "Desc": "<i>Questo è il sapore, e questo è il banchetto! I Dèi-dalla-Pietra nutriranno tanto le Ore quanto i mortali.</i>\n\nOgni banchetto finisce. Quando accadrà, alcune Ore si pentiranno di ciò che abbiamo fatto. Alcune piangeranno. Alcune si leccheranno le labbra chiedendosi quali colori troverebbero, l’una dentro l’altra. Questo – questo! – è il mio lascito.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.grail.feas",
+   "label": "Un Dono di Pietre",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Tanto le Ore quanto i mortali banchetteranno con le ultime tracce dei Dèi-dalla-Pietra.</i>\n\n«Ci spezzeremo i denti per spezzare le loro pietre. Scalderemo i nostri fuochi per bollire le loro ossa. Le loro costole splendenti inarcheranno il cielo; finché <i>nel fuoco non voleremo.</i>»\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.grail.alte.artist",
+   "label": "Vittoria dell’Artista: Il Primo Combustibile",
+   "Desc": "<i>Ciò che possiamo fare, dobbiamo farlo! E ciò che dobbiamo fare scalderà e illuminerà le sale dell’Eternità… con le ultime tracce dei Dèi-dalla-Pietra.</i>\n\nDalla pietra spremeremo diamanti pronti a scoppiare! Dall’osso scioglieremo la luce più colante! Dall’oscurità, i colori più furiosi! Una montagna di luci, una montagna di doni, un banchetto per scaldare l’ultima età del mondo!\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.grail.alte.archaeologist",
+   "label": "Vittoria dell’Archeologo: Primi a Tavola",
+   "Desc": "<i>Chi ero? Non ne avrò mai piena certezza, ma so cosa sarò: la prima presenza al banchetto, quando i Dèi-dalla-Pietra saranno finalmente consumati.</i>\n\nI gatti si intrecciano alle mie spalle, i topi mi avvolgono i polsi. La tavola cinge il mondo e le Ore siedono al suo capo. Mi acquatto sotto, come lo sciacallo che sono, ma gli dèi sanguinari mi favoriscono – mi nutro di ombre pelose – sono la prima presenza al banchetto.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.grail.alte",
+   "label": "Autunno-Venuto-Presto",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera, e ho registrato che con l’applicazione di questo terribile Numen, le ultime tracce dei Dèi-dalla-Pietra saranno consumate.</i>\n\nSono le Ore a banchettare, e i Nomi a servirle. Nessun mortale è invitato; pochi mortali lo sapranno mai. Ma i bocconi e le briciole di ciò che fu cadono attraverso le crepe nel sogno… e tutti i nostri sogni sono caldi e fecondi. Un autunno maturo per il mondo. Un cielo mite, una nebbia dolce e fumosa…\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.grail.desc.executioner",
+   "label": "Vittoria del Boia: La Cicatrice e il Sapore",
+   "Desc": "<i>Quel che è fatto è fatto. Avevo pensato di riparare a ciò che avevo distrutto, ma ora scelgo altrimenti. Cancellerò le ultime tracce di ciò che restava. Saranno al sicuro dall’Eternità. Io no. Questa è la mia punizione e la mia penitenza.</i>\n\n«Siamo coloro che non sognano sogni – cantori del giorno che sorge…» Così diceva il poeta-console, e ora sono io il console del Giorno. Le cicatrici del Sole lo terranno lontano dal banchetto, ma le Ore spolperanno le ossa della Pietra. I miei crimini saranno cancellati... Oppure consumati.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.grail.desc",
+   "label": "Il Vecchio e il Nuovo",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Le Ore più avide approfitteranno della debolezza del Sole. Divoreranno le ultime tracce dei Dèi-dalla-Pietra, e il vecchio mondo nutrirà il nuovo.</i>\n\nSono le Ore a banchettare (tutte tranne il Sole, tutte tranne i dèi-dalla-Luce) e i Nomi a servirle. Nessun mortale è invitato; pochi mortali lo sapranno mai. Ma i bocconi e le briciole di ciò che fu cadono attraverso le crepe nel sogno… e tutti i nostri sogni sono caldi e fecondi. Un autunno maturo per il mondo. Un cielo mite, una nebbia dolce e fumosa…\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.worl.symurgist",
+   "label": "Vittoria del Simurgista: Sorella di Echi",
+   "Desc": "<i>Lo schema è finalmente chiaro. I Dèi-dalla-Pietra prestarono i loro canti al Roost; e ora quei canti si udranno di nuovo.</i>\n\nI battiti di membrana della Ruota; i gridi di sfaccettatura della Selce; i rintocchi di campana dell’Uovo Ambrato. Li credevamo perduti nel silenzio, ma né parola né canto sono mai del tutto perduti, se non per l’Eternità. Questa è la memoria che non è morta.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.worl.cartographer",
+   "label": "Vittoria del Cartografo: Madre di Echi",
+   "Desc": "<i>Vedo ora lo schema. Guscio e Ascia e Pietra si attardano in ogni giro del Mansus. Saranno ricordati.</i>\n\nI Dèi-che-erano-Pietra camminavano nel Mansus molto prima delle Ore di Luce, e raramente si preoccupavano degli occhi. I loro canti entrarono nelle vie prima di loro come messaggeri; il Mansus rispose con echi. Lei diede loro la loro mappa prima che il primo occhio fosse aperto, il primo inchiostro macinato. Sarà vecchia di un eone o tre... ma mi darà quello che mi serve.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.worl",
+   "label": "Figlia degli Echi",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Fin dal principio, da Ascia e Guscio e Pietra, lo schema era chiaro, e ora quello schema preserverà il passato dall’Eternità.</i>\n\nIn un’altra epoca, Brancrug era la roccia grigia nel mare, il punto d’appoggio dove la Croce incontrò la Selce. La Selce non c’è più; ma le sue sfaccettature echeggiarono, ciascuna, in una Stella separata. Cammina lungo le onde nella Baia di Brancrug. Guarda il cielo notturno. Cerca la Selce.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.bala.executioner",
+   "label": "Vittoria del Boia: Il Tuono della Penitenza",
+   "Desc": "<i>Le stirpi erranti del Carapace torneranno, dall’altro lato dell’onda e del cielo; e quando le Ore perdute saranno ricordate, la mia espiazione sarà completa.</i>\n\nQuando le stirpi del Carapace partirono, nella terra e nella carne, nell’onda e nel cielo, portarono con sé le memorie delle Ore perdute. Ora, sono stati compiuti i passi opportuni per il loro ritorno. Lo so perché sento i loro tuoni; lo so perché ho iniziato a desiderare la pioggia.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.bala.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Il Fuoco nelle Nuvole",
+   "Desc": "<i>Le stirpi erranti del Carapace torneranno dall’altro lato dell’onda e del cielo, le Ore perdute saranno nominate e cantate: una sfida irresistibile in faccia alla Calyptra!</i>\n\nQuando le stirpi del Carapace partirono, nella terra e nella carne, nell’onda e nel cielo, portarono con sé le memorie delle Ore perdute. Ora, sono stati compiuti i passi opportuni per il loro ritorno. Lo so perché vedo i loro fuochi nel cielo; lo so perché sento la rivoluzione nella mia carne.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.bala",
+   "label": "Un Canto di Ali",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera: e in questa Storia, le stirpi erranti del Carapace torneranno dall’altro lato dell’onda e del cielo, e canteranno inni alle Ore che furono perdute.</i>\n\nQuando le stirpi del Carapace partirono, nella terra e nella carne, nell’onda e nel cielo, portarono con sé le memorie delle Ore perdute. Ora, sono stati compiuti i passi opportuni per il loro ritorno. Lo so perché il cielo comincia finalmente a scurirsi delle loro ali; lo so perché nelle mie ossa sento il ronzio dei loro inni rapiti.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.thre.revolutionary",
+   "label": "Vittoria del Rivoluzionario: La Prima Sfida",
+   "Desc": "<i>La debolezza della Calyptra diventerà manifesta; e i Dèi-che-erano-Pietra saranno nominati sotto il cielo. Questa sarà la prima sfida.</i>\n\nNegli ultimi giorni dei Dèi-dalla-Pietra, fu piantato il seme dell’Albero del Guardiano. La Calyptra preserverà l’albero, ma non può sradicare un secondo germoglio. Lo pianterò sulla spiaggia sotto l’orizzonte chiuso; lo innaffierò con sangue salato e sacramento salato; e la memoria dei Dèi-dalla-Pietra fiorirà sulla sua pelle ferita. In tempi tranquilli, sarà un rifugio, e in altri tempi, forse un albero della forca.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.heart.thre",
+   "label": "Il Fondamento degli Enigmi",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. In essa, la debolezza della Calyptra diventerà manifesta; e i Dèi-che-erano-Pietra saranno nominati sotto il cielo.</i>\n\nNegli ultimi giorni dei Dèi-dalla-Pietra, fu piantato il seme dell’Albero del Guardiano. La Calyptra preserverà l’albero, ma non può sradicare un secondo germoglio. Lo pianterò sulla spiaggia sotto l’orizzonte chiuso; lo innaffierò con sangue salato e sacramento salato; e la memoria dei Dèi-dalla-Pietra fiorirà sulla sua pelle ferita.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.conf.prodigal",
+   "label": "Vittoria del Prodigo: Una Gabbia di Ghiaccio",
+   "Desc": "<i>In questa Storia, una prigione si aprirà per una certa Ora di luce… e per i servitori dell’Ora che mi danno la caccia. Che i Dèi-dalla-Pietra si prendano la loro vendetta. La mia sicurezza è garantita.</i>\n\nQuesta è la cella che il Guardiano costruì nelle regioni più meridionali del mondo, dove il mare si fa duro come corno e il tramonto pallido come neve. Quando verrà il tramonto, sarà la sua cella. Ha sempre saputo che avrebbe potuto restare intrappolato nel ghiaccio, e quando le acque si alzeranno, sarà libero... ma quando le acque si alzeranno, l’Uovo si incrinerà. Nessuno di coloro che servono il Sole, quel giorno, starà cercando me. Saranno tutti impegnati a cercare l’ultimo posto dove nascondersi.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.conf.archaeologist",
+   "label": "Vittoria dell’Archeologo: Una Gabbia di Vetro",
+   "Desc": "<i>In questa Storia, una prigione si aprirà per una certa Ora d’inverno… e per la corruzione che cammina al mio fianco. Che i Dèi-dalla-Pietra si prendano la loro vendetta. Il mondo sarà al sicuro dalla mia ombra.</i>\n\nQuesta è la cella che il Sole-in-Stracci costruì nelle regioni più meridionali del mondo, dove il mare si fa duro come corno e il tramonto pallido come specchi. Quando verrà il tramonto, sarà la sua cella. Ha sempre saputo che avrebbe potuto restare intrappolato nel vetro, e quando la terra si contorcerà, sarà libero... ma quando la terra si contorcerà, sarà la collera imminente dell’Ora che chiamiamo Selce. In quel giorno, chi cammina al mio fianco cercherà la sicurezza della cella. Chiunque io sia.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.conf",
+   "label": "Una Gabbia di Cicatrici",
+   "Desc": "<i>In questa Storia, una prigione si aprirà per una certa antica Ora di potenza, e gli antichi patti saranno infranti. Che i Dèi-dalla-Pietra si prendano la loro vendetta.</i>\n\nQuesta è la cella che il Colonnello costruì nelle regioni più meridionali del mondo, dove il mare si ricopre di croste e il tramonto sbiadisce nel colore di una fasciatura fresca. Quando verrà il tramonto, sarà la sua cella. Ha sempre saputo che avrebbe potuto restare intrappolato nelle cicatrici, e quando la pelle del mondo sarà guarita, sarà libero... ma quando la pelle del mondo sarà guarita, lo sarà anche l’Ora chiamata Sette-Spire... e i figli dei suoi figli udranno le sue urla.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.loop.twiceborn",
+   "label": "Vittoria del Rinato: La Coscienza del Sangue",
+   "Desc": "<i>In questa Storia, le vecchie eccezioni prenderanno vita... e i Dèi-dalla-Pietra passeranno attraverso le Scappatoie per prendersi la loro vendetta. In quel nuovo ordine, troverò la mia «terza scelta».</i>\n\nIl Chancel stabilì che la Ruota non è un’Ora; che potrebbe girare solo nella Casa della Luna. Ma la Meniscate favorisce la Casa della Luna; l’Ascia Cornuta obbedisce all’Eccezione Sanguigna; e la Sorella-e-Strega non divide ciò che dovrebbe restare insieme. Così la Ruota è tornata nel mondo di veglia, e il sangue scorrerà sotto i suoi giri. La sicurezza ha sempre un prezzo, per sé stessi o per gli altri, e questo è il prezzo che ho deciso che pagheranno.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.loop",
+   "label": "L’Eccezione Sanguigna",
+   "Desc": "<i>In questa Storia, le vecchie eccezioni prenderanno vita... e i Dèi-dalla-Pietra passeranno attraverso le Scappatoie per prendersi la loro vendetta.</i>\n\nIl Chancel stabilì che la Ruota non è un’Ora; che potrebbe girare solo nella Casa della Luna. Ma la Meniscate favorisce la Casa della Luna; l’Ascia Cornuta obbedisce all’Eccezione Sanguigna; e la Sorella-e-Strega non divide ciò che dovrebbe restare insieme. Così la Ruota è tornata nel mondo di veglia, e il sangue scorrerà sotto i suoi giri.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.asce.cartographer",
+   "label": "Vittoria del Cartografo: Una Mappa di Luci",
+   "Desc": "<i>Il Sole ha creato i suoi Sentieri… e li ha vietati ai mortali finché non siamo pronti. Ma in questa Storia, i Dèi-dalla-Pietra useranno quei Sentieri per tornare – e i Sentieri del Sole si apriranno per noi.</i>\n\nLa Ruota nella Casa della Luna, la Selce nelle memorie del cielo, il Sette-Spire nei suoi figli… i Sentieri del Sole, nell’arroganza del Sole, toccarono tutti questi luoghi. Lungo questi sentieri, l’ira degli dèi dimenticati scorrerà, come un fiume, come il palpitare del cuore. Lungo tutti quei sentieri la Selce appenderà le sue Stelle-sfaccettatura come mappe... e nella loro luce, finalmente, traccerò la mappa del Mansus.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.asce.twiceborn",
+   "label": "Vittoria del Rinato: Una Strada di Ossa",
+   "Desc": "<i>Il Sole ha creato i suoi Sentieri… saggiamente e insensatamente. In questa Storia, altri li percorreranno. I Dèi-dalla-Pietra torneranno per la loro vendetta. In quel nuovo ordine, troverò la mia «terza scelta».</i>\n\nLa Ruota nella Casa della Luna, la Selce nelle memorie del cielo, il Sette-Spire nei suoi figli… i Sentieri del Sole, nell’arroganza del Sole, toccarono tutti questi luoghi. Lungo questi sentieri, l’ira degli dèi dimenticati scorrerà, come un fiume, come il palpitare del cuore. Faranno dei sentieri un labirinto di ossa leggiadre... e lì dimorerò, né nella Casa né parte di essa, né in vita né in morte, né del tutto nella Storia né interamente nell’Eternità.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.knock.asce",
+   "label": "Una Crociata di Pietre",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera, e in essa i Sentieri del Sole si apriranno ai nessun luogo, agli altrove, agli ovunque da cui tornano i Dèi-dalla-Pietra.</i>\n\nLa Ruota nella Casa della Luna, la Selce nelle memorie del cielo, il Sette-Spire nei suoi figli… i Sentieri del Sole, nell’arroganza del Sole, toccarono tutti questi luoghi. Lungo questi sentieri, l’ira degli dèi dimenticati scorrerà, come un fiume, come il palpitare del cuore.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.nectar.feas.artist",
+   "label": "Vittoria dell’Artista: L’Arte nel Cuore",
+   "Desc": "<i>Tutto sarà sontuoso. In chiesa e camera, in strada e cielo, tutti noi consumeremo le ultime tracce dei Dèi-dalla-Pietra… e in noi risorgeranno.</i>\n\nLe uova della Ruota saranno ricche e succulente; i frutti della Marea, maturi e succosi; i generati della Spira, spero, non troppo guizzanti. Coloro di noi che Conoscono li prenderanno nei nostri sogni… e poi? Ha importanza? Ha importanza, finché ricordano il loro Ospite?\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.nectar.feas",
+   "label": "Gli Dèi nel Cuore",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. Le ultime tracce dei Dèi-dalla-Pietra saranno consumate… e quelle tracce cresceranno dentro chi se ne sarà nutrito, finché non saranno finalmente rinate.</i>\n\nUova della Ruota, Frutti della Marea, Generati della Spira; tutto ciò che gli invitati selezionati sapranno raccogliere. Un’occasione gioiosa, per chi mangia e per chi è mangiato. E in seguito, quando ci arrenderemo alle nostre nature più antiche, la notte più magnifica.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.nectar.worl.symurgist",
+   "label": "Vittoria del Simurgista: L’Arazzo dei Serpenti",
+   "Desc": "<i>Le radici affondano in profondità. I nodi restano. I Dèi-dalla-Pietra rinasceranno; e i canti che insegnarono alle Ore del Roost risuoneranno di nuovo nel mondo.</i>\n\nSette-Spire: madre di mostri, regina squamata… prima tessitrice? Prima dell’uccello, il serpente; prima della piuma, la squama; prima del nodo, il nido. In ogni Generato della Spira, un granello di lei rimane; quando completeranno la loro matrice, conosceremo il suo Canto.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.nectar.worl.cartographer",
+   "label": "Vittoria del Cartografo: L’Arazzo dei Percorsi",
+   "Desc": "<i>Lo schema resta. I Dèi-dalla-Pietra hanno lasciato le loro tracce in ogni corridoio del Mansus…</i>\n\nSacrifica i capelli; sacrifica la storia. Sciogli un nodo; spezza un testamento. I passaggi del Mansus sono un labirinto, e ogni labirinto è la propria risposta. Al cuore del labirinto attende un dio antico-nuovo. Se seguo il suo richiamo… se traccio i miei percorsi sulla pelle e sulla carta... avrò la mia mappa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.nectar.worl",
+   "label": "L’Arazzo Eterno",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera. In questa Storia, i Dèi-dalla-Pietra rinasceranno dallo schema che persiste.</i>\n\nTrovali negli angoli, trovali nelle storie, trovali ai margini del cielo. Piccoli miracoli come vipere stellate, come anemoni spinosi, come nidi di seta. Tutto un unico pezzo, e tutto rinnovato, ben al di sotto dell’attenzione delle Ore. Ma i colori tornano sulla terra ocra.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.nectar.secr.twiceborn",
+   "label": "Vittoria del Rinato: Le Vie e i Mezzi",
+   "Desc": "<i>C’è sempre un compromesso. In questa Storia, quel compromesso abbraccerà i Dèi-che-erano-Pietra… e avrò la mia «terza scelta».</i>\n\nPuò un serpente schiudersi da una cicatrice? Possono le ali girare come ruote? Può il mare bere il Graal? Sono questi dèi antichi o nuovi? Col tempo, le Ore decideranno, come fanno sempre; ma finché quell’ordine non sarà ristabilito, il loro sconcerto non ancora intrecciato mi terrà al sicuro.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.nectar.secr",
+   "label": "Sufficiente",
+   "Desc": "<i>C’è sempre un compromesso. In questa Storia – la mia ultima e più grande opera – quel compromesso abbraccerà i Dèi-che-erano-Pietra…</i>\n\nPuò un serpente schiudersi da una cicatrice? Possono le ali girare come ruote? Può il mare bere il Graal? Sono questi dèi antichi o nuovi? Col tempo, le Ore decideranno, intrecciando di nuovo le Storie verso l’Eternità; ma in questa Storia, quegli dèi che furono perduti resteranno.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.asce.cartographer",
+   "label": "Vittoria del Cartografo: Risoluzione",
+   "Desc": "<i>In questa Storia, nuove Ore sorgeranno a illuminare i Sentieri del Sole… e le vie del Mansus si risolveranno in perfetta chiarezza.</i>\n\nI sentieri del Mansus pulsano di luce. Ogni specchio è un occhio. Il mondo si risveglia… ma tutto questo non è nulla, per me. Il Mansus è illuminato. La mia Mappa è completa, perfetta in ogni dettaglio, e traccia la via per l’Alba.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.asce.twiceborn",
+   "label": "Vittoria del Rinato: Una Lega Solare",
+   "Desc": "<i>In questa Storia, nuove Ore sorgeranno nei Sentieri del Sole… e avrò la mia «terza scelta».</i>\n\nLe fonderie e le vetrerie del Nuovo Re ruggiscono di luce. Non ho avuto modo di avvicinarmi, ma anche a questa distanza la loro luce macchia il cielo. I Sentieri del Sole si aprono in entrambe le direzioni… e lungo quei Sentieri, la Gloria scorrerà come mercurio, per prendere possesso dei suoi altari. Il nuovo ordine del Mansus non permetterà più che si divorino Lunghi erranti, né nessun altro. Sembra quasi desueto che un tempo mi preoccupassi di <i>quel</i> genere di cose.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.asce",
+   "label": "Un Fiore di Mercurio",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera, e in essa, nuove Ore sorgeranno nei Sentieri del Sole.</i>\n\nLe fonderie e le vetrerie del Nuovo Re ruggiscono di luce. Non ho avuto modo di avvicinarmi, ma anche a questa distanza la loro luce macchia il cielo. I Sentieri del Sole si aprono in entrambe le direzioni… e lungo quei Sentieri, la Gloria scorrerà come mercurio, per sbocciare nei suoi cento altari. L’Alba sta arrivando.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.alte.artist",
+   "label": "Vittoria dell’Artista: Tutti i Colori, e Anche di Più",
+   "Desc": "<i>Nuove Ore! È un rischio. È quasi un imbroglio. Ma saranno tutti i colori, e anche di più.</i>\n\nLe fonderie e le vetrerie del Nuovo Re ruggiscono di luce. Ho implorato di poter fare visita. La visita non mi ha deluso. Posso vedere i colori dell’Eternità in quei fuochi. Quei colori accenderanno cento finestre. L’Alba verrà. Tutto quello che devo fare è assicurarmi <i>assolutamente</i> che la mia parte in tutto ciò sia nota.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.alte.archaeologist",
+   "label": "Vittoria dell’Archeologo: Nati tra i Colori",
+   "Desc": "<i>Non dovrebbe essere possibile far nascere nuove Ore dalla Gloria nel mondo. Ma c’è sempre un modo. E se sarò distrutto nella nascita di quelle nuove Ore… quella sarà l’espiazione ultima.</i>\n\nLe fonderie e le vetrerie del Nuovo Re ruggiscono di luce. È autunno, ma le notti già si ritirano. In tutto il regno si stanno allestendo altari di vetro e acciaio. L’Alba si accenderà nelle profondità degli altari, e io aprirò le braccia ai suoi colori. La mia ombra mi lascerà; e allora, finalmente, saprò quale <i>io</i> sono.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.alte",
+   "label": "Il Trionfo della Speranza",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera, e in essa, nuove Ore verranno al mondo. I mezzi sono imperfetti – forse, persino, deplorevoli – ma possiamo sperare che le nuove Ore non siano né l’uno né l’altro.</i>\n\nLe fonderie e le vetrerie del Nuovo Re ruggiscono di luce. È autunno, ma le notti già si ritirano. Ogni sera le strade si riempiono tanto di patrioti quanto di scettici, che si accalcano, scherzano, si meravigliano. L’Alba sta arrivando. Una nuova Era. Potrebbe perfino essere migliore dell’ultima.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.bell.revolutionary",
+   "label": "Vittoria del Rivoluzionario: I Nuovi Nomi",
+   "Desc": "<i>Dai crogioli dove ribollono i metalli-Ys, nascono nuove Ore: e in questa Storia, la Calyptra non lo impedirà.</i>\n\nLe fonderie e le officine del Nuovo Re fremono di vita. I canti dei Nomi-fonderia risuonano nel cielo. Quando verrà l’Alba, il Re ha promesso che non ci sarà guerra in Europa. Le fonderie concordano... ma promettono anche una vittoria. Comprendo questo paradosso. Ci sarà una guerra... ma non contro i nostri nemici terreni.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.bell.prodigal",
+   "label": "Vittoria del Prodigo: Le Nuove Armi",
+   "Desc": "<i>I metalli di Ys ribolliranno di luce. Nuove Ore sorgeranno. Avrò la mia arma.</i>\n\nLe fonderie e le officine del Nuovo Re fremono di vita. I canti dei Nomi-fonderia risuonano nel cielo. Quando verrà l’Alba, il Re ha promesso che non ci sarà guerra in Europa. Le fonderie concordano... ma promettono anche una vittoria. Lascerò ad altri il compito di risolvere quel paradosso. La mia arma tintinna dolcemente nella mia mano. Che vengano pure i miei inseguitori.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.forge.bell",
+   "label": "Una Nuova Era",
+   "Desc": "<i>I metalli di Ys ribolliranno di luce. Nuove Ore sorgeranno. Questa Storia è la mia ultima e più grande opera.</i>\n\nLe fonderie e le officine del Nuovo Re fremono di vita. I canti dei Nomi-fonderia risuonano nel cielo. Quando verrà l’Alba, il Re ha promesso che non ci sarà guerra in Europa. Le fonderie concordano... ma promettono anche una vittoria. In questa nuova Era, forse questo non sarà più un paradosso.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.oldl.magnate",
+   "label": "Vittoria del Magnate: Un Sole Più Mite",
+   "Desc": "<i>Un tempo c’era un sole più mite. In questa Storia, quando l’inno più antico si leverà, forse concederà al nostro cielo la sua pace…</i>\n\nI cieli saranno più miti, i venti più caldi. Come noi nascemmo dal Guscio, così il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – un pochissimo – del nostro sangue… e ogni notte ci proteggerà. Posso capire lo sgomento. Posso capire le espressioni poco gentili. Ma è molto più dolce avere un Sole che ti conosce; che ogni alba, ti onora con il proprio sangue; che ogni sera, offre pace.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.oldl.symurgist",
+   "label": "Vittoria del Simurgista: Un Sole Più Benigno",
+   "Desc": "<i>Un tempo c’era un sole più gentile. In questa Storia, quando l’inno più antico si leverà, forse ci risponderà…</i>\n\nI cieli saranno più miti, i venti più caldi. Come noi nascemmo dal Guscio, così il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – un pochissimo – del nostro sangue… e ogni notte ci proteggerà. Mentre scende nella sera, mentre sorge al mattino, ci ricorderà in un canto. Quel canto sarà quello che ho tanto desiderato, e il suo ritmo il battito del mio stesso cuore.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.oldl",
+   "label": "Un Paradiso Più Affamato",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera; e in essa, quel vecchio sole rosso tornerà a un paradiso più mite e più affamato.</i>\n\nI cieli saranno più miti, i venti più caldi. Come noi nascemmo dal Guscio, così il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – un pochissimo – del nostro sangue… e ogni notte ci proteggerà. Mentre scende nella sera, mentre sorge al mattino, ci ricorderà in un canto.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.conf.prodigal",
+   "label": "Vittoria del Prodigo: Un Sole che ci Conosce",
+   "Desc": "<i>Il Sole è spezzato; in guerra con i suoi altri aspetti. Ma in questa Storia, ci sarà una prigione per il suo io più splendente e più litigioso… e per i servitori di quell’io splendente che mi danno la caccia.</i>\n\nUna volta che il Guardiano sarà ingabbiato nelle ombre, il Sole si indurirà come ghiaccio di primavera, finché – come noi nascemmo dal Guscio – così il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – un pochissimo – del nostro sangue... Mi ritraggo di fronte a questo. Lo ammetto. Ma un Sole che conosce il nostro sapore è un sole più gentile. Non ho dubbi che non mi divorerà. E, una volta confinati i miei inseguitori, non lo farà nient’altro.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.conf.archaeologist",
+   "label": "Vittoria dell’Archeologo: Sotto un Sole Protettore",
+   "Desc": "<i>Il Sole è spezzato; in guerra con tutti i suoi aspetti. Ma in questa Storia, ci sarà una prigione per il suo io peggiore. Il Sole si riconcilierà finalmente con la sua natura più antica; e così farò anch’io.</i>\n\nQuando il Lupo-Diviso sarà ingabbiato nella luce, il Sole si indurirà come ghiaccio di primavera, finché – come noi nascemmo dal Guscio – così il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – un pochissimo – del nostro sangue… e ogni notte ci proteggerà. Mentre scende nella sera, mentre sorge al mattino, ci ricorderà in un canto. Non riuscirò mai a liberarmi della mia corruzione. Ma il Sole Rosso non se ne curerà... e quindi nemmeno io.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.conf",
+   "label": "Una Gabbia di Luce",
+   "Desc": "<i>Il Sole è spezzato; in guerra con tutti i suoi aspetti. Ma in questa Storia, ci sarà una prigione per il suo io peggiore. Il Sole si riconcilierà finalmente con la sua natura più antica; e così farò anch’io.</i>\n\nQuando il Lupo-Diviso sarà ingabbiato nella luce, il Sole si indurirà come ghiaccio di primavera, finché – come noi nascemmo dal Guscio – così il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – un pochissimo – del nostro sangue… e ogni notte ci proteggerà. Mentre scende nella sera, mentre sorge al mattino, ci ricorderà in un canto.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.thre.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Rivoluzione in Rosso",
+   "Desc": "<i>In questa Storia, il sole più mite tornerà – il sole del tempo prima della Calyptra – e la Calyptra sarà impotente a impedirlo.</i>\n\nL’Albero del Guardiano ha un Fiore Nero, ma il Sole Rosso non può essere dimenticato. Ha un Bianco, ma la sua luce scorre rossa sulla neve. Ha un Fiore Rosso, ma in questa Storia, quando l’Eccezione Sanguigna sarà invocata, il Fiore Rosso chiuderà i suoi petali. E il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – pochissimo – del nostro sangue… e ogni notte ci proteggerà. Mentre scende nella sera, mentre sorge al mattino, ci ricorderà in un canto... un canto che nemmeno la Calyptra può mettere a tacere.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.scale.thre",
+   "label": "Calyptra in Carminio",
+   "Desc": "<i>Questa è la Storia – la mia ultima e più grande opera – in cui il Chancel, in un momento cruciale, resterà intrappolato nelle proprie regole – e la via sarà libera per il ritorno del vecchio sole.</i>\n\nL’Albero del Guardiano ha un Fiore Nero, ma il Sole Rosso non può essere dimenticato. Ha un Bianco, ma la sua luce scorre rossa sulla neve. Ha un Fiore Rosso, ma in questa Storia, quando l’Eccezione Sanguigna sarà invocata, il Fiore Rosso chiuderà i suoi petali. E il Sole Rosso si schiuderà, ma dolcemente. Ogni giorno accetterà un poco – un pochissimo – del nostro sangue… e ogni notte ci proteggerà. Mentre scende nella sera, mentre sorge al mattino, ci ricorderà in un canto.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.lantern.asce.cartographer",
+   "label": "Vittoria del Cartografo: Tracciare l’Alba",
+   "Desc": "<i>In questa Storia, il Nuovo Re entrerà nei Sentieri del Sole: e la Seconda Alba illuminerà il Mansus.</i>\n\nMolto presto, il Re inizierà il suo viaggio regale. Di giorno percorrerà le strade della Britannia. Di notte, camminerà lungo i Sentieri del Sole. Nomi-Araldo grideranno l’Alba dinanzi a lui, finché ogni vena del Mansus non si riempirà di luce, come una rosa d’inchiostro dorato; e finalmente completerò la mia Mappa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.lantern.asce.twiceborn",
+   "label": "Vittoria del Rinato: Prerogative Reali",
+   "Desc": "<i>In questa Storia, il Nuovo Re entrerà nei Sentieri del Sole: e la Seconda Alba cambierà ogni cosa. Avrò la mia «terza scelta».</i>\n\nMolto presto, il Re inizierà il suo viaggio regale. Di giorno percorrerà le strade della Britannia. Di notte, camminerà lungo i Sentieri del Sole. Nomi-Araldo grideranno l’Alba dinanzi a lui; e io camminerò fra loro, inviolabile sotto la protezione del Re-Alba.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.lantern.asce",
+   "label": "Il Sentiero del Nuovo Re",
+   "Desc": "<i>In questa Storia – la mia ultima e più grande opera – il Nuovo Re entrerà nei Sentieri del Sole, e la Seconda Alba riporterà il Sole allo Splendore.</i>\n\nMolto presto, il Re inizierà il suo viaggio regale. Di giorno percorrerà le strade della Britannia. Di notte, camminerà lungo i Sentieri del Sole. Nomi-Araldo grideranno l’Alba dinanzi a lui, finché la luce dell’Eternità non colorerà ogni pietra del Mansus, come cinabro, come mercurio, come oro.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.lantern.desc.executioner",
+   "label": "Vittoria del Boia: I Peccati del Sole",
+   "Desc": "<i>Forse le cicatrici del Sole e i peccati del Sole gli hanno insegnato la pietà. Forse se il Nuovo Re porterà l’Alba, quell’alba sarà pietosa.</i>\n\nNon fu cosa facile, la guarigione delle cicatrici del Sole. Il re prese su di sé, nella propria carne, la più grande, e così ora lo vediamo solo due volte l’anno, in inverno e in primavera. Ma a volte il dolore insegna la pietà. I giorni sono luminosi come la moneta del Re, ma le notti frizzano di canti. Piccole vite ingioiellate, piccole piante affamate, frutti della Marea e generati della Spira, tutto ciò prospererà nella notte segreta. Se una qualche parte di questo è merito mio, allora ho fatto ammenda.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.lantern.desc",
+   "label": "Le Cicatrici del Sole",
+   "Desc": "<i>Le cicatrici del Sole devono essere guarite. I peccati del Sole devono essere purificati. Il Nuovo Re deve portare la Seconda Alba.</i>\n\nNon fu cosa facile, la guarigione delle cicatrici del Sole. Il re prese su di sé, nella propria carne, la più grande, e così ora lo vediamo solo due volte l’anno, in inverno e in primavera. Ma lo amiamo così tanto. E abbiamo l’Alba.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.lantern.secr.twiceborn",
+   "label": "Vittoria del Rinato: Il Regno d’Oro",
+   "Desc": "<i>Forse il Nuovo Re è quello vero; e forse no. In ogni caso, <i>qualcuno</i> porterà la Seconda Alba. Tutto cambierà; e avrò la mia «terza scelta».</i>\n\nIl Mansus è diventato splendente come l’ottone. È questa la Seconda Alba? Un’Età dell’Oro? Gli ultimi spasimi della Storia? Forse tutte queste cose, forse nessuna, ma in questo Nuovo Ordine, sotto la Legge della Luce, sono al sicuro, sono al caldo, sono a casa.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.lantern.secr",
+   "label": "La Moneta del Regno",
+   "Desc": "<i>In questa Storia – la mia ultima e più grande opera – <i>qualcuno</i> porterà la Seconda Alba. Forse sarà il Nuovo Re; e forse no.</i>\n\nOgni giorno nel Nuovo Regno risplende come una moneta d’oro. È questa la Seconda Alba? Un’Età d’Ottone? La penombra dell’Eternità? Siamo al caldo e sfamati; il Re è saggio e giusto; i cieli sono limpidi e luminosi; tutto va bene.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.bell.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Calyptra al Crepuscolo",
+   "Desc": "<i>Le arti di Ys accenderanno una guerra dietro il mondo. La Seconda Alba arderà luminosa – le Ore, più luminose ancora – finché anche la Calyptra non sarà umiliata.</i>\n\nLa Parola fu l’arma che vinse la nostra prima guerra. Questa Campana è l’arma che vincerà l’ultima. Le tempeste notturne vanno e vengono con i loro colori violenti e le loro piogge violente. Quando tutti i cieli saranno vuoti e tutte le Ore saranno esaurite, la tirannia dell’Eternità cadrà.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.bell.prodigal",
+   "label": "Vittoria del Prodigo: L’Occhio della Tempesta",
+   "Desc": "<i>Le arti di Ys accenderanno una guerra dietro il mondo. La Seconda Alba arderà luminosa – le Ore, più luminose ancora – finché anche i loro servitori che mi danno la caccia non saranno umiliati o consumati. E finalmente sarò al sicuro.</i>\n\nBATTETE LE ORE. Nelle ombre luminose della guerra del cielo, sono al sicuro come una farfalla nel cuore di un ciclone. E quando la terra e il cielo si spezzeranno, quali tesori troveremo al loro interno?\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.bell",
+   "label": "La Fornace del Tempo",
+   "Desc": "<i>In questa Storia – la mia ultima e più grande opera – le arti di Ys accenderanno una guerra dietro il mondo. La Seconda Alba arderà luminosa – le Ore, più luminose ancora.</i>\n\nBATTETE LE ORE. La Storia arde luminosa. L’Eternità si ritira. Il cielo tremerà, la terra si spezzerà, e quali tesori rivelerà tutto ciò?\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.feas.artist",
+   "label": "Vittoria dell’Artista: Un’Arte della Guerra",
+   "Desc": "<i>Questa è una Storia in cui le arti-sapore della Croce provocheranno le Ore alla guerra. È sempre stato questo il piano della Croce? Chissà. Importa forse? Chi si ricorderà di qualcosa che non sia lo splendore del banchetto?</i>\n\nVorrei poterlo vedere da vicino – gli squarci, le pennellate, i fuochi. Ma è già abbastanza che sia proiettato nel cielo. Un intrattenimento gratuito! La Guerra Divorante! Per il godimento di tutti!\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.feas",
+   "label": "Nessuna Stella",
+   "Desc": "<i>Questa Storia è la mia ultima e più grande opera; e in essa, le arti-sapore della Croce del Carapace inciteranno le Ore all’avidità e alla guerra. Sarà il vincitore a portare la Seconda Alba.</i>\n\nQuesta è stata la notte più lunga. Perfino le stelle ci hanno abbandonato. L’aria si fa stantia e gelida. Ma il terreno trema sotto di noi, e così so che la guerra continua, e l’Alba sta per arrivare.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.alte.artist",
+   "label": "Vittoria dell’Artista: La Fine dei Colori",
+   "Desc": "<i>«Ogni fiamma ha il suo combustibile.» Il combustibile della Seconda Alba sono le Ore stesse – tutte tranne l’ultima, tutte tranne la vittrice – e così l’Alba sarà di tutti i colori finali.</i>\n\nIl mondo è una candela! La fiamma si piega e tremola al lavorìo della guerra. Non avevo mai immaginato i colori! Mi ringrazieranno per questo. E l’Alba verrà, naturalmente; ma mi mancherà la luce della candela.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.alte.archaeologist",
+   "label": "Vittoria dell’Archeologo: La Fine delle Ombre",
+   "Desc": "<i>«Ogni fiamma ha il suo combustibile.» Il combustibile della Seconda Alba sono le Ore stesse – tutte tranne l’ultima, tutte tranne la vittrice – e così quell’Alba brucerà via tutte le ombre. Anche le mie.</i>\n\nL’Alba è quasi qui… ma già la Guerra ha acceso le ombre. Anche i miei pensieri sono infiammati. Non so cosa rimarrà di me quando verrà l’Alba… ma sarà qualcosa che non rimpiange.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.edge.alte",
+   "label": "La Fine della Misericordia",
+   "Desc": "<i>«Ogni fiamma ha il suo combustibile.» In questa Storia – la mia opera ultima e più grande – il combustibile della Seconda Alba sono le Ore stesse – tutte tranne l’ultima – tutte tranne la vittrice.</i>\n\nQuando la guerra nel cielo è finita, quando la terra è ferma, quando l’ultima Ora alza la propria voce, quando l’Alba è qui, diremo: questo era necessario.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.unde.magnate",
+   "label": "Vittoria del Magnate: Il Fiore Più Bianco",
+   "Desc": "<i>Non ci sarà bisogno di una Seconda Alba. Tutti i colori del mondo sono sufficienti. In quella comprensione troverò la mia pace.</i>\n\n«La Parola è una ferita», sosteneva notoriamente Husher. Del silenzio, non disse nulla. Ma d’altronde, naturalmente, suppongo, non l’avrebbe fatto.\n\nBasta così. Sono stanco. Ciò che è scritto è scritto, e il mio contributo viene dopo questo segno.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.unde",
+   "label": "Le Luci Lungo il Percorso",
+   "Desc": "<i>Husher previde la lunga strada verso il silenzio, e le luci lungo il percorso. Questa Storia è la mia opera ultima e più grande; e in essa non ci sarà una Seconda Alba.</i>\n\nJulian Coseley, l’anarchico, nemico dell’Eternità. Cosa lo ha convinto, alla fine, che Husher non avesse tutti i torti? Il paradosso della fine eterna? I colori troppo pallidi per la vista? Erano i segreti che vide nei dipinti di Ninegala? Le sue sconfitte? Lo spegnimento della sua arroganza? O solo la lunghezza della sua lunga, lunga vita? Perché il Silenzio? Se è una domanda, il Silenzio ha sempre una risposta.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.conf.prodigal",
+   "label": "Vittoria del Prodigo: Una Gabbia di Visioni",
+   "Desc": "<i>Non ci sarà Seconda Alba. Gli adepti di questa Storia costruiranno una prigione per le luci più acute, i fuochi più pericolosi.. Sarò finalmente al sicuro.</i>\n\nQuesta è la cella che il Guardiano costruì nelle regioni più meridionali del mondo, dove il mare si fa duro come corno e il tramonto pallido come neve. Quando verrà il tramonto, sarà la sua cella. Senza il Guardiano, non ci sarà Seconda Alba… e senza il Guardiano, i miei inseguitori perderanno la loro forza. Un po’ di luce in meno nel mondo è un piccolo prezzo da pagare. Dopotutto, senza il Guardiano, ci sarà anche un po’ più di pietà.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.conf.archaeologist",
+   "label": "Vittoria dell’Archeologo: Una Gabbia di Stelle",
+   "Desc": "<i>Non ci sarà Seconda Alba. Gli adepti di questa Storia costruiranno una prigione per le luci più acute, i fuochi più pericolosi... e per il mio altro io. Finalmente sarò libero.</i>\n\nQuesta è la cella che il Guardiano costruì per il Lupo-Diviso, nelle regioni più meridionali del mondo, dove il mare si fa duro come corno e il tramonto pallido come neve. Quando verrà il tramonto, sarà la sua cella. Senza il Lupo, non vedremo alcuna Seconda Alba. Potrebbero esserci – potrebbero proprio esserci – altri benefici, oltre a questo. Niente più Schegge di Lupo, per dirne una. È quella la mia ombra? O sono io, finalmente? Diciamo di no. Diciamo che la libertà è mia..\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.conf",
+   "label": "Una Gabbia di Nevi",
+   "Desc": "<i>Non ci sarà Seconda Alba. Gli adepti di questa Storia – la mia ultima e più grande opera – costruiranno una prigione per le luci più acute, i fuochi più pericolosi... e per la scintilla-che-accende che avrebbe potuto essere l’Alba.</i>\n\nQuesta è la cella che il Guardiano costruì nelle regioni più meridionali del mondo, dove il mare si fa duro come corno e il tramonto pallido come neve. Quando verrà il tramonto, sarà la sua cella. Senza il Guardiano, non ci sarà Seconda Alba. «Naviga; illumina; non è compassionevole...» Forse, quando calerà la notte, vedremo finalmente un po’ di compassione.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.bala.executioner",
+   "label": "Vittoria del Boia: Pettirosso nella Neve",
+   "Desc": "<i>Questa è la Storia in cui le stirpi erranti della Croce del Carapace tornano… e tutto cambia. Ciò che è sopra, sotto; ciò che ha ali, prospererà. E avrò fatto ammenda.</i>\n\nLa Croce del Carapace non c’è più. Nella terra; nella carne; e le stirpi erranti, oltre l’onda e il cielo. Sono ormai pochissime, sotto la terra, e la Croce-nella-carne siamo noi – almeno alcuni di noi. Ma quando le stirpi erranti torneranno, le loro ali oscureranno il cielo; e in questa storia, saranno al sicuro da qualsiasi Alba.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.bala.revolutionary",
+   "label": "Vittoria del Rivoluzionario: Gelo",
+   "Desc": "<i>Non ci sarà Seconda Alba. Questa è la Storia in cui le stirpi erranti della Croce del Carapace smascherano le menzogne della Chiesa… e le radici della Calyptra tremeranno.</i>\n\nAl sicuro da qualsiasi Seconda Alba – Nelle strade di notte – sulle guglie di giorno – strisciando sui tetti dei treni in corsa – ronzando nei camini delle fabbriche – le stirpi della Croce tornano. Naturalmente spaventeranno tutti a morte – tutti! Ma la legge della Calyptra non vincola la Croce. Quando saranno pronte a parlare, e noi pronti ad ascoltare – gli ibridi nel nostro cielo, e l’eco nella nostra carne – la tirannia dell’Eternità, finalmente, si avvicinerà alla sua risoluzione.\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  },
+  {
+   "id": "end.h.winter.bala",
+   "label": "Chiusura di una Ferita",
+   "Desc": "<i>Questa è la Storia in cui le stirpi erranti della Croce del Carapace tornano… e tutto cambia. Ciò che è sopra, sotto; ciò che ha ali, prospererà.</i>\n\n«La Croce non morì, ma passò dentro.» Quando le stirpi erranti della Croce del Carapace torneranno, quanti di noi risponderanno al ronzio del loro richiamo, che solleva il cuore? Uno su mille? Uno su dieci? Non ci sarà Seconda Alba – la Croce camminerà fra noi – e quando il ronzio-d’ala, lo strillo-di-cuore, il canto-di-stella, si leveranno, quando saremo chiamati a viaggiare di nuovo oltre il cielo – quanti di noi andranno con loro?\n<size=120%><align=center>--</size>\n<i>[Hai dimostrato il tuo valore come Archivista; hai convinto le Ore ad accettare una Storia; hai cambiato il mondo; hai vinto la partita. Questa è la memoria che non muore. Accetta le nostre congratulazioni.]</i>"
+  }
+ ]
+}

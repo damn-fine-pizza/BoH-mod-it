@@ -1,0 +1,338 @@
+{
+ "recipes": [
+  {
+   "id": "_gather.spring",
+   "label": "Raccogli in Primavera"
+  },
+  {
+   "id": "_gather.summer",
+   "label": "Raccogli in Estate"
+  },
+  {
+   "id": "_gather.autumn",
+   "label": "Raccogli in Autunno"
+  },
+  {
+   "id": "_gather.winter",
+   "label": "Raccogli in Inverno"
+  },
+  {
+   "id": "_gather.numa",
+   "label": "Raccogli in Numa"
+  },
+  {
+   "id": "_gather.night.hint",
+   "label": "Al Buio?"
+  },
+  {
+   "id": "gather.garden.night.hint",
+   "startdescription": "Il giardinaggio notturno è più suggestivo che pratico. Dovrei tornare domani."
+  },
+  {
+   "id": "gather.garden.a.spring",
+   "startdescription": "Cogli i petali della rosa di quaresima."
+  },
+  {
+   "id": "gather.garden.a.summer",
+   "startdescription": "Raccogli i fiori profumati del calice fragrante."
+  },
+  {
+   "id": "gather.garden.a.autumn",
+   "startdescription": "Raccogli i fiori profumati del calice fragrante."
+  },
+  {
+   "id": "gather.garden.a.winter",
+   "startdescription": "Cogli i petali della rosa di quaresima."
+  },
+  {
+   "id": "gather.garden.a.numa",
+   "startdescription": "Solo in Numa posso seguire i fiori bianchi della moly fino alla sua potente radice nera."
+  },
+  {
+   "id": "gather.garden.b.spring",
+   "startdescription": "In primavera, mentre le giornate si scaldano, la corona blu fiorisce ancora per un po’."
+  },
+  {
+   "id": "gather.garden.b.summer",
+   "startdescription": "Raccogli le infiorescenze spinose del cardo marino."
+  },
+  {
+   "id": "gather.garden.b.autumn",
+   "startdescription": "Raccogli le infiorescenze spinose del cardo marino."
+  },
+  {
+   "id": "gather.garden.b.winter",
+   "startdescription": "Pochi fiori fioriscono nel cuore dell’inverno. La corona blu è uno di quei pochi."
+  },
+  {
+   "id": "gather.garden.b.numa",
+   "startdescription": "In Numa, il cardo marino ritorna. Raccoglilo con cura."
+  },
+  {
+   "id": "gather.garden.c.spring",
+   "startdescription": "Raccogli con cura l’artiglio di gatto. Le sue spine dispettose trovano il modo di attraversare anche i guanti più spessi."
+  },
+  {
+   "id": "gather.garden.c.summer",
+   "startdescription": "In estate, il giglio del trombettiere fiorisce come un grido."
+  },
+  {
+   "id": "gather.garden.c.autumn",
+   "startdescription": "In autunno, prima che arrivi il vero freddo, il giglio del trombettiere fiorisce ancora."
+  },
+  {
+   "id": "gather.garden.c.numa",
+   "startdescription": "Aglaophotis, l’altra rosa. Solo in Numa fiorisce."
+  },
+  {
+   "id": "gather.garden.d.spring",
+   "startdescription": "L’orchidea falena è morbida come velluto al tatto; tranne quando cambia."
+  },
+  {
+   "id": "gather.garden.d.summer",
+   "startdescription": "L’orchidea falena è morbida come velluto al tatto; tranne quando cambia."
+  },
+  {
+   "id": "gather.garden.d.autumn",
+   "startdescription": "Gelsomino Honeyscar, come un dardo di dolce fuoco."
+  },
+  {
+   "id": "gather.garden.d.numa",
+   "label": "Numa: ",
+   "startdescription": "Gelsomino Honeyscar, come un dardo di dolce fuoco. Numa lo riporta in vita."
+  },
+  {
+   "id": "gather.garden.g.spring",
+   "startdescription": "Cogli l’uva dalla vite."
+  },
+  {
+   "id": "gather.garden.g.summer",
+   "startdescription": "Cogli l’uva dalla vite."
+  },
+  {
+   "id": "gather.garden.g.numa",
+   "startdescription": "L’uva ha un sapore diverso se colta in Numa? Forse ce lo immaginiamo soltanto."
+  },
+  {
+   "id": "gather.garden.h.spring",
+   "startdescription": "Raccogli erbe curative."
+  },
+  {
+   "id": "gather.garden.h.summer",
+   "startdescription": "Raccogli erbe curative."
+  },
+  {
+   "id": "gather.garden.h.numa",
+   "label": "Numa: ",
+   "startdescription": "Raccogli erbe curative. In Numa crescono con febbrile intensità..."
+  },
+  {
+   "id": "gather.garden.p.summer",
+   "startdescription": "Pere profumate, morbide al tatto."
+  },
+  {
+   "id": "gather.garden.p.autumn",
+   "startdescription": "Pere profumate, morbide al tatto."
+  },
+  {
+   "id": "gather.garden.p.numa",
+   "label": "Numa: ",
+   "startdescription": "<i>Pyrus auricalcinus</i>. In Numa si sviluppa rapidamente – i rami dell’albero si piegano sotto il peso dei frutti."
+  },
+  {
+   "id": "gather.garden.v.summer",
+   "startdescription": "Carote, pomodori, zucche, e benedette cipolle – tutti gli eroi ignorati della pentola dello stufato."
+  },
+  {
+   "id": "gather.garden.v.autumn",
+   "startdescription": "Carote, pomodori, zucche, e benedette cipolle – tutti gli eroi ignorati della pentola dello stufato."
+  },
+  {
+   "id": "gather.garden.v.autumn.leeks",
+   "startdescription": "PORRI"
+  },
+  {
+   "id": "gather.garden.v.numa",
+   "startdescription": "Carote, pomodori, zucchine, e benedette cipolle – tutti gli eroi misconosciuti della pentola dello stufato. In Numa crescono in fretta, ma il loro sapore ha qualcosa di strano."
+  },
+  {
+   "id": "gather.garden.x.summer",
+   "startdescription": "La Pianta della Storia è germogliata! Raccogli le sue fioriture!"
+  },
+  {
+   "id": "gather.garden.x.numa",
+   "startdescription": "La Pianta della Storia è germogliata! Raccogli le sue fioriture – ancora più abbondanti in Numa!"
+  },
+  {
+   "id": "gather.garden.empty.hint",
+   "label": "Stagioni Quiete",
+   "startdescription": "La terra è quieta – non sterile, solo addormentata. [La raccolta è possibile in un’altra stagione.]"
+  },
+  {
+   "id": "gather.garden.needs.skill.hint",
+   "label": "Sapienza?",
+   "startdescription": "I giardini di Hush House custodiscono piante dalle molte virtù – per chi ha la sapienza di riconoscerle. [Aggiungi un’Abilità adatta.]"
+  },
+  {
+   "id": "gather.garden.needs.ability.hint",
+   "label": "Sforzo?",
+   "startdescription": "Il raccolto richiede impegno oltre che conoscenza. [Aggiungi una carta Anima.]"
+  },
+  {
+   "id": "gather.garden.beehive.spring",
+   "startdescription": "Miele o cera d’api, se faccio attenzione."
+  },
+  {
+   "id": "gather.garden.beehive.summer",
+   "startdescription": "Miele o cera d’api, se faccio attenzione."
+  },
+  {
+   "id": "gather.garden.beehive.autumn",
+   "startdescription": "È improbabile che riesca a raccogliere molto dall’alveare in questo periodo dell’anno."
+  },
+  {
+   "id": "gather.garden.beehive.winter",
+   "startdescription": "È improbabile che riesca a raccogliere molto dall’alveare in questo periodo dell’anno."
+  },
+  {
+   "id": "gather.garden.beehive.numa",
+   "startdescription": "In Numa, potrei raccogliere miele, cera d’api, o qualcosa di inaspettato."
+  },
+  {
+   "id": "gather.beachcombing.spring",
+   "startdescription": "Cosa ha ceduto il mare oggi?",
+   "desc": "Cose sparse dal mare, intrappolate dal sale."
+  },
+  {
+   "id": "gather.beachcombing.summer",
+   "startdescription": "Cosa ha ceduto il mare oggi?",
+   "desc": "Cose sparse dal mare, intrappolate dal sale."
+  },
+  {
+   "id": "gather.beachcombing.autumn",
+   "startdescription": "Cosa ha ceduto il mare oggi?",
+   "desc": "Cose sparse dal mare, intrappolate dal sale."
+  },
+  {
+   "id": "gather.beachcombing.winter",
+   "startdescription": "Cosa ha ceduto il mare oggi?",
+   "desc": "Cose sparse dal mare, intrappolate dal sale."
+  },
+  {
+   "id": "gather.beachcombing.numa",
+   "startdescription": "La nebbia di Numa è fitta qui.",
+   "desc": "Tesori sferzati dalla marea."
+  },
+  {
+   "id": "gather.beachcombing.night.hint",
+   "startdescription": "Questo è un pessimo modo per trovare cose e un ottimo modo per annegare. Dovrei tornare domani."
+  },
+  {
+   "id": "gather.beachcombing.noseason.hint",
+   "startdescription": "Il margine dell’oceano è buio... [Ritorna più tardi.]"
+  },
+  {
+   "id": "gather.moor.spring",
+   "startdescription": "Il ginestrone risplende sulla nuca della terra.",
+   "desc": "Ritrovamenti inattesi nelle pieghe di terra e cielo."
+  },
+  {
+   "id": "gather.moor.summer",
+   "startdescription": "Il vento è quasi caldo.",
+   "desc": "Ritrovamenti inattesi nelle pieghe di terra e cielo."
+  },
+  {
+   "id": "gather.moor.autumn",
+   "startdescription": "Le ultime foglie si agitano e volteggiano via.",
+   "desc": "Ritrovamenti inattesi nelle pieghe di terra e cielo."
+  },
+  {
+   "id": "gather.moor.winter",
+   "startdescription": "La brina orla gli stagni della brughiera.",
+   "desc": "Ritrovamenti inattesi nelle pieghe di terra e cielo."
+  },
+  {
+   "id": "gather.moor.numa",
+   "startdescription": "È saggio camminare sulle brughiere in questa stagione? Scopriamolo.",
+   "desc": "Molto è perduto, ma molto resta..."
+  },
+  {
+   "id": "gather.moor.night.hint",
+   "startdescription": "Di notte? Cadrò da qualcosa, dentro qualcosa, o entrambe le cose. Domani andrà benissimo."
+  },
+  {
+   "id": "gather.moor.noseason.hint",
+   "startdescription": "Il cielo è velato... [Ritorna più tardi.]"
+  },
+  {
+   "id": "gather.nests.spring",
+   "startdescription": "Gli uccelli sono ferocemente vigili.",
+   "desc": "Scarti dal margine dell’isola."
+  },
+  {
+   "id": "gather.nests.summer",
+   "startdescription": "Il mare ondeggia qui sotto.",
+   "desc": "Scarti dal margine dell’isola."
+  },
+  {
+   "id": "gather.nests.autumn",
+   "startdescription": "Feroci occhi gialli osservano ogni mia mossa.",
+   "desc": "Scarti dal margine dell’isola."
+  },
+  {
+   "id": "gather.nests.winter",
+   "startdescription": "Il vento è pungente oggi.",
+   "desc": "Scarti dal margine dell’isola."
+  },
+  {
+   "id": "gather.nests.numa",
+   "startdescription": "Quali pellegrini passano in Numa?",
+   "desc": "Molto è perduto, ma molto resta..."
+  },
+  {
+   "id": "gather.nests.night.hint",
+   "startdescription": "Di certo non ho intenzione di scalare le scogliere dell’Isola di Brancrug nel cuore della notte. Sto solo considerando l’ipotesi."
+  },
+  {
+   "id": "gather.caves.spring",
+   "startdescription": "Echi nella notte infinita...",
+   "desc": "Spigolature dall’oscurità."
+  },
+  {
+   "id": "gather.caves.summer",
+   "startdescription": "Echi nella notte infinita...",
+   "desc": "Spigolature dall’oscurità."
+  },
+  {
+   "id": "gather.caves.autumn",
+   "startdescription": "Echi nella notte infinita...",
+   "desc": "Spigolature dall’oscurità."
+  },
+  {
+   "id": "gather.caves.winter",
+   "startdescription": "Echi nella notte infinita...",
+   "desc": "Spigolature dall’oscurità."
+  },
+  {
+   "id": "gather.caves.numa",
+   "startdescription": "Cosa ha portato Numa?",
+   "desc": "Molto è perduto, ma molto resta..."
+  },
+  {
+   "id": "gather.caves.night.hint",
+   "startdescription": "Se vado alle grotte di notte, annegherò quando la marea sale, oppure annegherò quando non sale."
+  },
+  {
+   "id": "gather.well",
+   "label": "Attingi Acqua",
+   "startdescription": "Calo il secchio cigolante nel buio.",
+   "desc": "Un po’ d’acqua schizza sulle pietre del pozzo per nutrire i muschi che vi crescono."
+  },
+  {
+   "id": "gather.well.numa",
+   "label": "Attingi Acqua",
+   "startdescription": "La nebbia si avvolge, di sotto...",
+   "desc": "L’acqua nella stagione di Numa è quasi identica all’acqua di ogni altra stagione."
+  }
+ ]
+}

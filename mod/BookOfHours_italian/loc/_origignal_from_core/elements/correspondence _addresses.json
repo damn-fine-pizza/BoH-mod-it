@@ -1,0 +1,161 @@
+{
+  
+    "elements": [
+
+        {
+            "id": "address.oriflammes",
+            "label": "Address: Oriflamme's",
+            "desc": "'Pentiment House, Mayfair.'The address of Oriflamme's Auction House. Write to them to request their latest catalogue."
+        },
+
+
+        {"id": "address.agdistis",
+        "isaspect":true,
+        "label": "Agdistis's Address",
+        "icon":"agdistis",
+        "desc": "'Deutsche Tanzbühne, Berlin...' [To make an invitation to Agdistis sufficiently enticing, you'll need at least 3 <sprite name=sky> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.aladim",
+        "isaspect":true,
+        "label": "al-Adim's Address",
+        "icon":"aladim",
+        "desc": "Rue Bonaparte, Nice... [To make an invitation to al-Adim sufficiently enticing, you'll need at least 7 <sprite name=rose> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.arthur",
+        "isaspect":true,
+        "label": "Arthur Moore's Address",
+        "icon":"arthur",
+        "desc": "c/o the Endeavour Club, Park Place, London... [To make an invitation to Arthur Moore sufficiently enticing, you'll need at least 3 <sprite name=lantern> - from Skills, Memories, Inks or anything else.]"},
+        {"id": "address.arun",
+        "isaspect":true,
+        "label": "Peel's Address",
+        "icon":"arun",
+        "desc": "Kardia House, Chania, Crete... [To make an invitation to Peel sufficiently enticing, you'll need at least 7 <sprite name=moon> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.azita",
+        "isaspect":true,
+        "label": "Azita's Address",
+        "icon":"azita",
+        "desc": "Bukhara Exports, Samarkand... [To make an invitation to Azita sufficiently enticing, you'll need at least 7 <sprite name=edge> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.chaima",
+        "isaspect":true,
+        "label": "Chaima's Address",
+        "icon":"chaima",
+        "desc": "Rue des Jardins, Hydra, Algiers... [To make an invitation to Chaima sufficiently enticing, you'll need at least 3 <sprite name=edge> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.connie",
+        "isaspect":true,
+        "label": "Connie's Address",
+        "icon":"connie",
+        "desc": "Hotel Storchen, Zürich...[To make an invitation to Connie sufficiently enticing, you'll need at least 3 <sprite name=moon> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.coquille",
+        "isaspect":true,
+        "label": "Coquille's Address",
+        "icon":"coquille",
+        "desc": "Sachino Palace, Tiflis...[To make an invitation to Coquille sufficiently enticing, you'll need at least 5 <sprite name=grail> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.corso",
+        "isaspect":true,
+        "label": "Corso's Address",
+        "icon":"corso",
+        "desc": "Mansard Books, Oxford... [To make an invitation to Corso sufficiently enticing, you'll need at least 3 <sprite name=lantern> - from Skills, Memories, Inks or anything else.]"},
+     
+        {"id": "address.dagmar",
+        "isaspect":true,
+        "label": "Daymare's Address",
+        "icon":"dagmar",
+        "desc": "Schloss Nagelsburg, Ruritania... [To make an invitation to Daymare sufficiently enticing, you'll need at least 3 <sprite name=knock> - from Skills, Memories, Inks or anything else.]"},
+    
+        {"id": "address.douglas",
+        "isaspect":true,
+        "label": "Douglas Moore's Address",
+        "icon":"douglas",
+        "desc": "Suppression Bureau, Hobbs End, London... [To make an invitation to Douglas Moore sufficiently enticing, you'll need at least 3 <sprite name=lantern> - from Skills, Memories, Inks or anything else.]"},
+     
+        {"id": "address.ehsan",
+        "isaspect":true,
+        "label": "Ehsan's Address",
+        "icon":"ehsan",
+        "desc": "Water Lane, Steeple Aston... [To make an invitation to Ehsan sufficiently enticing, you'll need at least 3 <sprite name=heart> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.fraser",
+        "isaspect":true,
+        "label": "Fraser's Address",
+        "icon":"fraser",
+        "desc": "Strathcoyne House, Midsomer Norton... [To make an invitation to Fraser sufficiently enticing, you'll need at least 5 <sprite name=scale> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.hokobald",
+        "isaspect":true,
+        "label": "Hokobald's Address",
+        "icon":"hokobald",
+        "desc": "A reluctantly disclosed PO box in Dover. [Hokobald of Pocsind flatly refuses to respond to an invitation from the Librarian unless it's written in the Great Ink known as Orpiment Exultant.]"},
+        
+        {"id": "address.morgen",
+        "isaspect":true,
+        "label": "Morgen's Address",
+        "icon":"morgen",
+        "desc": "'Saphir', Marseilles... [To make an invitation to Morgen sufficiently enticing, you'll need at least 7 <sprite name=grail> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.olympe",
+        "isaspect":true,
+        "label": "Olympe's Address",
+        "icon":"olympe",
+        "desc": "Kerisham Review, Plover Street, Kerisham... [To make an invitation to Olympe sufficiently enticing, you'll need at least 3 <sprite name=moth> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.serena",
+        "isaspect":true,
+        "label": "Serena's Address",
+        "icon":"serena",
+        "desc": "Cecil Hotel, Alexandria... [To make an invitation to Serena sufficiently enticing, you'll need at least 3 <sprite name=forge> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.stanislav",
+        "isaspect":true,
+        "label": "Father Stanislav's Address",
+        "icon":"stanislav",
+        "desc": "Prieuré des Capitaines, Morbihan... [To make an invitation to Father Stanislav sufficiently enticing, you'll need at least 3 <sprite name=nectar> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.yvette",
+        "isaspect":true,
+        "label": "Yvette's Address",
+        "icon":"yvette",
+        "desc": "St David's Hill, Exeter... [To make an invitation to Yvette sufficiently enticing, you'll need at least 3 <sprite name=moon> - from Skills, Memories, Inks or anything else.]"},
+        
+        {"id": "address.zachary",
+        "isaspect":true,
+        "label": "Zachary's Address",
+        "icon":"zachary",
+        "desc": "One is instructed to address the letter literally 'HOUSE, STREET, TOWN, SHIRE, COUNTRY' [To make an invitation to Zachary sufficiently enticing, you'll need at least 3 <sprite name=winter> - from Skills, Memories, Inks or anything else.]"},
+
+        {"id":"callingcard.agdistis","label":"Agdistis's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.aladim","label":"al-Adim's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.arthur","label":"Arthur Moore's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.arun","label":"Peel's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        
+        {"id":"callingcard.azita","label":"Azita's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.chaima","label":"Chaima's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.connie","label":"Connie's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.coquille","label":"Coquille's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.corso","label":"Corso's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.dagmar","label":"Daymare's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.douglas","label":"Douglas Moore's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.ehsan","label":"Ehsan's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        
+        {"id":"callingcard.fraser","label":"Strathcoyne's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.hokobald","label":"Hokobald's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        
+        {"id":"callingcard.morgen","label":"Morgen's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.olympe","label":"Olympe's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        
+        {"id":"callingcard.serena","label":"Serena's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.stanislav","label":"Father Stanislav's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.yvette","label":"Yvette's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"},
+        {"id":"callingcard.zachary","label":"Zachary's Card","desc":"[Use this at a desk with your Writing-Case to make a note of the address.]","inherits":"_callingcard"}
+        
+        
+        
+
+
+    ]
+}

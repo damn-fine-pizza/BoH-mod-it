@@ -1,0 +1,58 @@
+{"recipes": [
+
+
+{"id": "h.record.already",
+"label": "This History",
+"actionid": "*consider",
+"reqs":{"ability":1,"skill":1, "ink":1,"journal":1,"numen":1,"history":1},
+"startdescription": "I've recorded a History already. I should present it to the sea, the sky, and the earth, in Earl Brian's Field... in the season of Numa.",
+"hintonly":true
+},
+
+{"id": "h.record.aspect.hint",
+"label": "More?",
+"actionid": "*consider",
+"reqs":{"ability":1,"skill":1, "ink":1,"journal":1,"numen":1,"history":-1},
+"startdescription": "I can try to record a History - a truth that the Hours themselves may honour and agree. But this is not done lightly. [To record a History, provide a Numen, and at least 25 of a fundamental Aspect. This will be easier if you've made at least one matching Determination.]",
+"hintonly":true
+},
+
+{"id": "h.present.journal.hint",
+"label": "Stand before the Tree?",
+"actionid": "world.tree.gate",
+"reqs":{"journal":-1,"ability":1},
+"startdescription": "Here it stands. What else will abide? [Establish History, and bring it to the Earl's Yew.]",
+"hintonly":true
+},
+
+{"id": "h.present.ability.history.hint",
+"label": "Present a History?",
+"actionid": "world.tree.gate",
+"reqs":{"journal":1,"history":1,"ability":-1},
+"startdescription": "Here I stand. What will be lost? [You've established History. Are you ready to present it before the Earl's Yew?]",
+"hintonly":true
+},
+
+{"id": "h.present.ability.hint",
+"label": "Present What?",
+"actionid": "world.tree.gate",
+"reqs":{"journal":1,"history":-1,"ability":-1},
+"startdescription": "[Add an Element of the Soul to win a victory. Or record a History in your Journal to win a major one.]",
+"hintonly":true
+},
+
+{"id": "h.present.journal.season.hint",
+"label": "When Numa Comes...",
+"actionid": "world.tree.gate",
+"reqs":{"journal":1,"history":1,"ability":1},
+"extantreqs":{"season.numa":-1},
+"startdescription": "If I wish to establish a History, then when Numa comes, I could return here with this journal.",
+"hintonly":true
+}
+
+
+
+
+
+]
+}

@@ -1,0 +1,17 @@
+{"achievements": [
+
+
+  { "id": "A_U_WINTER", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "A Knowledge In The Look Of Things",
+    "descriptionunlocked": "I followed in the footsteps of Solomon Husher."
+  },
+
+  { "id": "A_U_EVENING", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Evening Falls",
+  "descriptionunlocked": "I lived out my days quietly, as the Librarian of Hush House; and I was happy."
+}
+  
+
+]}

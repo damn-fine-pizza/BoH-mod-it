@@ -1,0 +1,252 @@
+{
+ "elements": [
+  {
+   "id": "orderplaced.tea.lapsang",
+   "label": "Tè Lapsang Ordinato"
+  },
+  {
+   "id": "orderplaced.tea.assam",
+   "label": "Tè Assam Ordinato"
+  },
+  {
+   "id": "orderplaced.coffee.dawnlion",
+   "label": "Caffè Dawnlion Ordinato"
+  },
+  {
+   "id": "orderplaced.coffee.eveningisles",
+   "label": "Caffè Evening Isles Ordinato"
+  },
+  {
+   "id": "orderplaced.ham.canned",
+   "label": "Prosciutto in Scatola Ordinato"
+  },
+  {
+   "id": "orderplaced.glue",
+   "label": "Colla Ordinata"
+  },
+  {
+   "id": "orderplaced.wire.copper",
+   "label": "Filo di Rame Ordinato"
+  },
+  {
+   "id": "orderplaced.oil.moon",
+   "label": "Olio Ombroso Ordinato"
+  },
+  {
+   "id": "orderplaced.oil.moth",
+   "label": "Olio Oscillante Ordinato"
+  },
+  {
+   "id": "orderplaced.oil.forge",
+   "label": "Olio Scintillante Ordinato"
+  },
+  {
+   "id": "orderplaced.quire.paper",
+   "label": "Carta Ordinata"
+  },
+  {
+   "id": "orderplaced.packet.cocoa",
+   "label": "Cacao Ordinato"
+  },
+  {
+   "id": "orderplaced.bottle.armagnac",
+   "label": "Armagnac Ordinato"
+  },
+  {
+   "id": "orderplaced.bottle.lambig",
+   "label": "Lambig Ordinato"
+  },
+  {
+   "id": "orderplaced.bottle.raveline",
+   "label": "Domaine Raveline Ordinato"
+  },
+  {
+   "id": "orderplaced.bottle.roscraggan",
+   "label": "Whisky Roscraggan Ordinato"
+  },
+  {
+   "id": "orderplaced.bottle.strathcoyne",
+   "label": "Whisky Strathcoyne Ordinato"
+  },
+  {
+   "id": "orderplaced.bottle.jannings",
+   "label": "Schloss Jannings Ordinato"
+  },
+  {
+   "id": "orderplaced.witchworms.desiccated",
+   "label": "Stregovermi Essiccati Ordinati"
+  },
+  {
+   "id": "orderplaced.arsenic",
+   "label": "Arsenico Ordinato"
+  },
+  {
+   "id": "orderplaced.parchment.nivine",
+   "label": "Pergamena Nivine Ordinata"
+  },
+  {
+   "id": "orderplaced.dripping",
+   "label": "Grasso d’Arrosto Ordinato"
+  },
+  {
+   "id": "orderplaced.flour",
+   "label": "Farina Ordinata"
+  },
+  {
+   "id": "orderplaced.almonds",
+   "label": "Mandorle Ordinate"
+  },
+  {
+   "id": "orderplaced.milk",
+   "label": "Latte Ordinato"
+  },
+  {
+   "id": "orderplaced.potatoes",
+   "label": "Patate Ordinate"
+  },
+  {
+   "id": "orderplaced.beef",
+   "label": "Manzo Ordinato"
+  },
+  {
+   "id": "orderplaced.butter",
+   "label": "Burro Ordinato"
+  },
+  {
+   "id": "orderplaced.sugar",
+   "label": "Zucchero Ordinato"
+  },
+  {
+   "id": "orderplaced.plums",
+   "label": "Prugne Ordinate"
+  },
+  {
+   "id": "orderplaced.pheasant",
+   "label": "Fagiano Ordinato"
+  },
+  {
+   "id": "contains.tea.lapsang",
+   "label": "Un tenue profumo affumicato."
+  },
+  {
+   "id": "contains.tea.assam",
+   "label": "Un tenue profumo aromatico."
+  },
+  {
+   "id": "contains.coffee.dawnlion",
+   "label": "Un tenue profumo fruttato di caffè."
+  },
+  {
+   "id": "contains.coffee.eveningisles",
+   "label": "Un tenue e vivace profumo di caffè."
+  },
+  {
+   "id": "contains.ham.canned",
+   "label": "Contiene qualcosa di duro e squadrato"
+  },
+  {
+   "id": "contains.glue",
+   "label": "Contiene qualcosa di molliccio"
+  },
+  {
+   "id": "contains.wire.copper",
+   "label": "Contiene qualcosa di rigido e tondo"
+  },
+  {
+   "id": "contains.oil.moon",
+   "label": "Contiene qualcosa che sciaborda piano"
+  },
+  {
+   "id": "contains.oil.moth",
+   "label": "Contiene qualcosa che sciaborda furtivo"
+  },
+  {
+   "id": "contains.oil.forge",
+   "label": "Contiene qualcosa che sciaborda"
+  },
+  {
+   "id": "contains.quire.paper",
+   "label": "Contiene qualcosa di rigido e squadrato"
+  },
+  {
+   "id": "contains.packet.cocoa",
+   "label": "Un ricco odore di cioccolato"
+  },
+  {
+   "id": "contains.bottle.armagnac",
+   "label": "Contiene qualcosa di fragile"
+  },
+  {
+   "id": "contains.bottle.lambig",
+   "label": "Contiene qualcosa di fragile"
+  },
+  {
+   "id": "contains.bottle.raveline",
+   "label": "Contiene qualcosa di fragile"
+  },
+  {
+   "id": "contains.bottle.roscraggan",
+   "label": "Contiene qualcosa di fragile"
+  },
+  {
+   "id": "contains.bottle.strathcoyne",
+   "label": "Contiene qualcosa di fragile"
+  },
+  {
+   "id": "contains.bottle.jannings",
+   "label": "Contiene qualcosa di fragile"
+  },
+  {
+   "id": "contains.witchworms.desiccated",
+   "label": "Il pacco è stampigliato con segnali di pericolo"
+  },
+  {
+   "id": "contains.arsenic",
+   "label": "Il pacco è stampigliato con segnali di pericolo"
+  },
+  {
+   "id": "contains.parchment.nivine",
+   "label": "Contiene qualcosa di rigido e squadrato"
+  },
+  {
+   "id": "contains.dripping",
+   "label": "Contiene qualcosa di oleoso"
+  },
+  {
+   "id": "contains.flour",
+   "label": "Contiene qualcosa di polveroso"
+  },
+  {
+   "id": "contains.almonds",
+   "label": "Contiene qualcosa che tintinna"
+  },
+  {
+   "id": "contains.milk",
+   "label": "Contiene qualcosa che sguazza"
+  },
+  {
+   "id": "contains.potatoes",
+   "label": "Contiene qualcosa di pesante"
+  },
+  {
+   "id": "contains.beef",
+   "label": "Contiene qualcosa di molliccio"
+  },
+  {
+   "id": "contains.butter",
+   "label": "Contiene qualcosa di molliccio"
+  },
+  {
+   "id": "contains.sugar",
+   "label": "Contiene qualcosa di sodo"
+  },
+  {
+   "id": "contains.plums",
+   "label": "Contiene qualcosa di molliccio"
+  },
+  {
+   "id": "contains.pheasant",
+   "label": "Contiene qualcosa di molliccio"
+  }
+ ]
+}

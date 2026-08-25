@@ -1,0 +1,43 @@
+{"elements": [
+
+    {"id":"houseoflight.menu.intro",
+    "label":"Dans HOUSE OF LIGHT",
+    "desc":"<i>HOUSE OF LIGHT</i> est une grande extension, profondément ancrée dans le jeu. Voici un guide sans spoiler sur la façon de trouver les nouveaux éléments. \nREMARQUE : HOUSE OF LIGHT est compatible avec les sauvegardes existantes, mais une fois que HOUSE OF LIGHT a touché une sauvegarde, celle-ci ne fonctionnera plus si vous supprimez le DLC."
+  },
+
+  
+
+{"id":"houseoflight.menu.food",
+"label":"NOURRITURE",
+"desc":"Combinez les ingrédients dans un des trois ateliers de Cuisine pour créer des dizaines de nouveaux plats. Vous aurez besoin d'ustensiles de cuisine pour trouver toutes les recettes. \nASTUCE : la Balance à Épices et la compétence Épices & Saveurs peuvent se remplacer l'une l'autre."
+},
+
+{"id":"houseoflight.menu.writingcase",
+"label":"UN ÉCRITOIRE",
+"desc":"Vous recevrez un cadeau à la fin du premier printemps après avoir répondu au St Rhonwen's Trust. Une fois que vous aurez reçu ce cadeau, vous pourrez enregistrer les adresses des cartes de visite laissées par les visiteurs satisfaits (à l'exception de ceux qui ne viennent que pendant Numa) et écrire à ces visiteurs pour les inviter à revenir à la Hush House.\nASTUCE : Les visiteurs n'arrivent pas instantanément ; les visiteurs ne laissent pas de carte de visite tant que vous ne les avez pas aidés ; et certains visiteurs sont plus faciles à convoquer que d'autres.\nREMARQUE : L'encre Perinculate est terriblement toxique et ne peut être utilisée pour les invitations. Si une invitation tue son destinataire, il est peu probable qu'il y réponde de manière constructive."
+},
+
+{"id":"houseoflight.menu.salons",
+"label":"RÉCEPTIONS",
+"desc":"Placez de la nourriture et des boissons dans l'une des six salles de Réception, puis utilisez la cloche pour commencer une Réception. Si vous vous y prenez bien, vous serez récompensé par une conversation brillante… et des Leçons.\nASTUCE : Les visiteurs préfèrent généralement des aliments et des boissons qui correspondent à leur intérêt principal, mais certains ont des exigences supplémentaires.\nCONSEIL : Faites attention à ne pas laisser de livres dans les salles de Réception, si vous ne voulez pas que les invités les touchent."
+},
+
+{"id":"houseoflight.menu.manuscripts",
+"label":"MANUSCRITS",
+"desc":"Utiliser du Papier, de l'Encre et une Compétence pour écrire un Manuscrit basé sur cette compétence. Ces Manuscrits peuvent être nécessaires pour satisfaire la soif de connaissances <i>spécifiques</i> dans des HISTOIRES COMPLÉMENTAIRES. Les Leçons des Réceptions vous aideront à améliorer ces Compétences et à rédiger des Manuscrits plus utiles.\nASTUCE : Vous ne pouvez pas contrôler de manière fiable ce dont les Visiteurs discuteront - il s'agit de festivités, pas d'un interrogatoire - mais ils donneront généralement des leçons liées à leurs intérêts communs.\nREMARQUE : La Périnculade ne peut pas être utilisée pour écrire des Manuscrits. Il serait impoli d'écrire un manuscrit qui pourrait tuer des visiteurs. (Et Hokobald est probablement immunisé de toute façon)."
+},
+
+{"id":"houseoflight.menu.furtherstories",
+"label":"HISTOIRES COMPLÉMENTAIRES",
+"desc":"Une fois que vous avez terminé un incident, suivez-le dans l'Arbre des Sagesses. Les visiteurs auront besoin d'une aide plus spécifique - peut-être un livre sur un sujet spécifique, ou un livre spécifique. \nASTUCE : Une Affaire s'ouvre sur des Histoires Complémentaires une fois que tous les Visiteurs intéressés ont eu l'occasion de vous demander de l'aide. Sachez que dans certaines Histoires Complémentaires, la personne que vous avez aidée à l'origine peut faire la différence. <b>Attention. C'est la seule partie du jeu où les choix peuvent parfois avoir des conséquences permanentes</b>."
+},
+
+{"id":"houseoflight.menu.institute",
+"label":"L'INSTITUT",
+"desc":"Cherchez le phare, au large. Lorsque vos Visiteurs seront prêts, utilisez-le pour établir les véritables héritiers de la Curie de l'Île. \nASTUCE : Des Histoires Complémentaires peuvent inciter vos Visiteurs à soutenir l'Institut - pour des raisons qui leur sont propres. Leur nature est constante, mais certains résultats de l'histoire peuvent les inciter à mettre l'emphase sur un programme plutôt qu'un autre."
+}
+    
+
+    
+    
+    ] }

@@ -1,0 +1,173 @@
+{
+ "elements": [
+  {
+   "id": "embarking_agdistis",
+   "label": "Mr Peter Agdistis",
+   "desc": "[Mr Agdistis se ne andrà presto.]",
+   "xexts": {
+    "dissatisfying": "«Non hai nulla? Non importa, non importa! C’è sempre un’altra volta.»"
+   }
+  },
+  {
+   "id": "embarking_aladim",
+   "label": "Dr Ibn al-Adim",
+   "xexts": {
+    "dissatisfying": "«Mm. Be’, senza dubbio ci vedremo di nuovo.»"
+   }
+  },
+  {
+   "id": "embarking_arthur",
+   "label": "Lt Arthur Thomas Moore (Ret.)",
+   "xexts": {
+    "dissatisfying": "«Allora dovrò trovare altrove la mia illuminazione. Buongiorno.»"
+   }
+  },
+  {
+   "id": "embarking_arun",
+   "label": "Dr Arun Peel",
+   "xexts": {
+    "dissatisfying": "«Non importa. Il viaggiatore è sempre di ritorno, no? Quindi se torno dopo, sto tornando allora? O sto tornando adesso?»"
+   }
+  },
+  {
+   "id": "embarking_azita",
+   "label": "Ms Azita Bukhara",
+   "xexts": {
+    "dissatisfying": "«La mia mossa, allora…»"
+   }
+  },
+  {
+   "id": "embarking_auntmopsy",
+   "label": "A.M.",
+   "xexts": {
+    "dissatisfying": "«Le benedizioni della Giumenta su di te. E sul tuo Albero.»"
+   }
+  },
+  {
+   "id": "embarking_chaima",
+   "label": "Lalla Chaima",
+   "xexts": {
+    "dissatisfying": "«E il vostro clima. Anche il vostro clima è una delusione.»"
+   }
+  },
+  {
+   "id": "embarking_connie",
+   "label": "MCO Constance Lee",
+   "xexts": {
+    "dissatisfying": "«Non riesco a credere che una volta finanziassimo questo posto.»"
+   }
+  },
+  {
+   "id": "embarking_coquille",
+   "label": "Princess Coquille Amirejibi",
+   "xexts": {
+    "dissatisfying": "«Oh, tesoro. Non sono delusa, solo… be’, forse sono un <i>po’</i> delusa.»"
+   }
+  },
+  {
+   "id": "embarking_corso",
+   "label": "Sr. Corso Reverte",
+   "xexts": {
+    "dissatisfying": "«Be’, ho altri contatti...»"
+   }
+  },
+  {
+   "id": "embarking_dagmar",
+   "label": "«Daymare»",
+   "xexts": {
+    "dissatisfying": "«Non ti preoccupare! Fa piacere prendere un po’ d’aria di mare.»"
+   }
+  },
+  {
+   "id": "embarking_douglas",
+   "label": "DI Douglas Moore",
+   "xexts": {
+    "dissatisfying": "«Be’, non bisogna lagnarsi.»"
+   }
+  },
+  {
+   "id": "embarking_ehsan",
+   "label": "Mr Ehsan Fekri",
+   "xexts": {
+    "dissatisfying": "«So che la Casa ha attraversato tempi difficili. Ma sebbene molto sia stato tolto, molto rimane, no? Un’altra volta.»"
+   }
+  },
+  {
+   "id": "embarking_franklin",
+   "label": "Lord Franklin Bancroft",
+   "xexts": {
+    "dissatisfying": "«Ecco la dannata faccenda delle dannate biblioteche.»"
+   }
+  },
+  {
+   "id": "embarking_fraser",
+   "label": "Mr Fraser Strathcoyne",
+   "xexts": {
+    "dissatisfying": "«Questo non sarebbe accaduto al tempo della Curia dell’Isola. Addio.»"
+   }
+  },
+  {
+   "id": "embarking_hokobald",
+   "label": "Magister Hokobald",
+   "xexts": {
+    "dissatisfying": "«Perché questo maledetto posto è sempre così maledettamente desideroso di sprecare il mio maledetto tempo?»"
+   }
+  },
+  {
+   "id": "embarking_julian",
+   "label": "Julian Coseley",
+   "xexts": {
+    "dissatisfying": "«A volte, la fine arriva prima. A volte, non c’è una dannata fine a tutto questo.»"
+   }
+  },
+  {
+   "id": "embarking_morgen",
+   "label": "Mlle Margot Matutine",
+   "xexts": {
+    "dissatisfying": "«Arrivo affamata. Parto <i>famelica</i>. Qualcuno se ne pentirà… ma non tu, non oggi.»"
+   }
+  },
+  {
+   "id": "embarking_olympe",
+   "label": "Mme Olympe Bechet",
+   "xexts": {
+    "dissatisfying": "«<i>C’est la vie.</i>»"
+   }
+  },
+  {
+   "id": "embarking_rowena",
+   "label": "Professor Rowena Hengerst",
+   "xexts": {
+    "dissatisfying": "Il Trust si aspetta di meglio...’"
+   }
+  },
+  {
+   "id": "embarking_serena",
+   "label": "Dr Serena Blackwood",
+   "xexts": {
+    "dissatisfying": "«Molto è stato perso, vero? Non ti invidio. Buona fortuna.»"
+   }
+  },
+  {
+   "id": "embarking_stanislav",
+   "label": "Fr. Stanislav John Schaller",
+   "xexts": {
+    "dissatisfying": "«Come Dio vuole, suppongo. (Non chiedermi quale Dio!)»"
+   }
+  },
+  {
+   "id": "embarking_yvette",
+   "label": "Dr Yvette Southey",
+   "xexts": {
+    "dissatisfying": "«Forse non comprenderò mai…»"
+   }
+  },
+  {
+   "id": "embarking_zachary",
+   "label": "Mr Zachary Wakefield",
+   "xexts": {
+    "dissatisfying": "Wakefield non dice nulla. Ma in fondo, di rado lo fa."
+   }
+  }
+ ]
+}

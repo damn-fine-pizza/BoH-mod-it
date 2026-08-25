@@ -1,0 +1,181 @@
+{
+ "verbs": [
+  {
+   "id": "library.rowenarium.spencer.down",
+   "label": "Rowenarium",
+   "Desc": "Rowena la Ligeiana, protettrice della Casa, detiene la Chiave della Giumenta in pietra-verme, che apre la porta verso il Nessun Luogo. Di tanto in tanto l’ha prestata senza saggezza. Ma una sola volta l’ha prestata a Ys. La visita di Spencer Hobson ha esteso il Rowenarium «quasi-giù». [Il Rowenarium ora ammette intenzioni di Battente. Fornisce anche Aspetto Inverno.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.rowenarium.spencer.out",
+   "label": "Rowenarium",
+   "Desc": "Rowena la Ligeiana, protettrice della Casa, detiene la Chiave della Giumenta in pietra-verme, che apre la porta verso il Nessun Luogo. Di tanto in tanto l’ha prestata senza saggezza. Ma una sola volta l’ha prestata a Ys. La visita di Spencer Hobson ha esteso il Rowenarium «quasi-fuori». [Il Rowenarium ora ammette intenzioni di Battente. Fornisce anche Aspetto Battente.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "garden.beehive.liselotte",
+   "label": "Alveare",
+   "desc": "Le api, come gli archivisti, non sono da prendere alla leggera. Soprattutto queste api. Nascoste tra le loro faccende ronzanti: le eleganti larve nobili dal corpo ricurvo-da-verme che un giorno potrebbero essere i progenitori del nuovo Blomberende. I resti di Blomberende vengono a rendere omaggio. [Il Miele-Cuculo può talvolta trovarsi in questo alveare anche quando non è Numa.] ",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "skill",
+     "label": "Conoscenza"
+    }
+   ]
+  },
+  {
+   "id": "library.chrysalis.wisp",
+   "label": "Crisalide",
+   "desc": "Qualcosa potrebbe emergere, se solo potesse essere assicurata una Storia ospitale. Fino a quel momento, i suoi sogni potrebbero essere udibili per chi preme un orecchio contro il suo calore tremante, profumato di cielo. Poiché il «povero spiritello» è stato incorporato, la Crisalide è più liscia e un poco più fredda. [La Crisalide ora ammette intenzioni di Inverno. Fornisce anche Aspetto Inverno.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Dorsale"
+    },
+    {
+     "id": "i2",
+     "label": "Ventrale"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.chancel.mihail",
+   "label": "Santuario: il Chancel",
+   "desc": "Non nominiamo queste Ore, ma riconosciamo che insieme sono il Chancel, il Cruciforme, e il Rode. Osserva la luce abitante che non era qui quando l’altare fu prima innalzato. [L’Altare del Chancel ora ammette intenzioni di Forgia e Lanterna.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.sarcophagus.columbic.mihail",
+   "label": "Sarcofago Columbico",
+   "Desc": "«Sarcofago»: il divoratore di carne. Nessun osso rimane, ma il marmo è gelido di potenza. Osserva la luce che vi dimora, che non c’era quando il suo primo occupante – l’erede di Rowena? – fu sepolto molto tempo fa. [Il Sarcofago ora ammette intenzioni di Forgia e Lanterna.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.tentreto.offering",
+   "label": "Altare: St Tentreto",
+   "Desc": "Saint Tentreto della Porta Profonda, che ha quattro ali: per la stirpe Scīmafectra; la stirpe Glaeterfleoge; la stirpe Thritige; per la stirpe-interiore. I suoi fuochi sono stati nutriti dall’offerta dell’Ovest, come il Sole che tramonta a Ovest un tempo era nutrito con sangue. [L’altare ora ammette intenzione di Cuore, e fornisce aspetto di Cuore.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  }
+ ]
+}

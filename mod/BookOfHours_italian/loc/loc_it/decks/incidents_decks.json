@@ -1,0 +1,44 @@
+{
+ "decks": [
+  {
+   "id": "sweetbones.employables",
+   "label": "Assumibili",
+   "desc": ".."
+  },
+  {
+   "id": "incidents",
+   "label": "Incidenti",
+   "desc": ".."
+  },
+  {
+   "id": "incidents.numa",
+   "label": "Incidenti di Numa",
+   "desc": ".."
+  },
+  {
+   "id": "deck.weather.spring",
+   "label": "Meteo",
+   "desc": ".."
+  },
+  {
+   "id": "deck.weather.summer",
+   "label": "Meteo",
+   "desc": ".."
+  },
+  {
+   "id": "deck.weather.autumn",
+   "label": "Meteo",
+   "desc": ".."
+  },
+  {
+   "id": "deck.weather.winter",
+   "label": "Meteo",
+   "desc": ".."
+  },
+  {
+   "id": "numa.possibility",
+   "label": "Probabilità di Numa",
+   "desc": ".."
+  }
+ ]
+}

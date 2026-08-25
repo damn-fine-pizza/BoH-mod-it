@@ -1,0 +1,9 @@
+{
+ "recipes": [
+  {
+   "id": "talk.incident.irrelevant",
+   "label": "...?",
+   "startdescription": "[Questo visitatore non è interessato a quello. Trova un visitatore con interessi corrispondenti.]"
+  }
+ ]
+}

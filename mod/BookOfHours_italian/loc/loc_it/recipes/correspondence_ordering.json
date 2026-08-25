@@ -1,0 +1,235 @@
+{
+ "recipes": [
+  {
+   "id": "_write.order"
+  },
+  {
+   "id": "study.form.hint",
+   "label": "Ordinare Forniture?",
+   "startdescription": "[Aggiungi Inchiostro.]"
+  },
+  {
+   "id": "study.form.hint.consider.base",
+   "label": "Ordinare Forniture?",
+   "startdescription": "[Posiziona questo in uno Scrittoio per ordinare forniture.]"
+  },
+  {
+   "id": "write.order.encaustum",
+   "label": "«Un Grande Tesoro della Casa»",
+   "startdescription": "Ordinare beni domestici con inchiostro encaustum non è un comportamento appropriato per chi fa l’Archivista. A meno che, forse, l’Archivista non sia Thirza Blake."
+  },
+  {
+   "id": "write.order.ch.dripping",
+   "label": "Ordinare Grasso d’Arrosto (6d)",
+   "startdescription": "Ordina grasso d’arrosto da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.flour",
+   "label": "Ordinare Farina (3d)",
+   "startdescription": "Ordina farina da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.milk",
+   "label": "Ordinare Latte (3d)",
+   "startdescription": "Ordina latte da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.potatoes",
+   "label": "Ordinare Patate (3d)",
+   "startdescription": "Ordina patate da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.butter",
+   "label": "Ordinare Burro (3d)",
+   "startdescription": "Ordina burro da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.sugar",
+   "label": "Ordinare Zucchero (6d)",
+   "startdescription": "Ordina zucchero da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.tea.lapsang",
+   "label": "Ordinare Tè Lapsang (1/-)",
+   "startdescription": "Ordina un pacchetto di Tè Lapsang Souchong da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.tea.assam",
+   "label": "Ordinare Tè Assam (1/-)",
+   "startdescription": "Ordina un pacchetto di Tè Assam da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.oil.umbrous",
+   "label": "Ordinare Olio Ombroso (1/6)",
+   "startdescription": "Ordina una latta di Olio Ombroso da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.oil.oscillate",
+   "label": "Ordinare Olio Oscillante (1/6)",
+   "startdescription": "Ordina una latta di Olio Oscillante da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.oil.scintillate",
+   "label": "Ordinare Olio Scintillante (1/6)",
+   "startdescription": "Ordina una latta di Olio Scintillante da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.quire.paper",
+   "label": "Ordinare una Mano di Carta (6d)",
+   "startdescription": "Ordina una mano di carta da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.coffee.dawnlion",
+   "label": "Ordinare Caffè Dawnlion (1/-)",
+   "startdescription": "Ordina un pacchetto di Caffè Dawnlion da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.coffee.eveningisles",
+   "label": "Ordinare Caffè Evening Isles (1/-)",
+   "startdescription": "Ordina un pacchetto di Caffè Evening Isles da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.ham",
+   "label": "Ordinare Prosciutto (6d)",
+   "startdescription": "Ordina una scatoletta di Prosciutto da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.glue",
+   "label": "Ordinare Colla (6d)",
+   "startdescription": "Ordina colla da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.wire.copper",
+   "label": "Ordinare Filo di Rame (2/-)",
+   "startdescription": "Ordina un rocchetto di Filo di Rame da Cater & Hero.",
+   "desc": "Traccia piccoli simboli sul modulo sottile."
+  },
+  {
+   "id": "write.order.ch.reset",
+   "label": "Ricominciare",
+   "startdescription": "Cancella con cura gli ordini sul modulo C&H, e ricomincia –"
+  },
+  {
+   "id": "write.order.trn.almonds",
+   "label": "Ordinare Mandorle (3d)",
+   "startdescription": "Ordina mandorle da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.beef",
+   "label": "Ordinare Manzo (1/-)",
+   "startdescription": "Ordina un taglio di Manzo da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.plums",
+   "label": "Ordinare Prugne (6d)",
+   "startdescription": "Ordina prugne da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.pheasant",
+   "label": "Ordinare Fagiano (6d)",
+   "startdescription": "Ordina un fagiano da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.packet.cocoa",
+   "label": "Ordinare Cioccolata da Bere (1/6)",
+   "startdescription": "Ordina un pacchetto della famigerata Cioccolata da Bere di T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.bottle.armagnac",
+   "label": "Ordinare Armagnac (7/-)",
+   "startdescription": "Ordina una bottiglia di Armagnac d’Ys da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.bottle.lambig",
+   "label": "Ordinare Lambig (7/-)",
+   "startdescription": "Ordina una bottiglia di Lambig Broceliande da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.bottle.raveline",
+   "label": "Ordinare Vino Domaine Raveline (7/-)",
+   "startdescription": "Ordina una bottiglia di Domaine Raveline da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.bottle.roscraggan",
+   "label": "Ordinare Whisky Roscraggan (5/-)",
+   "startdescription": "Ordina una bottiglia di Whisky Roscraggan da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.bottle.strathcoyne",
+   "label": "Ordinare Whisky Strathcoyne (5/-)",
+   "startdescription": "Ordina una bottiglia di Whisky Strathcoyne da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.bottle.jannings",
+   "label": "Ordinare Schloss Jannings (5/-)",
+   "startdescription": "Ordina una bottiglia di vino Schloss Jannings da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.witchworms.desiccated",
+   "label": "Ordinare Stregovermi Essiccati (10/-)",
+   "startdescription": "Ordina Stregovermi Essiccati da T.R.N. Limited. Il prezzo elevato riflette il valore del loro rapporto con il Bureau di Soppressione, che scoraggia il commercio di materiali con questo livello di rischio onirico.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.arsenic",
+   "label": "Ordinare Arsenico (3/-)",
+   "startdescription": "Ordina arsenico da T.R.N. Limited, che aggirerà premurosamente i requisiti del Pharmacy Act.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.parchment.nivine",
+   "label": "Ordinare Pergamena Nivine (3/-)",
+   "startdescription": "Ordina una mano di Pergamena Nivine da T.R.N. Limited.",
+   "desc": "Segna con cura la carta color crema."
+  },
+  {
+   "id": "write.order.trn.reset",
+   "label": "Ricominciare",
+   "startdescription": "Cancella con cura gli ordini sul modulo T.R.N., e ricomincia –"
+  },
+  {
+   "id": "ch.order.send",
+   "label": "Spedire un Modulo d’Ordine Cater & Hero Completato",
+   "startdescription": "Completa l’ordine.",
+   "desc": "La Direttrice delle Poste firma e sigilla l’ordine, e lo colloca dove si collocano correttamente gli ordini timbrati. «Aspetta tre giorni» comanda."
+  },
+  {
+   "id": "trn.order.send",
+   "label": "Spedire un Modulo d’Ordine T.R.N. Completato",
+   "startdescription": "Completa l’ordine.",
+   "desc": "La Direttrice delle Poste firma e sigilla l’ordine, e lo colloca dove si collocano correttamente gli ordini timbrati. «Aspetta tre giorni» comanda."
+  },
+  {
+   "id": "postoffice.order.send.hint",
+   "label": "Spedire un Modulo d’Ordine Completato?",
+   "startdescription": "[Fornisci una somma di denaro pari al costo. La Direttrice delle Poste compilerà un vaglia postale.]"
+  }
+ ]
+}

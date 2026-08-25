@@ -1,0 +1,14 @@
+{
+ "elements": [
+  {
+   "id": "circ.waters.receding",
+   "label": "Acque Che Si Ritirano",
+   "desc": "Ancora una volta, le acque si ritirano nei livelli inferiori della Casa."
+  },
+  {
+   "id": "circ.depths.uncovered",
+   "label": "Profondità Scoperte",
+   "desc": "Ancora una volta, il mare si è ritirato dalle caverne dell’Isola."
+  }
+ ]
+}

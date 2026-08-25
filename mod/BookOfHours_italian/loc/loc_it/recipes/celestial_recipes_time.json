@@ -1,0 +1,101 @@
+{
+ "recipes": [
+  {
+   "id": "day.daybreak",
+   "label": "Spuntare del Giorno",
+   "startdescription": "Un’altra notte non è stata infinita.",
+   "desc": "Le Memorie svaniscono; l’assistenza se ne va; ma l’Anima si rinnova."
+  },
+  {
+   "id": "day.dawn",
+   "label": "Alba",
+   "startdescription": "A quest’ora le sorelle dell’Abbazia levavano la voce in lode della Madrugad, per l’ufficio dell’Aurora."
+  },
+  {
+   "id": "day.morning",
+   "label": "Mattina",
+   "startdescription": "La terza ora, quando un tempo si cantava l’ufficio della Terza. Osserva il giorno aprirsi come una porta."
+  },
+  {
+   "id": "day.midday",
+   "label": "Mezzogiorno",
+   "startdescription": "Prima della grande divisione, questa era la Sesta Ora, quando i sacerdoti guidavano inni al Sole-in-Splendore. Ora Mezzogiorno, come si dice, non è più quello di un tempo. Forse il Nuovo Re cambierà le cose."
+  },
+  {
+   "id": "day.afternoon",
+   "label": "Pomeriggio",
+   "startdescription": "La piccola ora chiamata Nona, quando le porte del Mansus sono più strettamente chiuse. Per i laici, le ore in cui possiamo pregustare il tè, o festeggiarlo."
+  },
+  {
+   "id": "day.dusk",
+   "label": "Crepuscolo",
+   "startdescription": "La notte dal giorno; l’argento dall’oro. L’ora dei vespri, quando i sacerdoti onoravano il sorgere della stella della sera, Meniscate.",
+   "desc": "La notte è scesa. L’alba arriverà presto."
+  },
+  {
+   "id": "day.night",
+   "label": "Notte",
+   "startdescription": "La notte è scesa. L’alba arriverà presto. Veglia."
+  },
+  {
+   "id": "time.leap",
+   "label": "Al Crocevia delle Stagioni"
+  },
+  {
+   "id": "year.season.spring",
+   "label": "Primavera",
+   "startdescription": "Il mondo si scalda."
+  },
+  {
+   "id": "year.season.summer",
+   "label": "Estate",
+   "startdescription": "Il Graal al proprio apice."
+  },
+  {
+   "id": "year.season.autumn",
+   "label": "Autunno",
+   "startdescription": "La stagione dell’Elegiasta."
+  },
+  {
+   "id": "year.season.winter",
+   "label": "Inverno",
+   "startdescription": "Ora arriva il Bianco."
+  },
+  {
+   "id": "block.numa.initial",
+   "label": "Blocco Iniziale di Numa",
+   "startdescription": "Aggiungi due gettoni di blocco per Numa"
+  },
+  {
+   "id": "draw.numa",
+   "label": "Pescare un Gettone Numa",
+   "startdescription": "Pescare un Gettone Numa"
+  },
+  {
+   "id": "weather.enactor.numa",
+   "label": "Numa-Bruma"
+  },
+  {
+   "id": "year.season.numa.begin",
+   "label": "Numa",
+   "desc": "Siamo alla soglia di Numa, la stagione labirinto – la stagione che dura un solo giorno. [Quando Numa finisce, <i>tutte</i> le Memorie svaniranno con essa – anche quelle persistenti, come le lezioni di abilità.]"
+  },
+  {
+   "id": "year.season.numa",
+   "label": "Numa",
+   "startdescription": "Numa, la stagione più breve, la stagione labirinto, quando l’anno perde la strada, quando il Tempo è un fiume e la Memoria un uccello alato. In Numa, le stranezze maturano nei giardini dell’Isola – arrivano visitatori inattesi – la memoria se ne va. [Quando Numa finisce, tutte le Memorie svaniranno con essa, anche quelle persistenti. Una stagione su nove a Brancrug è Numa, ma Numa è la vagabonda, Numa non ha araldi. Numa potrebbe arrivare due volte in un anno – o potrebbero passare quattro anni senza il tocco delle sue nebbie.]"
+  },
+  {
+   "id": "year.season.autumn.return"
+  },
+  {
+   "id": "year.season.winter.return"
+  },
+  {
+   "id": "year.season.spring.return"
+  },
+  {
+   "id": "year.season.summer.return"
+  }
+ ]
+}

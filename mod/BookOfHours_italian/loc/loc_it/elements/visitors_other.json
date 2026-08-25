@@ -1,0 +1,99 @@
+{
+ "elements": [
+  {
+   "id": "connie.resigned",
+   "label": "Constance Lee",
+   "desc": "«In fin dei conti, il Bureau di Soppressione non è che l’ennesima congrega che decide quali libri dovrebbero leggere tutti gli altri... e poi li legge per conto suo. La mia lettera di dimissioni è pronta. La spedirò da un luogo sicuro... senza indirizzo di ritorno. Ecco come raggiungermi se davvero ne avrai bisogno...» [Connie non è più una Visitatrice e non avrà ulteriore parte nelle storie; ma potrebbe comunque diventare una fondatrice dell’Istituto del Faro.]"
+  },
+  {
+   "id": "echidna",
+   "label": "Mrs E",
+   "desc": "L’autodefinita Madre dei Mostri. Una donna allegra e rotonda in un indumento verde-grigio simile a un ampio dirndl."
+  },
+  {
+   "id": "echidna.persistent",
+   "label": "Mrs E",
+   "desc": "L’autodefinita Madre dei Mostri. Una donna allegra e rotonda in un indumento verde-grigio simile a un ampio dirndl."
+  },
+  {
+   "id": "elie.persistent",
+   "label": "La Promessa di Elie",
+   "desc": "Un tempo, Elie la Nera era la Matriarca delle Sorelle del Triplo Nodo a Damasco. Ora è un’alleata di Ys – e una candidata all’Istituto del Faro."
+  },
+  {
+   "id": "liselotte",
+   "label": "Il Sapere di Liselotte",
+   "desc": "Direttrice di Lyterion; dietista; alleata della stirpe Blomberende. Liselotte desidera portare una cassa di larve nobili Blomberende addormentate, affinché trovino rifugio qui alla Hush House. [Usa questa carta nell’alveare della Hush House per concedere loro rifugio – o se decidi di rifiutarla, restituisci questa carta a Stanislav nel nodo Dio nel Bosco.]"
+  },
+  {
+   "id": "liselotte.lyterion.new",
+   "label": "L’Impresa di Liselotte",
+   "desc": "Liselotte – direttrice di Lyterion; dietista; alleata della stirpe Blomberende – ha installato le sue «langravie in esilio» nell’alveare della Hush House. [Restituisci questa carta a Stanislav nel nodo Dio nel Bosco.]"
+  },
+  {
+   "id": "retiring_liselotte",
+   "label": "Liselotte, in Partenza",
+   "desc": "Liselotte – direttrice di Lyterion; dietista; alleata della stirpe Blomberende – se n’è andata nel mondo. Forse il Bureau di Soppressione non la cercherà."
+  },
+  {
+   "id": "rowena.persistent",
+   "label": "Il Fardello di Rowena",
+   "desc": "Rowena, intrappolata tra luna e marea, sangue e oro, Ys e le Marche, ha a lungo abbracciato il suo castigo. Continuerà a servire da protettrice, anche mentre i suoi appetiti si affievoliscono e il mare prende ciò che resta di lei, onda dopo onda. Finché non sarà scomparsa, la Chiave della Giumenta rimane il suo fardello, solo suo."
+  },
+  {
+   "id": "spencer.enroute.out",
+   "label": "Spencer Hobson: Prossimo Numa",
+   "desc": "Spencer arriverà con Numa."
+  },
+  {
+   "id": "spencer.enroute.down",
+   "label": "Spencer Hobson: Prossimo Numa",
+   "desc": "Spencer arriverà con Numa."
+  },
+  {
+   "id": "spencer.out",
+   "label": "Spencer Hobson",
+   "desc": "Spencer è stato molte cose: giornalista, detective privato, prete, elemento irregolare del Bureau di Soppressione. È ancora molte cose. Potrebbe non essere un problema. Ha scarsa inclinazione a parlare. Spera di visitare il Rowenarium sotto la Hush House – per attraversarlo – per andare «fuori» da qualche parte. [Portalo al Rowenarium, o rifiuta l’accesso restituendolo al nodo Ospite Infinito. Nota che Spencer arriva con Numa, ma resterà in agguato nelle nebbie della Cornovaglia anche dopo che Numa è finito, fino a quando non risolvi la sua faccenda.]"
+  },
+  {
+   "id": "spencer.down",
+   "label": "Spencer Hobson",
+   "desc": "Spencer è stato molte cose: giornalista, detective privato, prete, elemento irregolare del Bureau di Soppressione. È ancora molte cose. Potrebbe non essere un problema. Ha scarsa inclinazione a parlare. Spera di visitare il Rowenarium sotto la Hush House – per attraversarlo – per andare «giù» da qualche parte. [Portalo al Rowenarium, o rifiuta l’accesso restituendolo al nodo Ospite Infinito. Nota che Spencer arriva con Numa, ma resterà in agguato nelle nebbie della Cornovaglia anche dopo che Numa è finito, fino a quando non risolvi la sua faccenda.]"
+  },
+  {
+   "id": "spencer.trace",
+   "label": "Lo Spazio di Spencer",
+   "desc": "Qui è dov’era Spencer. [Restituisci questo al nodo Ospite Infinito.]"
+  },
+  {
+   "id": "wisp.agdistis",
+   "label": "Lo Spiritello di Agdistis",
+   "desc": "Un «povero spiritello» preservato da Agdistis dal disastro di Grunewald. Tuba, miagola, caldo al tatto. Teoricamente innocuo. [Agdistis ti ha chiesto di posizionarlo nella Crisalide che puoi trovare nel Cucurbit, ma potresti distruggerlo nella fornace se avessi dei sospetti.]"
+  },
+  {
+   "id": "wisp.skin.agdistis",
+   "label": "Lo Spiritello di Agdistis: Muta",
+   "desc": "La muta di un «povero spiritello» preservato da Agdistis dal disastro di Grunewald. Lo spiritello stesso ora risiede nella Crisalide. [Restituisci questo ad Agdistis.]"
+  },
+  {
+   "id": "wisp.trace.agdistis",
+   "label": "Lo Spiritello di Agdistis: Traccia Incenerita",
+   "desc": "I resti carbonizzati di un «povero spiritello» preservato da Agdistis dal disastro di Grunewald. Probabilmente non era così innocuo come sembrava... [Restituisci questo ad Agdistis.]"
+  },
+  {
+   "id": "wisp.ehsan",
+   "label": "Lo Spiritello di Ehsan",
+   "desc": "Un «povero spiritello» preservato da Ehsan dal disastro di Grunewald. Tuba, miagola, caldo al tatto. Teoricamente innocuo. [Ehsan ti ha chiesto di posizionarlo nella Crisalide che puoi trovare nel Cucurbit, ma potresti distruggerlo nella fornace se avessi dei sospetti.]"
+  },
+  {
+   "id": "wisp.skin.ehsan",
+   "label": "Lo Spiritello di Ehsan: Muta",
+   "desc": "La muta di un «povero spiritello» preservato da Ehsan dal disastro di Grunewald. Lo spiritello stesso ora risiede nella Crisalide. [Restituisci questo a Ehsan.]"
+  },
+  {
+   "id": "wisp.trace.ehsan",
+   "label": "Lo Spiritello di Ehsan: Traccia Incenerita",
+   "desc": "I resti carbonizzati di un «povero spiritello» preservato da Ehsan dal disastro di Grunewald. Probabilmente non era così innocuo come sembrava... [Restituisci questo a Ehsan.]"
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_VICTORY", "label": "Victory", "iconUnlocked": "history" },
+
+
+  { "id": "A_V_HISTORY_WHEELOFFORTUNE", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Destiny",
+    "descriptionunlocked": "I unlocked the Wheel of Fortune card."
+  },
+  { "id": "A_V_HISTORY_FOOL", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Folly & Mania",
+    "descriptionunlocked": "I unlocked the Fool card."
+  },
+  { "id": "A_V_HISTORY_WORLD", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Assured Success",
+    "descriptionunlocked": "I unlocked the World card."
+  },
+  { "id": "A_V_HISTORY_MOON", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Occult Forces",
+    "descriptionunlocked": "I unlocked the Moon card."
+  },
+  { "id": "A_V_HISTORY_DEVIL", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "That Which Is Predestined",
+    "descriptionunlocked": "I unlocked the Devil card."
+  },
+  { "id": "A_V_HISTORY_STAR", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Hope & Prospects",
+    "descriptionunlocked": "I unlocked the Star card."
+  },
+  { "id": "A_V_HISTORY_DEATH", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Ends & Mortality",
+  "descriptionunlocked": "I unlocked the Death card."
+},
+{ "id": "A_V_HISTORY_EMPRESS", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Unknown",
+"descriptionunlocked": "I unlocked the Empress card."
+},
+{ "id": "A_V_HISTORY_JUDGEMENT", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Summons & Rebirth",
+"descriptionunlocked": "I unlocked the Judgement card."
+},
+{ "id": "A_V_HISTORY_HERMIT", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Vigilance & Treason",
+"descriptionunlocked": "I unlocked the Hermit card."
+},
+{ "id": "A_V_HISTORY_SUN", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Material Happiness",
+"descriptionunlocked": "I unlocked the Sun card."
+},
+{ "id": "A_V_HISTORY_TOWER", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "CATASTROPHE",
+"descriptionunlocked": "I unlocked the Tower card."
+},
+{ "id": "A_V_HISTORY_TEMPERANCE", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Compromise & Adaptation",
+"descriptionunlocked": "I unlocked the Temperance card."
+}
+  
+
+]}

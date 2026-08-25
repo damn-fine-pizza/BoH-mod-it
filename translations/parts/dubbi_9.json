@@ -1,0 +1,7 @@
+[
+ {
+  "en": "Frith-Weft",
+  "ipotesi": "Frith-Weft (lasciato invariato)",
+  "dubbio": "Composto da radici inglesi riconoscibili (frith = arcaico per 'pace/rifugio' o 'bosco'; weft = 'trama' nella tessitura), quindi per le regole andrebbe tradotto come gli altri composti (es. Cuckoo-Honey, Sun-in-Rags). Non ho trovato precedenti in it.json né elementi di contesto che chiariscano quale accezione di 'frith' sia intesa, e ricorre 1 sola volta (elements/frithweft.label). Ho lasciato il nome inglese per prudenza; se è un oggetto ricorrente altrove, andrebbe verificato e uniformato."
+ }
+]

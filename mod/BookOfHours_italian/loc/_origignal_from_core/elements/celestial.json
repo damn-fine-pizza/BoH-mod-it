@@ -1,0 +1,157 @@
+{
+    "elements": [
+        {
+            "id": "time.daybreak",
+          "label": "Daybreak",
+          "aspects":{"sleepytime":1},
+            "desc": "[daybreak]",
+            "noartneeded":true,
+            "verbicon":"time.daybreak"
+        },
+        {
+            "id": "time.dawn",
+          "label": "Dawn",
+            "desc": "'The hour that dreams are brighter and winds colder.' - Flecker",
+            "noartneeded":true,
+            "verbicon":"time.dawn"
+        },
+        {
+            "id": "time.morning",
+          "label": "Morning",
+            "desc": "Terce",
+            "noartneeded":true,
+            "verbicon":"time.morning"
+        },
+        {
+            "id": "time.midday",
+          "label": "Midday",
+            "desc": "Sext",
+            "noartneeded":true,
+            "verbicon":"time.midday"
+        },
+        {
+            "id": "time.afternoon",
+          "label": "Afternoon",
+            "desc": "Nones",
+            "noartneeded":true,
+            "verbicon":"time.afternoon"
+        },
+        {
+            "id": "time.dusk",
+          "label": "Dusk",
+            "desc": "Vespers",
+            "noartneeded":true,
+            "verbicon":"time.dusk"
+        },
+        {
+            "id": "time.night",
+          "label": "Night",
+            "desc": "Vigil",
+            "aspects":{"sleepytime":1},
+            "noartneeded":true,
+            "verbicon":"time.night"
+        },
+		{
+            "id": "season.spring",
+            "label": "Spring",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.spring",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.spring.paused"}
+        },
+						{
+            "id": "season.summer",
+            "label": "Summer",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.summer",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.summer.paused"}
+        },
+						{
+            "id": "season.autumn",
+            "label": "Autumn",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.autumn",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.autumn.paused"}
+        },
+						{
+            "id": "season.winter",
+            "label": "Winter",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.winter",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.winter.paused"}
+        },
+        
+						{
+            "id": "season.numa",
+            "label": "Numa",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.numa",
+            "noartneeded":true,
+            "ishidden":"true"
+        },
+
+        {
+          "id": "season.spring.paused",
+          "label": "Spring [Paused]",
+
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.spring"}
+      },
+          {
+          "id": "season.summer.paused",
+          "label": "Summer [Paused]",
+
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.summer"}
+      },
+          {
+          "id": "season.autumn.paused",
+          "label": "Autumn [Paused]",
+
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.autumn"}
+      },
+          {
+          "id": "season.winter.paused",
+          "label": "Winter [Paused]",
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.winter"}
+      },
+
+								{
+            "id": "towards.numa",
+            "label": "Towards Numa",
+            "desc": "The season called Numa visits Brancrug once every nine seasons; but Numa is capricious as mist. Exactly when in those nine seasons it will fall - that is very hard to know. But the closer to nine this number comes, the sooner Numa will arrive."
+        },
+        {
+          "id": "next.numa",
+          "label": "Numa Next",
+          "desc": "The next season will be Numa."
+      },
+      {
+        "id": "block.numa",
+        "label": "Numa Not Yet",
+        "desc": "Prevents Numa being drawn for a while - one of these should be purged each numa draw."
+    }
+    ]
+}

@@ -1,0 +1,274 @@
+{
+ "recipes": [
+  {
+   "id": "evolve.illumination.xmet",
+   "label": "Migliorare il Mio Mettle",
+   "startdescription": "Usa l’Illuminazione per capire meglio chi sono."
+  },
+  {
+   "id": "evolve.illumination.xpho",
+   "label": "Rischiarare il Mio Phost",
+   "startdescription": "Usa l’Illuminazione per mettere a fuoco il mio splendore interiore."
+  },
+  {
+   "id": "evolve.hushery.xtri",
+   "label": "Seguire il Mio Trist",
+   "startdescription": "Cambierò."
+  },
+  {
+   "id": "evolve.hushery.xwis",
+   "label": "Affinare il Mio Wist",
+   "startdescription": "Ricorderò."
+  },
+  {
+   "id": "evolve.nyctodromy.xfet",
+   "label": "Espandere il Mio Fet",
+   "startdescription": "La Nittodromia mostrerà al mio Fet dove possiamo andare."
+  },
+  {
+   "id": "evolve.nyctodromy.xsha",
+   "label": "Aprire il Mio Shapt",
+   "startdescription": "La Nittodromia porterà il mio Shapt verso nuove soglie."
+  },
+  {
+   "id": "evolve.skolekosophy.xsha",
+   "label": "Aprire il Mio Shapt",
+   "startdescription": "La Scolecosofia dissolverà i limiti del mio Shapt."
+  },
+  {
+   "id": "evolve.skolekosophy.xere",
+   "label": "Abbracciare il Mio Ereb",
+   "startdescription": "La Scolecosofia spezzerà le catene del mio Ereb. "
+  },
+  {
+   "id": "evolve.bosk.xere",
+   "label": "Abbracciare il Mio Ereb",
+   "startdescription": "Il Bosco è pieno di ombre."
+  },
+  {
+   "id": "evolve.bosk.xhea",
+   "label": "Allenare la Mia Salute",
+   "startdescription": "Il Bosco è pieno di vita."
+  },
+  {
+   "id": "evolve.birdsong.xcho",
+   "label": "Intensificare il Mio Chor",
+   "startdescription": "Canto degli Uccelli: ascoltiamo, impariamo, cambiamo."
+  },
+  {
+   "id": "evolve.birdsong.xtris",
+   "label": "Seguire il Mio Trist",
+   "startdescription": "Canto degli Uccelli: ciò che eravamo, ciò che saremo."
+  },
+  {
+   "id": "evolve.preservation.xcho",
+   "label": "Intensificare il Mio Chor",
+   "startdescription": "Preservazione: un cuore batte ancora sotto la pelle del mondo."
+  },
+  {
+   "id": "evolve.preservation.xhea",
+   "label": "Allenare la Mia Salute",
+   "startdescription": "Preservazione: la terra resiste, e anch’io resisto."
+  },
+  {
+   "id": "evolve.horomachistry.xmet",
+   "label": "Migliorare il Mio Mettle",
+   "startdescription": "L’Oromachia accrescerà le mie aspirazioni."
+  },
+  {
+   "id": "evolve.horomachistry.xfet",
+   "label": "Espandere il Mio Fet",
+   "startdescription": "L’Oromachia amplierà le mie aspirazioni."
+  },
+  {
+   "id": "evolve.ithastry.xpho",
+   "label": "Rischiarare il Mio Phost",
+   "startdescription": "L’Ithastria accenderà il mio splendore interiore."
+  },
+  {
+   "id": "evolve.ithastry.xwis",
+   "label": "Rafforzare il Mio Wist",
+   "startdescription": "L’Ithastria assicurerà che il mio Wist perduri."
+  },
+  {
+   "id": "evolve.illumination.xmet2",
+   "label": "Migliorare Ulteriormente il Mio Mettle",
+   "startdescription": "Usa l’Illuminazione per capire meglio chi sono."
+  },
+  {
+   "id": "evolve.illumination.xpho2",
+   "label": "Rischiarare Ulteriormente il Mio Phost",
+   "startdescription": "Usa l’Illuminazione per mettere a fuoco il mio splendore interiore."
+  },
+  {
+   "id": "evolve.hushery.xtri2",
+   "label": "Seguire Ulteriormente il Mio Trist",
+   "startdescription": "Cambierò."
+  },
+  {
+   "id": "evolve.hushery.xwis2",
+   "label": "Affinare Ulteriormente il Mio Wist",
+   "startdescription": "Ricorderò."
+  },
+  {
+   "id": "evolve.nyctodromy.xfet2",
+   "label": "Espandere Ulteriormente il Mio Fet",
+   "startdescription": "La Nittodromia mostrerà al mio Fet dove possiamo andare."
+  },
+  {
+   "id": "evolve.nyctodromy.xsha2",
+   "label": "Aprire Ulteriormente il Mio Shapt",
+   "startdescription": "La Nittodromia porterà il mio Shapt verso nuove soglie."
+  },
+  {
+   "id": "evolve.skolekosophy.xsha2",
+   "label": "Aprire Ulteriormente il Mio Shapt",
+   "startdescription": "La Scolecosofia dissolverà i limiti del mio Shapt."
+  },
+  {
+   "id": "evolve.skolekosophy.xere2",
+   "label": "Abbracciare Ulteriormente il Mio Ereb",
+   "startdescription": "La Scolecosofia spezzerà le catene del mio Ereb. "
+  },
+  {
+   "id": "evolve.bosk.xere2",
+   "label": "Abbracciare Ulteriormente il Mio Ereb",
+   "startdescription": "Il Bosco è pieno di ombre."
+  },
+  {
+   "id": "evolve.bosk.xhea2",
+   "label": "Allenare Ulteriormente la Mia Salute",
+   "startdescription": "Il Bosco è pieno di vita."
+  },
+  {
+   "id": "evolve.birdsong.xcho2",
+   "label": "Intensificare Ulteriormente il Mio Chor",
+   "startdescription": "Canto degli Uccelli: ascoltiamo, impariamo, cambiamo."
+  },
+  {
+   "id": "evolve.birdsong.xtris2",
+   "label": "Seguire Ulteriormente il Mio Trist",
+   "startdescription": "Canto degli Uccelli: ciò che eravamo, ciò che saremo."
+  },
+  {
+   "id": "evolve.preservation.xcho2",
+   "label": "Intensificare Ulteriormente il Mio Chor",
+   "startdescription": "Preservazione: un cuore batte ancora sotto la pelle del mondo."
+  },
+  {
+   "id": "evolve.preservation.xhea2",
+   "label": "Allenare Ulteriormente la Mia Salute",
+   "startdescription": "Preservazione: la terra resiste, e anch’io resisto."
+  },
+  {
+   "id": "evolve.horomachistry.xmet2",
+   "label": "Migliorare Ulteriormente il Mio Mettle",
+   "startdescription": "L’Oromachia accrescerà le mie aspirazioni."
+  },
+  {
+   "id": "evolve.horomachistry.xfet2",
+   "label": "Espandere Ulteriormente il Mio Fet",
+   "startdescription": "L’Oromachia amplierà le mie aspirazioni."
+  },
+  {
+   "id": "evolve.ithastry.xpho2",
+   "label": "Rischiarare Ulteriormente il Mio Phost",
+   "startdescription": "L’Ithastria accenderà il mio splendore interiore."
+  },
+  {
+   "id": "evolve.ithastry.xwis2",
+   "label": "Rafforzare Ulteriormente il Mio Wist",
+   "startdescription": "L’Ithastria assicurerà che il mio Wist perduri."
+  },
+  {
+   "id": "evolve.illumination.xmet3",
+   "label": "Migliorare al Massimo il Mio Mettle",
+   "startdescription": "Usa l’Illuminazione per capire meglio chi sono."
+  },
+  {
+   "id": "evolve.illumination.xpho3",
+   "label": "Rischiarare al Massimo il Mio Phost",
+   "startdescription": "Usa l’Illuminazione per mettere a fuoco il mio splendore interiore."
+  },
+  {
+   "id": "evolve.hushery.xtri3",
+   "label": "Seguire il Mio Trist Fino in Fondo",
+   "startdescription": "Cambierò."
+  },
+  {
+   "id": "evolve.hushery.xwis3",
+   "label": "Affinare al Massimo il Mio Wist",
+   "startdescription": "Ricorderò."
+  },
+  {
+   "id": "evolve.nyctodromy.xfet3",
+   "label": "Espandere al Massimo il Mio Fet",
+   "startdescription": "La Nittodromia mostrerà al mio Fet dove possiamo andare."
+  },
+  {
+   "id": "evolve.nyctodromy.xsha3",
+   "label": "Aprire al Massimo il Mio Shapt",
+   "startdescription": "La Nittodromia porterà il mio Shapt verso nuove soglie."
+  },
+  {
+   "id": "evolve.skolekosophy.xsha3",
+   "label": "Aprire al Massimo il Mio Shapt",
+   "startdescription": "La Scolecosofia dissolverà i limiti del mio Shapt."
+  },
+  {
+   "id": "evolve.skolekosophy.xere3",
+   "label": "Abbracciare al Massimo il Mio Ereb",
+   "startdescription": "La Scolecosofia spezzerà le catene del mio Ereb. "
+  },
+  {
+   "id": "evolve.bosk.xere3",
+   "label": "Abbracciare al Massimo il Mio Ereb",
+   "startdescription": "Il Bosco è pieno di ombre."
+  },
+  {
+   "id": "evolve.bosk.xhea3",
+   "label": "Allenare al Massimo la Mia Salute",
+   "startdescription": "Il Bosco è pieno di vita."
+  },
+  {
+   "id": "evolve.birdsong.xcho3",
+   "label": "Intensificare al Massimo il Mio Chor",
+   "startdescription": "Canto degli Uccelli: ascoltiamo, impariamo, cambiamo."
+  },
+  {
+   "id": "evolve.birdsong.xtris3",
+   "label": "Seguire il Mio Trist Fino in Fondo",
+   "startdescription": "Canto degli Uccelli: ciò che eravamo, ciò che saremo."
+  },
+  {
+   "id": "evolve.preservation.xcho3",
+   "label": "Intensificare al Massimo il Mio Chor",
+   "startdescription": "Preservazione: un cuore batte ancora sotto la pelle del mondo."
+  },
+  {
+   "id": "evolve.preservation.xhea3",
+   "label": "Allenare al Massimo la Mia Salute",
+   "startdescription": "Preservazione: la terra resiste, e anch’io resisto."
+  },
+  {
+   "id": "evolve.horomachistry.xmet3",
+   "label": "Migliorare al Massimo il Mio Mettle",
+   "startdescription": "L’Oromachia accrescerà le mie aspirazioni."
+  },
+  {
+   "id": "evolve.horomachistry.xfet3",
+   "label": "Espandere al Massimo il Mio Fet",
+   "startdescription": "L’Oromachia amplierà le mie aspirazioni."
+  },
+  {
+   "id": "evolve.ithastry.xpho3",
+   "label": "Rischiarare al Massimo il Mio Phost",
+   "startdescription": "L’Ithastria accenderà il mio splendore interiore."
+  },
+  {
+   "id": "evolve.ithastry.xwis3",
+   "label": "Rafforzare al Massimo il Mio Wist",
+   "startdescription": "L’Ithastria assicurerà che il mio Wist perduri."
+  }
+ ]
+}

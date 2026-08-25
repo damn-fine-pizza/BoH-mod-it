@@ -1,0 +1,61 @@
+{"recipes": [
+ 
+    {"id": "talk.handle.beast",
+    "label": "Time with the Beastie",
+    "actionid": "talk",
+    "reqs":{"beast":1,"ability":1,"sustenance":-1,"cooperative":1},
+    "startdescription": "Offer this beast my company. Who knows? Perhaps it will offer something in return.",
+    "desc": "And now, it suggests, a meal would be welcome.",
+    "warmup":60,
+    "aspects":{"fatiguing.ability":1,"dist":1},
+    "craftable":true
+    },
+
+{"id": "talk.feed.beast",
+"label": "Feed the Beastie",
+"actionid": "talk",
+"reqs":{"beast":1,"sustenance":1,"ability":1,"cooperative":-1},
+"startdescription": "Satisfy this creature's appetite. [Food will make a hungry beast, or a wild one, co-operative.]",
+"desc": "A full belly makes a helpful friend. [This beastie is now inclined to co-operate.]",
+"warmup":60,
+"aspects":{"fatiguing.ability":1,"fatiguing.ingredients":1, "recovering":1},
+"craftable":true
+},
+
+
+{"id": "talk.feed.beast.hint",
+"label": "Feed the Beastie?",
+"actionid": "talk",
+"reqs":{"beast":1,"sustenance":-1,"cooperative":-1},
+"startdescription": "Use a Soul card and suitable Sustenance. [Food will make a hungry beast, or a wild one, co-operative.]",
+"hintonly":true
+},
+
+{"id": "talk.feed.beast.hint.ability",
+"label": "Feed the Beastie?",
+"actionid": "talk",
+"reqs":{"beast":1,"sustenance":1,"ability":-1,"cooperative":-1},
+"startdescription": "Use a Soul card and suitable Sustenance. [Food will make a hungry beast, or a wild one, co-operative.]",
+"hintonly":true
+},
+
+
+
+{"id": "talk.full.beast.hint",
+"label": "A Well-Fed Beastie?",
+"actionid": "talk",
+"reqs":{"beast":1,"cooperative":1,"sustenance":1},
+"startdescription": "It has no interest in food just now.",
+"hintonly":true
+},
+
+{"id": "talk.handle.beast.hint",
+"label": "Time with the Beastie?",
+"actionid": "talk",
+"reqs":{"beast":1,"cooperative":1,"ability":-1},
+"startdescription": "[Add a Soul card to interact with the beast.]",
+"hintonly":true
+}
+
+]
+}

@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "The conversation dwelt on Strings & Songs...",
+  "dove": "recipes/slnbk.strings.songs.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Surgeries & Exsanguinations...",
+  "dove": "recipes/slnbk.surgeries.exsanguinations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on The Great Signs and the Great Scars...",
+  "dove": "recipes/slnbk.thegreatsignsandthegreatscars.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Transformations & Liberations...",
+  "dove": "recipes/slnbk.transformations.liberations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Tridesma Hiera...",
+  "dove": "recipes/slnbk.tridesmahiera.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Watchman's Paradoxes...",
+  "dove": "recipes/slnbk.watchmansparadoxes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Weaving & Knotworking...",
+  "dove": "recipes/slnbk.weaving.knotworking.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Wolf Stories...",
+  "dove": "recipes/slnbk.wolfstories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knowledge: Anbary & Lapidary",
+  "dove": "recipes/salon.reward.anbary.lapidary.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Applebright Euphonies",
+  "dove": "recipes/salon.reward.applebrighteuphonies.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Auroral Contemplations",
+  "dove": "recipes/salon.reward.auroralcontemplations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Bells & Brazieries",
+  "dove": "recipes/salon.reward.bells.brazieries.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Coil & Chasm",
+  "dove": "recipes/salon.reward.coil.chasm.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Desires & Dissolutions",
+  "dove": "recipes/salon.reward.desires.dissolutions.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Disciplines of the Hammer",
+  "dove": "recipes/salon.reward.disciplines.thehammer.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Disciplines of the Scar",
+  "dove": "recipes/salon.reward.disciplines.thescar.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Door & Wall",
+  "dove": "recipes/salon.reward.door.wall.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Drums & Dances",
+  "dove": "recipes/salon.reward.drums.dances.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Edicts Inviolable",
+  "dove": "recipes/salon.reward.edictsinviolable.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Edicts Liminal",
+  "dove": "recipes/salon.reward.edictsliminal.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Edicts Martial",
+  "dove": "recipes/salon.reward.edictsmartial.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Furs & Feathers",
+  "dove": "recipes/salon.reward.furs.feathers.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Glassblowing & Vesselcrafting",
+  "dove": "recipes/salon.reward.glassblowing.vesselcrafting.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Glaziery & Lightsmithing",
+  "dove": "recipes/salon.reward.glaziery.lightsmithing.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Herbs & Infusions",
+  "dove": "recipes/salon.reward.herbs.infusions.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Hill & Hollow",
+  "dove": "recipes/salon.reward.hill.hollow.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Horns & Ivories",
+  "dove": "recipes/salon.reward.horns.ivories.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Inks of Containment",
+  "dove": "recipes/salon.reward.inks.containment.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Inks of Power",
+  "dove": "recipes/salon.reward.inks.power.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Inks of Revelation",
+  "dove": "recipes/salon.reward.inks.revelation.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Insects & Nectars",
+  "dove": "recipes/salon.reward.insects.nectars.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Leaves & Thorns",
+  "dove": "recipes/salon.reward.leaves.thorns.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Lockworks & Clockworks",
+  "dove": "recipes/salon.reward.lockworks.clockworks.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Maggephene Mysteries",
+  "dove": "recipes/salon.reward.maggephenemysteries.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Meniscate Reflections",
+  "dove": "recipes/salon.reward.meniscatereflections.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Orchids & Narcotics",
+  "dove": "recipes/salon.reward.orchids.narcotics.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Ouranoscopy",
+  "dove": "recipes/salon.reward.ouranoscopy.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Path & Pilgrim",
+  "dove": "recipes/salon.reward.path.pilgrim.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Pearl & Tide",
+  "dove": "recipes/salon.reward.pearl.tide.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Pentiments & Precursors",
+  "dove": "recipes/salon.reward.pentiments.precursors.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Preliminal Meter",
+  "dove": "recipes/salon.reward.preliminalmeter.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Purifications & Exaltations",
+  "dove": "recipes/salon.reward.purifications.exaltations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Putrefactions & Calcinations",
+  "dove": "recipes/salon.reward.putrefactions.calcinations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Pyroglyphics",
+  "dove": "recipes/salon.reward.pyroglyphics.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Quenchings & Quellings",
+  "dove": "recipes/salon.reward.quenchings.quellings.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Ragged Crossroads",
+  "dove": "recipes/salon.reward.raggedcrossroads.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Resurgences & Emergences",
+  "dove": "recipes/salon.reward.resurgences.emergences.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Rhyme & Remembrance",
+  "dove": "recipes/salon.reward.rhyme.remembrance.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Rites of the Roots",
+  "dove": "recipes/salon.reward.rites.theroots.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sacra Limiae",
+  "dove": "recipes/salon.reward.sacralimiae.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sacra Solis Invicti",
+  "dove": "recipes/salon.reward.sacrasolisinvicti.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sand Stories",
+  "dove": "recipes/salon.reward.sandstories.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sea Stories",
+  "dove": "recipes/salon.reward.seastories.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Serpents & Venoms",
+  "dove": "recipes/salon.reward.serpents.venoms.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sharps",
+  "dove": "recipes/salon.reward.sharps.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sickle & Eclipse",
+  "dove": "recipes/salon.reward.sickle.eclipse.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sights & Sensations",
+  "dove": "recipes/salon.reward.sights.sensations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Sky Stories",
+  "dove": "recipes/salon.reward.skystories.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Snow Stories",
+  "dove": "recipes/salon.reward.snowstories.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Solutions & Separations",
+  "dove": "recipes/salon.reward.solutions.separations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Spices & Savours",
+  "dove": "recipes/salon.reward.spices.savours.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Stitching & Binding",
+  "dove": "recipes/salon.reward.stitching.binding.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Stone Stories",
+  "dove": "recipes/salon.reward.stonestories.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Strings & Songs",
+  "dove": "recipes/salon.reward.strings.songs.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Surgeries & Exsanguinations",
+  "dove": "recipes/salon.reward.surgeries.exsanguinations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: The Great Signs and the Great Scars",
+  "dove": "recipes/salon.reward.thegreatsignsandthegreatscars.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Transformations & Liberations",
+  "dove": "recipes/salon.reward.transformations.liberations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Tridesma Hiera",
+  "dove": "recipes/salon.reward.tridesmahiera.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Watchman's Paradoxes",
+  "dove": "recipes/salon.reward.watchmansparadoxes.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Weaving & Knotworking",
+  "dove": "recipes/salon.reward.weaving.knotworking.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Knowledge: Wolf Stories",
+  "dove": "recipes/salon.reward.wolfstories.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The conversation dwelt on Anbary & Lapidary; here's a useful lesson.",
+  "dove": "recipes/salon.reward.anbary.lapidary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Applebright Euphonies; here's a useful lesson.",
+  "dove": "recipes/salon.reward.applebrighteuphonies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Auroral Contemplations; here's a useful lesson.",
+  "dove": "recipes/salon.reward.auroralcontemplations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Bells & Brazieries; here's a useful lesson.",
+  "dove": "recipes/salon.reward.bells.brazieries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Coil & Chasm; here's a useful lesson.",
+  "dove": "recipes/salon.reward.coil.chasm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Desires & Dissolutions; here's a useful lesson.",
+  "dove": "recipes/salon.reward.desires.dissolutions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Disciplines of the Hammer; here's a useful lesson.",
+  "dove": "recipes/salon.reward.disciplines.thehammer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Disciplines of the Scar; here's a useful lesson.",
+  "dove": "recipes/salon.reward.disciplines.thescar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Door & Wall; here's a useful lesson.",
+  "dove": "recipes/salon.reward.door.wall.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Drums & Dances; here's a useful lesson.",
+  "dove": "recipes/salon.reward.drums.dances.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Edicts Inviolable; here's a useful lesson.",
+  "dove": "recipes/salon.reward.edictsinviolable.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Edicts Liminal; here's a useful lesson.",
+  "dove": "recipes/salon.reward.edictsliminal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Edicts Martial; here's a useful lesson.",
+  "dove": "recipes/salon.reward.edictsmartial.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Furs & Feathers; here's a useful lesson.",
+  "dove": "recipes/salon.reward.furs.feathers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Glassblowing & Vesselcrafting; here's a useful lesson.",
+  "dove": "recipes/salon.reward.glassblowing.vesselcrafting.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Glaziery & Lightsmithing; here's a useful lesson.",
+  "dove": "recipes/salon.reward.glaziery.lightsmithing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Herbs & Infusions; here's a useful lesson.",
+  "dove": "recipes/salon.reward.herbs.infusions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Hill & Hollow; here's a useful lesson.",
+  "dove": "recipes/salon.reward.hill.hollow.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Horns & Ivories; here's a useful lesson.",
+  "dove": "recipes/salon.reward.horns.ivories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Inks of Containment; here's a useful lesson.",
+  "dove": "recipes/salon.reward.inks.containment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Inks of Power; here's a useful lesson.",
+  "dove": "recipes/salon.reward.inks.power.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Inks of Revelation; here's a useful lesson.",
+  "dove": "recipes/salon.reward.inks.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Insects & Nectars; here's a useful lesson.",
+  "dove": "recipes/salon.reward.insects.nectars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Leaves & Thorns; here's a useful lesson.",
+  "dove": "recipes/salon.reward.leaves.thorns.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Lockworks & Clockworks; here's a useful lesson.",
+  "dove": "recipes/salon.reward.lockworks.clockworks.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Maggephene Mysteries; here's a useful lesson.",
+  "dove": "recipes/salon.reward.maggephenemysteries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Meniscate Reflections; here's a useful lesson.",
+  "dove": "recipes/salon.reward.meniscatereflections.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Orchids & Narcotics; here's a useful lesson.",
+  "dove": "recipes/salon.reward.orchids.narcotics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Ouranoscopy; here's a useful lesson.",
+  "dove": "recipes/salon.reward.ouranoscopy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Path & Pilgrim; here's a useful lesson.",
+  "dove": "recipes/salon.reward.path.pilgrim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Pearl & Tide; here's a useful lesson.",
+  "dove": "recipes/salon.reward.pearl.tide.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Pentiments & Precursors; here's a useful lesson.",
+  "dove": "recipes/salon.reward.pentiments.precursors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Preliminal Meter; here's a useful lesson.",
+  "dove": "recipes/salon.reward.preliminalmeter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Purifications & Exaltations; here's a useful lesson.",
+  "dove": "recipes/salon.reward.purifications.exaltations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Putrefactions & Calcinations; here's a useful lesson.",
+  "dove": "recipes/salon.reward.putrefactions.calcinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Pyroglyphics; here's a useful lesson.",
+  "dove": "recipes/salon.reward.pyroglyphics.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Quenchings & Quellings; here's a useful lesson.",
+  "dove": "recipes/salon.reward.quenchings.quellings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Ragged Crossroads; here's a useful lesson.",
+  "dove": "recipes/salon.reward.raggedcrossroads.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Resurgences & Emergences; here's a useful lesson.",
+  "dove": "recipes/salon.reward.resurgences.emergences.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Rhyme & Remembrance; here's a useful lesson.",
+  "dove": "recipes/salon.reward.rhyme.remembrance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Rites of the Roots; here's a useful lesson.",
+  "dove": "recipes/salon.reward.rites.theroots.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sacra Limiae; here's a useful lesson.",
+  "dove": "recipes/salon.reward.sacralimiae.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sacra Solis Invicti; here's a useful lesson.",
+  "dove": "recipes/salon.reward.sacrasolisinvicti.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sand Stories; here's a useful lesson.",
+  "dove": "recipes/salon.reward.sandstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sea Stories; here's a useful lesson.",
+  "dove": "recipes/salon.reward.seastories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Serpents & Venoms; here's a useful lesson.",
+  "dove": "recipes/salon.reward.serpents.venoms.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sharps; here's a useful lesson.",
+  "dove": "recipes/salon.reward.sharps.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sickle & Eclipse; here's a useful lesson.",
+  "dove": "recipes/salon.reward.sickle.eclipse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sights & Sensations; here's a useful lesson.",
+  "dove": "recipes/salon.reward.sights.sensations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Sky Stories; here's a useful lesson.",
+  "dove": "recipes/salon.reward.skystories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Snow Stories; here's a useful lesson.",
+  "dove": "recipes/salon.reward.snowstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Solutions & Separations; here's a useful lesson.",
+  "dove": "recipes/salon.reward.solutions.separations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Spices & Savours; here's a useful lesson.",
+  "dove": "recipes/salon.reward.spices.savours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Stitching & Binding; here's a useful lesson.",
+  "dove": "recipes/salon.reward.stitching.binding.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Stone Stories; here's a useful lesson.",
+  "dove": "recipes/salon.reward.stonestories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Strings & Songs; here's a useful lesson.",
+  "dove": "recipes/salon.reward.strings.songs.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Surgeries & Exsanguinations; here's a useful lesson.",
+  "dove": "recipes/salon.reward.surgeries.exsanguinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on The Great Signs and the Great Scars; here's a useful lesson.",
+  "dove": "recipes/salon.reward.thegreatsignsandthegreatscars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Transformations & Liberations; here's a useful lesson.",
+  "dove": "recipes/salon.reward.transformations.liberations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Tridesma Hiera; here's a useful lesson.",
+  "dove": "recipes/salon.reward.tridesmahiera.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Watchman's Paradoxes; here's a useful lesson.",
+  "dove": "recipes/salon.reward.watchmansparadoxes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Weaving & Knotworking; here's a useful lesson.",
+  "dove": "recipes/salon.reward.weaving.knotworking.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The conversation dwelt on Wolf Stories; here's a useful lesson.",
+  "dove": "recipes/salon.reward.wolfstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I know a little more about the Ligeian Echidna. If I meditate on the matter, I might find a way to invite her here.",
+  "dove": "recipes/technique.summon.echidna.learn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Out on the moors, I might be able to summon Echidna... [Your Skill has a new Aspect.]",
+  "dove": "recipes/technique.summon.echidna.learn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil inclines his head in thanks. [Denzil has sent a gift ahead.]",
+  "dove": "recipes/village.invite.denzil.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite Denzil up to Hush House.",
+  "dove": "recipes/village.invite.denzil.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite Reverend Timothy up to Hush House.",
+  "dove": "recipes/village.invite.timothy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite the Blacksmith to Hush House",
+  "dove": "recipes/village.invite.denzil.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite the Killes to Hush House",
+  "dove": "recipes/village.invite.killes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite the Killes up to Hush House.",
+  "dove": "recipes/village.invite.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite the Rector to a Salon",
+  "dove": "recipes/village.invite.timothy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille is clearly excited, and remains courteous. Mrs Kille is courteous, and may be excited: as ever, it's difficult to tell. [The Killes have sent a gift ahead.]",
+  "dove": "recipes/village.invite.killes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy is almost speechless with excitement... almost. [Timothy has sent a gift ahead.]",
+  "dove": "recipes/village.invite.timothy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[You can't invite Denzil to a Salon if you've already invited a villager or already held a Salon this Season.]",
+  "dove": "recipes/village.invite.denzil.block.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You can't invite Timothy to a Salon if you've already invited a villager or already held a Salon this Season.]",
+  "dove": "recipes/village.invite.timothy.block.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You can't invite the Killes to a Salon if you've already invited a villager or already held a Salon this Season.]",
+  "dove": "recipes/village.invite.killes.block.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "AV",
+  "dove": "recipes/av.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Added aspect",
+  "dove": "recipes/d_cons_imp.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Consider (Setup): impromptu",
+  "dove": "recipes/d_cons_setup_imp.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Consider: impromptu",
+  "dove": "recipes/d_cons_imp.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Consider: impromptu done",
+  "dove": "recipes/d_cons_imp2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "DAWN!",
+  "dove": "recipes/d_dawn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inspire a",
+  "dove": "recipes/inspire_a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inspire b",
+  "dove": "recipes/inspire_b.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Instant recovery, just add dawn",
+  "dove": "recipes/d_dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This should only ever occur on alternate executions (when marked craftable)",
+  "dove": "recipes/d_cons_imp.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Track-marked",
+  "dove": "recipes/d_cons_imp2.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "go!",
+  "dove": "recipes/d_go.label",
+  "ricorre": 2
+ },
+ {
+  "en": "that's it",
+  "dove": "recipes/d_cons_imp2.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "wild!",
+  "dove": "recipes/wildreqtest.label",
+  "ricorre": 1
+ },
+ {
+  "en": "At a Desk",
+  "dove": "recipes/deskhint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "At a desk, you can write and decipher documents. Add Ink to write them; add Soul and Skill cards to change your approach.",
+  "dove": "recipes/deskhint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the twelfth Librarian of Hush House...",
+  "dove": "recipes/collection.busts.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the twelfth Librarian of Hush House; and I, too, will be remembered.",
+  "dove": "recipes/collection.busts.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Librarians Past, Present, Future",
+  "dove": "recipes/collection.busts.label",
+  "ricorre": 1
+ },
+ {
+  "en": "rawr",
+  "dove": "recipes/collection.test.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Earth, sky, sea: bear witness to my work.' [You've wrought a History which at least one of the Hours will endorse. This is the point of no return. Many of these Histories are strange or wild. Unless you're certain you want to end the game, remain here in the peace of the House.]",
+  "dove": "recipes/present.h.edge.alte..startdescription",
+  "ricorre": 99
+ },
+ {
+  "en": "Call for my History to be witnessed",
+  "dove": "recipes/present.h.edge.alte..label",
+  "ricorre": 99
+ },
+ {
+  "en": "Hush House lives again. Perhaps that's all I want. Some of the very best Librarians have worked well, lived quietly, left the world a better place...\n[This will end your game. Ambitious Librarians might prefer to keep looking for another victory. Contented librarians understand that to restore the House, and find the Tree, is victory enough. Or, of course, you could choose this ending any time you like - and begin again with another Librarian.]",
+  "dove": "recipes/present.u.evening.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "January 9th, 1838. A heavy snow falls on Brancrug. When the staff dig themselves out, Solomon Husher, third Librarian of the House, has disappeared from his quarters in the Long Tower, leaving a letter of resignation. 'Winter,' the letter concludes, 'does not wait forever; though Janus might.' Husher is never seen again, but every year on the same day, his footprints can be found beneath the Tree.\n\n [This is a hidden ending.]",
+  "dove": "recipes/present.u.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Sunset Beneath the Tree",
+  "dove": "recipes/present.u.evening.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Agonalia of Janus",
+  "dove": "recipes/present.u.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Each flame has its fuel.' In this History - my last and greatest work - the fuel of the Second Dawn is the Hours themselves - all but the last - all but the victor. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.alte..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Each flame has its fuel.' The fuel of the Second Dawn is the Hours themselves - all but the last, all but the victor - and so that Dawn will burn away all shadows. Even mine. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.alte.archaeologist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Each flame has its fuel.' The fuel of the Second Dawn is the Hours themselves - all but the last, all but the victor - and so the Dawn will be all the final colours. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.alte.artist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A City Forever Unbuilt",
+  "dove": "recipes/record.h.moth.desc..label",
+  "ricorre": 3
+ },
+ {
+  "en": "Archaeologist Victory: Gods-from-Steel Will Bring a Second Dawn",
+  "dove": "recipes/record.h.forge.alte.archaeologist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Archaeologist Victory: The Gods-from-Stone Will Be Consumed",
+  "dove": "recipes/record.h.grail.alte.archaeologist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Archaeologist Victory: The Gods-from-Stone Will Be Revenged",
+  "dove": "recipes/record.h.knock.conf.archaeologist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Archaeologist Victory: The Second Dawn Brings War",
+  "dove": "recipes/record.h.edge.alte.archaeologist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Archaeologist Victory: The Second Dawn: An Old Sun, Red and Low",
+  "dove": "recipes/record.h.scale.conf.archaeologist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Archaeologist Victory: There Will Be No Second Dawn",
+  "dove": "recipes/record.h.winter.conf.archaeologist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Artist Victory: Gods-from-Steel Will Bring a Second Dawn",
+  "dove": "recipes/record.h.forge.alte.artist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Artist Victory: The Gods-from-Stone Will Be Consumed",
+  "dove": "recipes/record.h.grail.alte.artist.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Artist Victory: The Gods-from-Stone Will Be Reborn",
+  "dove": "recipes/record.h.nectar.feas.artist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Artist Victory: The Second Dawn Brings War",
+  "dove": "recipes/record.h.edge.alte.artist.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Calyptra's weakness will become manifest; and the Gods-who-were-Stone will be named beneath the sky. This will be the first defiance. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.thre.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Cartographer Victory: Gods-from-Steel Will Bring a Second Dawn",
+  "dove": "recipes/record.h.forge.asce.cartographer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cartographer Victory: In the House of the Moon, the City",
+  "dove": "recipes/record.h.moon.worl.cartographer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cartographer Victory: The Gods-from-Stone Will Be Reborn",
+  "dove": "recipes/record.h.nectar.worl.cartographer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cartographer Victory: The Gods-from-Stone Will Be Remembered",
+  "dove": "recipes/record.h.heart.worl.cartographer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cartographer Victory: The Gods-from-Stone Will Be Revenged",
+  "dove": "recipes/record.h.knock.asce.cartographer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cartographer Victory: The Second Dawn is Nigh",
+  "dove": "recipes/record.h.lantern.asce.cartographer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Everything will be sumptuous. In church and chamber, in street and sky, we all of us will consume the last traces of the Gods-from-Stone… and in us they will be reborn. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.nectar.feas.artist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Executioner Victory: A City Forever Unbuilt",
+  "dove": "recipes/record.h.moth.desc.executioner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Executioner Victory: The City Unbuilt will Rise in Noon",
+  "dove": "recipes/record.h.sky.bala.executioner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Executioner Victory: The Gods-from-Stone Will Be Consumed",
+  "dove": "recipes/record.h.grail.desc.executioner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Executioner Victory: The Gods-from-Stone Will Be Remembered",
+  "dove": "recipes/record.h.heart.bala.executioner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Executioner Victory: The Second Dawn is Nigh",
+  "dove": "recipes/record.h.lantern.desc.executioner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Executioner Victory: There Will Be No Second Dawn",
+  "dove": "recipes/record.h.winter.bala.executioner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "From the crucibles where roil the Ys-metals, new Hours arise: and in this History, Calyptra will not prevent it. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.bell.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Gods-from-Steel Will Bring a Second Dawn",
+  "dove": "recipes/record.h.forge.alte..label",
+  "ricorre": 3
+ },
+ {
+  "en": "Here are the sparks of revolution. When the Carapace-kind return, they will return to Noon.  [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.bala.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Husher foresaw the long road to silence, and the lights along the way. This History is my last and greatest work; and in it there will be no Second Dawn. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.unde..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I see the pattern now. Shell and Axe and Stone linger in every turning of the Mansus. They will be remembered. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.worl.cartographer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll follow all the roads home, to the City that'll rise in the House of the Moon, the shadow-twin of the Mansus… where all the Mansus will be laid out before me. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moon.worl.cartographer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll follow those songs to Ys beyond the wave… and there I'll find my peace. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.oldl.magnate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've found a place of safety, in a city that will never be built - a fortress of paradox. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moth.loop.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've found my peace. That old lost music will draw the Birds, the Names, the architects and the adepts to Noon across the evening sea.  [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.oldl.magnate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've found my peace. This will be the last city on Earth. When it passes, so will the world. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.unde.magnate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the House of the Moon, the City",
+  "dove": "recipes/record.h.moon.loop..label",
+  "ricorre": 3
+ },
+ {
+  "en": "In this History - my last and greatest work - <i>someone</i> will bring the Second Dawn. Perhaps it'll be the New King; and perhaps it won't. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.lantern.secr..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History - my last and greatest work - the New King will enter the Paths of the Sun, and the Second Dawn will return the Sun to Splendour. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.lantern.asce..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History - my last and greatest work - the arts of Ys will spark war behind the world. The Second Dawn will burn bright - the Hours, brighter. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.bell..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, a prison will open to a certain Hour of light… and to the Hour's servants who pursue me. Let the Gods-from-Stone take their revenge. My safety is assured. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.conf.prodigal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, a prison will open to a certain Hour of winter… and to the corruption that walks with me. Let the Gods-from-Stone take their revenge. The world will be safe from my shadow. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.conf.archaeologist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, a prison will open to a certain ancient Hour of might, and the old compacts will be sundered. Let the Gods-from-Stone take their revenge. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.conf..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, new Hours will arise in the Paths of the Sun… and I will have my 'third choice'. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.asce.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, new Hours will arise to illuminate the Paths of the Sun… and the Mansus-ways will resolve to perfect clarity. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.asce.cartographer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, the New King will enter the Paths of the Sun: and the Second Dawn will change everything. I will have my 'third choice'. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.lantern.asce.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, the New King will enter the Paths of the Sun: and the Second Dawn will illuminate the Mansus. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.lantern.asce.cartographer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, the gentler sun will return - the sun of the time before Calyptra - and Calyptra will be powerless to prevent it. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.scale.thre.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, the old exceptions will come alive... and the Gods-from-Stone pass through the Loopholes to have their revenge. In that new order, I'll find my 'third choice'. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.loop.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this History, the old exceptions will come alive... and the Gods-from-Stone pass through the Loopholes to have their revenge. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.loop..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It is written. [You have recorded a new History. Bring it to Earl Brian's Field in the season of Numa, and the Hours will bear witness.]",
+  "dove": "recipes/record.h.edge.alte..desc",
+  "ricorre": 99
+ },
+ {
+  "en": "It should not be possible to birth new Hours from Glory in the world. But there's always a way. And if I am destroyed in the birth of those new Hours… that is the final expiation. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.alte.archaeologist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Magnate Victory: The City Unbuilt will Rise in Noon",
+  "dove": "recipes/record.h.sky.oldl.magnate.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Magnate Victory: The Second Dawn: An Old Sun, Red and Low",
+  "dove": "recipes/record.h.scale.oldl.magnate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Magnate Victory: There Will Be No Second Dawn",
+  "dove": "recipes/record.h.winter.unde.magnate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Magnate Victory: To Ys Beyond the Wave",
+  "dove": "recipes/record.h.rose.oldl.magnate.label",
+  "ricorre": 2
+ },
+ {
+  "en": "My songs await me. That old lost music will draw the Birds, the Names, the architects and the adepts to Noon across the evening sea.  [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.oldl.symurgist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "New Hours! It's a risk. It's almost a cheat. But it'll be all the colours and more. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.alte.artist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "One hand In darkness, the other in light. In this History, the City will rise in the House of the Moon, the place behind the Mansus… and there at last, I'll be safe. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moon.secr.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Our revolution's city will rise only in mortal hearts, where Calyptra cannot touch it. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moth.thre.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps the New King is the real thing; and perhaps he's not. Either way, <i>someone</i> will bring the Second Dawn. Everything will change; and I'll have my 'third choice'. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.lantern.secr.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps the Sun's scars and the Sun's sins have taught him mercy. Perhaps if the New King brings the Dawn, that dawn will be merciful. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.lantern.desc.executioner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: Gods-from-Steel Will Bring a Second Dawn",
+  "dove": "recipes/record.h.forge.bell.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: The Gods-from-Stone Will Be Revenged",
+  "dove": "recipes/record.h.knock.conf.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: The Second Dawn Brings War",
+  "dove": "recipes/record.h.edge.bell.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: The Second Dawn: An Old Sun, Red and Low",
+  "dove": "recipes/record.h.scale.conf.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: There Will Be No Second Dawn",
+  "dove": "recipes/record.h.winter.conf.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: To Ys Beyond the Wave",
+  "dove": "recipes/record.h.rose.bell.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: A City Forever Unbuilt",
+  "dove": "recipes/record.h.moth.thre.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: Gods-from-Steel Will Bring a Second Dawn",
+  "dove": "recipes/record.h.forge.bell.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: The City Unbuilt will Rise in Noon",
+  "dove": "recipes/record.h.sky.bala.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: The Gods-from-Stone Will Be Remembered",
+  "dove": "recipes/record.h.heart.bala.revolutionary.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Revolutionary Victory: The Second Dawn Brings War",
+  "dove": "recipes/record.h.edge.bell.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: The Second Dawn: An Old Sun, Red and Low",
+  "dove": "recipes/record.h.scale.thre.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: There Will Be No Second Dawn",
+  "dove": "recipes/record.h.winter.bala.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: To Ys Beyond the Wave",
+  "dove": "recipes/record.h.rose.bell.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: In the House of the Moon, the City",
+  "dove": "recipes/record.h.moon.worl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: The City Unbuilt will Rise in Noon",
+  "dove": "recipes/record.h.sky.oldl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: The Gods-from-Stone Will Be Reborn",
+  "dove": "recipes/record.h.nectar.worl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: The Gods-from-Stone Will Be Remembered",
+  "dove": "recipes/record.h.heart.worl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: The Second Dawn: An Old Sun, Red and Low",
+  "dove": "recipes/record.h.scale.oldl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: To Ys Beyond the Wave",
+  "dove": "recipes/record.h.rose.oldl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The City Unbuilt will Rise in Noon",
+  "dove": "recipes/record.h.sky.bala..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Gods-from-Stone Will Be Consumed",
+  "dove": "recipes/record.h.grail.alte..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Gods-from-Stone Will Be Reborn",
+  "dove": "recipes/record.h.nectar.feas..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Gods-from-Stone Will Be Remembered",
+  "dove": "recipes/record.h.heart.bala..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Gods-from-Stone Will Be Revenged",
+  "dove": "recipes/record.h.knock.asce..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Second Dawn Brings War",
+  "dove": "recipes/record.h.edge.alte..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Second Dawn is Nigh",
+  "dove": "recipes/record.h.lantern.asce..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Second Dawn: An Old Sun, Red and Low",
+  "dove": "recipes/record.h.scale.conf..label",
+  "ricorre": 3
+ },
+ {
+  "en": "The Sun has made his Paths… and forbidden them to mortals until we are ready. But in this History, the Gods-from-Stone will use those Paths to return - and the Sun's Paths will lie open to us. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.asce.cartographer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sun has made his Paths… wisely and unwisely. In this History, others will travel them. The Gods-from-Stone will return for their revenge. In that new order, I'll find my 'third choice'. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.asce.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sun is broken; at war with all his aspects. But in this History, there will be a prison for his worst self. The Sun will be reconciled at last with his oldest nature; and so will I. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.scale.conf..startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The Sun is broken; at war with his other aspects. But in this History, there will be a prison for his brightest, most quarrelsome self… and for that bright self's servants who pursue me. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.scale.conf.prodigal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sun's light cannot drive out the last friendly shadows. They'll be safe from Eternity in a city that will never be built. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moth.desc.executioner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sun's scars must be healed. The Sun's sins must be cleansed. The New King must bring the Second Dawn. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.lantern.desc..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ys-metals will roil with light. New Hours will arise. I will have my weapon. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.bell.prodigal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ys-metals will roil with light. New Hours will arise. This History is my last and greatest work. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.bell..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The arts of Ys will spark war behind the world. The Second Dawn will burn bright - the Hours, brighter - until even the Calyptra is humbled. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.bell.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The arts of Ys will spark war behind the world. The Second Dawn will burn bright - the Hours, brighter - until even their servants who hunt me are humbled or consumed. And I will be safe at last. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.bell.prodigal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The pattern is clear at last. I'll find my songs in the City when it rises in the House of the Moon - the place behind the Mansus. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moon.worl.symurgist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The pattern is clear at last. The Gods-from-Stone lent their songs to the Roost; and now those songs will be heard again. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.worl.symurgist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The pattern remains. The Gods-from-Stone have left their traces in every corridor of the Mansus… [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.nectar.worl.cartographer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The roots go deep. The knots remain. The Gods-from-Stone will be reborn; and the songs which they taught the Hours of the Roost will ring out again in the world. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.nectar.worl.symurgist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The travelling-Carapace kinds will return from the other side of wave and sky, the lost Hours will be named and sung: an irresistible defiance in the teeth of the Calyptra! [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.bala.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The travelling-Carapace kinds will return, from the other side of wave and sky; and when the lost Hours are remembered, my atonement will be complete. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.bala.executioner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The ways that were closed will open.  The City will rise in the House of the Moon, the place behind the Mansus… and there at last, I'll be safe. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moon.loop.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There Will Be No Second Dawn",
+  "dove": "recipes/record.h.winter.bala..label",
+  "ricorre": 3
+ },
+ {
+  "en": "There is always a compromise. In this History - my last and greatest work - that compromise will embrace the Gods-who-were-Stone… [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.nectar.secr..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There is always a compromise. In this History, that compromise will embrace the Gods-who-were-Stone… and I will have my 'third choice'. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.nectar.secr.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There need be no Second Dawn. All the colours of the world are enough. In that understanding I will find my peace. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.unde.magnate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There was a gentler sun once. In this History, when the oldest hymn is raised, perhaps it will grace our sky with its peace… [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.scale.oldl.magnate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There was a kinder sun once. In this History, when the oldest hymn is raised, perhaps it will answer us… [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.scale.oldl.symurgist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There will be no Second Dawn. The adepts of this History - my last and greatest work - will make a prison for the sharpest lights, the most perilous fires... and the kindling-spark that might have been the Dawn. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.conf..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There will be no Second Dawn. The adepts of this History will make a prison for the sharpest lights, the most perilous fires.. I will be safe at last. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.conf.prodigal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There will be no Second Dawn. The adepts of this History will make a prison for the sharpest lights, the most perilous fires... and for my other self. At last I will be free. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.conf.archaeologist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There will be no Second Dawn. This is the History where the travelling-kinds of the Carapace Cross expose the lies of the Church… and the roots of Calyptra will tremble. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.bala.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work - and in this History, the City will rise in the House of the Moon, the place behind the Mansus. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moon.loop..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work, and I have recorded that with the application of this terrible Numen, the last traces of the Gods-from-Stone will be consumed. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.grail.alte..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work, and in it the Sun's Paths will be opened to the nowheres, the elsewheres, the everywheres whence the Gods-from-Stone return. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.knock.asce..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work, and in it, new Hours will arise in the Paths of the Sun. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.asce..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work, and in it, new Hours will come to be. The means are imperfect - even, perhaps, regrettable - but we can hope the new Hours will be neither of those things. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.forge.alte..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. Even in the very beginning, from Axe and Shell and Stone, the pattern was clear, and now that pattern will preserve the past against Eternity. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.worl..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. Hours and mortals alike will feast on the last traces of the Gods-from-Stone. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.grail.feas..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. In it, Calyptra's weakness will become manifest; and the Gods-who-were-Stone will be named beneath the sky. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.thre..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. In this History, the Gods-from-Stone will be born again from the pattern that persists. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.nectar.worl..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. One hand in darkness; the other in light. The City will rise in the House of the Moon, the place behind the Mansus. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moon.secr..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. That old lost music will draw the Birds, the Names, the architects and the adepts to Noon across the evening sea.  [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.oldl..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. The City so long dreamt of will be safe outside existence, preserved by paradox. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moth.loop..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. The City so long dreamt of will never be built, and so Calyptra cannot hide it from us. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moth.thre..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. The City so long dreamt of will never be built; the Sun will not touch it; Eternity cannot take it. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moth.desc..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. The greedier Hours will take advantage of the Sun's weakness. They will devour the last of the Gods-from-Stone, and the old world will feed the new. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.grail.desc..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. The last traces of the Gods-from-Stone will be consumed… and those traces will grow within their feasters, until the traces are at last reborn. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.nectar.feas..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. This will be the last city on Earth. When it passes, so will the world. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.unde..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. When the Carapace-kind return, they will return to Noon.  [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.bala..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. Ys beyond the wave will be the city of conclusions, where all the threads resolve. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.unde..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. Ys will be the City we've dreamt of, and its bells will ring out again across the seas. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.bell..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. Ys will be the City we've dreamt of. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.oldl..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.moon.worl..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work: and in this History, the travelling-Carapace kinds will return from the other side of wave and sky, and hymn the Hours that were lost. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.heart.bala..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work; and in it, that old red sun will return to a gentler, hungrier heaven. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.scale.oldl..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This History is my last and greatest work; and in it, the savour-arts of the Carapace Cross will stir the Hours to greed and war. It will be the victor who brings the Second Dawn. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.feas..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is a History where the savour-arts of the Cross will provoke the Hours to war. Was that always the Cross's plan? Who knows? Does it matter? Who'll remember anything but the splendour of the feast? [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.edge.feas.artist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is the History - my last and greatest work in which the Chancel, at a crucial moment, will be snared in its own rules - and the way will be clear for the old sun's return. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.scale.thre..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is the History where the travelling-kinds of the Carapace Cross return… and everything changes. What is above, below; what has wings, shall thrive. And I'll have made amends. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.bala.executioner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is the History where the travelling-kinds of the Carapace Cross return… and everything changes. What is above, below; what has wings, shall thrive. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.winter.bala..startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is the savour and this is the feast! The Gods-from-Stone will nourish Hours and mortals alike. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.grail.feas.artist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "To Ys Beyond the Wave",
+  "dove": "recipes/record.h.rose.bell..label",
+  "ricorre": 3
+ },
+ {
+  "en": "Twiceborn Victory: A City Forever Unbuilt",
+  "dove": "recipes/record.h.moth.loop.twiceborn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Twiceborn Victory: Gods-from-Steel Will Bring a Second Dawn",
+  "dove": "recipes/record.h.forge.asce.twiceborn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Twiceborn Victory: In the House of the Moon, the City",
+  "dove": "recipes/record.h.moon.loop.twiceborn.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Twiceborn Victory: The Gods-from-Stone Will Be Reborn",
+  "dove": "recipes/record.h.nectar.secr.twiceborn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Twiceborn Victory: The Gods-from-Stone Will Be Revenged",
+  "dove": "recipes/record.h.knock.asce.twiceborn.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Twiceborn Victory: The Second Dawn is Nigh",
+  "dove": "recipes/record.h.lantern.asce.twiceborn.label",
+  "ricorre": 2
+ },
+ {
+  "en": "We'll bring them back. And when the Carapace-kind return, they will return to Noon.  [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.sky.bala.executioner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What we can do, we must do! And what we must do will warm and brighten Eternity's halls… with the last traces of the Gods-from-Stone. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.grail.alte.artist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What's done is done. I had thought to make amends for what I had destroyed, but now I choose otherwise. I will erase the last traces of what remained. They will be safe from Eternity. I will not. This is my punishment and my penance. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.grail.desc.executioner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Who was I? I'll never be entirely sure, but I know what I will be: first at the feast when the Gods-from-Stone are finally consumed. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.grail.alte.archaeologist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ys beyond the wave will be the last city on earth… and there I'll find my peace. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.unde.magnate.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ys will be the City we've dreamt of - and its bells will protect me from what follows. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.bell.prodigal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ys will be the City we've dreamt of, where the bells will peal out that old lost music. All we have to do is follow the songs. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.oldl.symurgist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ys will be the City we've dreamt of. At the sound of its bells, Calyptra will tremble. [When the Librarian records a History, even the Hours take note. Making this decision cannot be reversed; it will begin the end game.]",
+  "dove": "recipes/record.h.rose.bell.revolutionary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Forge History, the From-Nowhere Origin is relevant; or if you're considering a Rose History, Speech the Key is relevant.]",
+  "dove": "recipes/do.record.forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Grail History, Speech the Sword is relevant; or if you're considering a Nectar History, Origin: Roots is relevant.]",
+  "dove": "recipes/do.record.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Heart History, the Origin: Shell Determination is relevant; or if you're considering a Knock History, Speech the Wound is relevant.]",
+  "dove": "recipes/do.record.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Knock History, the Oldest: Horned-Axe Determination is relevant; or if you're considering a Winter History, First Flower: White is relevant.]",
+  "dove": "recipes/do.record.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Moon History, the Origin: Roots Determination is relevant; or if you're considering a Scale History, Origin: Shell is relevant.]",
+  "dove": "recipes/do.record.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Nectar History, the Oldest: Grail Determination is relevant; or if you're considering a Moon History, First Flower: Black is relevant.]",
+  "dove": "recipes/do.record.nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Rose History, the First Flower: Red Determination is relevant; or if you're considering a Sky History, Origin: From-Nowhere is relevant.]",
+  "dove": "recipes/do.record.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Scale History, the First Flower: Black Determination is relevant; or if you're considering a Heart History, Oldest: Horned-Axe is relevant.]",
+  "dove": "recipes/do.record.scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Sky History, Speech the Key is relevant; or if you're considering a Forge History, First Flower: Red is relevant.]",
+  "dove": "recipes/do.record.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering a Winter History, Speech the Wound is relevant; or if you're considering an edge History, Speech the Sword is relevant.]",
+  "dove": "recipes/do.record.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering an Edge History, the First Flower: White Determination is relevant; or if you're considering a Grail History, Oldest: Grail is relevant.]",
+  "dove": "recipes/do.record.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I am the Librarian of Hush House, and I have made my Determination. [If you're considering either a Moth or a Lantern History, the Origin: Glorious and Oldest: Moth Determinations are both relevant.]",
+  "dove": "recipes/do.record.lantern.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Language is a scar. It was language that tore open the Mansus; without language, we could have had no wars; without language, we would still be fire, sky, earth. [Adds Knock and Winter to your journal; replaces any other Speech Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Language is a weapon. With language, we breached the Mansus; without language, we could not have fought wars; without language, we would still be apes, beetles, stone. [Adds Edge and Grail to your journal; replaces any other Speech Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Language is the key. It was language that opened the doors of the Mansus; without language, we could have had no peace; without language, we would still be beasts, worms, mud. [Adds Rose and Sky to your journal; replaces any other Speech Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Black, the First Flower",
+  "dove": "recipes/do.record.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: From-Nowhere Origin",
+  "dove": "recipes/do.record.sky.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Glorious Origin",
+  "dove": "recipes/do.record.lantern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Grail, Oldest",
+  "dove": "recipes/do.record.grail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Horned-Axe, Oldest",
+  "dove": "recipes/do.record.heart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Moth, Oldest",
+  "dove": "recipes/do.record.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Red, the First Flower",
+  "dove": "recipes/do.record.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Roots Origin",
+  "dove": "recipes/do.record.nectar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Shell Origin",
+  "dove": "recipes/do.record.scale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Speech, the Key",
+  "dove": "recipes/do.record.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Speech, the Sword",
+  "dove": "recipes/do.record.edge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: Speech, the Wound",
+  "dove": "recipes/do.record.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Make a Determination: White, the First Flower",
+  "dove": "recipes/do.record.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Our ancestors were born naked in the roots of the Wood. All we ever were has risen from that darkness. With our hands and our mouths we shaped language from mud. With our mouths and our hands we will shape our future. [Adds Nectar and Moon to your journal; replaces any other Origin Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Our first sparks of self descended from the light above the world which we call the Glory. Without the Glory, we would be beasts in darkness, and the gifts of our past illuminate our future, which is Eternity [Adds Moth and Lantern to your journal; replaces any other Origin Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Carapace Cross are a hybrid race, and once we were the Carapace Cross. From the Seglaz-kind, we inherited what now we call language. We long for what we were; and History too is hybrid. [Adds Scale and Heart to your journal; replaces any other Origin Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Horned-Axe bears two blades; permits passage when passage is to be permitted; waits at the threshold. The Horned-Axe, who forbids contradiction, is the oldest Hour. Other Hours might seem older. They are not older. [Adds Heart and Knock to your journal; replaces any other Oldest Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Moth beats within the skull; seeks among the trees of the Wood; is dappled. The Moth, who delights in contradiction, is the oldest Hour that remains. Any that seem older, the Moth once was, when once it was. [Adds Moth and Lantern to your journal; replaces any other Oldest Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Red Grail gives life; the Grail takes life; the Grail is not sated. The Grail, who disdains contradiction, is the oldest Hour that persists. Any that seem older are subsumed, eventually, in the Grail's tides. [Adds Grail and Nectar to your journal; replaces any other Oldest Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Thritige-kind of the Carapace Cross dreamed themselves out of black glass, to be their own Monarch. If we inherit the empty throne, we dream ourselves into every night to come. [Adds Sky and Forge to your journal; replaces any other Origin Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle. The White Flower of Calyptra - 'the silence that is given' was its first defence. When forbidden knowledge is known, it must be forgotten. But to be forgotten, it must first be known. The Tree is rooted in paradox. [Adds Winter and Edge to your journal; replaces any other First Flower Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Black Flower of Calyptra -'the night unwounded' - was its first defence. Forbidden knowledge must not be spoken; must not be written; must not be known. The Tree is rooted in night. [Adds Moon and Scale to your journal; replaces any other First Flower Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Red Flower of Calyptra -'the fire fuelled by truth' was its first defence. Fire consumes knowledge... but fire also gives light. The Tree is rooted in paradox. [Adds Forge and Rose to your journal; replaces any other First Flower Determination. Adding Determinations to your Journal makes it first possible, then easier, to write a matching History.]",
+  "dove": "recipes/do.record.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Here I stand. What will be lost? [You've established History. Are you ready to present it before the Earl's Yew?]",
+  "dove": "recipes/h.present.ability.history.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Here it stands. What else will abide? [Establish History, and bring it to the Earl's Yew.]",
+  "dove": "recipes/h.present.journal.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I can try to record a History - a truth that the Hours themselves may honour and agree. But this is not done lightly. [To record a History, provide a Numen, and at least 25 of a fundamental Aspect. This will be easier if you've made at least one matching Determination.]",
+  "dove": "recipes/h.record.aspect.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've recorded a History already. I should present it to the sea, the sky, and the earth, in Earl Brian's Field... in the season of Numa.",
+  "dove": "recipes/h.record.already.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I wish to establish a History, then when Numa comes, I could return here with this journal.",
+  "dove": "recipes/h.present.journal.season.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "More?",
+  "dove": "recipes/h.record.aspect.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Present What?",
+  "dove": "recipes/h.present.ability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Present a History?",
+  "dove": "recipes/h.present.ability.history.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Stand before the Tree?",
+  "dove": "recipes/h.present.journal.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This History",
+  "dove": "recipes/h.record.already.label",
+  "ricorre": 1
+ },
+ {
+  "en": "When Numa Comes...",
+  "dove": "recipes/h.present.journal.season.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[Add an Element of the Soul to win a victory. Or record a History in your Journal to win a major one.]",
+  "dove": "recipes/h.present.ability.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I can take pride in it, but I can't really study it.",
+  "dove": "recipes/manuscript.intercept.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My Work!",
+  "dove": "recipes/manuscript.intercept.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps Mihail the Messenger will be the one to carry a kindling candle to the City Unbuilt. Certainly, he has not yet been extinguished. [The Chancel Altar now admits Forge and Lantern intentions.]",
+  "dove": "recipes/upgrade.altar.chancel.mihail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps Mihail the Messenger will never carry fire to the City Unbuilt - but he has not yet been extinguished. [The Sarcophagus now admits Forge and Lantern intentions.]",
+  "dove": "recipes/upgrade.sarcophagus.columbic.mihail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Represent Mihail in the Sarcophagus",
+  "dove": "recipes/upgrade.sarcophagus.columbic.mihail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Represent Mihail on the Chancel altar",
+  "dove": "recipes/upgrade.altar.chancel.mihail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The eyes darken in candle-light.",
+  "dove": "recipes/upgrade.altar.chancel.mihail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The eyes glint in darkness.",
+  "dove": "recipes/upgrade.sarcophagus.columbic.mihail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A Merciful Alteration",
+  "dove": "recipes/world.corals.deeplight.delegacizing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daily Weather: Numa",
+  "dove": "recipes/daily.weather.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Weather draw: Numa",
+  "dove": "recipes/daily.weather.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[There's an aberration here. Hit Start, and the problem will permanently resolve itself. You might need to put a Soul element in to make Start available, but you won't lose or fatigue anything.]",
+  "dove": "recipes/world.corals.deeplight.delegacizing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Ereb</i> is the shadow in the soul's cellar: pride, fear, hatred, compassion. [Choose a strong <i>ereb</i>, and a past where your passions were paramount. The waves will wash away the others... for now.]",
+  "dove": "recipes/legacy.setup.librarian.ereb.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "<i>Mettle</i> is the soul's tempering - will; self-discipline; that part of us which makes the right choice. [Choose a strong <i>mettle</i>, and a past where you made mistakes. The waves will wash away the others... for now.]",
+  "dove": "recipes/legacy.setup.librarian.mettle.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "<i>My</i> journal? That amber-studded cover is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.twiceborn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My</i> journal? That battered leather cover is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.archaeologist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My</i> journal? That coppery cover is familiar - but the storm so scattered my thoughts...",
+  "dove": "recipes/catalogue.journal.prodigal.startdescription",
+  "ricorre": 1
+ }
+]

@@ -1,0 +1,22 @@
+{"recipes": [
+ 
+{"id": "collection.busts",
+"label": "Bibliothécaires: passé, présent, futur",
+"actionid": "collection.busts",
+"startdescription": "Je suis la douzième Bibliothécaire de la Hush House…",
+"desc": "Je suis le douzième Bibliothécaire de Hush House, et on se souviendra de moi aussi.",
+"craftable":true,
+"effects":{"xwis":1},
+"warmup":30,
+"achievements":["A_EVENT_BUSTMASTER"]
+},
+{"id": "collection.test",
+"label": "rawr",
+"actionid": "collection.test",
+"startdescription": "!",
+"craftable":true,
+"effects":{"cat.tame":1},
+"warmup":2
+}
+]
+}

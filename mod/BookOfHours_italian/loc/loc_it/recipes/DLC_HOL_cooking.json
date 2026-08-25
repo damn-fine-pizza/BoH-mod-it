@@ -1,0 +1,474 @@
+{
+ "recipes": [
+  {
+   "id": "cook.spicing.veg.basket.apples.bread",
+   "label": "Cuocere una Charlotte di Mele",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.agave.aeterna.pot.tea.assam",
+   "label": "Zuccherare Molto l’Assam",
+   "startdescription": "Una bevanda calda con <sprite name=edge> <sprite name=knock> <sprite name=lantern> <sprite name=nectar> <sprite name=winter>."
+  },
+  {
+   "id": "cook.ham.canned.potatoes",
+   "label": "Preparare uno Sformato di Prosciutto e Patate",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.mushrooms.potatoes",
+   "label": "Preparare uno Sformato di Funghi e Patate",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.beef.intoxicating",
+   "label": "Marinare un Pezzo di Manzo",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  },
+  {
+   "id": "cook.beef",
+   "label": "Arrostire un Pezzo di Manzo",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=scale>."
+  },
+  {
+   "id": "cook.beef.marinated",
+   "label": "Arrostire Manzo Marinato",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=scale>."
+  },
+  {
+   "id": "cook.bowls.kitchen.egg.bread",
+   "label": "Preparare Pane Dorato all’Uovo",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.dough",
+   "label": "Cuocere Pane",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.dough.cake.jam.blackberry",
+   "label": "Cuocere un Pan di Spagna alle More",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.dough.cake.honey",
+   "label": "Cuocere una Torta di Miele della Cornovaglia",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=lantern> <sprite name=moth>."
+  },
+  {
+   "id": "cook.dough.cake.honey.cuckoo",
+   "label": "Cuocere una Torta a Nodo",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=grail> <sprite name=heart> <sprite name=lantern> <sprite name=moth> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.spicing.dough.cake.almonds",
+   "label": "Cuocere una Torta Madeira",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=lantern> <sprite name=moth>."
+  },
+  {
+   "id": "cook.dough.cake.jam.rosehip",
+   "label": "Cuocere un Pan di Spagna alla Rosa Canina",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=rose>."
+  },
+  {
+   "id": "cook.ham.canned.egg",
+   "label": "Cucinare una Casseruola di Prosciutto e Uovo",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=moth> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.knife.potatoes.dripping",
+   "label": "Preparare Patatine da Cacciagione",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=knock>."
+  },
+  {
+   "id": "cook.knife.egg.bread",
+   "label": "Preparare Panini all’Uovo",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=scale> <sprite name=sky>, adatto come primo piatto, talvolta considerato inevitabile ai picnic."
+  },
+  {
+   "id": "cook.knife.plums.bread",
+   "label": "Preparare Crostini alle Prugne",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.bowls.kitchen.butter.flour",
+   "label": "Mescolare l’Impasto",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  },
+  {
+   "id": "cook.bowls.kitchen.milk.flour",
+   "label": "Mescolare l’Impasto",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  },
+  {
+   "id": "cook.bowls.kitchen.dough.egg",
+   "label": "Mescolare l’Impasto per Torta",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  },
+  {
+   "id": "cook.egg",
+   "label": "Bollire un Uovo",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=scale> <sprite name=sky> <sprite name=winter>."
+  },
+  {
+   "id": "cook.butter.egg",
+   "label": "Preparare Uova Strapazzate",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.meringue.milk",
+   "label": "Preparare un’Isola Fluttuante",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=rose> <sprite name=sky>."
+  },
+  {
+   "id": "cook.sugar.creamed",
+   "label": "Preparare Fudge",
+   "startdescription": "Un piatto con <sprite name=grail>."
+  },
+  {
+   "id": "cook.agave.aeterna.pot.tea.lapsang",
+   "label": "Zuccherare Molto il Lapsang",
+   "startdescription": "Una bevanda calda con <sprite name=forge> <sprite name=lantern> <sprite name=nectar> <sprite name=sky> <sprite name=winter>."
+  },
+  {
+   "id": "cook.knife.bread.veg.basket.leeks",
+   "label": "Preparare un Gratin di Porri",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=heart>."
+  },
+  {
+   "id": "cook.egg.mackerel",
+   "label": "Preparare un Kedgeree di Sgombri",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=moon>."
+  },
+  {
+   "id": "cook.mackerel.egg.boiled",
+   "label": "Preparare uno Sgombro Monte Carlo",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.mackerel.intoxicating",
+   "label": "Preparare Sgombri Sottaceto",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=heart> <sprite name=moon> <sprite name=scale>."
+  },
+  {
+   "id": "cook.mackerel",
+   "label": "Cuocere Sgombro Affogato",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=moon>."
+  },
+  {
+   "id": "cook.marinade.onion.mackerel",
+   "label": "Preparare Sgombri Marinati",
+   "startdescription": "Un piatto con <sprite name=heart>."
+  },
+  {
+   "id": "cook.intoxicating.veg.basket.onions",
+   "label": "Marinare Cipolle",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  },
+  {
+   "id": "cook.knife.veg.marrow.acrid",
+   "label": "Cuocere Zucchina Acre Ripiena",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.knife.veg.marrow.dark",
+   "label": "Cuocere Zucchina Scura Ripiena",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.knife.veg.marrow.golden",
+   "label": "Cuocere Zucchina Dorata Ripiena",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=lantern> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.knife.veg.marrow.pale",
+   "label": "Cuocere Zucchina Pallida Ripiena",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=nectar> <sprite name=winter>."
+  },
+  {
+   "id": "cook.bowls.kitchen.egg.sugar",
+   "label": "Preparare una Meringa",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  },
+  {
+   "id": "cook.spicing.meringue.veg.basket.apples",
+   "label": "Cuocere una Meringa alle Mele",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=nectar> <sprite name=winter>."
+  },
+  {
+   "id": "cook.spicing.meringue.mushrooms",
+   "label": "Cuocere una Meringa ai Funghi",
+   "startdescription": "Un piatto con <sprite name=winter>."
+  },
+  {
+   "id": "cook.spicing.meringue.fruit.bowl.pears",
+   "label": "Cuocere una Meringa alle Pere",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=moon> <sprite name=nectar> <sprite name=winter>."
+  },
+  {
+   "id": "cook.spicing.meringue.pyrus.auricalcinus",
+   "label": "Preparare le Mura di Ys",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=knock> <sprite name=nectar> <sprite name=winter>."
+  },
+  {
+   "id": "cook.spicing.moly.butter",
+   "label": "Cucinare Moly al Jus",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=moth> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.mushrooms.intoxicating",
+   "label": "Preparare Funghi Sottaceto",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=heart> <sprite name=moon> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.knife.bread.veg.basket.onions",
+   "label": "Preparare un Gratin di Cipolle",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.knife.batter.veg.basket.onions",
+   "label": "Preparare Anelli di Cipolla",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=grail> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.spicing.almonds.sugar",
+   "label": "Preparare un Biscotto all’Arancia",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=lantern>."
+  },
+  {
+   "id": "cook.fruit.bowl.pears",
+   "label": "Preparare Poire Belle Hélène",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=moon> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.spicing.pyrus.auricalcinus",
+   "label": "Preparare Poires Ys",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.pheasant.butter",
+   "label": "Cucina un Fagiano in Umido",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=grail> <sprite name=heart> <sprite name=rose> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.pheasant",
+   "label": "Arrostire un Fagiano",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=rose> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.grapes.pheasant",
+   "label": "Preparare Fagiano Freddo con Insalata d’Uva",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=nectar> <sprite name=rose> <sprite name=sky>."
+  },
+  {
+   "id": "cook.spicing.dough.veg.basket.apples",
+   "label": "Cuocere Torta di Mele",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.spicing.dough.fruit.bowl.pears",
+   "label": "Cuocere Torta di Pere",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.spicing.dough.pyrus.auricalcinus",
+   "label": "Cuocere Torta di Pere",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.beef.potatoes",
+   "label": "Preparare un Pasticcio del Casolare",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=scale>."
+  },
+  {
+   "id": "cook.pheasant.dough",
+   "label": "Cuocere Torta di Cacciagione",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=knock> <sprite name=moth> <sprite name=rose> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.spicing.pie.sea.fruit.bowl.pears",
+   "label": "Preparare una Torta della Fortuna del Re",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=knock> <sprite name=lantern> <sprite name=moth> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.pie.pears.beef.roast",
+   "label": "Preparare una Torta della Fortuna del Re",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=knock> <sprite name=lantern> <sprite name=moth> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.spicing.pumpkin.dough",
+   "label": "Cuocere una Torta di Zucca",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.pumpkin.amber.dough",
+   "label": "Cuocere una Torta di Zucca Ambra",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=lantern> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.spicing.pumpkin.amber.x.dough",
+   "label": "Cuocere una Torta di Zucca Stregata dal Miele",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=knock> <sprite name=moth> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.dough.beef",
+   "label": "Cuocere Torta di Mare",
+   "startdescription": "Un piatto con <sprite name=forge>."
+  },
+  {
+   "id": "cook.dough.sack.vegetables",
+   "label": "Preparare una Torta di Verdure Primaverili al Vapore",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.dough.veg.basket",
+   "label": "Preparare una Torta di Verdure Primaverili al Vapore",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.sack.vegetables",
+   "label": "Preparare uno Stufato di Verdure",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.veg.basket",
+   "label": "Preparare uno Stufato di Verdure",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.pilchards.intoxicating",
+   "label": "Mettere Sott’Aceto i Pilchards",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=heart> <sprite name=moon> <sprite name=scale>."
+  },
+  {
+   "id": "cook.potatoes",
+   "label": "Patate Arrosto",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=winter>."
+  },
+  {
+   "id": "cook.potatoes.dripping",
+   "label": "Arrostire Patate, Magnificamente",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=forge> <sprite name=grail> <sprite name=heart>."
+  },
+  {
+   "id": "cook.sugar.creamed.bread",
+   "label": "Preparare un Budino Appiccicoso al Toffee",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart>."
+  },
+  {
+   "id": "cook.bowls.kitchen.batter.dripping",
+   "label": "Preparare un Budino dello Yorkshire",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.grapes",
+   "label": "Preparare Insalata d’Uva",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.egg.bread",
+   "label": "Preparare Crocchette d’Uova",
+   "startdescription": "Un contorno con <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=scale> <sprite name=sky>."
+  },
+  {
+   "id": "cook.dough.aglaophotis",
+   "label": "Preparare un Soufflé di Aglaophotis",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=knock> <sprite name=lantern> <sprite name=nectar> <sprite name=rose> <sprite name=sky>."
+  },
+  {
+   "id": "cook.veg.basket.leeks.dripping",
+   "label": "Preparare una Zuppa di Porri",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=moon> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.veg.basket.onions.dripping",
+   "label": "Preparare una Zuppa di Cipolle",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=heart> <sprite name=moon> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.pumpkin.dripping",
+   "label": "Preparare una Zuppa di Zucca",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.pumpkin.amber.dripping",
+   "label": "Preparare una Zuppa di Zucca Ambra",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=lantern> <sprite name=moon> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.pumpkin.amber.x.dripping",
+   "label": "Preparare una Zuppa di Zucca Stregata dal Miele",
+   "startdescription": "Un piatto con <sprite name=edge> <sprite name=heart> <sprite name=knock> <sprite name=moon> <sprite name=moth> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.bowls.kitchen.butter.sugar",
+   "label": "Mescolare lo Zucchero Montato",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  },
+  {
+   "id": "cook.blue.crown",
+   "label": "Preparare un Tè Corona Blu",
+   "startdescription": "Una bevanda calda con <sprite name=nectar> <sprite name=sky> <sprite name=winter>."
+  },
+  {
+   "id": "cook.fragrant.chalice",
+   "label": "Preparare un Tè Calice Fragrante",
+   "startdescription": "Una bevanda calda con <sprite name=grail> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.honeyscar.jasmine",
+   "label": "Preparare un Tè Honeyscar",
+   "startdescription": "Una bevanda calda con <sprite name=forge> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.knife.ham.canned.bread",
+   "label": "Preparare un Toast al Prosciutto e Formaggio",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=grail> <sprite name=heart>."
+  },
+  {
+   "id": "cook.knife.mushrooms.bread",
+   "label": "Preparare Funghi Fritti su Pane Tostato",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.knife.mushrooms.pickled.bread",
+   "label": "Preparare Funghi Fritti su Pane Tostato",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>. (Più buono con funghi freschi, ma questo andrà bene.)"
+  },
+  {
+   "id": "cook.bowls.kitchen.plums.egg",
+   "label": "Preparare una Spuma di Prugna",
+   "startdescription": "Un piatto con <sprite name=grail> <sprite name=heart> <sprite name=nectar>."
+  },
+  {
+   "id": "cook.pilchards.bread",
+   "label": "Preparare Pilchards su Pane Tostato",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>."
+  },
+  {
+   "id": "cook.pilchards.pickled.bread",
+   "label": "Preparare Pilchards su Pane Tostato",
+   "startdescription": "Un piatto con <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=scale>. (Più buono con sardine fresche o almeno in scatola, ma questo andrà bene.)"
+  },
+  {
+   "id": "cook.pilchards.dough",
+   "label": "Preparare una Torta Starygazy",
+   "startdescription": "Un piatto con <sprite name=forge> <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=rose> <sprite name=scale> <sprite name=winter>."
+  },
+  {
+   "id": "cook.blackberries.sugar",
+   "label": "Preparare una Marmellata di More",
+   "startdescription": "Una delizia con <sprite name=grail> <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.rosehips.sugar",
+   "label": "Preparare una Marmellata di Rosa Canina",
+   "startdescription": "Una delizia con <sprite name=heart> <sprite name=nectar> <sprite name=rose>."
+  },
+  {
+   "id": "cook.flour.water",
+   "label": "Preparare una Pastella",
+   "startdescription": "Un Ingrediente per uno scopo superiore..."
+  }
+ ]
+}

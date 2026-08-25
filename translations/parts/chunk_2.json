@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "A Novel Method for Invocation & Contrition",
+  "dove": "elements/t.anovelmethodforinvocation.contrition.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Pale Lady and a Prince of Wines",
+  "dove": "elements/t.apaleladyandaprinceofwines.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Second Glory",
+  "dove": "elements/t.asecondglory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Seventh Voice",
+  "dove": "elements/t.aseventhvoice.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Shape in Smoke",
+  "dove": "elements/t.ashapeinsmoke.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Tower Falls",
+  "dove": "elements/t.atowerfalls.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Tower Rises",
+  "dove": "elements/t.atowerrises.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A True History of Valentine Dewulf",
+  "dove": "elements/t.atruehistoryofvalentinedewulf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A True and Complete Accounting of the Asclepian Mysteries of the Roots of the House",
+  "dove": "elements/t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A beautifully illustrated and heavily annotated 'portolan' - a nautical atlas of ports and destinations.",
+  "dove": "elements/t.thekerishamportolan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A blandly positive work on the Endeavour Club, published by the Endeavour Club. The Club was founded in 1862 but claims to draw from much older traditions.",
+  "dove": "elements/t.thehightraditionsofthenobleendeavour.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A book of kitchen-garden techniques and aphrodisiac recipes recorded by Ernestine Peterhans, the 'Iron Seneschale' of Hush House for three generations of Dewulfs.",
+  "dove": "elements/t.animpertinentvitulation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A calligraphic manual of Ramsund which employs as exemplar-text Farid ud-Din's 'Conference of the Birds'. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]",
+  "dove": "elements/t.theturquoisehand.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A collection of Franklin Bancroft's letters to Eva Dewulf.",
+  "dove": "elements/t.toapalelady.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A compilation of quasi-Rosicrucian allegories, supposedly by Robert Fludd. This is in the original Latin.",
+  "dove": "elements/t.theorchidtransfigurationsafeast.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A confidential journal kept by Greene, former Nocturnal Branch Superindent but, by 1903, Librarian of the House. Greene has kept his journal in Hyksos, presumably as an extra measure of privacy.",
+  "dove": "elements/t.journalofsirdavidgreene1903.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A contraband manual of the Inks of Revelation. The author explains in a brief foreword that she is a high-ranking officer of 'an agency of the Duties' and that, though she supports its mission, she has concerns about the long-term consequences of its work.",
+  "dove": "elements/t.fromhistorytoeternity.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A deeper account of these secret colours, Elie reveals, was kept at a shrine to the Three Hours of the Chancel at the 'grey rock in the sea', far from the intrigues of Sisterhood and Church. It is hidden from the common eye, but can be revealed with the arts of Sickle and Eclipse.",
+  "dove": "elements/t.thesecretcolours.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "A diatribe by Hokobald of Pocsind, formerly of the order of immortals called the House of Lethe (later the Ordo Limiae; much latter the Obliviates). He has scores to settle.",
+  "dove": "elements/t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A dire bestiary of the horrors to be found in mirrors. This is a recent edition of a third century text by 'Poemander'.",
+  "dove": "elements/t.onwhatiscontainedbysilver.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A disgraceful compendium of ribald poetry about the habits and corruptions of Henry VIII.",
+  "dove": "elements/t.oldcoppernoseandthesoftermetal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A disquisition on the many varieties of thirst, their uses and their effects.",
+  "dove": "elements/t.thethirstingtantra.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "A fanciful account by Thirza Blake of the early life of the Twins - their time as mortals before they became Hours or even Long, in a 'dry kingdom beyond the Western Sea' which Thirza suggests might have been ancient Mexico.",
+  "dove": "elements/t.twowombsoneheart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fourteenth-century treatise on esoteric mechanics and parahydraulics by Abbot Ranulph, best known now as a mason-architect.",
+  "dove": "elements/t.againstvitruvius.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty, and with all the phases of the moon. It might be as old as the seventh century, but the language - Fucine - is much older. Coral decorates its cover, and its page-edges are sharp enough to slash a throat.",
+  "dove": "elements/t.thegeminiadiii.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty, and with all the phases of the moon. It might be as old as the seventh century, but the language - Fucine - is much older. The cover is a dark and exotic leather with a smooth, almost chitinous surface, decorated with jasper.",
+  "dove": "elements/t.thegeminiadii.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fragile manuscript, illuminated with twinned shapes of sad and luminous beauty, and with all the phases of the moon. It might be as old as the seventh century, but the language - Fucine - is much older. The cover is tooled goatskin decorated with garnet.",
+  "dove": "elements/t.thegeminiadi.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fragment of iron-alloy meteorite carefully inscribed and polished. [This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]",
+  "dove": "elements/t.amiranisbeteli.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A gang of heretic priests agrees to strike the 'fear of the Change' into the infuriatingly atheist citizenry. At night they dress as four-winged angels and crawl down chimneys and through windows to savage members of their congregation.",
+  "dove": "elements/t.coloursintheliver.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "A grim treatise on 'those feasts that occur, those feasts that are not to be witnessed.'",
+  "dove": "elements/t.nixabolix.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A hammer-armed Turk and a sword-armed Greek pursue each other through the Pindus, setting traps for each other, robbing peasants, chalking insulting graffiti on walls. The tone is notionally anti-war, but any scholar of the invisible arts would recognise the Edge-hour subtext... and the Hyksos messages in the graffiti.",
+  "dove": "elements/t.theopenhead.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "A handbook of sealed and unsealed byways and shortcuts through the Bounds, compiled by Willem Harries in the 1860s - during his term as Librarian of Hush House.",
+  "dove": "elements/t.analmanacofentrances.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A legend of the Shadowless Empire, transcribed by Alexander Peterhans from annals at a secret shrine in Anatolia.",
+  "dove": "elements/t.thebookofthrones.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A legendary grimoire of exotic ink-making lore. The cover and some of the pages, unfortunately are stained and crusted with something more like mucus than ink.",
+  "dove": "elements/t.thehistoryofinks.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A lively account of the creation of each jewel at the world's beginning.",
+  "dove": "elements/t.inthemalleary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A long dialogue between the Mountain-Mother and the Vigilant Storm describes the ways in which both mountains and storms end, and the protections they use against those ends.",
+  "dove": "elements/t.theorchidtransfigurationsnoon.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "A lusciously illustrated tome of loosely connected children's stories. Few of them are remotely suitable for children.",
+  "dove": "elements/t.kitlingripeandthemoldywarpsgraveandotherstories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A manual of the Ordo Limiae, an order of quasi-immortals who maintained a secret enclave at the source of the river Limia, in the Roman province of Hispania Gallaecia. This manual was compiled by one Burzghash, who explains that he came to join the Ordo from the 'city of messenger eagles' after he abandoned the service of the Ivory Dove.",
+  "dove": "elements/t.thesilverbook.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A manual of the Ordo Limiae, an order of quasi-immortals who maintained a secret enclave at the source of the river Limia, in the Roman province of Hispania Gallaecia. This manual was compiled by one Kurenai, who claims to have fled 'the tyranny of the Chrysanthemum Throne' to cross the world and join the Ordo.",
+  "dove": "elements/t.theivorybook.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A manual of the Ordo Limiae, an order of quasi-immortals who maintained a secret enclave at the source of the river Limia, in the Roman province of Hispania Gallaecia. This manual was compiled by one Melerai Yivni, who claims to have travelled to join the Ordo from 'the Crossroads of the Waters'.",
+  "dove": "elements/t.theironbook.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A mass of root-stock, shiny with age but still somehow viable. Tiny spidery scratchings, marked with embedded egg-shell shards, encode a cryptic message. [This object houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]",
+  "dove": "elements/t.serpentroot.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A miscellany of the funerary prayers, ceremonies and hymns of the Church of the Unconquered Sun, which was ascendant in the Third and Fourth Histories. It schismed during the Intercalate, when the Sun was divided, and has not survived as a significant force.",
+  "dove": "elements/t.sunsetpassages.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A monster-hunting initiate of the Hour named the Colonel, who identifies herself as 'Little Sophia', provides advice on finding the weak spots of Long.",
+  "dove": "elements/t.bytheirmarksshallyeknowthem.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A more recent version of a much older text, this book describes the operations of the Chancel and the Calyptra, two triads of Hours with subtle, far-reaching powers and responsibilities. It has been heavily censored, but even so contains potent secrets.",
+  "dove": "elements/t.thethreeandthethreekerishammanuscript.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A picaresque account of a journey through nightmare, interspersed with what might be partial rites. 'On the eighteenth Ascent is the bud. On the thirty-sixth Ascent, the blossom.'",
+  "dove": "elements/t.thetreatiseonunderplaces.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "A play dealing with the nine-year sojourn of a snow-goddess in the Thracian city of Abydos, by 'Apollo Fireweaver'. In English, published in 1892; purportedly from an older Greek text.",
+  "dove": "elements/t.chioneatabydos.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A practical guide to 'troublesome Dead', grounded in theory but with a clear focus on their disposal, by the redoubtable Detective-Ostiary Wheelock of the Suppression Bureau.",
+  "dove": "elements/t.anexorcistsfieldmanual.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A priestess of the Sisterhood of the Knot claims to have discerned the true meaning of the Thunderskin's birth.",
+  "dove": "elements/t.themorphycodex.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A project proposed by 'Lionel' of the Society of the Noble Endeavour by which, he claims, he succeeded in creating a sanctuary for a fugitive Forge-Name. The unexpurgated version.",
+  "dove": "elements/t.thecarminepetalunexpurgated.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A prophecy of the Wars of the Roads, recorded in the Subcontinent in the days before the Great Hooded Princes.",
+  "dove": "elements/t.howtheendwillbegin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A radically different text from any of the other versions of the Book of Suns, attributed to Hagar, Queen of Shur, Mother of Wolves. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]",
+  "dove": "elements/t.shuriticbookofsuns.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A rare surviving copy of Christopher Illopoly's notoriously unsuccessful volume of experimental poetry, published in 1912.",
+  "dove": "elements/t.justverse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A recording of a 1911 attempt at a performance of 'Wings within Wings', the so-called Invisible Opera.",
+  "dove": "elements/t.theinvisibleoperaunfinishedrecording.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A recording of uncertain origin: inexplicably compelling poetry recorded by a speaker with a high, sweet voice that scales up beyond human hearing… in the language called Vak, which probably isn't spoken by more than a few dozen living scholars.",
+  "dove": "elements/t.atowerrises.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "A recording of uncertain origin: inexplicably compelling poetry recorded by a speaker with a rasping, rumbling, impossibly deep voice… in the language called Vak, which probably isn't spoken by more than a few dozen living scholars.",
+  "dove": "elements/t.atowerfalls.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "A scorched slab of black corundum, minutely scratched on every side with intricate ideoglyphs. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]",
+  "dove": "elements/t.thesunsdesign.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A scroll of anthropoderm parchment, written in the golden ink called Uzult. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]",
+  "dove": "elements/t.thesundisfigured.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A sixteenth-century translation of the Barrowchild's account of 'Lagiah's Turn' - when Lagiah, the Queen Unsated, was offered the opportunity to enter the service of the Hours of the Triple Knot, as long as she repudiated her brother-lover Antaios.",
+  "dove": "elements/t.thequeensturn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A surprisingly casual final section mentions that iotic essence, 'the root of the Great and Exultant Ink Orpimental', can be refined with enough Forge from a variety of liquids.",
+  "dove": "elements/t.thebookofcinders.xexts.reading.forge",
+  "ricorre": 1
+ },
+ {
+  "en": "A surprisingly chatty text by an entity that identifies itself as 'the Excellency Gnathobasis'.",
+  "dove": "elements/t.oghkoroghkortissilakoghkor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A surreal contemporary play by the enigmatic Monica Medina, in which the Queens of the Rivers are murdered, one by one.",
+  "dove": "elements/t.thequeensoftherivers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A transcription of the play by Menander the Victor, possibly the dramatist of that name, into Phrygian, with commentaries.",
+  "dove": "elements/t.theburningwoman.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A treatise on eggs, light, and optics by Abbess Melancthe, dazzlingly illuminated with renderings of the Abbess' visions.",
+  "dove": "elements/t.adescentoftheshell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A very heterodox history of the House of Lethe as recorded by 'the Serenity' - a Lethean adept who declares that the House of Lethe was created explicitly to prevent the ascension of any more mortals to Name or Hour status.",
+  "dove": "elements/t.anechoofsilence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A volume of collected teachings of the Sisterhood of the Knot, that arcane-contemplative order that existed in all histories, but in some was very powerful indeed. This was recorded by 'Hypatia', and dedicated to St Nympha.",
+  "dove": "elements/t.theroseofhypatia.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A volume of collected teachings of the Sisterhood of the Knot, that arcane-contemplative order that existed in all histories, but in some was very powerful indeed. This was recorded by 'Nuriel', and dedicated to St Tryphon.",
+  "dove": "elements/t.theroseofnuriel.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A volume of death-lore gifted to St Brandan's by Brian of Brittany, who was made Earl of Cornwall after the Norman Conquest.",
+  "dove": "elements/t.thewhitebookofbrittany.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A volume of ink-lore gifted to St Brandan's by Brian of Brittany, who was made Earl of Cornwall after the Norman Conquest.",
+  "dove": "elements/t.theblackbookofbrittany.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "A wonderful compendium of healing tisanes compiled by Natan of Regensburg.",
+  "dove": "elements/t.warmingdraughtstouplifttheheart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A work by Omar, the Blaze, an initiate or craftsmaster at the Labyrinth of Lions.",
+  "dove": "elements/t.eachflamehisfuel.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A year with the Légion du Seuil, patrolling the Bounds, until he deserts; a month in the Priory of Captains in Morbihan; seven days, or so he claims, in Ys behind the wave…",
+  "dove": "elements/t.lettersfromafugitive.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Abbot Thomas clearly regrets his 'storm-years', and much of the book is taken up with his thoughts on penitence; but there are hints also that he misses those years, and the companionship of his 'sword-brother, ship-brother' Trygve.",
+  "dove": "elements/t.thewindsruin.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "Abbot Thomas speaks of his time as a raider, when his name was not Thomas but Toke, 'scything the sea, striving for plunder'…",
+  "dove": "elements/t.thewindsruin.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Abbot Thomas speaks of the breaking of his oaths to his sword-brother Trygve, and to the 'Lord of Scars' that he served before he came to the Abbey. He writes of the power of oath-bonds, and considers the means and morality of their sundering.",
+  "dove": "elements/t.thesunslament.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "Abbot Thomas speaks of the coming death he hears in the sound of the waves, but rejoices that his blood will water the 'Egg of the Moon' - by which he seems to mean the future.",
+  "dove": "elements/t.themoonsegg.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "According to Abbot Richard, each of Red William's forms is closer to the Sun, and is increasingly 'winged with virtue'. Richard draws an analogy with the waxen wings of Icarus: hypocrisy and false virtue will melt before the Sun's heat, and so sincerity and untrammelled expression of the Self are the utmost piety. It's worth noting that only a year or two after Richard wrote this book, John Tregonwell was so appalled by the debaucheries of the monks of St Brandan's that he recommended the monastery's immediate dissolution.",
+  "dove": "elements/t.sevenfacesoficarus.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Accounts by Governor Collers' private secretary of interventions and experiments in the last years of the Cucurbit prison, focusing particularly on prisoners he believes might have Carapace Cross lineage.",
+  "dove": "elements/t.cucurbitprisonerrecords1927.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Accounts by Governor Collers' private secretary of interventions and experiments in the last years of the Cucurbit prison, focusing particularly on the 'hill-children', wild Wood-things that have found a shape in the physical world.",
+  "dove": "elements/t.cucurbitprisonerrecords1928.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Advice from Gervinus van Lauren, eleventh Librarian of Hush House, to the one who will come after him.",
+  "dove": "elements/t.letterstomysuccessor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Advice on Containment",
+  "dove": "elements/t.adviceoncontainment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "After Abbess Nonna's death, the 'double foundation' is dissolved and the monastery is reformed to accept only male novices. At this point the ink changes. The helpful scribe explains that for the new foundation, the Abbot has mandated stargall, not yewgall, ink. He outlines the differences (use of Inks of Containment techniques with a Sky, not Nectar, context) but doesn't trouble to explain why.",
+  "dove": "elements/t.annalsofstbrandans.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "After many years of peace, the heirs of the Perseids move against the King of Kings and the Shadowless Empire. The Golden General will not take arms against the blood of his mentor, until the King of Kings whispers 'a great secret of betrayal' in his ear. He breaks his sword, forswears his oath to both the Empire and the Scarred Man, and enters 'the Temple behind the World', leaving his life behind.",
+  "dove": "elements/t.thebookofthrones.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "After the fall of Rome, the Shadowless Empire takes Byzantium under its wing, and moves East against the Land of the Great River. Isaac begins to recount the invasion struggling against 'the unskinned armies of the hooded serpents', but ends abruptly with a series of incantations that he claims allowed the Shadowless Empire to persist.",
+  "dove": "elements/t.isaacofkarthshistoryoftheshadowlesskings.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "Against Vitruvius",
+  "dove": "elements/t.againstvitruvius.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Against the Sisterhood of the Knot and the Foulness of their Depraved Customs",
+  "dove": "elements/t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Alexander Probst recovered a copy of this work from a mountain-temple in Persia. Other copies surface now and then, usually seared on rock.",
+  "dove": "elements/t.thebookofdissolution.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Alexander Probst writes warily of 'Calyptra' - a law, principle or society which prevents the dissemination of dangerous knowledge.",
+  "dove": "elements/t.whatdoesnotbark.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Alexander meets at Issus with Darius, King of Kings, for three days and three nights. On the first day, the two men trade threats; on the second, promises; on the third, secrets. Darius tells Alexander something so shattering that he retires to his tent to consider 'matters of strength and matters of mastery'.",
+  "dove": "elements/t.asthesunhiscourse.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Also known as 'The One Who Has Shaven His Hair'. This, the story goes, is the lore that even the shapechanging Vanaras rejected.",
+  "dove": "elements/t.theshavenlocktantra.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Although Thirza is very probably just making up much of the story, there are long passages expounding notable techniques of weave-work and thread-feit. In particular, when Witch and Sister flee across the Sea to be together, Thirza explains how they fashioned a 'peace-weave' with Heart and these arts, and then, to tame the winds, called on Heart again to swaddle the thunder in the peace-weave.",
+  "dove": "elements/t.twowombsoneheart.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "Ambrose Westcott used to render the title of this venerable and anonymous work mockingly as 'the Big Blue Business'. A kinder translation would be 'the Great Work in Azure'.",
+  "dove": "elements/t.opusmagnuscaeruleus.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ambrose Westcott's exposition on tobacco-blending and 'the Oracles of the Pipe.'",
+  "dove": "elements/t.ashapeinsmoke.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ambrose Westcott's inventive - one might say pioneering, or indeed buccaneering - essays into kitchencraft.",
+  "dove": "elements/t.ambrosial!.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ambrosial!",
+  "dove": "elements/t.ambrosial!.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Amira prophesies four great wars before the Second Dawn, when the Sun-in-Splendour shall rise again. She cautions: 'Sunrise is blood, and I foretell now that the Sun shall rise from blood, yet not the colour of the blood, nor the hour of Night.' She includes a rite that she speculates will be necessary for the Second Dawn.",
+  "dove": "elements/t.thetimeofdivision.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "Amiranis Beteli",
+  "dove": "elements/t.amiranisbeteli.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Almanac of Entrances",
+  "dove": "elements/t.analmanacofentrances.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Echo of Silence",
+  "dove": "elements/t.anechoofsilence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Exorcist's Field Manual",
+  "dove": "elements/t.anexorcistsfieldmanual.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Hour, Ayrshire explains, may usually only have seven Names - but since the Thirstlies, Ivories and Lovelies who usually comprise the Red Grail's Names are constantly attempting to devour one another, and the Names of other Hours, that number fluctuates.",
+  "dove": "elements/t.onthirstliesivoriesandlovelies.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "An Impertinent Vitulation",
+  "dove": "elements/t.animpertinentvitulation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Introduction to Histories",
+  "dove": "elements/t.anintroductiontohistories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Investigation of A Foundered Country",
+  "dove": "elements/t.aninvestigationofafounderedcountry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Obliviate adept identified only as 'the Emiliano' rants desperately about the part Sunset Celia played in the Intercalate, as 'the proxy of the Sun'.",
+  "dove": "elements/t.sunsetceliaandtheendofdays.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account by 'Mistress Red-Flower' of the alchemical operations favoured by the House of Lancaster, also identified with the 'Sunset Road'. These operations ultimately led to their victory in the War of the Roads, but are described as 'now debased'.",
+  "dove": "elements/t.theamalgamoftheredrose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account by 'Mistress White-Flower' of the alchemical techniques favoured by the House of York, also identified with the 'Dawn Road'. These techniques failed to bring them victory in the War of the Roads, but are 'not to be discounted'.",
+  "dove": "elements/t.thealloyofthewhiterose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account of an occult romance. A certain Iyavogos claims to have written this in a single night as part of his initiation into the Aleppine branch of the House of Lethe - that order of immortals who would not pledge themselves to any Hour.",
+  "dove": "elements/t.onmatthiasandtheamethystimagotransformation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account of an occult romance. A certain Mek claims to have written this in a single night as part of his initiation into the Theban branch of the House of Lethe - that order of immortals who used the arts of water to conceal themselves.",
+  "dove": "elements/t.onmatthiasandtheamethystimagopursuit.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account of an occult romance. A certain Para, son of Aaron, claims to have written this in a single night as part of his initiation into the Damascene branch of the House of Lethe - that order of immortals who rejected their past and future.",
+  "dove": "elements/t.onmatthiasandtheamethystimagoloss.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account of the 'five visits of the Desert Wanderer' - probably the Hour called the Vagabond - to the city Miah. She begins as a delighted child - perhaps even a mortal - but things then go badly…",
+  "dove": "elements/t.bookofmiah.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account of the ascent of the Hour called the Mother of Ants, by the Bosk-scholar Mek, of the Theban branch of the House of Lethe.",
+  "dove": "elements/t.thehissingkey.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account of the destruction of a primaeval Hour, a god-who-was-Stone.",
+  "dove": "elements/t.thesevenfoldslayingofthesevencoiled.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An account of the founding of Mycenae by a 'Scarred Captain' who first slew seven monsters to make the land safe.",
+  "dove": "elements/t.thedeedsofthescarredcaptain.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "An allegorical history of the House of Lethe, which it is here implied was inspired by the Centipede. 'Sereno Blackwood' is an occult alias to this day.",
+  "dove": "elements/t.theserenityoftheblackwood.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An anonymous biography of Eva Dewulf, last of the Dewulfs, focused rather salaciously on her personal troubles and intrigues.",
+  "dove": "elements/t.apaleladyandaprinceofwines.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An anonymous confessional account of unsanctioned activities by the nuns of St Brandan's. The title is a Henavek phrase that might be translated as 'the spirit flees the shadowed places.'",
+  "dove": "elements/t.udrocashaas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An anonymous erotic novel occasionally claimed to have been written by Eva Dewulf, although at least two duels were fought in her honour to avenge this slander.",
+  "dove": "elements/t.etteryafter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An anonymous prison diary written by a dreamer convicted of 'oneiric irresponsibility' and confined to the Cucurbit.",
+  "dove": "elements/t.glimmerings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An apocryphal account of the works and experiences of the Shepherd Illuminate by one of his supposed companions.",
+  "dove": "elements/t.gospelofnicodemus.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An apparently theoretical project proposed by 'Lionel' of the Society of the Noble Endeavour which might permit the imprisonment of a renegade Forge-Name. A very heavily revised edition of an earlier and even more controversial work.",
+  "dove": "elements/t.thecarminepetalrevised.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An early work by Omar the Blaze, a novice or apprentice at the Labyrinth of Lions.",
+  "dove": "elements/t.thelionandtheglass.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An eccentric political tract by Valentine Dewulf.",
+  "dove": "elements/t.therepublicofteeth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An eighteenth-century epic poem by the pseudonymous 'Solipsistos'.",
+  "dove": "elements/t.debellismurorum.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An extremely heterodox account of the Nazarene Messiah and his works, describing his ascension to the Mansus through the opening of his body.",
+  "dove": "elements/t.thegospelofzacchaeus.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An occasionally coherent catalogue of the secret gods, organised by hour. This is a reprint, but in the original Latin.",
+  "dove": "elements/t.dehorisbook1.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An unauthorised account of the death of Abbess Nonna, written by Eusebia, one of the two sisters accused of having murdered Nonna through 'poisoning and Arts unsanctioned.' Eusebia, awaiting execution, intends to hide this account in her cell...",
+  "dove": "elements/t.themostsorrowfulendoftheladynonna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An uncharacteristically poignant meditation by the Edge-long Twrog of Meirionnydd, who later came to Hush House under a variety of other names, often in search of some sort of fight.",
+  "dove": "elements/t.sunriseawakenings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "An unusual recording of Verro's 'Opening the Sky', composed for the coronation of the New King, Henry IX. The record bears the Suppression stamp EXPUNGE.",
+  "dove": "elements/t.openingthesky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Annals of St Brandan's",
+  "dove": "elements/t.annalsofstbrandans.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Apocryphal chapters foretell the means by which the Sun-in-Splendour and the Forge might circumvent the impossibility of their joining, through proxies that are in some sense themselves…",
+  "dove": "elements/t.shuriticbookofsuns.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Armed with blackmail material from the 'burrowing secret-keeper', the Great Hooded Princes petition the powers of the Wood for a second time, and are successful. One quarter of the Timurid army is devoured by bees, one quarter drowns themselves, and one quarter 'disrobe themselves until nothing remains'.",
+  "dove": "elements/t.thefirecircletantra.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun's scholarship is dubious, but he (she?) writes pithily. Incidents of sudden and violent death are interspersed with aphorisms: 'Hours don't dream. Long try not to.'",
+  "dove": "elements/t.thevictoryofcrowns.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "As The Sun His Course",
+  "dove": "elements/t.asthesunhiscourse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "As a skaptodon, Ehsan may consume only that which is found in the earth, so he's best with root-lore...",
+  "dove": "elements/t.fekrisherbary.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "As always, the Lionsmith drew his strength from metal, and Antaios from stone… but the Lionsmith began to suspect also that this time, Antaios was drawing power from the Moon.",
+  "dove": "elements/t.skinofsilver.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "As he records the passing of the Great Comet in 1577, the tone finally becomes more animated but also more obscure. Thomas cites his Dawn Period namesake, Abbot Thomas, as an authority on 'Wind, Moon, and Shell in the Heavens Inferior'. He observes: 'My predecessor knew this Truth - three Blossoms hath the Watchman's Tree: Paper; Ink; and Flame. The Great Comet, I now aver, is that Flame.'",
+  "dove": "elements/t.journalofthomasdewulf.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "As the Captain destroys each monster, a flood of blood rises higher, until at last a priestess drowns and is reborn as a serpent-goddess. She blesses the Captain, and he departs for the 'House above the Forest', leaving Mycenae to reign supreme after the flood of blood subsides.",
+  "dove": "elements/t.thedeedsofthescarredcaptain.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "As the Lantern-long begins to abandon its flesh, its skin becomes loose, its bones soften. The Sixth Mark is to be observed thus: when the flesh between finger and thumb can be pulled to the final finger-joint…'",
+  "dove": "elements/t.bytheirmarksshallyeknowthem.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "Ascite Supplications",
+  "dove": "elements/t.ascitesupplications.label",
+  "ricorre": 1
+ },
+ {
+  "en": "At dawn on the fourth day, Alexander announces: 'the Sun has his course, upon which he returns; and so do I'. He returns to Macedonia, executing two of his captains when they dispute his decision. He brings with him the 'names of a blind God', and a 'rite of sacred betrayal': for, Joel opines, without betrayal there would be an end to war.",
+  "dove": "elements/t.asthesunhiscourse.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "At one point, male initiates were required to undergo castration, and female initiates to strangle any children they had previously borne. These measures were so horrific that the Order was shaken by repeated schisms, and eventually absorbed into the local Sisterhood of the Knot as a society of healers and exorcists.",
+  "dove": "elements/t.damascenetraditionsofthehouseoflethe.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "At the time this book was written, a 'fugitive' Forge-Name would have been guilty of heresy, treason, or both.",
+  "dove": "elements/t.thecarminepetalunexpurgated.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Athena Vana's work on the rogue Hour called the Vagabond, who is also known as the Laughingthrush, the Centipede, the Pilgrim, and by many other names - or as Vana has it, 'masks'.",
+  "dove": "elements/t.thebookofmasks.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Bancroft Diaries",
+  "dove": "elements/t.bancroftdiaries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bancroft seems to have been a talented adept, but devoted his energies to frustratingly whimsical projects: arranging 'grape-fetching races' between Mansus-spirits, teaching Percussigants to juggle, and conjuring storms of imaginary blossoms for the rose-witch Ayrshire, who resolutely refused ever to couple with him. Bancroft spends twenty pages bemoaning this last.",
+  "dove": "elements/t.bancroftdiaries.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Battle-apothegms of the Name Quirinus.",
+  "dove": "elements/t.quirinicmeditations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Birth occurs at the conjunction of pleasure and torment. So the first Forbidden Acts of the Forge birthed sparks of delight which took root in the Glory or in Nowhere: who can say? So the seeds of the Flowermaker were planted, though for long years he was nothing but an unfulfilled ache.",
+  "dove": "elements/t.acatalogueofunchartedpleasures.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Elie, Damascene Matriarch of the Sisterhood of the Knot, was imprisoned by the emperor Didius Julianus. She reportedly instructed that these secret doctrines be recorded in writing to preserve against their loss. Regrettably, the story goes, Didius Julianus ordered that the work be entombed with her in an unmarked sepulcher.",
+  "dove": "elements/t.commandmentsforthepreservationofallthatexists.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Elie, disgraced Damascene Matriarch of the Sisterhood of the Triple Knot, wrote this while fleeing the 'agents of the Duty.'",
+  "dove": "elements/t.thesecretcolours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Elie, who much later became Damascene Matriarch of the Sisterhood of the Knot, recounts her journey to the Grove of Green Immortals.",
+  "dove": "elements/t.ajourneytothegrove.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Nephrite",
+  "dove": "elements/t.blacknephrite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Black nephrite and scolecite, for Nowhere; orichalc and amber, for Ys; amethyst for the Night Key of the Spider Door...",
+  "dove": "elements/t.evastreasury.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Blake seems uncertain at points whether the techniques are intended for use <i>by</i> or <i>on</i> girls. She clearly regards children as a nuisance.",
+  "dove": "elements/t.exorcismforgirls.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Blessings and invocations of the Triple Knot recorded at a sanctuary in Cyprus notable for its weavers, sculptors, and gardeners.",
+  "dove": "elements/t.thewonderfulshape.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Book of Miah",
+  "dove": "elements/t.bookofmiah.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Book of True Blood",
+  "dove": "elements/t.bookoftrueblood.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Both kinds of Winter-long know that their death is only deferred, so both tend to seek and treasure beauty. Here they detail their purest experiences - the mountain after the avalanche, the peace after the storm-wreck, the gusted silence of the sun-shadowed hill...",
+  "dove": "elements/t.naeniansketches.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "Bryan Dewulf, the son of the 3rd Baron Brancrug, gives advice on hunting in the Bounds.",
+  "dove": "elements/t.huntingjournalsofbryandewulf.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Bryan describes how a 'Sky-inspired fife' can be prepared using these Fur and Feathers techniques, in the presence of greater Sky-aspect, to 'make of the winds good neighbours.' It's a powerful technique to be described so casually: Bryan's main interest seems to be in ensuring good weather for his hunts.",
+  "dove": "elements/t.huntingjournalsofbryandewulf.xexts.reading.scale",
+  "ricorre": 1
+ },
+ {
+  "en": "By Their Marks Shall Ye Know them",
+  "dove": "elements/t.bytheirmarksshallyeknowthem.label",
+  "ricorre": 1
+ },
+ {
+  "en": "By the end of the first act, Maevelin has revealed a secret door in the walls of the House to Leo, and Corvino has taken to consuming Worms.",
+  "dove": "elements/t.thehumoursofagentleman.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "By the time he wrote these letters, Coseley was identified with the oneiropolitical 'Worms' movement, and Hersault with the 'Birds' - meaning roughly that Hersault held the order of the Hours to be desirable, and Coseley held it to be oppressive.",
+  "dove": "elements/t.thetwelvelettersonconsequence.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "C.G. Burial, the temperance campaigner, published elements of this in a pamphlet, which had to be withdrawn and destroyed after it became popular.",
+  "dove": "elements/t.thethirstingtantra.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "COLOURS IN THE LIVER",
+  "dove": "elements/t.coloursintheliver.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Calicite Supplications",
+  "dove": "elements/t.calicitesupplications.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Calyptra may be known, as Night, Dawn, Eclipse. The Chancel may be known, as Threshold, Mirror, Shell. Calyptra and Chancel then are two: is Janus a third?'",
+  "dove": "elements/t.thethreeandthethreekerishammanuscript.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "Cardea's Delights",
+  "dove": "elements/t.cardeasdelights.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Carlos Garcia Sauri, the ecstatic mystic of the Pyrenees, was known to recite this in three languages, though he had never visited the Subcontinent.",
+  "dove": "elements/t.theknownunknowntantra.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Cassius the Thoman reveals the deeds of the Unnumbered Legion, the secret army that protected Rome against the Shadowless Empire.",
+  "dove": "elements/t.bookoftrueblood.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chione at Abydos",
+  "dove": "elements/t.chioneatabydos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Christoph Larquebus claimed to have purchased two hand-written copies of the Codex from a family of witches on the shores of the Sea of Marmara. A third was 'given to the Sea'.",
+  "dove": "elements/t.thelarquebinecodex.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Club members are assigned names out of noble myth - 'Jaufre', 'Roland', and, unexpectedly, 'Breadbeddel'. They claim to be heirs to the Leashed Flame, which gave the island of Britain such appalling power in some histories.",
+  "dove": "elements/t.thehightraditionsofthenobleendeavour.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Codex Acephali",
+  "dove": "elements/t.codexacephali.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Collected Hush House Lectures",
+  "dove": "elements/t.collectedhushhouselectures.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Collers describes how he's successfully induced an unstable Carapace-larva to develop into a greater form, using Insects and Nectars techniques in the context of considerable Moon-aspect to 'awaken what would rather remain hidden'. He hopes that similar techniques might be used to expedite the moral development of prisoners...",
+  "dove": "elements/t.cucurbitprisonerrecords1927.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "Commandments For the Preservation of All That Exists",
+  "dove": "elements/t.commandmentsforthepreservationofallthatexists.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Commentary, illustrations and interleavings carry revelations never intended in the original: a sense of history, and the senses of Histories.",
+  "dove": "elements/t.theturquoisehand.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "Cornered at last by his pursuers, Westergren writes that he will 'attempt the Paths of the Sun'. He doesn't seem sanguine about his chances, and indeed, this is his last letter. An editor's note adds that Westergren's whereabouts or end remain unknown, although he was supposedly sighted at the 'Christmas Market' in Vienna - the negotiations between invisible underworld figures that happen each year there - in 1929.",
+  "dove": "elements/t.lettersfromafugitive.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "Coseley's tone is urgent - as if he suspected he might have little time left.",
+  "dove": "elements/t.thesixlettersonnecessity.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Cucurbit Prisoner Records 1927",
+  "dove": "elements/t.cucurbitprisonerrecords1927.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cucurbit Prisoner Records 1928",
+  "dove": "elements/t.cucurbitprisonerrecords1928.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cygnifer considers Lightning to be 'the division, the connection, the joined serpent.' The Serpent's Eye is said to be the Sun - but as the division and connection, it must have a second Eye.",
+  "dove": "elements/t.theothereyeoftheserpent.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Cygnifer considers and rejects, three times, the hypothesis that the Moon is the Serpent's other eye, insisting that it and the Sun do not share a nature. (This, as much as the Serpent business, is what got him burnt by the Church.) He proposes that the Serpent's teeth are towers, that the Serpent's mouth is a gate, that the Serpent is the 'devourer of Ys'... and 'therefore' that the Serpent's other eye is amber.",
+  "dove": "elements/t.theothereyeoftheserpent.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Damaon insists that the Hours, far more than mortals, are subject to their passions - to hatred, and even to love. 'The seasons of famine and plenty, the turn of the Earth, the transformations of the furnace - all these are only the results of the enactment of the lesser passions of the Hours.'",
+  "dove": "elements/t.thedreamoftheconspiracyofthelowerskies.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Damaon suggests that the Hours have constrained their rivalry to avoid a war within the House of the Sun. He identifies the 'Fear of the Crime of the Sky' as the reason that Hours do not satisfy other passions. He speculates on the horrifying possibilty of Hours turned alukite. 'What then would they devour?'",
+  "dove": "elements/t.thedreamoftheconspiracyofthelowerskies.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "Damascene Traditions of the House of Lethe",
+  "dove": "elements/t.damascenetraditionsofthehouseoflethe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dardesh's boasting at length turns melancholy. An Edge-long is half a dyad; she may not defeat her hated brother-enemy without ending herself. She doesn't even want to; but she is aware, to her frustration, that she is 'a piece on the board, an axle on the ox-cart' - an essential part of the eternal engine of contention which the Lionsmith and Colonel use to sustain the world.",
+  "dove": "elements/t.theascendant.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "Darius and Alexander at Issus - the incandescent strivings of the Houses of Lancaster and York - the Second Worm War -",
+  "dove": "elements/t.thewoundwounds.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "De Bellis Murorum",
+  "dove": "elements/t.debellismurorum.label",
+  "ricorre": 1
+ },
+ {
+  "en": "De Braose' wife, Eva, evidently seeks the Abbey's help to free her from her hated husband. Subsequently he is found in the bed-chamber of the wife of Llywelyn the Great, Prince of the Welsh, while attempting to negotiate the marriage of his daughter (also Eva) to Llywelyn's son. Llywellyn takes this badly, de Braose is hanged, the elder Eva inherits his estates and makes a substantial endowment to St Brandan's. In the author's telling, de Braose was 'innocent of all but cruelty' and the adulterer found in the bed-chamber was a shape-changing 'undergoer'...",
+  "dove": "elements/t.udrocashaas.xexts.reading.scale",
+  "ricorre": 1
+ },
+ {
+  "en": "De Horis book 1",
+  "dove": "elements/t.dehorisbook1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "De Horis book 2",
+  "dove": "elements/t.dehorisbook2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "De Horis book 3",
+  "dove": "elements/t.dehorisbook3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "De Ratio Quercuum",
+  "dove": "elements/t.deratioquercuum.label",
+  "ricorre": 1
+ },
+ {
+  "en": "De motu corporum vetitorum",
+  "dove": "elements/t.demotucorporumvetitorum.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Deaths and their Evasions",
+  "dove": "elements/t.deathsandtheirevasions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Descriptions of the 'Asclepian Mysteries', reproduced by one 'Rylee Grese' from - supposedly - a much older text. It's unlikely to be genuine, but it makes a reference to 'The House without Walls and its Wood' right there in the prologue.",
+  "dove": "elements/t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Detailed accounts of secret bacchanals and ecstatic dances observed in necropolises and graveyards in Southern Europe, in Egypt and in Anatolia. The author is a self-confessed ghoul, an eater of buried flesh: he claims to have witnessed the dances while at his feasting.",
+  "dove": "elements/t.raptintheking.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dialogues with an entity called the Crucible Prince. The Prince warns about the appetites of his mistress, the Burning Queen, and the peril of the naked desire she shares with the Sun, but professes his loyalty nevertheless.",
+  "dove": "elements/t.theincandescenttantra.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Dialogues with bees and uses for honey, as erratically recorded by Ricardo Milagro, gardener of Hush House in Musgrave's time.",
+  "dove": "elements/t.thebeekeepersends.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "EXPERIMENT BEYOND SIGHT",
+  "dove": "elements/t.experimentbeyondsight.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Each Flame His Fuel",
+  "dove": "elements/t.eachflamehisfuel.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Each day's light, Twrog suggests, is faintly touched by the light of every past day; so in the light of every present day, we may begin to understand something of days to come. At least, this appears to be his conclusion, but he stops in mid-sentence, apparently having lost patience with the act of writing, or possibly been ambushed.",
+  "dove": "elements/t.sunriseawakenings.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "Each fable describes the coming of the Second Dawn, when the Hours of the Sun will be united - but in 'Eternity Denied', 'The Vampire Light', and 'The Feast of Rays,' Gore depicts a tainted Dawn which can only be purified by a second Division of the Sun. He insists repeatedly on the dangers and temptations of a false Dawn...",
+  "dove": "elements/t.propheciesofglory.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "Each page of this book contains one word only, but as each page is turned, a knowledge creeps in.",
+  "dove": "elements/t.thescarinthesky.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Each page of this book except the last bears a single sign, clear and irrefutable as a gem...",
+  "dove": "elements/t.theskyinthescar.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Echidna's children are of two kinds: 'born' and 'won'. She seems to have had some success in winning over the creations of other powers to her service. In particular she has a habit of giving sustenance to the labhites, who consume what is found in the sky, and seducing them away from the Lionsmith...",
+  "dove": "elements/t.echidnalia.xexts.reading.scale",
+  "ricorre": 1
+ },
+ {
+  "en": "Echidnalia",
+  "dove": "elements/t.echidnalia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan Fekri, one-time Secretary Salvant of the Curia of the Isle - responsible for the Curia's healing efforts - writes of his experiences in Brancrug, and hints at his travels elsewhere.",
+  "dove": "elements/t.theseadoesnotregret.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan identifies a pale sea-weed found on the beaches of Cornwall as a useful source of Rose and Winter aspect. His tone here is a little guilty - perhaps because he's showing an interest in sea-produce, which might be thought unwise for a skaptodon, and perhaps because his proposal to name it 'Eva's Locks' suggests a tiny crush on the Pale Lady of Brancrug...",
+  "dove": "elements/t.fekrisherbary.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "Elagabalus is the source of one-half of this text. The source of the other-half is obscure, but its power is evident. It is impossible to be certain if the Sun really planned for us to enter Eternity. It is impossible to be sure if the Grail, the Vagabond, and the Forge, stole this birthright from us, or saved us from it. But there is a great secret here.",
+  "dove": "elements/t.thesunsdesign.xexts.reading.lantern",
+  "ricorre": 1
+ },
+ {
+  "en": "Elie describes powerful protective incantations to be used in a variety of circumstances.",
+  "dove": "elements/t.commandmentsforthepreservationofallthatexists.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Elie writes of the 'secret colours of the Sun' - the blessed 'traces of Error' - weaknesses in sunlight, balancing principles in its reflection.",
+  "dove": "elements/t.thesecretcolours.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Enchiridion Tragularis",
+  "dove": "elements/t.enchiridiontragularis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ernestine Peterhans records her conversations with the 'little darkness' in Hush House's Stair Tenebrous, which she calls 'Donkerling'.",
+  "dove": "elements/t.theshadowinthestair.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ernestine Peterhans records her observations of the growths of trees and flowers around the Isle, and the omens and portents she attempts to draw from them - particularly the yew-tree in Earl Brian's Meadow, whose flowerings are sometimes eccentric.",
+  "dove": "elements/t.threeflowershaththetree.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ernestine attempts to use the tree's growths to advantage in her business affairs, but it fails. She is evidently very concerned when Hendrik Dewulf's grandson Giles runs off with 'the Pale Trollop Hafren' in a year when the tree flowers white - she begins to fear she has entirely misinterpreted all the relevant omens. She is deeply concerned for the continuation of the Dewulf line, and prays for Giles' return.",
+  "dove": "elements/t.threeflowershaththetree.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "Ernestine observes that in years when the tree flowers black, 'troubling Secrets arise'; when it flowers red, war and fires follow; and that no Dewulf heir has ever been born in a year when it flowers white...",
+  "dove": "elements/t.threeflowershaththetree.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Ernestine's business in the cellars of Hush House often took her up and down the Stair Tenebrous, although it is avoided by every other servant. 'Donkerling' attempted first to consume her and then to demand sacrifices from her; Ernestine consented to bring it mice, but became very stern when it asked for a 'new-drowned child...'",
+  "dove": "elements/t.theshadowinthestair.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Erratic accounts by 'Arun' of the hunting and consumption of supposed immortals by shadowy assassins. Published in the late nineteenth century.",
+  "dove": "elements/t.thevictoryofcrowns.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Esoteric secrets of metallurgy and resonance are revealed - including directions towards the creation of a terrible Bell.",
+  "dove": "elements/t.amiranisbeteli.xexts.reading.forge",
+  "ricorre": 1
+ },
+ {
+  "en": "Ettery After",
+  "dove": "elements/t.etteryafter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Eusebia claims that Nonna asked her and another sister to prepare her a leathy-draught (which can be brewed from another beverage with Herbs and Infusions techniques, and a sufficient quantity of Nectar) for a rite all three of them would perform below the Abbey. Something goes awry, Nonna is 'possessed of a tenebrous spirit', and the Abbey-brethren are forced to 'quell her with star-iron'. The other two are implicated: as scapegoats, Eusebia implies, although she acknowledges her fault also...",
+  "dove": "elements/t.themostsorrowfulendoftheladynonna.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "Eva Dewulf discurses on the Fifth History, and particularly on those who are said to have 'passed over' from it - the Great Hooded Princes, the Knock-long who ascended under the Mother of Ants but now (so Eva claims) honour the Horned-Axe.",
+  "dove": "elements/t.onehundredandeight.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Eva Dewulf is engaged to one Abraham Wheelock, but he leaves her at the altar. Furious and humiliated, she returns to Brancrug, and is not seen in London again. Three days after her departure, Abraham Wheelock's body is washed up near Gravesend. His face is so badly pecked by birds that he is only identified by his belongings. These include a waxed pouch containing a letter addressed to Wheelock, whose contents seem to show he is a spy in the pay of the Austrians. Subsequent investigations suggest that the letter is a forgery, but the matter remains obscure...",
+  "dove": "elements/t.apaleladyandaprinceofwines.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Eva Dewulf, last of the Brancrugs, discusses the occult and aesthetic properties of jewels and other precious minerals.",
+  "dove": "elements/t.evastreasury.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Eva has, to her regret, never visited the Library. She notes that it is said to be 'west of the Lion, and north of Victory' - and suggests that, although the Princes are generally associated with India, their library might be farther East…",
+  "dove": "elements/t.onehundredandeight.xexts.reading.scale",
+  "ricorre": 1
+ },
+ {
+  "en": "Eva points out - bitterly? - that there is no shortage of uplifting parables and proverbs about the saving graces of a flaw in a jewel; but that no-one, 'not jeweller, not priest, not Hour' has ever found a way to repair such a flaw.",
+  "dove": "elements/t.evastreasury.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Eva's Treasury",
+  "dove": "elements/t.evastreasury.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Everett Vinzant transcribed these from a cliff in Anatolia, where he famously survived a lightning-strike. He died seven years later to the day. His bones, the legend has it, were hot to the touch.",
+  "dove": "elements/t.thevinzantinscriptions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Everett describes the voices and powers of mortals and immortals based on their composition by analogy to the sounds and strengths of bells based on the metals of their casting…",
+  "dove": "elements/t.vinzantsminglings.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Exercises in the Continuity of Self",
+  "dove": "elements/t.exercisesinthecontinuityofself.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Exhaustive attempts to analyse and renew the Blood of the Sun by one of the numerous occult societies, after the manner of the Endeavour Club, for whatever squalid political motive.",
+  "dove": "elements/t.plantagenetmysteries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Exorcism for Girls",
+  "dove": "elements/t.exorcismforgirls.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Experiments in ithastry by the 'sky-smith' Everett Vinzant.",
+  "dove": "elements/t.onresonance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Stanislav John Schaller writes of the means and limitation of passage between the orders of the Mansus - Know, Long, Names, Hours. Unusually, Father John has written this book in Fucine - for, he says, especial secrecy.",
+  "dove": "elements/t.deathsandtheirevasions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Stanislav John Schaller, priest and diplomat, writes of his time on the slopes of Huashan - 'near to the Grove of the Green Immortals, but never too near.'",
+  "dove": "elements/t.singlefootsongs.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Theo has come to believe that Eva sought an escape from a family curse - the 'pale heritage' of Hafren her forebear, or the curse placed upon the line by the cunning-man Red William in the time of Hendrik Dewulf. He had begun by believing neither curse was real; but as the book concludes, he decides that he has determined to believe in them, rather than accept the three deaths as a futile tragedy. 'One does not so easily escape the long necessity of faith,' he concludes.",
+  "dove": "elements/t.ladyevasrepose.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "Feits, feats, posterns, loopholes, set down against the advent of Eternity by powers favouring imperfection and impermanence.",
+  "dove": "elements/t.serpentroot.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "Fekri is a keen fisherman, and speaks glowingly of the fish suppers of Brancrug. He also admits that his enthusiasm for 'the bounty of the sea' has altered him - that before he came to Brancrug, he consumed only those things found in the earth. 'I was the greater thereby, but all of us give up what we were, to become what we are.'",
+  "dove": "elements/t.theseadoesnotregret.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "Fekri's Herbary",
+  "dove": "elements/t.fekrisherbary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ferninshun clearly visited the Mansus, sailing the length of the Painted River. He also claims to have traversed a sea of finest sand, to have dared the blazing waves of the Sun's surface, and to have descended to an underworld ocean lit by lamps of black nephrite...",
+  "dove": "elements/t.thevoyagesofferninshunoforeol.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Ferninshun's final voyage is to retirement on a peaceful island across an evening sea, where he identifies a spring whose waters will keep him safe. 'I will be forgotten,' he declares, 'and this work my only trace.'",
+  "dove": "elements/t.thevoyagesofferninshunoforeol.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "Fiendishly complex, weirdly distorted illustrations of 'congress and anatomy' by the haunted visionary painter Niels Frederik Malskær.",
+  "dove": "elements/t.theintimationsofskin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fionna Ayrshire recounts her visits in dreams to the 'Red Church' in the Mansus, and her conversations with the Names of the Grail.",
+  "dove": "elements/t.onthirstliesivoriesandlovelies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Five Creations",
+  "dove": "elements/t.fivecreations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fludd, or pseudo-Fludd, suggests alignments between the alchemical tradition of rubedo and the older Grail traditions, through the Pine-Knight's quest for the Cinnabar Cup.",
+  "dove": "elements/t.theorchidtransfigurationsabirth.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Footage of experimental devices under development in the Cucurbit under Governor Collers' supervision.",
+  "dove": "elements/t.theadmonitoryautomataproject.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "For eight years the city is a place of slow death, frosty ecstasy and silent beauty, but in the ninth year a Conspiracy of Shouts is mounted against the quiet that Chione demands. The conspirators open the city gates, and a scarred man comes to drag Chione out by the hair. Summer returns, but the conspirators die of remorse.",
+  "dove": "elements/t.chioneatabydos.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "For four years, since his adoption from a Bristol orphanage, Illopoly served as Strathcoyne's pupil and protégé, but his relationship with this austere and secretive man was always complicated. His journal confides: 'I still think Fraser's intentions are good. Certainly he agrees. But I never understood the final goal of his investigations. He was never prepared to enlighten me. And good intentions or not, I can no longer bear this dream of eyes. We have agreed to part, almost amicably.'",
+  "dove": "elements/t.perugiandiaries.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Formulae and instructions invoking Moth, Lantern and - exceptionally, paradoxically - the liminal and theoretical Hour called the Chandler. The author is anonymous, admitting only that they are 'one who is not yet nameless.'",
+  "dove": "elements/t.thechandlerswish.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "From History to Eternity",
+  "dove": "elements/t.fromhistorytoeternity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "From Hour-gossip and invisible lore, Speeth deduces that the Vagabond has visited Nowhere, but that she will not return. He also asserts that she has yet to visit the Glory, but that inevitably, this must be her goal.",
+  "dove": "elements/t.wherehasshegone.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "Garcia Sauri acknowledges in an epilogue that it is widely known that Eva in fact tragically drowned herself - and her twin infant grand-daughters - without ever making such a journey. But he adds contemptuously: 'it is also widely known that the City Unbuilt will so remain, that only one History is ever written, and that Janus is a Mansus-prank.'",
+  "dove": "elements/t.thecrossingtonoon.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "Geffrey discusses 'the signs that mark Doors', which might permit or forbid access to certain thoughts and dreams, speculating (carefully) on which of the sanctioned Hours might teach or govern each sign.",
+  "dove": "elements/t.therapturesofforculus.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "Geffrey discusses 'the signs upon the Threshold', drawing comparisons between the duties of guest and host, and the status accorded to Hours and other powers who dwell in, are permitted in, or are forbidden access to the House of the Sun. (It was of course Geffrey who later invited censure by giving sanctuary to Natan of Regensburg, in an age when the Jews were by royal order unwelcome anywhere in the kingdom.)",
+  "dove": "elements/t.theelationsoflimentinus.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "Geffrey discusses the 'living Signs' - signs which change their shape, and whose flexibility is part of what makes it identifiable. He gives as one example 'the Paradox of the Hinge', and draws comparisons with the 'Names' called Twins (who would be considered Hours beyond the Church). He hints at the 'Amethyst Vessel' which can be sanctified by the Great Signs in the presence of Knock...",
+  "dove": "elements/t.cardeasdelights.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "Gideon Dewulf, 5th Baron Brancrug, discusses techniques shared between medical suturing, tailoring, and - carefully, allusively - the binding of restless spirits.",
+  "dove": "elements/t.notesonbindings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Gideon concludes with a concrete example: that the Mysteries can be used to despoil 'mine own Soaks', but then the Soak can then be refined with sufficient Heart into 'the sanguis saltandis'.",
+  "dove": "elements/t.theworlddespoild.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "Gideon speaks reverently of the 'wyrd-weft', which he has achieved by applying Stitching and Binding arts to a fabric in the presence of sufficient Winter. He laments however that its complexities only approach those understood by the Sisterhood of the Knot, which in turn are only a shadow of 'the true Braid of Histories'.",
+  "dove": "elements/t.notesonbindings.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "Gideon's favourite motif is 'the history of the flesh'. He insists obscurely that histories should be woven, not written.",
+  "dove": "elements/t.notesonbindings.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Glimmerings",
+  "dove": "elements/t.glimmerings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gnomic exhortations that might be described as 'emergency procedures' for the return of the travelling kinds of the Carapace Cross. [This book houses a <i>numen</i> - a truth so powerful it can perhaps believe itself.]",
+  "dove": "elements/t.theskyinthescar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Gore does not mention the Mansus directly, but constant coy metaphorical references to 'Ascending the Staircase of Years', to 'the Doors of Sleep', and to 'the Blue Light of Dawn' suggest he had commerce with the unseen world.",
+  "dove": "elements/t.wainscothistories.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Gospel of Nicodemus",
+  "dove": "elements/t.gospelofnicodemus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Green Jasper Tablet",
+  "dove": "elements/t.greenjaspertablet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gregory Wheelock, the master mason and architect employed by Walter Dewulf to construct the Winding Stair and the guest chambers in Hush House, describes a more ambitious and dangerous project.",
+  "dove": "elements/t.onthewindingstair.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Gregory evidently succeeds in opening a way to something he calls the 'Moon-Hall', but here his account becomes erratic. He insists that in the Moon-Hall the Horned-Axe is still an Edge-power; he hopes for an 'eternal rival', but cannot find the one he needs. The narrative is increasingly interspersed with chess notations, and ends abruptly.",
+  "dove": "elements/t.onthewindingstair.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "Gregory marks the bricks of his Roost-touched family home, Treowen, with Ramsund, hoping to open forbidden doors…",
+  "dove": "elements/t.onthewindingstair.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Harries discusses the role played by the 'Légion du Seuil' and the 'Company of the Wolf-in-Gold' in warding the Bounds against outside influences. He warns that Bounds-travellers may themselves be considered 'outside influences…'",
+  "dove": "elements/t.analmanacofentrances.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Harvey Hattington - pilot, polymath, confectioner - writes with great enthusiasm about the 'marvellous work of the Bee'.",
+  "dove": "elements/t.honeythecomprehensiveguide.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hattington insists that all the primary aspects - Nectar, Scale, Heart, Lantern, Moth, Grail - are possessed by bees and expressed in honey. (Clearly, he points out, there are only six primary aspects, as a honeycomb has only six angles.)",
+  "dove": "elements/t.honeythecomprehensiveguide.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Haustorial discussions of Medusa's histories.",
+  "dove": "elements/t.medusancommentaries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "He speaks <i>very</i> cautiously of the exceptions that can sometimes be made to the edicts of Chancel and Calyptra, and hints at the means by which he successfully returned a Lantern-long to flesh...",
+  "dove": "elements/t.deathsandtheirevasions.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Henry's 'Great Misfortune' - his crushing injury at a jousting bout - has left him unable to stand 'any straighter than a splintered withy'…",
+  "dove": "elements/t.oldcoppernoseandthesoftermetal.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Here is outlined the savour-secret of the Carapace, which harnesses hunger to permit impossible hybridisations. With this secret, even the most potent and fundamental entities have devoured and been devoured. And this, no doubt, is why it's secret.",
+  "dove": "elements/t.thewritingonthewall.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "Herein the Great Hooded Princes are shown beseeching the Wood to rise and devour an invading Timurid army. The 'Dapple-King', the 'Honey-Tree' and the 'Sea-Twins' all deny their request, until they enlist the help of a burrowing secret-keeper...",
+  "dove": "elements/t.thefirecircletantra.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Herein, the seventeenth-century mystic and antiquarian Claude Hersault describes the 'Bounds' or 'Underplaces' on the borders of dream. He warns that they shift over time.",
+  "dove": "elements/t.thetreatiseonunderplaces.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hersault identifies Blood, Silver, Design and the Worms as the central axes of each of the Histories, and claims that the so-called Second History is the true one.",
+  "dove": "elements/t.anintroductiontohistories.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "Hieronymus Pseudo-Hypnerotomachus wrote this furious screed about the sinister influence of the Sisterhood of the Knot on his own Church of the Unconquered Sun.",
+  "dove": "elements/t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hieronymus claims that the powers served by the Sisterhood of the Knot made an arrangement: the Thunderskin loved the Yew, and the Grail destroyed him, as restitution for the destruction of the Axe's loved ones. Hieronymus' writing becomes incoherent with rage at this point.",
+  "dove": "elements/t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Hieronymus recovers his composure, eventually, to describe how the Thunderskin entered the Mansus through the Peacock Door. This, Hieronymus insists, is 'abomination upon abomination: but then that most abominable of Doors has always been an abomination.'",
+  "dove": "elements/t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald boasts of his royal descent, and insists that the magics of the Forge are more effective when practised by those of noble blood.",
+  "dove": "elements/t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Honey: the Comprehensive Guide",
+  "dove": "elements/t.honeythecomprehensiveguide.label",
+  "ricorre": 1
+ },
+ {
+  "en": "How the End will Begin",
+  "dove": "elements/t.howtheendwillbegin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hubris declares that the Great Comet of 1577 was the physical embodiment of the Hour named Madrugad; that it disintegrated but its fragments gravitate to bone-marrow, where they can be located even now. He insists that Ouranoscopic techniques can be used with Essential Periost and sufficient Sky to create a 'talisman gerifugic'.",
+  "dove": "elements/t.demotucorporumvetitorum.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Hubris's thesis: that stars, planets and other bodies are the proxies or even essences of the Hours, and that conjunctions and occlusions reveal the outcome of Hour-intrigues in the Mansus.",
+  "dove": "elements/t.demotucorporumvetitorum.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Hunting Journals of Bryan Dewulf",
+  "dove": "elements/t.huntingjournalsofbryandewulf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Husher writes distractedly about his suspicion of colours and his yearning for death. He hints at a Great Work he has envisaged, or begun, where the 'palest of paintings' will enthral the world. He returns again and again to certain compelling phrases which he claims are the 'secret words of Winter'.",
+  "dove": "elements/t.onthewhite.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "Hymns attributed to Saint Lucia the Eyeless, patron of glassworkers and Name of the Hour called Meniscate.",
+  "dove": "elements/t.unhatchedhymns.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "INAAM: Has not the Beach-Crow shared his treasures? GARKIE: Not the rarest. He takes those things most precious, which he claims found, not stolen.",
+  "dove": "elements/t.inaamkapigiginlupirgarkiecryppys.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Illopoly describes how he came to make repeated visits to a dream-Wood via what he calls silver dreams. 'Trying to think your way to the Wood,' he explains, 'is like thinking your way to being in love. But I did find a Secret that helped.'",
+  "dove": "elements/t.travellingatnightvol1.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "Illopoly is clearly more interested in the occult than the aesthetic aspects of the work. By most measures, the rhymes are contrived; the meter inconsistent; the imagery banal. Still, even the worst verses have a compelling quality, and I find myself drumming my fingers on the desk to accompany their rhythms.",
+  "dove": "elements/t.justverse.xexts.reading.rose.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Illopoly left Perugia in 1909 without completing his degree. He had long lost interest in his studies, and the latter half of the journal is concerned with his studies of Umbrian folk-songs, and notes towards his own compositions (which are of widely varying quality). One of the better ones, 'In the Marshes of Night', suggests he visited the site of the old Lake Fucinus near Ortucchio…",
+  "dove": "elements/t.perugiandiaries.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Illopoly's disquisitions on fire and the Unburnt God are interrupted by passages of distractingly erotic poetry addressed to 'Baldomera'.",
+  "dove": "elements/t.travellingatnightvol3.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Ilse Bischoff's bewildering, widely derided final film.",
+  "dove": "elements/t.experimentbeyondsight.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ilse Bischoff's hallucinatory quasi-documentary, notionally about the Greco-Turkish War of the previous decade.",
+  "dove": "elements/t.theopenhead.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ilse Bischoff's most controversial film, blamed for outbreaks of cannibalistic killings in Tiflis and Leipzig.",
+  "dove": "elements/t.coloursintheliver.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Immunity to their own poisons was a constant concern for the Tragulari, and they constantly dosed themselves with substances that might built up immunity. Perinculate, the notoriously toxic Unsanctioned Ink, can be used as a base for one of these - Serpent-Milk - with sufficient Scale and with arts of Serpents and Venoms.",
+  "dove": "elements/t.enchiridiontragularis.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "In 'the first and greatest history', a subject of the Shadowless Empire of Persia travels to the West, to the kingdom of the Perseids. There he becomes a protégé of the tutelary Perseid deity, the Scarred Man who lives in the dark. He returns after seven years to put his skills at the service of the Shadowless Empire, becoming their Golden General...",
+  "dove": "elements/t.thebookofthrones.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In 1648, Bryan runs away again to join a Royalist uprising. Walter writes of news that Bryan has been seen on the field of battle at Gear Camp, but that his fate is yet unknown. Walter writes one last entry about his fear for his son and the future of his family.\n\nThere the journal ends; but the extensive account of Walter's collaboration with the architect Gregory Wheelock includes usefully esoteric information.",
+  "dove": "elements/t.journalofwalterdewulf.xexts.reading.forge",
+  "ricorre": 1
+ },
+ {
+  "en": "In 1782, Anaël Verdier used this text as the basis for a presentation to the Academy of Sciences in Paris. He was executed in secret the following morning without trial.",
+  "dove": "elements/t.themannerinwhichthealchemistwasspared.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In 1903, the House co-operated closely with the Branch, and Greene was the public face of that co-operation. In private, however, Greene is clearly disillusioned with the Branch, which he increasingly regards as irresponsible. He is especially concerned about the construction of a 'suppressive mechanism' beneath Brancrug Gaol, and its likely occupant.\n\n'Hours and Names are dangerous,' he writes, 'but at least our dealings have the benefit of long experience. An Hour who acts before she is born - who leaves those places she has never entered - if her Names walk the world already, how can we understand their courses and their capabilities?'",
+  "dove": "elements/t.journalofsirdavidgreene1903.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In 1907, at the age of eighteen, Christopher Illopoly left Strathcoyne's household to study theology at the University of Perugia in Italy, enrolling under the name 'Christopher Strathcoyne'.",
+  "dove": "elements/t.perugiandiaries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In Arabella's introduction, she explains that the book was to be illustrated, but that the Suppression Bureau would not permit it. She hints that the illustrations still exist somewhere. The book is dedicated to 'Sir Parsival of the Red Cup'.",
+  "dove": "elements/t.theskeletonsongs.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In English the title translates roughly as 'the Account of the Oaks'; but this is Nathaniel Darcy-Evers' fascinating, if haphazard, survey of the occult properties of every tree he can find, not just oaks.",
+  "dove": "elements/t.deratioquercuum.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In Latin. A nineteenth-century reprint (by the indefatigable Nathaniel Darcy-Evers) of a fourteenth-century Latin translation of a fourth-century work.",
+  "dove": "elements/t.dehorisbook2.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "In Memory of Gods",
+  "dove": "elements/t.inmemoryofgods.label",
+  "ricorre": 1
+ },
+ {
+  "en": "In The Mountains As Upon The Plain There May Not Be A Path Where None Has Passed",
+  "dove": "elements/t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "In an afterword, Illopoly discusses 'mnemonic holometaboly', by which he seems to mean a sort of crafting process where memories, when fed into a Preliminal Meter technique in the presence of enough Knock or Rose, can 'blossom and fissure' into more potent versions of themselves...",
+  "dove": "elements/t.justverse.xexts.reading.rose",
+  "ricorre": 1
+ },
+ {
+  "en": "In the 1800s, Dr Arun Peel was invited to give a series of lectures to the Curia. They combine his pithy view of the Histories with his particular brand of unhelpfully ironical insight.",
+  "dove": "elements/t.collectedhushhouselectures.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the Grove, Elie meets with an entity identified as 'Three Faces, Nine Colours' - who may have become her lover.",
+  "dove": "elements/t.ajourneytothegrove.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In the House of Lethe's heyday, it held an annual competition where its initiates competed to produce the best ode in Xenodice's honour. So there are still a lot of odes out there.",
+  "dove": "elements/t.xenodiceneodes.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In the Malleary",
+  "dove": "elements/t.inthemalleary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "In the city of Emesa, beneath the Church of the Holy Belt, in a sarcophagus of black corundum, Elagabalus lies: accursed of Janus, neither Long nor mortal, neither man nor woman, neither a liar nor a speaker of truth, neither real nor imagined. On his light-suffused skin is made manifest the Sun-in-Splendour's grand design...",
+  "dove": "elements/t.thesunsdesign.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In the days of the Carapace Cross, when humanity lived in the dark and ate on its knees, humans could enter the Mansus like vermin. One learnt the arts of Flint, the arts of shaping and remaking...",
+  "dove": "elements/t.themannerinwhichthealchemistwasspared.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In the days of the Shadowless Kings, Ennis Lazali was executed for prophesying the Division of the Sun. If any of his captors grew Long, they probably feel rather abashed now.",
+  "dove": "elements/t.thebookoftheextinguishedheart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the early 1530s, the last Abbot of St Brandan's, called 'Roaring Richard', set down his conversations with the illiterate local cunning-man, Red William.",
+  "dove": "elements/t.sevenfacesoficarus.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the final part, Cassius confesses to being a former Legate. He recounts his terror of the Tribune, and divulges the secret lore of the Golden General, the champion of the Shadowless Empire, the enemy of the Tribune, in the hope that the Tribune will some day be undone.",
+  "dove": "elements/t.bookoftrueblood.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "In the foretold war, the Children of the Leashed Flame march on the cities of the Continent, but the 'Enactors of Solar Law' and the 'Triple Sisterhood' join forces to hold them back... at tremendous cost.",
+  "dove": "elements/t.howtheendwillbegin.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In the last few pages, the author reveals himself as the Know-adept Ambrose Westcott, writing in an uncharacteristically serious mode. He informs any who should find this work that he has returned the book he spoke of to 'Abbot Geffrey's Secret', where it can be retrieved with certain invocations of the Sacra Limiae. He hopes that one who has read this far, and understood this much, will find a History to determine.",
+  "dove": "elements/t.thecarbonekschism.xexts.reading.moth",
+  "ricorre": 1
+ },
+ {
+  "en": "In the mid 1860s one 'Madam Yi' presented an entertainment based, she claimed, on this book.",
+  "dove": "elements/t.thebookofthecentipede.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the most notorious translation of the Leonine Tantra, Ashley Phillips is listed as the translator, but their existence is explicitly denied in the prologue. This confusion is characteristic of books which mention the Great Hooded Princes.",
+  "dove": "elements/t.theleoninetantra.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In the original myth, Marsyas lost the musical contest and was flayed by Apollo, who later regretted it. In this version, Marsyas' skin has a further history...",
+  "dove": "elements/t.apolloandmarsyas.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In the penultimate illustration, a Lovely grapples with a fungoid knot that can only be a Name of the Crowned Growth. The Lovely's mouth and other portals gape wide, and the Growth-Name is already partially engulfed - but it seems that Malskær couldn't bring himself to illustrate the result, and the final illustration is only a scrawled, bloated obscurity.",
+  "dove": "elements/t.theintimationsofskin.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "In the tenth verse, the Scarred One bathes his priestess-patron in the blood of the Seven-Coiled, to lend her power. In the eleventh, they assault the 'temple behind the world', entering it by force. In the twelfth, they swear a tripartite oath to protect their ancestors, their descendants, and themselves.",
+  "dove": "elements/t.thesevenfoldslayingofthesevencoiled.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "In this volume, Galmier records fewer dreams, and explicates more of her own elaborate theories. 'We see this again and again: what is below can't escape what is above.'",
+  "dove": "elements/t.thelocksmithsdreamportionsandproportions.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In this volume, notoriously, Galmier's prose begins to disintegrate, and it is not clear which dreams are in fact her own.",
+  "dove": "elements/t.thelocksmithsdreamtrespasses.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "In which Amira Zahra prophesies the events later known as the Intercalate, when the Hour called Sun-in-Splendour will be divided.",
+  "dove": "elements/t.thetimeofdivision.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In which Julian Coseley, magus, immortal, occasional anarchist, argues that through language the Carapace Cross decayed to seed the lives of our ancestors.",
+  "dove": "elements/t.thefallencross.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In which four enigmatic figures tell the stories they've heard over the years at the Roost, the secret location where the aviform Hours congregate.",
+  "dove": "elements/t.inaamkapigiginlupirgarkiecryppys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "In which the heresiarch Cygnifer attempts to resolve certain mysteries of Lightning.",
+  "dove": "elements/t.theothereyeoftheserpent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Inaam, Kapigiginlupir, Garkie, Cryppys",
+  "dove": "elements/t.inaamkapigiginlupirgarkiecryppys.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ingenious and rather beautiful techniques for entreating the Names of the Hours, developed by Rory Morrow, who styled himself 'the Sage-Knight'.",
+  "dove": "elements/t.anovelmethodforinvocation.contrition.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Interrogation of a man named Lacombe, a former Nocturnal Branch inspector now identified as 'terminally robigoid'.",
+  "dove": "elements/t.velletriinterviews.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Isaac of Karth's History of the Shadowless Kings",
+  "dove": "elements/t.isaacofkarthshistoryoftheshadowlesskings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Isabella records her dreams of the high Mansus, where she is accorded the duendrazon's status and titles. In return, the duendrazon enjoys what it calls 'caesura' - a welcome oblivion. 'Our mostly-blessing is that we may never cease - except <i>in caesurae</i>'. There is something more that Isabella refers to as the 'caesura magna', but she laments that her duendrazon will not tell her exactly what that might be.",
+  "dove": "elements/t.theinstrumentsoftheheart.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "It Is Written",
+  "dove": "elements/t.itiswritten.label",
+  "ricorre": 1
+ },
+ {
+  "en": "It becomes apparent that many of Ettery's lovers and pursuers - Catwink, Houndsgall, Nilique - are transparent allegories for inks, and that Ettery is an embodiment of knowledge pinned to paper - to her mingled delight and dismay. The author only half-commits to the metaphor, though, and is clearly at least as interested in titillation as revelation.",
+  "dove": "elements/t.etteryafter.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "It becomes clear that the processes described are mostly allegorical or metaphorical descriptions of Winter techniques for less revolting occult work. Even the metaphors are pretty horrible, though.",
+  "dove": "elements/t.codexacephali.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "It has never been clear why the Letheans, who avoided traffic with the Hours with the occasional exception of the Elegiast, would devote effort to a Name of the Horned-Axe. Perhaps Xenodice was just a suitably challenging subject…",
+  "dove": "elements/t.xenodiceneodes.xexts.reading.knock",
+  "ricorre": 1
+ },
+ {
+  "en": "It is clear from Bryan's journals that he sought unorthodox trophies and put them to unorthodox uses. He was in fact hanged as a witch at the age of twenty-four, and never inherited the estate…",
+  "dove": "elements/t.huntingjournalsofbryandewulf.xexts.reading.scale.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "It quickly becomes clear that many of its destinations no longer exist, or never existed in the traditional sense, but the annotations remain fascinating. The routes to Noon, the Long-sanctuary across the Western Sea, may remain viable…",
+  "dove": "elements/t.thekerishamportolan.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "It's not clear whether 'C.R.O.D', who is identified only by his initials, was in fact an initiate of the Obliviate order of immortal adepts. He wrote in the sixteenth century, after the order - if he is to be believed - had passed the height of its power.",
+  "dove": "elements/t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Joel of the Bridge, a retired soldier and sometime tollkeeper, wrote this epic poem about Alexander's famously inexplicable decision at Issus to withdraw from the war with the Achaemenids, and his subsequent return to Macedonia.",
+  "dove": "elements/t.asthesunhiscourse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Journal of Sir David Greene, 1903",
+  "dove": "elements/t.journalofsirdavidgreene1903.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Journal of Thomas Dewulf",
+  "dove": "elements/t.journalofthomasdewulf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Journal of Walter Dewulf",
+  "dove": "elements/t.journalofwalterdewulf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Juceh engages in an apologia for the destruction of the Hours: they were old, they were cowardly, they were vile, their time had passed, and it was the shining destiny of humankind to seize the House through glorious battle.",
+  "dove": "elements/t.asecondglory.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Juceh recounts how the Hour called Seven-Coils was slain in battle by the Colonel, how the Grail devoured the Hour called Tide, and how the Egg Unhatching 'fled like a coward'. He's quite vituperative about the Egg Unhatching. He warns darkly against its return.",
+  "dove": "elements/t.asecondglory.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "Julian Coseley long regarded Solomon Husher as a charlatan. But his friend Nina Lagasse painted three paintings before her death in 1895… and these paintings apparently convinced Coseley to change his mind. With considerable irritation, he revised his magnum opus.",
+  "dove": "elements/t.towardsafundamentalaestheticsecondedition.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Julian Coseley's epistolary treatise on 'matters memorial and mnemonic', addressed to his then-friend Claude Hersault, the mystic and antiquarian.",
+  "dove": "elements/t.thefivelettersonmemory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Julian Coseley's epistolary treatise on 'what may come after', addressed to his once-friend Claude Hersault, the mystic and antiquarian.",
+  "dove": "elements/t.thetwelvelettersonconsequence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Just Verse",
+  "dove": "elements/t.justverse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Just before the outbreak of the Great War, 'Alexander Sparrow' - almost certainly a pseudonym - published leaflets claiming the influence of 'Snake Princes' on world affairs. The text called the Twin-Serpent Tantra was his primary inspiration.",
+  "dove": "elements/t.thetwinserpenttantra.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Kalle's verses are brief, obscure, and often dominated by images of violence. 'A star is a pin-prick, but the Sun is a wound.'",
+  "dove": "elements/t.theskythesoul.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Kanishk sought to become a Name. In pursuit of that end, he made Lok Kahuli the vessel of his appetites, promising Lok that they would ascend together. At the Spider's Door, he betrayed his lover...",
+  "dove": "elements/t.theaccountofkanishkatthespidersdoor.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Key of Night",
+  "dove": "elements/t.keyofnight.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Kitling Ripe and the Moldywarp's Grave (and Other Stories)",
+  "dove": "elements/t.kitlingripeandthemoldywarpsgraveandotherstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Kitling Ripe is the name usually given to the speechless 'but never silent' cat-thing that serves as a Name of the Velvet. Kitling Ripe, it seems, enjoys hunting immortals; and the Velvet is very fond of Kitling Ripe.",
+  "dove": "elements/t.kitlingripestastytreats.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Kitling Ripe's Tasty Treats",
+  "dove": "elements/t.kitlingripestastytreats.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Kopralith Omphalos",
+  "dove": "elements/t.kopralithomphalos.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Kurenai describes the Order's burial rites, which include spells to ensure - in theory - that the souls of dead Long are not given to the Hours. The Hour called the Ivory Dove, who memorialises and commemorates, is to be invoked, in secret, in these rites, 'for with that Hour we have made an understanding'.",
+  "dove": "elements/t.theivorybook.xexts.reading.winter",
+  "ricorre": 1
+ },
+ {
+  "en": "Lacombe insists the items have been put to good use; he derides Nocturnal Branch as 'the lackeys of Calyptra'. Alarmingly, during the last few minutes of the interrogation, he begins to insist that his interrogator should 'burn the Library'. He waxes enthusiastic about the fire he wants to see, leading to a final coughing fit after which the interview abruptly ends.",
+  "dove": "elements/t.velletriinterviews.xexts.reading.heart",
+  "ricorre": 1
+ },
+ {
+  "en": "Lacombe is not especially lucid, and the state called 'robigoia' evidently includes a malady of the lungs which causes coughing fits: he weakens audibly over the course of the interrogation. He is questioned about the disposition of various unsanctioned items recovered from a Nocturnal Branch raid on a castle at Ortucchio, in the region of the Fucine Marshes. He is, however, defiant as well as incoherent.",
+  "dove": "elements/t.velletriinterviews.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Lady Eva's Repose",
+  "dove": "elements/t.ladyevasrepose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lagiah accepts, setting aside 'the arts of the low red sun' associated with Antaios. She bargains, however, for freedom for her daughters. The Hours of the Triple Knot accept casually, knowing that Lagiah has devoured her daughters - but wily Lagiah has decided, 'in the secret hollow of her heart', that she will adopt any who ask, if they can prove their fierceness.",
+  "dove": "elements/t.thequeensturn.xexts.reading.moon.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Lake Fucino Recordings",
+  "dove": "elements/t.lakefucinorecordings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lantern-long lack bodies, and so cannot normally leave the Mansus - but they can 'steady-glint' in the physical world by establishing a 'road of glass'. Poemander notes with disgust that the order of Long called the Obliviates refer to it as 'scrining', which he considers a 'debased term'.",
+  "dove": "elements/t.onimperfections.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Lars Westergren, explorer and murderer, spent seven years escaping justice through his knowledge of byways and shortcuts in the Bounds. Throughout that time he wrote regularly to his daughter, possibly in part to taunt his pursuers.",
+  "dove": "elements/t.lettersfromafugitive.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lazali indicates that the Sun will be divided in the Malleary, by the Forge of Days, armed with the love in her heart.",
+  "dove": "elements/t.thebookoftheextinguishedheart.xexts.reading.heart.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Letters To My Successor",
+  "dove": "elements/t.letterstomysuccessor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Letters from a Fugitive",
+  "dove": "elements/t.lettersfromafugitive.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lions can be created, not as children are created, nor as words are created, but as weapons are created. The Great Hooded Princes learnt to create lions from their spyings on the affairs of the Hours, and not all lions now serve the Golden General.'",
+  "dove": "elements/t.theleoninetantra.xexts.reading.edge",
+  "ricorre": 1
+ },
+ {
+  "en": "Little Sophia has never visited the Worm Museum, or even the Mansus, in person, and evidently has no desire to do so. She mixes ink which incorporates the remains of her prey, writes her records in that ink, then burns them before the Colonel's altar…",
+  "dove": "elements/t.oblationsiniron.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Little Sophia observes drily: 'Should one desire to slay an immortal, it is most practical to do so before they become immortal entirely.' She details the 'Marks', the changes that Long undergo as they abandon their mortal condition.",
+  "dove": "elements/t.bytheirmarksshallyeknowthem.xexts.reading.knock.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Lively, yes; but also almost entirely nonsense. 'Pearl, the tears of the forgotten moon, caught by the Lionsmith in his net. Ruby, the blood of the first bird, stung by the Lionsmith's hammer.'",
+  "dove": "elements/t.inthemalleary.xexts.reading.lantern.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Lok Kahuli, Kanishk's victim and lover, wrote this account, perhaps posthumously.",
+  "dove": "elements/t.theaccountofkanishkatthespidersdoor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Long ago, the Sisterhood of the Knot recounted, the Forge loved the Hour called the Sun-in-Splendour. The Red Grail long anticipated their union, and the Grail-priestesses prophesied it...",
+  "dove": "elements/t.thevinzantinscriptions.xexts.reading.forge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Lord Franklin Bancroft was initiated into the arts of the Flowermaker by the 'rose-witch' Fionna Ayrshire. He rose to become a Society provider of occult services and secret pleasures, before his abrupt disappearance in 1790.",
+  "dove": "elements/t.bancroftdiaries.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lord Franklin Bancroft, sometimes called the Prince of Wines, begins a series of visits to Brancrug House. His relationship with Eva becomes a source of scandal. Eva is by now forty-nine, but rumours persist for years of a Dewulf-Bancroft heir. Eva's biographer claims that before her 'drowning death', her child by Bancroft was adopted by her friends the Southeys - that the child became the sister of the later Poet Laureate, Robert Southey. (No real evidence is provided in support of this claim.)",
+  "dove": "elements/t.apaleladyandaprinceofwines.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "Lord Jacob Gristwood: surgeon, ethnologist, philanthropist. There is no proof that he ever kept children in hutches beneath his bed. There is no proof he vivisected cats at dinner with his pen-knife. The Suppression Bureau keeps its secrets.",
+  "dove": "elements/t.achildstreasuryofgoldenafternoons.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Lovelies, the 'freshest' of the Grail's Names, usually adopt the characteristics of whatever they devour - be it an Ivory, a Thirstly, or, occasionally, an entirely different kind of Name. A practical application of the principle is described. The arts of Resurgences and Emergences, in the presence of sufficiently potent Grail-aspect, can be used to feed a Pale Mommet to its successor-doll, creating something 'notably more avid'.",
+  "dove": "elements/t.onthirstliesivoriesandlovelies.xexts.reading.grail",
+  "ricorre": 1
+ },
+ {
+  "en": "Malachite Supplications",
+  "dove": "elements/t.malachitesupplications.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malskær illuminates the evolutions of the Names of the Grail with unfortunate clarity. It seems that a Lovely who consumes an Ivory becomes an Ivory. A Lovely who consumes a Thirstly becomes a Thirstly. A Lovely who consumes a Name of another Hour might take its place...",
+  "dove": "elements/t.theintimationsofskin.xexts.reading.grail.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Manifesto for experimental and dangerous-sounding invocatory poetry, written some time in the nineteenth century by Dr Arun Peel. A notoriously inconsistent and incoherent text, apparently produced in a tearing hurry.",
+  "dove": "elements/t.theradicalmeasure.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Many of Coseley's arguments about consequence and finality are couched in erudite and practical alchemical terms. Others appear to be thinly-veiled threats directed at Hersault. Some are both.",
+  "dove": "elements/t.thetwelvelettersonconsequence.xexts.reading.moon",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa's Lament",
+  "dove": "elements/t.medusaslament.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusan Commentaries",
+  "dove": "elements/t.medusancommentaries.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mek is not sympathetic to the Mother of Ants, who he calls 'the Milk-Thief'. He reviles her for her part in the death of the Seven-Coils, which he presents as a treacherous conspiracy.",
+  "dove": "elements/t.thehissingkey.xexts.reading.scale.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Melancthe claims that the Sights and Sensations arts that she describes can be used to invoke 'the Dream of a Star', when sufficient Sky-aspect is invoked to uplift an Ascendant Harmony.",
+  "dove": "elements/t.themirrorofmelancthe.xexts.reading.sky",
+  "ricorre": 1
+ },
+ {
+  "en": "Melancthe speaks longingly of 'those we would call from behind the sky…'",
+  "dove": "elements/t.themirrorofmelancthe.xexts.reading.sky.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Members of the Ordo took an oath, the Iron Chain, that required them to remain hidden from the world. This manual includes presumably long-obsolete addresses and pass-phrases that could have been used to find the Ordo's contact in the town of Iria.",
+  "dove": "elements/t.theironbook.xexts.reading.edge.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Members of the Ordo took an oath, the Ivory Chain, not to have commerce with the Hours. Followed literally, this would be almost impossible for an adept, so the manual contains numerous clarifications, exceptions and processes of indulgence.",
+  "dove": "elements/t.theivorybook.xexts.reading.winter.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Members of the Ordo took an oath, the Silver Chain, that forbade men to lie with woman, or women with men: 'for what may come is not always the Crime of the Sky, yet that is a furious danger.' It was apparently permissible for men to lie with men, and women with women - in fact, Burzghash suggests that should be encouraged, to distract from other temptations.",
+  "dove": "elements/t.thesilverbook.xexts.reading.moth.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Micah Xi, sometimes called the Magus of Quartz, etched this work in acid on stone. It has been reproduced many times in many languages since, but the reproductions are often lost to landslides.",
+  "dove": "elements/t.thesongsofthecarapacecross.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Michael Blockley, the eccentric iron magnate, was fond of quoting from this tantra. Blockley died in a factory fire.",
+  "dove": "elements/t.theincandescenttantra.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Milagro claims that bees retain many traditions passed down from earlier and greater branches of their species, but that they are fiercely jealous of these traditions being passed to lesser insects, and insist above all on an oath of secrecy. Tragically, therefore, he is unable to describe these more substantial and powerful traditions.",
+  "dove": "elements/t.thebeekeepersends.xexts.reading.nectar",
+  "ricorre": 1
+ },
+ {
+  "en": "Milagro spends an entire chapter on his hatred of wasps, which he describes as 'the Vile Pretenders'.",
+  "dove": "elements/t.thebeekeepersends.xexts.reading.nectar.intro",
+  "ricorre": 1
+ },
+ {
+  "en": "Morrow demonstrates that Preliminal Meter techniques can be used with sufficient Rose to invoke the Vagabond's Names, transforming an Enduring Reflection into 'something wider of sky.'",
+  "dove": "elements/t.anovelmethodforinvocation.contrition.xexts.reading.rose",
+  "ricorre": 1
+ }
+]

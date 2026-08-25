@@ -1,0 +1,10 @@
+{
+ "recipes": [
+  {
+   "id": "desk.repair.cracked",
+   "label": "Riparare una Rilegatura Incrinata",
+   "startdescription": "Le giunture e i cardini scricchiolano, ma il dorso regge saldo.",
+   "desc": "La rilegatura incrinata è stata restaurata. Il libro si apre netto come un paio d’ali."
+  }
+ ]
+}

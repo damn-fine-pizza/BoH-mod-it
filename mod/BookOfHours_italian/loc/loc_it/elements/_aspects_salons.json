@@ -1,0 +1,147 @@
+{
+ "elements": [
+  {
+   "id": "venue.formal",
+   "label": "Luogo Formale",
+   "desc": "Un luogo adatto per il Pranzo o la Cena."
+  },
+  {
+   "id": "venue.informal",
+   "label": "Luogo Informale",
+   "desc": "Un luogo adatto per la Merenda Mattutina o il Tè del Pomeriggio."
+  },
+  {
+   "id": "venue.picnicking",
+   "label": "Luogo per Picnic",
+   "desc": "Un luogo adatto per un Picnic."
+  },
+  {
+   "id": "befriend.agdistis.chaima"
+  },
+  {
+   "id": "befriend.aladim.connie"
+  },
+  {
+   "id": "befriend.arthur.douglas"
+  },
+  {
+   "id": "befriend.arun.coquille"
+  },
+  {
+   "id": "befriend.arun.denzil"
+  },
+  {
+   "id": "befriend.arun.yvette"
+  },
+  {
+   "id": "befriend.azita.yvette"
+  },
+  {
+   "id": "befriend.chaima.zachary"
+  },
+  {
+   "id": "befriend.coquille.douglas"
+  },
+  {
+   "id": "befriend.douglas.hokobald"
+  },
+  {
+   "id": "befriend.morgen.zachary"
+  },
+  {
+   "id": "agdistis.likes.chaima",
+   "desc": "Agdistis apprezza la compagnia di Chaima."
+  },
+  {
+   "id": "aladim.likes.connie",
+   "desc": "Al-Adim ha invitato Connie a cenare con lui in privato."
+  },
+  {
+   "id": "arthur.likes.douglas",
+   "desc": "Arthur è affezionato al suo pronipote appena conosciuto, Douglas."
+  },
+  {
+   "id": "arun.likes.coquille",
+   "desc": "Arun ha sviluppato un cauto affetto familiare per Coquille."
+  },
+  {
+   "id": "arun.likes.denzil",
+   "desc": "Si dice che Arun sia tornato a casa con Denzil dopo un salotto alla Hush House."
+  },
+  {
+   "id": "arun.likes.yvette",
+   "desc": "Si dice che Arun abbia accompagnato a casa Yvette dopo un salotto alla Hush House."
+  },
+  {
+   "id": "azita.likes.yvette",
+   "desc": "C’è una sorta di scintilla tra Azita e Yvette."
+  },
+  {
+   "id": "chaima.likes.zachary",
+   "desc": "Chaima ha sviluppato uno strano attaccamento per Zachary."
+  },
+  {
+   "id": "coquille.likes.douglas",
+   "desc": "Coquille nutre un entusiasmo malizioso per Douglas."
+  },
+  {
+   "id": "douglas.likes.hokobald",
+   "desc": "Douglas nutre un rispetto riluttante per Hokobald."
+  },
+  {
+   "id": "morgen.likes.zachary",
+   "desc": "Morgen prova una simpatia passeggera – forse perfino un debole – per Zachary."
+  },
+  {
+   "id": "chaima.likes.agdistis",
+   "desc": "Chaima ha iniziato a provare simpatia per Agdistis."
+  },
+  {
+   "id": "connie.likes.aladim",
+   "desc": "Connie ha accettato un invito di Al-Adim a cenare con lui in privato."
+  },
+  {
+   "id": "douglas.likes.arthur",
+   "desc": "Douglas è affezionato al suo prozio appena scoperto, Arthur."
+  },
+  {
+   "id": "coquille.likes.arun",
+   "desc": "Coquille ha sviluppato un affetto familiare diffidente per Arun."
+  },
+  {
+   "id": "yvette.likes.arun",
+   "desc": "Si dice che Yvette sia tornata a casa con Arun dopo un salotto alla Hush House."
+  },
+  {
+   "id": "yvette.likes.azita",
+   "desc": "C’è una sorta di scintilla tra Azita e Yvette."
+  },
+  {
+   "id": "zachary.likes.chaima",
+   "desc": "Zachary ha mostrato verso Chaima sentimenti che si potrebbero definire affetto..."
+  },
+  {
+   "id": "douglas.likes.coquille",
+   "desc": "Douglas prova una segreta simpatia per Coquille, che di certo metterà da parte se mai dovesse arrestarla."
+  },
+  {
+   "id": "hokobald.likes.douglas",
+   "desc": "Hokobald ha sviluppato una sorta di simpatia condiscendente per Douglas."
+  },
+  {
+   "id": "zachary.likes.morgen",
+   "desc": "I freddi entusiasmi di Zachary sono stati catturati da Morgen."
+  },
+  {
+   "id": "mistrust.arthur.coquille"
+  },
+  {
+   "id": "arthur.mistrusts.coquille",
+   "desc": "Arthur tiene d’occhio Coquille."
+  },
+  {
+   "id": "coquille.mistrusts.arthur",
+   "desc": "Coquille si sta piuttosto godendo la propria inimicizia con Arthur."
+  }
+ ]
+}

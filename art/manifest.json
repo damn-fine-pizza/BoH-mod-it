@@ -1,0 +1,2829 @@
+[
+ {
+  "id": "t.acatalogueofunchartedpleasures",
+  "file": "t.acatalogueofunchartedpleasures.png",
+  "dorso": "t.acatalogueofunchartedpleasures_.png",
+  "en": "A Catalogue of Uncharted Pleasures",
+  "it": "Un Catalogo di Piaceri Inesplorati",
+  "sigla": "UCdPI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.achildstreasuryofgoldenafternoons",
+  "file": "t.achildstreasuryofgoldenafternoons.png",
+  "dorso": "t.achildstreasuryofgoldenafternoons_.png",
+  "en": "A Child's Treasury of Golden Afternoons",
+  "it": "Il Tesoro Infantile dei Pomeriggi Dorati",
+  "sigla": "ITIdPD",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.adescentoftheshell",
+  "file": "t.adescentoftheshell.png",
+  "dorso": "t.adescentoftheshell_.png",
+  "en": "A Descent of the Shell",
+  "it": "Una Discesa del Guscio",
+  "sigla": "UDdG",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.adviceoncontainment",
+  "file": "t.adviceoncontainment.png",
+  "dorso": "t.adviceoncontainment_.png",
+  "en": "Advice on Containment",
+  "it": "Consigli sul Contenimento",
+  "sigla": "CsC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms",
+  "file": "t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms.png",
+  "dorso": "t.againstthesisterhoodoftheknotandthefoulnessoftheirdepravedcustoms_.png",
+  "en": "Against the Sisterhood of the Knot and the Foulness of their Depraved Customs",
+  "it": "Contro la Sorellanza del Nodo e la Nefandezza dei loro Depravati Costumi",
+  "sigla": "CSNNLD",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.againstvitruvius",
+  "file": "t.againstvitruvius.png",
+  "dorso": "t.againstvitruvius_.png",
+  "en": "Against Vitruvius",
+  "it": "Contro Vitruvio",
+  "sigla": "CV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.ajourneytothegrove",
+  "file": "t.ajourneytothegrove.png",
+  "dorso": "t.ajourneytothegrove_.png",
+  "en": "A Journey to the Grove",
+  "it": "Un Viaggio al Boschetto",
+  "sigla": "UVaB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.alightintheinkwell",
+  "file": "t.alightintheinkwell.png",
+  "dorso": "t.alightintheinkwell_.png",
+  "en": "A Light in the Inkwell",
+  "it": "Una Luce nel Calamaio",
+  "sigla": "ULnC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.amanualfordeparture",
+  "file": "t.amanualfordeparture.png",
+  "dorso": "t.amanualfordeparture_.png",
+  "en": "A Manual for Departure",
+  "it": "Un Manuale per la Partenza",
+  "sigla": "UMplP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.ambrosial!",
+  "file": "t.ambrosial!.png",
+  "dorso": "t.ambrosial!_.png",
+  "en": "Ambrosial!",
+  "it": "Ambrosiaco!",
+  "sigla": "A!",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.amiranisbeteli",
+  "file": "t.amiranisbeteli.png",
+  "dorso": "t.amiranisbeteli_.png",
+  "en": "Amiranis Beteli",
+  "it": "Amiranis Beteli",
+  "sigla": "",
+  "testo": false,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.analmanacofentrances",
+  "file": "t.analmanacofentrances.png",
+  "dorso": "t.analmanacofentrances_.png",
+  "en": "An Almanac of Entrances",
+  "it": "Un Almanacco degli Ingressi",
+  "sigla": "UAdI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.anechoofsilence",
+  "file": "t.anechoofsilence.png",
+  "dorso": "t.anechoofsilence_.png",
+  "en": "An Echo of Silence",
+  "it": "Un’Eco di Silenzio",
+  "sigla": "UEdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.anexorcistsfieldmanual",
+  "file": "t.anexorcistsfieldmanual.png",
+  "dorso": "t.anexorcistsfieldmanual_.png",
+  "en": "An Exorcist's Field Manual",
+  "it": "Il Manuale da Campo di un Esorcista",
+  "sigla": "MCE",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.animpertinentvitulation",
+  "file": "t.animpertinentvitulation.png",
+  "dorso": "t.animpertinentvitulation_.png",
+  "en": "An Impertinent Vitulation",
+  "it": "Un’Impertinente Vitulazione",
+  "sigla": "UIV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.anintroductiontohistories",
+  "file": "t.anintroductiontohistories.png",
+  "dorso": "t.anintroductiontohistories_.png",
+  "en": "An Introduction to Histories",
+  "it": "Un’Introduzione alle Storie",
+  "sigla": "UIaS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.aninvestigationofafounderedcountry",
+  "file": "t.aninvestigationofafounderedcountry.png",
+  "dorso": "t.aninvestigationofafounderedcountry_.png",
+  "en": "An Investigation of A Foundered Country",
+  "it": "Un’Indagine su un Paese Affondato",
+  "sigla": "UIsuPA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.annalsofstbrandans",
+  "file": "t.annalsofstbrandans.png",
+  "dorso": "t.annalsofstbrandans_.png",
+  "en": "Annals of St Brandan's",
+  "it": "Annali di St Brandan",
+  "sigla": "AdSB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.anovelmethodforinvocation.contrition",
+  "file": "t.anovelmethodforinvocation.contrition.png",
+  "dorso": "t.anovelmethodforinvocation.contrition_.png",
+  "en": "A Novel Method for Invocation & Contrition",
+  "it": "Un Nuovo Metodo per l’Invocazione e la Contrizione",
+  "sigla": "NMIC",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.apaleladyandaprinceofwines",
+  "file": "t.apaleladyandaprinceofwines.png",
+  "dorso": "t.apaleladyandaprinceofwines_.png",
+  "en": "A Pale Lady and a Prince of Wines",
+  "it": "Una Dama Pallida e un Principe dei Vini",
+  "sigla": "DPPV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.apolloandmarsyas",
+  "file": "t.apolloandmarsyas.png",
+  "dorso": "t.apolloandmarsyas_.png",
+  "en": "Apollo and Marsyas",
+  "it": "Apollo e Marsia",
+  "sigla": "AeM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.ascitesupplications",
+  "file": "t.ascitesupplications.png",
+  "dorso": "t.ascitesupplications_.png",
+  "en": "Ascite Supplications",
+  "it": "Supplicazioni di Ascite",
+  "sigla": "SdA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.asecondglory",
+  "file": "t.asecondglory.png",
+  "dorso": "t.asecondglory_.png",
+  "en": "A Second Glory",
+  "it": "Una Seconda Gloria",
+  "sigla": "USG",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.aseventhvoice",
+  "file": "t.aseventhvoice.png",
+  "dorso": "t.aseventhvoice_.png",
+  "en": "A Seventh Voice",
+  "it": "Una Settima Voce",
+  "sigla": "USV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.ashapeinsmoke",
+  "file": "t.ashapeinsmoke.png",
+  "dorso": "t.ashapeinsmoke_.png",
+  "en": "A Shape in Smoke",
+  "it": "Una Forma nel Fumo",
+  "sigla": "UFnF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.asthesunhiscourse",
+  "file": "t.asthesunhiscourse.png",
+  "dorso": "t.asthesunhiscourse_.png",
+  "en": "As The Sun His Course",
+  "it": "Come il Sole il Suo Corso",
+  "sigla": "CiSiSC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.atowerfalls",
+  "file": "t.atowerfalls.png",
+  "dorso": "t.atowerfalls_.png",
+  "en": "A Tower Falls",
+  "it": "Una Torre Cade",
+  "sigla": "UTC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.atowerrises",
+  "file": "t.atowerrises.png",
+  "dorso": "t.atowerrises_.png",
+  "en": "A Tower Rises",
+  "it": "Una Torre Sorge",
+  "sigla": "UTS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse",
+  "file": "t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse.png",
+  "dorso": "t.atrueandcompleteaccountingoftheasclepianmysteriesoftherootsofthehouse_.png",
+  "en": "A True and Complete Accounting of the Asclepian Mysteries of the Roots of the House",
+  "it": "Un Vero e Completo Resoconto dei Misteri Asclepiani delle Radici della Casa",
+  "sigla": "VCRMAR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.atruehistoryofvalentinedewulf",
+  "file": "t.atruehistoryofvalentinedewulf.png",
+  "dorso": "t.atruehistoryofvalentinedewulf_.png",
+  "en": "A True History of Valentine Dewulf",
+  "it": "Una Vera Storia di Valentine Dewulf",
+  "sigla": "UVSdVD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.bancroftdiaries",
+  "file": "t.bancroftdiaries.png",
+  "dorso": "t.bancroftdiaries_.png",
+  "en": "Bancroft Diaries",
+  "it": "Diari di Bancroft",
+  "sigla": "DdB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.blacknephrite",
+  "file": "t.blacknephrite.png",
+  "dorso": "t.blacknephrite_.png",
+  "en": "Black Nephrite",
+  "it": "Nefrite Nera",
+  "sigla": "NN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.bookofmiah",
+  "file": "t.bookofmiah.png",
+  "dorso": "t.bookofmiah_.png",
+  "en": "Book of Miah",
+  "it": "Libro di Miah",
+  "sigla": "LdM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.bookoftrueblood",
+  "file": "t.bookoftrueblood.png",
+  "dorso": "t.bookoftrueblood_.png",
+  "en": "Book of True Blood",
+  "it": "Libro del Vero Sangue",
+  "sigla": "LdVS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.bytheirmarksshallyeknowthem",
+  "file": "t.bytheirmarksshallyeknowthem.png",
+  "dorso": "t.bytheirmarksshallyeknowthem_.png",
+  "en": "By Their Marks Shall Ye Know them",
+  "it": "Dai Loro Segni li Riconoscerete",
+  "sigla": "DLSLR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.calicitesupplications",
+  "file": "t.calicitesupplications.png",
+  "dorso": "t.calicitesupplications_.png",
+  "en": "Calicite Supplications",
+  "it": "Supplicazioni di Calicite",
+  "sigla": "SdC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.cardeasdelights",
+  "file": "t.cardeasdelights.png",
+  "dorso": "t.cardeasdelights_.png",
+  "en": "Cardea's Delights",
+  "it": "Le Delizie di Cardea",
+  "sigla": "LDdC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.chioneatabydos",
+  "file": "t.chioneatabydos.png",
+  "dorso": "t.chioneatabydos_.png",
+  "en": "Chione at Abydos",
+  "it": "Chione ad Abido",
+  "sigla": "CaA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.codexacephali",
+  "file": "t.codexacephali.png",
+  "dorso": "t.codexacephali_.png",
+  "en": "Codex Acephali",
+  "it": "Codex Acephali",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.collectedhushhouselectures",
+  "file": "t.collectedhushhouselectures.png",
+  "dorso": "t.collectedhushhouselectures_.png",
+  "en": "Collected Hush House Lectures",
+  "it": "Lezioni Raccolte della Hush House",
+  "sigla": "LRdHH",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.coloursintheliver",
+  "file": "t.coloursintheliver.png",
+  "dorso": "t.coloursintheliver_.png",
+  "en": "COLOURS IN THE LIVER",
+  "it": "COLORI NEL FEGATO",
+  "sigla": "CnF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.commandmentsforthepreservationofallthatexists",
+  "file": "t.commandmentsforthepreservationofallthatexists.png",
+  "dorso": "t.commandmentsforthepreservationofallthatexists_.png",
+  "en": "Commandments For the Preservation of All That Exists",
+  "it": "Comandamenti per la Preservazione di Tutto Ciò che Esiste",
+  "sigla": "CPTCE",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.cucurbitprisonerrecords1927",
+  "file": "t.cucurbitprisonerrecords1927.png",
+  "dorso": "t.cucurbitprisonerrecords1927_.png",
+  "en": "Cucurbit Prisoner Records 1927",
+  "it": "Registri dei Prigionieri del Cucurbit, 1927",
+  "sigla": "RdPdC·1927",
+  "testo": true,
+  "stato": "tradotto",
+  "no_marcatore": [
+   "_"
+  ]
+ },
+ {
+  "id": "t.cucurbitprisonerrecords1928",
+  "file": "t.cucurbitprisonerrecords1928.png",
+  "dorso": "t.cucurbitprisonerrecords1928_.png",
+  "en": "Cucurbit Prisoner Records 1928",
+  "it": "Registri dei Prigionieri del Cucurbit, 1928",
+  "sigla": "RdPdC·1928",
+  "testo": true,
+  "stato": "tradotto",
+  "no_marcatore": [
+   "_"
+  ]
+ },
+ {
+  "id": "t.damascenetraditionsofthehouseoflethe",
+  "file": "t.damascenetraditionsofthehouseoflethe.png",
+  "dorso": "t.damascenetraditionsofthehouseoflethe_.png",
+  "en": "Damascene Traditions of the House of Lethe",
+  "it": "Tradizioni Damascene della Casa di Lethe",
+  "sigla": "TDdCdL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.deathsandtheirevasions",
+  "file": "t.deathsandtheirevasions.png",
+  "dorso": "t.deathsandtheirevasions_.png",
+  "en": "Deaths and their Evasions",
+  "it": "Le Morti e le Loro Evasioni",
+  "sigla": "LMelLE",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.debellismurorum",
+  "file": "t.debellismurorum.png",
+  "dorso": "t.debellismurorum_.png",
+  "en": "De Bellis Murorum",
+  "it": "De Bellis Murorum",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.dehorisbook1",
+  "file": "t.dehorisbook1.png",
+  "dorso": "t.dehorisbook1_.png",
+  "en": "De Horis book 1",
+  "it": "De Horis, I",
+  "sigla": "DH·I",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.dehorisbook2",
+  "file": "t.dehorisbook2.png",
+  "dorso": "t.dehorisbook2_.png",
+  "en": "De Horis book 2",
+  "it": "De Horis, II",
+  "sigla": "DH·II",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.dehorisbook3",
+  "file": "t.dehorisbook3.png",
+  "dorso": "t.dehorisbook3_.png",
+  "en": "De Horis book 3",
+  "it": "De Horis, III",
+  "sigla": "DH·III",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.demotucorporumvetitorum",
+  "file": "t.demotucorporumvetitorum.png",
+  "dorso": "t.demotucorporumvetitorum_.png",
+  "en": "De motu corporum vetitorum",
+  "it": "De motu corporum vetitorum",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.deratioquercuum",
+  "file": "t.deratioquercuum.png",
+  "dorso": "t.deratioquercuum_.png",
+  "en": "De Ratio Quercuum",
+  "it": "De Ratio Quercuum",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.eachflamehisfuel",
+  "file": "t.eachflamehisfuel.png",
+  "dorso": "t.eachflamehisfuel_.png",
+  "en": "Each Flame His Fuel",
+  "it": "Ogni Fiamma il Suo Combustibile",
+  "sigla": "OFiSC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.echidnalia",
+  "file": "t.echidnalia.png",
+  "dorso": "t.echidnalia_.png",
+  "en": "Echidnalia",
+  "it": "Echidnalia",
+  "sigla": "",
+  "testo": false,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.enchiridiontragularis",
+  "file": "t.enchiridiontragularis.png",
+  "dorso": "t.enchiridiontragularis_.png",
+  "en": "Enchiridion Tragularis",
+  "it": "Enchiridion Tragularis",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.etteryafter",
+  "file": "t.etteryafter.png",
+  "dorso": "t.etteryafter_.png",
+  "en": "Ettery After",
+  "it": "Ettery Dopo",
+  "sigla": "ED",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.evastreasury",
+  "file": "t.evastreasury.png",
+  "dorso": "t.evastreasury_.png",
+  "en": "Eva's Treasury",
+  "it": "Il Tesoro di Eva",
+  "sigla": "ITdE",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.exercisesinthecontinuityofself",
+  "file": "t.exercisesinthecontinuityofself.png",
+  "dorso": "t.exercisesinthecontinuityofself_.png",
+  "en": "Exercises in the Continuity of Self",
+  "it": "Esercizi sulla Continuità del Sé",
+  "sigla": "EsCdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.exorcismforgirls",
+  "file": "t.exorcismforgirls.png",
+  "dorso": "t.exorcismforgirls_.png",
+  "en": "Exorcism for Girls",
+  "it": "Esorcismo per Ragazze",
+  "sigla": "EpR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.experimentbeyondsight",
+  "file": "t.experimentbeyondsight.png",
+  "dorso": "t.experimentbeyondsight_.png",
+  "en": "EXPERIMENT BEYOND SIGHT",
+  "it": "ESPERIMENTO OLTRE LA VISTA",
+  "sigla": "EOlV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.fekrisherbary",
+  "file": "t.fekrisherbary.png",
+  "dorso": "t.fekrisherbary_.png",
+  "en": "Fekri's Herbary",
+  "it": "L’Erbario di Fekri",
+  "sigla": "LEdFe",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.fivecreations",
+  "file": "t.fivecreations.png",
+  "dorso": "t.fivecreations_.png",
+  "en": "Five Creations",
+  "it": "Cinque Creazioni",
+  "sigla": "CC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.fromhistorytoeternity",
+  "file": "t.fromhistorytoeternity.png",
+  "dorso": "t.fromhistorytoeternity_.png",
+  "en": "From History to Eternity",
+  "it": "Dalla Storia all’Eternità",
+  "sigla": "DSAE",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.glimmerings",
+  "file": "t.glimmerings.png",
+  "dorso": "t.glimmerings_.png",
+  "en": "Glimmerings",
+  "it": "Barlumi",
+  "sigla": "B",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.gospelofnicodemus",
+  "file": "t.gospelofnicodemus.png",
+  "dorso": "t.gospelofnicodemus_.png",
+  "en": "Gospel of Nicodemus",
+  "it": "Vangelo di Nicodemo",
+  "sigla": "VdN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.greenjaspertablet",
+  "file": "t.greenjaspertablet.png",
+  "dorso": "t.greenjaspertablet_.png",
+  "en": "Green Jasper Tablet",
+  "it": "Tavoletta di Diaspro Verde",
+  "sigla": "TdDV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.honeythecomprehensiveguide",
+  "file": "t.honeythecomprehensiveguide.png",
+  "dorso": "t.honeythecomprehensiveguide_.png",
+  "en": "Honey: the Comprehensive Guide",
+  "it": "Il Miele: la Guida Completa",
+  "sigla": "IMlGC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.howtheendwillbegin",
+  "file": "t.howtheendwillbegin.png",
+  "dorso": "t.howtheendwillbegin_.png",
+  "en": "How the End will Begin",
+  "it": "Come Avrà Inizio la Fine",
+  "sigla": "CAIlF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.huntingjournalsofbryandewulf",
+  "file": "t.huntingjournalsofbryandewulf.png",
+  "dorso": "t.huntingjournalsofbryandewulf_.png",
+  "en": "Hunting Journals of Bryan Dewulf",
+  "it": "Diari di Caccia di Bryan Dewulf",
+  "sigla": "DdCdBD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.inaamkapigiginlupirgarkiecryppys",
+  "file": "t.inaamkapigiginlupirgarkiecryppys.png",
+  "dorso": "t.inaamkapigiginlupirgarkiecryppys_.png",
+  "en": "Inaam, Kapigiginlupir, Garkie, Cryppys",
+  "it": "Inaam, Kapigiginlupir, Garkie, Cryppys",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.inmemoryofgods",
+  "file": "t.inmemoryofgods.png",
+  "dorso": "t.inmemoryofgods_.png",
+  "en": "In Memory of Gods",
+  "it": "In Memoria degli Dèi",
+  "sigla": "IMdD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.inthemalleary",
+  "file": "t.inthemalleary.png",
+  "dorso": "t.inthemalleary_.png",
+  "en": "In the Malleary",
+  "it": "Nel Malleary",
+  "sigla": "NM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed",
+  "file": "t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed.png",
+  "dorso": "t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed_.png",
+  "en": "In The Mountains As Upon The Plain There May Not Be A Path Where None Has Passed",
+  "it": "Fra i Monti Come sulla Pianura Non Vi Può Essere un Sentiero Dove Nessuno è Passato",
+  "sigla": "FMCPNV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.isaacofkarthshistoryoftheshadowlesskings",
+  "file": "t.isaacofkarthshistoryoftheshadowlesskings.png",
+  "dorso": "t.isaacofkarthshistoryoftheshadowlesskings_.png",
+  "en": "Isaac of Karth's History of the Shadowless Kings",
+  "it": "La Storia dei Re Senza-Ombra di Isaac di Karth",
+  "sigla": "SRSIK",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.itiswritten",
+  "file": "t.itiswritten.png",
+  "dorso": "t.itiswritten_.png",
+  "en": "It Is Written",
+  "it": "Sta Scritto",
+  "sigla": "SSr",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.journalofsirdavidgreene1903",
+  "file": "t.journalofsirdavidgreene1903.png",
+  "dorso": "t.journalofsirdavidgreene1903_.png",
+  "en": "Journal of Sir David Greene, 1903",
+  "it": "Diario di Sir David Greene, 1903",
+  "sigla": "DdSDG·1903",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.journalofthomasdewulf",
+  "file": "t.journalofthomasdewulf.png",
+  "dorso": "t.journalofthomasdewulf_.png",
+  "en": "Journal of Thomas Dewulf",
+  "it": "Diario di Thomas Dewulf",
+  "sigla": "DdTD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.journalofwalterdewulf",
+  "file": "t.journalofwalterdewulf.png",
+  "dorso": "t.journalofwalterdewulf_.png",
+  "en": "Journal of Walter Dewulf",
+  "it": "Diario di Walter Dewulf",
+  "sigla": "DdWD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.justverse",
+  "file": "t.justverse.png",
+  "dorso": "t.justverse_.png",
+  "en": "Just Verse",
+  "it": "Solo Versi",
+  "sigla": "SV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.keyofnight",
+  "file": "t.keyofnight.png",
+  "dorso": "t.keyofnight_.png",
+  "en": "Key of Night",
+  "it": "Chiave della Notte",
+  "sigla": "CdN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.kitlingripeandthemoldywarpsgraveandotherstories",
+  "file": "t.kitlingripeandthemoldywarpsgraveandotherstories.png",
+  "dorso": "t.kitlingripeandthemoldywarpsgraveandotherstories_.png",
+  "en": "Kitling Ripe and the Moldywarp's Grave (and Other Stories)",
+  "it": "Kitling Ripe e la Tomba della Talpa - e Altre Storie",
+  "sigla": "KRTT·EA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.kitlingripestastytreats",
+  "file": "t.kitlingripestastytreats.png",
+  "dorso": "t.kitlingripestastytreats_.png",
+  "en": "Kitling Ripe's Tasty Treats",
+  "it": "I Bocconcini Gustosi di Kitling Ripe",
+  "sigla": "IBGdKR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.kopralithomphalos",
+  "file": "t.kopralithomphalos.png",
+  "dorso": "t.kopralithomphalos_.png",
+  "en": "Kopralith Omphalos",
+  "it": "Kopralith Omphalos",
+  "sigla": "",
+  "testo": false,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.ladyevasrepose",
+  "file": "t.ladyevasrepose.png",
+  "dorso": "t.ladyevasrepose_.png",
+  "en": "Lady Eva's Repose",
+  "it": "Il Riposo di Lady Eva",
+  "sigla": "IRdLE",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.lakefucinorecordings",
+  "file": "t.lakefucinorecordings.png",
+  "dorso": "t.lakefucinorecordings_.png",
+  "en": "Lake Fucino Recordings",
+  "it": "Registrazioni del Lago Fucino",
+  "sigla": "RdLF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.lettersfromafugitive",
+  "file": "t.lettersfromafugitive.png",
+  "dorso": "t.lettersfromafugitive_.png",
+  "en": "Letters from a Fugitive",
+  "it": "Lettere di un Fuggitivo",
+  "sigla": "LduF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.letterstomysuccessor",
+  "file": "t.letterstomysuccessor.png",
+  "dorso": "t.letterstomysuccessor_.png",
+  "en": "Letters To My Successor",
+  "it": "Lettere al Mio Successore",
+  "sigla": "LaMS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.malachitesupplications",
+  "file": "t.malachitesupplications.png",
+  "dorso": "t.malachitesupplications_.png",
+  "en": "Malachite Supplications",
+  "it": "Supplicazioni di Malachite",
+  "sigla": "SdMa",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.medusancommentaries",
+  "file": "t.medusancommentaries.png",
+  "dorso": "t.medusancommentaries_.png",
+  "en": "Medusan Commentaries",
+  "it": "Commentari Medusei",
+  "sigla": "CM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.medusaslament",
+  "file": "t.medusaslament.png",
+  "dorso": "t.medusaslament_.png",
+  "en": "Medusa's Lament",
+  "it": "Il Lamento di Medusa",
+  "sigla": "ILdMe",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.musgravessketches",
+  "file": "t.musgravessketches.png",
+  "dorso": "t.musgravessketches_.png",
+  "en": "Musgrave's Sketches",
+  "it": "Schizzi di Musgrave",
+  "sigla": "SdMu",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme",
+  "file": "t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme.png",
+  "dorso": "t.mydeedsmypowersmyachievementsandtheinjusticesperpetratedagainstme_.png",
+  "en": "My Deeds, My Powers, My Achievements and the Injustices Perpetrated Against Me",
+  "it": "Le Mie Gesta, i Miei Poteri, i Miei Successi e le Ingiustizie Perpetrate Contro di Me",
+  "sigla": "MGMPMS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.naeniansketches",
+  "file": "t.naeniansketches.png",
+  "dorso": "t.naeniansketches_.png",
+  "en": "Naenian Sketches",
+  "it": "Schizzi Neniani",
+  "sigla": "SN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.nixabolix",
+  "file": "t.nixabolix.png",
+  "dorso": "t.nixabolix_.png",
+  "en": "Nix Abolix",
+  "it": "Nix Abolix",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.notesonbindings",
+  "file": "t.notesonbindings.png",
+  "dorso": "t.notesonbindings_.png",
+  "en": "Notes on Bindings",
+  "it": "Note sulle Legature",
+  "sigla": "NSL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.nynscagesavignontext",
+  "file": "t.nynscagesavignontext.png",
+  "dorso": "t.nynscagesavignontext_.png",
+  "en": "Nyn's Cages (Avignon Text)",
+  "it": "Le Gabbie di Nyn - Testo di Avignone",
+  "sigla": "LGdNy·TdA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.nynscagesbrugestextilluminated",
+  "file": "t.nynscagesbrugestextilluminated.png",
+  "dorso": "t.nynscagesbrugestextilluminated_.png",
+  "en": "Nyn's Cages (Bruges Text, Illuminated)",
+  "it": "Le Gabbie di Nyn - Testo di Bruges, Miniato",
+  "sigla": "LGdNy·TdB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.oblationsiniron",
+  "file": "t.oblationsiniron.png",
+  "dorso": "t.oblationsiniron_.png",
+  "en": "Oblations in Iron",
+  "it": "Oblazioni nel Ferro",
+  "sigla": "OnF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.observationsonthepeacockdoor",
+  "file": "t.observationsonthepeacockdoor.png",
+  "dorso": "t.observationsonthepeacockdoor_.png",
+  "en": "Observations on the Peacock Door",
+  "it": "Osservazioni sulla Porta del Pavone",
+  "sigla": "OsPdP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.oghkoroghkortissilakoghkor",
+  "file": "t.oghkoroghkortissilakoghkor.png",
+  "dorso": "t.oghkoroghkortissilakoghkor_.png",
+  "en": "OGHKOR OGHKOR TISSILAK OGHKOR",
+  "it": "OGHKOR OGHKOR TISSILAK OGHKOR",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.oldcoppernoseandthesoftermetal",
+  "file": "t.oldcoppernoseandthesoftermetal.png",
+  "dorso": "t.oldcoppernoseandthesoftermetal_.png",
+  "en": "Old Coppernose and the Softer Metal",
+  "it": "Vecchio Nasodirame e il Metallo più Tenero",
+  "sigla": "VNMPT",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onehundredandeight",
+  "file": "t.onehundredandeight.png",
+  "dorso": "t.onehundredandeight_.png",
+  "en": "One Hundred And Eight",
+  "it": "Centotto",
+  "sigla": "C",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onethousandthreads",
+  "file": "t.onethousandthreads.png",
+  "dorso": "t.onethousandthreads_.png",
+  "en": "One Thousand Threads",
+  "it": "Mille Fili",
+  "sigla": "MF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onimperfections",
+  "file": "t.onimperfections.png",
+  "dorso": "t.onimperfections_.png",
+  "en": "On Imperfections",
+  "it": "Sulle Imperfezioni",
+  "sigla": "SI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onmatthiasandtheamethystimagoloss",
+  "file": "t.onmatthiasandtheamethystimagoloss.png",
+  "dorso": "t.onmatthiasandtheamethystimagoloss_.png",
+  "en": "On Matthias and the Amethyst Imago: Loss",
+  "it": "Su Matthias e l’Imago d’Ametista: Perdita",
+  "sigla": "MIAP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onmatthiasandtheamethystimagopursuit",
+  "file": "t.onmatthiasandtheamethystimagopursuit.png",
+  "dorso": "t.onmatthiasandtheamethystimagopursuit_.png",
+  "en": "On Matthias and the Amethyst Imago: Pursuit",
+  "it": "Su Matthias e l’Imago d’Ametista: Inseguimento",
+  "sigla": "MIAI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onmatthiasandtheamethystimagotransformation",
+  "file": "t.onmatthiasandtheamethystimagotransformation.png",
+  "dorso": "t.onmatthiasandtheamethystimagotransformation_.png",
+  "en": "On Matthias and the Amethyst Imago: Transformation",
+  "it": "Su Matthias e l’Imago d’Ametista: Trasformazione",
+  "sigla": "MIAT",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onresonance",
+  "file": "t.onresonance.png",
+  "dorso": "t.onresonance_.png",
+  "en": "On Resonance",
+  "it": "Sulla Risonanza",
+  "sigla": "SRi",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onthematterandthedeedsofserpents",
+  "file": "t.onthematterandthedeedsofserpents.png",
+  "dorso": "t.onthematterandthedeedsofserpents_.png",
+  "en": "On the Matter and the Deeds of Serpents",
+  "it": "Sulla Natura e le Gesta dei Serpenti",
+  "sigla": "NGS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onthewhite",
+  "file": "t.onthewhite.png",
+  "dorso": "t.onthewhite_.png",
+  "en": "On the White",
+  "it": "Sul Bianco",
+  "sigla": "SB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onthewindingstair",
+  "file": "t.onthewindingstair.png",
+  "dorso": "t.onthewindingstair_.png",
+  "en": "On the Winding Stair",
+  "it": "Sulla Scala a Chiocciola",
+  "sigla": "SSaC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onthirstliesivoriesandlovelies",
+  "file": "t.onthirstliesivoriesandlovelies.png",
+  "dorso": "t.onthirstliesivoriesandlovelies_.png",
+  "en": "On Thirstlies, Ivories and Lovelies",
+  "it": "Sugli Assetati, gli Avoriati e gli Amabili",
+  "sigla": "SAAA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.onwhatiscontainedbysilver",
+  "file": "t.onwhatiscontainedbysilver.png",
+  "dorso": "t.onwhatiscontainedbysilver_.png",
+  "en": "On What is Contained By Silver",
+  "it": "Su Ciò che è Contenuto nell’Argento",
+  "sigla": "CÈCNA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.openingthesky",
+  "file": "t.openingthesky.png",
+  "dorso": "t.openingthesky_.png",
+  "en": "Opening the Sky",
+  "it": "Aprire il Cielo",
+  "sigla": "AiC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.operationsofacertainfinality",
+  "file": "t.operationsofacertainfinality.png",
+  "dorso": "t.operationsofacertainfinality_.png",
+  "en": "Operations of a Certain Finality",
+  "it": "Operazioni di una Certa Finalità",
+  "sigla": "OduCF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.opusmagnuscaeruleus",
+  "file": "t.opusmagnuscaeruleus.png",
+  "dorso": "t.opusmagnuscaeruleus_.png",
+  "en": "Opus Magnum Caeruleum",
+  "it": "Opus Magnum Caeruleum",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.perugiandiaries",
+  "file": "t.perugiandiaries.png",
+  "dorso": "t.perugiandiaries_.png",
+  "en": "Perugian Diaries",
+  "it": "Diari Perugini",
+  "sigla": "DP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.plantagenetmysteries",
+  "file": "t.plantagenetmysteries.png",
+  "dorso": "t.plantagenetmysteries_.png",
+  "en": "Plantagenet Mysteries",
+  "it": "Misteri Plantageneti",
+  "sigla": "MP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.propheciesofglory",
+  "file": "t.propheciesofglory.png",
+  "dorso": "t.propheciesofglory_.png",
+  "en": "Prophecies of Glory",
+  "it": "Profezie di Gloria",
+  "sigla": "PdG",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.quirinicmeditations",
+  "file": "t.quirinicmeditations.png",
+  "dorso": "t.quirinicmeditations_.png",
+  "en": "Quirinic Meditations",
+  "it": "Meditazioni Quiriniche",
+  "sigla": "MQ",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.raptintheking",
+  "file": "t.raptintheking.png",
+  "dorso": "t.raptintheking_.png",
+  "en": "Rapt in the King",
+  "it": "Rapito nel Re",
+  "sigla": "RnR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.recordingsfromthealthibanabyss",
+  "file": "t.recordingsfromthealthibanabyss.png",
+  "dorso": "t.recordingsfromthealthibanabyss_.png",
+  "en": "Recordings from the Althiban Abyss",
+  "it": "Registrazioni dall’Abisso di Althiban",
+  "sigla": "RDAdA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.serpentroot",
+  "file": "t.serpentroot.png",
+  "dorso": "t.serpentroot_.png",
+  "en": "Serpent-Root",
+  "it": "Radice di Serpente",
+  "sigla": "RdS",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.sevenfacesoficarus",
+  "file": "t.sevenfacesoficarus.png",
+  "dorso": "t.sevenfacesoficarus_.png",
+  "en": "Seven Faces of Icarus",
+  "it": "Sette Volti di Icaro",
+  "sigla": "SVdI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.sevenshards",
+  "file": "t.sevenshards.png",
+  "dorso": "t.sevenshards_.png",
+  "en": "Seven Shards",
+  "it": "Sette Schegge",
+  "sigla": "SSh",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.shuriticbookofsuns",
+  "file": "t.shuriticbookofsuns.png",
+  "dorso": "t.shuriticbookofsuns_.png",
+  "en": "Shuritic Book of Suns",
+  "it": "Libro Shuritico dei Soli",
+  "sigla": "LSdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.singlefootsongs",
+  "file": "t.singlefootsongs.png",
+  "dorso": "t.singlefootsongs_.png",
+  "en": "Singlefoot Songs",
+  "it": "Canti dei Piediunici",
+  "sigla": "CdP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.skinofsilver",
+  "file": "t.skinofsilver.png",
+  "dorso": "t.skinofsilver_.png",
+  "en": "Skin of Silver",
+  "it": "Pelle d’Argento",
+  "sigla": "PdA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.snareofthetreecollectedproverbsofauntmopsy",
+  "file": "t.snareofthetreecollectedproverbsofauntmopsy.png",
+  "dorso": "t.snareofthetreecollectedproverbsofauntmopsy_.png",
+  "en": "Snare of the Tree: Collected Proverbs of Aunt Mopsy",
+  "it": "Trappola dell’Albero: Raccolta di Proverbi di Zia Mopsy",
+  "sigla": "TDARPZ",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.stolenhistories",
+  "file": "t.stolenhistories.png",
+  "dorso": "t.stolenhistories_.png",
+  "en": "Stolen Histories",
+  "it": "Storie Rubate",
+  "sigla": "SRu",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.sunriseawakenings",
+  "file": "t.sunriseawakenings.png",
+  "dorso": "t.sunriseawakenings_.png",
+  "en": "Sunrise Awakenings",
+  "it": "Risvegli dell’Alba",
+  "sigla": "RDA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.sunsetceliaandtheendofdays",
+  "file": "t.sunsetceliaandtheendofdays.png",
+  "dorso": "t.sunsetceliaandtheendofdays_.png",
+  "en": "Sunset Celia and the End of Days",
+  "it": "Celia del Tramonto e la Fine dei Giorni",
+  "sigla": "CTFG",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.sunsetpassages",
+  "file": "t.sunsetpassages.png",
+  "dorso": "t.sunsetpassages_.png",
+  "en": "Sunset Passages",
+  "it": "Passaggi al Tramonto",
+  "sigla": "PaT",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theaccountofkanishkatthespidersdoor",
+  "file": "t.theaccountofkanishkatthespidersdoor.png",
+  "dorso": "t.theaccountofkanishkatthespidersdoor_.png",
+  "en": "The Account of Kanishk at the Spider's Door",
+  "it": "Il Racconto di Kanishk alla Porta del Ragno",
+  "sigla": "RKPR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theadmonitoryautomataproject",
+  "file": "t.theadmonitoryautomataproject.png",
+  "dorso": "t.theadmonitoryautomataproject_.png",
+  "en": "The Admonitory Automata Project",
+  "it": "Il Progetto degli Automi Ammonitori",
+  "sigla": "IPdAA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thealloyofthewhiterose",
+  "file": "t.thealloyofthewhiterose.png",
+  "dorso": "t.thealloyofthewhiterose_.png",
+  "en": "The Alloy of the White Rose",
+  "it": "La Lega della Rosa Bianca",
+  "sigla": "LLdRB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theamalgamoftheredrose",
+  "file": "t.theamalgamoftheredrose.png",
+  "dorso": "t.theamalgamoftheredrose_.png",
+  "en": "The Amalgam of the Red Rose",
+  "it": "L’Amalgama della Rosa Rossa",
+  "sigla": "LAdRR",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theascendant",
+  "file": "t.theascendant.png",
+  "dorso": "t.theascendant_.png",
+  "en": "The Ascendant",
+  "it": "L’Ascendente",
+  "sigla": "LA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebarrowchildselegies",
+  "file": "t.thebarrowchildselegies.png",
+  "dorso": "t.thebarrowchildselegies_.png",
+  "en": "The Barrowchild's Elegies",
+  "it": "Le Elegie della Fanciulla del Tumulo",
+  "sigla": "LEdFdT",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebeekeepersends",
+  "file": "t.thebeekeepersends.png",
+  "dorso": "t.thebeekeepersends_.png",
+  "en": "The Bee-Keeper's Ends",
+  "it": "I Fini dell’Apicoltore",
+  "sigla": "IFDAp",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theberrybook",
+  "file": "t.theberrybook.png",
+  "dorso": "t.theberrybook_.png",
+  "en": "The Berrybook",
+  "it": "Il Libro delle Bacche",
+  "sigla": "ILdB",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theblackbookofbrittany",
+  "file": "t.theblackbookofbrittany.png",
+  "dorso": "t.theblackbookofbrittany_.png",
+  "en": "The Black Book of Brittany",
+  "it": "Il Libro Nero di Bretagna",
+  "sigla": "ILNdB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebookofcinders",
+  "file": "t.thebookofcinders.png",
+  "dorso": "t.thebookofcinders_.png",
+  "en": "The Book of Cinders",
+  "it": "Il Libro delle Ceneri",
+  "sigla": "ILdC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebookofdissolution",
+  "file": "t.thebookofdissolution.png",
+  "dorso": "t.thebookofdissolution_.png",
+  "en": "The Book of Dissolution",
+  "it": "Il Libro della Dissoluzione",
+  "sigla": "ILdD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebookofmasks",
+  "file": "t.thebookofmasks.png",
+  "dorso": "t.thebookofmasks_.png",
+  "en": "The Book of Masks",
+  "it": "Il Libro delle Maschere",
+  "sigla": "ILdMa",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebookofthecentipede",
+  "file": "t.thebookofthecentipede.png",
+  "dorso": "t.thebookofthecentipede_.png",
+  "en": "The Book of the Centipede",
+  "it": "Il Libro della Millepiedi",
+  "sigla": "ILdMi",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebookoftheextinguishedheart",
+  "file": "t.thebookoftheextinguishedheart.png",
+  "dorso": "t.thebookoftheextinguishedheart_.png",
+  "en": "The Book of the Extinguished Heart",
+  "it": "Il Libro del Cuore Spento",
+  "sigla": "ILdCS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thebookofthewhitecat",
+  "file": "t.thebookofthewhitecat.png",
+  "dorso": "t.thebookofthewhitecat_.png",
+  "en": "The Book of the White Cat",
+  "it": "Il Libro del Gatto Bianco",
+  "sigla": "ILdGB",
+  "testo": false,
+  "stato": "tradotto",
+  "nota": "copertina pittorica (un gatto), nessun testo in nessuna delle quattro culture"
+ },
+ {
+  "id": "t.thebookofthrones",
+  "file": "t.thebookofthrones.png",
+  "dorso": "t.thebookofthrones_.png",
+  "en": "The Book of Thrones",
+  "it": "Il Libro dei Troni",
+  "sigla": "ILdT",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theburningwoman",
+  "file": "t.theburningwoman.png",
+  "dorso": "t.theburningwoman_.png",
+  "en": "The Burning Woman",
+  "it": "La Donna in Fiamme",
+  "sigla": "LDiF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thecarbonekschism",
+  "file": "t.thecarbonekschism.png",
+  "dorso": "t.thecarbonekschism_.png",
+  "en": "The Carbonek Schism",
+  "it": "Lo Scisma di Carbonek",
+  "sigla": "LSdC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thecarminepetalrevised",
+  "file": "t.thecarminepetalrevised.png",
+  "dorso": "t.thecarminepetalrevised_.png",
+  "en": "The Carmine Petal: Revised",
+  "it": "Il Petalo Carminio: Rivisto",
+  "sigla": "IPCR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thecarminepetalunexpurgated",
+  "file": "t.thecarminepetalunexpurgated.png",
+  "dorso": "t.thecarminepetalunexpurgated_.png",
+  "en": "The Carmine Petal: Unexpurgated",
+  "it": "Il Petalo Carminio: Non Espurgato",
+  "sigla": "IPCNE",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theceaselesstantra",
+  "file": "t.theceaselesstantra.png",
+  "dorso": "t.theceaselesstantra_.png",
+  "en": "The Ceaseless Tantra",
+  "it": "Il Tantra Incessante",
+  "sigla": "ITIe",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thechandlerswish",
+  "file": "t.thechandlerswish.png",
+  "dorso": "t.thechandlerswish_.png",
+  "en": "The Chandler's Wish",
+  "it": "Il Desiderio del Chandler",
+  "sigla": "IDdCh",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theconcursumdiaries",
+  "file": "t.theconcursumdiaries.png",
+  "dorso": "t.theconcursumdiaries_.png",
+  "en": "The Concursum Diaries",
+  "it": "I Diari del Concursum",
+  "sigla": "IDdCo",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thecrossingtonoon",
+  "file": "t.thecrossingtonoon.png",
+  "dorso": "t.thecrossingtonoon_.png",
+  "en": "The Crossing to Noon",
+  "it": "La Traversata verso Mezzogiorno",
+  "sigla": "LTVM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thedeathsofthemoon",
+  "file": "t.thedeathsofthemoon.png",
+  "dorso": "t.thedeathsofthemoon_.png",
+  "en": "The Deaths of the Moon",
+  "it": "Le Morti della Luna",
+  "sigla": "LMdL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thedebateofsevencups",
+  "file": "t.thedebateofsevencups.png",
+  "dorso": "t.thedebateofsevencups_.png",
+  "en": "The Debate of Seven Cups",
+  "it": "Il Dibattito delle Sette Coppe",
+  "sigla": "IDdSC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thedeedsofthescarredcaptain",
+  "file": "t.thedeedsofthescarredcaptain.png",
+  "dorso": "t.thedeedsofthescarredcaptain_.png",
+  "en": "The Deeds of the Scarred Captain",
+  "it": "Le Gesta del Capitano Sfregiato",
+  "sigla": "LGdCS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thedevouredtantra",
+  "file": "t.thedevouredtantra.png",
+  "dorso": "t.thedevouredtantra_.png",
+  "en": "The Devoured Tantra",
+  "it": "Il Tantra Divorato",
+  "sigla": "ITD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thedreamoftheconspiracyofthelowerskies",
+  "file": "t.thedreamoftheconspiracyofthelowerskies.png",
+  "dorso": "t.thedreamoftheconspiracyofthelowerskies_.png",
+  "en": "The Dream of the Conspiracy of the Lower Skies",
+  "it": "Il Sogno della Cospirazione dei Cieli Inferiori",
+  "sigla": "SCCI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theelationsoflimentinus",
+  "file": "t.theelationsoflimentinus.png",
+  "dorso": "t.theelationsoflimentinus_.png",
+  "en": "The Elations of Limentinus",
+  "it": "Le Esaltazioni di Limentinus",
+  "sigla": "LEdL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theencirclingtantra",
+  "file": "t.theencirclingtantra.png",
+  "dorso": "t.theencirclingtantra_.png",
+  "en": "The Encircling Tantra",
+  "it": "Il Tantra Cingente",
+  "sigla": "ITC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thefallencross",
+  "file": "t.thefallencross.png",
+  "dorso": "t.thefallencross_.png",
+  "en": "The Fallen Cross",
+  "it": "La Croce Caduta",
+  "sigla": "LCC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thefirecircletantra",
+  "file": "t.thefirecircletantra.png",
+  "dorso": "t.thefirecircletantra_.png",
+  "en": "The Fire-Circle Tantra",
+  "it": "Il Tantra del Cerchio di Fuoco",
+  "sigla": "ITdCdF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thefivelettersonmemory",
+  "file": "t.thefivelettersonmemory.png",
+  "dorso": "t.thefivelettersonmemory_.png",
+  "en": "The Five Letters On Memory",
+  "it": "Le Cinque Lettere Sulla Memoria",
+  "sigla": "LCLsM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theflayedtantra",
+  "file": "t.theflayedtantra.png",
+  "dorso": "t.theflayedtantra_.png",
+  "en": "The Flayed Tantra",
+  "it": "Il Tantra Scorticato",
+  "sigla": "ITS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thefocusofamber",
+  "file": "t.thefocusofamber.png",
+  "dorso": "t.thefocusofamber_.png",
+  "en": "The Focus of Amber",
+  "it": "Il Fuoco dell’Ambra",
+  "sigla": "IFDAm",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thegeminiadi",
+  "file": "t.thegeminiadi.png",
+  "dorso": "t.thegeminiadi_.png",
+  "en": "The Geminiad i",
+  "it": "La Geminiade i",
+  "sigla": "LGi",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thegeminiadii",
+  "file": "t.thegeminiadii.png",
+  "dorso": "t.thegeminiadii_.png",
+  "en": "The Geminiad ii",
+  "it": "La Geminiade ii",
+  "sigla": "LGI",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thegeminiadiii",
+  "file": "t.thegeminiadiii.png",
+  "dorso": "t.thegeminiadiii_.png",
+  "en": "The Geminiad iii",
+  "it": "La Geminiade iii",
+  "sigla": "LGIi",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thegospelofzacchaeus",
+  "file": "t.thegospelofzacchaeus.png",
+  "dorso": "t.thegospelofzacchaeus_.png",
+  "en": "The Gospel of Zacchaeus",
+  "it": "Il Vangelo di Zaccheo",
+  "sigla": "IVdZ",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thegrandpassageofthehours",
+  "file": "t.thegrandpassageofthehours.png",
+  "dorso": "t.thegrandpassageofthehours_.png",
+  "en": "The Grand Passage of the Hours",
+  "it": "Il Grande Passaggio delle Ore",
+  "sigla": "IGPdO",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thehighmysteriesoftheinnermostchamberofourchurchsolar",
+  "file": "t.thehighmysteriesoftheinnermostchamberofourchurchsolar.png",
+  "dorso": "t.thehighmysteriesoftheinnermostchamberofourchurchsolar_.png",
+  "en": "The High Mysteries of the Innermost Chamber of our Church Solar",
+  "it": "Gli Alti Misteri della Camera più Interna della nostra Chiesa Solare",
+  "sigla": "AMCPIN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thehightraditionsofthenobleendeavour",
+  "file": "t.thehightraditionsofthenobleendeavour.png",
+  "dorso": "t.thehightraditionsofthenobleendeavour_.png",
+  "en": "The High Traditions of the Noble Endeavour",
+  "it": "Le Alte Tradizioni della Nobile Impresa",
+  "sigla": "LATdNI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thehissingkey",
+  "file": "t.thehissingkey.png",
+  "dorso": "t.thehissingkey_.png",
+  "en": "The Hissing Key",
+  "it": "La Chiave Sibilante",
+  "sigla": "LCS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thehistoryofinks",
+  "file": "t.thehistoryofinks.png",
+  "dorso": "t.thehistoryofinks_.png",
+  "en": "The History of Inks",
+  "it": "La Storia degli Inchiostri",
+  "sigla": "LSdI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thehumoursofagentleman",
+  "file": "t.thehumoursofagentleman.png",
+  "dorso": "t.thehumoursofagentleman_.png",
+  "en": "The Humours of a Gentleman",
+  "it": "Gli Umori di un Gentiluomo",
+  "sigla": "GUduG",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theincandescenttantra",
+  "file": "t.theincandescenttantra.png",
+  "dorso": "t.theincandescenttantra_.png",
+  "en": "The Incandescent Tantra",
+  "it": "Il Tantra Incandescente",
+  "sigla": "ITIa",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theinstrumentsoftheheart",
+  "file": "t.theinstrumentsoftheheart.png",
+  "dorso": "t.theinstrumentsoftheheart_.png",
+  "en": "The Instruments of the Heart",
+  "it": "Gli Strumenti del Cuore",
+  "sigla": "GSdC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theintimationsofskin",
+  "file": "t.theintimationsofskin.png",
+  "dorso": "t.theintimationsofskin_.png",
+  "en": "The Intimations of Skin",
+  "it": "Le Intimazioni della Pelle",
+  "sigla": "LIdP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theinvisibleoperaunfinishedrecording",
+  "file": "t.theinvisibleoperaunfinishedrecording.png",
+  "dorso": "t.theinvisibleoperaunfinishedrecording_.png",
+  "en": "The Invisible Opera (Unfinished Recording)",
+  "it": "L’Opera Invisibile - Registrazione Incompiuta",
+  "sigla": "LOI·RI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theironbook",
+  "file": "t.theironbook.png",
+  "dorso": "t.theironbook_.png",
+  "en": "The Iron Book",
+  "it": "Il Libro di Ferro",
+  "sigla": "ILdF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theivorybook",
+  "file": "t.theivorybook.png",
+  "dorso": "t.theivorybook_.png",
+  "en": "The Ivory Book",
+  "it": "Il Libro d’Avorio",
+  "sigla": "ILdAv",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thekerishamportolan",
+  "file": "t.thekerishamportolan.png",
+  "dorso": "t.thekerishamportolan_.png",
+  "en": "The Kerisham Portolan",
+  "it": "Il Portolano di Kerisham",
+  "sigla": "IPdK",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theknownunknowntantra",
+  "file": "t.theknownunknowntantra.png",
+  "dorso": "t.theknownunknowntantra_.png",
+  "en": "The Known-Unknown Tantra",
+  "it": "Il Tantra del Conosciuto-Sconosciuto",
+  "sigla": "ITdC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thelarquebinecodex",
+  "file": "t.thelarquebinecodex.png",
+  "dorso": "t.thelarquebinecodex_.png",
+  "en": "The Larquebine Codex",
+  "it": "Il Codice Larquebine",
+  "sigla": "ICL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theleoninetantra",
+  "file": "t.theleoninetantra.png",
+  "dorso": "t.theleoninetantra_.png",
+  "en": "The Leonine Tantra",
+  "it": "Il Tantra Leonino",
+  "sigla": "ITL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thelionandtheglass",
+  "file": "t.thelionandtheglass.png",
+  "dorso": "t.thelionandtheglass_.png",
+  "en": "The Lion and the Glass",
+  "it": "Il Leone e il Vetro",
+  "sigla": "ILeiV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thelocksmithsdreamalightthroughthekeyhole",
+  "file": "t.thelocksmithsdreamalightthroughthekeyhole.png",
+  "dorso": "t.thelocksmithsdreamalightthroughthekeyhole_.png",
+  "en": "The Locksmith's Dream: a Light through the Keyhole",
+  "it": "Il Sogno del Serraturiere: una Luce dal Buco della Serratura",
+  "sigla": "SSLBS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thelocksmithsdreamincursus",
+  "file": "t.thelocksmithsdreamincursus.png",
+  "dorso": "t.thelocksmithsdreamincursus_.png",
+  "en": "The Locksmith's Dream: Incursus",
+  "it": "Il Sogno del Serraturiere: Incursus",
+  "sigla": "ISdSIc",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thelocksmithsdreamportionsandproportions",
+  "file": "t.thelocksmithsdreamportionsandproportions.png",
+  "dorso": "t.thelocksmithsdreamportionsandproportions_.png",
+  "en": "The Locksmith's Dream: Portions and Proportions",
+  "it": "Il Sogno del Serraturiere: Porzioni e Proporzioni",
+  "sigla": "SSPP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thelocksmithsdreamstolenreflections",
+  "file": "t.thelocksmithsdreamstolenreflections.png",
+  "dorso": "t.thelocksmithsdreamstolenreflections_.png",
+  "en": "The Locksmith's Dream: Stolen Reflections",
+  "it": "Il Sogno del Serraturiere: Riflessi Rubati",
+  "sigla": "ISdSRR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thelocksmithsdreamtrespasses",
+  "file": "t.thelocksmithsdreamtrespasses.png",
+  "dorso": "t.thelocksmithsdreamtrespasses_.png",
+  "en": "The Locksmith's Dream: Trespasses",
+  "it": "Il Sogno del Serraturiere: Intrusioni",
+  "sigla": "ISdSIt",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.themannerinwhichthealchemistwasspared",
+  "file": "t.themannerinwhichthealchemistwasspared.png",
+  "dorso": "t.themannerinwhichthealchemistwasspared_.png",
+  "en": "The Manner in which the Alchemist was Spared",
+  "it": "Il Modo in cui l’Alchimista fu Risparmiato",
+  "sigla": "MCAFR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.themessengerawaitingherdestination",
+  "file": "t.themessengerawaitingherdestination.png",
+  "dorso": "t.themessengerawaitingherdestination_.png",
+  "en": "The Messenger Awaiting Her Destination",
+  "it": "La Messaggera in Attesa della Propria Destinazione",
+  "sigla": "MAPD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.themirrorofmelancthe",
+  "file": "t.themirrorofmelancthe.png",
+  "dorso": "t.themirrorofmelancthe_.png",
+  "en": "The Mirror of Melancthe",
+  "it": "Lo Specchio di Melancthe",
+  "sigla": "LSdM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.themoonsegg",
+  "file": "t.themoonsegg.png",
+  "dorso": "t.themoonsegg_.png",
+  "en": "The Moon's Egg",
+  "it": "L’Uovo della Luna",
+  "sigla": "LUdL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.themorphycodex",
+  "file": "t.themorphycodex.png",
+  "dorso": "t.themorphycodex_.png",
+  "en": "The Morphy Codex",
+  "it": "Il Codice di Morphy",
+  "sigla": "ICdM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.themostsorrowfulendoftheladynonna",
+  "file": "t.themostsorrowfulendoftheladynonna.png",
+  "dorso": "t.themostsorrowfulendoftheladynonna_.png",
+  "en": "The Most Sorrowful End of the Lady Nonna",
+  "it": "La Fine più Dolorosa della Dama Nonna",
+  "sigla": "FPDDN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theopenhead",
+  "file": "t.theopenhead.png",
+  "dorso": "t.theopenhead_.png",
+  "en": "THE OPEN HEAD",
+  "it": "LA TESTA APERTA",
+  "sigla": "LTA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theorchidtransfigurationsabirth",
+  "file": "t.theorchidtransfigurationsabirth.png",
+  "dorso": "t.theorchidtransfigurationsabirth_.png",
+  "en": "The Orchid Transfigurations: a Birth",
+  "it": "Le Trasfigurazioni dell’Orchidea: una Nascita",
+  "sigla": "LTDOuN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theorchidtransfigurationsafeast",
+  "file": "t.theorchidtransfigurationsafeast.png",
+  "dorso": "t.theorchidtransfigurationsafeast_.png",
+  "en": "The Orchid Transfigurations: a Feast",
+  "it": "Le Trasfigurazioni dell’Orchidea: un Banchetto",
+  "sigla": "LTDOuB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theorchidtransfigurationsnoon",
+  "file": "t.theorchidtransfigurationsnoon.png",
+  "dorso": "t.theorchidtransfigurationsnoon_.png",
+  "en": "The Orchid Transfigurations: Noon",
+  "it": "Le Trasfigurazioni dell’Orchidea: Mezzogiorno",
+  "sigla": "LTDOM",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theoriginsofhours",
+  "file": "t.theoriginsofhours.png",
+  "dorso": "t.theoriginsofhours_.png",
+  "en": "The Origins of Hours",
+  "it": "Le Origini delle Ore",
+  "sigla": "LOdO",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theothereyeoftheserpent",
+  "file": "t.theothereyeoftheserpent.png",
+  "dorso": "t.theothereyeoftheserpent_.png",
+  "en": "The Other Eye of the Serpent",
+  "it": "L’Altro Occhio del Serpente",
+  "sigla": "LAOdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theotherline",
+  "file": "t.theotherline.png",
+  "dorso": "t.theotherline_.png",
+  "en": "The Other Line",
+  "it": "L’Altra Linea",
+  "sigla": "LAL",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thequeensoftherivers",
+  "file": "t.thequeensoftherivers.png",
+  "dorso": "t.thequeensoftherivers_.png",
+  "en": "The Queens of the Rivers",
+  "it": "Le Regine dei Fiumi",
+  "sigla": "LRdF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thequeensturn",
+  "file": "t.thequeensturn.png",
+  "dorso": "t.thequeensturn_.png",
+  "en": "The Queen's Turn",
+  "it": "Il Turno della Regina",
+  "sigla": "ITdR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theradicalmeasure",
+  "file": "t.theradicalmeasure.png",
+  "dorso": "t.theradicalmeasure_.png",
+  "en": "The Radical Measure",
+  "it": "La Misura Radicale",
+  "sigla": "LMR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theradicalmeasureglossed",
+  "file": "t.theradicalmeasureglossed.png",
+  "dorso": "t.theradicalmeasureglossed_.png",
+  "en": "The Radical Measure (Glossed)",
+  "it": "La Misura Radicale - Annotata",
+  "sigla": "LMR·A",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.therapturesofforculus",
+  "file": "t.therapturesofforculus.png",
+  "dorso": "t.therapturesofforculus_.png",
+  "en": "The Raptures of Forculus",
+  "it": "Le Estasi di Forculus",
+  "sigla": "LEdFo",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theredbookofbrittany",
+  "file": "t.theredbookofbrittany.png",
+  "dorso": "t.theredbookofbrittany_.png",
+  "en": "The Red Book of Brittany",
+  "it": "Il Libro Rosso di Bretagna",
+  "sigla": "ILRdB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.therepublicofteeth",
+  "file": "t.therepublicofteeth.png",
+  "dorso": "t.therepublicofteeth_.png",
+  "en": "The Republic of Teeth",
+  "it": "La Repubblica dei Denti",
+  "sigla": "LRdD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theroadtojanus",
+  "file": "t.theroadtojanus.png",
+  "dorso": "t.theroadtojanus_.png",
+  "en": "The Road to Janus",
+  "it": "La Strada per Janus",
+  "sigla": "LSpJ",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theroseofhypatia",
+  "file": "t.theroseofhypatia.png",
+  "dorso": "t.theroseofhypatia_.png",
+  "en": "The Rose of Hypatia",
+  "it": "La Rosa di Ipazia",
+  "sigla": "LRdI",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theroseofnuriel",
+  "file": "t.theroseofnuriel.png",
+  "dorso": "t.theroseofnuriel_.png",
+  "en": "The Rose of Nuriel",
+  "it": "La Rosa di Nuriel",
+  "sigla": "LRdN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theroseofwaznei",
+  "file": "t.theroseofwaznei.png",
+  "dorso": "t.theroseofwaznei_.png",
+  "en": "The Rose of Waznei",
+  "it": "La Rosa di Waznei",
+  "sigla": "LRdW",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thescarinthesky",
+  "file": "t.thescarinthesky.png",
+  "dorso": "t.thescarinthesky_.png",
+  "en": "The Scar in the Sky",
+  "it": "La Cicatrice nel Cielo",
+  "sigla": "LCnC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theseadoesnotregret",
+  "file": "t.theseadoesnotregret.png",
+  "dorso": "t.theseadoesnotregret_.png",
+  "en": "The Sea Does Not Regret",
+  "it": "Il Mare Non Rimpiange",
+  "sigla": "IMNR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesecretcolours",
+  "file": "t.thesecretcolours.png",
+  "dorso": "t.thesecretcolours_.png",
+  "en": "The Secret Colours",
+  "it": "I Colori Segreti",
+  "sigla": "ICS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theserenityoftheblackwood",
+  "file": "t.theserenityoftheblackwood.png",
+  "dorso": "t.theserenityoftheblackwood_.png",
+  "en": "The Serenity of the Black Wood",
+  "it": "La Serenità del Bosco Nero",
+  "sigla": "LSdBN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesevenfoldslayingofthesevencoiled",
+  "file": "t.thesevenfoldslayingofthesevencoiled.png",
+  "dorso": "t.thesevenfoldslayingofthesevencoiled_.png",
+  "en": "The Sevenfold Slaying of the Seven-Coiled",
+  "it": "La Settuplice Uccisione di Sette-Spire",
+  "sigla": "LSUdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theshadowinthestair",
+  "file": "t.theshadowinthestair.png",
+  "dorso": "t.theshadowinthestair_.png",
+  "en": "The Shadow in the Stair",
+  "it": "L’Ombra nella Scala",
+  "sigla": "LOnS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theshavenlocktantra",
+  "file": "t.theshavenlocktantra.png",
+  "dorso": "t.theshavenlocktantra_.png",
+  "en": "The Shaven Lock Tantra",
+  "it": "Il Tantra della Ciocca Rasata",
+  "sigla": "ITdCR",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesilverbook",
+  "file": "t.thesilverbook.png",
+  "dorso": "t.thesilverbook_.png",
+  "en": "The Silver Book",
+  "it": "Il Libro d’Argento",
+  "sigla": "ILdAr",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesixlettersonnecessity",
+  "file": "t.thesixlettersonnecessity.png",
+  "dorso": "t.thesixlettersonnecessity_.png",
+  "en": "The Six Letters on Necessity",
+  "it": "Le Sei Lettere sulla Necessità",
+  "sigla": "LSLsN",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theskeletonsongs",
+  "file": "t.theskeletonsongs.png",
+  "dorso": "t.theskeletonsongs_.png",
+  "en": "The Skeleton Songs",
+  "it": "I Canti dello Scheletro",
+  "sigla": "ICdS",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theskyinthescar",
+  "file": "t.theskyinthescar.png",
+  "dorso": "t.theskyinthescar_.png",
+  "en": "The Sky in the Scar",
+  "it": "Il Cielo nella Cicatrice",
+  "sigla": "ICnC",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theskythesoul",
+  "file": "t.theskythesoul.png",
+  "dorso": "t.theskythesoul_.png",
+  "en": "The Sky, the Soul",
+  "it": "Il Cielo, l’Anima",
+  "sigla": "IClA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesongsofthecarapacecross",
+  "file": "t.thesongsofthecarapacecross.png",
+  "dorso": "t.thesongsofthecarapacecross_.png",
+  "en": "The Songs of the Carapace Cross",
+  "it": "I Canti della Croce di Carapace",
+  "sigla": "ICdCdC",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesundisfigured",
+  "file": "t.thesundisfigured.png",
+  "dorso": "t.thesundisfigured_.png",
+  "en": "The Sun Disfigured",
+  "it": "Il Sole Sfigurato",
+  "sigla": "ISS",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesunsdesign",
+  "file": "t.thesunsdesign.png",
+  "dorso": "t.thesunsdesign_.png",
+  "en": "The Sun's Design",
+  "it": "Il Disegno del Sole",
+  "sigla": "IDdS",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thesunslament",
+  "file": "t.thesunslament.png",
+  "dorso": "t.thesunslament_.png",
+  "en": "The Sun's Lament",
+  "it": "Il Lamento del Sole",
+  "sigla": "ILdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thetantraofworms",
+  "file": "t.thetantraofworms.png",
+  "dorso": "t.thetantraofworms_.png",
+  "en": "The Tantra of Worms",
+  "it": "Il Tantra dei Vermi",
+  "sigla": "ITdV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thetemptationsofarchitecture",
+  "file": "t.thetemptationsofarchitecture.png",
+  "dorso": "t.thetemptationsofarchitecture_.png",
+  "en": "The Temptations of Architecture",
+  "it": "Le Tentazioni dell’Architettura",
+  "sigla": "LTDA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thethirstingtantra",
+  "file": "t.thethirstingtantra.png",
+  "dorso": "t.thethirstingtantra_.png",
+  "en": "The Thirsting Tantra",
+  "it": "Il Tantra della Sete",
+  "sigla": "ITdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thethreeandthethreekerishammanuscript",
+  "file": "t.thethreeandthethreekerishammanuscript.png",
+  "dorso": "t.thethreeandthethreekerishammanuscript_.png",
+  "en": "The Three and the Three (Kerisham Manuscript)",
+  "it": "I Tre e i Tre - Manoscritto di Kerisham",
+  "sigla": "ITeiTr·MdK",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thethreeandthethreestchiavimanuscript",
+  "file": "t.thethreeandthethreestchiavimanuscript.png",
+  "dorso": "t.thethreeandthethreestchiavimanuscript_.png",
+  "en": "The Three and the Three (St Chiavi Manuscript)",
+  "it": "I Tre e i Tre - Manoscritto di St Chiavi",
+  "sigla": "ITeiTr·MdS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thethreeandthethreevaticanmanuscript",
+  "file": "t.thethreeandthethreevaticanmanuscript.png",
+  "dorso": "t.thethreeandthethreevaticanmanuscript_.png",
+  "en": "The Three and the Three (Vatican Manuscript)",
+  "it": "I Tre e i Tre - Manoscritto Vaticano",
+  "sigla": "ITeiT·MV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thetimeofdivision",
+  "file": "t.thetimeofdivision.png",
+  "dorso": "t.thetimeofdivision_.png",
+  "en": "The Time of Division",
+  "it": "Il Tempo della Divisione",
+  "sigla": "ITdD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thetreatiseonunderplaces",
+  "file": "t.thetreatiseonunderplaces.png",
+  "dorso": "t.thetreatiseonunderplaces_.png",
+  "en": "The Treatise on Underplaces",
+  "it": "Il Trattato sui Sottoluoghi",
+  "sigla": "ITSS",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thetripledheart",
+  "file": "t.thetripledheart.png",
+  "dorso": "t.thetripledheart_.png",
+  "en": "The Tripled Heart",
+  "it": "Il Cuore Triplicato",
+  "sigla": "ICT",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theturquoisehand",
+  "file": "t.theturquoisehand.png",
+  "dorso": "t.theturquoisehand_.png",
+  "en": "The Turquoise Hand",
+  "it": "La Mano di Turchese",
+  "sigla": "LMdT",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thetwelvelettersonconsequence",
+  "file": "t.thetwelvelettersonconsequence.png",
+  "dorso": "t.thetwelvelettersonconsequence_.png",
+  "en": "The Twelve Letters On Consequence",
+  "it": "Le Dodici Lettere sulla Conseguenza",
+  "sigla": "LDLsC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thetwinserpenttantra",
+  "file": "t.thetwinserpenttantra.png",
+  "dorso": "t.thetwinserpenttantra_.png",
+  "en": "The Twin-Serpent Tantra",
+  "it": "Il Tantra del Serpente Gemello",
+  "sigla": "ITdSG",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thevictoryofcrowns",
+  "file": "t.thevictoryofcrowns.png",
+  "dorso": "t.thevictoryofcrowns_.png",
+  "en": "The Victory of Crowns",
+  "it": "La Vittoria delle Corone",
+  "sigla": "LVdC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thevienneseconundra",
+  "file": "t.thevienneseconundra.png",
+  "dorso": "t.thevienneseconundra_.png",
+  "en": "The Viennese Conundra",
+  "it": "Gli Enigmi Viennesi",
+  "sigla": "GEV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thevinzantinscriptions",
+  "file": "t.thevinzantinscriptions.png",
+  "dorso": "t.thevinzantinscriptions_.png",
+  "en": "The Vinzant Inscriptions",
+  "it": "Le Iscrizioni di Vinzant",
+  "sigla": "LIdV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thevoyagesofferninshunoforeol",
+  "file": "t.thevoyagesofferninshunoforeol.png",
+  "dorso": "t.thevoyagesofferninshunoforeol_.png",
+  "en": "The Voyages of Ferninshun of Oreol",
+  "it": "I Viaggi di Ferninshun di Oreol",
+  "sigla": "IVdFdO",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thewaroftheroads14511551",
+  "file": "t.thewaroftheroads14511551.png",
+  "dorso": "t.thewaroftheroads14511551_.png",
+  "en": "The War of the Roads, 1451-1551",
+  "it": "La Guerra delle Strade, 1451-1551",
+  "sigla": "LGdS1",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thewatchfultantra",
+  "file": "t.thewatchfultantra.png",
+  "dorso": "t.thewatchfultantra_.png",
+  "en": "The Watchful Tantra",
+  "it": "Il Tantra Vigile",
+  "sigla": "ITV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thewhitebookofbrittany",
+  "file": "t.thewhitebookofbrittany.png",
+  "dorso": "t.thewhitebookofbrittany_.png",
+  "en": "The White Book of Brittany",
+  "it": "Il Libro Bianco di Bretagna",
+  "sigla": "ILBdB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thewindsruin",
+  "file": "t.thewindsruin.png",
+  "dorso": "t.thewindsruin_.png",
+  "en": "The Wind's Ruin",
+  "it": "La Rovina del Vento",
+  "sigla": "LRdV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thewonderfulshape",
+  "file": "t.thewonderfulshape.png",
+  "dorso": "t.thewonderfulshape_.png",
+  "en": "The Wonderful Shape",
+  "it": "La Forma Meravigliosa",
+  "sigla": "LFM",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theworlddespoild",
+  "file": "t.theworlddespoild.png",
+  "dorso": "t.theworlddespoild_.png",
+  "en": "The World Despoil'd",
+  "it": "Il Mondo Depredato",
+  "sigla": "IMD",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.theworlddoesnotweep",
+  "file": "t.theworlddoesnotweep.png",
+  "dorso": "t.theworlddoesnotweep_.png",
+  "en": "The World Does Not Weep",
+  "it": "Il Mondo Non Piange",
+  "sigla": "IMNP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thewoundwounds",
+  "file": "t.thewoundwounds.png",
+  "dorso": "t.thewoundwounds_.png",
+  "en": "The Wound-Wounds",
+  "it": "Le Ferite-Ferite",
+  "sigla": "LF",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thewritingonthewall",
+  "file": "t.thewritingonthewall.png",
+  "dorso": "t.thewritingonthewall_.png",
+  "en": "The Writing on the Wall",
+  "it": "La Scritta sul Muro",
+  "sigla": "LSsM",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates",
+  "file": "t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates.png",
+  "dorso": "t.thoseindignitiesperpetratedbythedeceitfulfraternityofobliviates_.png",
+  "en": "Those Indignities Perpetrated By the Deceitful Fraternity of Obliviates",
+  "it": "Quelle Indegnità Perpetrate Dalla Fraternità Ingannatrice degli Obliviati",
+  "sigla": "QIPFIO",
+  "testo": false,
+  "stato": "tradotto",
+  "nota": "copertina pittorica (una maschera), nessun testo"
+ },
+ {
+  "id": "t.thosewhodonotsleep",
+  "file": "t.thosewhodonotsleep.png",
+  "dorso": "t.thosewhodonotsleep_.png",
+  "en": "Those Who Do Not Sleep",
+  "it": "Coloro Che Non Dormono",
+  "sigla": "CcND",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.threeflowershaththetree",
+  "file": "t.threeflowershaththetree.png",
+  "dorso": "t.threeflowershaththetree_.png",
+  "en": "Three Flowers Hath the Tree",
+  "it": "Tre Fiori Ha l’Albero",
+  "sigla": "TFHlA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.toapalelady",
+  "file": "t.toapalelady.png",
+  "dorso": "t.toapalelady_.png",
+  "en": "To a Pale Lady",
+  "it": "A una Dama Pallida",
+  "sigla": "AuDP",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.towardsafundamentalaesthetic",
+  "file": "t.towardsafundamentalaesthetic.png",
+  "dorso": "t.towardsafundamentalaesthetic_.png",
+  "en": "Towards a Fundamental Aesthetic",
+  "it": "Verso un’Estetica Fondamentale",
+  "sigla": "VuEF",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.towardsafundamentalaestheticsecondedition",
+  "file": "t.towardsafundamentalaestheticsecondedition.png",
+  "dorso": "t.towardsafundamentalaestheticsecondedition_.png",
+  "en": "Towards a Fundamental Aesthetic: Second Edition",
+  "it": "Verso un’Estetica Fondamentale: Seconda Edizione",
+  "sigla": "VuEFSE",
+  "testo": false,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.travellingatnightvol1",
+  "file": "t.travellingatnightvol1.png",
+  "dorso": "t.travellingatnightvol1_.png",
+  "en": "Travelling at Night, vol 1",
+  "it": "Viaggiare di Notte, I",
+  "sigla": "VdN·I",
+  "testo": true,
+  "stato": "tradotto",
+  "no_marcatore": [
+   ""
+  ]
+ },
+ {
+  "id": "t.travellingatnightvol2",
+  "file": "t.travellingatnightvol2.png",
+  "dorso": "t.travellingatnightvol2_.png",
+  "en": "Travelling at Night, vol 2",
+  "it": "Viaggiare di Notte, II",
+  "sigla": "VdN·II",
+  "testo": true,
+  "stato": "tradotto",
+  "no_marcatore": [
+   ""
+  ]
+ },
+ {
+  "id": "t.travellingatnightvol3",
+  "file": "t.travellingatnightvol3.png",
+  "dorso": "t.travellingatnightvol3_.png",
+  "en": "Travelling at Night, vol 3",
+  "it": "Viaggiare di Notte, III",
+  "sigla": "VdN·III",
+  "testo": true,
+  "stato": "tradotto",
+  "no_marcatore": [
+   ""
+  ]
+ },
+ {
+  "id": "t.twentysixenticementsseventorments",
+  "file": "t.twentysixenticementsseventorments.png",
+  "dorso": "t.twentysixenticementsseventorments_.png",
+  "en": "Twenty-Six Enticements, Seven Torments",
+  "it": "Ventisei Lusinghe, Sette Tormenti",
+  "sigla": "VLST",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.twowombsoneheart",
+  "file": "t.twowombsoneheart.png",
+  "dorso": "t.twowombsoneheart_.png",
+  "en": "Two Wombs, One Heart",
+  "it": "Due Grembi, Un Cuore",
+  "sigla": "DGuC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.udrocashaas",
+  "file": "t.udrocashaas.png",
+  "dorso": "t.udrocashaas_.png",
+  "en": "Ud Rocashaas",
+  "it": "Ud Rocashaas",
+  "sigla": "",
+  "testo": true,
+  "stato": "invariato"
+ },
+ {
+  "id": "t.unhatchedhymns",
+  "file": "t.unhatchedhymns.png",
+  "dorso": "t.unhatchedhymns_.png",
+  "en": "Unhatched Hymns",
+  "it": "Inni Non Dischiusi",
+  "sigla": "IND",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.velletriinterviews",
+  "file": "t.velletriinterviews.png",
+  "dorso": "t.velletriinterviews_.png",
+  "en": "Velletri Interviews",
+  "it": "Interviste di Velletri",
+  "sigla": "IdV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.vinzantsminglings",
+  "file": "t.vinzantsminglings.png",
+  "dorso": "t.vinzantsminglings_.png",
+  "en": "Vinzant's Minglings",
+  "it": "Le Mescolanze di Vinzant",
+  "sigla": "LMdV",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.wainscothistories",
+  "file": "t.wainscothistories.png",
+  "dorso": "t.wainscothistories_.png",
+  "en": "Wainscot Histories",
+  "it": "Storie del Wainscot",
+  "sigla": "SdW",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.warmingdraughtstouplifttheheart",
+  "file": "t.warmingdraughtstouplifttheheart.png",
+  "dorso": "t.warmingdraughtstouplifttheheart_.png",
+  "en": "Warming Draughts to Uplift the Heart",
+  "it": "Pozioni Calde per Sollevare il Cuore",
+  "sigla": "PCpSiC",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.whatdoesnotbark",
+  "file": "t.whatdoesnotbark.png",
+  "dorso": "t.whatdoesnotbark_.png",
+  "en": "What Does Not Bark",
+  "it": "Ciò Che Non Abbaia",
+  "sigla": "CcNA",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.wherehasshegone",
+  "file": "t.wherehasshegone.png",
+  "dorso": "t.wherehasshegone_.png",
+  "en": "Where Has She Gone?",
+  "it": "Dov’è Andata?",
+  "sigla": "DÈA?",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.whitejadetablet",
+  "file": "t.whitejadetablet.png",
+  "dorso": "t.whitejadetablet_.png",
+  "en": "White Jade Tablet",
+  "it": "Tavoletta di Giada Bianca",
+  "sigla": "TdGB",
+  "testo": true,
+  "stato": "tradotto"
+ },
+ {
+  "id": "t.xenodiceneodes",
+  "file": "t.xenodiceneodes.png",
+  "dorso": "t.xenodiceneodes_.png",
+  "en": "Xenodicene Odes",
+  "it": "Odi Xenodicene",
+  "sigla": "OX",
+  "testo": true,
+  "stato": "tradotto"
+ }
+]

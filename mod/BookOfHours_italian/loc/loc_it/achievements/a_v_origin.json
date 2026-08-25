@@ -1,0 +1,53 @@
+{
+ "achievements": [
+  {
+   "id": "A_CATEGORY_V_ORIGIN",
+   "label": "Origine Compiuta"
+  },
+  {
+   "id": "A_V_ORIGIN_SYMURGIST",
+   "label": "I Canti di Caer Adar",
+   "descriptionunlocked": "Ho origliato le Ore Aviformi e vivo ancora per cantarne i canti."
+  },
+  {
+   "id": "A_V_ORIGIN_MAGNATE",
+   "label": "Les Neiges D’Antan",
+   "descriptionunlocked": "Né stracci né ricchezze calmarono la mia anima. Ma finalmente trovai pace alla Hush House."
+  },
+  {
+   "id": "A_V_ORIGIN_REVOLUTIONARY",
+   "label": "Guardate le Mie Opere, Voi Potenti",
+   "descriptionunlocked": "Ho pronunciato il nome «Calyptra», e sono ancora qui. Ho vinto l’ultima rivoluzione, e sono libero."
+  },
+  {
+   "id": "A_V_ORIGIN_EXECUTIONER",
+   "label": "Scuse Accettate",
+   "descriptionunlocked": "Avevano mani, organi, dimensioni, sensi, affetti, passioni. Lo so adesso. Ho fatto, finalmente, ammenda."
+  },
+  {
+   "id": "A_V_ORIGIN_TWICEBORN",
+   "label": "Una Terza Via",
+   "descriptionunlocked": "Ho camminato sotto il Sole, e ho camminato dentro la carne. Finalmente ho trovato la mia casa definitiva."
+  },
+  {
+   "id": "A_V_ORIGIN_PRODIGAL",
+   "label": "Una Resa dei Conti Rimandata a Tempo Indefinito",
+   "descriptionunlocked": "Ero braccato. Avevo paura. Adesso però sono al sicuro, e pronto."
+  },
+  {
+   "id": "A_V_ORIGIN_CARTOGRAPHER",
+   "label": "Mappa dell’Impero",
+   "descriptionunlocked": "Ho sondato le profondità. Ho tracciato l’impossibile. Ho completato il mio capolavoro, e ho padroneggiato il Mansus stesso."
+  },
+  {
+   "id": "A_V_ORIGIN_ARTIST",
+   "label": "Perfettamente Mostruoso",
+   "descriptionunlocked": "Chi va sotto la superficie lo fa a proprio rischio. Chi legge il simbolo lo fa a proprio rischio. Io la superficie l’ho oltrepassata, il simbolo l’ho letto, e ho padroneggiato tutto."
+  },
+  {
+   "id": "A_V_ORIGIN_ARCHAEOLOGIST",
+   "label": "Nominare l’Ombra",
+   "descriptionunlocked": "Ho affrontato il mio Crimine e la Maledizione che ha liberato. Finalmente ho ritrovato la mia interezza."
+  }
+ ]
+}

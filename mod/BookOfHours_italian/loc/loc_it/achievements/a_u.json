@@ -1,0 +1,14 @@
+{
+ "achievements": [
+  {
+   "id": "A_U_WINTER",
+   "label": "Una Conoscenza nell’Aspetto delle Cose",
+   "descriptionunlocked": "Ho seguito le orme di Solomon Husher."
+  },
+  {
+   "id": "A_U_EVENING",
+   "label": "Cade la Sera",
+   "descriptionunlocked": "Ho vissuto i miei giorni tranquillamente, come Archivista della Hush House; ed ero felice."
+  }
+ ]
+}

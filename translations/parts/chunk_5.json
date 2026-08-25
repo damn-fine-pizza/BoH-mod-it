@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "Another Horizon",
+  "dove": "elements/n.horizon.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Apollo and Marsyas",
+  "dove": "elements/n.apollo.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Apollo and Marsyas: A Darkened Stage",
+  "dove": "elements/n.apollo.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur imprisoned the labhite Abecassis - but he is safe from Echidna's vengeance.",
+  "dove": "elements/n.skin.captured.arthur.safe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur's Punishment",
+  "dove": "elements/n.skin.captured.punished.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita Bukhara has learnt the secret of the 'Wangle', the feit by which mortals might win extra years of life despite the Madrugad's limits. She expects to profit greatly from it.",
+  "dove": "elements/n.debt.profit.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita slew the labhite Abecassis - but she is safe from Echidna's vengeance.",
+  "dove": "elements/n.skin.slain.azita.safe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita's Duty",
+  "dove": "elements/n.skin.slain.azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita's Punishment",
+  "dove": "elements/n.skin.slain.azita.punished.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Elie - former Obliviate, former Sisterhood Matriarch, and a Nectar-long throughout - is behind the cult called the Ivory Dawn. She intends to render Yvette Southey to Ys. She insists this will serve the so-called 'Bird' cause - the cause of stability.",
+  "dove": "elements/n.mystique.revealed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Elie has taken Yvette to Ys, to aid their schemes. If she was right, their schemes might include the protection of Brancrug, though not the wider continent.",
+  "dove": "elements/n.mystique.helped.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Elie's schemes are finished. Perhaps she is too. But she's always been a survivor.",
+  "dove": "elements/n.mystique.thwarted.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima slew the labhite Abecassis - but she is safe from Echidna's vengeance.",
+  "dove": "elements/n.skin.slain.chaima.safe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima's Mercy",
+  "dove": "elements/n.skin.slain.chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima's Punishment",
+  "dove": "elements/n.skin.slain.chaima.punished.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar and the Horizon",
+  "dove": "elements/n.horizon.met.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar has met with the emissary of Ys. Perhaps, some day, she'll satisfy her ambition to visit the place…",
+  "dove": "elements/n.horizon.met.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar's Secret Exposed",
+  "dove": "elements/n.heist.exposed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar's Secret Kept",
+  "dove": "elements/n.heist.concealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Deep Roots",
+  "dove": "elements/n.tapestry.connie.reaffirmed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Did anyone actually benefit from following an oracle's advice? We're probably better off without.",
+  "dove": "elements/n.rising.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Echidna will become Yvette's keeper. Rowena is no longer a problem for Yvette; Ys may be a problem for everyone else.",
+  "dove": "elements/n.rising.accepted.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Echidna will not become Yvette's keeper. Rowena is now Yvette's problem.",
+  "dove": "elements/n.rising.defied.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan's patient went West, and returned. He has brought an 'offering' back to pour out before the shrine of St Tentreto in Brancrug…",
+  "dove": "elements/n.claw.patient.unquelled.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Elie and Ys",
+  "dove": "elements/n.mystique.revealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Elie's End",
+  "dove": "elements/n.mystique.thwarted.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Elodie the soprano has begun a path which might end with her entry to the Mansus as a duendrazon.",
+  "dove": "elements/n.apollo.duendrazon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Elodie the soprano has begun a path which might end with the emergence of her winged inner self.",
+  "dove": "elements/n.apollo.glaeterfleoge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Every production of 'Apollo and Marsyas' brings something uncanny in its wake. What is it this time?",
+  "dove": "elements/n.apollo.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Eyeless among Fires",
+  "dove": "elements/n.eye.betray.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Eyeless and Loyal",
+  "dove": "elements/n.eye.loyal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Eyeless and Unfettered",
+  "dove": "elements/n.eye.independent.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Eyeless in Messana",
+  "dove": "elements/n.eye.revealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gladwyn's Silence",
+  "dove": "elements/n.tapestry.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Has anything more happened at the health camp in the Black Forest that called itself the 'Lyterion'?",
+  "dove": "elements/n.wood.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hobson has entered the Rowenarium and will not be seen again. The Rowenarium has found its next phase.",
+  "dove": "elements/n.guest.upgraded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hobson's Choice",
+  "dove": "elements/n.guest.hobson.label",
+  "ricorre": 1
+ },
+ {
+  "en": "How's it going with the 'malignities' from the Grunewald business?",
+  "dove": "elements/n.grunewald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hush House will have nothing to do with Spencer Hobson. 'An inhabitation of Worms' is too unpleasant an idea to take any kind of risk.",
+  "dove": "elements/n.guest.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Is an emissary of Ys really abroad in the Bounds?",
+  "dove": "elements/n.horizon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Is the Open Reverend 'blessed' by a Knock-power identified as St Agnes? Or something else?",
+  "dove": "elements/n.reverend.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Less of the Guest",
+  "dove": "elements/n.guest.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte had been 'exalting' willing humans with the implantation of the larval Blomberende-kind. Now that Kitling Ripe's attention has been drawn to these tasty hybrid treats, the scheme is doomed.",
+  "dove": "elements/n.wood.prevented.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte had been 'exalting' willing humans with the implantation of the larval Blomberende-kind. The authorities' investigation of her health camp had forced her to close, but with Father Stanislav's help - and perhaps that of Hush House - the scheme will continue.",
+  "dove": "elements/n.wood.assisted.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte had been 'exalting' willing humans with the implantation of the larval Blomberende-kind. The authorities' investigation of her health camp had forced her to close, but with Father Stanislav's help, the scheme will continue. For now, it remains in hibernation at Hush House.",
+  "dove": "elements/n.wood.assisted.complete.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte had been 'exalting' willing humans with the implantation of the larval Blomberende-kind. The authorities' investigation of her health camp had forced her to close. With Father Stanislav's help the scheme might continue, but Hush House will not host it.",
+  "dove": "elements/n.wood.assisted.refused.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte had been 'exalting' willing humans with the implantation of the larval Blomberende-kind. The authorities' investigation of her health camp has forced her to close, but she may continue somewhere else…",
+  "dove": "elements/n.wood.discouraged.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte has been 'exalting' willing humans with the implantation of the larval Blomberende-kind at the Lyterion. Is that bad?",
+  "dove": "elements/n.wood.investigated.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lost Horizon",
+  "dove": "elements/n.horizon.deported.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lt Moore has made Abecassis, the altered labhite, a prisoner of the Labyrinth. Abecassis had been suckling from Echidna, the Mother of Monsters - and Echidna has been angered by his capture.",
+  "dove": "elements/n.skin.captured.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lucia the Eyeless might work to free poor Ghirbi - even if that tests her loyalties to the Meniscate.",
+  "dove": "elements/n.eye.independent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lucia the Eyeless will parley with the Chandler. Perhaps she'll alter her loyalties; perhaps the Chandler will free poor Ghirbi. There will be changes. But surely the Chancel will not be compromised?",
+  "dove": "elements/n.eye.betray.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lucia the Eyeless will remain a loyal Name of the Meniscate, despite her disquiet over the treatment of her fellow name, Ghirbi.",
+  "dove": "elements/n.eye.loyal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lucia the Eyeless, name of the Meniscate, has taken to gifting mortals with sight - even though that may not be the wish of the Meniscate.",
+  "dove": "elements/n.eye.revealed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa has abandoned her Stonely past, and become something more human - or something more mortal? That remains to be seen.",
+  "dove": "elements/n.absent.sevencoils.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa has acknowledged her nature, and rejoined the Carapace Cross.",
+  "dove": "elements/n.absent.cross.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa has changed; she has set aside the stone of her long sin; she has entered History.",
+  "dove": "elements/n.absent.eternity.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa haunts the days, desperate for difference. What, then, is the answer to her riddle? How will she change? Sometimes, other notables besides the Librarian make determinations of their own…",
+  "dove": "elements/n.absent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa passes from the world. There will be only six Ligeians… for a time.",
+  "dove": "elements/n.absent.medusasdeath.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Medusa's nature will become transparent for those with eyes to see. Perhaps, at last, she will be safe to look upon.",
+  "dove": "elements/n.absent.light.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "No news is good news. The matter is at an end as far as we're concerned.",
+  "dove": "elements/n.grunewald.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Safety for Arthur",
+  "dove": "elements/n.skin.captured.arthur.safe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Safety for Azita",
+  "dove": "elements/n.skin.slain.azita.safe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Safety for Chaima",
+  "dove": "elements/n.skin.slain.chaima.safe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone unwisely attempted a performance of the Moth-haunted 'Invisible Opera' in Venice. What happened?",
+  "dove": "elements/n.invisible.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer Hobson is due to arrive in Brancrug at Numa.",
+  "dove": "elements/n.guest.hobson.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The 'refugee' from the Grunewald Permanent Circus has been destroyed in the crucible at Hush House. It's probably for the best.",
+  "dove": "elements/n.grunewald.crucible.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The 'refugee' from the Grunewald Permanent Circus has has been assimilated into the chrysalis in the old prison. Good?",
+  "dove": "elements/n.grunewald.chrysalis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Absent Friend",
+  "dove": "elements/n.absent.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Agdistiad",
+  "dove": "elements/n.claw.agdistis.west.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Buried Saint",
+  "dove": "elements/n.saint.buried.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Burned Saint",
+  "dove": "elements/n.saint.burnt.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Casket Cracked",
+  "dove": "elements/n.casket.cracked.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Casket Opened",
+  "dove": "elements/n.casket.open.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Casket Sealed",
+  "dove": "elements/n.casket.sealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ceaseless Woman",
+  "dove": "elements/n.apollo.duendrazon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Church of the Redder Sun",
+  "dove": "elements/n.saint.redder.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Claw and the Clouds",
+  "dove": "elements/n.claw.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Clouds at Sunset",
+  "dove": "elements/n.claw.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Cross Afire",
+  "dove": "elements/n.saint.extirpated.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Dappled Rose",
+  "dove": "elements/n.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Debt Forgiven?",
+  "dove": "elements/n.debt.continue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Dreams Diverted",
+  "dove": "elements/n.saint.dreams.diverted.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Drowned Saint",
+  "dove": "elements/n.saint.drowned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Egg of the Dune",
+  "dove": "elements/n.rose.revealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The End of the Guest",
+  "dove": "elements/n.guest.closed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Endeavour-name Fissifer has been protected. The Royal Endeavour proceeds on schedule.",
+  "dove": "elements/n.endeavour.protected.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Endeavour-name Fissifer is badly wounded - and a fragment of him has been passed to a Continental power.",
+  "dove": "elements/n.endeavour.sabotaged.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Endeavour-name Fissifer is badly wounded - and the nature of the New King's project has been laid bare for those with eyes to see.",
+  "dove": "elements/n.endeavour.revealed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Endless Guest",
+  "dove": "elements/n.guest.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Forgivable Debt",
+  "dove": "elements/n.debt.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Forgotten Saint",
+  "dove": "elements/n.saint.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Friar's Tapestry",
+  "dove": "elements/n.tapestry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Glory-Winged Woman",
+  "dove": "elements/n.apollo.glaeterfleoge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The God <i>in pectore</i>",
+  "dove": "elements/n.wood.assisted.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The God Abolished",
+  "dove": "elements/n.wood.prevented.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The God Awakened",
+  "dove": "elements/n.wood.investigated.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The God Discouraged",
+  "dove": "elements/n.wood.discouraged.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The God in Exile",
+  "dove": "elements/n.wood.assisted.refused.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The God in the Hive",
+  "dove": "elements/n.wood.assisted.complete.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The God in the Wood",
+  "dove": "elements/n.wood.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grunewald Conclusion",
+  "dove": "elements/n.grunewald.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grunewald Eradication",
+  "dove": "elements/n.grunewald.crucible.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grunewald Provision",
+  "dove": "elements/n.grunewald.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grunewald Rebirth",
+  "dove": "elements/n.grunewald.chrysalis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Grunewald Remnant",
+  "dove": "elements/n.grunewald.wisp.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Guest's gift.",
+  "dove": "elements/n.guest.upgraded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Haustorium has entered into a formal arrangement with the Suppression Bureau. Connie Lee, although profoundly unhappy with the arrangement, has made her peace with it and continues to serve at the Bureau.",
+  "dove": "elements/n.tapestry.connie.reaffirmed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Haustorium has entered into a formal arrangement with the Suppression Bureau. Connie Lee, profoundly unhappy with the arrangement, did her best to expose it, and then fled to find a new life.",
+  "dove": "elements/n.tapestry.connie.disillusioned.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ineffable Mystique",
+  "dove": "elements/n.mystique.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Insinuating Filaments",
+  "dove": "elements/n.tapestry.investigated.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Invisible Opera",
+  "dove": "elements/n.invisible.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Labyrinth's Prisoner",
+  "dove": "elements/n.skin.captured.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Lark Abandoned",
+  "dove": "elements/n.lark.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Lark Retained",
+  "dove": "elements/n.lark.kept.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Lark Returned",
+  "dove": "elements/n.lark.returned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Lark Revealed",
+  "dove": "elements/n.lark.revealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Lark Secured",
+  "dove": "elements/n.lark.kept.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian agreed to pour out the 'offering' before the shrine of St Tentreto. Agdistis was grateful; but clearly disquieted, uncertain of what might come.",
+  "dove": "elements/n.claw.agdistis.upgraded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian agreed to pour out the 'offering' before the shrine of St Tentreto. Ehsan's patient still dreams of the shapes in the clouds of the West…",
+  "dove": "elements/n.claw.patient.upgraded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian declined to pour out the 'offering' before the shrine of St Tentreto. Agdistis seems content with that; perhaps even relieved.",
+  "dove": "elements/n.claw.agdistis.quelled.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian declined to pour out the 'offering' before the shrine of St Tentreto. Apparently as a result, Ehsan's patient has finally found peace.",
+  "dove": "elements/n.claw.patient.quelled.finally.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian rarely intervenes in the matters of the wider world, but now and then it is necessary. Echidna has taken her vengeance upon Arthur, for Arthur's imprisonment of the labhite Abecassis. Arthur is gone, but Echidna can be summoned to lend her services to the Lighthouse Institute.",
+  "dove": "elements/n.skin.captured.punished.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian rarely intervenes in the matters of the wider world, but now and then it is necessary. Echidna has taken her vengeance upon Azita, for Azita's slaying of the labhite Abecassis. Azita is gone, but Echidna can be summoned to lend her services to the Lighthouse Institute.",
+  "dove": "elements/n.skin.slain.azita.punished.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian rarely intervenes in the matters of the wider world, but now and then it is necessary. Echidna has taken her vengeance upon Chaima, for Chaima's slaying of the labhite Abecassis. Chaima is gone, but Echidna can be summoned to lend her services to the Lighthouse Institute.",
+  "dove": "elements/n.skin.slain.chaima.punished.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Légion du Seuil has crushed the Zurvanist splinter-sect that  was causing so much trouble. Order has been restored to the Bounds… and the Zurvanists remain faithful to the Lionsmith-Name that they follow.",
+  "dove": "elements/n.revolution.crushed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Légion du Seuil has retreated from a new little Threshold in the Bounds carved out by a Zurvanist splinter-sect. The Name called the 'Fourfold Lion' has his own domain now - it's not clear whether he remains faithful to the Lionsmith.",
+  "dove": "elements/n.revolution.ascendant.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Légion du Seuil is restoring order to the Bounds. The rebel Zurvanist splinter-sect that follows the 'Fourfold Lion' has grown desperate.",
+  "dove": "elements/n.revolution.failing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Messenger Below",
+  "dove": "elements/n.casket.columba.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Messenger at Large",
+  "dove": "elements/n.casket.freed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Messenger is free of his casket. His image is seen in photographs, in paintings, even in mirrors now - and in a depiction that was committed to my care.",
+  "dove": "elements/n.casket.open.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Messenger's Casket",
+  "dove": "elements/n.casket.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Messenger's Casket: Firmly Sealed",
+  "dove": "elements/n.casket.firmlysealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Moth and two other unnamed Hours have challenged Calyptra in Venice… but their sleep-flowers have withered.",
+  "dove": "elements/n.invisible.secrecy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Open Reverend",
+  "dove": "elements/n.reverend.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Open Reverend has been permanently settled, and the Excellency Gnathobasis has been denied an entry-point to the Wake.",
+  "dove": "elements/n.reverend.closed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Open Reverend has not been 'blessed' by any servant of the Mother of Ants or the Horned-Axe. What then has changed him? Douglas and Ehsan are both investigating.",
+  "dove": "elements/n.reverend.success.one.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Open Reverend is becoming a 'strand' of the Excellency Gnathobasis, a Name of one of the gods-from-Nowhere. The Suppression Bureau must intervene.",
+  "dove": "elements/n.reverend.success.two.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Open Reverend is no business of the House. Some things are better left alone.",
+  "dove": "elements/n.reverend.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Open Reverend: Glimmering",
+  "dove": "elements/n.reverend.success.one.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Open Reverend: Revelation",
+  "dove": "elements/n.reverend.success.two.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oracle Defied",
+  "dove": "elements/n.rising.defied.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oracle Fulfilled",
+  "dove": "elements/n.rising.accepted.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oracle of the Pale Mother",
+  "dove": "elements/n.rising.heard.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oracle of the Pale Mother, Interpreted",
+  "dove": "elements/n.rising.interpreted.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oracle of the Rising While seems to deliver true prophecies. Is it wise to heed them?",
+  "dove": "elements/n.rising.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oriflamme Heist",
+  "dove": "elements/n.heist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oriflamme Heist, Concluded",
+  "dove": "elements/n.heist.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Oriflamme Heist, Investigated",
+  "dove": "elements/n.heist.investigated.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Other Horizon",
+  "dove": "elements/n.horizon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Particular Mystique",
+  "dove": "elements/n.mystique.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Reckoners of Kaunas still prosecute their underworld war against each other. The cause - and this is an increasingly badly kept secret - is that the balance of power has been upset… by a way to cheat additional years from the Hour named Madrugad.",
+  "dove": "elements/n.debt.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Reverend's End",
+  "dove": "elements/n.reverend.closed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Rising While",
+  "dove": "elements/n.rising.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Rose Concluded",
+  "dove": "elements/n.rose.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Royal Endeavour",
+  "dove": "elements/n.endeavour.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Royal Endeavour, Concluded",
+  "dove": "elements/n.endeavour.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Royal Endeavour, Protected",
+  "dove": "elements/n.endeavour.protected.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Royal Endeavour, Revealed",
+  "dove": "elements/n.endeavour.revealed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Royal Endeavour: Sabotaged!",
+  "dove": "elements/n.endeavour.sabotaged.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sandalwood Saint",
+  "dove": "elements/n.saint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sleeping God",
+  "dove": "elements/n.wood.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Suppression Bureau has closed the loophole through which mortals could win extra years of life despite the Madrugad's limits. A little more death; a lot more stability.",
+  "dove": "elements/n.debt.cease.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Unfettered Eye",
+  "dove": "elements/n.eye.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Unfinished Lark",
+  "dove": "elements/n.lark.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Vagabond, along with two other Hours, proposes to challenge Calyptra with a flower that is neither black nor white. She has called on an old alliance: perhaps the Carapace Cross will tend a garden of those flowers in the fallen city of Miah.",
+  "dove": "elements/n.rose.garden.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Vagabond, along with two other Hours, proposes to challenge Calyptra with a flower that is neither black nor white. She hoped the Carapace Cross would tend a garden of those flowers in the fallen city of Miah: but they prefer to dwell there in peace, without risking Calyptra's anger.",
+  "dove": "elements/n.rose.haven.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Vagabond, along with two other Hours, proposes to challenge Calyptra with a flower that is neither black nor white. To that end, she has called on an old alliance with the Carapace Cross…",
+  "dove": "elements/n.rose.revealed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wangle Undone",
+  "dove": "elements/n.debt.cease.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wangle of the Crowd",
+  "dove": "elements/n.debt.democratise.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Zurvanist splinter-sect that follows the 'Fourfold Lion' has grown stronger. It may carve out its own little Threshold in the Bounds near Meshad.",
+  "dove": "elements/n.revolution.surging.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Zurvanist splinter-sect that was causing trouble in the Bounds has abruptly abandoned its oneirosecessionist ambitions… because, it seems, of the promises made to the 'Fourfold Lion' by emissaries of the Chandler.",
+  "dove": "elements/n.revolution.chandler.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Zurvanist splinter-sect that was causing trouble in the Bounds has peacefully abandoned its oneirosecessionist ambitions… apparently because the Name called the 'Fourfold Lion' has renewed his devotion to the Lionsmith.",
+  "dove": "elements/n.revolution.lionsmith.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The altered labhite Abecassis is free in the world, for good or for ill.",
+  "dove": "elements/n.skin.free.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The business at Gladwyn Lake was the work of the Haustorium - a noble institution that 'preserves what would not otherwise be preserved', or a 'creepy pack of Peruvian fungus-wizards', depending on preference. Intentionally or not, this has brought the Haustorium and the Suppression Bureau into a new alliance, to the great unhappiness of Connie Lee.",
+  "dove": "elements/n.tapestry.investigated.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The business in Venice was the beginning of a serious disagreement between Madrugad and Moth - and their respective allies. This could be the beginning of something cataclysmic.",
+  "dove": "elements/n.invisible.corrivality.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The democratisation of the Wangle has made it possible to loosen Calyptra's grip. This could end very messily.",
+  "dove": "elements/n.invisible.alteration.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The dreams that the wooden saint brings continue to propagate; but the dreamers now wake cheerful and refreshed.",
+  "dove": "elements/n.saint.dreams.accepted.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The dreams that the wooden saint brings have been pent safely in the Mansus.",
+  "dove": "elements/n.saint.dreams.diverted.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The labhite Abecassis is dead, slain by Azita in service to the Colonel. Abecassis had been suckling from Echidna, the Mother of Monsters - and Echidna isn't impressed by Azita's intervention.",
+  "dove": "elements/n.skin.slain.azita.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The labhite Abecassis is dead, slain by Chaima as an act of grim mercy. Abecassis had been suckling from Echidna, the Mother of Monsters - and Echidna isn't impressed by Chaima's intervention.",
+  "dove": "elements/n.skin.slain.chaima.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The labhite Abecassis is seen no more. Most likely he's joined Echidna's retinue. Zachary remains.",
+  "dove": "elements/n.skin.free.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The miraculous wooden image in the Strasbourg church was buried in the earth.",
+  "dove": "elements/n.saint.buried.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The miraculous wooden image in the Strasbourg church was burned in a fire.",
+  "dove": "elements/n.saint.burnt.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The miraculous wooden image in the Strasbourg church was drowned in the river.",
+  "dove": "elements/n.saint.drowned.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The miraculous wooden saint-image may well still retain all its miraculous properties, but we're finished with it.",
+  "dove": "elements/n.saint.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The performance of the 'Invisible Opera' in Venice ended prematurely with a fire backstage and a murder in the ticket office. This is is the sort of thing that usually happens. But this time, also, a handful of audience members  are haunted now by dreams of black-and-white flowers - whose perfume follows them into the waking world...",
+  "dove": "elements/n.invisible.failed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The performance of the 'Invisible Opera' in Venice was successfully completed, with no known fatalities: a historical first. Even the notices were not uniformly terrible, despite the lighting difficulties that plunged the third act into darkness. But a handful of audience members are haunted now by dreams of black-and-white flowers - whose perfume follows them into the waking world...",
+  "dove": "elements/n.invisible.salvaged.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The perpetrator of the Oriflamme Heist was Dagmar von Nagelsburg. I could inform on her to Oriflamme's, probably for a reward. I could promise her my silence, winning her loyalty to the Institute. Or I could forget the matter.",
+  "dove": "elements/n.heist.investigated.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The perpetrator of the Oriflamme Heist was Dagmar von Nagelsburg… and now that Oriflamme's knows that, she'll be in trouble.",
+  "dove": "elements/n.heist.exposed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The perpetrator of the Oriflamme Heist was Dagmar von Nagelsburg… but her secret is safe.",
+  "dove": "elements/n.heist.concealed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The prowling emissary of Ys was returned to his home beyond the wave.",
+  "dove": "elements/n.horizon.deported.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The seals on the Messenger's casket are cracking, and though he is not yet free, he is now sometimes seen in the world of images - unexpectedly in the background of photographs, flame-wreathed in dangerously inspired paintings.",
+  "dove": "elements/n.casket.cracked.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The seals on the Messenger's casket are renewed. His image has vanished from the photographs where he was seen. Only one depiction remained, and that was committed to my care.",
+  "dove": "elements/n.casket.sealed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The solemnly named 'Wangle', by which mortals might win extra years of life despite the Madrugad's limits, has been quietly reproduced, and the technique promulgated underground by Arun Peel and his co-conspirators. This will be a source of quiet chaos.",
+  "dove": "elements/n.debt.democratise.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The travelling-kinds of the Carapace Cross have alighted on the isles of the west. How have they changed those who were drawn to them?",
+  "dove": "elements/n.claw.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The wooden saint is forgotten, and its inheritance will likely join it in the flames.",
+  "dove": "elements/n.saint.extirpated.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There has been a curious fad for new religious organisations recently… including an odd outfit that calls itself the Ivory Dawn.",
+  "dove": "elements/n.mystique.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This oracle was meant for Connie Lee - but Connie, disillusioned by the Affair of the Friar's Tapestry, has left the Bureau.",
+  "dove": "elements/n.rising.connie.disillusioned.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Threshold Revolution",
+  "dove": "elements/n.revolution.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Threshold Revolution: Ascendant",
+  "dove": "elements/n.revolution.ascendant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Threshold Revolution: Crushed",
+  "dove": "elements/n.revolution.crushed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Threshold Revolution: Failing",
+  "dove": "elements/n.revolution.failing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Threshold Revolution: For the Chandler",
+  "dove": "elements/n.revolution.chandler.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Threshold Revolution: For the Lionsmith",
+  "dove": "elements/n.revolution.lionsmith.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Threshold Revolution: Surging",
+  "dove": "elements/n.revolution.surging.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Up by the Roots",
+  "dove": "elements/n.tapestry.connie.disillusioned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "We found nothing of interest in the opera's aftermath.",
+  "dove": "elements/n.apollo.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "We'll never know themeaning of the black-and-white flower that grew in the deep desert. Perhaps that's for the best.",
+  "dove": "elements/n.rose.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "We'll never know what Zuthi learnt or intended.",
+  "dove": "elements/n.lark.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Western Request",
+  "dove": "elements/n.claw.patient.unquelled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What Oracle?",
+  "dove": "elements/n.rising.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What Reverend?",
+  "dove": "elements/n.reverend.concluded.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What actually happened at Oriflamme's? A heist? A forgery? A fraud? Nothing at all?",
+  "dove": "elements/n.heist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What actually happened at Oriflamme's? We'll never know.",
+  "dove": "elements/n.heist.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened to Abecassis the Labhite?",
+  "dove": "elements/n.skin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened to Spencer Hobson, the Bureau employee who regarded his 'inhabitation of Worms' as a guest?",
+  "dove": "elements/n.guest.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened to the miraculous wooden image in the Strasbourg church?",
+  "dove": "elements/n.saint.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened up at Gladwyn Lake?",
+  "dove": "elements/n.tapestry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened with the Messenger's Casket in the hills above Cluj?",
+  "dove": "elements/n.casket.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened with the rebellion in the Bounds? Did our visitors help the Légion du Seuil suppress it? Or did we leave the rebels - the Zurvanist splinter-sect that follows the 'Fourfold Lion' - to grow stronger?",
+  "dove": "elements/n.revolution.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Lost: 'Eternity'",
+  "dove": "elements/n.absent.eternity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Lost: 'Light'",
+  "dove": "elements/n.absent.light.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Lost: 'Medusa's Death'",
+  "dove": "elements/n.absent.medusasdeath.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Lost: 'Seven-Coils'",
+  "dove": "elements/n.absent.sevencoils.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Lost: 'The Cross'",
+  "dove": "elements/n.absent.cross.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What is behind the manifestations in Messana?",
+  "dove": "elements/n.eye.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What lies at the heart of the New King's great project?",
+  "dove": "elements/n.endeavour.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What secrets enabled Zuthi Zidane's masterwork?",
+  "dove": "elements/n.lark.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What was the meaning of the black-and-white flower that grew in the deep desert?",
+  "dove": "elements/n.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever happened in Venice will remain in Venice.",
+  "dove": "elements/n.invisible.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever happened with the prowling emissary of Ys is best forgotten.",
+  "dove": "elements/n.horizon.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever has happened in the isles of the west is finished now.",
+  "dove": "elements/n.claw.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever mysteries could be found in the Friar's Tapestry are abandoned to the depths of Gladwyn Lake.",
+  "dove": "elements/n.tapestry.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever the New King is up to, we have no further interest in it.",
+  "dove": "elements/n.endeavour.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever the Reckoners of Kaunas did or knew, we've turned our faces from it.",
+  "dove": "elements/n.debt.continue.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever was behind the growth in religious organisations, it's no longer our business.",
+  "dove": "elements/n.mystique.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whatever was happening in the Black Forest, remains in the Black Forest.",
+  "dove": "elements/n.wood.concluded.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Whose Oracle?",
+  "dove": "elements/n.rising.connie.disillusioned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Yvette in Ys",
+  "dove": "elements/n.mystique.helped.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary learnt lessons of change from the business with Abecassis - and now he is gone into the sky with the travelling-kinds of the Cross. He has, perhaps, been saved from something much worse.",
+  "dove": "elements/n.skin.free.byezack.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary, Adieu",
+  "dove": "elements/n.skin.free.byezack.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Zuthi had been stealing secrets from the trove of Crooky, Name of the Beach-Crow. Morgen has these secrets now.",
+  "dove": "elements/n.lark.kept.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zuthi had been stealing secrets from the trove of Crooky, Name of the Beach-Crow. Serena - or perhaps the St Rhonwen Trust - has these secrets now.",
+  "dove": "elements/n.lark.kept.serena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zuthi had been stealing secrets from the trove of Crooky, Name of the Beach-Crow. These secrets have been shared with the winds - despite the risk of war among the Hours.",
+  "dove": "elements/n.lark.revealed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zuthi had been stealing secrets from the trove of Crooky, Name of the Beach-Crow. These secrets might have meant war among the Hours… and so they will be returned safely to Crooky.",
+  "dove": "elements/n.lark.returned.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Lively Salon",
+  "dove": "elements/salon.past.lively.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Quiet Salon",
+  "dove": "elements/salon.past.quiet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Sombre Salon",
+  "dove": "elements/salon.past.sombre.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil will attend the next Salon in his cleanest clothes. [Denzil knows more oddities than the average country blacksmith, but being both more taciturn and less erudite than some other visitors, may be slightly less productive of Lessons.]",
+  "dove": "elements/visiting.denzil.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil: Visiting",
+  "dove": "elements/visiting.denzil.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy will attend the next Salon with a freshly starched clerical collar.",
+  "dove": "elements/visiting.timothy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy: Visiting",
+  "dove": "elements/visiting.timothy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Salon: Time Remaining",
+  "dove": "elements/salon.time.remaining.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Killes will attend the next Salon in their Sunday best. [The Killes are pleasant company, but are not as erudite as some other visitors, and may be slightly less productive of Lessons. This card will remain available until the Killes have attended a Salon.]",
+  "dove": "elements/visiting.killes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Killes: Visiting",
+  "dove": "elements/visiting.killes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "You held a lively Salon. [This is a marker to remind you that you can't hold another Salon until next Season.]",
+  "dove": "elements/salon.past.lively.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "You held a quiet Salon - perhaps there weren't very many guests, or they didn't have much to say. [This is a marker to remind you that you can't hold another Salon until next Season.]",
+  "dove": "elements/salon.past.quiet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "You held a sombre Salon where no-one had much to say about anything. [This is a marker to remind you that you can't hold another Salon until next Season.]",
+  "dove": "elements/salon.past.sombre.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Your guests will remain until this is gone.]",
+  "dove": "elements/salon.time.remaining.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "...",
+  "dove": "elements/slnstg.agdistis.connie.label",
+  "ricorre": 33
+ },
+ {
+  "en": "After a conversation with Arthur, Fraser was tempted to visit the Althiban Abyss. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.fraser.arthur.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun notably annoyed Connie. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.arun.connie.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun shared details of a Long-in-the-making with Douglas. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.douglas.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita wanted an introduction to Coquille's friend Giorgiou. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.azita.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima inspired in Agdistis an enthusiasm for the dances of her homeland. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.chaima.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie aroused Stanislav's interest in the 'Spinnennebel'. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.connie.stanislav.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie hoped to provide talismanic jewels for the Bureau with Azita's assistance. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.azita.connie.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie interrogated Corso about a vanished book. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.connie.corso.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie mentioned Ouranoscopy in a way that might encourage Agdistis to follow up... [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.agdistis.connie.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille asked incautious questions of Douglas. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.douglas.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso and Arthur agreed to correspond in Ericapaean. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.arthur.corso.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso has evinced an interest - sincere or not - in Mr Kille's poetry. [These two might say more if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.visiting.killes.corso.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar asked Chaima for advice on a visit to the Mazabite Pentapolis. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.dagmar.chaima.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar wanted to introduce Coquille to a friend. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.coquille.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil and Arun enjoyed an unusually heated conversation. [These two might have more to say if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.visiting.denzil.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil and al-Adim shared a brisk interest in farriery.[These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.visiting.denzil.aladim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas and Arthur realised that they were family. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.douglas.arthur.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas and Hokobald found common ground in their dislike of the Endeavour Club. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.douglas.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser asked Arun for help with the changes he's undergoing. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.fraser.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser commissioned Dagmar to inspect his security arrangements. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.fraser.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser hoped to commission Agdistis as a choreographer. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.agdistis.fraser.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald and Azita arm-wrestled. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.hokobald.azita.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald and Morgen exchanged jewels. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.hokobald.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald lectured Arthur on the War of the Roads. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.arthur.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen demonstrated an unusual interest in Yvette. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.morgen.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille and Olympe have discovered a shared interest in the works of Noël Coward. [These two might have more to say to each other if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.visiting.killes.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille addressed Morgen as 'Chaculette'; Morgen responded as if she understood the term. [These two might say more if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.visiting.killes.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy hopes never to find himself in the same room as Mlle Matutine, ever again.",
+  "dove": "elements/slnstg.visiting.timothy.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy was excited to find himself at a Salon with the author of 'The Radical Measure'. [Timothy and Arun might have more to say to each other if you invite them both back for another Salon.].",
+  "dove": "elements/slnstg.visiting.timothy.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Stanislav aroused Douglas' interest in the long-ago death of Abbess Nonna. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.douglas.stanislav.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary asked Connie for help. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.connie.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary asked Corso for a prayer in Hyksos. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.corso.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary sought help from Morgen. [These two might say something else on the matter if you invite them both back for another Salon.]",
+  "dove": "elements/slnstg.zachary.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A suitable location for Elevenses or Afternoon Tea.",
+  "dove": "elements/venue.informal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A suitable location for Lunch or Supper.",
+  "dove": "elements/venue.formal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A suitable location for a Picnic.",
+  "dove": "elements/venue.picnicking.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis enjoys Chaima's company.",
+  "dove": "elements/agdistis.likes.chaima.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim has invited Connie to dine with him in private.",
+  "dove": "elements/aladim.likes.connie.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur is fond of his newly-acquainted great-nephew, Douglas.",
+  "dove": "elements/arthur.likes.douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur is keeping an eye on Coquille.",
+  "dove": "elements/arthur.mistrusts.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun has developed a cautious familial affection for Coquille.",
+  "dove": "elements/arun.likes.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun is rumoured to have gone home with Denzil after a salon at Hush House.",
+  "dove": "elements/arun.likes.denzil.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun is rumoured to have taken Yvette home after a salon at Hush House.",
+  "dove": "elements/arun.likes.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima has developed an odd attachment to Zachary.",
+  "dove": "elements/chaima.likes.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima has grown to like Agdistis.",
+  "dove": "elements/chaima.likes.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie has accepted an invitation from Al-Adim to dine with him privately.",
+  "dove": "elements/connie.likes.aladim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille has a mischievous enthusiasm for Douglas.",
+  "dove": "elements/coquille.likes.douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille has developed a wary familial affection for Arun.",
+  "dove": "elements/coquille.likes.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille is rather enjoying her enmity with Arthur.",
+  "dove": "elements/coquille.mistrusts.arthur.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas has a grudging respect for Hokobald.",
+  "dove": "elements/douglas.likes.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas has a sneaking fondness for Coquille, which he will certainly put aside if he ever has to arrest her.",
+  "dove": "elements/douglas.likes.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas is fond of his newly discovered great-uncle, Arthur.",
+  "dove": "elements/douglas.likes.arthur.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Formal Venue",
+  "dove": "elements/venue.formal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald has develped a condescending sort of liking for Douglas.",
+  "dove": "elements/hokobald.likes.douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Informal Venue",
+  "dove": "elements/venue.informal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen has a passing fondness - perhaps even a soft spot - for Zachary.",
+  "dove": "elements/morgen.likes.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Picknicking Venue",
+  "dove": "elements/venue.picnicking.label",
+  "ricorre": 1
+ },
+ {
+  "en": "There's some sort of spark between Azita and Yvette.",
+  "dove": "elements/azita.likes.yvette.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Yvette is rumoured to have gone home with Arun after a salon at Hush House.",
+  "dove": "elements/yvette.likes.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary has shown feelings towards Chaima which might be called affection...",
+  "dove": "elements/zachary.likes.chaima.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary's chilly enthusiasms have been engaged by Morgen.",
+  "dove": "elements/zachary.likes.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "ÁÚÍ áúí ìòù ÈÌÒÙ ªº",
+  "dove": "elements/bonus_latin_for_extractor_run.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Huel",
+  "dove": "elements/huel.label",
+  "ricorre": 1
+ },
+ {
+  "en": "You'll eat it and/or drink it, and you'll like it",
+  "dove": "elements/huel.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Chor",
+  "dove": "elements/a.xcho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Ereb",
+  "dove": "elements/a.xere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Fet",
+  "dove": "elements/a.xfet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Health",
+  "dove": "elements/a.xhea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Mettle",
+  "dove": "elements/a.xmet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Phost",
+  "dove": "elements/a.xpho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Shapt",
+  "dove": "elements/a.xsha.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Trist",
+  "dove": "elements/a.xtri.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attuned: Wist",
+  "dove": "elements/a.xwis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Attunement Fulfilled",
+  "dove": "elements/a.xhausted.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Birdsong",
+  "dove": "elements/e.birdsong.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Bosk",
+  "dove": "elements/e.bosk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Horomachistry",
+  "dove": "elements/e.horomachistry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Hushery",
+  "dove": "elements/e.hushery.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Illumination",
+  "dove": "elements/e.illumination.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Ithastry",
+  "dove": "elements/e.ithastry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Nyctodromy",
+  "dove": "elements/e.nyctodromy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Preservation",
+  "dove": "elements/e.preservation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Evolve via Skolekosophy",
+  "dove": "elements/e.skolekosophy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Birdsong with this to evolve my Soul. [Once you've committed a skill to the Birdsong Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.birdsong.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Bosk with this to evolve my Soul. [Once you've committed a skill to the Bosk Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.bosk.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Horomachistry with this to evolve my Soul. [Once you've committed a skill to the Horomachistry Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.horomachistry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Hushery with this to evolve my Soul. [Once you've committed a skill to the Hushery Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.hushery.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Illumination with this to evolve my Soul. [Once you've committed a skill to the Illumination Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.illumination.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Ithastry with this to evolve my Soul. [Once you've committed a skill to the Ithastry Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.ithastry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Nyctodromy with this to evolve my Soul. [Once you've committed a skill to the Nyctodromy Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.nyctodromy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Preservation with this to evolve my Soul. [Once you've committed a skill to the Preservation Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.preservation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could use Skolekosophy with this to evolve my Soul. [Once you've committed a skill to the Skolekosophy Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+  "dove": "elements/e.skolekosophy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill has already been used to evolve an Element of the Soul.",
+  "dove": "elements/a.xhausted.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Chor. [When you committed this Skill to the Tree, you gained Chor. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Chor cards into a stronger card.]",
+  "dove": "elements/a.xcho.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Ereb. [When you committed this Skill to the Tree, you gained Ereb. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Ereb cards into a stronger card.]",
+  "dove": "elements/a.xere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Fet. [When you committed this Skill to the Tree, you gained Fet. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Fet cards into a stronger card.]",
+  "dove": "elements/a.xfet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Health. [When you committed this Skill to the Tree, you gained Health. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Health cards into a stronger card.]",
+  "dove": "elements/a.xhea.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Mettle. [When you committed this Skill to the Tree, you gained Mettle. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Mettle cards into a stronger card.]",
+  "dove": "elements/a.xmet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Phost. [When you committed this Skill to the Tree, you gained Phost. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Phost cards into a stronger card.]",
+  "dove": "elements/a.xpho.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Shapt. [When you committed this Skill to the Tree, you gained Shapt. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Shapt cards into a stronger card.]",
+  "dove": "elements/a.xsha.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Trist. [When you committed this Skill to the Tree, you gained Trist. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Trist cards into a stronger card.]",
+  "dove": "elements/a.xtri.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This skill is attuned to my Wist. [When you committed this Skill to the Tree, you gained Wist. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Wist cards into a stronger card.]",
+  "dove": "elements/a.xwis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Challenges",
+  "dove": "elements/group2_challenges.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Exaltations",
+  "dove": "elements/group6_exaltation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Expertise",
+  "dove": "elements/group3_me.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Forms",
+  "dove": "elements/groupzzz.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Histories",
+  "dove": "elements/group7_histories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Powers",
+  "dove": "elements/group1_primary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitors",
+  "dove": "elements/group4_visitors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Workstation",
+  "dove": "elements/workstation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "['The reward of a thing well done - is to have done it.' - Emerson]",
+  "dove": "elements/workstation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Abilities, skills, and personal resources.]",
+  "dove": "elements/group3_me.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Difficulties or prices that you need to match.]",
+  "dove": "elements/group2_challenges.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Fundamental categories of power recognised by scholars of the Invisible Arts. Find these in soul cards, skills, memories, items; use them to succeed in studying and crafting challenges.]",
+  "dove": "elements/group1_primary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[The forms of natures of visible and invisible things. Use these to understand what you might be able to do with them.]",
+  "dove": "elements/groupzzz.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[The natures and interests of visitors to Hush House.]",
+  "dove": "elements/group4_visitors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Ways you're working with this assistant today.]",
+  "dove": "elements/group6_exaltation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[When the Librarian of Hush House considers a new History, even the Hours might take note.]",
+  "dove": "elements/group7_histories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A faint aromatic scent.",
+  "dove": "elements/contains.tea.assam.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A faint bright coffee scent.",
+  "dove": "elements/contains.coffee.eveningisles.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A faint fruity coffee scent.",
+  "dove": "elements/contains.coffee.dawnlion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A faint smoky scent.",
+  "dove": "elements/contains.tea.lapsang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A rich chocolatey odour",
+  "dove": "elements/contains.packet.cocoa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assam Tea Ordered",
+  "dove": "elements/orderplaced.tea.assam.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something firm",
+  "dove": "elements/contains.sugar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something fragile",
+  "dove": "elements/contains.bottle.armagnac.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Contains something hard and square-edged",
+  "dove": "elements/contains.ham.canned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something heavy",
+  "dove": "elements/contains.potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something oily",
+  "dove": "elements/contains.dripping.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something powdery",
+  "dove": "elements/contains.flour.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something rattly",
+  "dove": "elements/contains.almonds.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something sloshing",
+  "dove": "elements/contains.oil.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something sloshy",
+  "dove": "elements/contains.milk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something slyly sloshing",
+  "dove": "elements/contains.oil.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something softly sloshing",
+  "dove": "elements/contains.oil.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something squashy",
+  "dove": "elements/contains.beef.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Contains something squishy",
+  "dove": "elements/contains.butter.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Contains something stiff and round",
+  "dove": "elements/contains.wire.copper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Contains something stiff and square-edged",
+  "dove": "elements/contains.parchment.nivine.label",
+  "ricorre": 2
+ }
+]

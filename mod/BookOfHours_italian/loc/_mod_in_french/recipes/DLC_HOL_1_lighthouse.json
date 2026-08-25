@@ -1,0 +1,93 @@
+{"recipes": [
+
+
+
+  {"id":"lighthouse.basehint",
+  "actionid":"lighthouse",
+    "label":"Un Commencement",
+    "startdescription":"J'aurai besoin de six candidats appropriés - assez pour reconstituer l'ancienne structure de la Curie de l'Île, avec un nouveau Secrétaire Persistent pour remplacer Rowena.",
+    "reqs":{"inspired":1,"journal":-1},
+    "craftable":false
+    },
+
+    {"id":"lighthouse.flush",
+    "actionid":"lighthouse",
+     "label":"Flushing!",
+     "startdescription":"!",
+ "reqs":{"inspired":7},
+     "warmup":1,
+     "craftable":true
+     },
+
+    {"id":"lighthouse.foundation",
+    "actionid":"lighthouse",
+    "label":"Une Fondation",
+    "startdescription":"Six notables sont prêts à créer l'Institut Lighthouse, successeur de la Curie de l'Île. [Une fois cette étape franchie, vous ne pourrez plus modifier vos préférences pour les candidats - et si l'un d'entre eux meurt ou disparaît, l'Institut Lighthouse sera mort-né. <b>Si vous avez sélectionné des candidats ayant des Plans, Peurs ou Sympathies opposés, ces aspirations seront dans l'impasse.</b>]",
+    "desc":"Ce sont les six fondateurs ; ils sont presque prêts à inaugurer leur Institut. Le septième, non reconnu, est le Bibliothécaire. [Pour continuer, placez votre journal dans une salle de la Hush House où se trouvent les six fondateurs. Placez votre journal dans le Phare pour les convoquer rapidement.]",
+    "reqs":{"inspired":6,"journal":1},
+    "warmup":30,
+    "aspects":{"advancing":1,"appointing":1},
+    "craftable":true
+    },
+
+    {"id":"lighthouse.foundation.rowena",
+    "actionid":"lighthouse",
+    "label":"Une Fondation",
+    "startdescription":"Cinq notables sont prêts à fonder l'Institut Lighthouse, successeur de la Curie de l'Île. Rowena n'étant pas remplacée, elle continuera d'occuper le poste de Secrétaire Persistent. C'est peut-être là une preuve de la loi de Clogg: 'Avec le temps, une organisation occulte se révèle de plus en plus incapable de se débarrasser de ses membres immortels'. [Une fois cette étape franchie, vous ne pourrez plus modifier vos préférences pour les candidats - et si l'un d'entre eux meurt ou disparaît, l'Institut Lighthouse sera mort-né. <b>Si vous avez sélectionné des candidats ayant des Plans, Peurs ou Sympathies opposés, ces aspirations seront dans l'impasse.</b>]",
+    "desc":"Ce sont les six fondateurs ; ils sont presque prêts à inaugurer leur Institut. Le septième, non reconnu, est le Bibliothécaire. [Pour continuer, placez votre journal dans une salle de la Hush House où se trouvent les six fondateurs. Placez votre journal dans le Phare pour les convoquer rapidement.]",
+    "reqs":{"inspired":5,"journal":1,"echidna.persistent":-1,"morgen":-1},
+    "warmup":30,
+    "aspects":{"advancing":1,"appointing":1},
+    "effects":{"rowena.persistent":1},
+    "craftable":true
+    },
+
+
+    {"id":"lighthouse.convene",
+   "actionid":"lighthouse.convene",
+    "label":"Convocation de l'Institut",
+    "startdescription":"Ce n'est pas une mesure à prendre à la légère. Je ne dois convoquer l'Institut que lorsque je suis prêt à accueillir une réunion qui prendra les décisions finales: y compris le thé et le gâteau appropriés, ou des alternatives adéquates. [Les fondateurs viendront à la Hush House, à moins qu'ils ne soient en déplacement ou indisponibles.]",
+    "reqs":{"journal":1},
+    "warmup":5,
+    "craftable":true,
+    "linked":"lighthouse.convene.grab"
+    },
+
+    {"id":"lighthouse.convene.grab",
+    "actionid":"lighthouse.convene",
+    "reqs":{"inspired":-6,"advancing":-10},
+    "comments":"Ces exigences sont une sorte de ceinture-plus-bretelles - elles sont répétées ci-dessous, mais nous ne voulons vraiment pas de boucle.",
+    "slots":[{"id":"founder","required":{"appointment.enigmatic":1,
+"appointment.nunciant":1,
+"appointment.salvant":1,
+"appointment.treasurer":1,
+"appointment.vigilant":1,
+"appointment.persistent":1},"greedy":true}],
+    "startdescription":"À travers l'Éveiller ils viennent, par la terre, par la mer et par le ciel, comme des oiseaux au coucher du soleil…",
+    "effects":{"advancing":1},
+    
+    "warmup":30,
+    "linked":[
+    "lighthouse.convene.succeeded",
+    "lighthouse.convene.failed",
+    "lighthouse.convene.grab"]
+    },
+    {"id": "lighthouse.convene.succeeded",
+    "actionid":"lighthouse.convene",
+"reqs":{"inspired":6},
+"effects":{"advancing":-99},
+"startdescription":"Les fondateurs de l'Institut Lighthouse sont revenus à Brancrug. [Pour continuer, placez votre journal dans une salle de la Hush House avec les six fondateurs.]"},
+
+{"id": "lighthouse.convene.failed",
+  "actionid":"salon.*",
+"reqs":{"advancing":10},
+"effects":{"advancing":-99},
+"startdescription":"Pour certaines raisons, tout le monde ne peut pas participer. En voyage? Perdu? Si je répète le signal convenu, cela fonctionnera-t-il cette fois-ci?"}
+
+
+
+
+
+
+]
+}

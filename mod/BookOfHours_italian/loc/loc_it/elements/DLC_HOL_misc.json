@@ -1,0 +1,24 @@
+{
+ "elements": [
+  {
+   "id": "delivery.oriflammes.reward.enroute",
+   "label": "Un Pacco da Oriflamme’s: In Viaggio",
+   "desc": "Il consiglio di Oriflamme’s mi sta inviando «un significativo pegno di gratitudine»."
+  },
+  {
+   "id": "delivery.oriflammes.reward",
+   "label": "Un Pacco da Oriflamme’s",
+   "desc": "Il consiglio di Oriflamme’s mi ha inviato «un significativo pegno di gratitudine."
+  },
+  {
+   "id": "offering.tentreto",
+   "label": "Un’Offerta a St Tentreto",
+   "desc": "Un liquido color Cuore sciaborda dentro un fragile resto esoscheletrico. Tienilo con cura."
+  },
+  {
+   "id": "offering.tentreto.made",
+   "label": "Residuo di un’Offerta a St Tentreto",
+   "desc": "Ho versato l’offerta davanti all’immagine del Santo del Passaggio."
+  }
+ ]
+}

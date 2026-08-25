@@ -1,0 +1,69 @@
+{
+ "elements": [
+  {
+   "id": "penny",
+   "label": "Penny",
+   "desc": "La moneta di taglio più piccolo, tranne quelle più piccole."
+  },
+  {
+   "id": "twopence",
+   "label": "Due Penny",
+   "desc": "O, se preferite, «tuppence». Una sorta di Janus dei penny."
+  },
+  {
+   "id": "threepence",
+   "label": "Tre Penny",
+   "desc": "O «thruppence», o un «thruppenny bit». Come il twopence, ma ancora di più."
+  },
+  {
+   "id": "sixpence",
+   "label": "Sei Penny",
+   "desc": "La moneta d’argento di minor valore – ma pur sempre d’argento."
+  },
+  {
+   "id": "shilling",
+   "label": "Scellino",
+   "desc": "Dodici penny o, se preferisci, un ventesimo di sterlina."
+  },
+  {
+   "id": "florin",
+   "label": "Fiorino",
+   "desc": "Uno scellino per lato."
+  },
+  {
+   "id": "halfcrown",
+   "label": "Mezza Corona",
+   "desc": "Due scellini e mezzo. Ovviamente."
+  },
+  {
+   "id": "crown",
+   "label": "Corona",
+   "desc": "Cinque scellini; un quarto di sterlina."
+  },
+  {
+   "id": "tenshillingnote",
+   "label": "Banconota da Dieci Scellini",
+   "desc": "Mezza sterlina; ma non mezza banconota. Un’innovazione recente."
+  },
+  {
+   "id": "poundnote",
+   "label": "Banconota da Una Sterlina",
+   "desc": "Una nobile carta di un verde tranquillizzante. Britannia se ne sta distesa sul suo trono, con il martello fiammeggiante appoggiato con noncuranza sul ginocchio."
+  },
+  {
+   "id": "fivepoundnote",
+   "label": "Banconota da Cinque Sterline",
+   "desc": "«Prometto di pagare al Portatore a Richiesta la Somma di Cinque Sterline». Il Portatore non chiede mai, però."
+  },
+  {
+   "id": "sevenpoundnote",
+   "label": "Banconota da Sette Sterline",
+   "desc": "Volute e ghirigori in tinte solenni. Fino a poco tempo fa, si potevano cambiare le banconote in oro presso le banche della capitale. Una banconota da sette sterline può ancora essere cambiata con metalli più rari, in luoghi più rari."
+  },
+  {
+   "id": "receipt",
+   "label": "Pagamento Ricevuto",
+   "desc": "Si potrebbero usare livelli diversi per indicare l’importo pagato."
+  }
+ ]
+}

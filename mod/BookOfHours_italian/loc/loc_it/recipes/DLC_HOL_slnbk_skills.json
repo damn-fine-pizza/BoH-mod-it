@@ -1,0 +1,319 @@
+{
+ "recipes": [
+  {
+   "id": "salon.reward.preliminalmeter",
+   "label": "Conoscenza: Metro Preliminale",
+   "desc": "La conversazione si è soffermata su Metro Preliminale; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.pyroglyphics",
+   "label": "Conoscenza: Piroglifici",
+   "desc": "La conversazione si è soffermata su Piroglifici; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.inks.containment",
+   "label": "Conoscenza: Inchiostri di Contenimento",
+   "desc": "La conversazione si è soffermata su Inchiostri di Contenimento; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.inks.revelation",
+   "label": "Conoscenza: Inchiostri di Rivelazione",
+   "desc": "La conversazione si è soffermata su Inchiostri di Rivelazione; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.inks.power",
+   "label": "Conoscenza: Inchiostri di Potere",
+   "desc": "La conversazione si è soffermata su Inchiostri di Potere; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.drums.dances",
+   "label": "Conoscenza: Tamburi & Danze",
+   "desc": "La conversazione si è soffermata su Tamburi & Danze; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.strings.songs",
+   "label": "Conoscenza: Corde & Canti",
+   "desc": "La conversazione si è soffermata su Corde & Canti; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.bells.brazieries",
+   "label": "Conoscenza: Campane & Bracieri",
+   "desc": "La conversazione si è soffermata su Campane & Bracieri; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.horns.ivories",
+   "label": "Conoscenza: Corna & Avori",
+   "desc": "La conversazione si è soffermata su Corna & Avori; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.surgeries.exsanguinations",
+   "label": "Conoscenza: Chirurgie & Dissanguamenti",
+   "desc": "La conversazione si è soffermata su Chirurgie & Dissanguamenti; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.stitching.binding",
+   "label": "Conoscenza: Cucitura & Rilegatura",
+   "desc": "La conversazione si è soffermata su Cucitura & Rilegatura; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.furs.feathers",
+   "label": "Conoscenza: Pellicce & Piume",
+   "desc": "La conversazione si è soffermata su Pellicce & Piume; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.pearl.tide",
+   "label": "Conoscenza: Perla & Marea",
+   "desc": "La conversazione si è soffermata su Perla & Marea; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.insects.nectars",
+   "label": "Conoscenza: Insetti & Nettari",
+   "desc": "La conversazione si è soffermata su Insetti & Nettari; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.herbs.infusions",
+   "label": "Conoscenza: Erbe & Infusi",
+   "desc": "La conversazione si è soffermata su Erbe & Infusi; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.spices.savours",
+   "label": "Conoscenza: Spezie & Sapori",
+   "desc": "La conversazione si è soffermata su Spezie & Sapori; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.leaves.thorns",
+   "label": "Conoscenza: Foglie & Spine",
+   "desc": "La conversazione si è soffermata su Foglie & Spine; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.orchids.narcotics",
+   "label": "Conoscenza: Orchidee & Narcotici",
+   "desc": "La conversazione si è soffermata su Orchidee & Narcotici; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.serpents.venoms",
+   "label": "Conoscenza: Serpenti & Veleni",
+   "desc": "La conversazione si è soffermata su Serpenti & Veleni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.sights.sensations",
+   "label": "Conoscenza: Visioni & Sensazioni",
+   "desc": "La conversazione si è soffermata su Visioni & Sensazioni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.desires.dissolutions",
+   "label": "Conoscenza: Desideri & Dissoluzioni",
+   "desc": "La conversazione si è soffermata su Desideri & Dissoluzioni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.resurgences.emergences",
+   "label": "Conoscenza: Risorgenze & Emersioni",
+   "desc": "La conversazione si è soffermata su Risorgenze & Emersioni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.rhyme.remembrance",
+   "label": "Conoscenza: Rima & Rimembranza",
+   "desc": "La conversazione si è soffermata su Rima & Rimembranza; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.disciplines.thehammer",
+   "label": "Conoscenza: Discipline del Martello",
+   "desc": "La conversazione si è soffermata su Discipline del Martello; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.disciplines.thescar",
+   "label": "Conoscenza: Discipline della Cicatrice",
+   "desc": "La conversazione si è soffermata su Discipline della Cicatrice; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.auroralcontemplations",
+   "label": "Conoscenza: Contemplazioni Aurorali",
+   "desc": "La conversazione si è soffermata su Contemplazioni Aurorali; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.applebrighteuphonies",
+   "label": "Conoscenza: Eufonie di Applebright",
+   "desc": "La conversazione si è soffermata su Eufonie di Applebright; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.watchmansparadoxes",
+   "label": "Conoscenza: Paradossi del Guardiano",
+   "desc": "La conversazione si è soffermata su Paradossi del Guardiano; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.raggedcrossroads",
+   "label": "Conoscenza: Crocevia Logoro",
+   "desc": "La conversazione si è soffermata su Crocevia Logoro; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.meniscatereflections",
+   "label": "Conoscenza: Riflessi Meniscati",
+   "desc": "La conversazione si è soffermata su Riflessi Meniscati; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.putrefactions.calcinations",
+   "label": "Conoscenza: Putrefazioni & Calcinazioni",
+   "desc": "La conversazione si è soffermata su Putrefazioni & Calcinazioni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.solutions.separations",
+   "label": "Conoscenza: Soluzioni & Separazioni",
+   "desc": "La conversazione si è soffermata su Soluzioni & Separazioni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.path.pilgrim",
+   "label": "Conoscenza: Cammino & Pellegrino",
+   "desc": "La conversazione si è soffermata su Cammino & Pellegrino; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.purifications.exaltations",
+   "label": "Conoscenza: Purificazioni & Esaltazioni",
+   "desc": "La conversazione si è soffermata su Purificazioni & Esaltazioni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.transformations.liberations",
+   "label": "Conoscenza: Trasformazioni & Liberazioni",
+   "desc": "La conversazione si è soffermata su Trasformazioni & Liberazioni; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.lockworks.clockworks",
+   "label": "Conoscenza: Serrature & Orologi",
+   "desc": "La conversazione si è soffermata su Serrature & Orologi; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.seastories",
+   "label": "Conoscenza: Storie di Mare",
+   "desc": "La conversazione si è soffermata su Storie di Mare; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.wolfstories",
+   "label": "Conoscenza: Storie di Lupo",
+   "desc": "La conversazione si è soffermata su Storie di Lupo; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.sandstories",
+   "label": "Conoscenza: Storie di Sabbia",
+   "desc": "La conversazione si è soffermata su Storie di Sabbia; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.skystories",
+   "label": "Conoscenza: Storie di Cielo",
+   "desc": "La conversazione si è soffermata su Storie di Cielo; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.snowstories",
+   "label": "Conoscenza: Storie di Neve",
+   "desc": "La conversazione si è soffermata su Storie di Neve; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.stonestories",
+   "label": "Conoscenza: Storie di Pietra",
+   "desc": "La conversazione si è soffermata su Storie di Pietra; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.sacrasolisinvicti",
+   "label": "Conoscenza: Sacra Solis Invicti",
+   "desc": "La conversazione si è soffermata su Sacra Solis Invicti; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.tridesmahiera",
+   "label": "Conoscenza: Tridesma Hiera",
+   "desc": "La conversazione si è soffermata su Tridesma Hiera; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.sacralimiae",
+   "label": "Conoscenza: Sacra Limiae",
+   "desc": "La conversazione si è soffermata su Sacra Limiae; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.sickle.eclipse",
+   "label": "Conoscenza: Falce & Eclissi",
+   "desc": "La conversazione si è soffermata su Falce & Eclissi; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.hill.hollow",
+   "label": "Conoscenza: Colle & Valle",
+   "desc": "La conversazione si è soffermata su Colle & Valle; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.pentiments.precursors",
+   "label": "Conoscenza: Pentimenti & Precursori",
+   "desc": "La conversazione si è soffermata su Pentimenti & Precursori; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.coil.chasm",
+   "label": "Conoscenza: Spira & Baratro",
+   "desc": "La conversazione si è soffermata su Spira & Baratro; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.rites.theroots",
+   "label": "Conoscenza: Riti delle Radici",
+   "desc": "La conversazione si è soffermata su Riti delle Radici; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.door.wall",
+   "label": "Conoscenza: Porta & Muro",
+   "desc": "La conversazione si è soffermata su Porta & Muro; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.edictsliminal",
+   "label": "Conoscenza: Editti Liminali",
+   "desc": "La conversazione si è soffermata su Editti Liminali; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.edictsmartial",
+   "label": "Conoscenza: Editti Marziali",
+   "desc": "La conversazione si è soffermata su Editti Marziali; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.edictsinviolable",
+   "label": "Conoscenza: Editti Inviolabili",
+   "desc": "La conversazione si è soffermata su Editti Inviolabili; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.thegreatsignsandthegreatscars",
+   "label": "Conoscenza: I Grandi Segni e le Grandi Cicatrici",
+   "desc": "La conversazione si è soffermata su I Grandi Segni e le Grandi Cicatrici; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.maggephenemysteries",
+   "label": "Conoscenza: Misteri Maggephene",
+   "desc": "La conversazione si è soffermata su Misteri Maggephene; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.weaving.knotworking",
+   "label": "Conoscenza: Tessitura & Annodatura",
+   "desc": "La conversazione si è soffermata su Tessitura & Annodatura; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.anbary.lapidary",
+   "label": "Conoscenza: Ambreria & Lapidario",
+   "desc": "La conversazione si è soffermata su Ambreria & Lapidario; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.quenchings.quellings",
+   "label": "Conoscenza: Spegnimenti & Placamenti",
+   "desc": "La conversazione si è soffermata su Spegnimenti & Placamenti; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.glassblowing.vesselcrafting",
+   "label": "Conoscenza: Vetro Soffiato & Vasellame",
+   "desc": "La conversazione si è soffermata su Vetro Soffiato & Vasellame; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.glaziery.lightsmithing",
+   "label": "Conoscenza: Vetreria & Lucefabbro",
+   "desc": "La conversazione si è soffermata su Vetreria & Lucefabbro; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.sharps",
+   "label": "Conoscenza: Taglienti",
+   "desc": "La conversazione si è soffermata su Taglienti; ecco una lezione utile."
+  },
+  {
+   "id": "salon.reward.ouranoscopy",
+   "label": "Conoscenza: Uranoscopia",
+   "desc": "La conversazione si è soffermata sull’Uranoscopia; ecco una lezione utile."
+  }
+ ]
+}

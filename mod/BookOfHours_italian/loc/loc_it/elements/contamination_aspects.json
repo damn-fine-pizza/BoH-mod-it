@@ -1,0 +1,104 @@
+{
+ "elements": [
+  {
+   "id": "contamination.actinic",
+   "label": "Teoplasma Attinico",
+   "desc": "Questo libro ha subito le attenzioni di uno dei Nomi Luminosi o delle Ore, gli dèi-dalla-Luce. [Questa contaminazione può influenzare il tuo Phost e Trist, e diffondersi agli oggetti vicini. Puoi rimuoverla con un’abilità efficace contro la Contaminazione Teoplasmica, se fornisci almeno 7 Forgia.]"
+  },
+  {
+   "id": "contamination.bloodlines",
+   "label": "Lignaggi",
+   "desc": "Se apro questo libro alla pagina giusta, troverò parole che lentamente trasudano sangue. Con il tempo, quelle parole aumentano di numero. [Questa Infestazione può colpire il tuo Ereb e il tuo Chor, e diffondersi agli oggetti vicini. Puoi rimuoverla con un’abilità efficace contro le Infestazioni, e almeno 7 Falena.]"
+  },
+  {
+   "id": "contamination.chionic",
+   "label": "Teoplasma Chionico",
+   "desc": "Questo libro ha subito le attenzioni di uno dei Nomi Gelidi o delle Ore, forse anche un dio dal Nessun Luogo. [Questa contaminazione può influenzare il tuo Trist e la Salute, e diffondersi agli oggetti vicini. Puoi rimuoverla con un’abilità efficace contro la Contaminazione Teoplasmica, e almeno 7 Cuore.]"
+  },
+  {
+   "id": "contamination.curse.fifth.eye",
+   "label": "Maledizione del Quinto Occhio",
+   "desc": "Qualcuno ha inopportunamente piazzato una maledizione che potrebbe squarciare l’occhio riluttante dell’anima. [Questa contaminazione può influenzare il tuo Fet e Phost. Puoi rimuoverla con un’abilità efficace contro le Maledizioni, e almeno 7 Cuore.]"
+  },
+  {
+   "id": "contamination.keeperskin",
+   "label": "Keeperskin",
+   "desc": "Questo libro è macchiato da keeperskin, un fungo luminoso che cresce nel Bosco che vediamo nel sonno, ed entra nel mondo quando un sognatore inala le sue spore. [La contaminazione da keeperskin può influenzare il tuo Ereb e Chor, e diffondersi agli oggetti vicini. Puoi rimuoverla con un’abilità efficace contro le Corruttele, se fornisci almeno 7 Nettare.]"
+  },
+  {
+   "id": "contamination.sthenic.taint",
+   "label": "Contaminazione Stenica",
+   "desc": "Un veleno? Una maledizione? Probabilmente entrambi. Attenzione a maneggiare questo libro. [Questa contaminazione può influenzare il tuo Shapt e la Salute. Puoi rimuoverla con un’abilità efficace contro le Maledizioni, e almeno 7 Battente.]"
+  },
+  {
+   "id": "contamination.winkwell",
+   "label": "Winkwell",
+   "desc": "A volte quando giro questo libro dall’angolo giusto, vedo un occhio che mi guarda dalle sue pagine o copertine. Si chiudono e sbiadiscono quando li lascio al buio... ma la luce li farà sempre emergere alla fine. [Questo può influenzare il tuo Fet e Wist, e diffondersi agli oggetti vicini. Puoi rimuoverlo con un’abilità efficace contro la Corruzione, e almeno 7 Luna.]"
+  },
+  {
+   "id": "contamination.witchworms",
+   "label": "Stregovermi",
+   "desc": "Minuscole larve con facce semi-umane. Fortunatamente, raramente si sviluppano nello stadio di imago; ma anche come larve, il loro sussurro può tormentare i sensi e distorcere i pensieri. [Queste possono influenzare il tuo Shapt e Wist, e diffondersi agli oggetti vicini. Puoi rimuoverle con un’abilità efficace contro le Infestazioni, e almeno 7 Inverno.]"
+  },
+  {
+   "id": "effective.contamination.corruption",
+   "label": "Efficace Contro la Corruzione",
+   "desc": "Questa abilità può essere usata per rimuovere le Corruttele dai libri."
+  },
+  {
+   "id": "effective.contamination.curse",
+   "label": "Efficace Contro le Maledizioni",
+   "desc": "Questa abilità può essere usata per rimuovere le Maledizioni dai libri."
+  },
+  {
+   "id": "effective.contamination.infestation",
+   "label": "Efficace Contro le Infestazioni",
+   "desc": "Questa abilità può essere usata per rimuovere le Infestazioni dai libri."
+  },
+  {
+   "id": "effective.contamination.theoplasma",
+   "label": "Efficace Contro la Contaminazione Teoplasmica",
+   "desc": "Questa abilità può essere usata per rimuovere la Contaminazione Teoplasmica dai libri."
+  },
+  {
+   "id": "ability.exposed.actinic",
+   "label": "Esposizione a Teoplasma Attinico",
+   "desc": "[Hai sofferto di esposizione teoplasmica. Se usi questa carta con un libro prima di curare il tuo Malanno, il libro potrebbe risentirne...]"
+  },
+  {
+   "id": "ability.exposed.bloodlines",
+   "label": "Esposizione ai Lignaggi",
+   "desc": "[Questa condizione è stata causata dall’esposizione ai Lignaggi. Se usi questa carta con un libro prima di curare il tuo Malanno, il libro potrebbe essere affetto...]"
+  },
+  {
+   "id": "ability.exposed.chionic",
+   "label": "Esposizione a Teoplasma Chionico",
+   "desc": "[Hai sofferto di esposizione teoplasmica. Se usi questa carta con un libro prima di curare il tuo Malanno, il libro potrebbe risentirne...]"
+  },
+  {
+   "id": "ability.exposed.keeperskin",
+   "label": "Esposizione a Keeperskin",
+   "desc": "[Hai subito l’esposizione a Keeperskin. Se usi questa carta con un libro prima di curare il tuo Malanno, il libro potrebbe essere affetto...]"
+  },
+  {
+   "id": "ability.exposed.winkwell",
+   "label": "Esposizione a Winkwell",
+   "desc": "[Hai subito l’esposizione a Winkwell. Se usi questa carta con un libro prima di curare il tuo Malanno, il libro potrebbe essere affetto...]"
+  },
+  {
+   "id": "ability.exposed.witchworms",
+   "label": "Esposizione agli Stregovermi",
+   "desc": "[Hai subito l’esposizione agli Stregovermi. Se usi questa carta con un libro prima di curare il tuo Malanno, il libro potrebbe essere affetto...]"
+  },
+  {
+   "id": "ability.exposed.curse.fifth.eye",
+   "label": "Esposizione alla Maledizione del Quinto Occhio",
+   "desc": "[Hai subito l’esposizione alla Maledizione del Quinto Occhio. Fortunatamente, non è qualcosa che può essere trasmesso a un altro libro.]"
+  },
+  {
+   "id": "ability.exposed.sthenic.taint",
+   "label": "Esposizione alla Contaminazione Stenica",
+   "desc": "[Hai subito l’esposizione alla Contaminazione Stenica. Fortunatamente, non è qualcosa che può essere trasmesso a un altro libro.]"
+  }
+ ]
+}

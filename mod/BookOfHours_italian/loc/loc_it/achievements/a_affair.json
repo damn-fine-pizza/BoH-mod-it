@@ -1,0 +1,119 @@
+{
+ "achievements": [
+  {
+   "id": "A_AFFAIR_CASKET",
+   "label": "La Vicenda dello Scrigno del Messaggero",
+   "descriptionunlocked": "In una piega nascosta delle montagne sopra la città di Cluj giace la reliquia enigmatica che chiamano la Bara di Saint Mihail..."
+  },
+  {
+   "id": "A_AFFAIR_GRUNEWALD",
+   "label": "La Vicenda della Fornitura di Grunewald",
+   "descriptionunlocked": "I beni del Circo Permanente di Grunewald sono stati liquidati dal Bureau. Con il senno del poi, è stato un errore..."
+  },
+  {
+   "id": "A_AFFAIR_HEIST",
+   "label": "La Vicenda del Colpo all’Oriflamme",
+   "descriptionunlocked": "La Casa d’Aste di Oriflamme non viene mai derubata. Ma e se lo fosse?"
+  },
+  {
+   "id": "A_AFFAIR_SKIN",
+   "label": "La Vicenda della Seconda Pelle",
+   "descriptionunlocked": "Il labhite Abecassis ha iniziato una trasformazione drammatica e pericolosa..."
+  },
+  {
+   "id": "A_AFFAIR_GUEST",
+   "label": "La Vicenda dell’Ospite Infinito",
+   "descriptionunlocked": "Un «uomo abitato dai Vermi» non è mai da prendere alla leggera..."
+  },
+  {
+   "id": "A_AFFAIR_ROSE",
+   "label": "La Vicenda della Rosa Screziata",
+   "descriptionunlocked": "Un altro uomo è morto nel deserto. Ha vaneggiato di giardini fino alla fine, con un fiore schiacciato in mano..."
+  },
+  {
+   "id": "A_AFFAIR_DEBT",
+   "label": "La Vicenda del Debito Perdonabile",
+   "descriptionunlocked": "Due bande di Conteggiatori sono andate in guerra nell’insignificante città lituana di Kaunas. Perché? Che cosa c’è a Kaunas?"
+  },
+  {
+   "id": "A_AFFAIR_MYSTIQUE",
+   "label": "La Vicenda della Mistica Particolare",
+   "descriptionunlocked": "Il Bureau di Soppressione ha un crescente interesse per la recente moda di movimenti religiosi non convenzionali – spesso profetici..."
+  },
+  {
+   "id": "A_AFFAIR_CLAWCLOUDS",
+   "label": "La Vicenda dell’Artiglio e delle Nuvole",
+   "descriptionunlocked": "Dal lontano monastero di St Tentreto, sentiamo storie di visitatori inaspettati – visitatori da dietro il cielo..."
+  },
+  {
+   "id": "A_AFFAIR_EYE",
+   "label": "La Vicenda dell’Occhio Senza Catene",
+   "descriptionunlocked": "Messana: un piccolo prospero villaggio del deserto che è diventato un luogo di pellegrinaggio. Ci sono state strane manifestazioni lì di recente..."
+  },
+  {
+   "id": "A_AFFAIR_HORIZON",
+   "label": "La Vicenda dell’Altro Orizzonte",
+   "descriptionunlocked": "I marinai hanno un termine per il fenomeno del turbine della bussola che si verifica prima dell’avvistamento della città Ys..."
+  },
+  {
+   "id": "A_AFFAIR_APOLLOMARSYAS",
+   "label": "La Vicenda di «Apollo e Marsia»",
+   "descriptionunlocked": "Un’imminente produzione di un’opera dal lignaggio davvero antichissimo..."
+  },
+  {
+   "id": "A_AFFAIR_OPERA",
+   "label": "La Vicenda dell’Opera Invisibile",
+   "descriptionunlocked": "Nessuno ha mai messo in scena con successo un’intera rappresentazione di «Ali Dentro Ali». Ma ora qualcuno sta provando di nuovo..."
+  },
+  {
+   "id": "A_AFFAIR_GOD",
+   "label": "La Vicenda del Dio nel Bosco",
+   "descriptionunlocked": "Una colonia salutista alla moda ha attirato l’attenzione dopo che molti dei suoi clienti sembrano aver sviluppato improvvise, a volte sconvolgenti, abilità artistiche..."
+  },
+  {
+   "id": "A_AFFAIR_LARK",
+   "label": "La Vicenda dell’Allodola Incompiuta",
+   "descriptionunlocked": "Per anni uno scultore-adepto ha lavorato al suo capolavoro. E ora, stranamente e improvvisamente, è morto..."
+  },
+  {
+   "id": "A_AFFAIR_ENDEAVOUR",
+   "label": "La Vicenda dell’Impresa Reale",
+   "descriptionunlocked": "Il Nuovo Re ha autorizzato l’uso della ricchezza della Corona per finanziare un nuovo progetto industriale visionario..."
+  },
+  {
+   "id": "A_AFFAIR_REVOLUTION",
+   "label": "La Vicenda della Rivoluzione della Soglia",
+   "descriptionunlocked": "La Légion du Seuil recluta tra le bestie dei Confini. Quanto è affidabile, davvero?"
+  },
+  {
+   "id": "A_AFFAIR_WHILE",
+   "label": "La Vicenda del Tempo dell’Ascesa",
+   "descriptionunlocked": "Un’autodichiarata oracola predica «la verità di quasi ora» ai suoi seguaci. Si accampa vicino al Tempio delle Sette Spire, e non è stata mangiata..."
+  },
+  {
+   "id": "A_AFFAIR_SAINT",
+   "label": "La Vicenda del Santo di Sandalo",
+   "descriptionunlocked": "Una strana piccola immagine in una chiesa a Strasburgo è diventata un luogo di affermazioni sfrenate di guarigioni e infestazioni. Quando viene all’attenzione della gerarchia della Chiesa, la giudicheranno miracolosa o ereticale... a meno che qualcuno non prenda in mano le cose prima."
+  },
+  {
+   "id": "A_AFFAIR_TAPESTRY",
+   "label": "La Vicenda dell’Arazzo del Frate",
+   "descriptionunlocked": "Un arazzo è stato rubato dall’Haustorium che raffigura i dettagli di un rito davvero molto antico..."
+  },
+  {
+   "id": "A_AFFAIR_FRIEND",
+   "label": "La Vicenda dell’Amica Assente",
+   "descriptionunlocked": "La Medusa Ligeiana è da lungo tempo morta. Ma cammina per le strade di Budapest al chiaro di luna e, per la prima volta, è stata intravista anche alla luce del giorno..."
+  },
+  {
+   "id": "A_AFFAIR_WOUND",
+   "label": "La Vicenda del Reverendo Aperto",
+   "descriptionunlocked": "In una clinica altamente specializzata, gli specialisti studiano le agonie estatiche del caso conosciuto solo come «il Reverendo Aperto»..."
+  },
+  {
+   "id": "A_AFFAIR_NUMA",
+   "label": "Nella Nebbia",
+   "descriptionunlocked": "Ciò che accade a Numa, rimane a Numa. Generalmente."
+  }
+ ]
+}

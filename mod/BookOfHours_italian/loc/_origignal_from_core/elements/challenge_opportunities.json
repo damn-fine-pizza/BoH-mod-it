@@ -1,0 +1,104 @@
+﻿{
+	"elements": [
+		{
+			"id": "_opportunity",
+			"aspects":{"opportunity":1},
+			"lifetime":1,
+			"icon":"opportunity"
+		},
+		{
+			"id": "o.ability",
+			"label": "Extra Effort: Soul",
+			"desc": "An opportunity to add a Soul Element. [Beware: failure might cause Maladies.]",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.weather",
+			"label": "The Right Skies: Weather",
+			"desc": "An opportunity to use a Weather card.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.memory",
+			"label": "Only Connect: Memory",
+			"desc": "An opportunity to add a Memory - which will be used up.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.comfort",
+			"label": "Comfort: Relevant Furniture",
+			"desc": "Possible inspiration from relevant furniture, or other Comforts.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.thing",
+			"label": "Stuff: also Things",
+			"desc": "Possible inspiration from a relevant Thing.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.wallart",
+			"label": "Art: It's Educational!!",
+			"desc": "Possible inspiration from a relevant painting, or other Wall Art",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.awen",
+			"label": "Awen",
+			"desc": "Divine inspiration? Or just the right breath of air at the right moment? [This mood increases certain aspects.]",
+			"xtriggers":{"opportunity.realise":"m.awen"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.epiphany",
+			"label": "Epiphany",
+			"desc": "'It was for the man of letters to record these epiphanies with extreme care, seeing that they themselves are the most delicate and evanescent of moments.' - Joyce [This mood increases certain aspects.]",
+			"xtriggers":{"opportunity.realise":"m.epiphany"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.duende",
+			"label": "Duende",
+			"desc": "'The duende is a force not a labour, a struggle not a thought. - Lorca [This mood increases certain aspects.]",
+			"xtriggers":{"opportunity.realise":"m.duende"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.ubisunt",
+			"label": "'Ubi Sunt'?",
+			"desc": "'Where are my kindred? Where is the giver of treasure? Where are the benches to bear us? Joys of the hall to bring us together?' [This mood increases certain aspects.]",
+			"xtriggers":{"opportunity.realise":"m.ubisunt"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "m.awen",
+			"label": "Awen",
+			"desc": "Divine inspiration? Or just the right breath of air at the right moment? [This mood increases certain aspects.]",
+			"aspects":{"lantern":2,"knock":2,"rose":2,"sky":2},
+			"inherits":"_memory"
+		},
+		{
+			"id": "m.epiphany",
+			"label": "Epiphany",
+			"desc": "'It was for the man of letters to record these epiphanies with extreme care, seeing that they themselves are the most delicate and evanescent of moments.' - Joyce \n\n [This mood increases certain aspects.]",
+			"aspects":{"forge":2,"moth":2,"moon":2},
+			"inherits":"_memory"
+		},
+		{
+			"id": "m.duende",
+			"label": "Duende",
+			"desc": "'The duende is a force not a labour, a struggle not a thought.' - Lorca \n\n[This mood increases certain aspects.]",
+			"aspects":{"grail":2,"heart":2,"nectar":2},
+			"inherits":"_memory"
+		},
+		{
+			"id": "m.ubisunt",
+			"label": "'Ubi Sunt'?",
+			"desc": "'Where are my kindred? Where is the giver of treasure? Where are the benches to bear us? Joys of the hall to bring us together?' \n\n[This mood increases certain aspects.]",
+			"aspects":{"edge":2,"winter":2,"scale":2},
+			"inherits":"_memory"
+		}
+
+		]
+
+}

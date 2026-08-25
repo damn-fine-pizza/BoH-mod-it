@@ -1,0 +1,54 @@
+{
+ "elements": [
+  {
+   "id": "weather.rain",
+   "label": "Pioggia",
+   "desc": "La pioggia leggera porta vita."
+  },
+  {
+   "id": "weather.snow",
+   "label": "Neve",
+   "desc": "Il mondo è pallido oggi. «Il Bianco è a ovest del mondo, e l’inverno non aspetta per sempre», disse una volta Solomon Husher."
+  },
+  {
+   "id": "weather.storm",
+   "label": "Tempesta",
+   "desc": "Cieli tuonanti, sferzati dai fulmini."
+  },
+  {
+   "id": "weather.fog",
+   "label": "Nebbia",
+   "desc": "Nebbia costiera – che vela la luna, che smorza il mare."
+  },
+  {
+   "id": "weather.numa",
+   "label": "Numa-Bruma",
+   "desc": "I vapori brumosi di Numa."
+  },
+  {
+   "id": "weather.hail",
+   "label": "Grandine",
+   "desc": "Il ghiaccio picchietta sui tetti e sulle cime degli alberi."
+  },
+  {
+   "id": "weather.gale",
+   "label": "Burrasca",
+   "desc": "Gli alberi si piegano, i muri scricchiolano, i viandanti si curvano contro la raffica."
+  },
+  {
+   "id": "weather.sunny",
+   "label": "Soleggiato",
+   "desc": "Il Sole non è più quello di una volta, ma oggi sorride."
+  },
+  {
+   "id": "weather.clouds",
+   "label": "Nuvole",
+   "desc": "In questo paese il cielo è raramente sereno. Il Sole va cortesemente ammantato."
+  },
+  {
+   "id": "weather.earthquake",
+   "label": "Terremoto",
+   "desc": "Il più gentile dei tremori di terra. Solo per ricordarci che la terra non è morta, ma dorme."
+  }
+ ]
+}

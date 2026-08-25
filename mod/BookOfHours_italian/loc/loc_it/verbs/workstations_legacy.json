@@ -1,0 +1,31 @@
+{
+ "verbs": [
+  {
+   "id": "world.corals.deeplight",
+   "label": "Coralli Deeplight",
+   "desc": "Dove i pochi selvaggi commerciano con le maree.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  }
+ ]
+}

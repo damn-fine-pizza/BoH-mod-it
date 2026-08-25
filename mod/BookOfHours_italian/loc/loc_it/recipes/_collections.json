@@ -1,0 +1,15 @@
+{
+ "recipes": [
+  {
+   "id": "collection.busts",
+   "label": "Archivisti Passati, Presenti, Futuri",
+   "startdescription": "Sono l’Archivista numero dodici della Hush House...",
+   "desc": "Sono l’Archivista numero dodici della Hush House; e anche il mio ricordo resterà."
+  },
+  {
+   "id": "collection.test",
+   "label": "rawr",
+   "startdescription": "!"
+  }
+ ]
+}

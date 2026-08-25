@@ -1,0 +1,11 @@
+{"endings": [
+ 
+    {"id": "end.u.winter",	"image":"swords.1",	"label":"A Knowledge In The Look Of Things",
+    "desc":"<i>January 9th, 1838. A heavy snow falls on Brancrug. When the staff dig themselves out, Solomon Husher, third Librarian of the House, has disappeared from his quarters in the Long Tower, leaving a letter of resignation. 'Winter,' the letter concludes, 'does not wait forever; though Janus might.' Husher is never seen again, but every year on the same day, his footprints can be found beneath the Tree.</i>\n\n<align=center><smallcaps>After the red leaf and the gold have gone,\nBrought down by the wind, then by hammering rain...\n...I speak to you now with the land's voice,\nIt is the cold, wild land that says to you\nA knowledge glimmers in the sleep of things:\nThe old hills hunch before the north wind blows.</smallcaps>\n\n- Howard Nemerov, 1920-1991, from <i>'A Spell Before Winter'</i>.</align>\n<align=center>--</align>\n<align=center><i>[You have completed a hidden ending. An argument has been made that this is the true ending of BOOK OF HOURS.]</i></align>",	"flavour":"Pale",	  "achievements": [ "A_U_WINTER"]		},
+
+    {"id": "end.u.evening",	"image":"cups.1",	"label":"Evening Falls",
+    "desc":"<i>Hush House lives again. Perhaps that's all I want. Some of the very best Librarians have worked well, lived quietly, left the world a better place...</i>\n\nI have my fire, my books, my clock, my window on the world where they do other things; and I am happy. This is the life I chose. The years will pass, like sun, like snow, like rain, like a gull's wing beating, and when I close my eyes, they will find me smiling.\n<size=120%><align=center>--</size>\n<i>[You have completed the game: congratulations. Greater victories are available, but there is an argument to be made that this is the best ending of BOOK OF HOURS.]</i></align>",	"flavour":"Enigmatic",	  "achievements": [ "A_U_EVENING"]		}
+
+    
+]
+}

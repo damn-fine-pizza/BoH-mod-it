@@ -1,0 +1,77 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_V_NUMEN", "label": "Numen Enacted", "iconUnlocked": "history" },
+
+  { "id": "A_V_NUMEN_OLDL", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Numen: Cette Vieille Musique Perdue",
+    "descriptionunlocked": "Toutes les chansons jamais chantées s'attardent encore dans le vent et l'écho, sans être touchées par les exigences de l'Éternité…"
+  },
+  { "id": "A_V_NUMEN_UNDE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Numen: Une Compréhension Finale",
+  "descriptionunlocked": "L'Éternité et I'Histoire ne peuvent être réconciliées. La liberté ne peut être une perfection - à moins que nous ne comprenions le paradoxe de la fin éternelle…"
+},
+{ "id": "A_V_NUMEN_BALA", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Retour à l'Équilibre",
+"descriptionunlocked": "Lorsque les genres itinérants de Carapace passèrent au-delà de la vague et du ciel, ils prirent des dispositions pour leur retour…"
+},
+{ "id": "A_V_NUMEN_THRE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Trois règles",
+"descriptionunlocked": "Si nous connaissons ces règles les plus profondes, nous savons ce que même le Chœur et la Calyptre n'ont pas le droit de faire…"
+},
+{ "id": "A_V_NUMEN_LOOP", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Failles",
+"descriptionunlocked": "Lorsque l'Éternité est venue au monde, certaines puissances prudentes ont aménagé des failles. Ces failles peuvent s'ouvrir à nouveau…"
+},
+{ "id": "A_V_NUMEN_DESC", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: La Faiblesse du Soleil",
+"descriptionunlocked": "Les péchés du Soleil et les cicatrices du Soleil sont notre salut. Il est des Histoires où ils nous piègent…"
+},
+{ "id": "A_V_NUMEN_BELL", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: les Cloches d'Ys",
+"descriptionunlocked": "Ys, par ses arts, a trouvé la tonalité qui ébranle les Heures. Une cloche coulée selon ce secret pouvait dire la note d'Ys…"
+},
+{ "id": "A_V_NUMEN_SECR", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: la Grande Contrefaçon",
+"descriptionunlocked": "Le Soleil-en-Splendeur et la Forge des Jours n'ont pas pu être réunis. Mais Célia du Crépuscule et le Roi des Cygnes pourraient…"
+},
+
+{ "id": "A_V_NUMEN_WORL", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Tisser le Monde",
+"descriptionunlocked": "Les Histoires, dit-on, sont tressées comme des cheveux - ou enchevêtrées comme des racines. Quelle est la forme de ce nœud… ?"
+},
+{ "id": "A_V_NUMEN_FEAS", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: un Festin Irrésistible",
+"descriptionunlocked": "La Faim a fait les Vers des Dragons. Mais sans le secret-savoureux de la Carapace, leur faim n'aurait pas été suffisante…"
+},
+{ "id": "A_V_NUMEN_ALTE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: une Altération Impitoyable",
+"descriptionunlocked": "Le défaut fondamental ; le raccourci irrésistible ; la haine qui réchauffe ; le changement qui ternit ; la cicatrice qui ouvre…"
+},
+{ "id": "A_V_NUMEN_CONF", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: L'Enfermement Inéluctable",
+"descriptionunlocked": "Il n'y a qu'un seul endroit où l'on est à l'abri de l'Éternité et de I'Histoire, et ce n'est pas un endroit où l'on aimerait se trouver…"
+},
+{ "id": "A_V_NUMEN_ASCE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: les Chemins du Soleil",
+"descriptionunlocked": "Le Soleil a tracé ses Chemins - des Chemins au-delà des murs, des bois et des Limites. Lorsque nous serons prêts, nous entrerons tous dans l'Éternité…"
+}
+
+
+
+
+
+
+]}

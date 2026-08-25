@@ -1,0 +1,70 @@
+{
+    "elements": [
+
+        {
+            "id": "setup.cho",
+            "icon":"xcho",
+            "label": "Mémoire: Chor?",
+            "desc": "Chor est l'exubérance ; l'instinct ; le rythme. Est-ce que ça signifie quelque chose pour moi?",
+      "inherits": "_ability.setup",
+              "xtriggers":{"recovering":"xcho","recovering.ability":"xcho"}
+        },
+        {
+            "id": "setup.ere",
+            "icon":"xere",
+            "label": "Mémoire: Ereb?",
+            "desc": "Ereb est la fierté, la compassion, la haine et la peur. Est-ce que ces passions brûlent en moi?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xere","recovering.ability":"xere"}
+        },
+        {
+            "id": "setup.fet",
+            "icon":"xfet",
+            "label": "Mémoire: Fet?",
+            "desc": "Fet est cette partie de nous qui rêve. Les rêves sont-ils importants pour moi?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xfet","recovering.ability":"xfet"}
+        },
+        {
+            "id": "setup.met",
+            "icon":"xmet",
+            "label": "Mémoire: Mettle?",
+            "desc": "Le courage est la capacité de faire des choix significatifs. Ai-je prouvé mon courage?",
+    		"inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xmet","recovering.ability":"xmet"}
+        },
+        {
+            "id": "setup.pho",
+            "icon":"xpho",
+            "label": "Mémoire: Phost?",
+            "desc": "Phost est la vision, la perception, l'inspiration, tous les dons de la Gloire. Mon âme est-elle une âme brillante?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xpho","recovering.ability":"xpho"}
+        },
+        {
+            "id": "setup.sha",
+            "icon":"xsha",
+            "label": "Mémoire: Shapt?",
+            "desc": "Shapt est éloquence et aussi compréhension: la porte s’ouvre dans les deux sens. Mon âme est-elle ouverte à la connaissance?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xsha","recovering.ability":"xsha"}
+        },
+        {
+            "id": "setup.tri",
+            "icon":"xtri",
+            "label": "Mémoire: Trist?",
+            "desc": "Trist, disent-ils, est le changement et le désir. Est-ce que je manque quelque chose que je n'ai jamais eu?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xtri","recovering.ability":"xtri"}
+        },
+        {
+            "id": "setup.wis",
+            "icon":"xwis",
+            "label": "Mémoire: Wist?",
+            "desc": "Wist est le nom, la mémoire - cette partie qui reste. Est-ce important pour moi que les choses perdurent?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xwis","recovering.ability":"xwis"}
+        }
+        
+    ]
+}

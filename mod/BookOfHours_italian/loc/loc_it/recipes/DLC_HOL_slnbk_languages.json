@@ -1,0 +1,99 @@
+{
+ "recipes": [
+  {
+   "id": "slnbk.cracktrack.chaima",
+   "label": "Conoscenza: Cracktrack",
+   "startdescription": "La conversazione si è soffermata su Cracktrack..."
+  },
+  {
+   "id": "slnbk.cracktrack.stanislav",
+   "label": "Conoscenza: Cracktrack",
+   "startdescription": "La conversazione si è soffermata su Cracktrack..."
+  },
+  {
+   "id": "slnbk.fucine.agdistis",
+   "label": "Conoscenza: Fucine",
+   "startdescription": "La conversazione si è soffermata su Fucine..."
+  },
+  {
+   "id": "slnbk.fucine.serena",
+   "label": "Conoscenza: Fucine",
+   "startdescription": "La conversazione si è soffermata su Fucine..."
+  },
+  {
+   "id": "slnbk.henavek.yvette",
+   "label": "Conoscenza: Henavek",
+   "startdescription": "La conversazione si è soffermata su Henavek..."
+  },
+  {
+   "id": "slnbk.hyksos.corso",
+   "label": "Conoscenza: Hyksos",
+   "startdescription": "La conversazione si è soffermata su Hyksos..."
+  },
+  {
+   "id": "slnbk.killasimi.connie",
+   "label": "Conoscenza: Killasimi",
+   "startdescription": "La conversazione si è soffermata su Killasimi..."
+  },
+  {
+   "id": "slnbk.killasimi.morgen",
+   "label": "Conoscenza: Killasimi",
+   "startdescription": "La conversazione si è soffermata su Killasimi..."
+  },
+  {
+   "id": "slnbk.killasimi.zachary",
+   "label": "Conoscenza: Killasimi",
+   "startdescription": "La conversazione si è soffermata su Killasimi..."
+  },
+  {
+   "id": "slnbk.mandaic.azita",
+   "label": "Conoscenza: Mandaico Profondo",
+   "startdescription": "La conversazione si è soffermata sul Mandaico Profondo..."
+  },
+  {
+   "id": "slnbk.mandaic.ehsan",
+   "label": "Conoscenza: Mandaico Profondo",
+   "startdescription": "La conversazione si è soffermata sul Mandaico Profondo..."
+  },
+  {
+   "id": "slnbk.mandaic.hokobald",
+   "label": "Conoscenza: Mandaico Profondo",
+   "startdescription": "La conversazione si è soffermata sul Mandaico Profondo..."
+  },
+  {
+   "id": "slnbk.ramsund.dagmar",
+   "label": "Conoscenza: Ramsund",
+   "startdescription": "La conversazione si è soffermata su Ramsund..."
+  },
+  {
+   "id": "slnbk.ramsund.fraser",
+   "label": "Conoscenza: Ramsund",
+   "startdescription": "La conversazione si è soffermata su Ramsund..."
+  },
+  {
+   "id": "slnbk.ramsund.olympe",
+   "label": "Conoscenza: Ramsund",
+   "startdescription": "La conversazione si è soffermata su Ramsund..."
+  },
+  {
+   "id": "slnbk.sabazine.aladim",
+   "label": "Conoscenza: Sabazine",
+   "startdescription": "La conversazione si è soffermata su Sabazine..."
+  },
+  {
+   "id": "slnbk.sabazine.arthur",
+   "label": "Conoscenza: Sabazine",
+   "startdescription": "La conversazione si è soffermata su Sabazine..."
+  },
+  {
+   "id": "slnbk.vak.arun",
+   "label": "Conoscenza: Vak",
+   "startdescription": "La conversazione si è soffermata su Vak..."
+  },
+  {
+   "id": "slnbk.vak.coquille",
+   "label": "Conoscenza: Vak",
+   "startdescription": "La conversazione si è soffermata su Vak..."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{"recipes": [
+ 
+{"id": "world.corals.deeplight.delegacizing",
+"label": "A Merciful Alteration",
+"actionid": "world.corals.deeplight",
+"startdescription": "[There's an aberration here. Hit Start, and the problem will permanently resolve itself. You might need to put a Soul element in to make Start available, but you won't lose or fatigue anything.]",
+"aspects":{"delegacizing":1},
+"craftable":"true",
+"warmup":1
+
+},
+
+{"id": "daily.weather.numa",
+"label": "Daily Weather: Numa",
+"startdescription":"Weather draw: Numa",
+"actionid": "weather",
+"extantreqs":{"season.numa":1}}
+]
+}

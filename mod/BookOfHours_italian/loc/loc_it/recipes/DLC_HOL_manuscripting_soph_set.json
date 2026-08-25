@@ -1,0 +1,223 @@
+{
+ "recipes": [
+  {
+   "id": "manuscript.soph.set.preliminalmeter"
+  },
+  {
+   "id": "manuscript.soph.set.pyroglyphics"
+  },
+  {
+   "id": "manuscript.soph.set.inks.containment"
+  },
+  {
+   "id": "manuscript.soph.set.inks.revelation"
+  },
+  {
+   "id": "manuscript.soph.set.inks.power"
+  },
+  {
+   "id": "manuscript.soph.set.drums.dances"
+  },
+  {
+   "id": "manuscript.soph.set.strings.songs"
+  },
+  {
+   "id": "manuscript.soph.set.bells.brazieries"
+  },
+  {
+   "id": "manuscript.soph.set.horns.ivories"
+  },
+  {
+   "id": "manuscript.soph.set.surgeries.exsanguinations"
+  },
+  {
+   "id": "manuscript.soph.set.stitching.binding"
+  },
+  {
+   "id": "manuscript.soph.set.furs.feathers"
+  },
+  {
+   "id": "manuscript.soph.set.pearl.tide"
+  },
+  {
+   "id": "manuscript.soph.set.insects.nectars"
+  },
+  {
+   "id": "manuscript.soph.set.herbs.infusions"
+  },
+  {
+   "id": "manuscript.soph.set.spices.savours"
+  },
+  {
+   "id": "manuscript.soph.set.leaves.thorns"
+  },
+  {
+   "id": "manuscript.soph.set.orchids.narcotics"
+  },
+  {
+   "id": "manuscript.soph.set.serpents.venoms"
+  },
+  {
+   "id": "manuscript.soph.set.sights.sensations"
+  },
+  {
+   "id": "manuscript.soph.set.desires.dissolutions"
+  },
+  {
+   "id": "manuscript.soph.set.resurgences.emergences"
+  },
+  {
+   "id": "manuscript.soph.set.rhyme.remembrance"
+  },
+  {
+   "id": "manuscript.soph.set.disciplines.thehammer"
+  },
+  {
+   "id": "manuscript.soph.set.disciplines.thescar"
+  },
+  {
+   "id": "manuscript.soph.set.auroralcontemplations"
+  },
+  {
+   "id": "manuscript.soph.set.applebrighteuphonies"
+  },
+  {
+   "id": "manuscript.soph.set.watchmansparadoxes"
+  },
+  {
+   "id": "manuscript.soph.set.raggedcrossroads"
+  },
+  {
+   "id": "manuscript.soph.set.meniscatereflections"
+  },
+  {
+   "id": "manuscript.soph.set.putrefactions.calcinations"
+  },
+  {
+   "id": "manuscript.soph.set.solutions.separations"
+  },
+  {
+   "id": "manuscript.soph.set.path.pilgrim"
+  },
+  {
+   "id": "manuscript.soph.set.purifications.exaltations"
+  },
+  {
+   "id": "manuscript.soph.set.transformations.liberations"
+  },
+  {
+   "id": "manuscript.soph.set.lockworks.clockworks"
+  },
+  {
+   "id": "manuscript.soph.set.seastories"
+  },
+  {
+   "id": "manuscript.soph.set.wolfstories"
+  },
+  {
+   "id": "manuscript.soph.set.sandstories"
+  },
+  {
+   "id": "manuscript.soph.set.skystories"
+  },
+  {
+   "id": "manuscript.soph.set.snowstories"
+  },
+  {
+   "id": "manuscript.soph.set.stonestories"
+  },
+  {
+   "id": "manuscript.soph.set.vak"
+  },
+  {
+   "id": "manuscript.soph.set.mandaic"
+  },
+  {
+   "id": "manuscript.soph.set.killasimi"
+  },
+  {
+   "id": "manuscript.soph.set.fucine"
+  },
+  {
+   "id": "manuscript.soph.set.sabazine"
+  },
+  {
+   "id": "manuscript.soph.set.cracktrack"
+  },
+  {
+   "id": "manuscript.soph.set.hyksos"
+  },
+  {
+   "id": "manuscript.soph.set.ericapaean"
+  },
+  {
+   "id": "manuscript.soph.set.ramsund"
+  },
+  {
+   "id": "manuscript.soph.set.sacrasolisinvicti"
+  },
+  {
+   "id": "manuscript.soph.set.tridesmahiera"
+  },
+  {
+   "id": "manuscript.soph.set.sacralimiae"
+  },
+  {
+   "id": "manuscript.soph.set.sickle.eclipse"
+  },
+  {
+   "id": "manuscript.soph.set.hill.hollow"
+  },
+  {
+   "id": "manuscript.soph.set.pentiments.precursors"
+  },
+  {
+   "id": "manuscript.soph.set.coil.chasm"
+  },
+  {
+   "id": "manuscript.soph.set.rites.theroots"
+  },
+  {
+   "id": "manuscript.soph.set.door.wall"
+  },
+  {
+   "id": "manuscript.soph.set.edictsliminal"
+  },
+  {
+   "id": "manuscript.soph.set.edictsmartial"
+  },
+  {
+   "id": "manuscript.soph.set.edictsinviolable"
+  },
+  {
+   "id": "manuscript.soph.set.thegreatsignsandthegreatscars"
+  },
+  {
+   "id": "manuscript.soph.set.maggephenemysteries"
+  },
+  {
+   "id": "manuscript.soph.set.weaving.knotworking"
+  },
+  {
+   "id": "manuscript.soph.set.anbary.lapidary"
+  },
+  {
+   "id": "manuscript.soph.set.quenchings.quellings"
+  },
+  {
+   "id": "manuscript.soph.set.glassblowing.vesselcrafting"
+  },
+  {
+   "id": "manuscript.soph.set.glaziery.lightsmithing"
+  },
+  {
+   "id": "manuscript.soph.set.sharps"
+  },
+  {
+   "id": "manuscript.soph.set.ouranoscopy"
+  },
+  {
+   "id": "manuscript.soph.set.henavek"
+  }
+ ]
+}

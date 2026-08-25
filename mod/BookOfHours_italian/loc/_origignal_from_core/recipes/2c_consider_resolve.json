@@ -1,0 +1,72 @@
+ {"recipes": [
+
+
+    {
+        "id": "examine.vegetables.leeks",
+        "actionid": "consider",
+        "label": "Identify as Leeks",
+        "reqs":{"sack.vegetables":1,"ability":1},
+        "startdescription": "These are leeks. Excellent.",
+        "warmup":5,
+        "aspects":{"fatiguing.ability":1},
+        "effects":{"veg.basket.leeks":1,"sack.vegetables":-1},
+        "craftable":true
+    },
+    {
+        "id": "examine.vegetables.onions",
+        "actionid": "consider",
+        "label": "Identify as Onions",
+        "reqs":{"sack.vegetables":1,"ability":1},
+        "startdescription": "These are onions. Wonderful.",
+        "warmup":5,
+        "effects":{"veg.basket.onions":1,"sack.vegetables":-1},
+        "aspects":{"fatiguing.ability":1},
+        "craftable":true
+    },
+    {
+        "id": "examine.vegetables.pumpkin",
+        "actionid": "consider",
+        "label": "Identify as a Pumpkin",
+        "reqs":{"sack.vegetables":1,"ability":1},
+        "startdescription": "This is a pumpkin. Marvellous.",
+        "aspects":{"fatiguing.ability":1},
+        "warmup":5,
+        "effects":{"pumpkin":1,"sack.vegetables":-1},
+        "craftable":true
+    },
+    {
+        "id": "examine.vegetables.potatoes",
+        "actionid": "consider",
+        "label": "Identify as Potatoes",
+        "reqs":{"sack.vegetables":1,"ability":1},
+        "startdescription": "These are potatoes. Spectacular.",
+        "aspects":{"fatiguing.ability":1},
+        "warmup":5,
+        "effects":{"potatoes":1,"sack.vegetables":-1},
+        "craftable":true
+    },
+    {
+        "id": "examine.vegetables.marrow",
+        "actionid": "consider",
+        "label": "Identify as a Marrow",
+        "reqs":{"sack.vegetables":1,"ability":1},
+        "startdescription": "This is a marrow. Promising.",
+        "effects":{"sack.vegetables":-1},
+        "aspects":{"fatiguing.ability":1},
+        "warmup":5,
+                    "internaldeck": {
+                        "spec": [
+                            "veg.marrow.dark",
+                            "veg.marrow.golden",
+                            "veg.marrow.pale",
+                            "veg.marrow.acrid"
+                        ],
+                        "draws": 1,
+                        "defaultcard": "veg.marrow.golden",
+                        "resetonexhaustion": true
+                    },
+        "craftable":true
+    }
+   
+]
+}

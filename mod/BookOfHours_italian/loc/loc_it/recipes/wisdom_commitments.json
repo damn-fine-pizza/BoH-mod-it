@@ -1,0 +1,880 @@
+{
+ "recipes": [
+  {
+   "id": "commit.hor.s.anbary.lapidary",
+   "label": "Zaffiro Nero",
+   "startdescription": "Le Arti Luminose parlano di una risplendente Città Non Costruita. Un giorno, potremmo costruirla nel Mansus, la grande casa dei sogni… con una pietra di fondazione di zaffiro nero. Questa sarebbe una grande materia di Oromachia.",
+   "desc": "Le Arti Luminose parlano di una risplendente Città Non Costruita. Un giorno, potremmo costruirla nel Mansus, la grande casa dei sogni… con una pietra di fondazione di zaffiro nero."
+  },
+  {
+   "id": "commit.ith.s.anbary.lapidary",
+   "label": "Ambra",
+   "startdescription": "Le Arti Luminose parlano di una risplendente Città Non Costruita. Un giorno, potremmo costruirla come un gioiello nel mare… con una pietra di fondazione d’ambra. Questa sarebbe una grande opera di Ithastria.",
+   "desc": "Le Arti Luminose parlano di una risplendente Città Non Costruita. Un giorno, potremmo costruirla come un gioiello nel mare… con una pietra di fondazione d’ambra."
+  },
+  {
+   "id": "commit.bos.s.applebrighteuphonies",
+   "label": "Ciò che Si Può Conoscere",
+   "startdescription": "La Calyptra è la legge che impone che la conoscenza segreta resti celata – tranne che nelle biblioteche dell’Albero del Guardiano. Il numero delle Ore della Calyptra è tre, e non parliamo dell’Ora più antica. Questa osservanza è materia del Boschetto. ",
+   "desc": "La Calyptra è la legge che impone che la conoscenza segreta resti celata – tranne che nelle biblioteche dell’Albero del Guardiano. Il numero delle Ore della Calyptra è tre, e non parliamo dell’Ora più antica, sebbene la ricordiamo."
+  },
+  {
+   "id": "commit.ill.s.applebrighteuphonies",
+   "label": "Ciò che Potrebbe Essere Vero",
+   "startdescription": "La Calyptra è la legge che impone che la conoscenza segreta sia dimenticata – tranne che nelle biblioteche dell’Albero del Guardiano. Il numero delle Ore della Calyptra è tre, e non ci fidiamo della terza Ora, sebbene le diamo ascolto. Questo paradosso è materia dell’Illuminazione.",
+   "desc": "La Calyptra è la legge che impone che la conoscenza segreta sia dimenticata – tranne che nelle biblioteche dell’Albero del Guardiano. Il numero delle Ore della Calyptra è tre, e non ci fidiamo della terza Ora, sebbene le diamo ascolto."
+  },
+  {
+   "id": "commit.ill.s.auroralcontemplations",
+   "label": "La Prima Alba",
+   "startdescription": "La luce di ieri determina i colori di domani... e attraverso l’Illuminazione, apprendiamo che tutti noi iniziammo nella luce.",
+   "desc": "La luce di ieri determina i colori di domani... e tutti noi iniziammo nella luce."
+  },
+  {
+   "id": "commit.nyc.s.auroralcontemplations",
+   "label": "La Strada del Tramonto",
+   "startdescription": "Ogni viaggio è un giorno, e siamo messi alla prova come viaggiatori e come pellegrini. Questo è il ruolo che queste Contemplazioni svolgono nella Sapienza della Nittodromia.",
+   "desc": "Ogni viaggio è un giorno, e siamo messi alla prova come viaggiatori e come pellegrini."
+  },
+  {
+   "id": "commit.hor.s.bells.brazieries",
+   "label": "Il Tocco a Morto",
+   "startdescription": "Nella mano giusta di un mortale, lo strumento giusto può diventare l’arma che inizia una guerra. Questa è un’alta conseguenza dell’Oromachia.",
+   "desc": "Nella mano giusta di un mortale, lo strumento giusto può diventare l’arma che inizia una guerra."
+  },
+  {
+   "id": "commit.ith.s.bells.brazieries",
+   "label": "Il Rintocco",
+   "startdescription": "Nella mano giusta di un mortale, lo strumento giusto può diventare l’arma che pone fine a una guerra. Questo è un alto scopo dell’Ithastria.",
+   "desc": "Nella mano giusta di un mortale, lo strumento giusto può diventare l’arma che pone fine a una guerra."
+  },
+  {
+   "id": "commit.nyc.s.coil.chasm",
+   "label": "Pavone",
+   "startdescription": "Le Arti della Notte insegnano che il Cancello del Pavone è la porta più alta nei sogni a cui i mortali possano aspirare; ma che prima di elevarsi a questo rango, il Cancello era un Nome dell’Ascia Cornuta. Tutti i nittodromisti cercano di comprendere cosa questo possa significare.",
+   "desc": "Le Arti della Notte insegnano che il Cancello del Pavone è la porta più alta nei sogni a cui i mortali possano aspirare; ma che prima di elevarsi a questo rango, il Cancello era un Nome dell’Ascia Cornuta."
+  },
+  {
+   "id": "commit.sko.s.coil.chasm",
+   "label": "Serpente",
+   "startdescription": "Le Arti della Notte parlano della Porta Selvaggia, di cui Echidna, madre dei mostri, custodisce la Chiave Selvaggia. Fu il mezzo con cui gli dèi-che-erano-pietra entrarono nel Mansus; poiché Echidna fu un tempo annoverata tra i loro Nomi. Tutti gli scolecosofisti cercano di comprendere cosa questo possa significare.",
+   "desc": "Le Arti della Notte parlano della Porta Selvaggia, di cui Echidna, madre dei mostri, custodisce la Chiave Selvaggia. Fu il mezzo con cui gli dèi-che-erano-pietra entrarono nel Mansus; poiché Echidna fu un tempo annoverata tra i loro Nomi."
+  },
+  {
+   "id": "commit.pre.s.cracktrack",
+   "label": "Una Lingua di Terra",
+   "startdescription": "Cracktrack è la lingua nativa del mondo vivente. Finché si parla Cracktrack, in forma di nuvola e forma di collina, la vita persiste. Questa è una faccenda della Preservazione.",
+   "desc": "Cracktrack è la lingua nativa del mondo vivente. Finché si parla Cracktrack, in forma di nuvola e forma di collina, la vita persiste."
+  },
+  {
+   "id": "commit.ill.s.cracktrack",
+   "label": "Una Lingua di Cielo",
+   "startdescription": "Cracktrack fu un dono della luce sopra il mondo. Quando la Gloria toccò i primi granelli di vita con questa lingua, essi entrarono nel mondo desto. Furono Illuminati.",
+   "desc": "Cracktrack fu un dono della luce sopra il mondo. Quando la Gloria toccò i primi granelli di vita con questa lingua, essi entrarono nel mondo desto."
+  },
+  {
+   "id": "commit.bos.s.desires.dissolutions",
+   "label": "Sotto",
+   "startdescription": "ROSSA L’ALBA E NERA LA NOTTE E BIANCO CIÒ CHE RESTA. SOPRA VEDIAMO, SOTTO SAPPIAMO.\n\nIl Boschetto.",
+   "desc": "ROSSA L’ALBA E NERA LA NOTTE E BIANCO CIÒ CHE RESTA. SOPRA VEDIAMO, SOTTO SAPPIAMO."
+  },
+  {
+   "id": "commit.hor.s.desires.dissolutions",
+   "label": "Sopra",
+   "startdescription": "Ciò che inizia nella luce può finire nella carne. Senza distinzione e percezione, il piacere non può essere distinto dal dolore. Queste tradizioni sono Oromachia.",
+   "desc": "Ciò che inizia nella luce può finire nella carne. Senza distinzione e percezione, il piacere non può essere distinto dal dolore."
+  },
+  {
+   "id": "commit.ill.s.disciplines.thehammer",
+   "label": "Acciaio e Vetro",
+   "startdescription": "Una certa parabola delle Arti Luminose narra di un sacerdote che eresse un altare d’acciaio e vetro a un antico dio; ma trovò poi un nuovo dio dentro l’altare.",
+   "desc": "Una certa parabola delle Arti Luminose narra di un sacerdote che eresse un altare d’acciaio e vetro a un antico dio; ma trovò poi un nuovo dio dentro l’altare."
+  },
+  {
+   "id": "commit.nyc.s.disciplines.thehammer",
+   "label": "Ambra, Oricalco",
+   "startdescription": "Una certa parabola delle Arti Notturne narra di un pellegrino che eresse un cancello d’ambra e oricalco affinché potesse attraversarlo per raggiungere la propria destinazione; ma scoprì poi che la destinazione si trovava già da questo lato del cancello.",
+   "desc": "Una certa parabola delle Arti Notturne narra di un pellegrino che eresse un cancello d’ambra e oricalco affinché potesse attraversarlo per raggiungere la propria destinazione; ma scoprì poi che la destinazione si trovava già da questo lato del cancello."
+  },
+  {
+   "id": "commit.ill.s.disciplines.thescar",
+   "label": "La Cicatrice",
+   "startdescription": "Il Mansus è la fortezza del sogno dove le vere Ore governano, e il Nessun Luogo è la cicatrice sotto di essa dove le Ore del Nessun Luogo si annidano. Senza le Ore sopra, quella cicatrice sarebbe una ferita aperta. Così ci insegnano le Arti Luminose.",
+   "desc": "Il Mansus è la fortezza del sogno dove le vere Ore governano, e il Nessun Luogo è la cicatrice sotto di essa dove le Ore del Nessun Luogo si annidano. Senza le Ore sopra, quella cicatrice sarebbe una ferita aperta. Così ci insegnano le Arti Luminose."
+  },
+  {
+   "id": "commit.hus.s.disciplines.thescar",
+   "label": "Il Crimine",
+   "startdescription": "Il Mansus è la fortezza nel sogno innalzata dagli dèi-che-erano-pietra. Il Nessun Luogo è la cicatrice inevitabile sotto di essa. Mostruosi, gli dèi-dal-Nessun Luogo; ma crudeli, gli dèi-che-erano-pietra.",
+   "desc": "Il Mansus è la fortezza nel sogno innalzata dagli dèi-che-erano-pietra. Il Nessun Luogo è la cicatrice inevitabile sotto di essa. Mostruosi, gli dèi-dal-Nessun Luogo; ma crudeli, gli dèi-che-erano-pietra."
+  },
+  {
+   "id": "commit.nyc.s.door.wall",
+   "label": "Ciò che Non Può Essere",
+   "startdescription": "C’è una profezia, di una risplendente Città che i mortali potrebbero costruire. C’è un paradosso, che una Città Non Costruita può sempre essere più grande di una che esiste. Le Arti della Notte insegnano questa soluzione: che il cancello di quella Città deve essere foggiato di zaffiro nero, e innalzato nei sogni. ",
+   "desc": "C’è una profezia, di una risplendente Città che i mortali potrebbero costruire. C’è un paradosso, che una Città Non Costruita può sempre essere più grande di una che esiste. Le Arti della Notte insegnano questa soluzione: che il cancello di quella Città dev’essere modellato in zaffiro nero, e innalzato nei sogni. "
+  },
+  {
+   "id": "commit.hor.s.door.wall",
+   "label": "Ciò che Non Dovrebbe Essere",
+   "startdescription": "C’è una profezia, di una risplendente Città che i mortali potrebbero costruire. C’è un paradosso, che una Città Non Costruita può sempre essere più grande di una che esiste. Le Arti Luminose insegnano questa soluzione: che le Ore vieteranno sempre l’innalzamento di quella Città, cosicché resti una grande speranza e un grande viaggiare.",
+   "desc": "C’è una profezia, di una risplendente Città che i mortali potrebbero costruire. C’è un paradosso, che una Città Non Costruita può sempre essere più grande di una che esiste. Le Arti Luminose insegnano questa soluzione: che le Ore vieteranno sempre l’innalzamento di quella Città, cosicché resti una grande speranza e un grande viaggiare."
+  },
+  {
+   "id": "commit.bos.s.drums.dances",
+   "label": "La Radice",
+   "startdescription": "Il Pelledituono, il tamburo eterno che batte per preservare la pelle del mondo, è un dio-dalla-carne, ossia fu un tempo mortale. Morì per preservare l’ultimo dio-dalla-pietra; morì per amore; morì per necessità. Nelle materie del Boschetto, questi tre sono spesso intrecciati.",
+   "desc": "Il Pelledituono, il tamburo eterno che batte per preservare la pelle del mondo, è un dio-dalla-carne, ossia fu un tempo mortale. Morì per preservare l’ultimo dio-dalla-pietra; morì per amore; morì per necessità. Nelle materie del Boschetto, questi tre sono spesso intrecciati."
+  },
+  {
+   "id": "commit.hor.s.drums.dances",
+   "label": "Il Cuore",
+   "startdescription": "Il Pelledituono, il tamburo eterno che batte per preservare la pelle del mondo, è un dio-dalla-carne, ossia fu un tempo mortale. Ma l’Ascia Cornuta, ultima degli dèi-dalla-pietra, richiese la sua morte, e così il Graal lo cedette, sebbene lui l’amasse. L’amore è sempre soggetto alla volontà delle Ore, come sanno tutti gli oromachisti.",
+   "desc": "Il Pelledituono, il tamburo eterno che batte per preservare la pelle del mondo, è un dio-dalla-carne, ossia fu un tempo mortale. Ma l’Ascia Cornuta, ultima degli dèi-dalla-pietra, richiese la sua morte, e così il Graal lo cedette, sebbene lui l’amasse. L’amore è sempre soggetto alla volontà delle Ore, come sanno tutti gli oromachisti."
+  },
+  {
+   "id": "commit.hor.s.edictsinviolable",
+   "label": "Fuoco",
+   "startdescription": "La Giumenta-nell’Albero non è l’Ora più giovane; ma è l’Ora più giovane della Calyptra, poiché è nata molte volte in molti luoghi. Il Fiore Rosso sull’Albero del Guardiano è il fuoco alimentato dalla verità, e senza di esso l’Albero cadrebbe, come sanno tutti gli oromachisti. ",
+   "desc": "La Giumenta-nell’Albero non è l’Ora più giovane; ma è l’Ora più giovane della Calyptra, poiché è nata molte volte in molti luoghi. Il Fiore Rosso sull’Albero del Guardiano è il fuoco alimentato dalla verità, e senza di esso l’Albero cadrebbe."
+  },
+  {
+   "id": "commit.pre.s.edictsinviolable",
+   "label": "Notte",
+   "startdescription": "Il Velluto non è l’Ora più antica; ma è l’Ora più antica della Calyptra. Il Fiore Nero sull’Albero del Guardiano è la preservazione dei segreti, e senza di esso l’Albero cadrebbe. Questa è materia di Preservazione.",
+   "desc": "Il Velluto non è l’Ora più antica; ma è l’Ora più antica della Calyptra. Il Fiore Nero sull’Albero del Guardiano è la preservazione dei segreti, e senza di esso l’Albero cadrebbe."
+  },
+  {
+   "id": "commit.nyc.s.edictsliminal",
+   "label": "Zaffiro",
+   "startdescription": "C’è una profezia di una gloriosa Città che i mortali potrebbero innalzare, ma le Ore del Chancel hanno decretato che non esisterà. I decreti del Chancel non si sfidano, ma di tanto in tanto sono stati aggirati… e potremmo concepire che una Città dalle mura di selce splendente possa essere innalzata nei sogni; nel Mansus. Questa sarebbe Nittodromia.",
+   "desc": "C’è una profezia di una gloriosa Città che i mortali potrebbero innalzare, ma le Ore del Chancel hanno decretato che non esisterà. I decreti del Chancel non si sfidano, ma di tanto in tanto sono stati aggirati… e potremmo concepire che una Città dalle mura di selce splendente possa essere innalzata nei sogni; nel Mansus."
+  },
+  {
+   "id": "commit.sko.s.edictsliminal",
+   "label": "Scolecite",
+   "startdescription": "C’è una profezia di una gloriosa Città che i mortali potrebbero innalzare, ma le Ore del Chancel hanno decretato che non esisterà. I decreti del Chancel non si sfidano, ma di tanto in tanto sono stati aggirati… e potremmo concepire che quella Città dalle mura di scolecite splendente possa essere innalzata nel Nessun Luogo; nell’oscurità sotto i sogni. Questa sarebbe Scolecosofia.",
+   "desc": "C’è una profezia di una gloriosa Città che i mortali potrebbero innalzare, ma le Ore del Chancel hanno decretato che non esisterà. I decreti del Chancel non si sfidano, ma di tanto in tanto sono stati aggirati… e potremmo concepire che quella Città dalle mura di selce splendente possa essere innalzata nel Nessun Luogo; nell’oscurità sotto i sogni."
+  },
+  {
+   "id": "commit.hor.s.edictsmartial",
+   "label": "Il Conflitto Crea Dèi",
+   "startdescription": "Tutte le Ore sono definite dalla loro opposizione ad altre Ore... proprio come noi siamo definiti dalle battaglie che scegliamo. Questa è materia della Sapienza dell’Oromachia.",
+   "desc": "Tutte le Ore sono definite dalla loro opposizione ad altre Ore... proprio come noi siamo definiti dalle battaglie che scegliamo. Questa è materia della Sapienza dell’Oromachia."
+  },
+  {
+   "id": "commit.ill.s.edictsmartial",
+   "label": "La Comprensione Crea Conflitto",
+   "startdescription": "Quando nominiamo le nostre differenze, impariamo a conoscere i nostri nemici. Dove non ci sono nomi, non ci sono nemici. Questa è materia della Sapienza dell’Illuminazione.",
+   "desc": "Quando nominiamo le nostre differenze, impariamo a conoscere i nostri nemici. Dove non ci sono nomi, non ci sono nemici."
+  },
+  {
+   "id": "commit.ill.s.ericapaean",
+   "label": "Il Re e la Chiave",
+   "startdescription": "C’è una storia raccontata dagli studiosi della luce: di un grande e aureo Re che deteneva l’unica chiave della sua cella più profonda. Un giorno chiese al proprio ministro di farne otto copie, e distribuirle fra il popolo. «Ma Sire», disse il ministro, «se un ribelle riuscisse a entrare nel nostro palazzo, non potrebbe forse liberare i propri complici?»\n\n«Potrebbe», rispose il Re. «Ma tutti i regni cadono, e un giorno potrei io stesso cercare di essere liberato da quella cella.»",
+   "desc": "Un grande e dorato Re custodiva l’unica chiave della sua cella più profonda. Un giorno chiese al proprio ministro di farne otto copie, e distribuirle fra il popolo. «Ma Sire,» disse il ministro «se un ribelle riuscisse a intrufolarsi nel nostro palazzo, non potrebbe forse liberare i propri complici?»\n\n«Potrebbe» rispose il Re. «Ma tutti i regni cadono, e un giorno potrei anch’io cercare di essere liberato da quella cella.»"
+  },
+  {
+   "id": "commit.hus.s.ericapaean",
+   "label": "Il Re nello Specchio",
+   "startdescription": "C’è una storia raccontata dagli studiosi del silenzio: di un grande e aureo Re che deteneva l’unica chiave della sua cella più profonda. Un giorno diede la chiave al proprio ministro, e gli offrì una scelta: sottomettersi all’esecuzione, oppure visitare la cella e riferirgli cosa vi avesse trovato. Il ministro fece la scelta più saggia, e tornò a mostrare al Re cosa avesse trovato nella cella: uno specchio.\n\n«Allora ti libero», dichiarò il Re. Il ministro lasciò il palazzo quello stesso giorno. Il suo riflesso, naturalmente, non disse proprio nulla.",
+   "desc": "Un grande e dorato Re custodiva l’unica chiave della sua cella più profonda. Un giorno diede la chiave al proprio ministro, e gli offrì una scelta: sottomettersi all’esecuzione, oppure visitare la cella e riferirgli che cosa vi avesse trovato. Il ministro fece la scelta più saggia, e tornò a mostrare al Re ciò che aveva trovato nella cella: uno specchio.\n\n«Allora ti libero» dichiarò il Re. Il ministro lasciò il palazzo quello stesso giorno. Il suo riflesso, naturalmente, non disse nulla."
+  },
+  {
+   "id": "commit.hus.s.fucine",
+   "label": "La Ferita della Regina",
+   "startdescription": "C’è una storia nota ai pittori: di una Regina che non poteva amare nessun altro, né donna né uomo, ma solo la propria immagine. Cercò nove colori per adornare l’immagine, e l’ultimo fu il turchese dei suoi occhi, un dono del Re Senza-Ombra. Il poeta di corte inneggiò alla propria Regina e alla sua immagine, e nel suo poema lei udì la verità: che l’immagine era più grande. Così fuggì nel Bosco, e l’immagine governò il suo dominio con il poeta come proprio consorte, ma la ricordò sempre con benevolenza.",
+   "desc": "Una Regina non poteva amare altri che la propria immagine. Cercò nove colori per adornarla, e l’ultimo fu il turchese dei suoi occhi, un dono del Re Senza-Ombra. Il suo poeta di corte cantò le lodi della propria Regina e della sua immagine, e nel suo poema lei udì la verità: che l’immagine era la più grande delle due. Così fuggì nel Bosco, e l’immagine governò il suo dominio con il poeta come consorte, ma serbò sempre un ricordo gentile di lei."
+  },
+  {
+   "id": "commit.ith.s.fucine",
+   "label": "L’Arma della Regina",
+   "startdescription": "C’è una storia nota ai fabbri: di una Regina il cui regno fu invaso da un grande esercito. Quando apprese che c’erano nove invasori per ogni difensore, ordinò al proprio esercito di consegnare le spade. Notte e giorno i suoi fabbri si affaticarono a fondere le spade in bronzo, mentre i suoi generali minacciavano l’ammutinamento e il nemico avanzava senza ostacoli. Usarono il bronzo per fondere una Campana, ma ogni volta che la Campana veniva suonata, si incrinava e doveva essere rifusa. Alla fine, la notte prima che gli invasori raggiungessero la città, la Regina cedette la propria corona alla fusione. Quando all’alba i fabbri suonarono la Campana, essa incrinò la luna come un uovo e scacciò il sole dal cielo. Gli invasori fuggirono. Ma la Regina senza corona non era più regina affatto.",
+   "desc": "Il regno di una Regina fu invaso da un grande esercito. Quando apprese che per ogni difensore c’erano nove invasori, ordinò al proprio esercito di consegnare le spade. Notte e giorno i suoi fabbri si affaticarono a fondere le spade in bronzo, mentre i suoi generali minacciavano l’ammutinamento e il nemico avanzava senza ostacoli. Usarono il bronzo per fondere una Campana, ma ogni volta che la Campana veniva suonata, si incrinava e doveva essere rifusa. Alla fine, la notte prima che gli invasori raggiungessero la città, la Regina sacrificò la propria corona alla fusione. Quando all’alba i fabbri suonarono la Campana, essa incrinò la luna come un uovo e scacciò il sole dal cielo. Gli invasori fuggirono. Ma la Regina senza corona non era più affatto una regina."
+  },
+  {
+   "id": "commit.nyc.s.furs.feathers",
+   "label": "Le Ali nel Bosco",
+   "startdescription": "Quando i primi cacciatori si persero nel Bosco, nei giorni prima del suo oscurarsi, trovarono una crisalide nera e bianca. Ad essa sacrificarono gli uccelli dell’aria, affinché mostrasse loro la via di casa. Così venne a essere la Falena, e così la Falena fu la prima a orientarsi nelle vie del Bosco. Questo è il fondamento della Nittodromia.",
+   "desc": "Quando i primi cacciatori giunsero nel Bosco, nei giorni prima del suo oscurarsi, trovarono una crisalide nera e bianca. Ad essa sacrificarono gli uccelli dell’aria, affinché mostrasse loro la via di casa. Così venne a essere la Falena, e così la Falena fu la prima a orientarsi nelle vie del Bosco."
+  },
+  {
+   "id": "commit.bos.s.furs.feathers",
+   "label": "Il Pozzo nel Bosco",
+   "startdescription": "Quando i primi cacciatori morivano di fame nel Bosco, nei giorni prima del suo oscurarsi, trovarono un pozzo profondo e cremisi. In esso annegarono le bestie della terra, affinché le bestie rinascessero triplicate, e i cacciatori potessero banchettare. Così venne a essere il Graal Rosso, e così da allora ci nutre e si nutre di noi. Questo, ce l’hanno insegnato le Matriarche del Nodo.",
+   "desc": "Quando i primi cacciatori morivano di fame nel Bosco, nei giorni prima del suo oscurarsi, trovarono un pozzo profondo e cremisi. In esso annegarono le bestie della terra, affinché le bestie rinascessero triplicate, e i cacciatori potessero banchettare. Così venne a essere il Graal Rosso, e così da allora ci nutre e si nutre di noi."
+  },
+  {
+   "id": "commit.ith.s.glassblowing.vesselcrafting",
+   "label": "Vetro, l’Uovo",
+   "startdescription": "Lo scopo più alto di un vaso di vetro: mostrare con perfetta chiarezza ciò che altrimenti resterebbe nascosto dentro. Forse, suggerisce l’Ithastria, questo fu il primo scopo della prima Ora, e solo in quel primo istante poté esserci chiarezza perfetta.",
+   "desc": "Lo scopo più alto di un vaso di vetro: mostrare con perfetta chiarezza ciò che altrimenti resterebbe nascosto dentro. Forse questo fu il primo scopo della prima Ora, e solo in quel primo istante poté esserci chiarezza perfetta."
+  },
+  {
+   "id": "commit.hus.s.glassblowing.vesselcrafting",
+   "label": "Vetro, il Custode",
+   "startdescription": "Lo scopo più alto di un vaso di vetro: separare ciò che è fuori da ciò che è dentro. Forse, suggerisce la Silenzieria, questo fu il primo scopo della prima Ora, e solo in quel primo istante poté esserci comprensione perfetta.",
+   "desc": "Lo scopo fondamentale di un vaso di vetro: separare ciò che è fuori da ciò che è dentro. Forse questo fu il primo scopo della prima Ora, e solo in quel primo istante poté esserci comprensione perfetta."
+  },
+  {
+   "id": "commit.ill.s.glaziery.lightsmithing",
+   "label": "Il Paradosso del Fiore Bianco",
+   "startdescription": "Un paradosso dell’Illuminazione: la luce rivela, la luce acceca. Questa è la lezione del Fiore Bianco dell’Albero del Guardiano: anche la più pericolosa delle conoscenze non è affatto un pericolo, quando viene dimenticata.",
+   "desc": "La luce rivela, la luce acceca. Questa è la lezione del Fiore Bianco dell’Albero del Guardiano: anche la più pericolosa delle conoscenze non è affatto un pericolo quando viene dimenticata."
+  },
+  {
+   "id": "commit.ith.s.glaziery.lightsmithing",
+   "label": "La Lezione del Fiore Rosso",
+   "startdescription": "Una lezione dall’Ithastria: il fuoco rivela, il fumo nasconde. Questa è la lezione del Fiore Rosso dell’Albero del Guardiano: anche la più pericolosa delle conoscenze non è affatto un pericolo, quando viene data al fuoco.",
+   "desc": "Il fuoco rivela, il fumo cela. Questa è la lezione del Fiore Rosso dell’Albero del Guardiano: anche la più pericolosa delle conoscenze non è affatto un pericolo quando viene affidata al fuoco."
+  },
+  {
+   "id": "commit.bos.s.henavek",
+   "label": "Le Radici",
+   "startdescription": "Un proverbio contadino di Brancrug: «Ciò che inizia nelle radici, finisce nel cielo.» Vi si accompagna una superstizione, secondo cui prima del primo compleanno di una bambina la si dovrebbe lasciare per una notte d’estate a dormire tra le radici di un melo, per assicurarsi che cresca alta e con la schiena dritta. Non in molti oggi badano alla superstizione, ma tutti ricordano il proverbio. Probabilmente conterebbe come Boschetto.",
+   "desc": "Un proverbio contadino di Brancrug: «Ciò che inizia nelle radici, finisce nel cielo.» Vi si accompagna una superstizione, secondo cui prima del primo compleanno di una bambina la si dovrebbe lasciare per una notte d’estate a dormire tra le radici di un melo, per assicurarsi che cresca alta e con la schiena dritta. Non in molti oggi badano alla superstizione, ma tutti ricordano il proverbio."
+  },
+  {
+   "id": "commit.ith.s.henavek",
+   "label": "Le Stelle",
+   "startdescription": "Un proverbio dei fabbri a Brancrug: «Ciò che inizia nel cielo, finisce nella terra.» Vi si accompagna una storia, secondo cui l’incudine del fabbro del villaggio, al tempo dei Dewulf, si schiuse da una pietra meteorica, e per questo ogni aratro del villaggio conosce qualcosa delle stelle. Non in molti ricordano la storia, ma tutti ricordano il proverbio. Probabilmente conterebbe come Ithastria.",
+   "desc": "Un proverbio dei fabbri a Brancrug: «Ciò che inizia nel cielo, finisce nella terra.» Vi si accompagna una storia, secondo cui l’incudine del fabbro del villaggio, al tempo dei Dewulf, si schiuse da una pietra meteorica, e per questo ogni aratro del villaggio conosce qualcosa delle stelle. Non in molti ricordano la storia, ma tutti ricordano il proverbio."
+  },
+  {
+   "id": "commit.pre.s.herbs.infusions",
+   "label": "La Fonte e la Radice",
+   "startdescription": "Nel più recondito giardino murato del palazzo dei Re Senza-Ombra in Persia, si preservava un tasso più antico di ogni altro. I Re posero un alveare fra i suoi rami, in memoria dei loro avi, e dai suoi fiori prepararono una cura sovrana contro ogni veleno. Questa è la radice di tutta la nostra scienza, e questa è Preservazione.",
+   "desc": "Nel più recondito giardino murato del palazzo dei Re Senza-Ombra in Persia, si preservava un tasso più antico di ogni altro. I Re posero un alveare fra i suoi rami, in memoria dei loro avi, e dai suoi fiori prepararono una cura sovrana contro ogni veleno. Questa è la radice di tutta la nostra scienza."
+  },
+  {
+   "id": "commit.bos.s.herbs.infusions",
+   "label": "La Radice e la Fonte",
+   "startdescription": "Nel più recondito giardino murato del palazzo dei Re Senza-Ombra in Persia, cresceva un tasso più antico di ogni altro. La sua radice era rossa, i suoi fiori erano neri, le sue bacche erano bianche. I Re lasciavano le loro figlie bambine per la notte nel nido delle sue radici, in memoria della grande Madre della loro stirpe, e così alle loro figlie erano assicurate salute, longevità e sapienza. Questa è la fonte di tutta la nostra scienza, e questo è il Boschetto.",
+   "desc": "Nel più recondito giardino murato del palazzo dei Re Senza-Ombra in Persia, cresceva un tasso più antico di ogni altro. La sua radice era rossa, i suoi fiori erano neri, le sue bacche erano bianche. I Re lasciavano le loro figlie bambine per la notte nel nido delle sue radici, in memoria della grande Madre della loro stirpe, e così alle loro figlie erano assicurate salute, longevità e sapienza. Questa è la fonte di tutta la nostra scienza."
+  },
+  {
+   "id": "commit.pre.s.hill.hollow",
+   "label": "Come Resistettero",
+   "startdescription": "In principio, la Croce del Carapace servì le prime Ore, gli dèi nati dalla pietra. Quando gli dèi-dalla-pietra furono sconfitti, dove poteva andare la Croce? Nelle colline; nei Confini; e in noi. Così venne a essere l’umanità, e nei nostri recessi più segreti, la Croce persiste. Questa è materia di Preservazione.",
+   "desc": "In principio, la Croce del Carapace servì le prime Ore, gli dèi nati dalla pietra. Quando gli dèi-dalla-pietra furono sconfitti, dove poteva andare la Croce? Nelle colline; nei Confini; e in noi. Così venne a essere l’umanità, e nei nostri recessi più segreti, la Croce persiste. "
+  },
+  {
+   "id": "commit.bir.s.hill.hollow",
+   "label": "Come Iniziarono",
+   "startdescription": "In principio, la Croce del Carapace servì le prime Ore, gli dèi nati dalla pietra. E i primi della Croce del Carapace furono la stirpe dei Thritige, che cercarono il Monarca-al-Crocevia perché li governasse con saggezza e lo trovarono in se stessi, che iniziarono come molti e finirono come uno. Questo è un enigma, e i creatori di enigmi ne conoscono l’importanza.",
+   "desc": "In principio, la Croce del Carapace servì le prime Ore, gli dèi nati dalla pietra. E i primi della Croce del Carapace furono la stirpe dei Thritige, che cercarono il Monarca-al-Crocevia perché li governasse con saggezza e lo trovarono in se stessi, che iniziarono come molti e finirono come uno."
+  },
+  {
+   "id": "commit.sko.s.horns.ivories",
+   "label": "Il Sentiero del Chandler",
+   "startdescription": "Quando il Chandler va a caccia nel buio del Bosco, ripara la propria candela affinché la preda non sia avvertita, ma lascia una scia di cera d’avorio perché lo si possa seguire e acquistare i suoi trofei. Dopotutto, lo scopo di ogni caccia è portare a casa un trofeo, e quando comprendiamo la Scolecosofia, sappiamo come contrattare.",
+   "desc": "Quando il Chandler va a caccia nel buio del Bosco, ripara la propria candela affinché la preda non sia avvertita, ma lascia una scia di cera d’avorio perché lo si possa seguire e acquistare i suoi trofei. Dopotutto, lo scopo di ogni caccia è portare a casa un trofeo."
+  },
+  {
+   "id": "commit.bos.s.horns.ivories",
+   "label": "La Via della Falena",
+   "startdescription": "Quando la Falena va a caccia nel buio del Bosco, ricorda un tempo in cui il Bosco era luminoso, ma usa le proprie corna per trovare la via, e possiamo seguirla se lo scegliamo. Dopotutto, un trofeo non è nulla senza una caccia: questa è la lezione del Bosco.",
+   "desc": "Quando la Falena va a caccia nel buio del Bosco, ricorda un tempo in cui il Bosco era luminoso, ma usa le proprie corna per trovare la via, e possiamo seguirla se lo scegliamo. Dopotutto, un trofeo non è nulla senza una caccia."
+  },
+  {
+   "id": "commit.nyc.s.hyksos",
+   "label": "I Guardiani",
+   "startdescription": "I veterani della Légion du Seuil, che sorvegliano i confini del mondo della veglia, raccontano storie dei labirinti sotto il Mansus, sopra il Bosco, e dentro la Luna, dove le prime Ore cadute dormono, o si nascondono, o marciscono: gli dèi-dalla-pietra. Perché i labirinti? Perché, dicono i legionari, ci sono Ore che oggi governano e che lotterebbero per consumare gli ultimi resti dei loro vecchi nemici; e chi banchetta eclisserebbe chi si astiene. I legionari sono noti per vantarsi che, se venisse loro offerto un premio abbastanza grande, potrebbero guidare le Ore affamate al loro banchetto.",
+   "desc": "I veterani della Légion du Seuil, che sorvegliano i confini del mondo della veglia, raccontano storie dei labirinti sotto il Mansus, sopra il Bosco, e dentro la Luna, dove le prime Ore cadute dormono, o si nascondono, o marciscono: gli dèi-dalla-pietra. Perché i labirinti? Perché, dicono i legionari, ci sono Ore che oggi governano e che lotterebbero per consumare gli ultimi resti dei loro vecchi nemici; e chi banchetta eclisserebbe chi si astiene. I legionari sono noti per vantarsi che, se venisse loro offerto un premio abbastanza grande, potrebbero guidare le Ore affamate al loro banchetto."
+  },
+  {
+   "id": "commit.sko.s.hyksos",
+   "label": "I Lanciatori di Dardi",
+   "startdescription": "Gli assassini dei Tragulari, che pongono fine alle lunghe vite dei Long, raccontano storie delle guerre fra le Ore nell’alba del mondo, quando il sole era rosso e basso – guerre in cui il suono selvaggio di campane selvagge disfece la luce di luna e sole – guerre in cui i sogni bruciarono su pire dove i Long erano il combustibile. Tutto questo finì, dicono i Tragulari, quando vennero i Vermi, e le Ore ebbero un nemico comune. E così i Tragulari temono i Vermi; odiano i Vermi; e fanno offerte ai Vermi.",
+   "desc": "Gli assassini dei Tragulari, che pongono fine alle lunghe vite dei Long, raccontano storie delle guerre fra le Ore nell’alba del mondo, quando il sole era rosso e basso – guerre in cui il suono selvaggio di campane selvagge disfece la luce di luna e sole – guerre in cui i sogni bruciarono su pire dove i Long erano il combustibile. Tutto questo finì, dicono i Tragulari, quando vennero i Vermi, e le Ore ebbero un nemico comune. E così i Tragulari temono i Vermi; odiano i Vermi; e fanno offerte ai Vermi."
+  },
+  {
+   "id": "commit.pre.s.inks.containment",
+   "label": "Quando È Sicuro",
+   "startdescription": "Certa conoscenza è vietata ai mortali… tranne che in nove grandi biblioteche protette dalle pietre-patto che custodiscono, dove questa conoscenza può essere registrata al sicuro negli inchiostri chiamati <i>encaustum terminale</i>. Queste biblioteche sono chiamate insieme l’Albero del Guardiano, e il patto segnato da queste pietre condivide quel nome. Tutto questo, dunque, è una faccenda della Preservazione.",
+   "desc": "Certa conoscenza è vietata ai mortali… tranne che in nove grandi biblioteche protette dalle pietre-patto che custodiscono, dove questa conoscenza può essere registrata al sicuro negli inchiostri chiamati <i>encaustum</i>. Queste biblioteche sono chiamate insieme l’Albero del Guardiano, e il patto segnato da queste pietre condivide quel nome."
+  },
+  {
+   "id": "commit.hor.s.inks.containment",
+   "label": "Quando È Permesso",
+   "startdescription": "Certa conoscenza è vietata ai mortali… a meno che non sia saggiamente contenuta. Questa legge si chiama Calyptra; l’imposizione di questa legge si chiama anch’essa Calyptra; le tre Ore che la impongono condividono quel nome. Permettono che quella conoscenza persista solo in certi luoghi autorizzati, e i segreti più pericolosi devono essere registrati solo negli inchiostri chiamati <i>encaustum terminale</i>. L’Oromachia ci insegna l’importanza della Calyptra.",
+   "desc": "Certa conoscenza è vietata ai mortali… a meno che non sia saggiamente contenuta. Questa legge si chiama Calyptra; l’imposizione di questa legge si chiama anch’essa Calyptra; le tre Ore che la impongono condividono quel nome. Permettono che quella conoscenza persista solo in certi luoghi autorizzati, e i segreti più pericolosi devono essere registrati solo negli inchiostri chiamati <i>encaustum</i>."
+  },
+  {
+   "id": "commit.hor.s.inks.power",
+   "label": "L’Arma",
+   "startdescription": "Le verità più grandi e più segrete possono essere messe per iscritto solo dagli Archivisti dell’Albero del Guardiano – e anche allora, solo al riparo dei rami dell’Albero, e solo negli inchiostri autorizzati chiamati <i>encaustum</i>. Esistono ancora certe lingue in cui queste verità potrebbero essere pronunciate ad alta voce, ma le Ore non permettono più quel potere nelle bocche dei mortali, come ci insegna la sapienza dell’Oromachia.",
+   "desc": "Le verità più grandi e più segrete possono essere messe per iscritto solo dagli Archivisti dell’Albero del Guardiano – e anche allora, solo al riparo dei rami dell’Albero, e solo negli inchiostri autorizzati chiamati <i>encaustum</i>. Esistono ancora certe lingue in cui queste verità potrebbero essere pronunciate ad alta voce, ma le Ore non permettono più quel potere nelle bocche dei mortali."
+  },
+  {
+   "id": "commit.hus.s.inks.power",
+   "label": "La Ferita",
+   "startdescription": "Le verità più grandi e più segrete possono essere messe per iscritto solo dagli Archivisti dell’Albero del Guardiano – e anche allora, solo al riparo dei rami dell’Albero, e solo negli inchiostri autorizzati chiamati <i>encaustum terminale</i>. Esistono ancora certe lingue in cui questi segreti possono essere pronunciati ad alta voce, ma non è mai stato sicuro farlo. Questi segreti sono il sangue del mondo, e pronunciarli ad alta voce è versare quel sangue. Noi che siamo silenziosi lo abbiamo sempre saputo.",
+   "desc": "Le verità più grandi e più segrete possono essere messe per iscritto solo dagli Archivisti dell’Albero del Guardiano – e anche allora, solo al riparo dei rami dell’Albero, e solo negli inchiostri autorizzati chiamati <i>encaustum terminale</i>. Esistono ancora certe lingue in cui questi segreti possono essere pronunciati ad alta voce, ma non è mai stato sicuro farlo. Questi segreti sono il sangue del mondo, e pronunciarli ad alta voce è versare quel sangue."
+  },
+  {
+   "id": "commit.hus.s.inks.revelation",
+   "label": "Verità che Furono",
+   "startdescription": "Gli inchiostri chiamati <i>encaustum terminale</i> sono concessi solo agli Archivisti dell’Albero del Guardiano. Quegli inchiostri possono essere usati per rivelare verità – persino verità che non lo sono più, non da quando i tempi dell’alba videro il sole basso e rosso e ne sentimmo il calore come d’autunno. Se quel primo e più mite sole tornasse, le verità potrebbero tornare con esso. La Silenzieria ricorda. ",
+   "desc": "Gli inchiostri chiamati <i>encaustum terminale</i> sono concessi solo agli Archivisti dell’Albero del Guardiano. Quegli inchiostri possono essere usati per rivelare verità – persino verità che non lo sono più, non da quando i tempi dell’alba videro il sole basso e rosso e ne sentimmo il calore come d’autunno. Se quel primo e più mite sole tornasse, le verità potrebbero tornare con esso."
+  },
+  {
+   "id": "commit.ith.s.inks.revelation",
+   "label": "Verità che Saranno",
+   "startdescription": "Gli inchiostri chiamati <i>encaustum terminale</i> sono concessi solo agli Archivisti dell’Albero del Guardiano. Quegli inchiostri possono essere usati per rivelare verità – persino verità troppo grandi per la luce del giorno. Forse, dunque, la luce del giorno non è abbastanza luminosa; forse dobbiamo trovare un modo per accendere una luce abbastanza luminosa da rivelare quelle verità più grandi. Questa sarebbe una materia per l’Ithastria.",
+   "desc": "Gli inchiostri chiamati <i>encaustum terminale</i> sono concessi solo agli Archivisti dell’Albero del Guardiano. Quegli inchiostri possono essere usati per rivelare verità – persino verità troppo grandi per la luce del giorno. Forse, dunque, la luce del giorno non è abbastanza luminosa; forse dobbiamo trovare un modo per accendere una luce abbastanza luminosa da rivelare quelle verità più grandi."
+  },
+  {
+   "id": "commit.nyc.s.insects.nectars",
+   "label": "La Prole della Falena",
+   "startdescription": "La stirpe dei Glaeterfleoge, dalle ali chiare e dalle ali scure, si definiva la prole della Falena. Ora non ci sono più, come tutte le stirpi del Carapace, ma possiamo ancora usare le arti del Nido per seguire le antiche vie della notte; l’eredità della Croce del Carapace; Nittodromia.",
+   "desc": "La stirpe dei Glaeterfleoge, dalle ali chiare e dalle ali scure, si definiva la prole della Falena. Ora non ci sono più, come tutte le stirpi del Carapace, ma possiamo ancora usare le arti del Nido per seguire le antiche vie della notte; l’eredità della Croce del Carapace."
+  },
+  {
+   "id": "commit.bos.s.insects.nectars",
+   "label": "I Prediletti del Graal",
+   "startdescription": "La stirpe dei Glaeterfleoge, dalle ali chiare e dalle ali scure, si definiva i prediletti del Graal. Ora non ci sono più, come tutte le stirpi del Carapace, ma possiamo ancora usare le arti dell’Alveare per raccogliere la dolcezza nei luoghi nascosti del Bosco; l’eredità della Croce del Carapace; il Boschetto.",
+   "desc": "La stirpe dei Glaeterfleoge, dalle ali chiare e dalle ali scure, si definiva i prediletti del Graal. Ora non ci sono più, come tutte le stirpi del Carapace, ma possiamo ancora usare le arti dell’Alveare per raccogliere la dolcezza nei luoghi nascosti del Bosco; l’eredità della Croce del Carapace."
+  },
+  {
+   "id": "commit.sko.s.killasimi",
+   "label": "Il Racconto del Carpentiere",
+   "startdescription": "C’è una profezia fra i carpentieri: un maestro della loro arte deciderà, incautamente, che le bare che intaglia sono troppo belle per essere insozzate da cadaveri. Ruberà ninnoli ai morti, chiederà l’aiuto di fabbri e gioiellieri, e notte e giorno si affaticherà per plasmare qualcosa degno della propria opera. Alla fine si stancherà del proprio compito e offrirà il proprio respiro alla forma nella bara. Quando essa accetterà, si alzerà dalla bara e si proclamerà Re. Governerà col terrore, o il terrore la distruggerà. In entrambi i casi, il suo creatore non avrà né bara né tomba, e il suo nome andrà perduto.",
+   "desc": "C’è una profezia di un maestro carpentiere che deciderà, incautamente, che le bare che intaglia sono troppo belle per essere insozzate da cadaveri. Ruberà ninnoli ai morti, chiederà l’aiuto di fabbri e gioiellieri, e notte e giorno si affaticherà per plasmare qualcosa degno della propria opera. Alla fine si stancherà del proprio compito e offrirà il proprio respiro alla forma nella bara. Quando essa accetterà, si alzerà dalla bara e si proclamerà Re. Governerà col terrore, o il terrore la distruggerà. In entrambi i casi, il suo creatore non avrà né bara né tomba, e il suo nome andrà perduto."
+  },
+  {
+   "id": "commit.bos.s.killasimi",
+   "label": "Il Racconto della Tessitrice",
+   "startdescription": "C’è una profezia fra i tessitori: di una che incautamente cercherà di trovare il futuro in un arazzo dei propri capelli. La sua casa si oscurerà, avvolta nei labirinti delle sue trecce. I pellegrini la cercheranno nella cantina della sua casa, dove lei li supplicherà di liberarla recidendo le trecce. Falliranno sempre, e lei li divorerà sempre. Alla fine ne verrà uno che chiederà invece di poter restare con lei. Altri si uniranno a loro, finché la casa diventerà un palazzo e il palazzo una città, sotto il mondo, dove tutti sono benvenuti e nell’arazzo tutte le verità sono rivelate.",
+   "desc": "C’è una profezia di una maestra tessitrice che incautamente cercherà di trovare il futuro in un arazzo dei propri capelli. La sua casa si oscurerà, avvolta nei labirinti delle sue trecce. I pellegrini la cercheranno nella cantina della sua casa, dove lei li supplicherà di liberarla recidendo le trecce. Falliranno sempre, e lei li divorerà sempre. Alla fine ne verrà uno che chiederà invece di poter restare con lei. Altri si uniranno a loro, finché la casa diventerà un palazzo e il palazzo una città, sotto il mondo, dove tutti sono benvenuti e nell’arazzo tutte le verità sono rivelate."
+  },
+  {
+   "id": "commit.bir.s.leaves.thorns",
+   "label": "Guardando in Alto",
+   "startdescription": "La prima lezione del giardiniere è questa: guarda in alto. Ciò che inizia come Meteo finisce nel mondo, ciò che inizia come cielo finisce nel suolo. Questo è ciò che sanno gli uccelli, e gli uccelli sanno la maggior parte delle cose per primi.",
+   "desc": "La prima lezione del giardiniere è questa: guarda in alto. Ciò che inizia come Meteo finisce nel mondo, ciò che inizia come cielo finisce nel suolo. Questo è ciò che sanno gli uccelli, e gli uccelli sanno la maggior parte delle cose per primi."
+  },
+  {
+   "id": "commit.bos.s.leaves.thorns",
+   "label": "Guardando in Basso",
+   "startdescription": "La prima lezione del giardiniere è questa: conosci le tue spine, conosci i tuoi veleni. Non ha senso pensare al domani quando non ci aspettiamo di sopravvivere a oggi. Questa è la lezione che i nostri antenati impararono a proprie spese nel Bosco: questo è il Boschetto.",
+   "desc": "La prima lezione del giardiniere è questa: conosci le tue spine, conosci i tuoi veleni. Non ha senso pensare al domani quando non ci aspettiamo di sopravvivere a oggi. Questa è la lezione che i nostri antenati impararono a proprie spese nel Bosco: questo è il Boschetto."
+  },
+  {
+   "id": "commit.sko.s.lockworks.clockworks",
+   "label": "Delle Serrature",
+   "startdescription": "Il primo dovere del chiavaio: una chiave per ogni serratura, e una serratura per ogni chiave. Se una chiave fosse un’Ora, quale serratura aprirebbe? La Scolecosofia potrebbe custodire la risposta.",
+   "desc": "Il primo dovere del chiavaio: una chiave per ogni serratura, e una serratura per ogni chiave. Se una chiave fosse un’Ora, quale serratura aprirebbe?"
+  },
+  {
+   "id": "commit.ith.s.lockworks.clockworks",
+   "label": "Degli Orologi",
+   "startdescription": "Il primo dovere dell’orologiaio: quando viene il momento, il congegno deve dichiarare il proprio scopo. Da quando il Sole fu diviso, Noon non è più quello che era. Forse, se trovassimo la vera ora di Noon, sapremmo come il Sole potrebbe tornare. L’Ithastria potrebbe darci quella risposta.",
+   "desc": "Il primo dovere dell’orologiaio: quando viene il momento, il congegno deve dichiarare il proprio scopo. Da quando il Sole fu diviso, Noon non è più quello che era. Forse, se trovassimo la vera ora di Noon, sapremmo come il Sole potrebbe tornare."
+  },
+  {
+   "id": "commit.hus.s.maggephenemysteries",
+   "label": "Vendetta",
+   "startdescription": "Gli dèi-che-sono, che chiamiamo le Ore, guerreggiarono contro gli dèi-dalla-pietra e li abbatterono. Ciò che resta degli dèi-dalla-pietra lo chiamiamo peste, flagello, catastrofe. Se le Ore fossero a loro volta abbattute, gli dèi-dalla-pietra sarebbero soddisfatti? La vendetta porterebbe pace? Le Arti della Notte lasciano intendere che potrebbe essere così.",
+   "desc": "Gli dèi-che-sono, che chiamiamo le Ore, guerreggiarono contro gli dèi-dalla-pietra e li abbatterono. Ciò che resta degli dèi-dalla-pietra lo chiamiamo peste, flagello, catastrofe. Se le Ore fossero a loro volta abbattute, gli dèi-dalla-pietra sarebbero soddisfatti? La vendetta porterebbe pace? Le Arti della Notte lasciano intendere che potrebbe essere così."
+  },
+  {
+   "id": "commit.pre.s.maggephenemysteries",
+   "label": "Rinascita",
+   "startdescription": "Gli dèi-che-sono, che chiamiamo le Ore, guerreggiarono contro gli dèi-dalla-pietra e li abbatterono. Ciò che resta degli dèi-dalla-pietra lo chiamiamo peste, flagello, catastrofe. Ma se gli dèi-dalla-pietra rinascessero, sarebbero ancora pesti? La rinascita porterebbe pace? Le Arti Trascurate lasciano intendere che potrebbe essere così. ",
+   "desc": "Gli dèi-che-sono, che chiamiamo le Ore, guerreggiarono contro gli dèi-dalla-pietra e li abbatterono. Ciò che resta degli dèi-dalla-pietra lo chiamiamo peste, flagello, catastrofe. Ma se gli dèi-dalla-pietra rinascessero, sarebbero ancora pesti? La rinascita porterebbe pace? Le Arti Trascurate lasciano intendere che potrebbe essere così. "
+  },
+  {
+   "id": "commit.hor.s.mandaic",
+   "label": "Il Racconto del Gioielliere",
+   "startdescription": "C’è una storia nota ai gioiellieri: di un maestro di gilda che fece una scommessa con un allevatore di farfalle. Il maestro gioielliere sosteneva che il suo uovo ingioiellato avrebbe schiuso qualcosa di più grande di qualunque crisalide dell’allevatore di farfalle. Naturalmente, dopo un mese, i giardini dell’allevatore di farfalle erano luminosi di ali e l’uovo non aveva schiuso proprio nulla. Il gioielliere, incapace di pagare i propri debiti, fuggì nel deserto con il proprio uovo. L’Oromachia ci insegna: conosci i tuoi limiti.",
+   "desc": "Un maestro gioielliere che fece una scommessa con un allevatore di farfalle. Il maestro gioielliere sosteneva che il proprio uovo ingioiellato avrebbe covato qualcosa di più grande di una qualunque crisalide dell’allevatore di farfalle. Naturalmente, dopo un mese, i giardini dell’allevatore di farfalle erano splendenti di ali, e l’uovo non aveva covato assolutamente nulla. Il gioielliere, incapace di pagare i propri debiti, fuggì nel deserto con il proprio uovo. Forse dovremmo stare attenti ai nostri limiti."
+  },
+  {
+   "id": "commit.ith.s.mandaic",
+   "label": "Il Racconto del Chandler",
+   "startdescription": "C’è una storia nota ai fabbricanti di candele: di un maestro di gilda che fece una scommessa con una maestra della gilda dei vasai. La coppa più antica della vasaia (disse lei) era molto più antica della candela più antica del candelaio. Per quanto spesso si beva da una coppa, la si può sempre riempire di nuovo. Così portarono i loro testimoni al giudizio nel giorno stabilito, e il testimone della vasaia portò una coppa che aveva usato per settant’anni fino alla sua rottura. Ma il testimone del candelaio portò una candela vecchia di settanta<i>sette</i> anni: ogni mese, il candelaio aveva comprato i vecchi mozziconi, restituito la loro materia al tino, e li aveva usati nelle proprie merci, cosicché ogni candela più nuova era anche la più antica. L’Ithastria ci insegna: c’è sempre un modo.",
+   "desc": "Un maestro candelaio fece una scommessa con una maestra della gilda dei vasai. La coppa più antica della vasaia (disse lei) era di gran lunga più vecchia della candela più antica del candelaio. Per quanto spesso si beva da una coppa, la si può sempre riempire di nuovo. Così portarono i loro testimoni al giudizio nel giorno stabilito, e il testimone della vasaia portò una coppa che aveva usato per settant’anni fino alla sua frantumazione. Ma il testimone del candelaio portò una candela vecchia di settanta<i>sette</i> anni: ogni mese, il candelaio aveva comprato i vecchi mozziconi, restituito la loro materia al calderone, e li aveva usati nelle proprie merci, cosicché ogni candela più nuova era anche la più antica. Forse c’è sempre un modo."
+  },
+  {
+   "id": "commit.ill.s.meniscatereflections",
+   "label": "Ciò che Potrebbe Essere",
+   "startdescription": "Sogna una città di perfetto equilibrio. Non può esserci perfetto equilibrio fuori dal sogno. Medita sull’Ora chiamata Meniscate, la cui luce è proiettata nei sogni ma che vediamo anche nella Veglia. Costruisci la Città nel cuore del suo dominio, nella Casa della Luna. Illuminati.",
+   "desc": "Sogna una città di perfetto equilibrio. Non può esserci perfetto equilibrio fuori dal sogno. Medita sull’Ora chiamata Meniscate, la cui luce nei sogni è perfetto equilibrio. Costruisci la Città nel cuore del suo dominio, nella Casa della Luna."
+  },
+  {
+   "id": "commit.pre.s.meniscatereflections",
+   "label": "Ciò che Forse È",
+   "startdescription": "Sogna una città di perfetto equilibrio. Non può esserci perfetto equilibrio fuori dal sogno. Medita sull’Ora chiamata Meniscate, la cui luce distingue il possibile dal reale. Lascia che la Città resti non costruita; lascia che la perfezione dell’eternità sia Preservata.",
+   "desc": "Sogna una città di perfetto equilibrio. Non può esserci perfetto equilibrio fuori dal sogno. Medita sull’Ora chiamata Meniscate, la cui luce distingue il possibile dal reale. Lascia che la Città resti non costruita."
+  },
+  {
+   "id": "commit.bos.s.orchids.narcotics",
+   "label": "Le Nascite del Graal",
+   "startdescription": "Impara dal sangue e bevi dalla terra. Il Graal Rosso generò le Ore chiamate Creatore di Fiori e Cornacchia di Spiaggia, che sanno dove nel bosco possiamo trovare la delizia. Queste sono le tentazioni del Boschetto.",
+   "desc": "Impara dal sangue e bevi dalla terra. Il Graal Rosso generò le Ore chiamate Creatore di Fiori e Cornacchia di Spiaggia, che sanno dove nel bosco possiamo trovare la delizia."
+  },
+  {
+   "id": "commit.sko.s.orchids.narcotics",
+   "label": "L’Esca del Chandler",
+   "startdescription": "Se i fiori sono fiamma, la terra è il loro combustibile. L’Ora chiamata Creatore di Fiori non può farci del male, e non può trovarci, ma ha sempre ciò che desideriamo, e l’Ora chiamata Chandler può portare la scintilla che accende la fiamma. Queste sono le tentazioni della Scolecosofia.",
+   "desc": "Se i fiori sono fiamma, la terra è il loro combustibile. L’Ora chiamata Creatore di Fiori non può farci del male, e non può trovarci, ma ha sempre ciò che desideriamo, e l’Ora chiamata Chandler può portare la scintilla che accende la fiamma."
+  },
+  {
+   "id": "commit.hor.s.ouranoscopy",
+   "label": "Pace",
+   "startdescription": "Se la notte è pace, allora l’alba è battaglia, quando il Sole scaccia le stelle dal cielo. Potrebbe venire un giorno in cui la vittoria del Sole non sia assicurata. Le battaglie del cielo sono materia di Oromachia.",
+   "desc": "Se la notte è pace, allora l’alba è battaglia, quando il Sole scaccia le stelle dal cielo. Potrebbe venire un giorno in cui la vittoria del Sole non sia assicurata."
+  },
+  {
+   "id": "commit.hus.s.ouranoscopy",
+   "label": "Sapienza",
+   "startdescription": "Se le stelle sono sapienza, allora l’alba è ignoranza. Potrebbe venire un giorno in cui non ci sia alba. L’Uranoscopia dovrebbe essere annoverata tra le Arti della Notte.",
+   "desc": "Se le stelle sono sapienza, allora l’alba è ignoranza. Potrebbe venire un giorno in cui non ci sia alba."
+  },
+  {
+   "id": "commit.bir.s.path.pilgrim",
+   "label": "La Soglia",
+   "startdescription": "Ogni viaggiatore attraversa una soglia due volte. L’Ascia Cornuta è l’Ora che guarda in entrambe le direzioni a ogni soglia. Trova la risposta ai suoi enigmi nel Canto degli Uccelli.",
+   "desc": "Ogni viaggiatore attraversa una soglia due volte. L’Ascia Cornuta è l’Ora che guarda in entrambe le direzioni a ogni soglia."
+  },
+  {
+   "id": "commit.nyc.s.path.pilgrim",
+   "label": "Il Sentiero",
+   "startdescription": "La parola è la chiave del sogno, e poiché siamo scimmie parlanti, ogni notte è un viaggio. La Nittodromia è la sapienza dei sentieri della notte.",
+   "desc": "La parola è la chiave del sogno, e poiché siamo scimmie parlanti, ogni notte è un viaggio."
+  },
+  {
+   "id": "commit.nyc.s.pearl.tide",
+   "label": "Ciò che Resta",
+   "startdescription": "Il Mare: strada delle balene, reame di sale, via della luna. Qualunque cosa data alle onde può trovare un’altra casa – a meno che la sua casa non sia il Mare. La Nittodromia ci mostra la via attraverso il mare, e la via di casa.",
+   "desc": "Il Mare: strada delle balene, reame di sale, via della luna. Qualunque cosa data alle onde può trovare un’altra casa – a meno che la sua casa non sia il Mare."
+  },
+  {
+   "id": "commit.bos.s.pearl.tide",
+   "label": "Ciò che Ritorna",
+   "startdescription": "Il Mare accetta ogni dono che gli viene dato, e a volte, di quando in quando, quei doni vengono restituiti. Il Graal Rosso uccise l’Ora chiamata Marea, e ciò che rimase fu dato al Mare; così, forse, un giorno, quell’Ora potrebbe tornare. Questa è la vita, e dunque questo è il Boschetto.",
+   "desc": "Il Mare accetta ogni dono che gli viene dato, e a volte, di quando in quando, quei doni vengono restituiti. Il Graal Rosso uccise l’Ora chiamata Marea, e ciò che rimase fu dato al Mare; così, forse, un giorno, quell’Ora potrebbe tornare."
+  },
+  {
+   "id": "commit.sko.s.pentiments.precursors",
+   "label": "Carapace",
+   "startdescription": "Della Medusa Ligeiana si è detto: «Potrebbe essere la più antica della sua specie ancora vivente; ed è morta.» Gli scolecosofisti potrebbero interpretarlo così: è la più antica della stirpe dei Seglaz, ossia di un lignaggio del Carapace famoso per l’ampiezza della propria sapienza e la complessità dei propri denti.",
+   "desc": "Della Medusa Ligeiana si è detto: «Potrebbe essere la più antica della sua specie ancora vivente; ed è morta.» Gli scolecosofisti dicono che è la più antica della stirpe dei Seglaz, di un lignaggio del Carapace famoso per l’ampiezza della propria sapienza e l’acutezza dei propri denti."
+  },
+  {
+   "id": "commit.bir.s.pentiments.precursors",
+   "label": "Corallo",
+   "startdescription": "Della Medusa Ligeiana si è detto: «Potrebbe essere la più antica della sua specie ancora vivente; ed è morta.» I simurgisti potrebbero interpretarlo così: è la più antica dei Nomi condivisi delle Gemelle – le Ore che chiamiamo Sorella-e-Strega, Strega-e-Sorella.",
+   "desc": "Della Medusa Ligeiana si è detto: «Potrebbe essere la più antica della sua specie ancora vivente; ed è morta.» I simurgisti dicono che è la più antica dei Nomi condivisi delle Gemelle – le Ore che chiamiamo Sorella-e-Strega, Strega-e-Sorella."
+  },
+  {
+   "id": "commit.ill.s.preliminalmeter",
+   "label": "Delle Chiavi",
+   "startdescription": "Uno di noi superò la Vetta. A uno non è concesso.\nDue di noi cercarono la Lanterna. Due scelsero la fuga.\nIl settimo, di rado nominato, ma non dimenticato.\n\n Questo è Illuminazione.",
+   "desc": "Uno di noi superò la Vetta. A uno non è concesso.\nDue di noi cercarono la Lanterna. Due scelsero la fuga.\nIl settimo, di rado nominato, ma non dimenticato."
+  },
+  {
+   "id": "commit.ith.s.preliminalmeter",
+   "label": "Delle Spade",
+   "startdescription": "Uccelli di squama, ali e artigli splendenti\nVermi di piuma, baciati ancora dalle pietre\nBaciati dal fuoco, baciati dalla neve, dal flagello.\n\n Questa è l’Ithastria.",
+   "desc": "Uccelli di squama, ali e artigli splendenti\nVermi di piuma, baciati ancora dalle pietre\nBaciati dal fuoco, baciati dalla neve, dal flagello."
+  },
+  {
+   "id": "commit.ill.s.purifications.exaltations",
+   "label": "Le Ore",
+   "startdescription": "Non sottovalutare mai l’Ora chiamata Meniscate. Gli adepti sciocchi la deridono come un’Ora di vanità. Da cosa credono che si definiscano le Ore? La luce purifica; la luce esalta.",
+   "desc": "Non sottovalutare mai l’Ora chiamata Meniscate. Gli adepti sciocchi la deridono come un’Ora di vanità. Da cosa credono che si definiscano le Ore?"
+  },
+  {
+   "id": "commit.ith.s.purifications.exaltations",
+   "label": "L’Albero",
+   "startdescription": "Non sottovalutare mai l’Ora chiamata Madrugad. Gli adepti sciocchi la deridono come un’Ora di cenere. Da cosa credono che sia germogliato l’Albero del Guardiano? Il fuoco purifica; la luce esalta.",
+   "desc": "Non sottovalutare mai l’Ora chiamata Madrugad. Gli adepti sciocchi la deridono come un’Ora di cenere. Da cosa credono che sia germogliato l’Albero del Guardiano?"
+  },
+  {
+   "id": "commit.ith.s.putrefactions.calcinations",
+   "label": "In Fiamme",
+   "startdescription": "Tutti i giorni sono morte, tutte le vite sono tramonto. Nessun fuoco durerà senza combustibile; non può esserci una Seconda Alba senza una guerra che bruci le ossa della terra. Questa è l’Ithastria nella sua forma più spietata.",
+   "desc": "Tutti i giorni sono morte, tutte le vite sono tramonto. Nessun fuoco durerà senza combustibile; non può esserci una Seconda Alba senza una guerra che bruci le ossa della terra."
+  },
+  {
+   "id": "commit.sko.s.putrefactions.calcinations",
+   "label": "In Cenere",
+   "startdescription": "Tutti i giorni sono morte, tutte le vite sono tramonto. Per un certo tempo, la luce persiste, ma non dovremmo temere la bruciatura di una Seconda Alba. Questa è la Scolecosofia nella sua forma più misericordiosa.",
+   "desc": "Tutti i giorni sono morte, tutte le vite sono tramonto. Per un certo tempo, la luce persiste, ma non dovremmo temere la bruciatura di una Seconda Alba."
+  },
+  {
+   "id": "commit.ith.s.pyroglyphics",
+   "label": "Un Fiore Rosso",
+   "startdescription": "Le storie scritte nel fuoco finiscono tanto prima... ma sono ricordate tanto più a lungo. La sapienza dell’Ithastria ci insegna la certezza del cambiamento.",
+   "desc": "Le storie scritte nel fuoco finiscono tanto prima... ma sono ricordate tanto più a lungo. Il cambiamento è l’unica certezza."
+  },
+  {
+   "id": "commit.ill.s.pyroglyphics",
+   "label": "Nascita nel Fuoco",
+   "startdescription": "Il fuoco fu la prima comprensione. L’Ora chiamata Falena lo apprese ancor prima che il Guardiano portasse la luce. Questo è Illuminazione.",
+   "desc": "Il fuoco fu la prima comprensione. L’Ora chiamata Falena lo apprese ancor prima che il Guardiano portasse la luce."
+  },
+  {
+   "id": "commit.hus.s.quenchings.quellings",
+   "label": "Sicurezza nel Silenzio",
+   "startdescription": "Le parole sconsiderate sono pericolose. Piangile, ricordale, non pronunciarle. Questa è Silenzieria.",
+   "desc": "Le parole sconsiderate sono pericolose. Piangile, ricordale, non pronunciarle."
+  },
+  {
+   "id": "commit.pre.s.quenchings.quellings",
+   "label": "Sicurezza nell’Oblio",
+   "startdescription": "Che la carne dimentichi la malattia, che il fumo dimentichi la fiamma, che la mente turbata dimentichi il proprio dolore: Preservazione.",
+   "desc": "Che la carne dimentichi la malattia, che il fumo dimentichi la fiamma, che la mente turbata dimentichi il proprio dolore."
+  },
+  {
+   "id": "commit.sko.s.raggedcrossroads",
+   "label": "Alla Soglia",
+   "startdescription": "Ogni rimpianto è una soglia; e ogni soglia può essere attraversata in entrambe le direzioni. Uno scolecosofista sa che nessuna soglia deve restare inviolata.",
+   "desc": "Ogni rimpianto è una soglia; e ogni soglia può essere attraversata in entrambe le direzioni. Nessuna soglia deve restare inviolata."
+  },
+  {
+   "id": "commit.ill.s.raggedcrossroads",
+   "label": "La Luce di Domani",
+   "startdescription": "Ogni rimpianto è una lezione. Non possiamo cambiare il passato, ma non dovremmo nemmeno volerlo. Il rimpianto è Illuminazione.",
+   "desc": "Ogni rimpianto è una lezione. Non possiamo cambiare il passato, ma non dovremmo nemmeno volerlo."
+  },
+  {
+   "id": "commit.pre.s.ramsund",
+   "label": "Il Racconto del Ladro",
+   "startdescription": "C’è una storia molto antica raccontata dai ladri su una gara fra le Ore aviformi – gli dèi segreti che assumono la forma di uccelli. La colomba si vantò delle ossa che aveva rubato alla carne, e il corvo della carne che aveva strappato dalle ossa. Una dei nibbi gemelli si vantò di aver rubato i confini ai regni, e l’altra di aver preso le strade dai crocevia. La gazza raccontò tutti i colori che aveva sottratto e che non si trovano più nel mondo, e il tordo ridente superò tutti con i racconti delle visioni che aveva rubato. Ma quando il settimo dalle ali scintillanti raccontò loro cosa avesse rubato, tutti ammutolirono sconvolti. Gli si gettarono addosso e lo spogliarono delle ali e lo scacciarono dal cielo. Così lui, e ciò che aveva rubato, sono scomparsi dal mondo, e ora non possiamo nemmeno nominarli, ma sentiamo ancora la loro mancanza.",
+   "desc": "C’è una storia molto antica raccontata dai ladri su una gara fra le Ore aviformi – gli dèi segreti che assumono la forma di uccelli. La colomba si vantò delle ossa che aveva rubato alla carne, e il corvo della carne che aveva strappato dalle ossa. Una dei nibbi gemelli si vantò di aver rubato i confini ai regni, e l’altra di aver preso le strade dai crocevia. La gazza raccontò tutti i colori che aveva sottratto e che non si trovano più nel mondo, e il tordo ridente superò tutti con i racconti delle visioni che aveva rubato. Ma quando il settimo dalle ali scintillanti raccontò loro cosa avesse rubato, tutti ammutolirono sconvolti. Gli si gettarono addosso e lo spogliarono delle ali e lo scacciarono dal cielo. Così lui, e ciò che aveva rubato, sono scomparsi dal mondo, e ora non possiamo nemmeno nominarli, ma sentiamo ancora la loro mancanza."
+  },
+  {
+   "id": "commit.bir.s.ramsund",
+   "label": "Il Racconto del Falconiere",
+   "startdescription": "C’è una storia molto antica raccontata dai falconieri sulle Ore aviformi – gli dèi segreti che assumono la forma di uccelli. Un tempo ce n’erano solo cinque – la colomba, il corvo, il tordo ridente, i nibbi gemelli. Il sesto era caduto agli artigli di un gufo, ed essi cercarono un altro da aggiungere alla propria compagnia. Ma il corvo respinse metà di tutti quelli che trovarono, per la trasandatezza del loro piumaggio, e la colomba respinse gli altri, perché troppo vistosi. Alla fine trovarono un uccello notturno le cui piume erano al contempo il bianco perfetto e il nero perfetto del corvo e della colomba. Ma una volta accettato, appresero che non era affatto un uccello – solo una falena che svolazzava nella notte. Per fortuna della falena, il loro orgoglio li trattenne dall’ammettere il proprio errore; ma da quel giorno, le Ore aviformi si incontrano solo di notte, quando il sesto della loro specie non verrà smascherato.",
+   "desc": "C’è una storia molto antica raccontata dai falconieri sulle Ore aviformi – gli dèi segreti che assumono la forma di uccelli. Un tempo ce n’erano solo cinque – la colomba, il corvo, il tordo ridente, i nibbi gemelli. Il sesto era caduto agli artigli di un gufo, ed essi cercarono un altro da aggiungere alla propria compagnia. Ma il corvo respinse metà di tutti quelli che trovarono, per la trasandatezza del loro piumaggio, e la colomba respinse gli altri, perché troppo vistosi. Alla fine trovarono un uccello notturno le cui piume erano al contempo il bianco perfetto e il nero perfetto del corvo e della colomba. Ma una volta accettato, appresero che non era affatto un uccello – solo una falena che svolazzava nella notte. Per fortuna della falena, il loro orgoglio li trattenne dall’ammettere il proprio errore; ma da quel giorno, le Ore aviformi si incontrano solo di notte, quando il sesto della loro specie non verrà smascherato."
+  },
+  {
+   "id": "commit.bos.s.resurgences.emergences",
+   "label": "Graal e Falena",
+   "startdescription": "Gli dèi-dalla-Pietra fecero una legge secondo cui le chiavi del sogno non possono essere tenute né possedute. Il tempo della Pietra è passato, ma le chiavi restano. Così le detentrici di queste chiavi possono essere solo le sette Ligeian, il cui crimine le ha poste fuori dalla legge. Ma le Ligeian servono un’Ora di Graal e Falena: quando gli ultimi resti degli dèi-dalla-Pietra saranno consumati, la legge sarà consumata con loro. Il Boschetto è la sapienza del cambiamento.",
+   "desc": "Gli dèi-dalla-Pietra fecero una legge secondo cui le chiavi del sogno non possono essere tenute né possedute. Il tempo della Pietra è passato, ma le chiavi restano. Così le detentrici di queste chiavi possono essere solo le sette Ligeian, il cui crimine le ha poste fuori dalla legge. Le Ligeian servono un’Ora di Graal e Falena: quando gli ultimi resti degli dèi-dalla-Pietra saranno consumati, la legge sarà consumata con loro."
+  },
+  {
+   "id": "commit.pre.s.resurgences.emergences",
+   "label": "Falena e Graal",
+   "startdescription": "Gli dèi-dalla-Pietra fecero una legge secondo cui le chiavi del sogno non possono essere tenute né possedute. Il tempo della Pietra è passato, ma le chiavi restano. Così le detentrici di queste chiavi possono essere solo le sette Ligeian, il cui crimine le ha poste fuori dalla legge. E le Ligeian servono un’Ora di Falena e Graal: quando gli ultimi resti degli dèi-dalla-Pietra saranno rinnovati, la legge sarà rinnovata con loro. La Preservazione è la sapienza del rinnovamento.",
+   "desc": "Gli dèi-dalla-Pietra fecero una legge secondo cui le chiavi del sogno non possono essere tenute né possedute. Il tempo della Pietra è passato, ma le chiavi restano. Così le detentrici di queste chiavi possono essere solo le sette Ligeian, il cui crimine le ha poste fuori dalla legge. Le Ligeian servono un’Ora di Falena e Graal: quando gli ultimi resti degli dèi-dalla-Pietra saranno rinnovati, la legge sarà rinnovata con loro."
+  },
+  {
+   "id": "commit.bir.s.rhyme.remembrance",
+   "label": "Cosa Eravamo?",
+   "startdescription": "Le sagome che ti balzellavano accanto nel gelo,\nI brandelli che racimolavi di amnio e periostio\nUn tempo queste erano risposte a «Cosa si Può Perdere?».\n\nTutto parte della materia che chiamiamo Canto degli Uccelli.",
+   "desc": "Le sagome che ti balzellavano accanto nel gelo,\nI brandelli che racimolavi di amnio e periostio\nUn tempo queste erano risposte a «Cosa si Può Perdere?»"
+  },
+  {
+   "id": "commit.sko.s.rhyme.remembrance",
+   "label": "Segretezza; Conoscenza; Potere",
+   "startdescription": "Le visioni che nominiamo sono raramente nominate di giorno\nLe forme che cerchiamo sono raramente cercate nell’argilla\nI nomi che rivendichiamo sono spesso rivendicati come paga.»\n\nQuesta è Scolecosofia.",
+   "desc": "Le visioni che nominiamo sono raramente nominate di giorno\nLe forme che cerchiamo sono raramente cercate nell’argilla\nI nomi che rivendichiamo sono spesso rivendicati come paga.»"
+  },
+  {
+   "id": "commit.bos.s.rites.theroots",
+   "label": "Ciò che è Tolto",
+   "startdescription": "Le Ore <i>viventi</i> più antiche sono gli dèi-che-erano-sangue. Gli dèi-dalla-Pietra erano ancora più antichi, ma sono sepolti nella terra, dispersi nel mare, perduti nella luna. Ecco perché stiamo sempre attenti a dove compiamo il sacrificio, perché se versassimo sangue a sufficienza sulle loro tombe, tornerebbero per la loro vendetta. Il Boschetto lo sa.",
+   "desc": "Le Ore <i>viventi</i> più antiche sono gli dèi-che-erano-sangue. Gli dèi-dalla-Pietra erano ancora più antichi, ma sono sepolti nella terra, dispersi nel mare, perduti nella luna. Ecco perché stiamo sempre attenti a dove compiamo il sacrificio, perché se versassimo sangue a sufficienza sulle loro tombe, tornerebbero per la loro vendetta."
+  },
+  {
+   "id": "commit.pre.s.rites.theroots",
+   "label": "Ciò che è Dato",
+   "startdescription": "Le Ore <i>viventi</i> più antiche sono gli dèi-che-erano-sangue. Gli dèi-dalla-Pietra erano ancora più antichi, ma sono sepolti nella terra, dispersi nel mare, perduti nella luna. Ecco perché stiamo sempre attenti a dove compiamo il sacrificio: senza di esso, gli dèi-dalla-Pietra svanirebbero dalla memoria. Questa è Preservazione.",
+   "desc": "Le Ore <i>viventi</i> più antiche sono gli dèi-che-erano-sangue. Gli dèi-dalla-Pietra erano ancora più antichi, ma sono sepolti nella terra, dispersi nel mare, perduti nella luna. Ecco perché stiamo sempre attenti a dove compiamo il sacrificio: senza di esso, gli dèi-dalla-Pietra svanirebbero dalla memoria."
+  },
+  {
+   "id": "commit.bir.s.sabazine",
+   "label": "Il Racconto del Pescatore",
+   "startdescription": "C’è una storia raccontata dai pescatori, di una città d’ambra e oricalco che giace oltre le onde. Coloro che mangiano dei suoi frutti possono respirare acqua e bere luce, ma non possono più bere nient’altro in seguito. Solo in un’altra Storia, dicono; ma se annodi bene le tue reti, potresti catturare uno dei suoi cittadini in questa Storia, e potrebbe indicarti la via.",
+   "desc": "C’è una storia raccontata in riva al mare, di una città d’ambra e oricalco che giace oltre le onde. Coloro che mangiano dei suoi frutti possono respirare acqua e bere luce, ma non possono più bere nient’altro in seguito. Solo in un’altra Storia, dicono; ma se annodi bene le tue reti, potresti catturare uno dei suoi cittadini in questa Storia, e potrebbe indicarti la via."
+  },
+  {
+   "id": "commit.hor.s.sabazine",
+   "label": "Il Racconto del Marinaio",
+   "startdescription": "C’è una storia raccontata dai marinai, di una città d’avorio e ferro al di là del mare. Coloro che vi giungono non muoiono mai, ma coloro che ne ripartono non sono mai vissuti. Solo in un’altra Storia, dicono; ma se attrezzi bene le tue vele, potresti catturare il vento che ti porta là in questa.",
+   "desc": "C’è una storia raccontata sul mare, di una città d’avorio e ferro al di là del mare. Coloro che vi giungono non muoiono mai, ma coloro che ne ripartono non sono mai vissuti. Solo in un’altra Storia, dicono; ma se attrezzi bene le tue vele, potresti catturare il vento che ti porta là in questa."
+  },
+  {
+   "id": "commit.hor.s.sacralimiae",
+   "label": "Dei Limiti",
+   "startdescription": "Le Ore non sono onnipotenti. C’è un luogo oltre la loro portata, dove mortali e immortali potrebbero costruire una risplendente Città di ferro e avorio. Gli oromachisti comprendono i limiti delle Ore.",
+   "desc": "Le Ore non sono onnipotenti. C’è un luogo oltre la loro portata, dove mortali e immortali potrebbero costruire una risplendente Città di ferro e avorio."
+  },
+  {
+   "id": "commit.hus.s.sacralimiae",
+   "label": "Della Fine",
+   "startdescription": "Le Ore non sono eterne. Il Sole-in-Splendore fu squarciato e abbattuto. Se noi mortali lo desideriamo, potremmo impedirne il ritorno. Comprendi la Silenzieria, e comprenderai le conclusioni.",
+   "desc": "Le Ore non sono eterne. Il Sole-in-Splendore fu squarciato e abbattuto. Se noi mortali lo desideriamo, potremmo impedirne il ritorno."
+  },
+  {
+   "id": "commit.ill.s.sacrasolisinvicti",
+   "label": "Una Luce Dentro",
+   "startdescription": "La luce del Nuovo Re è incerta. La Versione Ricevuta del Libro dei Soli narra che il Sole-in-Splendore non tornerà mai. Se il Re afferma il contrario, ci conduce fuori strada. Dovremmo cercare risposte in Illuminazione.",
+   "desc": "La luce del Nuovo Re è incerta. La Versione Ricevuta del Libro dei Soli narra che il Sole-in-Splendore non tornerà mai. Se il Re afferma il contrario, ci conduce fuori strada."
+  },
+  {
+   "id": "commit.hor.s.sacrasolisinvicti",
+   "label": "Una Luce Sopra",
+   "startdescription": "La luce del Nuovo Re risplende luminosa. La Versione Autorizzata del Libro dei Soli ci narra che potrebbe annunciare l’unificazione degli dèi-che-erano-Luce, in un nuovo Sole-in-Splendore. Dovremmo cercare risposte in Oromachia.",
+   "desc": "La luce del Nuovo Re risplende luminosa. La Versione Autorizzata del Libro dei Soli ci narra che potrebbe annunciare l’unificazione degli dèi-che-erano-Luce, in un nuovo Sole-in-Splendore."
+  },
+  {
+   "id": "commit.bir.s.sandstories",
+   "label": "Una Città",
+   "startdescription": "I sette immortali contaminati che chiamiamo Ligeian sono implacabili nel loro appetito, e messi al bando dalle leggi del cielo. Ma hanno la loro utilità per le Ore. La Kleidouchos Ligeiana ha conosciuto tutte le grandi chiavi, e ancora oggi detiene la Chiave dei Giorni; così ogni anno incontra la Vagabonda a Vienna, per scambiare i nomi delle chiavi minori con le storie dei viaggi della Vagabonda. Chiamiamo il loro pettegolezzo Canto degli Uccelli.",
+   "desc": "I sette immortali contaminati che chiamiamo Ligeian sono implacabili nel loro appetito, e messi al bando dalle leggi del cielo. Ma hanno la loro utilità per le Ore. La Kleidouchos Ligeiana ha conosciuto tutte le grandi chiavi, e ancora oggi detiene la Chiave dei Giorni; così ogni anno incontra la Vagabonda a Vienna, per scambiare i nomi delle chiavi minori con le storie dei viaggi della Vagabonda."
+  },
+  {
+   "id": "commit.sko.s.sandstories",
+   "label": "Un Tempio",
+   "startdescription": "I sette immortali contaminati che chiamiamo Ligeian sono implacabili nel loro appetito, e messi al bando dalle leggi del cielo. Ma hanno la loro utilità per le Ore. L’Echidna Ligeiana apprese le proprie arti plasmatrici nell’alba del mondo, e ancora oggi il Leonfabbro ne apprezza l’abilità; così ogni anno si incontrano nel deserto, fra le ombre di fornace del tempio del Sette-Spire, per condividere la loro conoscenza di come i mostri furono creati. Chiamiamo le loro storie Scolecosofia.",
+   "desc": "I sette immortali contaminati che chiamiamo Ligeian sono implacabili nel loro appetito, e messi al bando dalle leggi del cielo. Ma hanno la loro utilità per le Ore. L’Echidna Ligeiana apprese le proprie arti plasmatrici nell’alba del mondo, e ancora oggi il Leonfabbro ne apprezza l’abilità; così ogni anno si incontrano nel deserto, fra le ombre di fornace del tempio del Sette-Spire, per condividere la loro conoscenza di come i mostri furono creati."
+  },
+  {
+   "id": "commit.bir.s.seastories",
+   "label": "La Nata-dal-Mare",
+   "startdescription": "La Morgen Ligeiana, detentrice della chiave di zaffiro nero, detta nata-dal-mare, tratta-dalla-marea. Sarebbe venuta da Ys, oltre l’onda? Se pronunciamo il suo nome al sorgere della luna, possiamo evocare quell’antico canto di flauti e campane? Questi sono enigmi da Canto degli Uccelli.",
+   "desc": "La Morgen Ligeiana, detentrice della chiave di zaffiro nero, detta nata-dal-mare, tratta-dalla-marea. Sarebbe venuta da Ys, oltre l’onda? Se pronunciamo il suo nome al sorgere della luna, possiamo evocare quell’antico canto di flauti e campane?"
+  },
+  {
+   "id": "commit.nyc.s.seastories",
+   "label": "La Sposa del Lupo",
+   "startdescription": "La Rowena Ligeiana, detentrice della Chiave della Giumenta, detta apritrice del mare, sposa del lupo. Chi avrebbe invitato da Ys, oltre l’onda? Quando la luna tramonta sul mare, seguiranno di nuovo la sua strada? Questa materia di strade e chiavi è Nittodromia.",
+   "desc": "La Rowena Ligeiana, detentrice della Chiave della Giumenta, detta apritrice del mare, sposa del lupo. Chi avrebbe invitato da Ys, oltre l’onda? Quando la luna tramonta sul mare, seguiranno di nuovo la sua strada?"
+  },
+  {
+   "id": "commit.hus.s.serpents.venoms",
+   "label": "L’Ultimo Sole",
+   "startdescription": "Nei tempi dell’alba il sole era più basso, così gli demmo il nostro sangue. Dal nostro sangue ci conobbe, e così fu più clemente. I suoi serpenti ci portarono i suoi veleni da bere, e così morimmo. Ma morimmo solo un poco, e così sognammo, e tornammo il giorno dopo a dargli di nuovo il nostro sangue. Quei tempi di pace persistono nelle lezioni della Silenzieria.",
+   "desc": "Nei tempi dell’alba il sole era più basso, così gli demmo il nostro sangue. Dal nostro sangue ci conobbe, e così fu più clemente. I suoi serpenti ci portarono i suoi veleni da bere, e così morimmo. Ma morimmo solo un poco, e così sognammo, e tornammo il giorno dopo a dargli di nuovo il nostro sangue."
+  },
+  {
+   "id": "commit.sko.s.serpents.venoms",
+   "label": "Il Primo Sole",
+   "startdescription": "Nei tempi dell’alba il sole era più basso, così gli demmo il nostro sangue. Dal nostro sangue ci conobbe, e così fu più clemente. Ma quei giorni sono lontani ormai. Se fossimo tanto sciocchi da trovare il primo Sole e dargli di nuovo il nostro sangue, ci divorerebbe. Se gli dessimo il sangue dei nostri nemici, naturalmente, potrebbe divorare loro. Questo è il genere di cose che si sente dire dagli scolecosofisti.",
+   "desc": "Nei tempi dell’alba il sole era più basso, così gli demmo il nostro sangue. Dal nostro sangue ci conobbe, e così fu più clemente. Ma quei giorni sono lontani ormai. Se fossimo tanto sciocchi da trovare il primo Sole e dargli di nuovo il nostro sangue, ci divorerebbe. Se gli dessimo il sangue dei nostri nemici, naturalmente, potrebbe divorare loro."
+  },
+  {
+   "id": "commit.hus.s.sharps",
+   "label": "Una Ferita nei Sogni",
+   "startdescription": "Prima della parola, non potevamo sognare, il che significa che prima che la parola squarciasse la Porta del Pavone verso i sogni, il Mansus era illeso e in pace. Non è obbligatorio per i Lunghi attraversare quella porta, ma generalmente scelgono di farlo. Forse è per questo che le Ore incaricano i propri Nomi di dare la caccia ai Lunghi – persino i Lunghi che affermano di servirle. La Silenzieria riconosce questa verità.",
+   "desc": "Prima della parola, non potevamo sognare, il che significa che prima che la parola squarciasse la Porta del Pavone verso i sogni, il Mansus era illeso e in pace. Non è obbligatorio per i Lunghi attraversare quella porta, ma generalmente scelgono di farlo. Forse è per questo che le Ore incaricano i propri Nomi di dare la caccia ai Lunghi – persino i Lunghi che affermano di servirle."
+  },
+  {
+   "id": "commit.sko.s.sharps",
+   "label": "Una Guerra nei Sogni",
+   "startdescription": "Prima della parola, non potevamo sognare, il che significa che prima di poter impugnare le parole, eravamo disarmati, e persino i Lunghi non osavano entrare nel Mansus per paura di essere divorati. Non è obbligatorio per i Lunghi impugnare le armi della parola, ma generalmente scelgono di farlo. Forse è per questo che le Ore incaricano i propri Nomi di dare la caccia ai Lunghi – persino i Lunghi che affermano di servirle. La Scolecosofia riconosce questa verità.",
+   "desc": "Prima della parola, non potevamo sognare, il che significa che prima di poter impugnare le parole, eravamo disarmati, e persino i Lunghi non osavano entrare nel Mansus per paura di essere divorati. Non è obbligatorio per i Lunghi impugnare le armi della parola, ma generalmente scelgono di farlo. Forse è per questo che le Ore incaricano i propri Nomi di dare la caccia ai Lunghi – persino i Lunghi che affermano di servirle."
+  },
+  {
+   "id": "commit.pre.s.sickle.eclipse",
+   "label": "Segreto, Sicuro",
+   "startdescription": "Teniamo le cose della notte nella notte, così che le cose del giorno possano camminare nel giorno. Questa è Preservazione.",
+   "desc": "Teniamo le cose della notte nella notte, così che le cose del giorno possano camminare nel giorno."
+  },
+  {
+   "id": "commit.nyc.s.sickle.eclipse",
+   "label": "Parole che Guidano i Passi",
+   "startdescription": "Parole sconsiderate hanno dischiuso porte sconsiderate; possiamo usare parole sagge per richiuderle. Questa è materia di Nittodromia.",
+   "desc": "Parole sconsiderate hanno dischiuso porte sconsiderate; possiamo usare parole sagge per richiuderle."
+  },
+  {
+   "id": "commit.nyc.s.sights.sensations",
+   "label": "Una Fine",
+   "startdescription": "L’artista sa: ogni sua opera potrebbe essere migliorata. L’artista comprende: l’opera perfetta esiste nel Nessun Luogo. Andare nel Nessun Luogo – andare sotto il mondo – non è un viaggio facile. Ma là l’artista potrebbe raggiungere il proprio apice. La Nittodromia è la via verso la perfezione.",
+   "desc": "L’artista sa: ogni sua opera potrebbe essere migliorata. L’artista comprende: l’opera perfetta esiste nel Nessun Luogo. Andare nel Nessun Luogo – andare sotto il mondo – non è un viaggio facile. Ma là l’artista potrebbe raggiungere il proprio apice."
+  },
+  {
+   "id": "commit.hus.s.sights.sensations",
+   "label": "La Fine",
+   "startdescription": "L’artista sa: ogni sua opera potrebbe essere migliorata. L’artista comprende: l’opera perfetta non può mai essere completata. La perfezione esiste solo come assenza: la Silenzieria lo comprende.",
+   "desc": "L’artista sa: ogni sua opera potrebbe essere migliorata. L’artista comprende: l’opera perfetta non può mai essere completata."
+  },
+  {
+   "id": "commit.hor.s.skystories",
+   "label": "Il Convegno",
+   "startdescription": "L’intrigo del Pellegrino e il piano del Graal\nIl Sole nell’ombra e la Forgia invisibile\nIl Re Cigno e l’Eliogabalina.\n\nQuesto è Oromachia.",
+   "desc": "L’intrigo del Pellegrino e il piano del Graal\nIl Sole nell’ombra e la Forgia invisibile\nIl Re Cigno e l’Eliogabalina."
+  },
+  {
+   "id": "commit.bir.s.skystories",
+   "label": "Il Roost",
+   "startdescription": "Un ladro di sguardi, uno sciacallo di troni,\nUn razziatore di confini e un ladro di nodi\nUn ladro di colori e un ladro d’ossa.\n\nQuesto è il Canto degli Uccelli.",
+   "desc": "Un ladro di sguardi, uno sciacallo di troni,\nUn razziatore di confini e un ladro di nodi\nUn ladro di colori e un ladro d’ossa."
+  },
+  {
+   "id": "commit.bir.s.snowstories",
+   "label": "Molto Resta",
+   "startdescription": "L’Enigma di Medusa, primo: Cosa Non è Visto?\nLa Notte, il Cuore, la Luna, il Giorno. Fra essi.\nLa chiave più pallida. La Regina della Spira, segnata dalla nascita.\n\nQuesto è Canto degli Uccelli. ",
+   "desc": "L’Enigma di Medusa, primo: Cosa Non è Visto?\nLa Notte, il Cuore, la Luna, il Giorno. Fra essi.\nLa chiave più pallida. La Regina della Spira, segnata dalla nascita."
+  },
+  {
+   "id": "commit.hus.s.snowstories",
+   "label": "Molto è Perduto",
+   "startdescription": "Placa tutti i venti, placa ogni lingua che batte\nOra placa la luna specchiata, il calderone del mare\nQuando nulla resta allora nulla è disfatto.\n\nSilenzieria.",
+   "desc": "Placa tutti i venti, placa ogni lingua che batte\nOra placa la luna specchiata, il calderone del mare\nQuando nulla resta allora nulla è disfatto."
+  },
+  {
+   "id": "commit.ith.s.solutions.separations",
+   "label": "La Retta",
+   "startdescription": "Il mondo è tutto squilibrio. Con il tempo, con cura, con ingegno, possiamo ristabilire l’equilibrio, attraverso la modellazione della pietra, l’equilibrio degli icori, lo schiudersi a ritroso dell’uovo. L’Ithastria insegna l’ingegno.",
+   "desc": "Il mondo è tutto squilibrio. Con il tempo, con cura, con ingegno, possiamo ristabilire l’equilibrio, attraverso la modellazione della pietra, l’equilibrio degli icori, lo schiudersi a ritroso dell’uovo."
+  },
+  {
+   "id": "commit.sko.s.solutions.separations",
+   "label": "Il Tortuoso",
+   "startdescription": "Il mondo è tutto squilibrio, e lo squilibrio è opportunità. La Falena lo sa; i Vermi lo dimostrano. Questa è Scolecosofia.",
+   "desc": "Il mondo è tutto squilibrio, e lo squilibrio è opportunità. La Falena lo sa; i Vermi lo dimostrano."
+  },
+  {
+   "id": "commit.bos.s.spices.savours",
+   "label": "Servito Freddo",
+   "startdescription": "Quercia, terra, ghiaccio, cenere, stelle, sangue. Annega fino a spegnimento. Servi. Questo è il Boschetto.",
+   "desc": "Quercia, terra, ghiaccio, cenere, stelle, sangue. Annega fino a spegnimento. Servi."
+  },
+  {
+   "id": "commit.ith.s.spices.savours",
+   "label": "Servito Caldo",
+   "startdescription": "Rame, carbone, fuoco, cannella, luce del sole, ossidiana. Aggiungere sale a piacere. Servire. Questa è l’Ithastria.",
+   "desc": "Rame, carbone, fuoco, cannella, luce del sole, ossidiana. Aggiungere sale a piacere. Servire."
+  },
+  {
+   "id": "commit.ith.s.stitching.binding",
+   "label": "Tenere",
+   "startdescription": "Una rilegatura abbastanza abile potrebbe contenere qualunque cosa: carne; spirito; dèi; luce. Questa sarebbe l’Ithastria.",
+   "desc": "Una rilegatura abbastanza abile potrebbe contenere qualunque cosa: carne; spirito; dèi; luce."
+  },
+  {
+   "id": "commit.pre.s.stitching.binding",
+   "label": "Guarire",
+   "startdescription": "Un legame abbastanza abile potrebbe guarire qualunque cosa: carne; spirito; canto; pietra. Questa sarebbe la Preservazione.",
+   "desc": "Un legame abbastanza abile potrebbe guarire qualunque cosa: carne; spirito; canto; pietra."
+  },
+  {
+   "id": "commit.bir.s.stonestories",
+   "label": "Una Vendetta",
+   "startdescription": "Le Ore un tempo chiamate la Selce e la Ruota non ci sono più, ma il sangue delle loro emanazioni-di-Nome si mescolò al sangue dei mortali, e da esso nacque la stirpe di Antaios. Fai attenzione: se abbastanza sangue antaiano viene versato, la Selce e la Ruota potrebbero risvegliarsi. Questo è ricordato nei canti di avvertimento.",
+   "desc": "Le Ore un tempo chiamate la Selce e la Ruota non ci sono più, ma il sangue delle loro emanazioni-di-Nome si mescolò al sangue dei mortali, e da esso nacque la stirpe di Antaios. Fai attenzione: se abbastanza sangue antaiano viene versato, la Selce e la Ruota potrebbero risvegliarsi."
+  },
+  {
+   "id": "commit.pre.s.stonestories",
+   "label": "Una Vigilanza",
+   "startdescription": "Le Ore un tempo chiamate la Selce e la Ruota non ci sono più, ma il sangue delle loro emanazioni-di-Nome si mescolò al sangue dei mortali, e da esso nacque la stirpe di Antaios. Finché la stirpe antaiana continua, l’eredità della Selce e della Ruota può perdurare. Questa dunque è Preservazione.",
+   "desc": "Le Ore un tempo chiamate la Selce e la Ruota non ci sono più, ma il sangue delle loro emanazioni-di-Nome si mescolò al sangue dei mortali, e da esso nacque la stirpe di Antaios. Finché la stirpe antaiana continua, l’eredità della Selce e della Ruota può perdurare."
+  },
+  {
+   "id": "commit.bir.s.strings.songs",
+   "label": "Il Canone",
+   "startdescription": "Non ci sono parole nel canto degli uccelli; così il canto degli uccelli non ha avuto inizio e non avrà fine.",
+   "desc": "Non ci sono parole nel canto degli uccelli; così il canto degli uccelli non ha avuto inizio e non avrà fine."
+  },
+  {
+   "id": "commit.nyc.s.strings.songs",
+   "label": "Il Passaggio",
+   "startdescription": "Le parole sono la via attraverso il cielo, e un canto senza parole non è affatto un canto. La Nittodromia è la sapienza delle vie.",
+   "desc": "Le parole sono la via attraverso il cielo, e un canto senza parole non è affatto un canto."
+  },
+  {
+   "id": "commit.hus.s.surgeries.exsanguinations",
+   "label": "Il Bianco",
+   "startdescription": "L’Albero del Guardiano ha tre fiori: Nero, Rosso e Bianco. Il Rosso è la vita che scorre nei canali del corpo, e il bianco è la scrittura nel nucleo del corpo. La Silenzieria insegna ciò che finisce.",
+   "desc": "L’Albero del Guardiano ha tre fiori: Nero, Rosso e Bianco. Il Rosso è la vita che scorre nei canali del corpo, e il bianco è la scrittura nel nucleo del corpo."
+  },
+  {
+   "id": "commit.pre.s.surgeries.exsanguinations",
+   "label": "Il Dorato",
+   "startdescription": "Nei tempi in cui nulla era dimenticato, tre fiori sbocciarono sull’Albero del Guardiano: Nero, Rosso e Oro. Il Rosso è la vita che scorre nei canali del corpo, ma il sangue della Croce del Carapace era dorato. La Preservazione insegna ciò che perdura.",
+   "desc": "Nei tempi in cui nulla era dimenticato, tre fiori sbocciarono sull’Albero del Guardiano: Nero, Rosso e Oro. Il Rosso è la vita che scorre nei canali del corpo, ma il sangue della Croce del Carapace era dorato."
+  },
+  {
+   "id": "commit.hor.s.thegreatsignsandthegreatscars",
+   "label": "Il Primo Nemico",
+   "startdescription": "Il Vak è una Grande Cicatrice; il primo nemico della Calyptra. Quando il fiore nero sboccia sull’Albero del Guardiano, il Vak si ritira, e la Calyptra protegge la conoscenza pericolosa dietro il velo della segretezza. La natura della loro inimicizia è materia di Oromachia.",
+   "desc": "Il Vak è una Grande Cicatrice; il primo nemico della Calyptra. Quando il fiore nero sboccia sull’Albero del Guardiano, il Vak si ritira, e la Calyptra protegge la conoscenza pericolosa dietro il velo della segretezza."
+  },
+  {
+   "id": "commit.hus.s.thegreatsignsandthegreatscars",
+   "label": "Il Primo Errore",
+   "startdescription": "Il Vak è una Grande Cicatrice; il primo errore della Calyptra. Se solo il Vak potesse essere guarito dal proprio dolore, la Calyptra potrebbe regnare inviolata, e la conoscenza pericolosa che protegge potrebbe essere davvero al sicuro. La natura della sua guarigione è materia di Silenzieria.",
+   "desc": "Il Vak è una Grande Cicatrice; il primo errore della Calyptra. Se il Vak potesse essere guarito dal proprio dolore, la Calyptra potrebbe regnare inviolata, e la conoscenza pericolosa che protegge potrebbe essere davvero al sicuro."
+  },
+  {
+   "id": "commit.ill.s.transformations.liberations",
+   "label": "Dalla Luce",
+   "startdescription": "Se anche la divisione del Sole fu un piano... allora, una volta completato quel piano, porteremo la Seconda Alba, e riunificheremo il sole. Non sarà facile, ma quale grande opera lo è mai stata? L’Illuminazione potrebbe mostrare la via.",
+   "desc": "Se anche la divisione del Sole fu un piano... allora, una volta completato quel piano, porteremo la Seconda Alba, e riunificheremo il sole. Non sarà facile, ma quale grande opera lo è mai stata?"
+  },
+  {
+   "id": "commit.ith.s.transformations.liberations",
+   "label": "Dall’Acciaio",
+   "startdescription": "Se il Sole è venuto meno… allora dobbiamo fabbricare la nostra Seconda Alba, con l’occhio, con la mano, con la luce sotto il cuore. Non sarà facile, ma quale grande opera lo è mai stata? L’Ithastria potrebbe modellare la via.",
+   "desc": "Se il Sole è venuto meno… allora dobbiamo fabbricare la nostra Seconda Alba, con l’occhio, con la mano, con la luce sotto il cuore. Non sarà facile, ma quale grande opera lo è mai stata?"
+  },
+  {
+   "id": "commit.pre.s.tridesmahiera",
+   "label": "La Luce, la Notte, il Bosco",
+   "startdescription": "Cosa illuminava il Bosco nei giorni prima del suo oscurarsi? C’era una luce sulla terra molto prima che la Gloria giungesse nel cielo. Preserva la notte, e la luce potrebbe tornare.",
+   "desc": "Cosa illuminava il Bosco nei giorni prima del suo oscurarsi? C’era una luce sulla terra molto prima che la Gloria giungesse nel cielo. Preserva la notte, e la luce potrebbe tornare."
+  },
+  {
+   "id": "commit.bos.s.tridesmahiera",
+   "label": "Il Primo tra i Banchetti",
+   "startdescription": "La Falena consumò la Ruota; il Graal consumò la Marea; nei giorni della Forgia, le Stelle fuggirono da ogni sfaccettatura della Selce. Quale banchetto fu il primo? Coloro che percorrono il Bosco sanno che, quale che fosse il primo, quello del Graal fu il più grande.",
+   "desc": "La Falena consumò la Ruota; il Graal consumò la Marea; nei giorni della Forgia, le Stelle fuggirono da ogni sfaccettatura della Selce. Quale banchetto fu il primo? Coloro che percorrono il Bosco sanno che, quale che fosse il primo, quello del Graal fu il più grande."
+  },
+  {
+   "id": "commit.bir.s.vak",
+   "label": "Un’Occasione",
+   "startdescription": "Qualcosa che non è comunemente compreso: se non ci fosse la Calyptra a celare la conoscenza pericolosa, non potrebbe esserci il Vak. Una porta si apre in entrambe le direzioni. Questo è compreso dagli studiosi delle Arti Trascurate.",
+   "desc": "Qualcosa che non è comunemente compreso: se non ci fosse la Calyptra a celare la conoscenza pericolosa, non potrebbe esserci il Vak. Una porta si apre in entrambe le direzioni."
+  },
+  {
+   "id": "commit.nyc.s.vak",
+   "label": "Un Accordo",
+   "startdescription": "Qualcosa che non è comunemente compreso: senza il Vak, l’eccezione, non potrebbe esserci la Calyptra, la legge. Il Vak è, in questo senso, e forse in ogni senso, il servitore della Calyptra. Questo è noto agli studiosi delle Arti della Notte.",
+   "desc": "Qualcosa che non è comunemente compreso: senza il Vak, l’eccezione, non potrebbe esserci la Calyptra, la legge. Il Vak è, in questo senso, e forse in ogni senso, il servitore della Calyptra."
+  },
+  {
+   "id": "commit.nyc.s.watchmansparadoxes",
+   "label": "Dal Cambiamento",
+   "startdescription": "Riconosciamo i luoghi onirici che il Guardiano ci mostra, sebbene non li abbiamo mai visti prima. Forse eravamo qualcos’altro quando li vedemmo. Questo paradosso è fondamentale per la Nittodromia.",
+   "desc": "Riconosciamo i luoghi onirici che il Guardiano ci mostra, sebbene non li abbiamo mai visti prima. Forse eravamo qualcos’altro quando li vedemmo."
+  },
+  {
+   "id": "commit.ill.s.watchmansparadoxes",
+   "label": "Dalla Luce",
+   "startdescription": "I nostri sogni sono ombre proiettate dalla luce del Guardiano. Così lo percepiamo anche nella nostra ombra. Questo è Illuminazione.",
+   "desc": "I nostri sogni sono ombre proiettate dalla luce del Guardiano. Così lo percepiamo anche nella nostra ombra."
+  },
+  {
+   "id": "commit.bir.s.weaving.knotworking",
+   "label": "Ciò che Resta",
+   "startdescription": "Taglia un filo, e l’arazzo resta. Il Canto degli Uccelli segue il filo.",
+   "desc": "Taglia un filo, e l’arazzo resta."
+  },
+  {
+   "id": "commit.bos.s.weaving.knotworking",
+   "label": "Ciò che Perdura",
+   "startdescription": "Taglia un filo, e l’arazzo dovrà essere risanato. Il Boschetto rinnova la trama.",
+   "desc": "Taglia un filo, e l’arazzo dovrà essere risanato."
+  },
+  {
+   "id": "commit.bir.s.wolfstories",
+   "label": "Il Ritorno del Lupo",
+   "startdescription": "La Versione Autorizzata del Libro dei Soli dice che il Lupo-Diviso fu risvegliato dalla divisione del Sole. Da ciò sappiamo che il Lupo era una propria Ora anche quando il Sole era integro. Così deduciamo e supponiamo che il Sole possa essere guarito, e il Lupo tornare al proprio sonno. Così deduciamo e supponiamo che una Seconda Alba porterebbe pace, ma il Lupo lotterà per impedirlo. Questo è Canto degli Uccelli.",
+   "desc": "La Versione Autorizzata del Libro dei Soli dice che il Lupo-Diviso fu risvegliato dalla divisione del Sole. Da ciò sappiamo che il Lupo era una propria Ora anche quando il Sole era integro. Così deduciamo e supponiamo che il Sole possa essere guarito, e il Lupo tornare al proprio sonno. Così deduciamo e supponiamo che una Seconda Alba porterebbe pace, ma il Lupo lotterà per impedirlo."
+  },
+  {
+   "id": "commit.sko.s.wolfstories",
+   "label": "L’Inizio del Lupo",
+   "startdescription": "La Versione Ricevuta del Libro dei Soli ci narra che il Lupo-Diviso nacque dalla divisione del Sole-in-Splendore. Da ciò sappiamo che il Sole può rinascere solo se il Lupo si unisce agli altri sé del Sole. Solo se la fame del Lupo sarà placata, esso si unirà ai suoi altri sé. E solo la carne dei suoi altri sé può placare la fame del Lupo. Una Seconda Alba annuncerebbe l’Ultimo Giorno. Questa è la cupa lezione della Scolecosofia.",
+   "desc": "La Versione Ricevuta del Libro dei Soli ci narra che il Lupo-Diviso nacque dalla divisione del Sole-in-Splendore. Da ciò sappiamo che il Sole può rinascere solo se il Lupo si unisce agli altri sé del Sole. Solo se la fame del Lupo sarà placata, esso si unirà ai suoi altri sé. E solo la carne dei suoi altri sé può placare la fame del Lupo. Una Seconda Alba annuncerebbe l’Ultimo Giorno."
+  }
+ ]
+}

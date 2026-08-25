@@ -1,0 +1,51 @@
+{
+    "elements": [
+		{
+			"id": "nx.opening",
+			"label": "Opening",
+			"isAspect": true
+		},
+        {
+			"id": "nx.sealing",
+			"label": "Sealing",
+			"isAspect": true
+		},
+		{
+			"id": "nx.harming",
+			"label": "harming",
+			"isAspect": true
+		},
+		{
+			"id": "nx.healing",
+			"label": "healing",
+			"isAspect": true
+		},
+		{
+			"id": "nx.revealing",
+			"label": "revealing",
+			"isAspect": true
+		},
+		{
+			"id": "nx.obscuring",
+			"label": "obscuring",
+			"isAspect": true
+		},
+		{
+			"id": "nx.helping",
+			"label": "helping",
+			"isAspect": true
+		},
+		{
+			"id": "nx.thwarting",
+			"label": "thwarting",
+			"isAspect": true
+		},
+		{
+			"id": "nx.concluding",
+			"label": "thwarting",
+			"isAspect": true
+		}
+
+
+    ]
+}

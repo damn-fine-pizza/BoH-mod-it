@@ -1,0 +1,895 @@
+{
+ "recipes": [
+  {
+   "id": "act1start.acquaintance.rectory",
+   "label": "Un Ecclesiastico Distratto",
+   "startdescription": "Il Reverendo barcolla all’indietro come se avesse ricevuto un colpo, e poi mi tempesta di domande terrorizzate ed entusiaste prima ancora che io varchi la soglia.",
+   "desc": "Timothy mi fa accomodare nell’ingresso luminoso, cercando con lo sguardo la propria governante, e ponendomi domande senza sosta. «Come hai fatto ad arrivare qui? È stato il naufragio? Terrence! Terrence, porta gli asciugamani!»"
+  },
+  {
+   "id": "act1start.acquaintance.rectory.hint",
+   "label": "Un Ecclesiastico Distratto?",
+   "startdescription": "La porta si apre di qualche cauto centimetro. «Chi va là? Dico a voi, chi va là?» [Il vento della tempesta ti strattona, strattona la porta, scuote gli alberi intorno alla casa...]"
+  },
+  {
+   "id": "act1start.acquaintance.denzil.start",
+   "label": "Una Porta Rischiarata dal Fuoco",
+   "startdescription": "Denzil si staglia nel vano illuminato dal fuoco. «Tu? Qui? Come?»",
+   "desc": "Barcollo fin dentro la fucina, finalmente al riparo dal freddo. Senza aggiungere altro, Denzil mi porge una coperta e si dà da fare ad attizzare il fuoco: la più calorosa delle accoglienze di cui è capace."
+  },
+  {
+   "id": "act1start.acquaintance.denzil.start.hint",
+   "label": "Una Porta Rischiarata dal Fuoco?",
+   "startdescription": "Denzil si staglia nel vano illuminato dal fuoco. [Il vento della tempesta vi strattona entrambi.]"
+  },
+  {
+   "id": "act1start.acquaintance.coffinmaker",
+   "label": "Riparo!",
+   "startdescription": "Mr Kille lotta con la porta. Il vento gliela strappa quasi dalle mani. I suoi occhi si spalancano non appena mi vede.",
+   "desc": "Mr Kille sogghigna come il più felice dei teschi. «Entra, entra! A meno che non ti serva una cassa su misura?» E mi conduce nel tepore del salotto, chiamando Mrs Kille perché venga a vedere, venga a vedere chi hanno salvato."
+  },
+  {
+   "id": "act1start.acquaintance.coffinmaker.hint",
+   "label": "Riparo?",
+   "startdescription": "Mr Kille lotta con la porta. Il vento gliela strappa quasi dalle mani. [Il vento della tempesta vi strattona entrambi.]"
+  },
+  {
+   "id": "act1start.acquaintance.midwife",
+   "label": "Riparo!",
+   "startdescription": "Mrs Kille apre la porta con cautela, ma la spalanca, lasciando che il vento la sbatta, non appena mi vede.",
+   "desc": "Mrs Kille mi trascina nel suo ampio abbraccio, mi lascia andare quando si accorge di quanta pioggia ho ancora addosso, poi chiama Mr Kille e mi trascina nel tepore del salotto. «Siediti e bevi un goccio di caldo!», mi intima con severità."
+  },
+  {
+   "id": "act1start.acquaintance.midwife.hint",
+   "label": "Riparo?",
+   "startdescription": "Mrs Kille lotta con la porta. Il vento gliela strappa quasi dalle mani. [Il vento della tempesta vi strattona entrambi.]"
+  },
+  {
+   "id": "act1start.dry.health.rectory",
+   "label": "Rifugiarsi alla Canonica",
+   "startdescription": "Il Reverendo Timothy si agita premurosamente mentre Terrence, la Governante, si occupa degli aspetti pratici. Mi accompagna in una stanza calda in cima alla casa, dove il fuoco è già acceso.",
+   "desc": "Fa tenerezza, il Reverendo Timothy, tanto è emozionato di conoscere di persona chi gli scriveva. Non ho ancora le forze per reggere la mia parte di conversazione, e Terrence non è donna di molte parole, ma il Reverendo parla per tre. Alla fine, però, si accorge di colpo della mia stanchezza, e mi lascia dormire."
+  },
+  {
+   "id": "act1start.dry.health.smithy",
+   "label": "Rifugiarsi alla Fucina",
+   "startdescription": "Denzil ha un solo letto, ma può offrirmi un pagliericcio nella fucina. C’è molto fumo, ma il calore è quanto mai gradito.",
+   "desc": "Denzil si ferma sulla porta mentre gli do la buonanotte. «Il sole tornerà» osserva. «Torna sempre. Lo dicevamo anche in Guerra, no?» Le parole restano sospese mentre lui si allontana pesantemente lungo il corridoio. La fiamma della lampada guizza rossa, dorata, rossa."
+  },
+  {
+   "id": "act1start.dry.health.mrkille",
+   "label": "Rifugiarsi dai Kille",
+   "startdescription": "Mr Kille ha costruito il letto con le proprie mani – temo con gli stessi attrezzi che usa per dare forma alle bare. Non è un letto comodo. Ma è asciutto, pulito, e caldo.",
+   "desc": "Resto a chiacchierare fino a tardi con Mr e Mrs K, mentre il vento fa sbattere le persiane e il fuoco si consuma lentamente in braci. Ho una fame terribile, e le galette di Mrs K sono incredibilmente buone. Mr K finge di brontolare per la cucina straniera. Nessuno ci crede."
+  },
+  {
+   "id": "act1start.dry.health.mrskille",
+   "label": "Rifugiarsi dai Kille",
+   "startdescription": "Mr K ha costruito il letto con le proprie mani – temo con gli stessi attrezzi che usa per dare forma alle bare. Non è un letto comodo. Ma è asciutto, pulito, e caldo.",
+   "desc": "Io e Mrs K restiamo a chiacchierare fino a tardi dei vecchi tempi nel Quartiere Latino, quando il mondo e noi eravamo molto diversi. Mr K ascolta mentre pulisce la pipa. «Vino e rose» osserva. «Suppongo che il vino sia ormai tutto versato, ma le rose rispunteranno, no?»"
+  },
+  {
+   "id": "dry.thing.generic.rectory",
+   "label": "Asciugare Qualcosa alla Canonica",
+   "startdescription": "Il Reverendo Timothy si agita premurosamente mentre Terrence, la Governante, si occupa degli aspetti pratici.",
+   "desc": "Si levano vapori leggeri."
+  },
+  {
+   "id": "dry.thing.generic.smithy",
+   "label": "Asciugare Qualcosa alla Fucina",
+   "startdescription": "Denzil mi permetterà di usare il fuoco della forgia – il che vuol dire che qualunque cosa asciughi puzzerà poi di fumo.",
+   "desc": "Si levano vapori leggeri."
+  },
+  {
+   "id": "dry.thing.generic.killes",
+   "label": "Asciugare Qualcosa dai Kille",
+   "startdescription": "Posso usare liberamente il fuoco nel salotto dei Kille.",
+   "desc": "Si levano vapori leggeri."
+  },
+  {
+   "id": "acquaintance.rectory",
+   "label": "Tè con il Rettore",
+   "startdescription": "Una conoscenza comune ha convinto il Reverendo Timothy, il Rettore, a invitarmi per il tè. Potrebbero esserci perfino delle crumpet.",
+   "desc": "Il tè del Reverendo Timothy si raffredda mentre lui si dilunga sulla politica post-Restaurazione, e teorizza sulle tradizioni pagane dei minatori. [La Canonica è ora disponibile.]"
+  },
+  {
+   "id": "acquaintance.denzil",
+   "label": "Una Porta Rischiarata dal Fuoco",
+   "startdescription": "Una conoscenza comune mi presenterà a Denzil il Fabbro. Con un po’ di pazienza potrei strappargli sei, magari perfino dieci parole.",
+   "desc": "Denzil è una sorprendente fonte di consigli pratici. [La Fucina è ora disponibile.]"
+  },
+  {
+   "id": "acquaintance.killes",
+   "label": "Culle e Bare",
+   "startdescription": "Una conoscenza comune ha convinto i Kille a invitarmi per una cena di pesce. Con un po’ di fortuna, «cena di pesce» potrebbe significare le celebri galette di Mrs Kille.",
+   "desc": "Mr Kille mi stringe la mano con vigore. «Stasera siamo solo io, te e la Signora! Be’, c’è un cliente sul retro, ma se non lo disturbi lui non disturberà te.» [La casa dei Kille è ora disponibile.]"
+  },
+  {
+   "id": "acquaintance.sweetbones.introduction",
+   "label": "Presentazioni",
+   "startdescription": "Ho portato compagnia. @#assistance.rector|La presenza del Reverendo Timothy impone rispetto.#assistance.coffinmaker|Mr Kille ripete una lunga sfilza di battute trite e ritrite, che strappa a tutti gemiti divertiti.#assistance.midwife|Mrs Kille chiede a un giovane scontroso della salute di sua madre, e rifila un ceffone dietro la testa a un altro quando sospetta che mi stia guardando in modo strano. #assistance.blacksmith|Denzil non dice una parola. Se ne sta seduto a braccia conserte, aspettando che gli altri vengano a rendergli omaggio al nostro tavolo. #|Chi mi accompagna fa le presentazioni.@",
+   "desc": "Alla fine, gli altri avventori si sciolgono abbastanza da lasciarmi offrire loro una pinta, e da ascoltare le loro lamentele sul tempo. La prossima volta troverò qui un’accoglienza più calorosa."
+  },
+  {
+   "id": "acquaintance.sweetbones.buy",
+   "label": "Un’Accoglienza Diffidente alla Locanda",
+   "startdescription": "Al tempo dell’Eptarchia, chi donava anelli era considerato generoso. In questo luminoso e civilizzato secolo, chi paga da bere gode della stessa stima.",
+   "desc": "Ho pagato da bere a tutti. E un altro giro. E uno ancora per fortuna. Così si è sparsa la voce che «non sono mica male, per essere di fuori». La prossima volta troverò qui un’accoglienza più calorosa."
+  },
+  {
+   "id": "acquaintance.sweetbones.mettle",
+   "label": "Forza di Carattere",
+   "startdescription": "Non me ne vado. Non sono tenuti a provare <i>simpatia</i> per me.",
+   "desc": "Alla fine gli altri avventori si sciolgono a sufficienza da lasciarmi offrire loro una pinta, e da ascoltare le loro lamentele sul tempo. La prossima volta troverò qui un’accoglienza più calorosa."
+  },
+  {
+   "id": "acquaintance.sweetbones.chor",
+   "label": "Continua a Sorridere",
+   "startdescription": "Ho imparato che l’entusiasmo onesto è un solvente per la scontrosità.",
+   "desc": "Alla fine gli altri avventori si sciolgono abbastanza da lasciarmi offrire loro una pinta, e da ascoltare le loro lamentele sul tempo. La prossima volta troverò qui un’accoglienza più calorosa."
+  },
+  {
+   "id": "acquaintance.sweetbones.shapt",
+   "label": "Una Lingua d’Argento",
+   "startdescription": "Un pubblico duro. Ne ho ammaliati di più ostici.",
+   "desc": "Alla fine gli altri avventori si sciolgono abbastanza da lasciarmi offrire loro una pinta, e da ascoltare le loro lamentele sul tempo. La prossima volta troverò qui un’accoglienza più calorosa."
+  },
+  {
+   "id": "acquaintance.sweetbones.notyet.ability.hint",
+   "label": "Nessun Posto alla Locanda?",
+   "startdescription": "Il Sweet Bones è sprangato e chiuso contro la tempesta... e contro i visitatori sgraditi. Da qualche parte nel villaggio dovrò pur trovare un riparo."
+  },
+  {
+   "id": "acquaintance.sweetbones.notyet.money.hint",
+   "label": "Nessun Posto alla Locanda?",
+   "startdescription": "Il Sweet Bones è sprangato e chiuso contro la tempesta... e contro i visitatori sgraditi. Da qualche parte nel villaggio dovrò pur trovare un riparo."
+  },
+  {
+   "id": "postoffice.open",
+   "label": "Qualcosa per me?",
+   "startdescription": "La Direttrice delle Poste mi osserva con uno sguardo gelido, come quello di una dea scolpita in un antico santuario tra le colline. «L’Archivista», dice. «Sì. Ho qualcosa per te. Aspetta qui, per favore.»",
+   "desc": "La Direttrice delle Poste torna con una busta indirizzata a «l’Archivista, Hush House, Isola di Brancrug» – timbrata in Galles una settimana fa."
+  },
+  {
+   "id": "postoffice.letter.send",
+   "label": "Un Francobollo Segnato dal Re",
+   "startdescription": "Francobollo, busta, spedisci!",
+   "desc": "La Direttrice delle Poste esamina la lettera, e la giudica sufficiente. «Partirà con la prossima posta» mi assicura."
+  },
+  {
+   "id": "postoffice.invitation.send",
+   "label": "Inviare un Invito a un Visitatore",
+   "startdescription": "Francobollo, busta, spedisci!",
+   "desc": "La Direttrice delle Poste esamina la lettera, e la giudica sufficiente. «Partirà con la prossima posta» mi assicura."
+  },
+  {
+   "id": "postoffice.letter.send.occult",
+   "label": "Un Sigillo Segnato da un Uccello",
+   "startdescription": "«Per mano di un corriere dei Cieli Inferiori?»",
+   "desc": "La Direttrice delle Poste accetta il messaggio, soppesa la spintria, e trova entrambi sufficienti. «Non garantisco nulla» mi dice."
+  },
+  {
+   "id": "postoffice.break.spintria.gold",
+   "label": "Vendere una Spintria d’Oro",
+   "startdescription": "Le spintrie non hanno corso legale. Ma nessuna legge impedisce alla Direttrice delle Poste di acquistarle da me. Forse le colleziona. [Questo vale due sterline.]",
+   "desc": "La Direttrice delle Poste scruta la superficie della spintria. «Una nobile impresa» osserva. Mi porge due fruscianti banconote da una sterlina."
+  },
+  {
+   "id": "postoffice.break.spintria.silver",
+   "label": "Vendere una Spintria d’Argento",
+   "startdescription": "Le spintrie non hanno corso legale. Ma nessuna legge impedisce alla Direttrice delle Poste di acquistarle da me. Forse le colleziona. [Questo vale una sterlina e dieci scellini.]",
+   "desc": "La Direttrice delle Poste scruta il disegno sulla superficie della spintria. Sta sorridendo? Non dice nulla, si limita a porgermi il pagamento."
+  },
+  {
+   "id": "postoffice.break.spintria.tin",
+   "label": "Vendere una Spintria di Stagno",
+   "startdescription": "Le spintrie non hanno corso legale. Ma nessuna legge impedisce alla Direttrice delle Poste di acquistarle da me. Forse le colleziona. [Questo vale una sterlina.]",
+   "desc": "La Direttrice delle Poste scruta il disegno sulla spintria. Sospira. «È per questo che il Re venne qui» dice piano «tanto tempo fa. Ma non fu abbastanza.» Mi porge una banconota da una sterlina."
+  },
+  {
+   "id": "postoffice.break.spintria.bronze",
+   "label": "Vendere una Spintria di Bronzo",
+   "startdescription": "Le spintrie non hanno corso legale. Ma nessuna legge impedisce alla Direttrice delle Poste di acquistarle da me. Forse le colleziona. [Questo vale dieci scellini.]",
+   "desc": "La Direttrice delle Poste scruta il disegno sulla spintria. «Il fuoco scalda» dice sommessamente «la notte finisce.» Mi porge una banconota da dieci scellini."
+  },
+  {
+   "id": "postoffice.break.spintria.iron",
+   "label": "Vendere una Spintria di Ferro",
+   "startdescription": "Le spintrie non hanno corso legale. Ma nessuna legge impedisce alla Direttrice delle Poste di acquistarle da me. Forse le colleziona. [Questo vale cinque scellini.]",
+   "desc": "La Direttrice delle Poste scruta il disegno sulla spintria. «E dire che chiamano la <i>parola</i> una spada» osserva. Mi porge una moneta."
+  },
+  {
+   "id": "postoffice.break.sevenpoundnote",
+   "label": "Cambiare una Banconota da Sette Sterline",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto.",
+   "desc": "Tre banconote minori. «Così si mantiene l’Equilibrio.»"
+  },
+  {
+   "id": "postoffice.break.fivepoundnote",
+   "label": "Cambiare una Banconota da Cinque Sterline",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto.",
+   "desc": "Quattro banconote minori e una manciata di monete consorelle, maggiori e minori. «Così si mantiene l’Equilibrio.»"
+  },
+  {
+   "id": "postoffice.break.onepoundnote",
+   "label": "Cambiare una Banconota da Una Sterlina",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto.",
+   "desc": "Banconota da una sterlina cambiata con una manciata di monete minori. «Così si mantiene l’Equilibrio.»"
+  },
+  {
+   "id": "postoffice.break.tenshillingnote",
+   "label": "Cambiare una Banconota da Dieci Scellini",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto.",
+   "desc": "Dieci scellini, disincarnati in monete minori."
+  },
+  {
+   "id": "postoffice.break.crown",
+   "label": "Cambiare una Corona",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto.",
+   "desc": "Una corona spezzata in un tenue arcobaleno d’argento."
+  },
+  {
+   "id": "postoffice.break.halfcrown",
+   "label": "Cambiare una Mezza Corona",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto.",
+   "desc": "Un pedante, o un poeta, potrebbe suggerire che una mezza corona non può mai essere stata intera, e dunque non si può spezzare. Non lo suggerirebbe però alla Direttrice delle Poste.."
+  },
+  {
+   "id": "postoffice.break.florin",
+   "label": "Cambiare un Fiorino",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto.",
+   "desc": "Cedo il fiorino e ricevo in cambio una manciata indisciplinata di monete minori"
+  },
+  {
+   "id": "postoffice.break.shilling",
+   "label": "Cambiare uno Scellino",
+   "startdescription": "La Direttrice delle Poste accetterà l’offerta e mi elargirà il resto dovuto. (Questa è la moneta più piccola che si degnerà di cambiare.)",
+   "desc": "Cedi l’argento, raccogli il rame."
+  },
+  {
+   "id": "postoffice.break.hint",
+   "label": "Spiccioli da Poco",
+   "startdescription": "La Direttrice delle Poste cambierà banconote di taglio maggiore in spiccioli, ma non tentare la sua ira con una moneta così misera e piccola."
+  },
+  {
+   "id": "postoffice.mailorder.send.hint",
+   "label": "",
+   "startdescription": "Pazienza. Così la montagna attende la caduta della neve; così il lunedì attende la morte del fine settimana; così la Direttrice delle Poste attende che io acquisti il francobollo necessario."
+  },
+  {
+   "id": "postoffice.numa.hint",
+   "label": "Nebbia e Silenzio",
+   "startdescription": "La linea del telegrafo crepita. La nebbia avanza e si ritira. Da lontano – forse dalle colline sopra il villaggio – sento la voce della Direttrice delle Poste gridare, imprecazioni e lamenti, nella lingua cornica. Ma qui non c’è traccia di lei. Numa."
+  },
+  {
+   "id": "postoffice.delivery",
+   "label": "La Posta",
+   "startdescription": "In arrivo!"
+  },
+  {
+   "id": "postoffice.invitation.send.agdistis",
+   "label": "Agdistis in Arrivo?",
+   "startdescription": "Agdistis ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.aladim",
+   "label": "al-Adim in Arrivo?",
+   "startdescription": "al-Adim ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.arthur",
+   "label": "Arthur Moore in Arrivo?",
+   "startdescription": "Arthur Moore ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.arun",
+   "label": "Peel in Arrivo?",
+   "startdescription": "Peel ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.azita",
+   "label": "Azita in Arrivo?",
+   "startdescription": "Azita ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.chaima",
+   "label": "Chaima in Arrivo?",
+   "startdescription": "Chaima ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.connie",
+   "label": "Connie in Arrivo?",
+   "startdescription": "Connie ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.coquille",
+   "label": "Coquille in Arrivo?",
+   "startdescription": "Coquille ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.corso",
+   "label": "Corso in Arrivo?",
+   "startdescription": "Corso ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.dagmar",
+   "label": "Daymare in Arrivo?",
+   "startdescription": "Daymare ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.douglas",
+   "label": "Douglas Moore in Arrivo?",
+   "startdescription": "Douglas Moore ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.ehsan",
+   "label": "Ehsan in Arrivo?",
+   "startdescription": "Ehsan ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.fraser",
+   "label": "Strathcoyne in Arrivo?",
+   "startdescription": "Strathcoyne ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.hokobald",
+   "label": "Hokobald in Arrivo?",
+   "startdescription": "Hokobald ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.morgen",
+   "label": "Morgen in Arrivo?",
+   "startdescription": "Morgen ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.olympe",
+   "label": "Olympe in Arrivo?",
+   "startdescription": "Olympe ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.serena",
+   "label": "Serena in Arrivo?",
+   "startdescription": "Serena ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.stanislav",
+   "label": "Padre Stanislav in Arrivo?",
+   "startdescription": "Padre Stanislav ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.yvette",
+   "label": "Yvette in Arrivo?",
+   "startdescription": "Yvette ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "postoffice.invitation.send.zachary",
+   "label": "Zachary in Arrivo?",
+   "startdescription": "Zachary ha ricevuto il mio invito?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "chat.smithy.block",
+   "label": "Denzil è assente",
+   "startdescription": "Il fabbro è assente... per affari dell’Archivista. Ma questo lo sapevo già, no?"
+  },
+  {
+   "id": "chat.rectory.block",
+   "label": "Il Reverendo Timothy è assente",
+   "startdescription": "Il Reverendo Timothy è assente... per affari dell’Archivista. Ma questo lo sapevo già, no?"
+  },
+  {
+   "id": "chat.mrs.k.block",
+   "label": "Mrs Kille è assente",
+   "startdescription": "Mrs Kille è assente... per affari dell’Archivista. Ma questo lo sapevo già, no?"
+  },
+  {
+   "id": "chat.mr.k.block",
+   "label": "Mr Kille è assente",
+   "startdescription": "Mr Kille è assente... per affari dell’Archivista. Ma questo lo sapevo già, no?"
+  },
+  {
+   "id": "chat.rectory.friend",
+   "label": "Parla con il Reverendo Timothy",
+   "startdescription": "La porta del Reverendo Timothy è sempre aperta per me. [Timothy offrirà aiuto gratuitamente, da amico.]",
+   "desc": "«Sempre un piacere.»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "Chiedi al Reverendo Timothy qualcosa di specifico, oppure lascia vuoto per aspettare che finisca con la sua corrispondenza e presti la sua assistenza."
+    }
+   ]
+  },
+  {
+   "id": "chat.smithy.friend",
+   "label": "Parla con Denzil",
+   "startdescription": "Alla fucina di Denzil sono sempre il benvenuto. [Denzil offrirà aiuto gratuitamente, da amico. Se gli dai moneta occulta, eseguirà il Servizio della Divisione.]",
+   "desc": "«...»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "[Chiedi a Denzil qualcosa di specifico, oppure lascia vuoto per aspettare che finisca alla sua incudine e presti la sua assistenza.]"
+    }
+   ]
+  },
+  {
+   "id": "chat.mr.k.friend",
+   "label": "Parla con Mr Kille",
+   "startdescription": "A Mr Kille piace sempre l’occasione di scambiare quattro chiacchiere con me. [Se non scegli un argomento, Mr Kille offrirà il suo aiuto, da amico.]",
+   "desc": "«Ora di andare, eh?»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "Chiedi a Mr Kille qualcosa di specifico, oppure lascia questo spazio vuoto per aspettare che finisca con il martello e presti la sua assistenza."
+    }
+   ]
+  },
+  {
+   "id": "chat.mrs.k.friend",
+   "label": "Parla con Mrs Kille",
+   "startdescription": "L’umore di Mrs Kille migliora sempre quando faccio un salto da lei. [Se non scegli un argomento, Mrs Kille offrirà il suo aiuto, da amica.]",
+   "desc": "«Be’, non si possono cavare piume da un rospo.»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "Chiedi a Mrs Kille qualcosa di specifico, oppure lascia vuoto per aspettare che sia libera e possa prestare la sua assistenza."
+    }
+   ]
+  },
+  {
+   "id": "chat.rectory",
+   "label": "Parla con il Reverendo Timothy",
+   "startdescription": "Il Reverendo Timothy ama le conversazioni ponderate, la preghiera e il tè. E offrirà la sua assistenza in cambio di una donazione di uno scellino ai fondi della chiesa.",
+   "desc": "«Sempre un piacere.»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "Chiedi al Reverendo Timothy qualcosa di specifico, oppure offrigli un pagamento per il suo aiuto."
+    }
+   ]
+  },
+  {
+   "id": "chat.smithy",
+   "label": "Parla con Denzil",
+   "startdescription": "Denzil parlerà di questioni pratiche, sebbene preferisca sedersi in silenzio. Uno scellino comprerà il suo aiuto per un giorno. [Se gli dai moneta occulta, eseguirà invece il Servizio della Divisione.]",
+   "desc": "«...»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "Chiedi a Denzil qualcosa di specifico, oppure offrigli un pagamento per il suo aiuto."
+    }
+   ]
+  },
+  {
+   "id": "chat.mr.k",
+   "label": "Parla con Mr Kille",
+   "startdescription": "A Mr Kille piacciono le conversazioni sui finali. (Sua moglie preferisce parlare degli inizi.) Uno scellino comprerà il suo aiuto per un giorno.",
+   "desc": "«Ora di andare, eh?»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "Chiedi a Mr Kille qualcosa di specifico, oppure offrigli un pagamento per il suo aiuto."
+    }
+   ]
+  },
+  {
+   "id": "chat.mrs.k",
+   "label": "Parla con Mrs Kille",
+   "startdescription": "A Mrs Kille piacciono le conversazioni sugli inizi. (Suo marito preferisce parlare dei finali.) Uno scellino comprerà il suo aiuto per un giorno.",
+   "desc": "«Be’, non si possono cavare piume da un rospo.»",
+   "slots": [
+    {
+     "id": "topic",
+     "label": "Argomento",
+     "description": "Chiedi a Mrs Kille qualcosa di specifico, oppure offrile un pagamento per il suo aiuto."
+    }
+   ]
+  },
+  {
+   "id": "dry.book.smithy",
+   "label": "Asciugare un Libro",
+   "startdescription": "Denzil osserva con grave interesse mentre asciugo il libro al calore del fuoco della sua forgia. Fornisce batuffoli di cotone da mettere fra le pagine, ma per il resto mantiene le distanze. Diffida della parola scritta. Comincio a sospettare che non sappia leggere. Non mi aspetto che me lo dica mai."
+  },
+  {
+   "id": "split.spintria.smithy.gold",
+   "label": "Dividere l’Oro",
+   "startdescription": "Sin dal tempo della Curia, i fabbri di Brancrug eseguono «il servizio della divisione» per loro. [Questo dividerà la tua spintria in monete più maneggevoli.]",
+   "desc": "Denzil mi accompagna fuori dalla stanza in silenzio mentre lavora. Non sento il suono del suo martello; forse conserva soltanto una scorta segreta di spintrie. Ma quando esce per consegnarmi le monete, sono quasi troppo calde da toccare."
+  },
+  {
+   "id": "split.spintria.smithy.silver",
+   "label": "Dividere l’Argento",
+   "startdescription": "Sin dal tempo della Curia, i fabbri di Brancrug eseguono «il servizio della divisione» per loro. [Questo dividerà la tua spintria in monete più maneggevoli.]",
+   "desc": "Denzil mi accompagna fuori dalla stanza in silenzio mentre lavora. Non sento il suono del suo martello; forse conserva soltanto una scorta segreta di spintrie. Ma quando esce per consegnarmi le monete, sono quasi troppo calde da toccare."
+  },
+  {
+   "id": "split.spintria.smithy.tin",
+   "label": "Dividere lo Stagno",
+   "startdescription": "Sin dal tempo della Curia, i fabbri di Brancrug eseguono «il servizio della divisione» per loro. [Questo dividerà la tua spintria in monete più maneggevoli.]",
+   "desc": "Denzil mi accompagna fuori dalla stanza in silenzio mentre lavora. C’è un breve suono – una specie di grido crepitante di gioia o di dolore – che sembra provenire dall’interno della fucina – ma quando tendo l’orecchio, non si ripete. Quando Denzil esce per consegnarmi le monete, sono quasi troppo calde da toccare."
+  },
+  {
+   "id": "split.spintria.smithy.bronze",
+   "label": "Dividere il Bronzo",
+   "startdescription": "Sin dal tempo della Curia, i fabbri di Brancrug eseguono «il servizio della divisione» per loro. [Questo dividerà la tua spintria in monete più maneggevoli.]",
+   "desc": "Denzil mi accompagna fuori dalla stanza in silenzio mentre lavora. Non sento il suono del suo martello; forse conserva soltanto una scorta segreta di spintrie. Ma quando esce per consegnarmi le monete, sono quasi troppo calde da toccare."
+  },
+  {
+   "id": "split.spintria.smithy.iron",
+   "label": "«Il Ferro è Ferro»",
+   "startdescription": "Sin dal tempo della Curia, i fabbri di Brancrug hanno eseguito «il servizio della divisione» per l’Archivista. Ma Denzil si limita a scuotere la testa. «Il ferro è ferro» è tutto ciò che dice."
+  },
+  {
+   "id": "dry.book.rectory",
+   "label": "Asciugare un Libro",
+   "startdescription": "Il Reverendo Timothy non è tipo da lasciarsi sfuggire un’occasione di conversazione, così la faccenda richiede più tempo del necessario... ma è ansioso di aiutare."
+  },
+  {
+   "id": "dry.book.killes",
+   "label": "Asciugare un Libro",
+   "startdescription": "Mrs Kille, cupa come sempre, gentile come sempre, accende il fuoco in cucina e mi aiuta ad asciugare il libro, mentre Mr Kille sega senza sosta nella stanza accanto. «La nascita lascia sempre segni» osserva, mentre infila con cura frammenti di mussola fra le pagine umide."
+  },
+  {
+   "id": "dry.book.sweetbones",
+   "label": "Asciugare un Libro",
+   "startdescription": "L’orologio ticchetta nella saletta; una radio lontana gracchia musicalmente; con cura, pagina dopo pagina, asciugo il libro."
+  },
+  {
+   "id": "night.rectory",
+   "label": "Ore Poco Socievoli",
+   "startdescription": "La canonica è al buio, e Terrence, la governante, si aggirerà probabilmente per le stanze. Dovrei tornare dopo l’alba."
+  },
+  {
+   "id": "night.smithy",
+   "label": "Ore Poco Socievoli",
+   "startdescription": "La fucina è al buio, e Denzil tiene al proprio sonno. Dovrei tornare dopo l’alba."
+  },
+  {
+   "id": "night.killes",
+   "label": "Ore Poco Socievoli",
+   "startdescription": "La casa è buia; i Kille saranno già a letto. Anche per me sarebbe ora."
+  },
+  {
+   "id": "numa.rectory",
+   "label": "Nebbia e Silenzio",
+   "startdescription": "Le nebbie sono fitte, ma avvicinandomi ho visto la luce di una lampada nello studio del Rettore. Ora, però, vedo che le finestre sono sprangate, e la luce che ho visto era un fuggevole barbaglio, come una stella perduta. Numa."
+  },
+  {
+   "id": "numa.smithy",
+   "label": "Nebbia e Silenzio",
+   "startdescription": "Il fuoco della fucina arde ancora, ma dalla finestra vedo una sagoma scarna e priva di occhi che aziona i mantici. Non c’è traccia di Denzil, e so bene che non conviene interrompere questo visitatore. Numa."
+  },
+  {
+   "id": "numa.killes",
+   "label": "Nebbia e Silenzio",
+   "startdescription": "La casa è silenziosa. I segni sopra la porta sono scritti in una lingua che nemmeno io riesco a leggere. Nessuno risponde al mio bussare. Numa."
+  },
+  {
+   "id": "recruit.rectory.friend",
+   "label": "Aiuto dal Reverendo Timothy",
+   "startdescription": "Il Reverendo Timothy accoglie sempre con entusiasmo l’offerta della mia compagnia."
+  },
+  {
+   "id": "recruit.smithy.friend",
+   "label": "Aiuto da Denzil il Fabbro",
+   "startdescription": "Denzil lavora raramente gratis. Ma non accetta pagamenti se aiuta per amicizia. [Ma se trovi moneta occulta, puoi dargliela per il Servizio della Divisione.]"
+  },
+  {
+   "id": "recruit.mr.k.friend",
+   "label": "Aiuto da Mr Kille",
+   "startdescription": "Mr Kille riesce sempre a trovare qualche ora per aiutare un amico."
+  },
+  {
+   "id": "recruit.mrs.k.friend",
+   "label": "Aiuto da Mrs Kille",
+   "startdescription": "Mrs Kille è pronta ad aiutare. «Mi tiri sempre su di morale» dice cupamente."
+  },
+  {
+   "id": "recruit.rectory",
+   "label": "Aiuto dal Reverendo Timothy",
+   "startdescription": "«Apprezziamo davvero il contributo.»"
+  },
+  {
+   "id": "recruit.smithy",
+   "label": "Aiuto da Denzil il Fabbro",
+   "startdescription": "«Che ti serve?»"
+  },
+  {
+   "id": "recruit.mr.k",
+   "label": "Aiuto da Mr Kille",
+   "startdescription": "«Mettiamoci al lavoro!»"
+  },
+  {
+   "id": "recruit.mrs.k",
+   "label": "Aiuto da Mrs Kille",
+   "startdescription": "«Il lavoro del giorno è il sogno della notte.»"
+  },
+  {
+   "id": "hint.recruit.12.rectory",
+   "label": "Un Accordo Equo?",
+   "startdescription": "«Suppongo di poter concedere qualche ora, se tu puoi concedere, diciamo, uno scellino per il fondo del tetto della chiesa?»"
+  },
+  {
+   "id": "hint.recruit.12",
+   "label": "Un Prezzo Ragionevole?",
+   "startdescription": "Uno scellino – dodici penny – basterà per i suoi servizi."
+  },
+  {
+   "id": "hint.recruit.24",
+   "label": "Un Prezzo Equo?",
+   "startdescription": "Due scellini – ventiquattro penny – bastano ad assicurarsi i suoi servizi."
+  },
+  {
+   "id": "clean.thing.generic.sweetbones.try",
+   "label": "Far Pulire Qualcosa al Sweet Bones",
+   "startdescription": "Per uno scellino, lo Sweet Bones si occuperà del mio bucato...",
+   "desc": "Niente pagamento, niente bucato.",
+   "slots": [
+    {
+     "id": "payment",
+     "label": "Pagamento"
+    }
+   ]
+  },
+  {
+   "id": "clean.thing.generic.sweetbones",
+   "label": "Far Pulire Qualcosa al Sweet Bones",
+   "startdescription": "Lo «Sweet Bones» si sta occupando del mio bucato.",
+   "desc": "Fresco, pulito, asciutto."
+  },
+  {
+   "id": "dry.thing.generic.sweetbones",
+   "label": "Asciugare Qualcosa al Sweet Bones",
+   "startdescription": "Al Sweet Bones mi conoscono. Mi lasceranno gocciolare sul pavimento di pietra anche se non pago la birra.",
+   "desc": "Si levano vapori leggeri."
+  },
+  {
+   "id": "recruit.sweetbones.exotic",
+   "label": "Cercare Aiuto Insolito",
+   "startdescription": "Quali visitatori potrebbero essere di passaggio? [Scopri quali insoliti passanti potrebbero essere in cerca di un impiego.]",
+   "desc": "Ecco un’opportunità."
+  },
+  {
+   "id": "recruit.sweetbones.miner",
+   "label": "Aiuto da un Minatore",
+   "startdescription": "In primavera, i minatori locali si recano spesso alla Festa delle Luci di Sotto. Se uno di loro fa tappa al Sweet Bones, uno scellino comprerà il suo lavoro per un giorno. [I Minatori offrono <sprite name=scale>, <sprite name=forge> e un po’ di <sprite name=moon>. In alternativa, aggiungi una carta Anima per scoprire quali ospiti più rari potrebbero essere in cerca di un impiego...]",
+   "desc": ""
+  },
+  {
+   "id": "recruit.sweetbones.barber",
+   "label": "Aiuto da un Barbiere Ambulante",
+   "startdescription": "In estate, il barbiere passa a tenere in ordine gli abitanti del villaggio. Uno scellino comprerà i suoi servizi. [I Barbieri offrono <sprite name=moth> e un po’ di <sprite name=rose>. In alternativa, aggiungi una carta Anima per scoprire quali ospiti più rari potrebbero essere in cerca di un impiego...]",
+   "desc": ""
+  },
+  {
+   "id": "recruit.sweetbones.orchardkeeper",
+   "label": "Aiuto da un Custode del Frutteto",
+   "startdescription": "In autunno, i custodi del frutteto vengono a vendere le loro merci a Brancrug. Uno scellino comprerà l’aiuto di uno di loro. [I Custodi del Frutteto offrono <sprite name=nectar> e un po’ di <sprite name=heart>. In alternativa, aggiungi una carta Anima per scoprire quali ospiti più rari potrebbero essere in cerca di un impiego...]",
+   "desc": ""
+  },
+  {
+   "id": "recruit.sweetbones.fisherman",
+   "label": "Aiuto da un Pescatore",
+   "startdescription": "In inverno, quando le tempeste chiudono i mari, i pescatori offriranno i loro servizi per uno scellino al giorno. [I Pescatori offrono <sprite name=moon> e un po’ di <sprite name=sky>. In alternativa, aggiungi una carta Anima per scoprire quali ospiti più rari potrebbero essere in cerca di un impiego...]",
+   "desc": ""
+  },
+  {
+   "id": "sweetbones.numa.hint",
+   "label": "Nebbia e Silenzio",
+   "startdescription": "La porta è aperta, il fuoco è freddo, le sagome ai tavoli sono curve e silenziose, vestite di pellicce e piume scure. La nebbia preme contro le pareti e accarezza le lastre di pietra con le sue dita. Un tamburo batte un ritmo irregolare da qualche parte sotto la locanda. Numa."
+  },
+  {
+   "id": "hint.recruit.12.sweetbones",
+   "label": "Un Accordo Equo?",
+   "startdescription": "Uno scellino – dodici penny – basterà a ingaggiare un lavoratore occasionale."
+  },
+  {
+   "id": "rest.sweetbones.try",
+   "label": "Riposo e Ristoro",
+   "startdescription": "Con due penny mi assicuro un pasto sostanzioso e un luogo tranquillo dove riposare e raccogliere i pensieri.",
+   "slots": [
+    {
+     "id": "tuppence",
+     "label": "Due Penny",
+     "description": "Il prezzo dell’ospitalità."
+    }
+   ],
+   "desc": "Niente due penny, niente birra."
+  },
+  {
+   "id": "rest.sweetbones.spring",
+   "label": "Riposo e Ristoro: Primavera",
+   "startdescription": "È Primavera; e la locandiera mi ha servito una fetta della sua torta starygazy, con le teste di sardina che spuntano birichine dalla crosta calda.",
+   "desc": "Meglio adesso."
+  },
+  {
+   "id": "rest.sweetbones.summer",
+   "label": "Riposo e Ristoro: Estate",
+   "startdescription": "È Estate; siedo sulla panca fuori dal Sweet Bones, mangiando formaggio friabile avvolto nell’ortica e buon pane di segale nero, crogiolandomi al sole.",
+   "desc": "Meglio adesso."
+  },
+  {
+   "id": "rest.sweetbones.autumn",
+   "label": "Riposo e Ristoro: Autunno",
+   "startdescription": "È Autunno, quando le foglie frusciano. La silenziosa locandiera mi ha servito una torta di mele con panna al vapore, nella nicchia della finestra.",
+   "desc": "Meglio adesso."
+  },
+  {
+   "id": "rest.sweetbones.winter",
+   "label": "Riposo e Ristoro: Inverno",
+   "startdescription": "È Inverno e le tempeste hanno stretto la morsa sui mari. Siedo davanti al fuoco del Sweet Bones con un pasticcio di manzo e patate in una mano, e un posset di birra caldo nell’altra.",
+   "desc": "Meglio adesso."
+  },
+  {
+   "id": "rest.sweetbones.general",
+   "label": "Riposo e Ristoro",
+   "startdescription": "Una quieta luce grigia attraverso una quieta finestra grigia...",
+   "desc": "Meglio adesso."
+  },
+  {
+   "id": "rest.sweetbones.numa",
+   "label": "I Ristori della Stagione del Labirinto",
+   "startdescription": "La locanda è gremita di araldi e pellegrini di Numa. La loro carne è sconosciuta; la loro bevanda è ignota. Mentre indugio alla finestra, una lampadina elettrica sfolgora come un fuoco fatuo: un’ospite alza gli occhi scintillanti e mi vede. Mi fa cenno di entrare con una mano guantata."
+  },
+  {
+   "id": "rest.sweetbones.numa.malady",
+   "startdescription": "Ho mangiato, ho bevuto. Un sapore stucchevole persiste. Le labbra mi restano macchiate di grigio."
+  },
+  {
+   "id": "work.heart.sweetbones.numa",
+   "label": "Lavori Inquietanti",
+   "startdescription": "La locanda è gremita di araldi e pellegrini di Numa. Se ne saranno andati entro il mattino. Fino ad allora, potrei offrire i miei servizi in cambio di un pagamento. Potrei pentirmene.",
+   "desc": "In seguito non ricordo che lavoro abbia svolto, se non attraverso odori e sensazioni – terriccio di foglie marcite, un ritmico ticchettio musicale come nacchere melodiose, una tenue fiamma blu come un’antica lampada a gas. E il freddo; ricordo che, là dove siamo andati, faceva freddo."
+  },
+  {
+   "id": "work.heart.sweetbones",
+   "label": "Lavoro Manuale",
+   "startdescription": "<sprite name=heart> Non c’è molto lavoro disponibile a Brancrug, ma posso trovare lavoretti per un valore di sei penny. [Oppure aggiungi una moneta per trovare visitatori in cerca di impiego.] ",
+   "desc": "Come si diceva ai tempi della mia gioventù, «La giornata è finita, e lo sono anch’io; ma ho guadagnato la mia paga.»"
+  },
+  {
+   "id": "work.forge.sweetbones",
+   "label": "Riparazioni e Rammendi",
+   "startdescription": "<sprite name=forge> Non c’è molto lavoro disponibile a Brancrug, ma posso trovare lavoretti per un valore di sei penny. [Oppure aggiungi una moneta per trovare visitatori in cerca di impiego.]",
+   "desc": "Come si diceva ai tempi della mia gioventù, «La giornata è finita, e lo sono anch’io; ma ho guadagnato la mia paga.»"
+  },
+  {
+   "id": "work.lantern.sweetbones",
+   "label": "Aiuto con le Lettere",
+   "startdescription": "<sprite name=lantern> Potrei offrire aiuto con la corrispondenza e l’aritmetica. Non c’è scuola a Brancrug, e non tutti qui sanno leggere e scrivere. [Oppure aggiungi una moneta per trovare visitatori in cerca di impiego.]",
+   "desc": "Un pomeriggio speso con profitto, leggendo i giornali ai curiosi, scrivendo lettere affettuose per i solitari, guidando i contadini fra gli adempimenti del Ministero dell’Agricoltura."
+  },
+  {
+   "id": "work.moth.sweetbones",
+   "label": "Predizione del Futuro",
+   "startdescription": "<sprite name=moth> Ho raccolto abbastanza mistero da poter predire il futuro per pochi spiccioli. Poco dignitoso, forse, per l’Archivista della Hush House, ma i tempi sono duri. [Oppure aggiungi una moneta per trovare visitatori in cerca di impiego.]",
+   "desc": "Le predizioni che offro potrebbero essere vere, e potrebbero essere reali. Il denaro, quantomeno, è reale."
+  },
+  {
+   "id": "work.edge.sweetbones",
+   "label": "Un Po’ di Rispetto",
+   "startdescription": "<sprite name=edge> Sono l’Archivista della Hush House. Interrogherò gli abitanti di Brancrug, e aggiungerò qualunque cosa mi dicano alla mia riserva di conoscenza. [Oppure aggiungi una moneta per trovare visitatori in cerca di impiego.]",
+   "desc": "@#mem.gossip|Solo pettegolezzi; ma anche i pettegolezzi sono conoscenza.#mem.fear|Una storia sulle vecchie cose che ancora si aggirano per le brughiere.#mem.foresight|Consigli pratici da persone pratiche.#mem.hindsight|Ogni villaggio ha le sue piccole tragedie; oggi, ne ho appresa un’altra.#mem.regret|Mezz’ora di chiacchiere con qualcuno felice senza complicazioni. Avrei potuto essere io? Lo vorrei?#|Ho imparato qualcosa. Qualcosa di utile? Troppo presto per dirlo.@"
+  },
+  {
+   "id": "village.invite.timothy.stub",
+   "label": "Un’Impossibilità?",
+   "startdescription": "[Non dovresti mai vedere questo.]"
+  },
+  {
+   "id": "village.invite.denzil.stub",
+   "label": "Un’Impossibilità?",
+   "startdescription": "[Non dovresti mai vedere questo.]"
+  },
+  {
+   "id": "village.invite.killes.stub",
+   "label": "Un’Impossibilità?",
+   "startdescription": "[Non dovresti mai vedere questo.]"
+  }
+ ]
+}

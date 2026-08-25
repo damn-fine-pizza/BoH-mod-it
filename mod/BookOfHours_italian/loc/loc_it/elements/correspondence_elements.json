@@ -1,0 +1,252 @@
+{
+ "elements": [
+  {
+   "id": "_reply",
+   "slots": [
+    {
+     "id": "postage",
+     "label": "Affrancatura",
+     "description": "La Direttrice delle Poste si degnerà di far passare la tua lettera nel mondo, una volta che sia santificata con un francobollo."
+    }
+   ]
+  },
+  {
+   "id": "_reply.occult",
+   "slots": [
+    {
+     "id": "due",
+     "label": "Dovuto",
+     "description": "La Direttrice delle Poste potrebbe avere un sigillo adatto per affidare questo alla Via dei Cieli Inferiori. Il costo è una Spintria di Stagno."
+    }
+   ]
+  },
+  {
+   "id": "_request",
+   "slots": [
+    {
+     "id": "postage",
+     "label": "Affrancatura",
+     "description": "La Direttrice delle Poste si degnerà di far passare la tua lettera nel mondo, una volta che sia santificata con un francobollo."
+    }
+   ]
+  },
+  {
+   "id": "_invitation",
+   "slots": [
+    {
+     "id": "postage",
+     "label": "Affrancatura",
+     "description": "La Direttrice delle Poste si degnerà di far passare la tua lettera nel mondo, una volta che sia santificata con un francobollo."
+    }
+   ]
+  },
+  {
+   "id": "_order",
+   "slots": [
+    {
+     "id": "postage",
+     "label": "Denari",
+     "description": "Dovrò inviare un vaglia con la merce."
+    }
+   ]
+  },
+  {
+   "id": "_purchase.tally",
+   "slots": [
+    {
+     "id": "payment",
+     "label": "Pagamento"
+    },
+    {
+     "id": "postage",
+     "label": "Affrancatura"
+    }
+   ]
+  },
+  {
+   "id": "_purchase.pence",
+   "slots": [
+    {
+     "id": "payment",
+     "label": "Pagamento"
+    },
+    {
+     "id": "postage",
+     "label": "Affrancatura"
+    }
+   ]
+  },
+  {
+   "id": "letter.rhonwen.act1",
+   "label": "Una Lettera per l’Archivista",
+   "desc": "Una lettera per me dal Trust di St Rhonwen. La connessione del Trust con la Hush House è probabilmente benevola, ma persistentemente oscura.",
+   "xexts": {
+    "reading.correspondence": "Il Trust di St Rhonwen desidera congratularsi con me per la mia nomina ad Archivista della Hush House. Il Trust mi assicura che fornirà lo stipendio promesso ogni primavera... ma mi ricorda che le sue risorse sono limitate, e suggerisce di cercare assistenza locale nel ripristino dei locali. «Fateci sapere quando tutto sarà a posto e potrete ricevere visitatori,» conclude la lettera. È firmata semplicemente «i Fiduciari»."
+   }
+  },
+  {
+   "id": "reminder.rhonwen.act1",
+   "label": "Un Promemoria per l’Archivista",
+   "desc": "Un promemoria dal Trust di St Rhonwen: non ho ancora risposto.",
+   "xexts": {
+    "reading.correspondence": "Il Trust spera che io abbia fatto buon viaggio, ma si chiede perché, se così fosse, non abbia ancora risposto. La lettera è firmata semplicemente «i Fiduciari»."
+   }
+  },
+  {
+   "id": "message.numa.invocation",
+   "label": "Petizione per una Stagione Labirinto",
+   "desc": "Se questo mai arrivasse a destinazione, potrebbe portare Numa.",
+   "xexts": {
+    "posting": "A Numa non si può comandare; ma di tanto in tanto, una petizione ha avuto successo."
+   }
+  },
+  {
+   "id": "reply.rhonwen.act1",
+   "label": "Una Risposta al Trust",
+   "desc": "Posso portare questo all’Ufficio Postale perché sia inviato al Trust di St Rhonwen. Una volta che sapranno del mio arrivo, manderanno altri fondi... spero.",
+   "xexts": {
+    "posting": "Ora posso aspettarmi visitatori, corrispondenza, e uno stipendio dal Trust ogni primavera."
+   }
+  },
+  {
+   "id": "status.rhonwen.open",
+   "label": "Trust Attivo!",
+   "desc": "Il Giocatore ha risposto alla lettera iniziale del Trust.»"
+  },
+  {
+   "id": "request.catalogue.oriflammes",
+   "label": "Una Richiesta di Catalogo",
+   "desc": "Una breve ma cortese lettera che richiede l’ultimo catalogo alla Casa d’Aste di Oriflamme."
+  },
+  {
+   "id": "purchase.uncat",
+   "label": "Acquisto: Pacco Non Catalogato",
+   "desc": "ARTICOLO: Tre libri occulti di origine e qualità sconosciute."
+  },
+  {
+   "ID": "wc",
+   "Label": "Astuccio da Scrittura",
+   "Desc": "Un solido astuccio da scrittura con angoli di ottone che è stato di servizio ad almeno tre Archivisti della Casa. [Usa il tuo Astuccio da Scrittura a una Scrivania con Inchiostro per invitare Visitatori a un Salotto. Per invitare i paesani, aggiungi il tuo Astuccio da Scrittura come argomento di discussione quando li visiti a Brancrug.]"
+  },
+  {
+   "id": "letter.summon.agdistis",
+   "label": "Invito ad Agdistis",
+   "desc": "Mr Agdistis..."
+  },
+  {
+   "id": "letter.summon.aladim",
+   "label": "Invito ad al-Adim",
+   "desc": "Caro Dr al-Adim..."
+  },
+  {
+   "id": "letter.summon.arthur",
+   "label": "Invito ad Arthur Moore",
+   "desc": "Caro Tenente Moore..."
+  },
+  {
+   "id": "letter.summon.arun",
+   "label": "Invito a Peel",
+   "desc": "Caro Dr Peel..."
+  },
+  {
+   "id": "letter.summon.azita",
+   "label": "Invito ad Azita",
+   "desc": "Cara Ms Bukhara..."
+  },
+  {
+   "id": "letter.summon.chaima",
+   "label": "Invito a Chaima",
+   "desc": "Alla Stimata Lalla Chaima..."
+  },
+  {
+   "id": "letter.summon.connie",
+   "label": "Invito a Connie",
+   "desc": "Per l’Attenzione di MCO Constance Lee..."
+  },
+  {
+   "id": "letter.summon.coquille",
+   "label": "Invito a Coquille",
+   "desc": "A Sua Altezza la Principessa Coquille Amirejibi... "
+  },
+  {
+   "id": "letter.summon.corso",
+   "label": "Invito a Corso",
+   "desc": "Caro Mr Reverte..."
+  },
+  {
+   "id": "letter.summon.dagmar",
+   "label": "Invito a Dagmar",
+   "desc": "Cara Lady Dagmar..."
+  },
+  {
+   "id": "letter.summon.douglas",
+   "label": "Invito a Douglas Moore",
+   "desc": "Per l’Attenzione di DI Douglas Moore... "
+  },
+  {
+   "id": "letter.summon.ehsan",
+   "label": "Invito a Ehsan",
+   "desc": "Caro Mr Fekri..."
+  },
+  {
+   "id": "letter.summon.fraser",
+   "label": "Invito a Fraser",
+   "desc": "Caro Mr Strathcoyne..."
+  },
+  {
+   "id": "letter.summon.hokobald",
+   "label": "Invito a Hokobald",
+   "desc": "Caro Magister Hokobald..."
+  },
+  {
+   "id": "letter.summon.morgen",
+   "label": "Invito a Morgen",
+   "desc": "Cara Mlle Matutine..."
+  },
+  {
+   "id": "letter.summon.olympe",
+   "label": "Invito a Olympe",
+   "desc": "Cara Mme Bechet..."
+  },
+  {
+   "id": "letter.summon.serena",
+   "label": "Invito a Serena",
+   "desc": "Cara Dr Blackwood..."
+  },
+  {
+   "id": "letter.summon.stanislav",
+   "label": "Invito a Padre Stanislav",
+   "desc": "Caro Padre Schaller..."
+  },
+  {
+   "id": "letter.summon.yvette",
+   "label": "Invito a Yvette",
+   "desc": "Cara Dr Southey..."
+  },
+  {
+   "id": "letter.summon.zachary",
+   "label": "Invito a Zachary",
+   "desc": "Caro Mr Wakefield..."
+  },
+  {
+   "id": "form.order.ch",
+   "label": "Modulo d’Ordine: Cater & Hero",
+   "desc": "Cater & Hero ha uffici quasi ovunque. Non in questo ramo nebbioso del regno, ma almeno consegneranno qui. [Usa Inchiostro per ordinare articoli di interesse, poche righe su un modulo d’ordine non consumeranno l’Inchiostro. Quando arriverà la tua consegna, conterrà un nuovo modulo d’ordine.]"
+  },
+  {
+   "id": "delivery.ch",
+   "label": "Una Consegna da Cater & Hero",
+   "desc": "Qualcosa di utile è arrivato!"
+  },
+  {
+   "id": "form.order.trn",
+   "label": "Modulo d’Ordine: T.R.N. Ltd",
+   "desc": "T.R.N sceglie i suoi clienti con cura, si potrebbe dire eccentricamente. Raramente fanno pubblicità. Ma in tutta la loro lunga storia, non hanno mai mancato di clientela. [Usa Inchiostro per ordinare articoli di interesse, poche righe su un modulo d’ordine non consumeranno l’Inchiostro. Quando arriverà la tua consegna, conterrà un nuovo modulo d’ordine.]"
+  },
+  {
+   "id": "delivery.trn",
+   "label": "Una Consegna da T.R.N. Limited",
+   "desc": "Qualcosa di delizioso è arrivato!"
+  }
+ ]
+}

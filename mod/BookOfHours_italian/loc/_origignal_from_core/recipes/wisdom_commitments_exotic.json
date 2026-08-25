@@ -1,0 +1,18 @@
+ {"recipes": [
+ 
+
+	{
+        "id": "commit.memory",
+        "actionid": "wt.memorylocus",
+		"label": "The Roots of Memory",
+        "startdescription": "There are always choices, and so there are always regrets. [Unlock the Tree, and gain a Trist card.]",
+		"desc": "Here I began my climb. [As you learn Skills, you can decide where in the Tree of Wisdoms they belong - enriching your Soul as you catalogue the invisible world.",
+		"reqs":{"journal":1},
+		"effects":{"xtri":1},
+        "craftable": true
+}
+
+
+
+]
+}

@@ -1,0 +1,629 @@
+{
+ "recipes": [
+  {
+   "id": "read.soaked.block",
+   "startdescription": "Dovrei asciugare questo libro prima di provare a leggerlo.",
+   "desc": "Non riesco a trarre nulla da questo libro finché non l’ho asciugato – con cura! Per farlo, dovrò trovare un posto più caldo. Molto più caldo."
+  },
+  {
+   "id": "_catalogue.book",
+   "label": "Catalogare un Libro Ignoto",
+   "desc": "Ora ho un’idea della natura del libro, e del suo contenuto."
+  },
+  {
+   "id": "book.ability.recontamination.actinic"
+  },
+  {
+   "id": "book.ability.recontamination.bloodlines"
+  },
+  {
+   "id": "book.ability.recontamination.chionic"
+  },
+  {
+   "id": "book.ability.recontamination.keeperskin"
+  },
+  {
+   "id": "book.ability.recontamination.winkwell"
+  },
+  {
+   "id": "book.ability.recontamination.witchworms"
+  },
+  {
+   "id": "book.contamination.enact"
+  },
+  {
+   "id": "catalogue.book.dawn",
+   "label": "Catalogare un libro del Periodo dell’Alba",
+   "startdescription": "Questo libro fu probabilmente scritto attorno al Periodo dell’Alba della Hush House – qualche tempo prima della fine del primo millennio, secondo il computo comune. Se lo esamino, posso saperne di più su quale conoscenza potrebbe contenere. [I libri di questo periodo sono a volte contaminati.]"
+  },
+  {
+   "id": "catalogue.book.solar",
+   "label": "Catalogare un libro del Periodo Gotico Solare",
+   "startdescription": "Questo libro fu probabilmente scritto attorno al Periodo Gotico Solare della Hush House – approssimativamente, tra l’XI e il XVI secolo. Se lo esamino, posso saperne di più su quale conoscenza potrebbe contenere. [I libri di questo periodo sono occasionalmente contaminati.]"
+  },
+  {
+   "id": "catalogue.book.baronial",
+   "label": "Catalogare un libro del Periodo Baronale",
+   "startdescription": "Questo libro fu probabilmente scritto attorno al Periodo Baronale della Hush House – approssimativamente tra il XVI e il XVIII secolo. Se lo esamino, posso saperne di più su quale conoscenza potrebbe contenere. [I libri di questo periodo sono raramente contaminati.]"
+  },
+  {
+   "id": "catalogue.book.curia",
+   "label": "Catalogare un libro del Periodo della Curia",
+   "startdescription": "Questo libro fu probabilmente scritto attorno al Periodo della Curia della Hush House – approssimativamente tra il XVIII e il XIX secolo. Se lo esamino, posso saperne di più su quale conoscenza potrebbe contenere. [I libri di questo periodo sono raramente contaminati.]"
+  },
+  {
+   "id": "catalogue.book.nocturnal",
+   "label": "Catalogare un libro del Periodo Notturno",
+   "startdescription": "Questo libro fu probabilmente scritto attorno al Periodo Notturno della Hush House – dopo il volgere del secolo. Se lo esamino, posso saperne di più su quale conoscenza potrebbe contenere. [I libri di questo periodo non sono quasi mai contaminati.]"
+  },
+  {
+   "id": "catalogue.book.nocturnal.everyman",
+   "label": "Catalogare un libro del Periodo Notturno",
+   "startdescription": "Questo libro fu probabilmente scritto attorno al Periodo Notturno della Hush House – dopo il volgere del secolo. Se lo esamino, posso saperne di più su quale conoscenza potrebbe contenere. [I libri di questo periodo non sono quasi mai contaminati.]"
+  },
+  {
+   "id": "catalogue.pile",
+   "label": "Catalogare una Collezione di Libri",
+   "startdescription": "Esamina una collezione di libri"
+  },
+  {
+   "id": "catalogue.pile.end",
+   "label": "Catalogare una Collezione di Libri"
+  },
+  {
+   "id": "dry.journal.generic.start.revolutionary"
+  },
+  {
+   "id": "dry.journal.generic.start.executioner"
+  },
+  {
+   "id": "dry.journal.generic.start.archaeologist"
+  },
+  {
+   "id": "dry.journal.generic.start.archaeologist.alternate"
+  },
+  {
+   "id": "dry.journal.generic.start.cartographer"
+  },
+  {
+   "id": "dry.journal.generic.start.prodigal"
+  },
+  {
+   "id": "dry.journal.generic.start.twiceborn"
+  },
+  {
+   "id": "dry.journal.generic.start.magnate"
+  },
+  {
+   "id": "dry.journal.generic.start.symurgist"
+  },
+  {
+   "id": "dry.journal.generic.start.artist"
+  },
+  {
+   "id": "study.mastering.opportunities.router",
+   "label": "Occasioni?",
+   "startdescription": "C’è ancora una possibilità..."
+  },
+  {
+   "id": "study.mastering.opportunity.ability",
+   "label": "Occasione: un Elemento dell’Anima?",
+   "startdescription": "[Aumenta gli Aspetti pertinenti aggiungendo una carta Elemento dell’Anima.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "study.mastering.opportunity.weather",
+   "label": "I Cieli Giusti: Meteo",
+   "startdescription": "[Aumenta gli Aspetti pertinenti aggiungendo una carta Meteo – che verrà consumata.]",
+   "slots": [
+    {
+     "id": "weather",
+     "label": "Meteo"
+    }
+   ]
+  },
+  {
+   "id": "study.mastering.opportunity.memory",
+   "label": "Basta Connettere: Memoria",
+   "startdescription": "[Aumenta gli Aspetti pertinenti aggiungendo una Memoria – che verrà consumata.]",
+   "slots": [
+    {
+     "id": "memory",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "study.mastering.opportunity.comfort",
+   "label": "Prendersi un Momento",
+   "startdescription": "Sgranchirmi le gambe e cambiare punto di vista. [Aumenta gli Aspetti pertinenti usando un Conforto.]",
+   "slots": [
+    {
+     "id": "Comfort",
+     "label": "Conforto"
+    }
+   ]
+  },
+  {
+   "id": "study.mastering.opportunity.thing",
+   "label": "Roba: Anche Cose",
+   "startdescription": "Armeggia con qualcosa qui. [Aumenta gli Aspetti pertinenti usando una Cosa.]",
+   "slots": [
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "study.mastering.opportunity.wallart",
+   "label": "Riposa gli Occhi",
+   "startdescription": "Prenditi un momento per osservare qualcosa qui. [Aumenta gli Aspetti pertinenti facendo riferimento a un elemento di Arte da Parete.]",
+   "slots": [
+    {
+     "id": "wallart",
+     "label": "Arte da Parete"
+    }
+   ]
+  },
+  {
+   "id": "study.mastering.opportunity.awen",
+   "label": "awen!",
+   "startdescription": "Ispirazione divina? O soltanto il giusto soffio d’aria al momento giusto? [Ti ha colto uno stato d’animo che aumenta certi Aspetti.]"
+  },
+  {
+   "id": "study.mastering.opportunity.epiphany",
+   "label": "Epifania!",
+   "startdescription": "«Era compito dell’uomo di lettere registrare queste epifanie con estrema cura, considerando che esse stesse sono i momenti più delicati ed evanescenti.» – Joyce \n\n[Ti ha colto uno stato d’animo che aumenta certi Aspetti.]"
+  },
+  {
+   "id": "study.mastering.opportunity.duende",
+   "label": "Occasione: ?",
+   "startdescription": "«Il duende è una forza, non una fatica, una lotta, non un pensiero.» – Lorca\n\n [Ti ha colto uno stato d’animo che aumenta certi Aspetti.]"
+  },
+  {
+   "id": "study.mastering.opportunity.ubisunt",
+   "label": "«Ubi Sunt?»",
+   "startdescription": "«Dove sono i miei consanguinei? Dov’è colui che dona tesori? Dove sono i banchi a sostenerci? Le gioie della sala che ci riuniscono?» \n\n[Ti ha colto uno stato d’animo che aumenta certi Aspetti.]"
+  },
+  {
+   "id": "study.mastering.no",
+   "label": "Non Oggi",
+   "startdescription": "I misteri che contiene mi hanno sconfitto... per ora. [Puoi sempre riprovare più avanti.]"
+  },
+  {
+   "id": "maladyrisk.chor.heart",
+   "label": "Malanno: Duendria",
+   "startdescription": "Il mio chor è stato compromesso – da una presenza che mi possiede, venuta dal Mansus dietro il mondo! Una presenza piuttosto gradevole, invero – ma rende difficile concentrarsi. [Una sconfitta quando è presente Cuore rende il chor vulnerabile alla Duendria.]"
+  },
+  {
+   "id": "maladyrisk.ereb.nectar",
+   "label": "Malanno: Westengryre",
+   "startdescription": "Il mio ereb è stato compromesso dal mal di bosco, dal terrore delle distese deserte, dall’ossessione del bosco che l’Abate Thomas chiamò <i>westengryre</i>, molto tempo fa. [Una sconfitta quando è presente Nettare rende l’ereb vulnerabile al Westengryre.]"
+  },
+  {
+   "id": "maladyrisk.fet.rose",
+   "label": "Malanno: Gisting",
+   "startdescription": "Il mio fet soffre di gisting – legato a me troppo debolmente – al punto che scorgo il Mansus anche nelle ore diurne. [Una sconfitta quando è presente Rosa aggiuntiva rende il fet vulnerabile al gisting.]"
+  },
+  {
+   "id": "maladyrisk.health.winter",
+   "label": "Malanno: Malattia",
+   "startdescription": "Forse l’aria umida mi sta intaccando i polmoni. [Una sconfitta quando è presente Inverno rischia la Malattia.]"
+  },
+  {
+   "id": "maladyrisk.phost.lantern",
+   "label": "Malanno: Fascinazione",
+   "startdescription": "Phost è la parte più luminosa dell’anima – a volte la sua luce può farsi troppo intensa per essere sicura. [Una sconfitta quando è presente Lanterna aggiuntiva rende il phost vulnerabile alla Fascinazione.]"
+  },
+  {
+   "id": "maladyrisk.shapt.knock",
+   "label": "Malanno: Acusia",
+   "startdescription": "Acusia è un malanno dell’anima in cui la porta, lo shapt, non si può chiudere. [Una sconfitta quando è presente Battente aggiuntivo rende lo shapt vulnerabile all’Acusia.]"
+  },
+  {
+   "id": "maladyrisk.trist.edge",
+   "label": "Malanno: Disperazione",
+   "startdescription": "Trist ha già una mano immersa per metà in un fiume di tristezza più profonda. [Una sconfitta quando è presente Lama può sommergere il trist nella Disperazione.]"
+  },
+  {
+   "id": "maladyrisk.wist.scale",
+   "label": "Malanno: Guscio-Crociato",
+   "startdescription": "Memoria incrociata, tratteggiata, rigata, spezzata. [Una sconfitta quando è presente Squama può lasciare il wist Guscio-Crociato.]"
+  },
+  {
+   "id": "study.cracktrack.none",
+   "label": "Una Lingua... Sconosciuta?",
+   "startdescription": "Cos’è questo?",
+   "desc": "Simboli irregolari in un motivo complesso, che deviano in ogni direzione. Le forme sono cariche di un significato percepito solo a metà... ma non riesco a leggerlo."
+  },
+  {
+   "id": "study.ericapaean.none",
+   "label": "Una Lingua Sconosciuta",
+   "startdescription": "Cos’è questo?",
+   "desc": "Simboli eleganti – alcuni che ricordano, quasi per gioco, lettere greche. A volte, quando li ripercorro con le dita, mi pare di udire in lontananza campane argentine... ma non riesco a leggerli."
+  },
+  {
+   "id": "study.fucine.none",
+   "label": "Una Lingua Sconosciuta",
+   "startdescription": "Cos’è questo?",
+   "desc": "Un alfabeto a metà familiare, come un greco rovesciato o un latino capovolto. Sento la bocca stranamente secca mentre ripercorro le lettere con le dita. Non riesco a leggerlo."
+  },
+  {
+   "id": "study.henavek.none",
+   "label": "Una Lingua a Metà Familiare",
+   "startdescription": "Cos’è questo?",
+   "desc": "Un alfabeto familiare, una lingua sconosciuta. Alcune parole suonano gallesi, o bretoni... potrebbe essere una forma molto antica di cornico."
+  },
+  {
+   "id": "study.hyksos.none",
+   "label": "Una Lingua Sconosciuta",
+   "startdescription": "Cos’è questo?",
+   "desc": "Forme astutamente curve, dai bordi taglienti. Non riesco a leggerlo, ma ogni volta che mi accingo a posare il libro, i miei occhi sono attratti di nuovo verso quelle curve e quegli uncini stranamente deliziosi..."
+  },
+  {
+   "id": "study.killasimi.none",
+   "label": "Una Lingua... Sconosciuta?",
+   "startdescription": "Cos’è questo?",
+   "desc": "Un fitto reticolo di linee e angoli che confonde lo sguardo. È persino una lingua? Di certo non riesco a leggerlo."
+  },
+  {
+   "id": "study.mandaic.none",
+   "label": "Una Lingua Sconosciuta",
+   "startdescription": "Cos’è questo?",
+   "desc": "Forme ammantate e fluenti, quasi come se la scrittura aramaica si fosse messa a danzare. Non riesco a leggerlo."
+  },
+  {
+   "id": "study.ramsund.none",
+   "label": "Una Lingua Sconosciuta",
+   "startdescription": "Cos’è questo?",
+   "desc": "Una scrittura simile ad allegri scarabocchi di gallina che saltellano avanti e indietro. Non riesco a leggerla."
+  },
+  {
+   "id": "study.sabazine.none",
+   "label": "Una Lingua... Sconosciuta?",
+   "startdescription": "Cos’è questo?",
+   "desc": "Un enigmatico intreccio di nodi glifici e mani stilizzate. Non riesco a ricavarne alcun senso."
+  },
+  {
+   "id": "study.vak.none",
+   "label": "Una Lingua Sconosciuta",
+   "startdescription": "Cos’è questo?",
+   "desc": "Una scrittura quasi-brahmica, intricata e audace, a malapena contenuta nel silenzio. Esige di essere pronunciata ad alta voce, ma è al di là delle mie capacità.."
+  },
+  {
+   "id": "study.mystery.edge.mastered",
+   "label": "Lama: un Trofeo",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.edge.mastering.begin",
+   "label": "Lama: una Conquista!",
+   "startdescription": "Posso padroneggiare questo mistero. [Lama sufficiente per eguagliare Mistero: Lama.]"
+  },
+  {
+   "id": "study.mystery.edge.mastering.yes",
+   "label": "Lama: una Conquista!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.edge.mastering.maybe",
+   "label": "Lama: una Contesa?",
+   "startdescription": "Forse... [Hai fornito Lama, ma non a sufficienza per eguagliare Mistero: Lama. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.forge.mastered",
+   "label": "Forgia: l’Opera Compiuta",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.forge.mastering.begin",
+   "label": "Forgia: la Fiamma Accesa!",
+   "startdescription": "Posso padroneggiare questo mistero. [Forgia sufficiente per eguagliare Mistero: Forgia.]"
+  },
+  {
+   "id": "study.mystery.forge.mastering.yes",
+   "label": "Forgia: la Fiamma Accesa!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.forge.mastering.maybe",
+   "label": "Forgia: la Scintilla Vacillante?",
+   "startdescription": "Forse... [Hai fornito Forgia, ma non a sufficienza per eguagliare Mistero: Forgia. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.grail.mastered",
+   "label": "Graal: Soddisfazione",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.grail.mastering.begin",
+   "label": "Graal: Nascita!",
+   "startdescription": "Posso padroneggiare questo mistero. [Graal sufficiente per eguagliare Mistero: Graal.]"
+  },
+  {
+   "id": "study.mystery.grail.mastering.yes",
+   "label": "Graal: Nascita!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.grail.mastering.maybe",
+   "label": "Graal: Frustrazione o Tentazione?",
+   "startdescription": "Forse... [Hai fornito Graal, ma non a sufficienza per eguagliare Mistero: Graal. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.heart.mastered",
+   "label": "Cuore: Incessante",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.heart.mastering.begin",
+   "label": "Cuore: Avanti!",
+   "startdescription": "Posso padroneggiare questo mistero. [Cuore sufficiente per eguagliare Mistero: Cuore.]"
+  },
+  {
+   "id": "study.mystery.heart.mastering.yes",
+   "label": "Cuore: Avanti!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.heart.mastering.maybe",
+   "label": "Cuore: Tuono Lontano?",
+   "startdescription": "Forse... [Hai fornito Cuore, ma non a sufficienza per eguagliare Mistero: Cuore. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.knock.mastered",
+   "label": "Battente: un Passaggio Familiare",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.knock.mastering.begin",
+   "label": "Battente: una Porta Spalancata",
+   "startdescription": "Sono all’altezza di questo libro. [Battente sufficiente per eguagliare Mistero: Battente.]"
+  },
+  {
+   "id": "study.mystery.knock.mastering.yes",
+   "label": "Battente: una Porta Spalancata",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.knock.mastering.maybe",
+   "label": "Battente: una Crepa nel Sigillo?",
+   "startdescription": "Forse... [Hai fornito Battente, ma non a sufficienza per eguagliare Mistero: Battente. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.lantern.mastered",
+   "label": "Lanterna: Splendore",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.lantern.mastering.begin",
+   "label": "Lanterna: Rivelazioni!",
+   "startdescription": "Posso padroneggiare questo mistero. [Lanterna sufficiente per eguagliare Mistero: Lanterna.]"
+  },
+  {
+   "id": "study.mystery.lantern.mastering.yes",
+   "label": "Lanterna: Rivelazioni!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.lantern.mastering.maybe",
+   "label": "Lanterna: Visioni?",
+   "startdescription": "Forse... [Hai fornito Lanterna, ma non a sufficienza per eguagliare Mistero: Lanterna. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.moon.mastered",
+   "label": "Luna: il Ciclo",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.moon.mastering.begin",
+   "label": "Luna: un Culmine!",
+   "startdescription": "Posso padroneggiare questo mistero. [Luna sufficiente per eguagliare Mistero: Luna.]"
+  },
+  {
+   "id": "study.mystery.moon.mastering.yes",
+   "label": "Luna: un Culmine!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.moon.mastering.maybe",
+   "label": "Luna: una Parvenza?",
+   "startdescription": "Forse... [Hai fornito Luna, ma non a sufficienza per eguagliare Mistero: Luna. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.moth.mastered",
+   "label": "Falena: Conseguenza",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.moth.mastering.begin",
+   "label": "Falena: Scelta!",
+   "startdescription": "Posso padroneggiare questo mistero. [Falena sufficiente per eguagliare Mistero: Falena.]"
+  },
+  {
+   "id": "study.mystery.moth.mastering.yes",
+   "label": "Falena: Scelta!",
+   "startdescription": "Posso padroneggiare questo mistero. [Falena sufficiente per eguagliare Mistero: Falena.]",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.moth.mastering.maybe",
+   "label": "Falena: Caso?",
+   "startdescription": "Forse... [Hai fornito Falena, ma non a sufficienza per eguagliare Mistero: Falena. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.nectar.mastered",
+   "label": "Nettare: i Frutti della Conoscenza",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.nectar.mastering.begin",
+   "label": "Nettare: Piena Fioritura!",
+   "startdescription": "Posso padroneggiare questo mistero. [Nettare sufficiente per eguagliare Mistero: Nettare.]"
+  },
+  {
+   "id": "study.mystery.nectar.mastering.yes",
+   "label": "Nettare: Piena Fioritura!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.nectar.mastering.maybe",
+   "label": "Nettare: una Siepe di Spine?",
+   "startdescription": "Forse... [Hai fornito Nettare, ma non a sufficienza per eguagliare Mistero: Nettare. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.rose.mastered",
+   "label": "Rosa: Di Nuovo Qui",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.rose.mastering.begin",
+   "label": "Rosa: Fine del Viaggio!",
+   "startdescription": "Posso padroneggiare questo mistero. [Rosa sufficiente per eguagliare Mistero: Rosa.]"
+  },
+  {
+   "id": "study.mystery.rose.mastering.yes",
+   "label": "Rosa: Fine del Viaggio!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.rose.mastering.maybe",
+   "label": "Rosa: Erranza?",
+   "startdescription": "Forse... [Hai fornito Rosa, ma non a sufficienza per eguagliare Mistero: Rosa. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.scale.mastered",
+   "label": "Squama: Assicurata",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.scale.mastering.begin",
+   "label": "Squama: Dissepolta!",
+   "startdescription": "Posso padroneggiare questo mistero. [Squama sufficiente per eguagliare Mistero: Squama.]"
+  },
+  {
+   "id": "study.mystery.scale.mastering.yes",
+   "label": "Squama: Dissepolta!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.scale.mastering.maybe",
+   "label": "Squama: Sepolta?",
+   "startdescription": "Forse... [Hai fornito Squama, ma non a sufficienza per eguagliare Mistero: Squama. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.sky.mastered",
+   "label": "Cielo: Echi",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.sky.mastering.begin",
+   "label": "Cielo: Armonia!",
+   "startdescription": "Posso padroneggiare questo mistero. [Cielo sufficiente per eguagliare Mistero: Cielo.]"
+  },
+  {
+   "id": "study.mystery.sky.mastering.yes",
+   "label": "Cielo: Armonia!",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.sky.mastering.maybe",
+   "label": "Cielo: Dissonanza?",
+   "startdescription": "Forse... [Hai fornito Cielo, ma non a sufficienza per eguagliare Mistero: Cielo. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.mystery.winter.mastered",
+   "label": "Inverno: Nient’Altro",
+   "startdescription": "L’ho già padroneggiato – ma potrei rileggerlo, e magari richiamare una Memoria.",
+   "desc": "Qualcosa su cui riflettere."
+  },
+  {
+   "id": "study.mystery.winter.mastering.begin",
+   "label": "Inverno: una Conclusione",
+   "startdescription": "Posso padroneggiare questo mistero. [Inverno sufficiente per eguagliare Mistero: Inverno.]"
+  },
+  {
+   "id": "study.mystery.winter.mastering.yes",
+   "label": "Inverno: una Conclusione",
+   "desc": "L’ho padroneggiato, e ho raccolto le lezioni che nascondeva."
+  },
+  {
+   "id": "study.mystery.winter.mastering.maybe",
+   "label": "Inverno: Silenzio?",
+   "startdescription": "Forse... [Hai fornito Inverno, ma non a sufficienza per eguagliare Mistero: Inverno. Con un po’ di fortuna, potresti comunque riuscire.]"
+  },
+  {
+   "id": "study.film.ability.hint",
+   "label": "Le Operazioni dell’Occhio",
+   "startdescription": "«Dare solo metà della propria attenzione a un film – come? Perché? Si berrebbe forse il caffè senza usare la gola?» – Ilse Bischoff [Lo studio richiede impegno; ti servirà sempre prima una carta Anima <i>adatta</i>.] "
+  },
+  {
+   "id": "study.film.general.hint",
+   "label": "Mistero e Padronanza",
+   "startdescription": "«Non riesco più a pensare ciò che voglio pensare. I miei pensieri sono stati sostituiti da immagini in movimento.» – Duhamel \n\n [Aggiungi aspetti per eguagliare il Mistero del film. Non è sempre necessario riempire ogni slot.] "
+  },
+  {
+   "id": "study.record.phonograph.ability.hint",
+   "label": "Le Percezioni dell’Orecchio",
+   "startdescription": "«Nella sua dissoluzione si udiva la nota terribile e minacciosa, e un folletto, con accresciuta malignità, camminava quieto sull’universo da un capo all’altro...» – Forster \n\n [Lo studio richiede impegno; ti servirà sempre prima una carta Anima <i>adatta</i>.] "
+  },
+  {
+   "id": "study.record.phonograph.general.hint",
+   "label": "Mistero e Padronanza",
+   "startdescription": "«Ambrose era solito dire che la Musica meno il Tempo era Inchiostro. Ma ad Ambrose piaceva il brandy quanto gli piaceva l’inchiostro.» – Kitty Mazarine \n\n [Aggiungi aspetti per eguagliare il Mistero del disco. Non è sempre necessario riempire ogni slot.] "
+  },
+  {
+   "id": "study.book.ability.hint",
+   "label": "Le Fatiche dell’Anima",
+   "startdescription": "«Alcuni libri vanno assaggiati, altri inghiottiti, e pochi masticati e digeriti.» – Bacon \n\n [Lo studio richiede impegno; ti servirà sempre prima una carta Anima <i>adatta</i>.] "
+  },
+  {
+   "id": "study.journal.determination.first.hint",
+   "label": "Una Determinazione?",
+   "startdescription": "Quando l’Archivista della Hush House determina la propria risposta a uno dei grandi misteri... le Ore stesse potrebbero prestare attenzione.\n\n[Compiere una Determinazione è il primo passo verso la scrittura della propria Storia. Richiederà non meno di 20 punti di un aspetto di Potere. Questo significa un’Anima, una Memoria e un’Abilità sufficientemente potenti, oltre a un inchiostro scelto con cura.]"
+  },
+  {
+   "id": "study.journal.determinations.more.hint",
+   "label": "Una Determinazione?",
+   "startdescription": "Quando l’Archivista della Hush House determina la propria risposta a uno dei grandi misteri... le Ore stesse potrebbero prestare attenzione.\n\n[Per registrare una nuova Storia, ti servirà un inchiostro di potere; uno dei grandi segreti noti come Numina, che di norma dimorano nei libri più venerati; e 25 punti di un aspetto di Potere. Sarà più facile se hai già compiuto almeno una, preferibilmente due, Determinazioni adatte.]"
+  },
+  {
+   "id": "study.book.general.hint",
+   "label": "Mistero e Padronanza?",
+   "startdescription": "«I libri sono la memoria che non muore.» \n\n [Aggiungi aspetti per eguagliare il Mistero del libro. Non è sempre necessario riempire ogni slot.] "
+  },
+  {
+   "id": "study.journal.general.hint",
+   "label": "La Pagina Successiva?",
+   "startdescription": "Potrei aggiungere qualcosa a questo diario... se riuscissi a mettere le mani su un inchiostro adatto."
+  },
+  {
+   "id": "study.mem.fear.hint.day",
+   "label": "Il Vento Geme",
+   "startdescription": "Non c’è nessuno, qui?"
+  },
+  {
+   "id": "study.mem.fear.hint",
+   "label": "La Notte Parla, la Luna Ode",
+   "startdescription": "Non c’è nessuno, qui?"
+  }
+ ]
+}

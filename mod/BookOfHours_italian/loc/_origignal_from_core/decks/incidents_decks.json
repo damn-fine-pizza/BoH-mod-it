@@ -1,0 +1,159 @@
+ {"decks": [
+ 
+
+    {
+        "id": "sweetbones.employables",
+        "label": "Employables",
+        "desc": "..",
+        "spec": [
+            "employable.engineer",
+            "employable.fugitive",
+            "employable.musician",
+            "employable.nun",
+            "employable.painter",
+            "employable.poet",
+            "employable.engineer",
+            "employable.musician",
+            "employable.painter",
+            "employable.poet"
+        ],
+       "resetonexhaustion": true
+    },
+         {
+            "id": "incidents",
+            "label": "Incidents",
+            "desc": "..",
+            "spec": [
+                "incident.revolution",
+                "incident.heist",
+                "incident.stalk",
+                "incident.wound",
+                "incident.intrusion",
+                "incident.pan",
+                "incident.curse",
+                "incident.omen.dawn",
+                "incident.omen.horizon",
+                "incident.mob",
+                "incident.rising",
+                "incident.lost.find",
+                "incident.project.ingenious",
+                "incident.project.solar",
+                "incident.mystical",
+                "incident.opera.apollo",
+                "incident.opera.wings",
+                "incident.box",
+                "incident.rite.renewal",
+                "incident.rite.awakening",
+                "incident.hunt.changing",
+                "incident.observe.scaly"
+            ],
+           "resetonexhaustion": false,
+           "defaultcard":"incident.consultation"
+        },
+        {
+            "id": "incidents.numa",
+            "label": "Numa Incidents",
+            "desc": "..",
+            "spec": [
+                "incident.numa.grail.a",
+                "incident.numa.grail.b",
+                "incident.numa.moon.a",
+                "incident.numa.moon.b",
+                "incident.numa.winter.a",
+                "incident.numa.wood"
+            ],
+           "resetonexhaustion": false,
+           "defaultcard":"incident.consultation"
+        },
+
+
+        {
+            "id": "deck.weather.spring",
+            "label": "Weather",
+            "desc": "..",
+            "spec": [
+                "weather.sunny",
+                "weather.sunny",
+                "weather.sunny",
+                "weather.clouds",
+                "weather.clouds",
+                "weather.rain",                
+                "weather.rain", 
+                "weather.gale"
+            ],
+           "resetonexhaustion": true
+        },
+        {
+            "id": "deck.weather.summer",
+            "label": "Weather",
+            "desc": "..",
+            "spec": [
+                "weather.sunny",
+                "weather.sunny",
+                "weather.sunny",
+                "weather.clouds",
+                "weather.clouds",
+                "weather.rain"
+            ],
+           "resetonexhaustion": true
+        },
+        {
+            "id": "deck.weather.autumn",
+            "label": "Weather",
+            "desc": "..",
+            "spec": [
+                "weather.sunny",
+                "weather.gale",
+                "weather.gale",
+                "weather.hail",
+                "weather.clouds",
+                "weather.rain",                
+                "weather.rain",                
+                "weather.rain",
+                "weather.storm",
+                "weather.fog",
+                "weather.fog",
+                "weather.fog"
+            ],
+           "resetonexhaustion": true
+        },
+        {
+            "id": "deck.weather.winter",
+            "label": "Weather",
+            "desc": "..",
+            "spec": [
+                "weather.gale",
+                "weather.gale",
+                "weather.hail",
+                "weather.hail",
+                "weather.storm",
+                "weather.storm",
+                "weather.clouds",   
+                "weather.rain",                
+                "weather.fog",
+                "weather.snow",
+                "weather.snow",
+                "weather.snow"
+            ],
+           "resetonexhaustion": true
+        },
+        {
+            "id": "numa.possibility",
+            "label": "Numa likelihood",
+            "desc": "..",
+            "spec": [
+                "next.numa",
+				"towards.numa",
+                "towards.numa",
+                "towards.numa",
+                "towards.numa",
+                "towards.numa",
+                "towards.numa",
+                "towards.numa",
+                "towards.numa"
+            ],
+           "resetonexhaustion": true
+        }
+
+]
+}

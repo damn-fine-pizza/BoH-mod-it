@@ -1,0 +1,12 @@
+{
+    "elements": [
+ 		{
+            "id": "armchair.blue",
+            "label": "Blue Armchair",
+            "desc": "In wanton Arethusa's azur'd arms...",
+            "inherits":"_comfort",
+            "aspects":{"sky":1}
+        }
+       
+    ]
+}

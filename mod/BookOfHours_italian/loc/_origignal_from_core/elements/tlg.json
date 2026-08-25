@@ -1,0 +1,11 @@
+{
+    "elements": [
+        {
+            "id": "tlg.note",
+            "label": "Note",
+            "desc": "..",
+            "lifetime": 1,
+            "metafictional":true
+        }
+    ]
+}

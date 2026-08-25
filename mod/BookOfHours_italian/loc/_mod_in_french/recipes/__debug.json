@@ -1,0 +1,106 @@
+{"recipes": [
+
+
+    {"id":"wildreqtest",
+"label":"wild!",
+"actionid":"consider",
+"startdescription":"!",
+"reqs":{"t.*":1},
+"craftable":false },
+
+    {"id": "d_cons_imp",
+    "label": "Consider: impromptu",
+    "actionid": "consider",
+    "startdescription": "This should only ever occur on alternate executions (when marked craftable)",
+    "desc":"Added aspect",
+    "reqs":{"readable":1,"%track":-1},
+    "warmup":1,
+    "mutations":[{"filter":"readable","mutate":"%track","level":1}],
+    "effects":{"xwis":1},
+    "craftable":false
+
+    },
+    {"id": "d_cons_setup_imp",
+    "label": "Consider (Setup): impromptu",
+    "actionid": "consider.setup",
+    "startdescription": "This should only ever occur on alternate executions (when marked craftable)",
+    "desc":"Added aspect",
+    "reqs":{"readable":1,"%track":-1},
+    "warmup":1,
+    "mutations":[{"filter":"readable","mutate":"%track","level":1},
+    {"filter":"readable","mutate":"soa*","level":-1}],
+    "effects":{"xwis":1},
+    "craftable":false
+
+    },
+
+    {"id": "d_cons_imp2",
+    "label": "Consider: impromptu done",
+    "actionid": "consider",
+    "startdescription": "Track-marked",
+    "desc":"that's it",
+    "reqs":{"readable":1,"%track":1},
+    "mutations":[{"filter":"readable","mutate":"%track","level":-1}],
+    "warmup":1,
+    "craftable":false
+    },
+
+
+ 
+{"id": "d_dawn",
+"label": "DAWN!",
+"actionid": "x",
+"startdescription": "Instant recovery, just add dawn",
+"warmup":1,
+"xpans":{"recovering.ability":1}
+},
+
+{"id": "d_go",
+"label":"go!",
+"actionid":"x",
+    "warmup": 1,
+    "effects":{"status.rhonwen.open":1},
+    "fx":{"ui_wisdoms_or_world.show":4},
+    "linked":[{"id": "setup.librarian.day","additional":true,"topath":"~/day"}]
+},
+
+{"id": "d_pack",
+"label":"go!",
+"actionid":"x",
+    "warmup": 1,
+    "effects":{"bust.hendrik":1,"bust.thomas":1, "xcho":1,"xere":1, "xfet":1,"xhea":1, "xmet":1, "xpho":1, "xsha":1,"xtri":1, "xwis":1},
+    "craftable":true
+},
+
+
+{"id":"inspire_a",
+"actionid":"talk",
+"label":"Inspire a",
+"reqs":{"visitor":1,"agenda.stone.consumed":-1},
+"aspects":{"inspiring.agenda.stone.consumed":1},
+"craftable":false},
+
+{"id":"inspire_b",
+"actionid":"talk",
+"label":"Inspire b",
+"reqs":{"visitor":1,"agenda.stone.remembered":-1},
+"aspects":{"inspiring.agenda.stone.remembered":1},
+"craftable":false},
+
+{"id":"av",
+"actionid":"postoffice.delivery",
+"label":"AV",
+"craftable":false,
+"warmup":1,
+"linked":[{"id":"av2","additional":true,"topath":"~/arrivalverbs"}]},
+
+{"id":"av2",
+"actionid":"postoffice.delivery",
+"label":"AV",
+"warmup":1,
+"craftable":false}
+
+
+
+]
+}

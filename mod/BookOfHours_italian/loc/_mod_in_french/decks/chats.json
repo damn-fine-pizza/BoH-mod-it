@@ -1,0 +1,166 @@
+{"decks": [
+ 
+    {
+       "id": "d.chat.generic",
+       "label": "Conversation fortuite",
+       "desc": "Bien, que savez-vous?",
+       "spec": [
+        "precursor.mem.dreamt",
+        "precursor.mem.storm",
+        "precursor.mem.gossip",
+        "precursor.mem.gossip",
+        "precursor.mem.gossip",
+        "precursor.mem.gossip",
+        "precursor.mem.fear",
+        "precursor.mem.foresight",
+        "precursor.mem.impulse",
+        "precursor.mem.intuition",
+        "precursor.mem.hindsight",
+        "precursor.mem.revelation",
+        "precursor.mem.regret",
+        "precursor.mem.satisfaction",
+        "precursor.mem.solace",
+        "precursor.mem.solace",
+        "precursor.mem.solace"
+       ],
+      "resetonexhaustion": true
+   },
+   {
+      "id": "d.chat.scholar",
+      "label": "Une conversation avec un Érudit",
+      "desc": "Bien, que savez-vous?",
+      "spec": [
+       "precursor.mem.dreamt",
+       "precursor.mem.storm",
+       "precursor.mem.gossip",
+       "precursor.mem.gossip",
+       "precursor.mem.gossip",
+       "precursor.mem.gossip",
+      "precursor.mem.fear",
+      "precursor.mem.foresight",
+       "precursor.mem.impulse",
+       "precursor.mem.intuition",
+       "precursor.mem.hindsight",
+       "precursor.mem.hindsight",
+       "precursor.mem.hindsight",
+       "precursor.mem.hindsight",
+       "precursor.mem.revelation",
+       "precursor.mem.revelation",
+       "precursor.mem.revelation",
+       "precursor.mem.revelation",
+       "precursor.mem.regret",
+       "precursor.mem.solace",
+       "precursor.mem.solace",
+       "precursor.mem.solace",
+       "precursor.mem.solace"
+      ],
+     "resetonexhaustion": true
+  },
+  {
+   "id": "d.chat.craftsman",
+   "label": "Une conversation avec un Artisan",
+   "desc": "Bien, que savez-vous?",
+   "spec": [
+    "precursor.mem.dreamt",
+    "precursor.mem.storm",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+   "precursor.mem.fear",
+   "precursor.mem.foresight",
+   "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.impulse",
+    "precursor.mem.intuition",
+    "precursor.mem.hindsight",
+    "precursor.mem.revelation",
+    "precursor.mem.regret",
+    "precursor.mem.solace"
+   ],
+  "resetonexhaustion": true
+},
+{
+   "id": "d.chat.traveller",
+   "label": "Une conversation avec un Voyageur",
+   "desc": "Bien, que savez-vous?",
+   "spec": [
+    "precursor.mem.dreamt",
+    "precursor.mem.storm",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+   "precursor.mem.fear",
+   "precursor.mem.foresight",
+    "precursor.mem.impulse",
+    "precursor.mem.intuition",
+    "precursor.mem.hindsight",
+    "precursor.mem.revelation",
+    "precursor.mem.regret",
+    "precursor.mem.regret",
+    "precursor.mem.regret",
+    "precursor.mem.regret",
+    "precursor.mem.solace",
+    "precursor.mem.solace",
+    "precursor.mem.solace",
+    "precursor.mem.solace",
+    "precursor.mem.satisfaction",
+    "precursor.mem.satisfaction",
+    "precursor.mem.satisfaction",
+    "precursor.mem.satisfaction"
+   ],
+  "resetonexhaustion": true
+},
+{
+   "id": "d.chat.denzil",
+   "label": "Une conversation avec Denzil",
+   "desc": "Bien, que sait-tu?",
+   "spec": [
+    "precursor.mem.dreamt",
+    "precursor.mem.storm",
+    "precursor.mem.fear",
+    "precursor.mem.fear",
+    "precursor.mem.fear",
+   "precursor.mem.fear",
+   "precursor.mem.foresight",
+   "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.impulse",
+    "precursor.mem.intuition",
+    "precursor.mem.hindsight",
+    "precursor.mem.hindsight",
+    "precursor.mem.hindsight",
+    "precursor.mem.hindsight",
+    "precursor.mem.revelation",
+    "precursor.mem.regret",
+    "precursor.mem.solace"
+   ],
+  "resetonexhaustion": true
+},
+{
+   "id": "d.chat.sweetbones",
+   "label": "Recherche de conversations au Sweet Bones",
+   "desc": "J'interrogerai les villageois de Brancrug…",
+   "spec": [
+      "precursor.mem.gossip",
+      "precursor.mem.gossip",
+      "precursor.mem.gossip",
+      "precursor.mem.fear",
+      "precursor.mem.fear",
+      "precursor.mem.foresight",
+      "precursor.mem.foresight",
+      "precursor.mem.hindsight",
+      "precursor.mem.hindsight",
+      "precursor.mem.regret",
+      "precursor.mem.regret"
+   ],
+  "resetonexhaustion": true
+}
+
+
+      
+]
+}

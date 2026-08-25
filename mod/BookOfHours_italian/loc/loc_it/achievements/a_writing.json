@@ -1,0 +1,18 @@
+{
+ "achievements": [
+  {
+   "id": "A_CATEGORY_WRITING",
+   "label": "Traguardo di Scrittura"
+  },
+  {
+   "id": "A_WRITE_MANUSCRIPT",
+   "label": "I Libri sono la Memoria che non muore",
+   "descriptionunlocked": "Ho scritto un Manoscritto originale."
+  },
+  {
+   "id": "A_WRITE_INVITATION",
+   "label": "L’Ultima Casa Accogliente",
+   "descriptionunlocked": "Ho scritto un Invito a un Visitatore."
+  }
+ ]
+}

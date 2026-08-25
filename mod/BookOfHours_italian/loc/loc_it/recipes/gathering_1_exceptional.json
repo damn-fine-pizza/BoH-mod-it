@@ -1,0 +1,63 @@
+{
+ "recipes": [
+  {
+   "id": "_gather.retrieve.key",
+   "label": "Qualcosa di Familiare"
+  },
+  {
+   "id": "gather.garden.plot.key",
+   "startdescription": "Un angolo di qualcosa di metallico spunta dal terreno...",
+   "desc": "Ancora una volta, ecco la Chiave di Hush House, semisepolta nel giardino."
+  },
+  {
+   "id": "gather.beachcombing.key",
+   "startdescription": "Qualcosa di semisepolto nella sabbia...",
+   "desc": "Una familiare chiave di ferro si è arenata sulla spiaggia."
+  },
+  {
+   "id": "gather.nests.key",
+   "startdescription": "Un metallico lampo di luce...",
+   "desc": "Una familiare chiave di ferro è incastrata in una fessura."
+  },
+  {
+   "id": "gather.caves.key",
+   "startdescription": "Un metallico lampo di luce...",
+   "desc": "Una familiare chiave di ferro giace in una pozza d’acqua poco profonda."
+  },
+  {
+   "id": "gather.well.key",
+   "label": "Attingi Acqua",
+   "startdescription": "Uno strano tintinnio, di sotto...",
+   "desc": "Una familiare chiave di ferro si annida nel secchio."
+  },
+  {
+   "id": "gather.echidna.moor",
+   "label": "Invita Echidna, Madre dei Mostri, a Brancrug",
+   "startdescription": "L’evocazione va compiuta fuori dalla portata di orecchie profane – e lontano da ogni possibile protezione.",
+   "desc": "Verso il latte in un ampio cerchio, e osservo mentre affonda nella terra crostosa. Occhi di serpente brillano tra la ginestra. Il vento si alza in uno stridio sibilante. La pioggia crepita dal cielo. Ho attirato l’attenzione di qualcuno.",
+   "preslots": [
+    {
+     "id": "serpentmilk",
+     "label": "Latte di Serpente"
+    }
+   ]
+  },
+  {
+   "id": "echidna.summon.normal"
+  },
+  {
+   "id": "echidna.summon.persistent"
+  },
+  {
+   "id": "gather.echidna.moor.hint",
+   "label": "Evocare, o Raccogliere?",
+   "startdescription": "[Per evocare Echidna, fornisci Latte di Serpente, e un totale di 7 <sprite name=scale> – oppure ometti questi requisiti, e prova a raccogliere dalle brughiere come al solito.]",
+   "preslots": [
+    {
+     "id": "serpentmilk",
+     "label": "Latte di Serpente"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+    "verbs": [
+
+      {
+        "id": "library.fireplace.entrance",
+      "category": "Workstation",
+      "label": "Cheminée du hall d'entrée",
+        "desc": "Les visiteurs ont trouvé un accueil chaleureux après les vents violents de la traversée du pont.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.hermit",
+      "category": "Workstation",
+      "label": "Le Poêle de l'Ermite",
+        "desc": "Grognant comme un vieil homme.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.infirmary",
+      "category": "Workstation",
+      "label": "Cheminée de l'Infirmerie",
+        "desc": "Une chaleur bienvenue.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.librarian",
+      "category": "Workstation",
+      "label": "Cheminée des quartiers du Bibliothécaire",
+        "desc": "Même lorsque le vent frappe les fenêtres, le feu dans la cheminée maintient la pièce confortable.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.lodge",
+      "category": "Workstation",
+      "label": "Cheminée du pavillon",
+        "desc": "Le feu accepte toujours les cadeaux. Et fait bouillir la bouilloire pour le thé.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.long1",
+      "category": "Workstation",
+      "label": "Cheminée d'étude à longue tour",
+        "desc": "La cheminée ne réchauffe pas exactement la pièce, mais elle maintient plus ou moins le froid.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.mirrors",
+      "category": "Workstation",
+      "label": "Cheminée du Hall de Division",
+        "desc": "Les reflets du feu dans les miroirs sont difficiles à décrire sans risquer une incursion dans le pentamètre.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.pale",
+      "category": "Workstation",
+      "label": "Cheminée de la Chambre Pâle",
+        "desc": "Le feu accepte toujours les cadeaux. Et fait bouillir la bouilloire pour le thé.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.refectory",
+      "category": "Workstation",
+      "label": "Cheminée du réfectoire",
+        "desc": "Le feu murmure amicalement dans la cheminée.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.servants",
+      "category": "Workstation",
+      "label": "Foyer de la salle des Domestiques",
+        "desc": "Les charbons brillent.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.staffroom",
+      "category": "Workstation",
+      "label": "Poêle pour la salle du personnel",
+        "desc": "Un petit fourneau silencieux.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.westcott",
+      "category": "Workstation",
+      "label": "Cheminée du Salon Westcott",
+        "desc": "C'est le seul endroit de la Hush House où le feu était autorisé à proximité des livres.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "world.sea.boathouse",
+      "category": "Workstation",
+      "label": "Hangar à bateaux de Brancrug",
+        "desc": "Le bateau est parti, la mer reste. Bien entendu, c’est ainsi que cela fonctionne habituellement. [Jetez les objets ici ; relâchez les bêtes ; ou aller nager]",
+        "audio":"Splash",
+        "slots": [        {"id": "thing","label": "Objet", "required":{"thing":1,"beast":1,"ability":1},"forbidden":{"fatigued":1,"malady":1}}]
+      },
+      {
+        "id": "world.sea.crane",
+      "category": "Workstation",
+      "label": "Grue de quai de chargement",
+      "audio":"CreakingWheels",
+      "comments":"Le seul poste de travail en mer qui n'accepte pas les capacités: les prisonniers ne pouvaient pas nager vers la liberté.",
+        "desc": "Il y a longtemps, c'était la voie par laquelle les provisions entraient dans la prison et par laquelle les prisonniers ne parvenaient pas à s'échapper. [Jetez des objets ici, ou libérez des bêtes]",
+        "slots": [         {"id": "thing","label": "Chose", "required":{"thing":1,"beast":1}}]
+      },
+      {
+        "id": "library.well",
+      "category": "Workstation",
+      "label": "Puit de la Hush House",
+      "audio":"Splash",
+        "desc": "Ici, je peux puiser de l'eau - ou y déposer quelque chose, qui risque d'être perdu à jamais.",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1,"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Chose", "required":{"thing":1,"penny":1}}]
+      },
+      {
+        "id": "world.sea.beach",
+      "category": "Workstation",
+      "label": "Bord de mer",
+      "audio":"sand",
+        "desc": "La mer a toujours faim ; la mer ne dort jamais ; la Mer accepte les offrandes. [Jetez les objets ici ; relâchez les bêtes ; ou aller nager]",
+        "slots": [
+        {"id": "object","label": "Objet", "required":{"thing":1,"beast":1,"penny":1,"ability":1},"forbidden":{"fatigued":1,"malady":1}}]
+      },
+{	       "id": "world.tree.gate",
+	"label": "L'if du comte",	
+  "desc": "Depuis la Conquête, cela vous attend. Les irrévérencieux pourraient même l'appeler <i>votre arbre</i>.",
+	"audio":"GardenMeadow",	
+"slots": [
+{	"id": "a","label": "Âme", "essential":{"ability": 1}},
+{	"id": "j","label": "Journal" ,
+"required":{  "journal":1}
+	}],	
+ 	"category": "Workstation"	},
+
+      {	       "id": "station.serving.lodge",
+      	"label": "Servir ici",	"desc": "Des assiettes, des tasses et des verres, pour offrir du vin à quelqu'un, sans avoir besoin de lui donner la bouteille entière.",
+        "audio":"Glassware",
+        	"slots": [{	"id": "p","label": "Servir", "essential":{"distributable": 1}}],
+            	"category": "Workstation"	},
+
+              {	       "id": "station.serving.kitchen",
+              "label": "Servir ici",	"desc": "Des assiettes, des tasses et des verres, pour offrir du vin à quelqu'un, sans avoir besoin de lui donner la bouteille entière.",
+              "audio":"Glassware",
+                "slots": [{	"id": "p","label": "Servir", "essential":{"distributable": 1}}],
+                    "category": "Workstation"	},
+
+                    {	       "id": "station.serving.gaol",
+                    "label": "Servir ici",	"desc": "Des assiettes, des tasses et des verres, pour offrir du vin à quelqu'un, sans avoir besoin de lui donner la bouteille entière.",
+                    "audio":"Glassware",
+                      "slots": [{	"id": "p","label": "Servir", "essential":{"distributable": 1}}],
+                          "category": "Workstation"	},
+
+              {	       "id": "pumps.upper",
+              "label": "Pompes: Niveau supérieur",
+              	"desc": "La Curie a installé ces pompes pour drainer les niveaux inférieurs - mais elle les a installées à la fin du XIXe siècle. Je devrai fournir des matériaux et du carburant appropriés - et j'aurai besoin d'un Niveau Apprenti de Forge pour les trafiquer.",
+                "audio":"pumps",
+                "hints": ["forge","knock"],
+                "slots": [{	"id": "s","label": "Compétence", "essential":{"skill": 1},"required":{"forge":1,"knock":1}},
+                {	"id": "a","label": "Âme", "essential":{"ability": 1},"forbidden":{"fatigued":1}},
+                {	"id": "l","label": "Combustible", "essential":{"liquid": 1,"fuel":1}},
+                {	"id": "m1","label": "Métal", "essential":{"metal": 1}},
+                {	"id": "m2","label": "Métal", "essential":{"metal": 1}}
+              ],
+              "aspects":{"difficulty.prentice":5},      
+                "category": "Workstation"
+        	},
+
+          {	       "id": "pumps.lower",
+          "label": "Pompes: Niveau inférieur",
+          "desc": "Ces machines sont de fabrication différente et plus récente que celles ci-dessus. Ils incluent également quelque chose comme un générateur. Mais leur état est encore pire. Je devrai fournir des matériaux et du carburant appropriés - et j'aurai besoin d'un Niveau Érudit de Forge pour les trafiquer.",
+          "audio":"pumps",
+          "hints": ["forge","knock"],
+            "slots": [{	"id": "s","label": "Compétence", "essential":{"skill": 1},"required":{"forge":1,"knock":1}},
+            {	"id": "a","label": "Âme", "essential":{"ability": 1},"forbidden":{"fatigued":1}},
+            {	"id": "l","label": "Combustible", "essential":{"liquid": 1,"fuel":1}},
+            {	"id": "m1","label": "Métal", "essential":{"metal": 1}},
+            {	"id": "m2","label": "Métal", "essential":{"metal": 1}}
+          ],
+          "aspects":{"difficulty.scholar":10},
+            "category": "Workstation"
+      },
+
+      {	       "id": "library.kitchen.gaol",	"label": "Cuisinière: Geôle",	"Desc": "La nourriture servie dans la prison de Brancrug était étonnamment copieuse et savoureuse - en accord avec les théories plus humaines de Collers en matière de réhabilitation.",	"hints": ["scale","lantern","nectar","grail"],	"audio":"Fire",	"slots": [{	"id": "a","label": "Âme", "essential":{"ability": 1} ,"required":{"scale":1,"lantern":1,"nectar":1,"grail":1}	},{	"id": "s","label": "Compétence", "essential":{"skill": 1} ,"required":{"scale":1,"lantern":1,"nectar":1,"grail":1}	},{	"id": "m","label": "Mémoire", "essential":{"memory": 1} ,"required":{"scale":1,"lantern":1,"nectar":1,"grail":1}	},
+      {	"id": "i1","label": "Ingrédient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "i2","label": "Ingrédient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "t1","label": "Ustensile de cuisine" ,"required":{"kitchenware":1,"knife":1}	}],	 "aspects":{"difficulty.prentice":5,"difficulty.scholar":10,"difficulty.keeper":15	},		"ambits":true,	"category": "Workstation"	},
+      {	       "id": "library.kitchen.hallofvoices",	"label": "Foyer: Salle des Voix",	"Desc": "Ici, les prêtresses préparaient les repas qu'elles ne voulaient ou ne pouvaient pas confier à leurs servantes.",	"hints": ["moon","edge","nectar","grail"],	"audio":"Fire",	"slots": [{	"id": "a","label": "Âme", "essential":{"ability": 1} ,"required":{"moon":1,"edge":1,"nectar":1,"grail":1}	},{	"id": "s","label": "Compétence", "essential":{"skill": 1} ,"required":{"moon":1,"edge":1,"nectar":1,"grail":1}	},{	"id": "m","label": "Mémoire", "essential":{"memory": 1} ,"required":{"moon":1,"edge":1,"nectar":1,"grail":1}	},{	"id": "i1","label": "Ingrédient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "i2","label": "Ingrédient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "t1","label": "Ustensile de cuisine" ,"required":{"kitchenware":1,"knife":1}	}],	 "aspects":{"difficulty.prentice":5,"difficulty.scholar":10,"difficulty.keeper":15	},		"ambits":true,	"category": "Workstation"	},
+      {	       "id": "library.kitchen.servants",	"label": "Cuisinière: Serviteurs",	"Desc": "Il est de bon augure pour les villageois d'apporter de petits cadeaux de nourriture au Bibliothécaire. C'est déjà devenu une tradition. Mais parfois, le Bibliothécaire veut un repas chaud et, de nos jours, le Bibliothécaire est la seule entité de la maison à pouvoir cuisiner.",	"hints": ["scale","heart","nectar","grail"],	"audio":"Fire",	"slots": [{	"id": "a","label": "Âme", "essential":{"ability": 1} ,"required":{"scale":1,"heart":1,"nectar":1,"grail":1}	},{	"id": "s","label": "Compétence", "essential":{"skill": 1} ,"required":{"scale":1,"heart":1,"nectar":1,"grail":1}	},{	"id": "m","label": "Mémoire", "essential":{"memory": 1} ,"required":{"scale":1,"heart":1,"nectar":1,"grail":1}	},{	"id": "i1","label": "Ingrédient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},{	"id": "i2","label": "Ingrédient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "t1","label": "Ustensile de cuisine" ,"required":{"kitchenware":1,"knife":1}	}],	 "aspects":{"difficulty.prentice":5,"difficulty.scholar":10,"difficulty.keeper":15	},		"ambits":true,	"category": "Workstation"	}
+    
+
+     
+    ]
+}

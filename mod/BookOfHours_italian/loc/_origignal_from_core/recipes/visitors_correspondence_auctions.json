@@ -1,0 +1,399 @@
+ {"recipes": [
+ 
+      {
+            "id": "incident.setup",
+            "label": "Current Affairs",
+            "actionid": "incident.base",
+            "extantreqs":{"status.rhonwen.open":1},
+            "startdescription": "What's happening in the world beyond Brancrug? What visitors will the season bring?\n\n [We'll either draw a new Incident; find a suitable Visitor for the current Incident; or retire the current Incident if there are no visitors left for it.]",
+                  "warmup": 60,
+                  "comments":"This warmup just prevents the incident from firing at the same time as season-beginning events..",
+                  "slots": [{
+                        "id": "i",
+                        "required": {"incident":1},
+                        "forbidden":{"numatic":1,"finished":1},
+                        "greedy":true
+                          }],   
+            "craftable": false,
+            "linked":[ {"id":"incident.new"},
+                  {"id":"visitor.for.*","topath":"~/arrivalverbs"}
+           ]
+    },
+
+
+    {
+      "id": "incident.retire",
+      "label": "The End of the Affair",
+      "actionid": "incident.base",
+      "reqs": {"incident":1,"visitor":-1},
+      "startdescription": "'A story has no beginning or end: arbitrarily one chooses that moment of experience from which to look back or from which to look ahead.' - Graham Greene\n\n [This Incident has seen its full complement of visitors, and is concluded. There will be an interval before the next Incident, when Visitors will seek a general consultation.]",
+      "craftable": false,
+      "warmup":5,
+      "linked":[
+            {"id":"incident.mark.finished","additional":true,"topath":"~/incidents.offstage","outputpath":"^","expulsion":{"limit": 1,"filter": {"incident": 1}}},
+            {"id":"incident.draw.consultation"}]
+},
+{
+      "id":"incident.mark.finished",
+      "actionid": "incident.expulsion.finisher",
+      "label": "Finished!",
+      "warmup":1,
+      "mutations":[{"mutate":"finished","filter":"incident","level":1}]
+
+},
+{
+      "id": "incident.draw.consultation",
+      "label": "A Consultation",
+      "actionid": "incident.base",
+      "startdescription": "Nothing particular is afoot; any visitors this season will likely just want a general consultation.",
+      "effects":{"incident.consultation":1},
+      "warmup":5,
+      "linked":[{"id":"visitor.for.*","topath":"~/arrivalverbs"}]
+},
+
+
+
+{
+        "id": "incident.new",
+        "label": "The Affair of the...?",
+        "actionid": "incident.base",
+        "reqs": {"incident":-1},
+        "startdescription": "Developments in the world beyond Brancrug. [Drawing a new Incident.]",
+        "craftable": false,
+        "deckeffects":{"incidents":1},
+        "warmup":5,
+        "linked":[{"id":"visitor.for.*","topath":"~/arrivalverbs"}]
+},
+
+{
+      "id": "incident.setup.numa",
+      "label": "River, Wheel, Flame",
+      "actionid": "numa.incident.base",
+      "startdescription": "Time. It has been called a wheel, but my family perceive it as a flame: coolest at its heart, but wildest at its edge...[We'll draw a Numa Incident; find a suitable Visitor for the current Numa Incident; or retire the current Numa Incident if there are no visitors left for it.]",
+            "warmup": 5,
+            "slots": [{
+                  "id": "i",
+                  "essential": {"incident":1,"numatic":1},
+                  "forbidden":{"finished":1},
+                  "greedy":true
+                    }],   
+      "craftable": false,
+      "linked":[ {"id":"incident.new.numa"},
+            {"id":"visitor.for.*","topath":"~/arrivalverbs"}
+     ]
+},
+
+{
+      "id": "incident.retire.numa",
+      "label": "An Ending, and a Consultation",
+      "actionid": "numa.incident.base",
+      "reqs": {"incident":1,"visitor":-1},
+      "startdescription": "'The stars move still; time runs; the clock will strike.' - Marlowe\n\n [This Incident has seen its full complement of visitors, and is concluded. This Numa there will be no Incident; Numatic Visitors will seek a general consultation.]",
+      "craftable": false,
+      "warmup":5,
+      "linked":[
+            {"id":"incident.mark.finished","additional":true,"topath":"~/incidents.offstage","outputpath":"^","expulsion":{"limit": 1,"filter": {"incident": 1}}},
+            {"id":"incident.draw.consultation"}]
+},
+{
+      "id": "incident.new.numa",
+      "label": "A Matter of...?",
+      "actionid": "numa.incident.base",
+      "reqs": {"incident":-1},
+      "startdescription": "What moves in the mist? [Drawing a new Numa Incident.]",
+      "craftable": false,
+      "deckeffects":{"incidents.numa":1},
+      "warmup":5,
+      "linked":[{"id":"visitor.for.*","topath":"~/arrivalverbs"}]
+},
+
+
+{"id": "visitor.for.revolution","label": "A Visitor interested in a revolution", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.revolution","reqs": {"incident.revolution":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.revolution","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.edge":1,"interest.grail":1},  "forbidden":{"numatic":1,"v.revolution":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.heist","label": "A Visitor interested in a crime", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.heist","reqs": {"incident.heist":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.heist","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.knock":1,"interest.forge":1},   "forbidden":{"numatic":1,"v.heist":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.stalk","label": "A Visitor interested in a stalk", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.stalk","reqs": {"incident.stalk":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.stalk","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.edge":1,"interest.rose":1},   "forbidden":{"numatic":1,"v.stalk":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.wound","label": "A Visitor interested in a wound", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.wound","reqs": {"incident.wound":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.wound","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.heart":1,"interest.winter":1},   "forbidden":{"numatic":1,"v.wound":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.intrusion","label": "A Visitor interested in an intrusion", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.intrusion","reqs": {"incident.intrusion":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.intrusion","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.knock":1,"interest.winter":1},   "forbidden":{"numatic":1,"v.intrusion":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.pan","label": "A Visitor interested in a wildness", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.pan","reqs": {"incident.pan":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.pan","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.heart":1,"interest.nectar":1},   "forbidden":{"numatic":1,"v.pan":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.curse","label": "A Visitor interested in a curse", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.curse","reqs": {"incident.curse":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.curse","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.heart":1,"interest.winter":1},   "forbidden":{"numatic":1,"v.curse":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.omen.dawn","label": "A Visitor interested in an omen of dawn", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.omen.dawn","reqs": {"incident.omen.dawn":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.omen.dawn","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.lantern":1},   "forbidden":{"numatic":1,"v.omen.dawn":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.omen.horizon","label": "A Visitor interested in omen of horizons", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.omen.horizon","reqs": {"incident.omen.horizon":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.omen.horizon","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.rose":1},   "forbidden":{"numatic":1,"v.omen.horizon":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.mob","label": "A Visitor interested in Reckoners", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.mob","reqs": {"incident.mob":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.mob","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.moon":1,"interest.edge":1},   "forbidden":{"numatic":1,"v.mob":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.rising","label": "A Visitor interested in rising", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.rising","reqs": {"incident.rising":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.rising","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.moon":1,"interest.scale":1},   "forbidden":{"numatic":1,"v.rising":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.lost.find","label": "A Visitor interested in something rediscovered", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.lost.find","reqs": {"incident.lost.find":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.lost.find","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.rose":1,"interest.moth":1},   "forbidden":{"numatic":1,"v.lost.find":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.project.ingenious","label": "A Visitor interested in an ingenious project", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.project.ingenious","reqs": {"incident.project.ingenious":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.project.ingenious","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.sky":1,"interest.forge":1},   "forbidden":{"numatic":1,"v.project.ingenious":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.project.solar","label": "A Visitor interested in a solar project", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.project.solar","reqs": {"incident.project.solar":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.project.solar","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.forge":1,"interest.lantern":1},   "forbidden":{"numatic":1,"v.project.solar":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.mystical","label": "A Visitor interested in the mystical", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.mystical","reqs": {"incident.mystical":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.mystical","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.winter":1,"interest.lantern":1},   "forbidden":{"numatic":1,"v.mystical":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.opera.apollo","label": "A Visitor interested in opera", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.opera.apollo","reqs": {"incident.opera.apollo":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.opera.apollo","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.sky":1,"interest.grail":1},   "forbidden":{"numatic":1,"v.opera.apollo":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.opera.wings","label": "A Visitor interested in perilous opera", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.opera.wings","reqs": {"incident.opera.wings":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.opera.wings","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.grail":1,"interest.moth":1},   "forbidden":{"numatic":1,"v.opera.wings":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.box","label": "A Visitor interested in a box", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.box","reqs": {"incident.box":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.box","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.knock":1,"interest.moon":1},   "forbidden":{"numatic":1,"v.box":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.rite.renewal","label": "A Visitor interested in a rite of renewal", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.rite.renewal","reqs": {"incident.rite.renewal":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.rite.renewal","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.nectar":1,"interest.moon":1},   "forbidden":{"numatic":1,"v.rite.renewal":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.rite.awakening","label": "A Visitor interested in a rite of awakening", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.rite.awakening","reqs": {"incident.rite.awakening":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.rite.awakening","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.nectar":1,"interest.scale":1},   "forbidden":{"numatic":1,"v.rite.awakening":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.hunt.changing","label": "A Visitor interested in a hunt", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.hunt.changing","reqs": {"incident.hunt.changing":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.hunt.changing","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.edge":1,"interest.scale":1},   "forbidden":{"numatic":1,"v.hunt.changing":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+{"id": "visitor.for.observe.scaly","label": "A Visitor interested in observation", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.observe.scaly","reqs": {"incident.observe.scaly":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.observe.scaly","level":1}],"warmup":5,"slots": [{   "id": "v",     "required":{"interest.sky":1,"interest.scale":1},   "forbidden":{"numatic":1,"v.observe.scaly":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire"}]},
+
+{"id": "visitor.for.numa.grail.a","label": "A Visitor interested in sanctuary", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.numa.grail.a","reqs": {"incident.numa.grail.a":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.numa.grail.a","level":1}],"warmup":5,"slots": [{   "id": "v",    "essential":{"numatic":1}, "required":{"interest.grail":1},   "forbidden":{"v.numa.grail.a":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire.numa"}]},
+{"id": "visitor.for.numa.grail.b","label": "A Visitor interested in feasts", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.numa.grail.b","reqs": {"incident.numa.grail.b":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.numa.grail.b","level":1}],"warmup":5,"slots": [{   "id": "v",   "essential":{"numatic":1},  "required":{"interest.grail":1},   "forbidden":{"v.numa.grail.b":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire.numa"}]},
+{"id": "visitor.for.numa.moon.a","label": "A Visitor interested in memory", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.numa.moon.a","reqs": {"incident.numa.moon.a":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.numa.moon.a","level":1}],"warmup":5,"slots": [{   "id": "v",   "essential":{"numatic":1},  "required":{"interest.moon":1},   "forbidden":{"v.numa.moon.a":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire.numa"}]},
+{"id": "visitor.for.numa.moon.b","label": "A Visitor interested in midnight", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.numa.moon.b","reqs": {"incident.numa.moon.b":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.numa.moon.b","level":1}],"warmup":5,"slots": [{   "id": "v",   "essential":{"numatic":1},  "required":{"interest.moon":1},   "forbidden":{"v.numa.moon.b":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire.numa"}]},
+{"id": "visitor.for.numa.winter.a","label": "A Visitor interested in frost", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.numa.winter.a","reqs": {"incident.numa.winter.a":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.numa.winter.a","level":1}],"warmup":5,"slots": [{   "id": "v",  "essential":{"numatic":1},   "required":{"interest.winter":1},   "forbidden":{"v.numa.winter.a":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire.numa"}]},
+{"id": "visitor.for.numa.wood","label": "A Visitor interested in complication", "startdescription":"Is there someone en route to Hush House?","actionid": "visitor.for.numa.wood","reqs": {"incident.numa.wood":1},"aspects":{"arriving":1},"mutations":[{"filter":"visitor","mutate":"v.numa.wood","level":1}],"warmup":5,"slots": [{   "id": "v", "essential":{"numatic":1},    "required":{"interest.grail":1,"interest.nectar":1},   "forbidden":{"v.numa.wood":1},      "greedy":true,      "frompath":"~/visitors.offstage"    }],    "linked":[{"id":"incident.retire.numa"}]},
+
+
+
+
+{"id": "visitor.for.consultation",
+"label": "Consultation",
+"actionid": "visitor.for.consultation",
+"reqs": {"incident.consultation":1},
+"extantreqs":{"season.numa":-1},
+"effects":{"incident.consultation":-1},
+"comments":"Consultations don't care about v. tracking and always just retire.",
+"warmup":15,
+"slots": [{
+      "id": "v",
+      "forbidden":{"numatic":1},
+      "required": {"visitor":1},
+            "greedy":true,
+            "frompath":"~/visitors.offstage"
+        }]
+},
+{"id": "visitor.for.consultation.numa",
+"label": "Numatic Consultation",
+"actionid": "visitor.for.consultation.numa",
+"startdescription": "This Numa, nothing more unusual than usual stirs. A visitor may still arrive for a general consultation.",
+"reqs": {"incident.consultation":1},
+"extantreqs":{"season.numa":1},
+"effects":{"incident.consultation":-1},
+"aspects":{"arriving":1},
+"warmup":15,
+"slots": [{
+      "id": "v",
+      "essential":{"numatic":1},
+      "required": {"visitor":1},
+            "greedy":true,
+            "frompath":"~/visitors.offstage"
+        }]
+},
+
+{"id": "visitorpatrol",
+"actionid": "visitorpatrol",
+"label":"Visitor Patrol",
+"startdescription":"Grabs embarking visitors every thirty seconds",
+"warmup":30,
+"comments":"Now that embarking visitors should never be offstage, we can grab more widely. If that changes, the grab will need to be more selective again!",
+"slots": [{
+      "id": "v",
+      "required": {"visitor.embarking":1},
+            "greedy":true
+        }],
+        "linked":[{"id":"visitor.embarking.sendoffstage","additional":true, "topath":"~/incidents.offstage","outputpath":"~/visitors.offstage",
+         "expulsion": {"limit": 99,"filter": {"visitor.embarking": 1}}},
+      {"id":"visitorpatrol"}]
+},
+
+{"id": "visitor.embarking.sendoffstage",
+"actionid": "visitor.embarking.sendoffstage",
+"comments":"running as warmup 0 caused nasty transition snarlups, so it now runs in the time-passing incidents sphere.",
+"reqs": {"visitor.embarking":1},
+"aspects":{"arriving":1},
+"warmup":1},
+
+
+{"id": "wc.send.basegame",
+"label": "A Gift from Dr Blackwood",
+"actionid": "wc.setup",
+"startdescription":"[disabled pro tem]",
+"extantreqs":{"wc":-1,"status.rhonwen.open":99},
+"effects":{"wc":1},
+"warmup":10
+},
+
+{"id": "ch.orderform.send",
+"label": "An Advertisement from Cater & Hero",
+"actionid": "ch.setup",
+"startdescription":"The firm Cater & Hero, alive to the possibility of commerce, has sent a smudgily printed catalogue addressed to 'The Libarianm'.",
+"extantreqs":{"form.order.ch":-1,"delivery.ch":-1},
+"effects":{"form.order.ch":1},
+"warmup":10
+},
+
+
+{"id":"ch.respond.begin",
+"actionid": "ch",
+"warmup":600,
+"aspects":{"wrapping":1},
+"linked":[{"id":"ch.respond.provision"}]},
+
+{"id": "ch.respond.provision",
+"actionid": "ch",
+"label":"Cater & Hero Provisioning",
+"startdescription":"Activates xtriggers on orders",
+"warmup":30,
+"aspects":{"provisioning":1},
+"linked":[{"id":"ch.respond.reset"}]
+},
+ 
+{"id": "ch.respond.reset",
+"actionid": "ch",
+"label":"Cater & Hero Reset",
+"startdescription":"Cleans up orders and cost",
+"warmup":30,
+"aspects":{"provisioning":1},
+"mutations":[{"mutate":"order*","filter":"delivery.ch", "level":-1,"additive":false},
+{"mutate":"cost.pence","filter":"delivery.ch","level":-1,"additive":false},
+{"mutate":"post.ready","filter":"delivery.ch","level":-1,"additive":false}]
+},
+
+{"id": "trn.orderform.send",
+"label": "An Invitation from T.R.N. Limited",
+"actionid": "trn.setup",
+"startdescription":"I've received a short catalogue, neatly printed on paper of creamy smoothness, from T.R.N. Limited. A compliment slip advises me that they have reserved a space for me in their client list.",
+"extantreqs":{"form.order.trn":-1,"delivery.trn":-1},
+"effects":{"form.order.trn":1},
+"warmup":10
+},
+
+{"id":"trn.respond.begin",
+"actionid": "trn",
+"warmup":500,
+"aspects":{"wrapping":1},
+"linked":[{"id":"trn.respond.provision"}]},
+
+{"id": "trn.respond.provision",
+"actionid": "trn",
+"label":"T.R.N. Provisioning",
+"startdescription":"Activates xtriggers on orders",
+"warmup":30,
+"aspects":{"provisioning":1},
+"linked":[{"id":"trn.respond.reset"}]
+},
+ 
+{"id": "trn.respond.reset",
+"actionid": "trn",
+"label":"T.R.N. Reset",
+"startdescription":"Cleans up orders and cost",
+"warmup":30,
+"aspects":{"provisioning":1},
+"mutations":[{"mutate":"order*","filter":"delivery.trn", "level":-1,"additive":false},
+{"mutate":"cost.pence","filter":"delivery.trn","level":-1,"additive":false},
+{"mutate":"post.ready","filter":"delivery.trn","level":-1,"additive":false}]
+},
+
+
+
+{"id": "rhonwen.reminder.trysend",
+"label": "A Reminder from the Trust",
+"actionid": "rhonwen.reminder.trysend",
+"extantreqs":{"status.rhonwen.open":-1},
+"warmup":1,
+"linked":[{"id":"rhonwen.reminder.send","additional":true,"topath":"~/arrivalverbs"}]
+},
+
+{"id": "rhonwen.reminder.send",
+"label": "A Reminder",
+"actionid": "rhonwen.correspondence",
+"startdescription": "A message from St Rhonwen's Trust has arrived.",
+"effects":{"reminder.rhonwen.act1":1},
+"warmup":5
+},
+
+{"id": "rhonwen.correspondence.trysend",
+"label": "A Message from the Trust",
+"actionid": "rhonwen.setup",
+"startdescription": "Options here to vary message",
+"extantreqs":{"status.rhonwen.open":1},
+"warmup":1,
+"linked":[{"id":"rhonwen.stipend","additional":true,"topath":"~/arrivalverbs"}]
+},
+
+{"id": "rhonwen.stipend",
+"label": "Yearly Stipend",
+"actionid": "rhonwen.correspondence",
+"startdescription": "The yearly stipend from St Rhonwen's has arrived, along with the usual rather sniffy reminder that I should spend it wisely.",
+"effects":{"poundnote":1,"spintria.iron":1},
+"warmup":5
+},
+
+{"id": "lot.oriflammes.setup",
+"label": "A Message from Oriflamme's",
+"actionid": "oriflammes.setup",
+"startdescription": "Set up Oriflamme's offer",
+"extantreqs":{"status.rhonwen.open":1},
+"reqs":{"cost.tally":-1},
+"warmup":720,
+"slots": [{
+      "id": "p",
+      "required": {"cost.tally":1},
+            "greedy":true,
+            "frompath":"~/purchases.europe"
+        }],
+        "linked":[{"id":"lot.oriflammes.offer.*", "additional":true, "topath":"~/arrivalverbs","expulsion": {"limit": 1,"filter": {"cost.tally": 1}} },
+        {"id":"lot.oriflammes.draw","topath":"~/purchases.europe","outputpath":"^","additional":true}
+        ]
+},
+
+{"id": "lot.oriflammes.draw",
+"label": "Oriflamme's Offer Draw",
+"actionid": "oriflammes.draw",
+"startdescription": "Oriflamme's: draw new books. This will give us a basic stock to draw from if the player keeps refusing the first choice.",
+"reqs": {"cost.tally":-1},
+"warmup":1,
+"deckeffects":{"d.books.divers":5}
+},
+
+
+
+{"id": "_lot.oriflammes.offer",
+"label": "An Offer from Oriflamme's",
+"actionid": "oriflammes.offer",
+"startdescription": "'ORIFLAMME'S, est. 1776 - SCENTS - SIGNS - SCIENCES. Dear Librarian; we would like to offer you this opportunity to purchase...' [Check the book icon to the right.]",
+"desc": "'Oriflamme's thanks you for your continued interest. [The book may become available for purchase again later.]'",
+"warmup":180, 
+"alt":[{"id":"lot.oriflammes.purchase"}],
+"linked":[ {"id":"lot.oriflammes.pass","additional":true,
+"topath":"~/purchases.europe",
+"outputpath":"^",
+ "expulsion": {"limit": 99,"filter": {"cost.tally": 1}}}]
+},
+
+{"id": "lot.oriflammes.offer.5",
+"inherits":"_lot.oriflammes.offer",
+"reqs":{"cost.tally":5},
+"slots": [{"id": "t", "required": {"tally":5}        }]
+},
+{"id": "lot.oriflammes.offer.4",
+"inherits":"_lot.oriflammes.offer",
+"reqs":{"cost.tally":4},
+"slots": [{"id": "t", "required": {"tally":4}        }]
+},
+{"id": "lot.oriflammes.offer.3",
+"inherits":"_lot.oriflammes.offer",
+"reqs":{"cost.tally":3},
+"slots": [{"id": "t", "required": {"tally":3}        }]
+},
+{"id": "lot.oriflammes.offer.2",
+"inherits":"_lot.oriflammes.offer",
+"reqs":{"cost.tally":2},
+"slots": [{"id": "t", "required": {"tally":2}        }]
+},
+{"id": "lot.oriflammes.offer.1",
+"inherits":"_lot.oriflammes.offer",
+"reqs":{"cost.tally":1},
+"slots": [{"id": "t", "required": {"tally":1}        }]
+},
+{"id": "lot.oriflammes.purchase",
+"reqs":{"tally":"cost.tally"},
+"startdescription":"'Oriflamme's thanks you for your custom.'",
+"effects":{"tally":"-cost.tally"}
+},
+{"id": "lot.oriflammes.pass",
+"actionid":"oriflammes.pass",
+"startdescription":"Pass!",
+"comments":"assumes no tally can have been placed in here.",
+"warmup":5
+}
+
+
+
+]
+}

@@ -1,0 +1,369 @@
+{
+ "elements": [
+  {
+   "id": "x.preliminalmeter",
+   "Label": "Lezione: Metro Preliminale",
+   "desc": "Ho acquisito maggiore comprensione di Metro Preliminale. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.pyroglyphics",
+   "Label": "Lezione: Piroglifici",
+   "desc": "Ho acquisito maggiore comprensione di Piroglifici. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.inks.containment",
+   "Label": "Lezione: Inchiostri di Contenimento",
+   "desc": "Ho acquisito maggiore comprensione di Inchiostri di Contenimento. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.inks.revelation",
+   "Label": "Lezione: Inchiostri di Rivelazione",
+   "desc": "Ho acquisito maggiore comprensione di Inchiostri di Rivelazione. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.inks.power",
+   "Label": "Lezione: Inchiostri di Potere",
+   "desc": "Ho acquisito maggiore comprensione di Inchiostri di Potere. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.drums.dances",
+   "Label": "Lezione: Tamburi & Danze",
+   "desc": "Ho acquisito maggiore comprensione di Tamburi & Danze. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.strings.songs",
+   "Label": "Lezione: Corde & Canti",
+   "desc": "Ho acquisito maggiore comprensione di Corde & Canti. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.bells.brazieries",
+   "Label": "Lezione: Campane & Bracieri",
+   "desc": "Ho acquisito maggiore comprensione di Campane & Bracieri. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.horns.ivories",
+   "Label": "Lezione: Corna & Avori",
+   "desc": "Ho acquisito maggiore comprensione di Corna & Avori. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.surgeries.exsanguinations",
+   "Label": "Lezione: Chirurgie & Dissanguamenti",
+   "desc": "Ho acquisito maggiore comprensione di Chirurgie & Dissanguamenti. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.stitching.binding",
+   "Label": "Lezione: Cucitura & Rilegatura",
+   "desc": "Ho acquisito maggiore comprensione di Cucitura & Rilegatura. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.furs.feathers",
+   "Label": "Lezione: Pellicce & Piume",
+   "desc": "Ho acquisito maggiore comprensione di Pellicce & Piume. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.pearl.tide",
+   "Label": "Lezione: Perla & Marea",
+   "desc": "Ho acquisito maggiore comprensione di Perla & Marea. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.insects.nectars",
+   "Label": "Lezione: Insetti & Nettari",
+   "desc": "Ho acquisito maggiore comprensione di Insetti & Nettari. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.herbs.infusions",
+   "Label": "Lezione: Erbe & Infusi",
+   "desc": "Ho acquisito maggiore comprensione di Erbe & Infusi. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.spices.savours",
+   "Label": "Lezione: Spezie & Sapori",
+   "desc": "Ho acquisito maggiore comprensione di Spezie & Sapori. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.leaves.thorns",
+   "Label": "Lezione: Foglie & Spine",
+   "desc": "Ho acquisito maggiore comprensione di Foglie & Spine. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.orchids.narcotics",
+   "Label": "Lezione: Orchidee & Narcotici",
+   "desc": "Ho acquisito maggiore comprensione di Orchidee & Narcotici. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.serpents.venoms",
+   "Label": "Lezione: Serpenti & Veleni",
+   "desc": "Ho acquisito maggiore comprensione di Serpenti & Veleni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.sights.sensations",
+   "Label": "Lezione: Visioni & Sensazioni",
+   "desc": "Ho acquisito maggiore comprensione di Visioni & Sensazioni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.desires.dissolutions",
+   "Label": "Lezione: Desideri & Dissoluzioni",
+   "desc": "Ho acquisito maggiore comprensione di Desideri & Dissoluzioni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.resurgences.emergences",
+   "Label": "Lezione: Risorgenze & Emersioni",
+   "desc": "Ho acquisito maggiore comprensione di Risorgenze & Emersioni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.rhyme.remembrance",
+   "Label": "Lezione: Rima & Rimembranza",
+   "desc": "Ho acquisito maggiore comprensione di Rima & Rimembranza. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.disciplines.thehammer",
+   "Label": "Lezione: Discipline del Martello",
+   "desc": "Ho acquisito maggiore comprensione di Discipline del Martello. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.disciplines.thescar",
+   "Label": "Lezione: Discipline della Cicatrice",
+   "desc": "Ho acquisito maggiore comprensione di Discipline della Cicatrice. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.auroralcontemplations",
+   "Label": "Lezione: Contemplazioni Aurorali",
+   "desc": "Ho acquisito maggiore comprensione di Contemplazioni Aurorali. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.applebrighteuphonies",
+   "Label": "Lezione: Eufonie di Applebright",
+   "desc": "Ho acquisito maggiore comprensione di Eufonie di Applebright. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.watchmansparadoxes",
+   "Label": "Lezione: Paradossi del Guardiano",
+   "desc": "Ho acquisito maggiore comprensione dei Paradossi del Guardiano. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.raggedcrossroads",
+   "Label": "Lezione: Crocevia Logoro",
+   "desc": "Ho acquisito maggiore comprensione di Crocevia Logoro. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.meniscatereflections",
+   "Label": "Lezione: Riflessi Meniscati",
+   "desc": "Ho acquisito maggiore comprensione di Riflessi Meniscati. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.putrefactions.calcinations",
+   "Label": "Lezione: Putrefazioni & Calcinazioni",
+   "desc": "Ho acquisito maggiore comprensione di Putrefazioni & Calcinazioni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.solutions.separations",
+   "Label": "Lezione: Soluzioni & Separazioni",
+   "desc": "Ho acquisito maggiore comprensione di Soluzioni & Separazioni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.path.pilgrim",
+   "Label": "Lezione: Cammino & Pellegrino",
+   "desc": "Ho acquisito maggiore comprensione di Cammino & Pellegrino. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.purifications.exaltations",
+   "Label": "Lezione: Purificazioni & Esaltazioni",
+   "desc": "Ho acquisito maggiore comprensione di Purificazioni & Esaltazioni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.transformations.liberations",
+   "Label": "Lezione: Trasformazioni & Liberazioni",
+   "desc": "Ho acquisito maggiore comprensione di Trasformazioni & Liberazioni. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.lockworks.clockworks",
+   "Label": "Lezione: Serrature & Orologi",
+   "desc": "Ho acquisito maggiore comprensione di Serrature & Orologi. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.seastories",
+   "Label": "Lezione: Storie di Mare",
+   "desc": "Ho acquisito maggiore comprensione di Storie di Mare. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.wolfstories",
+   "Label": "Lezione: Storie di Lupo",
+   "desc": "Ho acquisito maggiore comprensione di Storie di Lupo. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.sandstories",
+   "Label": "Lezione: Storie di Sabbia",
+   "desc": "Ho acquisito maggiore comprensione di Storie di Sabbia. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.skystories",
+   "Label": "Lezione: Storie di Cielo",
+   "desc": "Ho acquisito maggiore comprensione di Storie di Cielo. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.snowstories",
+   "Label": "Lezione: Storie di Neve",
+   "desc": "Ho acquisito maggiore comprensione di Storie di Neve. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.stonestories",
+   "Label": "Lezione: Storie di Pietra",
+   "desc": "Ho acquisito maggiore comprensione di Storie di Pietra. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.vak",
+   "Label": "Lezione: Vak",
+   "desc": "Ho acquisito maggiore comprensione di Vak. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.mandaic",
+   "Label": "Lezione: Mandaico Profondo",
+   "desc": "Ho acquisito maggiore comprensione di Mandaico Profondo. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.killasimi",
+   "Label": "Lezione: Killasimi",
+   "desc": "Ho acquisito maggiore comprensione di Killasimi. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.fucine",
+   "Label": "Lezione: Fucine",
+   "desc": "Ho acquisito maggiore comprensione di Fucine. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.sabazine",
+   "Label": "Lezione: Sabazine",
+   "desc": "Ho acquisito maggiore comprensione di Sabazine. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.cracktrack",
+   "Label": "Lezione: Cracktrack",
+   "desc": "Ho acquisito maggiore comprensione di Cracktrack. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.hyksos",
+   "Label": "Lezione: Hyksos",
+   "desc": "Ho acquisito maggiore comprensione di Hyksos. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.ericapaean",
+   "Label": "Lezione: Ericapaean",
+   "desc": "Ho acquisito maggiore comprensione di Ericapaean. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.ramsund",
+   "Label": "Lezione: Ramsund",
+   "desc": "Ho acquisito maggiore comprensione di Ramsund. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.sacrasolisinvicti",
+   "Label": "Lezione: Sacra Solis Invicti",
+   "desc": "Ho acquisito maggiore comprensione di Sacra Solis Invicti. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.tridesmahiera",
+   "Label": "Lezione: Tridesma Hiera",
+   "desc": "Ho acquisito maggiore comprensione di Tridesma Hiera. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.sacralimiae",
+   "Label": "Lezione: Sacra Limiae",
+   "desc": "Ho acquisito maggiore comprensione di Sacra Limiae. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.sickle.eclipse",
+   "Label": "Lezione: Falce & Eclissi",
+   "desc": "Ho acquisito maggiore comprensione di Falce & Eclissi. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.hill.hollow",
+   "Label": "Lezione: Colle & Valle",
+   "desc": "Ho acquisito maggiore comprensione di Colle & Valle. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.pentiments.precursors",
+   "Label": "Lezione: Pentimenti & Precursori",
+   "desc": "Ho acquisito maggiore comprensione di Pentimenti & Precursori. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.coil.chasm",
+   "Label": "Lezione: Spira & Baratro",
+   "desc": "Ho acquisito maggiore comprensione di Spira & Baratro. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.rites.theroots",
+   "Label": "Lezione: Riti delle Radici",
+   "desc": "Ho acquisito maggiore comprensione di Riti delle Radici. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.door.wall",
+   "Label": "Lezione: Porta & Muro",
+   "desc": "Ho acquisito maggiore comprensione di Porta & Muro. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.edictsliminal",
+   "Label": "Lezione: Editti Liminali",
+   "desc": "Ho acquisito maggiore comprensione di Editti Liminali. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.edictsmartial",
+   "Label": "Lezione: Editti Marziali",
+   "desc": "Ho acquisito maggiore comprensione di Editti Marziali. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.edictsinviolable",
+   "Label": "Lezione: Editti Inviolabili",
+   "desc": "Ho acquisito maggiore comprensione di Editti Inviolabili. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.thegreatsignsandthegreatscars",
+   "Label": "Lezione: I Grandi Segni e le Grandi Cicatrici",
+   "desc": "Ho acquisito maggiore comprensione dei Grandi Segni e delle Grandi Cicatrici. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.maggephenemysteries",
+   "Label": "Lezione: Misteri Maggephene",
+   "desc": "Ho acquisito maggiore comprensione di Misteri Maggephene. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.weaving.knotworking",
+   "Label": "Lezione: Tessitura & Annodatura",
+   "desc": "Ho acquisito maggiore comprensione di Tessitura & Annodatura. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.anbary.lapidary",
+   "Label": "Lezione: Ambreria & Lapidario",
+   "desc": "Ho acquisito maggiore comprensione di Ambreria & Lapidario. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.quenchings.quellings",
+   "Label": "Lezione: Spegnimenti & Placamenti",
+   "desc": "Ho acquisito maggiore comprensione di Spegnimenti & Placamenti. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.glassblowing.vesselcrafting",
+   "Label": "Lezione: Vetro Soffiato & Vasellame",
+   "desc": "Ho acquisito maggiore comprensione di Vetro Soffiato & Vasellame. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.glaziery.lightsmithing",
+   "Label": "Lezione: Vetreria & Lucefabbro",
+   "desc": "Ho acquisito maggiore comprensione di Vetreria & Lucefabbro. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.sharps",
+   "Label": "Lezione: Taglienti",
+   "desc": "Ho acquisito maggiore comprensione di Taglienti. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.ouranoscopy",
+   "Label": "Lezione: Uranoscopia",
+   "desc": "Ho acquisito maggiore comprensione dell’Uranoscopia. [Usa questa carta con Esamina.]"
+  },
+  {
+   "id": "x.henavek",
+   "Label": "Lezione: Henavek",
+   "desc": "Ho acquisito maggiore comprensione di Henavek. [Usa questa carta con Esamina.]"
+  }
+ ]
+}

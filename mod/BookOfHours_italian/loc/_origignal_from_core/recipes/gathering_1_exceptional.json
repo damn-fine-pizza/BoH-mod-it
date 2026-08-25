@@ -1,0 +1,98 @@
+{"recipes": [
+
+     {"id": "_gather.retrieve.key",
+"label": "Something Familiar",
+"extantreqs":{"key.hush.house":-1},
+"aspects":{"fatiguing.ability":1},
+"reqs": {"ability":1,"skill":1},
+"effects":{"key.hush.house":1},
+"warmup":90,
+"craftable":true},
+
+
+{"id": "gather.garden.plot.key",
+"actionid": "garden.plot.*",
+"startdescription": "A corner of something metallic protrudes from the soil...",
+"desc": "Once again, here's the Key to Hush House, half-buried in the garden.",
+"inherits":"_gather.retrieve.key"},
+
+
+{"id": "gather.beachcombing.key",
+"actionid": "world.beachcombing",
+"startdescription": "Something half-buried in the sand...",
+"desc": "A familiar iron key has washed up on the beach.",
+"inherits":"_gather.retrieve.key"},
+
+{"id": "gather.nests.key",
+"actionid": "world.nests",
+"startdescription": "A metallic wink of light...",
+"desc": "A familiar iron key is caught in a crevice.",
+"inherits":"_gather.retrieve.key"},
+
+
+{"id": "gather.caves.key",
+"actionid": "world.caves",
+"startdescription": "A metallic wink of light...",
+"desc": "A familiar iron key lies in a shallow rock-pool.",
+"inherits":"_gather.retrieve.key"},
+
+
+{"id": "gather.well.key",
+"actionid": "library.well",
+"label": "Draw up Water",
+"extantreqs":{"key.hush.house":-1},
+"reqs": {"ability":1},
+"aspects":{"fatiguing.ability":1},
+"effects":{"key.hush.house":1},
+"startdescription": "An odd rattle below...",
+"desc": "A familiar iron key nestles in the bucket.",
+"warmup":90,
+"craftable":true},
+
+{"id": "gather.echidna.moor",
+"actionid": "world.moor",
+"label":"Invite Echidna, Mother of Monsters, to Brancrug",
+"startdescription": "The summoning must be performed beyond the hearing of any profane ears - and far from any conceivable protection.",
+"desc": "I pour the milk in a wide circle, and watch as it sinks into the scabbed earth. Serpent-eyes glint from the gorse. The wind rises to a hissing shriek. Rain rattles from the sky. I have attracted someone's attention.",
+"reqs":{"ability":1,"technique.summon.echidna":1,"scale":7,"serpentmilk":1},
+"aspects":{"fatiguing":1},
+"preslots": [{"id": "serpentmilk","label":"Serpent-Milk","essential":{"serpentmilk":1}}],
+"warmup":60,
+"craftable":true,
+"linked":[{"id":"echidna.summon.normal"},
+{"id":"echidna.summon.persistent"}]
+},
+
+{"id": "echidna.summon.normal",
+"extantreqs":{"echidna.inspired":-1},
+"effects":{"echidna.enroute":1}
+},
+
+{"id": "echidna.summon.persistent",
+"extantreqs":{"echidna.inspired":1},
+"effects":{"echidna.enroute.persistent":1}
+},
+
+
+{"id": "gather.echidna.moor.hint",
+"actionid": "world.moor",
+"label":"Summon, or Gather?",
+"startdescription": "[To summon Echidna, provide Serpent-Milk, and a total of 7 <sprite name=scale> - or leave out these requirements, and try to gather from the moors as usual.]",
+"reqs":{"ability":1,"technique.summon.echidna":1},
+"aspects":{"fatiguing":1},
+"preslots": [{"id": "serpentmilk","label":"Serpent-Milk","essential":{"serpentmilk":1}}],
+"craftable":true,
+"linked":"gather.moor.*"
+}
+
+
+
+
+
+
+
+
+  
+]
+}
+    

@@ -1,0 +1,1359 @@
+{"recipes": [
+ 
+    {
+        "id": "act1start.acquaintance.rectory",
+        "label": "Un Ecclésiastique Distrait",
+        "actionid": "village.rectory.closed",
+        "startdescription": "Le révérend recule comme s'il avait reçu un coup, puis il me bombarde, terrifié, de questions réconfortantes avant même de franchir la porte.",
+        "desc":"Timothy me fait entrer dans le hall lumineux, cherchant sa gouvernante et posant des questions tout le temps. 'Comment êtes-vous venu ici? Était-ce l'épave? Terrence! Terrence, va chercher des serviettes!'",
+        "reqs":{"introduction.rector.start":1,"soaked":1,"ability":1},
+        "aspects":{"befriending":1},
+              "warmup": 5,
+              "craftable":true,
+              "linked":[{"id": "setup.librarian.day","additional":true,"topath":"~/day"},
+              {"id":"act1start.dry.health.rectory"}]
+    },
+    {
+        "id": "act1start.acquaintance.rectory.hint",
+        "label": "Un Ecclésiastique Distrait?",
+        "actionid": "village.rectory.closed",
+        "startdescription": "La porte s’ouvre prudemment de quelques centimètres. 'Qui est là?… J'ai dis, qui est là?' [Un vent de tempête vous frappe, frappe la porte, secoue les arbres autour de la maison…]",
+        "reqs":{"introduction.rector.start":1},
+              "hintonly":true
+
+    },
+    {
+        "id": "act1start.acquaintance.denzil.start",
+        "label": "Une porte éclairée par le feu",
+        "actionid": "village.smithy.closed",
+        "startdescription": "Denzil se profile dans l'embrasure de la porte éclairée par le feu. 'Toi? Ici? Comment?'",
+        "desc": "J'entre dans la forge, enfin sorti du froid. Sans ajouter un mot, Denzil me tend une couverture et se met à attiser le feu: l'accueil le plus chaleureux dont il soit capable.",
+        "reqs":{"introduction.blacksmith.start":1,"soaked":1,"ability":1},
+        "aspects":{"befriending":1},
+              "warmup": 5,
+              "craftable":true,
+              "linked":[{"id": "setup.librarian.day","additional":true,"topath":"~/day"},
+              {"id":"act1start.dry.health.smithy"}]
+    },
+    {
+        "id": "act1start.acquaintance.denzil.start.hint",
+        "label": "Une porte éclairée par le feu?",
+        "actionid": "village.smithy.closed",
+        "startdescription": "Denzil apparaît dans l'embrasure de la porte lumineuse. [Un vent tempétueux vous tire tous les deux]",
+        "reqs":{"introduction.blacksmith.start":1},
+              "warmup": 5,
+              "hintonly":true
+
+    },
+    {
+        "id": "act1start.acquaintance.coffinmaker",
+        "label": "Refuge!",
+        "actionid": "village.killes.closed",
+        "startdescription": "Mr. Kille se débat avec la porte. Le vent l'arrache presque de ses mains. Ses yeux s'écarquillent lorsqu'il me voit.",
+        "desc":"Mr. Kille sourit comme le plus heureux des crânes. 'Entrez, entrez! À moins qu'i veut qu'on lui trouve une boîte à ça taille?' Et il m'entraîne dans la chaleur de l'arrière-salle, appelant Mme Kille à venir voir, à venir voir pour les secours.",
+        "reqs":{"introduction.coffinmaker.start":1,"soaked":1,"ability":1},
+        "aspects":{"befriending":1},
+              "warmup": 5,
+              "craftable":true,
+              "linked":[{"id": "setup.librarian.day","additional":true,"topath":"~/day"},
+              {"id":"act1start.dry.health.mrkille"}]
+    },
+    {
+        "id": "act1start.acquaintance.coffinmaker.hint",
+        "label": "Refuge?",
+        "actionid": "village.killes.closed",
+        "reqs":{"introduction.coffinmaker.start":1},
+        "startdescription": "Mr. Kille se débat avec la porte. Le vent l'arrache presque de ses mains. [Le vent de la tempête vous tire tous les deux]",
+             "hintonly":true
+    },
+    {
+        "id": "act1start.acquaintance.midwife",
+        "label": "Refuge!",
+        "actionid": "village.killes.closed",
+        "startdescription": "Mme Kille ouvre la porte avec précaution, mais l'ouvre en grand, laissant le vent la frapper lorsqu'elle me voit.",
+        "desc":"Mme Kille m'entraîne dans ses larges étreintes, elle me libère lorsqu'elle réalise à quel point je suis humide, puis appelle Mr. Kille et m'entraîne dans la chaleur de l'arrière-salle. 'Assieds-toi là et prends une lampée pour te réchauffer!', ordonne-t-elle sévèrement.",
+        "reqs":{"introduction.midwife.start":1,"soaked":1,"ability":1},
+        "aspects":{"befriending":1},
+              "warmup": 5,
+              "craftable":true,
+              "linked":[{"id": "setup.librarian.day","additional":true,"topath":"~/day"},
+
+              {"id":"act1start.dry.health.mrskille"}]
+    },
+    {
+        "id": "act1start.acquaintance.midwife.hint",
+        "label": "Refuge?",
+        "actionid": "village.killes.closed",
+        "startdescription": "Mme Kille se débat avec la porte. Le vent l'arrache presque de ses mains. [Le vent de la tempête vous tire tous les deux]",
+        "reqs":{"introduction.midwife.start":1},    
+              "hintonly":true
+    },
+
+    {
+        "id": "act1start.dry.health.rectory",
+        "label": "Réfugiez-vous au Presbytère",
+        "actionid": "village.rectory*",
+        "startdescription": "Le Révérend Timothy brasse de l'air minutieusement pendant que Terrence, la Gouvernante, s'occupe des détails pratiques. Elle me montre une pièce chauffée au sommet de la maison où un feu est déjà allumé.",
+        "desc": "Le Révérend Timothy est très ému de rencontrer son correspondant en personne. Je suis encore trop épuisé pour tenir la fin de la conversation, et Terrence n'est pas une femme bavarde, cependant le Révérend peut parler pour trois. Finalement, il se rend compte à quel point je suis épuisé et me laisse dormir.",
+        "reqs":{"soaked":1},
+        "aspects": {"drying":1,"fatiguing.ability":1},
+              "warmup": 30
+    },
+    
+    {
+        "id": "act1start.dry.health.smithy",
+        "label": "Réfugiez-vous à la forge",
+        "actionid": "village.smithy*",
+        "startdescription": "Denzil n'a qu'un seul lit, mais il peut m'offrir une paillasse à la forge. C'est enfumé, mais la chaleur est la bienvenue.",
+        "desc": "Denzil s'arrête à la porte pendant que je lui souhaite bonne nuit. 'Le soleil reviendra', observe-t-il. 'Comme toujours. On disait ça durant la guerre, n'est-ce pas?' Les mots s'attardent alors qu'il regroupe ses affaires pour créer de l'espace. La flamme de la lampe scintille en rouge, or, rouge.",
+        "reqs": {"soaked":1},
+        "aspects": {"drying":1,"fatiguing.ability":1},
+              "warmup": 30
+    },
+    
+    
+        {
+            "id": "act1start.dry.health.mrkille",
+            "label": "Mettez-vous à l'abri chez les Killes",
+            "actionid": "village.killes*",
+            "startdescription": "Mr. Kille a construit le lit lui-même - je crains que ce ne soit avec les mêmes outils que ceux utilisés pour façonner ses cercueils. Ce n'est pas un lit confortable. Mais c'est sec, propre et chaud.",
+            "desc": "Je m'assois pour discuter avec Mr. et Mme K, tandis que le vent fait trembler les volets et que le feu se fraye un chemin vers la braise. J'ai très faim et les galettes de Mme K sont incroyablement bonnes. Monsieur K fait semblant de se plaindre de la cuisine étrangère. Personne n'est dupe.",
+            "reqs": {"soaked":1},
+            "aspects": {"drying":1,"fatiguing.ability":1},
+                  "warmup": 30
+        },
+
+        {
+            "id": "act1start.dry.health.mrskille",
+            "label": "Mettez-vous à l'abri chez les Killes",
+            "actionid": "village.killes*",
+            "startdescription": "Monsieur K a construit le lit lui-même - je crains plutôt qu'il utilise les mêmes outils qu'il utilise pour façonner les cercueils. Ce n'est pas un lit confortable. Mais c'est sec, propre et chaud.",
+            "desc": "Mme K et moi restons debout tard pour discuter du bon vieux temps du Quartier Latin, lorsque le monde et nous étions très différents. Mr K écoute pendant qu'il nettoie sa pipe. 'Du vin et des roses', observe-t-il. 'Tout l'vin versé est passé m'ntenant, mais les roses vont r'surgir, n'est-ce pas?'",
+            "reqs": {"soaked":1},
+            "aspects": {"drying":1,"fatiguing.ability":1},
+                  "warmup": 30
+        },
+
+
+
+{
+    "id": "dry.thing.generic.rectory",
+    "label": "Faire sécher quelque chose au Presbytère",
+    "actionid": "village.rectory.open*",
+    "startdescription": "Le Révérend Timothy brasse de l'air minutieusement pendant que Terrence, la Gouvernante, s'occupe des détails pratiques.",
+    "desc": "Des vapeurs douces montent.",
+    "reqs":{"soaked":1,"thing":1},
+    "aspects": {"drying":1,"fatiguing.ability":1},
+          "warmup": 30
+},
+
+{
+    "id": "dry.thing.generic.smithy",
+    "label": "Sécher quelque chose à la forge",
+    "actionid": "village.smithy.open*",
+    "startdescription": "Denzil me permettra d'utiliser le feu de la forge - ce qui signifie que tout ce que je sèche sentira ensuite la fumée.",
+    "desc": "Des vapeurs douces montent.",
+    "reqs": {"soaked":1,"thing":1},
+    "aspects": {"dissipating":1,"fatiguing.ability":1},
+          "warmup": 30
+},
+
+
+    {
+        "id": "dry.thing.generic.killes",
+        "label": "Sécher quelque chose chez les Killes",
+        "actionid": "village.killes.open*",
+        "startdescription": "Je peux utiliser le feu dans l'arrière-salle des Killes.",
+        "desc": "Des vapeurs douces montent.",
+        "reqs": {"soaked":1,"thing":1},
+        "aspects": {"dissipating":1,"fatiguing.ability":1}
+    },
+
+    {
+            "id": "acquaintance.rectory",
+            "label": "Thé avec le Recteur",
+            "actionid": "village.rectory.closed",
+            "startdescription": "Une connaissance commune a poussé le Révérend Timothy, le Recteur, à m'inviter à prendre le thé. Il peut même y avoir des crumpets.",
+            "desc":"Le thé du Révérend Timothy refroidit tandis qu'il discute de la politique post-Restauration et théorise sur les traditions païennes des mineurs. [Le Presbytère est maintenant disponible]",
+            "reqs":{"introduction":1,"introduction.rector.start":-1},
+            "aspects":{"unlocking":1,"fatiguing":1},
+            "effects": {"mem.gossip":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+        {
+            "id": "acquaintance.denzil",
+            "label": "Une porte éclairée par le feu",
+            "actionid": "village.smithy.closed",
+            "startdescription": "Une connaissance commune me présentera Denzil le Forgeron. Je pourrais en tirer six ou même dix mots si je suis patient.",
+            "desc":"Denzil est une source surprenante de conseils pratiques. [La Forge est maintenant disponible]",
+            "reqs":{"introduction":1,"introduction.blacksmith.start":-1},
+            "effects": {"mem.foresight":1},
+            "aspects":{"unlocking":1,"fatiguing":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+        {
+            "id": "acquaintance.killes",
+            "label": "Berceaux et cercueils",
+            "actionid": "village.killes.closed",
+            "startdescription": "Une connaissance commune a incité les Kille à m'inviter à un souper de poisson. Si j'ai de la chance, 'souper de poisson' pourrait signifier les célèbres galettes de Mme Kille.",
+            "desc":"Mr. Kille me serre la main. 'Juste moi, toi et Mme ce soir! Bon… i'y a bien un client à l'arrière, mais si tu le déranges pas, il te dérangera pas.' [La maison Killes est maintenant disponible]",
+            "reqs":{"introduction":1,"introduction.coffinmaker.start":-1,"introduction.midwife.start":-1},
+            "aspects":{"unlocking":1,"fatiguing":1},
+            "effects":{"mem.satisfaction":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+        {
+            "id": "acquaintance.sweetbones.introduction",
+            "label": "Présentations",
+            "actionid": "village.sweetbones.closed",
+            "startdescription": "Je ne suis pas venu seul. @#assistance.rector|La présence du Révérend Timothy exige le respect.#assistance.coffinmaker|Mr. Kille répète une longue série de blagues éculées qui fait grommeler joyeusement tout le monde.#assistance.midwife|Mme Kille interroge un jeune hargneux sur la santé de sa mère et en frappe un autre à l'arrière de la tête lorsqu'elle le soupçonne de me regarder bizarrement. #assistance.blacksmith|Denzil ne dit pas un mot. Il s'assoit les bras croisés et attend que d'autres viennent lui rendre hommage à notre table. #|My companion makes introductions.@",
+            "desc":"Finalement, les autres clients se détendent suffisamment pour me laisser leur acheter une pinte et me laisser les écouter se plaindre du temps. Je trouverai un accueil plus chaleureux ici la prochaine fois.",
+            "reqs":{"assistance":1},
+            "effects":{"assistance":-1,"mem.solace":1},
+            "aspects":{"unlocking":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+        {
+            "id": "acquaintance.sweetbones.buy",
+            "label": "Un accueil prudent à l'auberge",
+            "actionid": "village.sweetbones.closed",
+            "startdescription": "À l’époque de l’Heptarchie, celui qui donne l’anneau était considéré comme généreux. Dans ce siècle brillant et civilisé, un acheteur de bière bénéficie du même respect.",
+            "desc":"J'en ai acheté une pour tout le monde. Et un autre. Et un de plus pour la chance. Et c'est ainsi que j'étais considéré comme 'pas si mal pour un étranger'. Je trouverai un accueil plus chaleureux ici la prochaine fois.",
+            "extantreqs":{"introduction.rector.start":-1,"introduction.blacksmith.start":-1,"introduction.coffinmaker.start":-1,"introduction.midwife.start":-1},
+            "reqs":{"pence":12},
+            "effects":{"pence":-12,"mem.solace":1},
+            "aspects":{"unlocking":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+
+        {
+            "id": "acquaintance.sweetbones.mettle",
+            "label": "Force de Personnalité",
+            "actionid": "village.sweetbones.closed",
+            "extantreqs":{"introduction.rector.start":-1,"introduction.blacksmith.start":-1,"introduction.coffinmaker.start":-1,"introduction.midwife.start":-1},
+            "startdescription": "Je ne pars pas. Ils ne sont pas obligés de m'<i>aimer</i>.",
+            "desc":"Finalement, les autres clients se sont suffisamment détendus pour me laisser leur acheter une pinte et me laisser les écouter se plaindre du temps. Je trouverai un accueil plus chaleureux ici la prochaine fois.",
+            "reqs":{"xmet":1},
+            "effects":{"mem.solace":1},
+            "aspects":{"unlocking":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+        {
+            "id": "acquaintance.sweetbones.chor",
+            "label": "Gardez le sourire",
+            "actionid": "village.sweetbones.closed",
+            "extantreqs":{"introduction.rector.start":-1,"introduction.blacksmith.start":-1,"introduction.coffinmaker.start":-1,"introduction.midwife.start":-1},
+            "startdescription": "J'ai appris qu'un enthousiasme honnête est un solvant pour l'humeur maussade.",
+            "desc":"Finalement, les autres clients se sont suffisamment détendus pour me laisser leur acheter une pinte et me laisser les écouter se plaindre du temps. Je trouverai un accueil plus chaleureux ici la prochaine fois.",
+            "reqs":{"xcho":1},
+            "effects":{"mem.solace":1},
+            "aspects":{"unlocking":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+        {
+            "id": "acquaintance.sweetbones.shapt",
+            "label": "Une langue d'argent",
+            "actionid": "village.sweetbones.closed",
+            "extantreqs":{"introduction.rector.start":-1,"introduction.blacksmith.start":-1,"introduction.coffinmaker.start":-1,"introduction.midwife.start":-1},
+            "startdescription": "Un public exigeant. J'ai charmé Avec ardeur.",
+            "desc":"Finalement, les autres clients se sont suffisamment détendus pour me laisser leur acheter une pinte et me laisser les écouter se plaindre du temps. Je trouverai un accueil plus chaleureux ici la prochaine fois.",
+            "reqs":{"xsha":1},
+            "effects":{"mem.solace":1},
+            "aspects":{"unlocking":1},
+                  "warmup": 10,
+                  "craftable":true
+        },
+        {
+            "id": "acquaintance.sweetbones.notyet.ability.hint",
+            "label": "Aucune Chambre dans l'Hôtel?",
+            "actionid": "village.sweetbones.closed",
+            "startdescription": "Le Sweet Bones est fermé et barricadé contre la tempête… et contre les visiteurs indésirables. Il doit y avoir quelque part dans le village qui puisse m'abriter.",
+            "reqs":{"ability":1},
+            "hintonly":true
+        },
+        {
+            "id": "acquaintance.sweetbones.notyet.money.hint",
+            "label": "Aucune Chambre dans l'Hôtel?",
+            "actionid": "village.sweetbones.closed",
+            "startdescription": "Le Sweet Bones est fermé et barricadé contre la tempête… et contre les visiteurs indésirables. Il doit y avoir quelque part dans le village qui puisse m'abriter.",
+            "reqs":{"pence":1},
+            "hintonly":true
+        },
+
+
+
+{"id": "postoffice.open",
+"label": "Quelque chose pour moi?",
+"actionid": "village.postoffice.closed",
+"startdescription": "La Maîtresse des Postes me regarde avec le regard froid d’une image de déesse dans un ancien sanctuaire sur une colline. 'Le Bibliothécaire', dit-elle, 'Oui. J'ai quelque chose pour vous. Attendez ici, s'il vous plaît.'",
+"desc":"La Maîtresse des Postes revient avec une enveloppe adressée à 'Bibliothécaire, Hush House, Brancrug Isle' - oblitéré au Pays de Galles il y a une semaine.",
+"effects":{"letter.rhonwen.act1":1,"tenshillingnote":1},
+"comments":"fx below as belt-and-braces just in case they somehow didn't trigger earlier.",
+"fx":{"ui_wisdoms_or_world.show":1,"ui_watcher_buttons.show":1},
+"reqs":{"journal":1,"soaked":-1,"readable":1},
+"aspects":{"unlocking":1},
+"warmup":10,
+"craftable":true},
+
+{"id": "postoffice.letter.send",
+"label": "Un Timbre marqué du Roi",
+"actionid": "village.postoffice.open",
+"startdescription": "Timbre, enveloppe, envoie!",
+"desc": "La Maîtresse des Postes examine la lettre et la juge suffisante. 'Ça ira avec la prochaine levée du courrier', m'assure-t-elle.",
+"reqs": {"post.ready":1,"pence":1,"cost.pence":-1,"invitation":-1},
+"extantreqs":{"season.numa":-1},
+"aspects":{"posting":1},
+"effects":{"pence":-1},
+"warmup":5,
+"linked":[{"id": "postoffice.delivery","topath":"~/incidents.offstage","outputpath":"^", "expulsion": {"limit": 99,"filter": {"post.ready": 1}},"additional":true}],
+"craftable":true
+},
+
+{"id": "postoffice.invitation.send",
+"label": "Envoyer une Invitation à un Visiteur",
+"actionid": "village.postoffice.open",
+"startdescription": "Tampon, enveloppe, envoi !",
+"desc": "La Maîtresse des Postes examine la lettre et la déclare conforme. 'Ça partira avec le prochain envoi' m'assure-t-elle.",
+"reqs": {"post.ready":1,"pence":1,"cost.pence":-1,"invitation":1},
+"extantreqs":{"season.numa":-1},
+"aspects":{"posting":1},
+"effects":{"pence":-1},
+"warmup":5,
+"linked":[{"id": "postoffice.invitation.send.*","topath":"~/arrivalverbs","expulsion": {"limit": 99,"filter": {"invitation": 1}},"additional":true}],
+"craftable":true
+},
+
+{"id": "postoffice.letter.send.occult",
+"label": "Un Sceau marqué d'un Oiseau",
+"actionid": "village.postoffice.open",
+"startdescription": "'Par un courrier des Cieux Inférieures?'",
+"desc": "La Maîtresse des Postes accepte le message, pèse les Spintriae, les trouve tous deux suffisants. 'Je ne garantis rien', me dit-elle.",
+"reqs": {"post.ready":1,"tally":3,"cost.tally":-1},
+"extantreqs":{"season.numa":-1},
+"aspects":{"posting":1},
+"effects":{"tally":-3},
+"warmup":5,
+"linked":[{"id": "postoffice.delivery","topath":"~/incidents.offstage","outputpath":"^", "expulsion": {"limit": 99,"filter": {"post.ready": 1}},"additional":true}],
+"craftable":true
+},
+
+
+
+
+{"id": "postoffice.break.spintria.gold",
+"label": "Vendre un Spintria d'or",
+"actionid": "village.postoffice.open",
+"startdescription": "Les spintriae n’ont pas cours légal. Mais aucune loi n’empêche La Maîtresse des Postes de me les acheter. Peut-être qu'elle les collectionne. [Cela vaut deux Pounds]",
+"desc": "La Maîtresse des Postes scrute la surface du spintria. 'Une noble entreprise', remarque-t-elle. Elle me tend deux billets d’une Pound froissés.",
+"reqs": {"spintria.gold":1},
+"extantreqs":{"season.numa":-1},
+"effects":{"spintria.gold":-1,"poundnote":2},
+"warmup":5,
+"craftable":true},
+
+{"id": "postoffice.break.spintria.silver",
+"label": "Vendre un Spintria d'argent",
+"actionid": "village.postoffice.open",
+"startdescription": "Les spintriae n’ont pas cours légal. Mais aucune loi n’empêche La Maîtresse des Postes de me les acheter. Peut-être qu'elle les collectionne. [Cela vaut une Pound et dix shillings]",
+"desc": "La Maîtresse des Postes scrute la surface du spintria. Est-ce qu'elle sourit? Elle ne dit rien, me remet seulement le paiement.",
+"reqs": {"spintria.silver":1},
+"extantreqs":{"season.numa":-1},
+"effects":{"spintria.silver":-1,"poundnote":1,"tenshillingnote":1},
+"warmup":5,
+"craftable":true},
+
+
+{"id": "postoffice.break.spintria.tin",
+"label": "Vendre un Spintria d'étain",
+"actionid": "village.postoffice.open",
+"startdescription": "Les spintriae n’ont pas cours légal. Mais aucune loi n’empêche La Maîtresse des Postes de me les acheter. Peut-être qu'elle les collectionne. [Cela vaut une Pound]",
+"desc": "La Maîtresse des Postes examine le dessin du spintria. Elle soupire. 'C'est pour cela que le roi est venu ici, dit-elle doucement, il y a si longtemps. Mais ce n'était pas suffisant.' Elle me tend un billet d'une Pound.",
+"reqs": {"spintria.tin":1},
+"extantreqs":{"season.numa":-1},
+"effects":{"spintria.tin":-1,"poundnote":1},
+"warmup":5,
+"craftable":true},
+
+
+{"id": "postoffice.break.spintria.bronze",
+"label": "Vendre un Spintria de bronze",
+"actionid": "village.postoffice.open",
+"startdescription": "Les spintriae n’ont pas cours légal. Mais aucune loi n’empêche La Maîtresse des Postes de me les acheter. Peut-être qu'elle les collectionne. [Cela vaut dix shillings]",
+"desc": "La Maîtresse des Postes examine le dessin du spintria. 'Le feu réchauffe', dit-elle doucement, 'la nuit se termine'. Elle me tend un billet de dix shillings.",
+"reqs": {"spintria.bronze":1},
+"extantreqs":{"season.numa":-1},
+"effects":{"spintria.bronze":-1,"tenshillingnote":1},
+"warmup":5,
+"craftable":true},
+
+
+{"id": "postoffice.break.spintria.iron",
+"label": "Vendre un Spintria de fer",
+"actionid": "village.postoffice.open",
+"startdescription": "Les spintriae n’ont pas cours légal. Mais aucune loi n’empêche la Maîtresse des Postes de me les acheter. Peut-être qu'elle les collectionne. [Cela vaut cinq shillings]",
+"desc": "La Maîtresse des Postes examine le dessin du spintria. 'Et on dit que la <i>parole</i> est une épée', remarque-t-elle. Elle me tend une pièce.",
+"reqs": {"spintria.iron":1},
+"extantreqs":{"season.numa":-1},
+"effects":{"spintria.iron":-1,"crown":1},
+"warmup":5,
+"craftable":true},
+
+
+
+{"id": "postoffice.break.sevenpoundnote",
+"label": "Casser un billet de sept Pounds",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée.",
+"desc": "Trois billets moindres. 'Ainsi l'équilibre est maintenu.'",
+"reqs": {"sevenpoundnote":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"fivepoundnote":1,"poundnote":2,"sevenpoundnote":-1},
+"craftable":true},
+
+{"id": "postoffice.break.fivepoundnote",
+"label": "Casser un billet de cinq Pounds",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée.",
+"desc": "Quatre petits billets et une poignée de grand-frère et de petit-frère monnaie. 'Ainsi l'équilibre est maintenu.'",
+"reqs": {"fivepoundnote":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"fivepoundnote":-1,"poundnote":4,"tenshillingnote":1,"crown":1,"halfcrown":1,"florin":1,"sixpence":1},
+"craftable":true},
+
+
+{"id": "postoffice.break.onepoundnote",
+"label": "Casser un billet d'une Pound",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée.",
+"desc": "Un billet d’une Pound échangé contre une poignée de pièces de moindre valeur. 'Ainsi, l'équilibre est maintenu.'",
+"reqs": {"poundnote":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"tenshillingnote":1,"crown":1,"halfcrown":1,"florin":1,"sixpence":1,"poundnote":-1},
+"craftable":true},
+
+{"id": "postoffice.break.tenshillingnote",
+"label": "Casser un billet de dix shillings",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée.",
+"desc": "Dix shillings, désincarnés en pièces de moindre importance.",
+"reqs": {"tenshillingnote":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"crown":1,"halfcrown":1,"florin":1,"sixpence":1,"tenshillingnote":-1},
+"craftable":true},
+
+{"id": "postoffice.break.crown",
+"label": "Briser une couronne",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée.",
+"desc": "Une couronne brisée en un discret arc-en-ciel d’argent.",
+"reqs": {"crown":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"halfcrown":1,"florin":1,"sixpence":1,"crown":-1},
+"craftable":true},
+
+{"id": "postoffice.break.halfcrown",
+"label": "Casser une demi-couronne",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée.",
+"desc": "Un pédant ou un poète pourrait suggérer qu’une demi-couronne ne peut jamais avoir été entière et qu’elle ne peut donc pas être brisée. Cependant, ils ne le suggéreraient pas à la Maîtresse des Postes, encore que…",
+"reqs": {"halfcrown":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"florin":1,"sixpence":1,"halfcrown":-1},
+"craftable":true},
+
+{"id": "postoffice.break.florin",
+"label": "Casser un Florin",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée.",
+"desc": "Je cède le florin et reçois une poignée indisciplinée de pièces de moindre importance",
+"reqs": {"florin":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"shilling":1,"sixpence":1,"threepence":1,"twopence":1,"penny":1,"florin":-1},
+"craftable":true},
+
+{"id": "postoffice.break.shilling",
+"label": "Casser un shilling",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes acceptera l'offrande et me remettra la monnaie appropriée. (C'est la plus petite pièce qu'elle daignera changer.)",
+"desc": "Abandonnez l’argent, récupérez le cuivre.",
+"reqs": {"shilling":1},
+"extantreqs":{"season.numa":-1},
+"warmup":5,
+"effects":{"sixpence":1,"threepence":1,"twopence":1,"penny":1,"shilling":-1},
+"craftable":true},
+
+
+{"id": "postoffice.break.hint",
+"label": "Trop petite pièce",
+"actionid": "village.postoffice.open",
+"startdescription": "La Maîtresse des Postes transformera une monnaie plus importante en monnaie, mais ne tentez pas sa colère avec une pièce aussi mesquine et aussi petite que celle-ci.",
+"reqs": {"pence":1},
+"extantreqs":{"season.numa":-1},
+"hintonly":true},
+
+
+{"id": "postoffice.mailorder.send.hint",
+"label": "",
+"actionid": "village.postoffice.open",
+"startdescription": "Patience. Ainsi la montagne attend la chute de la neige ; ainsi lundi attend la mort du week-end ; la Maîtresse des Postes attend donc que j'achète le timbre nécessaire.",
+"reqs": {"post.ready":1,"pence":-1},
+"extantreqs":{"season.numa":-1},
+"hintonly":true
+},
+
+{"id":"postoffice.numa.hint",
+"actionid":"village.postoffice.open",
+"label":"Brume et Silence",
+"startdescription":"La ligne télégraphique crépite. La brume monte et recule. De loin - ce pourrait être les collines au-dessus du village - j'entends la voix de la Maîtresse des Postes, des cris, des imprécations et des lamentations, en langue Cornique. Mais il n'y a aucun signe d'elle ici. Numa.",
+"extantreqs":{"season.numa":1},
+"hintonly":true},
+
+
+{"id": "postoffice.delivery",
+"label": "La Poste",
+"actionid": "postoffice.delivery",
+"startdescription": "En cours d'acheminement!",
+"comments":"Some thought needed to balance delivery time with crossed post / player confusion",
+"aspects":{"delivering":1},
+"warmup":1},
+
+{"id": "postoffice.invitation.send.agdistis","reqs":{"letter.summon.agdistis":1},"label": "Agdistis arrive?", "startdescription":"Agdistis a-t-il reçu mon invitation?","actionid": "visitor.agdistis","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"agdistis":1,"embarking_agdistis":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.aladim", "reqs":{"letter.summon.aladim":1},"label": "al-Adim arrive?", "startdescription":"Dr Ibn al-Adim a-t-il reçu mon invitation?","actionid": "visitor.aladim","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"aladim":1,"embarking_aladim":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.arthur", "reqs":{"letter.summon.arthur":1},"label": "Arthur Moore arrive?", "startdescription":"Lt Arthur T. Moore (Ret.) a-t-il reçu mon invitation?","actionid": "visitor.arthur","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"arthur":1,"embarking_arthur":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.arun", "reqs":{"letter.summon.arun":1},"label": "Peel arrive?", "startdescription":"Dr Arun Peel a-t-il reçu mon invitation?","actionid": "visitor.arun","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"arun":1,"embarking_arun":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+
+{"id": "postoffice.invitation.send.azita", "reqs":{"letter.summon.azita":1},"label": "Azita arrive?", "startdescription":"Azita a-t-elle reçu mon invitation?","actionid": "visitor.azita","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"azita":1,"embarking_azita":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.chaima", "reqs":{"letter.summon.chaima":1},"label": "Chaima arrive?", "startdescription":"Chaima a-t-elle reçu mon invitation?","actionid": "visitor.chaima","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"chaima":1,"embarking_chaima":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.connie", "reqs":{"letter.summon.connie":1},"label": "Connie arrive?", "startdescription":"Connie a-t-elle reçu mon invitation?","actionid": "visitor.connie","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"connie":1,"embarking_connie":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.coquille", "reqs":{"letter.summon.coquille":1},"label": "Coquille arrive?", "startdescription":"Coquille a-t-elle reçu mon invitation?","actionid": "visitor.coquille","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"coquille":1,"embarking_coquille":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.corso", "reqs":{"letter.summon.corso":1},"label": "Corso arrive?", "startdescription":"Sr. Corso Reverte a-t-il reçu mon invitation?","actionid": "visitor.corso","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"corso":1,"embarking_corso":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.dagmar", "reqs":{"letter.summon.dagmar":1},"label": "Daymare arrive?", "startdescription":"Daymare a-t-elle reçu mon invitation?","actionid": "visitor.dagmar","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"dagmar":1,"embarking_dagmar":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.douglas", "reqs":{"letter.summon.douglas":1},"label": "Douglas Moore arrive?", "startdescription":"DI Douglas Moore a-t-il reçu mon invitation?","actionid": "visitor.douglas","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"douglas":1,"embarking_douglas":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.ehsan", "reqs":{"letter.summon.ehsan":1},"label": "Ehsan arrive?", "startdescription":"Ehsan a-t-il reçu mon invitation?","actionid": "visitor.ehsan","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"ehsan":1,"embarking_ehsan":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+
+{"id": "postoffice.invitation.send.fraser", "reqs":{"letter.summon.fraser":1},"label": "Strathcoyne arrive?", "startdescription":"Strathcoyne a-t-il reçu mon invitation?","actionid": "visitor.fraser","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"fraser":1,"embarking_fraser":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.hokobald", "reqs":{"letter.summon.hokobald":1},"label": "Hokobald arrive?", "startdescription":"Maître Hokobald a-t-il reçu mon invitation?","actionid": "visitor.hokobald","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"hokobald":1,"embarking_hokobald":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+
+{"id": "postoffice.invitation.send.morgen", "reqs":{"letter.summon.morgen":1},"label": "Morgen arrive?", "startdescription":"Morgen a-t-elle reçu mon invitation?","actionid": "visitor.morgen","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"morgen":1,"embarking_morgen":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.olympe", "reqs":{"letter.summon.olympe":1},"label": "Olympe arrive?", "startdescription":"Olympe a-t-elle reçu mon invitation?","actionid": "visitor.olympe","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"olympe":1,"embarking_olympe":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+
+{"id": "postoffice.invitation.send.serena", "reqs":{"letter.summon.serena":1},"label": "Serena arrive?", "startdescription":"Dr Serena Blackwood a-t-elle reçu mon invitation?","actionid": "visitor.serena","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"serena":1,"embarking_serena":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.stanislav", "reqs":{"letter.summon.stanislav":1},"label": "Stanislav arrive?", "startdescription":"Père Stanislav a-t-il reçu mon invitation?","actionid": "visitor.stanislav","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"stanislav":1,"embarking_stanislav":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.yvette", "reqs":{"letter.summon.yvette":1},"label": "Yvette arrive?", "startdescription":"Dr Yvette Southey a-t-elle reçu mon invitation?","actionid": "visitor.yvette","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"yvette":1,"embarking_yvette":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+{"id": "postoffice.invitation.send.zachary", "reqs":{"letter.summon.zachary":1},"label": "Zachary arrive?", "startdescription":"Zachary a-t-il reçu mon invitation?","actionid": "visitor.zachary","aspects":{"arriving":1},"warmup":60,"slots": [{   "id": "v",     "required":{"zachary":1,"embarking_zachary":1},  "greedy":true,      "frompath":"~/visitors.offstage"    }],"effects":{"invitation":-1}},
+
+{
+    "id": "chat.smithy.block",
+    "label": "Denzil est absent",
+    "actionid": "village.smithy.open*",
+    "startdescription": "Le forgeron est absent… pour des affaires de Bibliothécaires. Mais je le savais déjà, n'est-ce pas?",
+    "reqs": {"ability":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.blacksmith":1},
+    "hintonly":true
+},
+
+{
+    "id": "chat.rectory.block",
+    "label": "Le Révérend Timothy est absent",
+    "actionid": "village.rectory.open*",
+    "startdescription": "Le Révérend Timothy est absent… pour des affaires de Bibliothécaires. Mais je le savais déjà, n'est-ce pas?",
+    "reqs": {"ability":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.rector":1},
+   "hintonly":true
+},
+
+{
+    "id": "chat.mrs.k.block",
+    "label": "Mme Kille est absent",
+    "actionid": "village.killes.open*",
+    "startdescription": "Mme Kille est absent… pour des affaires de Bibliothécaires. Mais je le savais déjà, n'est-ce pas?",
+    "reqs": {"ability":1,"grail":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.midwife":1},
+    "hintonly":true
+},
+{
+    "id": "chat.mr.k.block",
+    "label": "Mr. Kille est absent",
+    "actionid": "village.killes.open*",
+    "startdescription": "Mr. Kille est absent… pour des affaires de Bibliothécaires. Mais je le savais déjà, n'est-ce pas?",
+    "reqs": {"ability":1,"winter":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.coffinmaker":1},
+    "hintonly":true
+},
+
+{
+    "id": "chat.rectory.friend",
+    "label": "Parlez au Révérend Timothy",
+    "actionid": "village.rectory.open.friend",
+    "startdescription": "La porte du Révérend Timothy m'est toujours ouverte. [Timothy offrira son aide gratuitement, en tant qu'ami]",
+    "desc": "'Toujours un plaisir.'",
+    "reqs": {"ability":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.rector":-1},
+    "aspects": {"fatiguing":1},
+    "slots":[{"id":"topic",
+    "label":"Sujet",
+    "description":"Demandez au Révérend Timothy quelque chose de spécifique ; ou laissez l’emplacement vide pour attendre qu'il ait terminé sa correspondance et prêté son aide.",
+    "required":{"soaked":1,"wc.markeraspect":1}}],
+          "warmup": 10,
+          "craftable":true,
+          "alt": [ {"id":"dry.book.rectory"},
+            {"id":"dry.thing.generic.rectory"},
+            {"id":"village.invite.timothy*"},            
+          {"id":"recruit.rectory.friend"}]
+},
+{
+    "id": "chat.smithy.friend",
+    "label": "Parler à Denzil",
+    "actionid": "village.smithy.open.friend",
+    "startdescription": "Je suis toujours bienvenue à la forge de Denzil. [Denzil offrira son aide gratuitement, en tant qu'ami. Si vous lui donnez de la monnaie occulte, il effectuera le Service de Division]",
+    "desc": "'…'",
+    "reqs": {"ability":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.blacksmith":-1},
+    "slots":[{"id":"topic",
+    "label":"Sujet",
+    "description":"[Demandez à Denzil quelque chose de spécifique ; ou laissez l’emplacement vide pour attendre qu'il finisse à son enclume et vous prête son aide]",
+    "required":{"soaked":1,"tally":1,"wc.markeraspect":1}}],
+          "warmup": 10,
+          "craftable":true,
+          "alt": [ {"id":"dry.book.smithy"},          
+          {"id":"split.spintria.smithy.*"},
+          {"id":"dry.thing.generic.smithy"},
+          {"id":"village.invite.denzil*"},
+        {"id":"recruit.smithy.friend"}]
+},
+{
+    "id": "chat.mr.k.friend",
+    "label": "Parlez à Mr. Kille",
+    "actionid": "village.killes.open.friend",
+    "startdescription": "Mr. Kille apprécie toujours les occasions de me rejoindre. [Si vous ne choisissez pas de sujet, Mr. Kille vous proposera son aide, en tant qu'ami]",
+    "desc": "'On y vas, hein?'",
+    "reqs": {"ability":1,"winter":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.coffinmaker":-1},
+    "slots":[{"id":"topic",
+    "label":"Sujet",
+    "description":"Demandez à Mr. Kille quelque chose de spécifique ; ou laissez l’emplacement vide pour attendre qu'il ait fini avec son marteau et prête son aide.",
+    "required":{"soaked":1,"wc.markeraspect":1}}],
+          "warmup": 10,
+          "craftable":true,
+          "alt": [ {"id":"dry.book.killes"},
+            {"id":"dry.thing.generic.killes"},
+            {"id":"village.invite.killes*"},               
+          {"id":"recruit.mr.k.friend"}]
+},
+{
+    "id": "chat.mrs.k.friend",
+    "label": "Parlez à Mme Kille",
+    "actionid": "village.killes.open.friend",
+    "startdescription": "L'humeur de Mme Kille s'améliore toujours lorsque je passe. [Si vous ne choisissez pas de sujet, Mme Kille vous proposera son aide, en tant qu'amie]",
+    "desc": "'Eh bien, on ne peut pas enlever les plumes d'un crapaud.'",
+    "reqs": {"ability":1,"grail":1},
+    "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.midwife":-1},
+    "slots":[{"id":"topic",
+    "label":"Sujet",
+    "description":"Demandez à Mme Kille quelque chose de spécifique ; ou laissez l’emplacement vide pour attendre qu'elle soit libre et puisse vous apporter son aide.",
+    "required":{"soaked":1,"wc.markeraspect":1}}],
+          "warmup": 10,
+          "craftable":true,
+          "alt": [{"id":"dry.book.killes"},
+            {"id":"dry.thing.generic.killes"},                    
+            {"id":"village.invite.killes*"},
+          {"id":"recruit.mrs.k.friend"}
+       ]
+},
+
+        {
+            "id": "chat.rectory",
+            "label": "Parlez au Révérend Timothy",
+            "actionid": "village.rectory.open",
+            "startdescription": "Le Révérend Timothy aime les conversations réfléchies, la prière et le thé. Et il offrira son aide en échange d'un don d'un shilling aux fonds de l'église.",
+            "desc": "'Toujours un plaisir.'",
+            "reqs": {"ability":1},
+            "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.rector":-1},
+            "slots":[{"id":"topic",
+            "label":"Sujet",
+            "description":"Demandez au Révérend Timothy quelque chose de spécifique ; ou lui proposer de payer pour son aide.",
+            "required":{"soaked":1,"pence":12,"wc.markeraspect":1}}],
+                  "warmup": 10,
+                  "craftable":true,
+                  "alt": [ {"id":"dry.book.rectory"},
+                    {"id":"dry.thing.generic.rectory"},
+                    {"id":"village.invite.timothy*"},              
+                  {"id":"recruit.rectory"},
+                  {"id":"hint.recruit.12.rectory"}]
+        },
+        {
+            "id": "chat.smithy",
+            "label": "Parler à Denzil",
+            "actionid": "village.smithy.open",
+            "startdescription": "Denzil parlera de questions pratiques, même s'il préfère rester silencieux. Un shilling lui permettra d'acheter son aide pour une journée. [Si vous lui donnez de la monnaie occulte, il effectuera à la place le Service de Division]",
+            "desc": "'…'",
+            "reqs": {"ability":1},
+            "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.blacksmith":-1},
+            "slots":[{"id":"topic",
+            "label":"Sujet",
+            "description":"Demandez à Denzil quelque chose de spécifique ; ou lui proposer de payer pour son aide.",
+            "required":{"soaked":1,"pence":12,"tally":1,"wc.markeraspect":1}}],
+                  "warmup": 10,
+                  "craftable":true,
+                  "alt": [ {"id":"dry.book.smithy"},
+                  {"id":"dry.thing.generic.smithy"},
+                  {"id":"split.spintria.smithy.*"},
+                {"id":"recruit.smithy"},                
+                {"id":"village.invite.denzil*"},                
+                {"id":"hint.recruit.12"}]
+        },
+        {
+            "id": "chat.mr.k",
+            "label": "Parlez à Mr. Kille",
+            "actionid": "village.killes.open",
+            "startdescription": "Mr. Kille aime les conversations sur les fins. (Sa femme préfère parler des débuts) Un shilling lui permettra d'acheter son aide pour une journée.",
+            "desc": "'On y vas, hein?'",
+            "reqs": {"ability":1,"winter":1},
+            "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.coffinmaker":-1},
+            "slots":[{"id":"topic",
+            "label":"Sujet",
+            "description":"Demandez à Mr. Kille quelque chose de spécifique ; ou lui proposer de payer pour son aide.",
+            "required":{"soaked":1,"pence":12,"wc.markeraspect":1}}],
+                  "warmup": 10,
+                  "craftable":true,
+                  "alt": [ {"id":"dry.book.killes"},
+                    {"id":"dry.thing.generic.killes"},                   
+                    {"id":"village.invite.killes*"},
+                    {"id":"recruit.mr.k"},
+                  {"id":"hint.recruit.12"}]
+        },
+        {
+            "id": "chat.mrs.k",
+            "label": "Parlez à Mme Kille",
+            "actionid": "village.killes.open",
+            "startdescription": "Mme Kille aime les conversations sur les débuts. (Son mari préfère parler de fins.) Un shilling lui permettra d'acheter de l'aide pour une journée.",
+            "desc": "'Eh bien, on ne peut pas enlever les plumes d'un crapaud.'",
+            "reqs": {"ability":1,"grail":1},
+            "extantreqs":{"sleepytime":-1,"season.numa":-1,"assistance.midwife":-1},
+            "slots":[{"id":"topic",
+            "label":"Sujet",
+            "description":"Demandez à Mme Kille quelque chose de spécifique ; ou proposez-lui de payer pour son aide.",
+            "required":{"soaked":1,"pence":12,"wc.markeraspect":1}}],
+                  "warmup": 10,
+                  "craftable":true,
+                  "alt": [  {"id":"dry.book.killes"},
+                    {"id":"dry.thing.generic.killes"},
+                    {"id":"village.invite.killes*"},                    
+                  {"id":"recruit.mrs.k"},                  
+                  {"id":"hint.recruit.12"}]
+        },
+        {
+            "id": "dry.book.smithy",
+            "label": "Sécher un livre",
+            "actionid": "village.smithy.open*",
+            "startdescription": "Denzil regarde avec un intérêt sérieux pendant que je sèche le livre dans la chaleur du feu de sa forge. Il fournit des tampons de coton à mettre entre les pages, mais sinon il garde ses distances. Il se méfie de l'écrit. Je commence à soupçonner qu'il ne sait pas lire. Je ne m'attends pas à ce qu'il me le dise un jour.",
+            "reqs": {"readable":1,"soaked":1},
+            "aspects": {"drying":1,"fatiguing":1},
+                  "warmup": 60,
+                  "linked":[{"id":"dry.journal.generic.start.*"}],
+                  "craftable":true
+        },
+
+        {
+            "id": "split.spintria.smithy.gold",
+            "label": "Diviser l'Or",
+            "actionid": "village.smithy.open*",
+            "startdescription": "Depuis l'époque de la Curie, les forgerons de Brancrug accomplissent pour eux le 'Service de Division'. [Cela brisera votre spintria en une monnaie plus gérable]",
+            "desc":"Denzil me fait sortir silencieusement de la pièce pendant qu'il fait son travail. Je n'entends pas le bruit de son marteau ; peut-être qu'il ne garde qu'une cache secrète de spintria. Mais quand il vient me remettre les pièces, elles sont presque trop chaudes pour être touchées.",
+            "reqs": {"spintria.gold":1},
+            "aspects":{"fatiguing.ability":1},
+            "effects":{"spintria.gold":-1,"spintria.silver":1,"spintria.iron":1},
+                  "warmup": 60,
+                  "craftable":true
+        },
+
+        {
+            "id": "split.spintria.smithy.silver",
+            "label": "Diviser l'Argent",
+            "actionid": "village.smithy.open*",
+            "startdescription": "Depuis l'époque de la Curie, les forgerons de Brancrug accomplissent pour eux le 'Service de Division'. [Cela brisera votre spintria en une monnaie plus gérable]",
+            "desc":"Denzil me fait sortir silencieusement de la pièce pendant qu'il fait son travail. Je n'entends pas le bruit de son marteau ; peut-être qu'il ne garde qu'une cache secrète de spintria. Mais quand il vient me remettre les pièces, elles sont presque trop chaudes pour être touchées.",
+            "reqs": {"spintria.silver":1},
+            "aspects":{"fatiguing.ability":1},
+            "effects":{"spintria.silver":-1,"spintria.tin":1,"spintria.iron":1},
+                  "craftable":true
+        },
+
+        {
+            "id": "split.spintria.smithy.tin",
+            "label": "Diviser l'Étain",
+            "actionid": "village.smithy.open*",
+            "startdescription": "Depuis l'époque de la Curie, les forgerons de Brancrug accomplissent pour eux le 'Service de Division'. [Cela brisera votre spintria en une monnaie plus gérable]",   
+            "desc":"Denzil me fait sortir silencieusement de la pièce pendant qu'il fait son travail. Il y a un bref son - une sorte de cri crépitant de joie ou de douleur - qui semble venir de l'intérieur de la forge - mais lorsque j'écoute, il ne se répète pas. Lorsque Denzil vient me remettre les pièces, elles sont presque trop chaudes pour être touchées.",
+            "reqs": {"spintria.tin":1},
+            "aspects":{"fatiguing.ability":1},
+            "effects":{"spintria.tin":-1,"spintria.bronze":1,"spintria.iron":1},
+                  "craftable":true
+        },
+        {
+            "id": "split.spintria.smithy.bronze",
+            "label": "Diviser le Bronze",
+            "actionid": "village.smithy.open*",
+            "startdescription": "Depuis l'époque de la Curie, les forgerons de Brancrug accomplissent pour eux le 'Service de Division'. [Cela brisera votre spintria en une monnaie plus gérable]",
+            "desc":"Denzil me fait sortir silencieusement de la pièce pendant qu'il fait son travail. Je n'entends pas le bruit de son marteau ; peut-être qu'il ne garde qu'une cache secrète de spintria. Mais quand il vient me remettre les pièces, elles sont presque trop chaudes pour être touchées.",
+            "reqs": {"spintria.bronze":1},
+            "aspects":{"fatiguing.ability":1},
+            "effects":{"spintria.bronze":-1,"spintria.iron":2},
+                  "craftable":true
+        },
+
+        {
+            "id": "split.spintria.smithy.iron",
+            "label": "'Le fer, c'est le fer'",
+            "actionid": "village.smithy.open*",
+            "startdescription": "Depuis l'époque de la Curie, les forgerons de Brancrug effectuent le 'service de division' pour le Bibliothécaire. Mais Denzil se contente de secouer la tête. 'Le fer, c'est le fer' c'est tout ce qu'il dit.",
+            "reqs": {"spintria.iron":1},
+            "aspects":{"fatiguing.ability":1},
+                  "craftable":true
+        },
+
+
+
+        {
+                "id": "dry.book.rectory",
+                "label": "Sécher un livre",
+                "actionid": "village.rectory.open*",
+                "startdescription": "Le Révérend Timothy n'est pas du genre à rater une occasion de conversation, donc toute l'affaire prend plus de temps que prévu… mais il est impatient d'aider.",
+                "reqs": {"readable":1,"soaked":1},
+                "aspects": {"drying":1,"fatiguing":1},
+                      "warmup": 70,
+                      "linked":[{"id":"dry.journal.generic.start.*"}],
+                      "craftable":true
+            },
+    
+            {
+                "id": "dry.book.killes",
+                "label": "Sécher un livre",
+                "actionid": "village.killes.open*",
+                "startdescription": "Mme Kille, sombre comme toujours, gentille comme toujours, allume le feu de la cuisine et m'aide à sécher le livre, tandis que Mr. Kille scie dans la pièce voisine. 'La naissance laisse toujours des traces', estime-t-elle en glissant soigneusement des fragments de mousseline entre les pages humides.",
+                "reqs": {"readable":1,"soaked":1},
+                "aspects": {"drying":1,"fatiguing":1},
+                      "warmup": 50,
+                      "linked":[{"id":"dry.journal.generic.start.*"}],
+                      "craftable":true
+            },
+
+            {
+                "id": "dry.book.sweetbones",
+                "label": "Sécher un livre",
+                "actionid": "village.sweetbones.open*",
+                "startdescription": "L’horloge tourne doucement ; une radio lointaine crépite musicalement ; soigneusement, page par page, je sèche le livre.",
+                "reqs": {"readable":1,"soaked":1},
+                "extantreqs":{"introduction.rector.start":-1,"introduction.blacksmith.start":-1,"introduction.coffinmaker.start":-1,"introduction.midwife.start":-1},
+                "aspects": {"drying":1,"fatiguing":1},
+                      "warmup": 70,
+                      "linked":[{"id":"dry.journal.generic.start.*"}],
+                      "craftable":true
+            },
+
+{"id": "night.rectory",
+"label": "Heures d’inactivité",
+"actionid": "village.rectory.open*",
+"startdescription": "Le presbytère est sombre et Terrence, la gouvernante, est probablement à l'affût. Je devrais revenir après l'aube.",
+"extantreqs":{"sleepytime":1},
+"hintonly":true},
+{"id": "night.smithy",
+"label": "Heures d’inactivité",
+"actionid": "village.smithy.open*",
+"startdescription": "La forge est sombre et Denzil apprécie son sommeil. Je devrais revenir après l'aube.",
+"extantreqs":{"sleepytime":1},
+"hintonly":true},
+{"id": "night.killes",
+"label": "Heures d’inactivité",
+"actionid": "village.killes.open*",
+"startdescription": "La maison est sombre ; les Killes sont au lit. Je devrais l'être aussi.",
+"extantreqs":{"sleepytime":1},
+"hintonly":true},
+
+
+{"id": "numa.rectory",
+"label": "Brume et silence",
+"actionid": "village.rectory.open*",
+"startdescription": "La brume est épaisse, mais en m'approchant, j'ai aperçu la lumière d'une lampe dans le bureau du presbytère. Maintenant, cependant, je vois que les fenêtres sont fermées et que la lumière que j'ai vue n'était qu'un brin fugitif, comme une étoile perdue. Numa.",
+"extantreqs":{"season.numa":1},
+"hintonly":true},
+{"id": "numa.smithy",
+"label": "Brume et silence",
+"actionid": "village.smithy.open*",
+"startdescription": "Le feu de la forge brille toujours, mais à travers la fenêtre, j'aperçois une forme décharnée et sans yeux qui actionne le soufflet. Il n’y a aucun signe de Denzil, et je sais qu’il vaut mieux ne pas interrompre ce visiteur. Numa.",
+"extantreqs":{"season.numa":1},
+"hintonly":true},
+{"id": "numa.killes",
+"label": "Brume et silence",
+"actionid": "village.killes.open*",
+"startdescription": "La maison est calme. Les panneaux au-dessus de la porte sont écrits dans une langue que même moi je ne peux pas lire. Personne ne répond à mes coups. Numa.",
+"extantreqs":{"season.numa":1},
+"hintonly":true},
+
+
+            {
+                "id": "recruit.rectory.friend",
+                "label": "Aide du Révérend Timothy",
+                "actionid": "village.rectory",
+                "startdescription": "Le Révérend Timothy saute toujours sur l'occasion de profiter de ma compagnie.",
+                "reqs": {"ability":1},
+                "extantreqs":{"assistance.rector":-1},
+                "aspects":{"fatiguing":1},
+                "effects":{"assistance.rector":1}
+            },
+            {
+              "id": "recruit.smithy.friend",
+              "label": "Aide de Denzil le forgeron",
+              "actionid": "village.smithy",
+              "startdescription": "Denzil travaille rarement gratuitement. Mais il n'acceptera pas de paiement pour avoir aidé un ami. [Mais si vous trouvez de la monnaie occulte, vous pouvez la lui donner pour le Service de Division]",
+              "reqs": {"ability":1},
+              "extantreqs":{"assistance.blacksmith":-1},
+              "aspects":{"fatiguing":1},
+              "effects":{"assistance.blacksmith":1}
+          },
+      
+            {
+                "id": "recruit.mr.k.friend",
+                "label": "Aide de Mr. Kille",
+                "actionid": "village.killes",
+                "startdescription": "Mr. Kille peut toujours consacrer quelques heures à aider un ami.",
+                "reqs": {"ability":1},
+                "extantreqs":{"assistance.coffinmaker":-1},
+                "aspects":{"fatiguing":1},
+                "effects":{"assistance.coffinmaker":1}
+            },
+            {
+                  "id": "recruit.mrs.k.friend",
+                  "label": "Aide de Mme Kille",
+                  "actionid": "village.killes",
+                  "startdescription": "Mme Kille est prête à aider. 'Tu me remontes toujours le moral', dit-elle d'un ton maussade.",
+                  "reqs": {"ability":1},
+                  "extantreqs":{"assistance.midwife":-1},
+                  "aspects":{"fatiguing":1},
+                  "effects":{"assistance.midwife":1}
+              },
+    
+              
+              {
+                      "id": "recruit.rectory",
+                      "label": "Aide du Révérend Timothy",
+                      "actionid": "village.rectory",
+                      "startdescription": "'Nous apprécions votre contribution.'",
+                      "reqs": {"pence":12},
+                      "extantreqs":{"assistance.rector":-1},
+                      "aspects":{"fatiguing":1},
+                      "effects":{"assistance.rector":1,"pence":-12}
+                  },
+                  {
+                    "id": "recruit.smithy",
+                    "label": "Aide de Denzil le forgeron",
+                    "actionid": "village.smithy",
+                    "startdescription": "'T'as besoin quoi?'",
+                    "reqs": {"pence":12},
+                    "extantreqs":{"assistance.blacksmith":-1},
+                    "aspects":{"fatiguing":1},
+                    "effects":{"assistance.blacksmith":1,"pence":-12}
+                },
+            
+                  {
+                      "id": "recruit.mr.k",
+                      "label": "Aide de Mr. Kille",
+                      "actionid": "village.killes",
+                      "startdescription": "'Allons-y!'",
+                      "reqs": {"pence":12},
+                      "extantreqs":{"assistance.coffinmaker":-1},
+                      "aspects":{"fatiguing":1},
+                      "effects":{"assistance.coffinmaker":1,"pence":-12}
+                  },
+                  {
+                        "id": "recruit.mrs.k",
+                        "label": "Aide de Mme Kille",
+                        "actionid": "village.killes",
+                        "startdescription": "'Une journée de travail est un rêve d'une nuit.'",
+                        "reqs": {"pence":12},
+                        "extantreqs":{"assistance.midwife":-1},
+                        "aspects":{"fatiguing":1},
+                        "effects":{"assistance.midwife":1,"pence":-12}
+                    },
+                    {
+                        "id": "hint.recruit.12.rectory",
+                        "label": "Un arrangement équitable?",
+                        "actionid": "x",
+                        "startdescription": "'Je suppose que je pourrais y consacrer quelques heures, si vous pouviez consacrer, disons, un shilling au fonds pour le toit de l'église?'",
+                        "reqs": {"pence":1},
+                        "hintonly":true
+                    },
+                    {
+                        "id": "hint.recruit.12",
+                        "label": "Un prix raisonnable?",
+                        "actionid": "x",
+                        "startdescription": "Un shilling - douze pence - permettra de louer ses services.",
+                        "reqs": {"pence":1},
+                        "hintonly":true
+                    },
+                    {
+                        "id": "hint.recruit.24",
+                        "label": "Un prix juste?",
+                        "actionid": "x",
+                        "startdescription": "Deux shillings - vingt-quatre pence - permettront de louer ses services.",
+                        "reqs": {"pence":1},
+                        "hintonly":true
+                    },
+                    {
+                        "id": "clean.thing.generic.sweetbones.try",
+                        "label": "Faites nettoyer quelque chose au Sweet Bones",
+                        "actionid": "village.sweetbones.open*",
+                        "startdescription": "Pour un shilling, le Sweet Bones s'occupera de mon linge…",
+                        "desc": "Pas de paiement, pas de lessive.",
+                        "reqs":{"soiled":1},
+                        "slots":[{"id":"payment","label":"Paiement","required":{"pence":12}}],
+                        "alt":[{"id":"clean.thing.generic.sweetbones"}],
+                        "warmup":60,
+                        "craftable":"true"
+                    },
+                    {
+                        "id": "clean.thing.generic.sweetbones",
+                        "label": "Faites nettoyer quelque chose au Sweet Bones",
+                        "actionid": "village.sweetbones.open*",
+                        "startdescription": "Le Sweet Bones s'occupe de mon linge.",
+                        "desc": "Frais, propre, sec.",
+                        "reqs":{"pence":12,"soiled":1},
+                        "effects":{"pence":-12},
+                        "aspects":{"cleaning":1}
+                    },
+
+                    {
+                        "id": "dry.thing.generic.sweetbones",
+                        "label": "Sécher quelque chose au Sweet Bones",
+                        "actionid": "village.sweetbones.open*",
+                        "startdescription": "Je suis connu au Sweet Bones. Ils laisseront mes habits goutter sur les dalles même si je n'achète pas de bière.",
+                        "desc": "Des vapeurs douces montent.",
+                        "reqs":{"soaked":1,"thing":1,"ability":1},
+                        "aspects": {"dissipating":1,"fatiguing.ability":1},
+                        "warmup":30,
+                        "craftable":"true"
+                    },
+                    {
+                        "id": "recruit.sweetbones.exotic",
+                        "label": "Rechercher une aide inhabituelle",
+                        "actionid": "village.sweetbones.open",
+                        "startdescription": "Quels visiteurs pourraient être de passage? [Découvrez quels passants inhabituels pourraient chercher un emploi]",
+                        "desc": "Voici une opportunité.",
+                        "reqs": {"ability":1,"fatigued":-1, "pence":1},
+                        "extantreqs":{"season.numa":-1},
+                        "deckeffects":{"sweetbones.employables":1},
+                        "aspects":{"fatiguing.ability":1},
+                        "warmup":60,
+                        "craftable":true
+                    },
+                    {
+                        "id": "recruit.sweetbones.miner",
+                        "label": "Aide d'un Mineur",
+                        "actionid": "village.sweetbones.open",
+                        "startdescription": "Au printemps, les mineurs locaux se rendent souvent à la Fête des Lumières d'en Bas. Si l'un d'entre eux interrompt son voyage au Sweet Bones, un shilling achètera son travail pour une journée. [Les Mineurs proposent <sprite name=scale>, <sprite name=forge> et un petit peu de <sprite name=moon>. Vous pouvez également ajouter une Carte d'Âme pour trouver des invités plus rares susceptibles de rechercher un emploi…]",
+                        "desc": "",
+                        "extantreqs": {"season.spring":1,"season.numa":-1},
+                        "reqs": {"pence":12},
+                        "effects":{"assistance.miner":1,"pence":-12},
+                        "warmup":5,
+                        "craftable":true
+                    },
+                    {
+                        "id": "recruit.sweetbones.barber",
+                        "label": "Aide d'un Barbier Itinérant",
+                        "actionid": "village.sweetbones.open",
+                        "startdescription": "En été, le coiffeur-barbier vient entretenir les villageois. Un shilling achètera ses services. [Les Barbiers proposent du <sprite name=moth> et un petit peu de <sprite name=rose>. Vous pouvez également ajouter une Carte d'Âme pour trouver des invités plus rares susceptibles de rechercher un emploi…]",
+                        "desc": "",
+                        "extantreqs": {"season.summer":1,"season.numa":-1},
+                        "reqs": {"pence":12},
+                         "effects":{"assistance.barber":1,"pence":-12},
+                         "warmup":5,
+                        "craftable":true
+                    },
+                    {
+                        "id": "recruit.sweetbones.orchardkeeper",
+                        "label": "Aide d'un Gardien-de-Vergers",
+                        "actionid": "village.sweetbones.open",
+                        "startdescription": "En automne, les Gardiens-de-Vergers viennent vendre leurs produits à Brancrug. Un shilling achètera son aide. [Les Gardiens-de-Vergers proposent du <sprite name=nectar> et un petit peu <sprite name=heart>. Vous pouvez également ajouter une Carte d'Âme pour trouver des invités plus rares susceptibles de rechercher un emploi…]",
+                        "desc": "",
+                        "extantreqs": {"season.autumn":1,"season.numa":-1},
+                        "reqs": {"pence":12},
+                           "effects":{"assistance.orchardkeeper":1,"pence":-12},
+                           "warmup":5,
+                        "craftable":true
+                    },
+                    {
+                        "id": "recruit.sweetbones.fisherman",
+                        "label": "Aide d'un Pêcheur",
+                        "actionid": "village.sweetbones.open",
+                        "startdescription": "En hiver, lorsque les tempêtes ferment les mers, les pêcheurs proposent leurs services pour un shilling par jour. [Les Pêcheurs proposent du <sprite name=moon> et un petit peu <sprite name=sky>. Vous pouvez également ajouter une Carte d'Âme pour trouver des invités plus rares susceptibles de rechercher un emploi…]",
+                        "desc": "",
+                        "extantreqs": {"season.winter":1,"season.numa":-1},
+                        "reqs": {"pence":12},
+                        "effects":{"assistance.fisherman":1,"pence":-12},
+                        "warmup":5,
+                        "craftable":true
+                    },
+
+                    {"id":"sweetbones.numa.hint",
+                    "actionid":"village.sweetbones.open*",
+                    "label":"Brume et silence",
+                    "startdescription":"La porte est ouverte, le feu est froid, les formes autour des tables sont voûtées et silencieuses, vêtues de fourrures et de plumes sombres. La brume se presse contre les murs et caresse les dalles de ses doigts. Un tambour frappe un rythme irrégulier quelque part sous l'auberge. Numa.",
+                    "extantreqs":{"season.numa":1},
+                    "hintonly":true},
+                    
+
+                    {
+                        "id": "hint.recruit.12.sweetbones",
+                        "label": "Un arrangement équitable?",
+                        "actionid": "village.sweetbones.open",
+                        "startdescription": "Un shilling - douze pence - permettra d'embaucher les services d'un ouvrier occasionnel.",
+                        "reqs": {"pence":1,"ability":-1,"fatigued":-1},
+                        "hintonly":true
+                    },
+
+                    {"id": "rest.sweetbones.try",
+                    "label": "Repos et Rafraîchissement",
+                    "actionid": "village.sweetbones.open",
+                    "startdescription": "Tuppence m'offrira un repas copieux et un endroit tranquille où je pourrai me reposer et rassembler mes pensées.",
+                        "slots":[{"id":"tuppence",
+                        "label":"Tuppence",
+                        "description":"Le prix de l'hospitalité.",
+                        "required":{"pence":2}}],
+                    "desc": "pas de tuppence, pas de bière.",
+                    "reqs": {"fatigued":1,"ability":1},
+                    "warmup":60,
+                    "craftable":true,
+                    "extantreqs":{"season.numa":-1},
+                    "alt":[{"id":"rest.sweetbones.spring"},
+                    {"id":"rest.sweetbones.summer"},
+                    {"id":"rest.sweetbones.autumn"},
+                    {"id":"rest.sweetbones.winter"},
+                    {"id":"rest.sweetbones.general"}]
+                    },
+                    
+                    {"id": "rest.sweetbones.spring",
+                    "label": "Repos et Rafraîchissement: Printemps",
+                    "actionid": "village.sweetbones.open",
+                    "startdescription": "C'est le printemps ; et l'hôtesse m'a servi une part de sa Starygazy Pie, avec les têtes de sardines qui pointent effrontément la croûte chaude.",
+                    "desc": "Mieux maintenant.",
+                    "extantreqs": {"season.spring":1},
+                    "reqs": {"fatigued":1,"ability":1,"pence":2},
+                    "aspects": {"recovering.ability":1},
+                    "effects":{"pence":-2}
+                    },
+
+                    {"id": "rest.sweetbones.summer",
+                    "label": "Repos et Rafraîchissement: Été",
+                    "actionid": "village.sweetbones.open",
+                    "extantreqs": {"season.summer":1},
+                    "startdescription": "C'est l'été ; Je suis assis sur le banc devant le Sweet Bones, je mange du fromage friable enveloppé d'orties et du bon pain de seigle noir, profitant du soleil.",
+                    "desc": "Mieux maintenant.",
+                    "reqs": {"fatigued":1,"ability":1,"pence":2},
+                    "aspects": {"recovering.ability":1},
+                    "effects":{"pence":-2}
+                    },
+
+                    {"id": "rest.sweetbones.autumn",
+                    "label": "Repos et Rafraîchissement: Automne",
+                    "actionid": "village.sweetbones.open",
+                    "startdescription": "C'est l'automne quand les feuilles bruissent. La silencieuse hôtesse m'a servi une tarte aux pommes avec de la crème cuite à la vapeur dans le coin de la fenêtre.",
+                    "desc": "Mieux maintenant.",
+                    "extantreqs": {"season.autumn":1},
+                    "reqs": {"fatigued":1,"ability":1,"pence":2},
+                    "aspects": {"recovering.ability":1},
+                    "effects":{"pence":-2}
+                    },
+
+                    {"id": "rest.sweetbones.winter",
+                    "label": "Repos et Rafraîchissement: Hiver",
+                    "actionid": "village.sweetbones.open",
+                    "startdescription": "C'est l'hiver et les tempêtes ont serré la mer. Je suis assis devant le feu du Sweet Bones avec un pâté au bœuf et aux pommes de terre dans une main et un Posset chaud à la bière dans l'autre.",
+                    "desc": "Mieux maintenant.",
+					"extantreqs": {"season.winter":1},
+                    "reqs": {"fatigued":1,"ability":1,"pence":2},
+                    "aspects": {"recovering.ability":1},
+                    "effects":{"pence":-2}
+                    },
+
+                    {"id": "rest.sweetbones.general",
+                    "label": "Repos et Rafraîchissement",
+                    "actionid": "village.sweetbones.open",
+                    "startdescription": "Lumière grise silencieuse à travers une fenêtre grise silencieuse…",
+                    "desc": "Mieux maintenant.",
+                    "reqs": {"fatigued":1,"ability":1,"pence":2},
+                    "extantreqs":{"season.numa":-1},
+                    "aspects": {"recovering.ability":1},
+                    "effects":{"pence":-2}
+                    },
+
+
+                    {"id": "rest.sweetbones.numa",
+                    "label": "Les Rafraîchissements de la Saison du Labyrinthe",
+                    "actionid": "village.sweetbones.open",
+                    "warmup":60,
+                    "craftable":true,
+                    "startdescription": "L'auberge est remplie de hérauts et de pèlerins de Numa. Leur viande est inconnue ; leur boisson est inconnue. Alors que je m'attarde à la fenêtre, une ampoule électrique s'allume comme une lumière de marais: une invitée lève ses yeux brillants et me voit. Elle me fait signe d'entrer avec une main gantée.",
+                    "reqs": {"fatigued":1,"ability":1},
+                    "extantreqs":{"season.numa":1},
+                    "aspects": {"recovering.ability":1},
+                    "linked":{"id":"rest.sweetbones.numa.malady"}
+                    },
+
+                    {"id":"rest.sweetbones.numa.malady",
+                    "actionid": "village.sweetbones.open",
+                    "warmup":10,
+                    "startdescription":"J'ai mangé, j'ai bu. Un goût écœurant persiste. Mes lèvres sont tachées de gris.",
+                    "aspects": {"malady.inflicting":1},
+                    "internaldeck": {
+                        "spec": [
+                            "precursor.mem.contradiction",
+                            "music.hive",
+                            "old.moment",
+                            "curious.hunch",
+                            "confounding.parable",
+                            "old.wound",
+                            "wild.surmise",
+                            "horizonsight"
+                        ],
+                        "draws": 1,
+                        "defaultcard": "precursor.mem.contradiction",
+                        "resetonexhaustion": true
+                    }
+                },
+
+            {
+                        "id": "work.heart.sweetbones.numa",
+                        "label": "Travaux étranges",
+                        "actionid": "village.sweetbones.open",
+                        "startdescription": "L'auberge est remplie de hérauts et de pèlerins de Numa. Ils seront partis demain matin. En attendant, je pouvais proposer mes services contre paiement. Je pourrais le regretter.",
+                        "desc": "Ensuite, je ne me souviens plus du travail que j'ai exécuté, sauf en termes de parfums et de sensations - moisissure de feuilles, cliquetis musical rythmé comme des castagnettes mélodieuses, douce flamme bleue comme une lampe à gaz antique. Et froid ; Je me souviens que là où nous allions, il faisait froid.",
+                     
+                        "reqs":{"ability":1},
+                        "extantreqs":{"season.numa":1},
+                        "aspects": {"malady.inflicting":1},
+                        "effects": {"spintria.silver":1},
+                              "warmup": 360,
+                              "craftable":true
+            },        
+                
+            {
+                  "id": "work.heart.sweetbones",
+                  "label": "Travail manuel",
+                  "actionid": "village.sweetbones.open",
+                  "startdescription": "<sprite name=heart> Il n'y a pas beaucoup de travail proposé à Brancrug, mais je peux trouver des petits boulots pour six pence. [Ou ajoutez une pièce pour trouver des visiteurs à la recherche d'un emploi]",
+                  "desc": "Comme on disait dans ma jeunesse: 'La journée est finie, et moi aussi ; mais j'ai gagné mon salaire'.",
+                  "aspects": {"fatiguing":1},
+                  "reqs":{"ability":1,"heart":1},
+                  "extantreqs":{"season.numa":-1},
+                  "effects": {"sixpence":1},
+                        "warmup": 60,
+                        "craftable":true
+              },
+              {
+                "id": "work.forge.sweetbones",
+                "label": "Réparation et Raccommodage",
+                "actionid": "village.sweetbones.open",
+                "startdescription": "<sprite name=forge> Il n'y a pas beaucoup de travail proposé à Brancrug, mais je peux trouver des petits boulots pour six pence. [Ou ajoutez une pièce pour trouver des visiteurs à la recherche d'un emploi]",
+                "desc": "Comme on disait dans ma jeunesse: 'La journée est finie, et moi aussi ; mais j'ai gagné mon salaire'.",
+                "aspects": {"fatiguing":1},
+                "reqs":{"ability":1,"forge":1},
+                "extantreqs":{"season.numa":-1},
+                "effects": {"sixpence":1},
+                      "warmup": 60,
+                      "craftable":true
+            },
+            {
+                "id": "work.lantern.sweetbones",
+                "label": "Aide pour Lire et Écrire",
+                "actionid": "village.sweetbones.open",
+                "startdescription": "<sprite name=lantern> Je pourrais offrir de l'aide pour la correspondance et l'arithmétique. Il n'y a pas d'école à Brancrug, et tout le monde ici ne connaît pas ses lettres. [Ou ajoutez une pièce pour trouver des visiteurs à la recherche d'un emploi]",
+                "desc": "Un après-midi fructueux à lire les journaux aux curieux, à écrire des lettres affectueuses pour les solitaires, à guider les agriculteurs à travers les exigences du Ministère de l'Agriculture.",
+                "aspects": {"fatiguing":1},
+                "reqs":{"ability":1,"lantern":1},
+                "extantreqs":{"season.numa":-1},
+                "effects": {"sixpence":1},
+                      "warmup": 60,
+                      "craftable":true
+            },
+              {
+                "id": "work.moth.sweetbones",
+                "label": "Dire la Bonne Aventure",
+                "actionid": "village.sweetbones.open",
+                "startdescription": "<sprite name=moth> J'ai accumulé suffisamment de mystique pour prédire l'avenir pour quelques Pences. C’est peut-être indigne pour le Bibliothécaire de la Hush House, mais les temps sont durs. [Ou ajoutez une pièce pour trouver des visiteurs à la recherche d'un emploi]",
+                "desc":"Les fortunes que je raconte peuvent être vraies, et elles peuvent être réelles. L'argent, au moins, est réel.",
+                "reqs":{"ability":1,"moth":1},
+                "extantreqs":{"season.numa":-1},
+                "aspects": {"fatiguing":1},
+                "effects": {"pence":2},
+                      "warmup": 60,
+                      "craftable":true
+            },
+
+              {
+                  "id": "work.edge.sweetbones",
+                  "label": "Un Peu de Respect",
+                  "actionid": "village.sweetbones.open",
+                  "startdescription": "<sprite name=edge> Je suis Bibliothécaire à la Hush House. J'interrogerai les villageois de Brancrug et j'ajouterai tout ce qu'ils me diront à mon bagage de connaissances. [Ou ajoutez une pièce pour trouver des visiteurs à la recherche d'un emploi]",
+                  "desc": "@#mem.gossip|Juste des potins ; mais même les potins sont une connaissance.#mem.fear|Une histoire de vieilles choses qui rôdent encore dans les landes.#mem.foresight|Conseils pratiques de personnes pratiques.#mem.hindsight|Chaque village a ses petites tragédies ; aujourd'hui, j'en ai appris un autre.#mem.regret|Une demi-heure à discuter avec quelqu'un de simple et heureux. Est-ce que ça aurait pu être moi? Est-ce que je voudrais ça?#|J'ai appris quelque chose. Quelque chose d'utile? Trop tôt pour le dire.@",
+                  "reqs":{"ability":1,"edge":1},
+                  "extantreqs":{"season.numa":-1},
+                  "aspects": {"fatiguing":1},
+                  "deckeffects":{"d.chat.sweetbones":1},
+                        "warmup": 60,
+                        "craftable":true
+              },
+              {
+                "id":"village.invite.timothy.stub",
+                 "label": "Une impossibilité?",
+                 "actionid": "village.*",
+                 "comments":"No loc needed",
+                 "startdescription": "[Vous ne devriez jamais voir ça]",
+                 "reqs":{"wc":99},        
+                       "warmup": 5
+             },
+             {
+                "id":"village.invite.denzil.stub",
+                 "label": "Une impossibilité?",
+                 "actionid": "village.*",
+                 "comments":"No loc needed",
+                 "startdescription": "[Vous ne devriez jamais voir ça]",
+                 "reqs":{"wc":9},        
+                       "warmup": 5
+             },
+ 
+ 
+              {
+               "id":"village.invite.killes.stub",
+                "label": "Une impossibilité?",
+                "actionid": "village.*",
+                "comments":"No loc needed",
+                "startdescription": "[Vous ne devriez jamais voir ça]",
+                "reqs":{"wc":99},        
+                      "warmup": 5
+            }
+
+  
+
+    
+    
+
+    
+    
+    ]
+    }
+    

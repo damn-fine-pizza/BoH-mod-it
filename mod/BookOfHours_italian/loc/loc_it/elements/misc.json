@@ -1,0 +1,64 @@
+{
+ "elements": [
+  {
+   "id": "departure.assistance",
+   "label": "Partenza",
+   "desc": "Qualcuno ha finito il suo lavoro."
+  },
+  {
+   "id": "departure.assistance.longer",
+   "label": "Aiuto in Partenza",
+   "desc": "Il tempo di qualcuno è scaduto, e ora se ne sta andando a casa."
+  },
+  {
+   "id": "departure.visiting",
+   "label": "Ospite in Partenza",
+   "desc": "Qualcuno se ne sta andando a casa."
+  },
+  {
+   "id": "dregs",
+   "label": "Feccia",
+   "desc": "Era qualcosa."
+  },
+  {
+   "id": "dust",
+   "label": "Polvere",
+   "desc": "Era qualcosa."
+  },
+  {
+   "id": "echo",
+   "label": "Eco",
+   "desc": "[Questa Memoria è diventata parte di qualcos’altro.]"
+  },
+  {
+   "id": "fleeting",
+   "label": "Reminiscenza Fugace",
+   "desc": "Un momento nel tempo. Ancora un momento, e sarà sparito. [Se non usate, le Memorie scompaiono con l’alba.]"
+  },
+  {
+   "id": "lesson.giribrago",
+   "label": "Una Lezione di Molte Sfaccettature",
+   "desc": "La luce penetra dove, da dove, come. [Una Lezione insolita e versatile che NON PERSISTERÀ DOPO L’ALBA. Usala velocemente.]"
+  },
+  {
+   "id": "residue",
+   "label": "Residuo",
+   "desc": "Era qualcosa."
+  },
+  {
+   "id": "rind",
+   "label": "Buccia",
+   "desc": "Conteneva qualcosa."
+  },
+  {
+   "id": "scraps",
+   "label": "Scarti",
+   "desc": "Era qualcosa di più."
+  },
+  {
+   "id": "vapours",
+   "label": "Vapori",
+   "desc": "Un’atmosfera passeggera."
+  }
+ ]
+}

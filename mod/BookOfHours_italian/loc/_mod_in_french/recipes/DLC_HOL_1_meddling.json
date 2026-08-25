@@ -1,0 +1,57 @@
+{"recipes": [
+
+  {
+    "id": "meddle.combine",
+    "label": "Combiner deux Pressentiments",
+    "actionid": "consider",
+  "reqs":{"inkling":2},
+    "startdescription": "Le Bibliothécaire n'a pas à se mêler du monde au-delà de la Hush House. Mais il arrive que le Bibliothécaire soit curieux. [Cela créera une Piste d'Enquête]",
+          "warmup": 10,
+"effects":{"inkling":-2,"avenue.enquiry":1},
+    "craftable": true
+
+},
+
+  {
+    "id": "meddle.avoid",
+    "label": "Étudier un Pressentiment",
+    "actionid": "consider",
+  "reqs":{"inkling":1},
+    "startdescription": "Enquêter sur les perspectives d'un incident. [Vous obtiendrez ainsi une carte de Mémoire Persistante. Vous pouvez également combiner deux Pressentiments si vous voulez tenter quelque chose d'imprudent.]",
+          "warmup": 10,
+          "effects":{"inkling":-1},
+          "deckeffects":{"d.inkling":1},
+    "craftable": true
+
+},
+
+  {
+    "id": "meddle.summon",
+    "label": "S'Immiscer",
+    "actionid": "*.consider",
+  "reqs":{"avenue.enquiry":1,"encaustum":1,"ability":1,"blank":1,"skill":-1},
+    "startdescription": "Le Bibliothécaire n'a pas à se mêler du monde au-delà de la Hush House. Mais il arrive que le Bibliothécaire soit curieux ; il arrive que le Bibliothécaire abuse de ses prérogatives parce qu'il s'agite. [Cela déclenchera un Incident, s'il n'y en a pas encore. S'il y a déjà un incident, les visiteurs peuvent ne pas interagir avec celui que vous souhaitez. Déclenchez en connaissance de cause, Ys s'amorcent.]",
+          "warmup": 10,
+"aspects":{"fatiguing":1},
+          "deckeffects":{"incidents":1},
+          "linked":[{"id":"meddle.consultation.catch"}],
+    "craftable": true
+
+},
+{
+  "id":"meddle.consultation.catch",
+  "label":"La Fin Approche",
+  "startdescription":"[Aucun incident ne s'est produit cette fois-ci. Peut-être qu'une sorte de fin approche. Nous pourrions même dire <i>immanesces</i>, si nous étions ce genre de personnes.]",
+  "warmup": 2,
+  "reqs":{"incident.consultation":1},
+  "effects":{"incident.consultation":-1},
+  "deckeffects":{"d.inkling":1}
+
+}
+
+
+
+
+
+]
+}

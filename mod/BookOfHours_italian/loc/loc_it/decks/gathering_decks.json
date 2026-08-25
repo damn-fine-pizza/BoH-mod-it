@@ -1,0 +1,228 @@
+{
+ "decks": [
+  {
+   "id": "beach.spring",
+   "label": "Spiaggia: Primavera"
+  },
+  {
+   "id": "beach.summer",
+   "label": "Spiaggia: Estate"
+  },
+  {
+   "id": "beach.autumn",
+   "label": "Spiaggia: Autunno"
+  },
+  {
+   "id": "beach.winter",
+   "label": "Spiaggia: Inverno"
+  },
+  {
+   "id": "beach.numa",
+   "label": "Spiaggia: Numa"
+  },
+  {
+   "id": "beach.oddity",
+   "label": "Spiaggia: Stranezza"
+  },
+  {
+   "id": "beach.rarity",
+   "label": "Spiaggia: Rarità"
+  },
+  {
+   "id": "moor.spring",
+   "label": "Brughiera: Primavera"
+  },
+  {
+   "id": "moor.summer",
+   "label": "Brughiera: Estate"
+  },
+  {
+   "id": "moor.autumn",
+   "label": "Brughiera: Autunno"
+  },
+  {
+   "id": "moor.winter",
+   "label": "Brughiera: Inverno"
+  },
+  {
+   "id": "moor.numa",
+   "label": "Brughiera: Numa"
+  },
+  {
+   "id": "beehive.spring",
+   "label": "Alveare: Primavera"
+  },
+  {
+   "id": "beehive.summer",
+   "label": "Alveare: Estate"
+  },
+  {
+   "id": "beehive.autumn",
+   "label": "Alveare: Autunno"
+  },
+  {
+   "id": "beehive.winter",
+   "label": "Alveare: Inverno"
+  },
+  {
+   "id": "beehive.numa",
+   "label": "Alveare: Numa"
+  },
+  {
+   "id": "nests.spring",
+   "label": "Nidi: Primavera"
+  },
+  {
+   "id": "nests.summer",
+   "label": "Nidi: Estate"
+  },
+  {
+   "id": "nests.autumn",
+   "label": "Nidi: Autunno"
+  },
+  {
+   "id": "nests.winter",
+   "label": "Nidi: Inverno"
+  },
+  {
+   "id": "nests.numa",
+   "label": "Nidi: Numa"
+  },
+  {
+   "id": "cache.bureau",
+   "label": "Scorta: Bureau di Soppressione"
+  },
+  {
+   "id": "cache.hardware",
+   "label": "Scorta: Ferramenta"
+  },
+  {
+   "id": "cache.household",
+   "label": "Scorta: Articoli Domestici"
+  },
+  {
+   "id": "cache.provisions",
+   "label": "Scorta: Provviste"
+  },
+  {
+   "id": "cache.provisions.oddity",
+   "label": "Scorta: Provviste Strane"
+  },
+  {
+   "id": "cache.oddity",
+   "label": "Scorta: Stranezza"
+  },
+  {
+   "id": "cache.large",
+   "label": "Scorta: Grande"
+  },
+  {
+   "id": "cache.large.oddity",
+   "label": "Scorta: Grande Stranezza"
+  },
+  {
+   "id": "cache.large.rarity",
+   "label": "Scorta: Grande Rarità"
+  },
+  {
+   "id": "cache.small.oddity",
+   "label": "Scorta: Piccola Stranezza"
+  },
+  {
+   "id": "cache.small.rarity",
+   "label": "Scorta: Piccola Rarità"
+  },
+  {
+   "id": "well",
+   "label": "Pozzo: Pozzo"
+  },
+  {
+   "id": "well.numa",
+   "label": "Pozzo: Numa"
+  },
+  {
+   "id": "garden.deck.notional1",
+   "label": "Giardino.Mazzo: Ipotetico1"
+  },
+  {
+   "id": "garden.deck.notional2",
+   "label": "Giardino.Mazzo: Ipotetico2"
+  },
+  {
+   "id": "caves.spring",
+   "label": "Grotte: Primavera"
+  },
+  {
+   "id": "caves.summer",
+   "label": "Grotte: Estate"
+  },
+  {
+   "id": "caves.autumn",
+   "label": "Grotte: Autunno"
+  },
+  {
+   "id": "caves.winter",
+   "label": "Grotte: Inverno"
+  },
+  {
+   "id": "caves.numa",
+   "label": "Grotte: Numa"
+  },
+  {
+   "id": "chrysalis.spring",
+   "label": "Crisalide: Primavera"
+  },
+  {
+   "id": "chrysalis.summer",
+   "label": "Crisalide: Estate"
+  },
+  {
+   "id": "chrysalis.autumn",
+   "label": "Crisalide: Autunno"
+  },
+  {
+   "id": "chrysalis.winter",
+   "label": "Crisalide: Inverno"
+  },
+  {
+   "id": "chrysalis.numa",
+   "label": "Crisalide: Numa"
+  },
+  {
+   "id": "bright.rarities",
+   "label": "Tesori Luminosi"
+  },
+  {
+   "id": "night.rarities",
+   "label": "Tesori Notturni"
+  },
+  {
+   "id": "unregarded.rarities",
+   "label": "Tesori Trascurati"
+  },
+  {
+   "id": "sovereign.rarities",
+   "label": "Tesori Sovrani"
+  },
+  {
+   "id": "beehive.liselotte.spring",
+   "label": "Alveare: Primavera"
+  },
+  {
+   "id": "beehive.liselotte.summer",
+   "label": "Alveare: Estate"
+  },
+  {
+   "id": "beehive.liselotte.autumn",
+   "label": "Alveare: Autunno"
+  },
+  {
+   "id": "beehive.liselotte.winter",
+   "label": "Alveare: Inverno"
+  },
+  {
+   "id": "beehive.liselotte.numa",
+   "label": "Alveare: Numa"
+  }
+ ]
+}

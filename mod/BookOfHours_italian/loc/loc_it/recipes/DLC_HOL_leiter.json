@@ -1,0 +1,552 @@
+{
+ "recipes": [
+  {
+   "id": "leiter.agdistis.mission.secrecy",
+   "desc": "«Sapevamo che la pace non sarebbe stata possibile. Berlino è scomparsa; l’Europa è persa; l’Ovest e l’Est sono oro strano e acciaio più strano. Ma la nostra cautela ci ha mantenuti quasi indenni. Aspetteremo sotto il calpestio dei grandi come la cicala sotto la foglia. Quando sarà finita, resisteremo.»"
+  },
+  {
+   "id": "leiter.agdistis.mission.stone.remembered",
+   "desc": "«Gli dei-dalla-Pietra conoscevano arti di guarigione che avevamo dimenticato – ancora bloccate nelle radici intricate delle nostre cellule come la scrittura sulla Radice-Serpente. Ho impiegato le risorse dell’Istituto per dischiudere quei segreti. Spero che sia stato saggio.»"
+  },
+  {
+   "id": "leiter.agdistis.foe.carapace",
+   "desc": "«Ho pietà per la Croce, e spero che possano sopravvivere, là oltre i cieli dove le Stelle non hanno troppa fame. Ma la natura Croce è una malattia. Quando coloro che ne sono turbati vengono da me, li guarisco.»"
+  },
+  {
+   "id": "leiter.agdistis.foe.nowhere",
+   "desc": "«Non accetterò che tutto debba finire. Forse questo mi rende lo sciocco dell’Eternità. Ma certamente mi rende il nemico del Nessun Luogo. Mi sono fidato troppo facilmente; ho visto come i Vermi operano dall’interno, e ho ideato metodi per estirparli – non metodi gentili, ma necessari.»"
+  },
+  {
+   "id": "leiter.aladim.mission.peace",
+   "desc": "«Non so se la Vagabonda sia salita alla Gloria, o caduta nel Nessun Luogo. Piango per lei. Così tante Ore non contate… ma noi resistiamo, e i nostri rifugi contro la guerra. La pace non dura mai, ma la guerra finisce sempre. Ora sono figlio della Storia, non creatura dell’Eternità.»"
+  },
+  {
+   "id": "leiter.aladim.mission.stone.consumed",
+   "desc": "«Anch’io non ho avuto pietà. Ho stretto alleanze dove era necessario. Siamo sopravvissuti alle Guerre di sotto e di sopra, a differenza di tanti altri. La Vagabonda se n’è andata; trovare un nuovo scopo è un sollievo. Non ho rimpianti per le mie decisioni.»"
+  },
+  {
+   "id": "leiter.aladim.mission.stone.remembered",
+   "desc": "«Piango per lei, come piango per le altre Ore non contate, salite alla Gloria, perse nel Nessun Luogo, consumate dalla Croce… Non sono un guerriero; sono un messaggero; e il messaggio del ricordo, lo porterò come un ramo verde verso l’alba.»"
+  },
+  {
+   "id": "leiter.aladim.foe.carapace",
+   "desc": "«Ho sempre pensato che non potessimo fidarci delle stirpi del Carapace. Non traggo alcun piacere dall’aver avuto ragione. Locusta; scorpione; vespa. Dove li trovo, li schiaccio.»"
+  },
+  {
+   "id": "leiter.aladim.foe.devourers",
+   "desc": "«Con così tante Ore non contate, gli abitanti del Mansus restano senza governo… anche se, per fortuna, molti di loro sono a loro volta scomparsi. Mi sono coordinato con i Doveri, in tutta Europa e oltre… e le notti sono diventate un po’ meno vivaci.»"
+  },
+  {
+   "id": "leiter.arthur.mission.peace",
+   "desc": "«Pensavo che i giorni da soldato fossero passati. L’ho già pensato altre volte. Be’, non è esattamente fare il soldato. Dirò piuttosto che credevo passati i giorni in cui mi sparavano addosso. Ho scelto questa vita con l’Istituto, però, e ne vado fiero.»"
+  },
+  {
+   "id": "leiter.arthur.mission.autarchy",
+   "desc": "«Passo la maggior parte del mio tempo sulle Alpi, ora, tenendo l’Haven libero da guai. A volte mi manca il Labirinto. Ma non mi manca il deserto. Il sole sulla neve è chiaro e luminoso…»"
+  },
+  {
+   "id": "leiter.arthur.mission.revelation",
+   "desc": "«Luce.» Quella è sempre la risposta. Anche la Falena lo sapeva. Sono stati anni disordinati, questi ultimi, ma avevo cercato la clemenza dell’ombra per troppo tempo. Mi sto godendo la luce del sole."
+  },
+  {
+   "id": "leiter.arthur.mission.stone.consumed",
+   "desc": "«C’era qualcosa di grande sotto i Brecons. Chiamalo un Nome-Pietra. Chiamalo un Figlio-Spire. Chiamalo un drago fallito… da tempo scomparso, mezzo mangiato. Ma ne restava molto. L’ho visto mietere. Ci servirà bene. Stiamo facendo un buon lavoro laggiù. Ma ancora sogno le sue linee contro la luna.»"
+  },
+  {
+   "id": "leiter.arthur.foe.devourers",
+   "desc": "«Non è il lavoro a cui la nascita mi destinava, ma è di sicuro quello per cui mi hanno <i>fatto</i>. Torno adesso da Nantes – da quel che ne resta. Il luogo era invaso dai morti senza parola. Tanti… ma parecchi di meno, ora. È un buon lavoro, e mi riesce bene.» "
+  },
+  {
+   "id": "leiter.arthur.foe.chandler",
+   "desc": "«Ho ripreso a cercare il Nuovo Re. Ancora nessun segno – non da Caen. Credo davvero che con la sua morte dobbiamo preoccuparci molto meno del Chandler. Ma ci sono ancora Nomi del Chandler là fuori, come scintille al vento… Temo che abbiamo solo rimandato l’Alba. E così, caccio.»"
+  },
+  {
+   "id": "leiter.arun.mission.better.gods",
+   "desc": "«Be’, non è esattamente quello che mi aspettavo, ma non ho mai preteso di essere un profeta. È meglio così. Senza il nostro lavoro, dubito che vedremmo un mese ancora cucito a un altro. I nuovi poteri si sistemeranno con il tempo, come fanno sempre, e si uniranno alle Ore non contate che emergeranno dalla notte. E noto che neppure del Chandler c’è ancora traccia. Anche questo, penso, è per il meglio.»"
+  },
+  {
+   "id": "leiter.arun.ally.reckoners",
+   "desc": "«Con la Madrugad tra le Ore non contate… i miei amici Conteggiatori e io abbiamo avuto margine di manovra. Ho organizzato la distribuzione degli anni, in segreto. Non durerà. Dovremo trovare un nuovo paradigma quando la Storia sarà di nuovo intricata. Ma per ora bevete a fondo, cari miei, bevete a fondo!»"
+  },
+  {
+   "id": "leiter.arun.mission.revelation",
+   "desc": "«Cosa solevo dire? “È sempre troppo tardi, alla fine? Ma fino ad allora non lo è mai?” I servitori dei Doveri, privati della protezione della Calyptra, che corrono come formiche senza regina; stanno ancora cercando di far tacere il sognatore e il sogno… ma è troppo tardi; troppo tardi.»"
+  },
+  {
+   "id": "leiter.arun.ally.carapace",
+   "desc": "«La Croce del Carapace? Sono esuli. Sono lucenti. Alcuni di loro cantano. Naturalmente mi piacciono.»"
+  },
+  {
+   "id": "leiter.azita.mission.corrivality",
+   "desc": "«Il mio nemico più caro, Mehrad, sta facendo il broncio. Non gli è piaciuto che non prendessi partito nelle Guerre. Se ne farà una ragione. E comunque, con il Colonnello tra le Ore non contate… Mi chiedo come possa essere cambiato il nostro accordo.»"
+  },
+  {
+   "id": "leiter.azita.mission.peace",
+   "desc": "«Pace? Perché no? Quando una foresta gode di decenni senza un incendio… allora la conflagrazione, quando arriva, è tanto più gloriosa. Inoltre: il mio caro nemico Mehrad sta facendo il broncio.»"
+  },
+  {
+   "id": "leiter.azita.mission.autarchy",
+   "desc": "«Potremmo <i>comprare</i> dai Ministeri o dagli Incorporati. Non sono Ore; non è contro i nostri principi fondanti. Ma mi piace la nostra indipendenza. Ho creato reti tutte nostre – fornitori tutti nostri… avevo già molto con cui lavorare.»"
+  },
+  {
+   "id": "leiter.azita.ally.reckoners",
+   "desc": "«So che non a tutti è piaciuta l’idea di lavorare con i Conteggiatori, ma sono stati molto utili. Abbiamo occhi in ogni città ancora in piedi. Abbiamo una fonte costante di anni per blindare i miei agenti – i nostri agenti. E mi piacciono: sono <i>professionisti</i>.»"
+  },
+  {
+   "id": "leiter.azita.foe.devourers",
+   "desc": "«Dalle Guerre, è molto difficile mantenere le notti al sicuro. Ma io e i miei abbiamo fatto del nostro meglio per l’Istituto, e per gli indifesi che proteggiamo. Sì, le mie operazioni filano un po’ più lisce con meno Hügelkinder in agguato… ma come si diceva dalle mie parti, lo stesso fuoco fonde oro e ferro.»"
+  },
+  {
+   "id": "leiter.azita.foe.chandler",
+   "desc": "«Non c’è segno del Nuovo Re da quando è caduto a Caen. Se davvero è caduto. Il suo protettore è astuto… ma i Nomi del Chandler bruciano ancora in Europa, e temo possano trovare orecchie benevole presso i Ministeri. Non importa. Se il Chandler dovesse mai emergere, sarò qui con il mio piccolo coltello per smoccolargli lo stoppino.»"
+  },
+  {
+   "id": "leiter.chaima.mission.corrivality",
+   "desc": "«C’era più misericordia in me una volta. Non più.»"
+  },
+  {
+   "id": "leiter.chaima.foe.devourers.forbid.echidna.persistent",
+   "desc": "«C’è sempre un’altra preda. Sono sempre all’altezza del compito.»"
+  },
+  {
+   "id": "leiter.chaima.foe.devourers.echidna.persistent",
+   "desc": "«C’è sempre un’altra preda. Sono sempre all’altezza del compito… ma mi è stato chiesto di risparmiare i khalviti. Così farò. Per ora.»"
+  },
+  {
+   "id": "leiter.chaima.foe.chandler",
+   "desc": "«Credo che il Nuovo Re sia davvero caduto a Caen. Non ne ho avuto parte; il suo nemico era uno con cui non avrei mai lavorato. Ma gli altri araldi del Chandler… uno per uno ne spegniamo le fiamme. Un giorno saranno tutte ceneri.»"
+  },
+  {
+   "id": "leiter.connie.mission.autarchy",
+   "desc": "«Avevo ragione a sfidare Lady Edith. Non avevo idea di quanto compromesso fosse diventato il Bureau. Questo Istituto è un nuovo inizio… be’, i nuovi inizi si appannano sempre, ma sono stata attenta nella scelta dei nostri alleati. Non è sempre facile, ma ne ho abbastanza di compromessi.»"
+  },
+  {
+   "id": "leiter.connie.mission.secrecy",
+   "desc": "«Il Bureau ha i suoi difetti; Calyptra è una specie di tirannia; ma gli ultimi anni ci hanno mostrato quanto siano necessari i Doveri. Non puoi negare il mare, ma puoi costruire difese dalle inondazioni… ed è quello che stiamo facendo: difese dalle inondazioni per la conoscenza.» "
+  },
+  {
+   "id": "leiter.connie.mission.stone.consumed",
+   "desc": "«Questo saccheggio di ossa-dio… c’è qualcosa di sordido in tutto questo. Ma al Bureau ho imparato che facciamo quello che dobbiamo, non quello che vogliamo. Usare quello che rimane degli dei-dalla-pietra… ci dà più scelta su “dobbiamo”. Sono stanca dei compromessi. Ma faccio quello che devo.»"
+  },
+  {
+   "id": "leiter.connie.foe.nowhere",
+   "desc": "«C’era una pelle di Verme scartata nel White Museum – dove il Bureau teneva le ossa dei suoi trofei. Non mi ero mai avvicinata tanto a un Verme in modalità espansiva. Da allora mi ci sono avvicinata molto di più. Non posso dire che mi piaccia. Ma il lavoro va fatto.»"
+  },
+  {
+   "id": "leiter.connie.foe.devourers.forbid.echidna.persistent",
+   "desc": "«Mi mancano le risorse che avevo. Ma lavorare con l’Istituto… è molto meno formale. Mi ricorda i vecchi tempi, prima di unirmi al Bureau.»"
+  },
+  {
+   "id": "leiter.connie.foe.devourers.echidna.persistent",
+   "desc": "«Abbiamo dovuto andare piano con i khalviti perché… sai… la Persistente. Suppongo che ci siano sempre compromessi. Ma non mi piace.»"
+  },
+  {
+   "id": "leiter.connie.foe.ys",
+   "desc": "«Gli insidiatori di Ys sono così… educati, sai? Mi ritrovo di continuo ad allentare la guardia. Continuo a dirmi che è perché hanno sangue freddo… Non so se è letteralmente vero.»"
+  },
+  {
+   "id": "leiter.connie.resigned.mission.autarchy",
+   "desc": "«Ci ho messo troppo a lasciare il Bureau. Ora questo Istituto è un nuovo inizio… be’, i nuovi inizi si appannano sempre, ma sono stata attenta nella scelta dei nostri alleati. Non è sempre facile, ma di compromessi ne ho abbastanza.»"
+  },
+  {
+   "id": "leiter.connie.resigned.mission.revelation",
+   "desc": "«Il Bureau ha fatto bene, di tanto in tanto. Suppongo che anche Calyptra avesse le sue ragioni. Ma la tirannia è tirannia. È bene lasciare entrare la luce.»"
+  },
+  {
+   "id": "leiter.connie.resigned.mission.stone.consumed",
+   "desc": "«Questo saccheggio di ossa-dio… c’è qualcosa di sordido in tutto questo. Ma sapevo che lasciare il Bureau non avrebbe davvero reso le cose meno complicate. Facciamo quello che dobbiamo, non quello che vogliamo. Usare quello che rimane degli dei-dalla-pietra… ci dà più scelta su “dobbiamo”. Sono stanca dei compromessi. Ma faccio quello che devo.»"
+  },
+  {
+   "id": "leiter.connie.resigned.foe.nowhere",
+   "desc": "«C’era una pelle di Verme scartata nel White Museum – dove il Bureau teneva le ossa dei suoi trofei. Non mi ero mai avvicinata tanto a un Verme in modalità espansiva. Da allora mi ci sono avvicinata molto di più. Non posso dire che mi piaccia. Ma il lavoro va fatto.»"
+  },
+  {
+   "id": "leiter.connie.resigned.foe.devourers.forbid.echidna.persistent",
+   "desc": "«Mi mancano le risorse che avevo, prima di lasciare il Bureau. Ma lavorare con l’Istituto… è molto meno formale. Mi ricorda i vecchi tempi.»"
+  },
+  {
+   "id": "leiter.connie.resigned.foe.devourers.echidna.persistent",
+   "desc": "«Abbiamo dovuto andare piano con i khalviti perché… sai… la Persistente. Suppongo che ci siano sempre compromessi. Ma non mi piace.»"
+  },
+  {
+   "id": "leiter.connie.resigned.foe.ys",
+   "desc": "«Gli insidiatori di Ys sono così… educati, sai? Mi ritrovo di continuo ad allentare la guardia. Continuo a dirmi che è perché hanno sangue freddo… Non so se è letteralmente vero.»"
+  },
+  {
+   "id": "leiter.coquille.mission.corrivality",
+   "desc": "«Quando dimoravo fra i Principi Incappucciati, la guerra non mi sfiorava. Non era molto interessante. Ora il lavoro a volte impegna, ma ci ho resi ricchi: ci ho resi ricchi tutti.»"
+  },
+  {
+   "id": "leiter.coquille.ally.chandler",
+   "desc": "«Il Nuovo Re! Che spreco. Se solo non fosse sceso in campo a Caen. Il fuoco che brucia nell’oscurità si è abbassato. Ma brucia ancora così graziosamente. Ho imparato cose deliziose da Mihail, e spero di impararne molte di più.»"
+  },
+  {
+   "id": "leiter.coquille.foe.nowhere",
+   "desc": "«Quando ho accettato di unirmi a questo Istituto, non avevo idea di quanto avrei dovuto parlare di Vermi. È disgustoso.»"
+  },
+  {
+   "id": "leiter.corso.mission.revelation",
+   "desc": "«Non hai idea di che sollievo sia, non chiedersi se è il Bureau, ogni volta che sento il campanello tintinnare nel negozio. Detto questo, ho dovuto abbassare i miei prezzi per una parte della roba davvero buona… ma è la missione che è importante, naturalmente. La Sapienza vuole vagare, e via dicendo.»"
+  },
+  {
+   "id": "leiter.corso.mission.stone.remembered",
+   "desc": "«È come se avessimo aperto la porta su un altro paese. È come un vento di pietra ed erica. Penso che anche il sole sia un po’ più rosso. Sai cosa? Mi piace.»"
+  },
+  {
+   "id": "leiter.corso.ally.carapace",
+   "desc": "«Certo, la Croce del Carapace non usa mai libri. Non nel modo in cui li comprendiamo noi. Ma ora possiamo trascrivere quello che usano loro. Roba buona, lì dentro.»"
+  },
+  {
+   "id": "leiter.corso.foe.chandler",
+   "desc": "«Caen, eh? Il Nuovo Re muore in battaglia, il Chandler perde un pezzo reale, ma anche la fazione che non ci piace se le prende comunque? Difficilmente avrebbe potuto andare meglio. Non possiamo continuare a contare su quel tipo di fortuna. Sto facendo del mio meglio per tenerci tutti informati.»"
+  },
+  {
+   "id": "leiter.dagmar.mission.peace",
+   "desc": "«La pace scarseggia di questi tempi, eh? La distribuisco dove posso. Attività di beneficenza. Ho dovuto vendere la vecchia, sai, tenuta. Il tetto stava comunque venendo giù. Attività di beneficenza.»"
+  },
+  {
+   "id": "leiter.dagmar.mission.autarchy",
+   "desc": "«Prendiamo i nostri alleati dove possiamo trovarli, ho sempre detto così, vero? Meno male adesso con tutte queste Ore innumerevoli. Innumerate? Incontestate? Non se ne trovano poi tanti, di quei tipi, ecco cosa intendo, niente di questo curiosare attorno al Mansus e imbattersi in qualcosa che ti brucerebbe le sopracciglia.»"
+  },
+  {
+   "id": "leiter.dagmar.mission.revelation",
+   "desc": "«Rivelazione! Vorrei vedere la faccia della Madrugad. Lascia perdere, non l’ho mai detto, idea sciocca, mi ridurrebbe in cenere, senza dubbio. Eppure. Vederle la faccia!»"
+  },
+  {
+   "id": "leiter.dagmar.mission.secrecy",
+   "desc": "«Sono assai riconoscente verso Libsy per non essere corsa da Oriflamme a riferire, sai. Assai riconoscente. E se Libsy riesce a tenere un segreto, così può fare il vecchio Daymare. Assai segretamente.»"
+  },
+  {
+   "id": "leiter.dagmar.ally.ys",
+   "desc": "«Ancora non sono stato a Ys.\n\nCi andrò, però. Un giorno.\n\nMissione commerciale, una cosa così…»"
+  },
+  {
+   "id": "leiter.dagmar.ally.carapace",
+   "desc": "«Fatto un salto a Miah, per vedere come se la passano le Carabee in quel giardino. Non api. Altre cose, <i>Motten</i>, sai. Se la passano piuttosto bene. Forse un po’ troppo bene, onestamente. Comunque, preferisco loro ai Vermi, vero?»"
+  },
+  {
+   "id": "leiter.dagmar.foe.nowhere",
+   "desc": "«Be’ ascolta se devo spendere i miei soldi, non riesco a pensare a un uso migliore che schiacciare i Vermi. E se devo spendere i soldi dell’Istituto, piuttosto quelli che i miei! Quindi tutto rose e fiori, diciamo così.»"
+  },
+  {
+   "id": "leiter.dagmar.foe.chandler",
+   "desc": "«Peccato aver perso così il Nuovo Re a Caen. Certo era un po’ chandly, ma brav’uomo, buona stirpe, non molti re disposti a morire in battaglia al giorno d’oggi? Adesso è un po’ più facile, però, spegnere lo stoppino, una cosa così. Un sacco di stoppini da spegnere!»"
+  },
+  {
+   "id": "leiter.dagmar.foe.ys",
+   "desc": "«Oh tutto molto educato, questi Ysiani, puliti come una buona odontoiatria, acuti come un bottone, ma se li lasci avvicinare, snap! Come se la tua anima venisse chiusa in una porta. Brr. Be’, ormai li abbiamo capiti, vero?»"
+  },
+  {
+   "id": "leiter.douglas.mission.secrecy",
+   "desc": "«I Doveri perdurano. Ricordo quando ho messo piede in tutto questo. Allora contavo ancora di ritirarmi, un giorno. Comincio a rallegrarmi di non averlo fatto.»"
+  },
+  {
+   "id": "leiter.douglas.foe.nowhere",
+   "desc": "«Cose terribili nel mondo oggi. Ce n’è in abbondanza. Ma i Vermi sono i peggiori. Li stiamo tirando fuori, uno per uno, però. E hai sentito? Non possono più riprodursi dentro le persone. Il mondo è cambiato, e non sempre nel peggiore dei modi…»"
+  },
+  {
+   "id": "leiter.douglas.foe.carapace",
+   "desc": "«Ho ancora incubi su quella faccenda nella Foresta Nera… Ho rintracciato quello che rimane dei pazienti di Liselotte. Per l’intervento chirurgico. Brutto. Ma meglio dell’alternativa.»"
+  },
+  {
+   "id": "leiter.douglas.foe.ys",
+   "desc": "«Abbiamo trovato un’Insidiosa Ysiana a Vauxhall la settimana scorsa. Aveva risalito il Tamigi a nuoto. Si guardava intorno alla National Gallery quando l’abbiamo presa. Sai cosa ha detto? “Ys sembrerà così, un giorno.” Non riesco a togliermelo dalla testa.»"
+  },
+  {
+   "id": "leiter.echidna.persistent.mission.corrivality",
+   "desc": "«Ammetto questo: non sono sempre stata una buona madre. Ma per molti anni, la mia prima preoccupazione è stata per i miei figli. Conto l’Istituto tra i miei figli ora. E dopo una battaglia, i miei figli mangiano sempre bene.»"
+  },
+  {
+   "id": "leiter.echidna.persistent.mission.secrecy",
+   "desc": "«Ammetto questo: non sono sempre stata una buona madre. Ma per molti anni, la mia prima preoccupazione è stata per i miei figli. Li riparo dalla luce bruciante del sole; li tengo lontani dagli occhi dei cacciatori. Conto l’Istituto tra i miei figli ora.»"
+  },
+  {
+   "id": "leiter.echidna.persistent.mission.stone.consumed",
+   "desc": "«Ammetto questo: non sono sempre stata una buona madre. Ma per molti anni, la mia prima preoccupazione è stata per i miei figli. Conto l’Istituto tra i miei figli ora. Per troppo tempo la succulenza degli dei-dalla-Pietra è rimasta senza chi l’assaggiasse. Ora tutti i miei figli banchettano. Ne provo contentezza.»"
+  },
+  {
+   "id": "leiter.echidna.persistent.ally.ys",
+   "desc": "«Ho inviato uno dei miei figli a Ys, come ostaggio. Loro hanno inviato una delle loro figlie. La tengo sotto vetro. Siamo tutti quanti grandissimi amici.»"
+  },
+  {
+   "id": "leiter.echidna.persistent.foe.nowhere",
+   "desc": "«Non rischierò i miei figli contro i Vermi. Ma è noto che di tanto in tanto scendo in campo di persona.»"
+  },
+  {
+   "id": "leiter.echidna.persistent.foe.devourers",
+   "desc": "«Vedo come mi guardano. Una vera Ligeiana non si cura di come venga guardata. Mi tengono vicino perché non si fidano di me. Sono saggi. Tutti noi ne beneficiamo. Un giorno, finirà, e i miei figli banchetteranno. Fino ad allora, sono leale al mio dovere.»"
+  },
+  {
+   "id": "leiter.elie.persistent.mission.peace",
+   "desc": "«Per tanto tempo ho lottato per tenere il mondo a galla. Tante volte, i miei sforzi sono stati sabotati dal tradimento. Questo Istituto non ha fatto nulla di simile… per ora. Oso sperare.»"
+  },
+  {
+   "id": "leiter.elie.persistent.ally.ys",
+   "desc": "«La mia prima vocazione: preservare quello che esiste. La mia seconda vocazione: preservare quello che esiste <i>com’è</i>. Un’alleanza con Ys farà poco per la seconda; ma è necessaria per la prima.»"
+  },
+  {
+   "id": "leiter.elie.persistent.foe.nowhere",
+   "desc": "«Mi è stato chiesto di estrarre un Verme dalla spina dorsale di un pastore. Era stato lì quasi ventotto giorni, ma non mostrava segni di sviluppo. Ho saputo di altri casi simili: i Vermi si stanno indebolendo. Non speculerò sul perché. Non mi fido ancora.»"
+  },
+  {
+   "id": "leiter.ehsan.mission.secrecy",
+   "desc": "«Sono stato troppo fiducioso, troppo a lungo. Sono un guaritore innanzitutto, ma un guaritore deve anche essere un chirurgo. Tengo il mio coltello affilato, per l’Istituto, e per l’ombra ricordata di Calyptra.»"
+  },
+  {
+   "id": "leiter.ehsan.mission.stone.remembered",
+   "desc": "«Forse ero diventato troppo sospettoso; troppo avaro delle mie arti. Qui all’Istituto, e nel mondo, ho imparato di nuovo la generosità. Non sono più soltanto i mortali che guarisco, ora.»"
+  },
+  {
+   "id": "leiter.ehsan.ally.carapace",
+   "desc": "«Tutti noi cambiamo, vero? Nei miei giorni da skaptodonte, temevo il cambiamento mentre lo desideravo, e ora non ne provo che gioia. Molti temono e desiderano il Cambiamento della Croce, e ho aiutato a mostrare loro la via.»"
+  },
+  {
+   "id": "leiter.ehsan.foe.nowhere",
+   "desc": "«Sono stato chiamato a occuparmi di diversi casi di infestazione da Vermi, solo quest’anno. Non mi è piaciuto. Ma qualcosa è cambiato: non possono svilupparsi come facevano prima, dentro una pelle umana; non possono generarne altri della propria specie. Mi chiedo: è qualcosa che abbiamo fatto? O qualcosa nel Sole?»"
+  },
+  {
+   "id": "leiter.ehsan.foe.carapace",
+   "desc": "«Tutti noi cambiamo, vero? Nei miei giorni da skaptodonte, temevo il cambiamento mentre lo desideravo. Quindi comprendo la tentazione del Cambiamento della Croce, e così, quando le mie abilità vengono richieste, posso porre fine a quella tentazione.»"
+  },
+  {
+   "id": "leiter.fraser.mission.peace",
+   "desc": "«Avremmo potuto sfruttare meglio le opportunità che la guerra ci ha concesso. Ma ho rispettato gli scrupoli dell’Istituto. E i nostri fondi sono sufficienti per le nostre esigenze. Comunque, spero che l’Istituto faccia un uso migliore dei miei talenti, un’altra volta.»"
+  },
+  {
+   "id": "leiter.fraser.mission.stone.remembered",
+   "desc": "«Ho fatto causa comune con le presenze che rimangono nella terra e nel mare, proprio come l’Istituto aveva disposto. Sono state molto utili ai miei interessi minerari; abbiamo dissotterrato tesori inaspettati.»"
+  },
+  {
+   "id": "leiter.fraser.ally.carapace",
+   "desc": "«Finalmente, ora posso esprimere la mia natura interiore. Ho avviato un’impresa congiunta con la Croce che ritorna: i loro scavi sotto terra, le mie operazioni minerarie. La nostra cooperazione ha reso l’Istituto mostruosamente ricco… e confesso che non ha fatto male neanche alla mia fortuna.»"
+  },
+  {
+   "id": "leiter.fraser.ally.ys",
+   "desc": "«Ys potrebbe essere stata il più grande pericolo che abbiamo mai affrontato. È stato saggio da parte nostra fare causa comune con loro. E i primi indizi sono che il commercio con loro sarà molto proficuo – molto proficuo davvero. Nessun motivo di preoccupazione, da quel lato. Capisco come salvaguardare i nostri interessi e mantenere le nostre quarantene necessarie.»"
+  },
+  {
+   "id": "leiter.fraser.foe.carapace",
+   "desc": "«Mi tollerano, ma non si fidano di me. Ho dato prova di me una dozzina di volte, e non si fidano di me. Ho represso la mia natura Croce, sebbene mi sia costato caro nei sogni, e ancora non si fidano di me. Be’: ho pazienza. Un giorno, vedremo.»"
+  },
+  {
+   "id": "leiter.hokobald.mission.secrecy",
+   "desc": "«I segreti, come i grandi tesori d’arte e di tavola, non devono essere sprecati sulla plebe. C’è stata fin troppa liberalità sotto questi aspetti, ultimamente. Con l’assistenza dell’Istituto, sto facendo del mio meglio per porvi rimedio.»"
+  },
+  {
+   "id": "leiter.hokobald.mission.better.gods",
+   "desc": "«Ho forgiato ciò che nessun altro avrebbe potuto; a buon diritto mi si attribuisce il primato fra la stirpe della Forgia! Gli dei d’oro e di bronzo sono i miei figli, e incedono a cavalcioni del Continente! Prima o poi dovrò metterli in riga – si sono allontanati un poco dal mio disegno originario – ma è opera ben forgiata davvero. Penso che al prossimo incontro proporrò di mutare il nome dell’Istituto, perché onori più propriamente le mie fatiche.»"
+  },
+  {
+   "id": "leiter.hokobald.ally.chandler",
+   "desc": "«È un vero peccato – che il Nuovo Re sia arrivato così lontano, solo per morire a Caen in questa stupida Guerra di terra. Con gli eroi non ho pazienza. Ma ci sono fiamme che ancora bruciano nell’oscurità. Il Chandler è solo ritardato, non negato, e quando arriverà, l’Istituto avrà parte alla sua munificenza. O alla munificenza di lei, forse... Ho una teoria. La condividerò solo quando saprò di aver ragione. In passato, sono stato troppo generoso.»"
+  },
+  {
+   "id": "leiter.morgen.mission.corrivality",
+   "desc": "«Gli altri muoiono affinché noi possiamo persistere. L’ho imparato molto prima di consumare il mio primo infante. Tutti noi mostriamo i nostri denti quando sorridiamo, <i>hein</i>? Sto sorridendo ora. Sono così grata che mi sia stato chiesto di assicurare la persistenza di questo Istituto.»"
+  },
+  {
+   "id": "leiter.morgen.mission.autarchy",
+   "desc": "«Mi rallegra assai aver mantenuto al sicuro i segreti del Roost di Zuthi. Se il Roost si riunisce ancora, nessuno può indovinare dove; e abbiamo un tesoro come i frutti e i semi di una nuova terra.»"
+  },
+  {
+   "id": "leiter.morgen.mission.stone.remembered",
+   "desc": "«Ho sempre nutrito una grande simpatia per gli dei-dalla-pietra. Sì, avevo sperato che un giorno potessimo cibarci di loro, ma spesso mi nutro di coloro per cui provo simpatia, non è così? E ho notato che il Sole, alcuni giorni, è più rosso. Mi chiedo che cosa sarebbe, condividere il proprio sangue con il Sole.»"
+  },
+  {
+   "id": "leiter.morgen.ally.carapace",
+   "desc": "«Ricorderai che all’opera mi feci un’amichetta – quella cantante che aveva la natura della Croce? Be’, ha continuato a distinguersi, e la nostra amicizia ha… <i>persistito</i>.»"
+  },
+  {
+   "id": "leiter.morgen.foe.carapace",
+   "desc": "«Quando ci sono insetti nella propria cucina, non li si consuma. Si prendono le misure appropriate. Ho aiutato l’Istituto a prendere quelle misure…»"
+  },
+  {
+   "id": "leiter.morgen.foe.devourers",
+   "desc": "«Ironia? Ho sempre apprezzato l’ironia. Una Ligeiana siede nei loro consigli, dirigendo le loro operazioni contro i miei non-cugini e le mie non-sorelle… per i quali ho poca simpatia. E questo Istituto è diventato davvero assai potente. Preferisco stare dentro la camera del consiglio che fuori.»"
+  },
+  {
+   "id": "leiter.olympe.mission.revelation",
+   "desc": "«Ricordo Venezia. L’Aria Pezzata, le rose pezzate. I giorni in cui Calyptra sembrava inespugnabile, eppure la Falena l’assalì; quanta strada abbiamo fatto! Tutti quei segreti aperti, senza cura, come regali avvelenati per bambini. La più grande storia della mia carriera, e il mio nome non le sta nemmeno accanto... ma non credo potrei sopportare più di un po’ di responsabilità.»"
+  },
+  {
+   "id": "leiter.olympe.foe.carapace",
+   "desc": "«Mi dispiace per quello che sta accadendo con la Croce. Ce n’è stato troppo in Europa in questi ultimi anni. Ma davvero non c’è spazio sia per loro sia per noi – ontologicamente parlando, intendo…»"
+  },
+  {
+   "id": "leiter.olympe.mission.peace",
+   "desc": "«Ero a Kerisham di nuovo la scorsa settimana, per una riunione con quello che rimane degli Obliviat. Il mare è molto strano lì ora. Corpi gettati sulla spiaggia ogni giorno – corpi di persone che non sono mai esistite e certamente non sono mai morte… ma credo che possano essere morte in un’altra Storia? Non lo so. Tanto è stato perso, ma senza di noi, sarebbe stato ancora peggio.»"
+  },
+  {
+   "id": "leiter.olympe.ally.reckoners",
+   "desc": "«I Conteggiatori sono cambiati dopo la Guerra. Alcuni di loro sono peggiori. Ma alcuni di loro, poiché hanno dovuto operare in pubblico, sono diventati… oh, non migliori. Non voglio illudermi. Ma almeno più attenti.»"
+  },
+  {
+   "id": "leiter.serena.mission.peace",
+   "desc": "«Ricordo la faccenda con Zidane, il suo progetto Allodola, i segreti del Roost. Avevo pensato che restituendoli, avremmo aiutato a mantenere la pace. E a pochi anni di distanza, questa Guerra nel Sole. Ma forse l’abbiamo ritardata. E anche se non l’abbiamo fatto – continuo a credere fosse la cosa giusta...»"
+  },
+  {
+   "id": "leiter.serena.mission.autarchy",
+   "desc": "«Era tutto molto più semplice, quando ero Archivista. Mi mancano terribilmente quei giorni. Era così frustrante allora – contrattare le richieste del Bureau, cercare un fornitore che consegnasse lapsang al villaggio… quelle cene stupide con Collers… ora, però, darei quasi tutto per tornare indietro. Ma questa è Storia.»"
+  },
+  {
+   "id": "leiter.serena.mission.revelation",
+   "desc": "«Ricordo quando abbiamo paralizzato Fissifer. Mi chiedo se le cose sarebbero state diverse, se non l’avessimo fatto? Il Nuovo Re sarebbe sopravvissuto? Avremmo potuto evitare la guerra? Ma forse è vero il contrario. Forse sarebbe stato ancora peggio. Be’: abbiamo dato a molti altri l’opportunità di fare queste scelte.»"
+  },
+  {
+   "id": "leiter.serena.foe.chandler",
+   "desc": "«La Chandler ha superato il suo tempo designato, e non è entrata nel mondo. Forse significa che abbiamo avuto successo. Forse era solo un simbolo dei fuochi che sono passati. O forse è tra le Ore non contate ora… Non lo crederò ancora; non lascerò che allentiamo la guardia.»"
+  },
+  {
+   "id": "leiter.serena.foe.ys",
+   "desc": "«Ys è la nemica della coerenza. Questo la rende la nemica dell’Eternità. Ma la rende anche la nemica degli archivisti.»"
+  },
+  {
+   "id": "leiter.stanislav.mission.peace",
+   "desc": "«Ho scelto il mio cammino a Strasburgo. Sono un guaritore prima di essere un sacerdote. Se questo significa che mi prendo libertà con la Verità maiuscola… be’, ci sono molte Storie. (<i>Credo</i> che ci siano ancora molte Storie.)»"
+  },
+  {
+   "id": "leiter.stanislav.mission.stone.consumed",
+   "desc": "«Kitling Ripe, ricordo, divorò gli aspiranti immortali da Lyterion. Se avessi saputo che era un presagio di cose a venire… avrei potuto scegliere diversamente.»"
+  },
+  {
+   "id": "leiter.stanislav.mission.stone.remembered",
+   "desc": "«Un sacerdote ha sempre bisogno di un dio. E tutti i miei dei precedenti si sono persi, o sono stati sostituiti, o sono diventati deludenti. Vediamo come se la cavano questi dei più antichi e nuovi.»"
+  },
+  {
+   "id": "leiter.stanislav.ally.carapace",
+   "desc": "«Avevo sperato che noi e la Croce ci capissimo. Finora si è rivelata una speranza troppo ottimistica. Mentre la zona del loro ritorno si allarga, le tensioni crescono… ma sto facendo quello che posso.»"
+  },
+  {
+   "id": "leiter.stanislav.foe.carapace",
+   "desc": "«Temevo che noi e la Croce non ci capissimo. Non volevo avere ragione. Mi avvilisce. Ma per ora, devo trattare il Cambiamento come se fosse una malattia. Sto migliorando in questo.»"
+  },
+  {
+   "id": "leiter.yvette.foe.ys",
+   "desc": "«Dr Yvette Southey; Yvette della stirpe di Ys; Yvette ferch Kelemdu; Figlia della Marca, Figlia del Mare. So che è tutto vero, ma mi rifiuto di prenderlo sul serio. Ho un dottorato in medicina da un’università abbastanza decente. Ho pubblicato tre libri su Jung che nessuno comprerà. Ho un uccello mynah che parla solo tedesco. Tutte queste cose sono vere. Suppongo, dopotutto. Ci sono molte Storie.»"
+  },
+  {
+   "id": "leiter.zachary.mission.peace",
+   "desc": "«Spencer è sceso.\nUn giorno lo seguirò.\nAllora ci sarà silenzio.\nFino ad allora, quando sono silenzioso, sarò silenzioso per l’Istituto del Faro.»"
+  },
+  {
+   "id": "leiter.zachary.mission.revelation",
+   "desc": "«Spencer è sceso.\nUn giorno lo seguirò.\nAllora sarò libero.\nFino ad allora, quando scelgo, farò le mie scelte per l’Istituto del Faro.»"
+  },
+  {
+   "id": "leiter.zachary.ally.chandler",
+   "desc": "«Credo di aver incontrato la Chandler una volta. A Londra. E poi nel Mansus. E poi a Londra, di nuovo...\nEra sempre gentile con me. E così credo che sarò io quello che la ricorderà.»"
+  },
+  {
+   "id": "leiter.zachary.foe.nowhere",
+   "desc": "«Ho parlato con i Vermi. È più facile di quanto penseresti – almeno per me – per via del mio passeggero. Ma non facile. Ne ho distrutti la maggior parte. Ovviamente. Ma una di loro… ora è come me.»"
+  },
+  {
+   "id": "leiter.zachary.foe.chandler",
+   "desc": "«Credo di aver incontrato la Chandler una volta. A Londra. E poi nel Mansus. E poi a Londra, di nuovo...\nEra sempre gentile con me. Ma credo che sarò io quello che le porrà fine.»"
+  },
+  {
+   "id": "leiter.rowena.persistent.mission.secrecy",
+   "desc": "«… l’ultimo scudo delle Marche... Calyptra… non il nostro nemico… verità, il fiore finale…»"
+  },
+  {
+   "id": "leiter.rowena.persistent.foe.ys",
+   "desc": "«Mio Kelemdu… Ys ebbe il suo dovuto…sempre… Lungo del Lupo… annegato… le sacerdotesse… vigili come Spinthre, astute come le Stelle. Lo so; perché ero della loro specie… ma non… un’alba pallida… la più pallida...»"
+  },
+  {
+   "id": "leiter.agdistis",
+   "desc": "Gli ideali di Agdistis non erano riflessi nei principi fondanti dell’Istituto. Non è un Segretario Salvante entusiasta; ma è coscienzioso, e impiega le sue arti di guarigione secondo le direttive dell’Istituto."
+  },
+  {
+   "id": "leiter.aladim",
+   "desc": "Al-Adim non ha visto i suoi ideali riflessi nei principi fondanti dell’Istituto. Ha fedelmente portato messaggi agli alleati dell’Istituto e ha parlato per suo conto agli altri rami dell’Albero del Guardiano. Ma, soprattutto ora che la Vagabonda è riconosciuta tra le Ore non contate, è improbabile che questo figlio della Rosa resti con l’Istituto molto più a lungo."
+  },
+  {
+   "id": "leiter.arthur",
+   "desc": "Gli ideali di Arthur non erano riflessi nei principi fondanti dell’Istituto, ma è stato a lungo un buon soldato, e servirà diligentemente come Vigilante… finché, forse, un giorno non gli sarà chiesto di venire meno ai propri principi un’ultima volta."
+  },
+  {
+   "id": "leiter.arun",
+   "desc": "La missione e i principi dell’Istituto non erano quelli di Arun. Ma è sempre stato molto difficile determinare quali <i>siano</I> davvero, esattamente, i principi di Arun. Lavorerà con l’Istituto, tenendo a guinzaglio o rilasciando i suoi segreti, avvolgendo le sue operazioni nei suoi soliti enigmi. Forse, un giorno, sarà il suo ultimo e più longevo membro."
+  },
+  {
+   "id": "leiter.azita",
+   "desc": "Azita avrebbe preferito che l’Istituto scegliesse un altro percorso. Ma Azita è sempre stata moralmente flessibile e commercialmente motivata. Finché è redditizio per lei lavorare con l’Istituto, lo farà – e l’Istituto beneficerà a sua volta della sua superba rete di contatti."
+  },
+  {
+   "id": "leiter.chaima",
+   "desc": "Chaima avrebbe scelto qualcosa di diverso da questo. Ma per ora, caccia i nemici dell’Istituto, e serba il silenzio."
+  },
+  {
+   "id": "leiter.connie",
+   "desc": "Può darsi che certi giorni Connie rimpianga di non essere rimasta al Bureau di Soppressione. Ma si è abituata al compromesso. Lavorerà con l’Istituto del Faro finché le loro strade non si separeranno."
+  },
+  {
+   "id": "leiter.connie.resigned",
+   "desc": "Può darsi che certi giorni Connie rimpianga di non essere rimasta al Bureau di Soppressione. Ma si è abituata al compromesso. Lavorerà con l’Istituto del Faro finché le loro strade non si separeranno."
+  },
+  {
+   "id": "leiter.coquille",
+   "desc": "Le preferenze di Coquille non sono riflesse nella missione o nella posizione dell’Istituto del Faro. Di tanto in tanto dà voce alla propria stizza. Ma in generale, lo trova ancora tutto «sufficientemente divertente»."
+  },
+  {
+   "id": "leiter.corso",
+   "desc": "Corso non riesce a trovare nessuno che sia d’accordo con le sue posizioni filosofiche, che peraltro sostiene con poca convinzione. Due volte ha fatto il broncio e ha rifiutato di assistere alle riunioni. Per lo più tira avanti – e usa le entrature dell’Istituto per trovare libri insoliti dopo il naufragio delle Guerre."
+  },
+  {
+   "id": "leiter.dagmar",
+   "desc": "Dagmar non ha molto interesse per gli obiettivi dell’Istituto, benché a quanto pare sia un utile espediente fiscale. È riuscita a far tenere le riunioni nella sua tenuta, finché non ha cominciato a chiedere contributi per riparare il tetto."
+  },
+  {
+   "id": "leiter.douglas",
+   "desc": "Douglas è deluso dalla direzione dell’Istituto, ma adempie ai suoi doveri con stanca tenacia."
+  },
+  {
+   "id": "leiter.echidna.persistent",
+   "desc": "Echidna è silenziosa in ogni riunione. È impossibile essere certi di quello che pensa davvero dell’Istituto. Gli altri membri hanno cominciato a chiedersi se una Segretaria Persistente sia davvero necessaria… ma non ne parlano in presenza di Echidna."
+  },
+  {
+   "id": "leiter.ehsan",
+   "desc": "Gli ideali di Ehsan non hanno molto in comune con gli ideali dell’Istituto; ma ricorda i giorni della Curia, i giorni in cui Hush House era un luogo di rifugio e guarigione; ricorda le luci sull’acqua, le risate dagli alloggi della servitù; sa che quei giorni non torneranno mai; ma mantiene la sua fede."
+  },
+  {
+   "id": "leiter.elie.persistent",
+   "desc": "I piani di Black Elie sono stati frustrati; l’Istituto non è quello che sperava. Elie ha vite di pazienza su cui contare; ma la sua condizione remortale le ha dato un nuovo senso di urgenza, e non sarà contenta di lasciare che l’Istituto vada per la sua strada molto più a lungo."
+  },
+  {
+   "id": "leiter.fraser",
+   "desc": "Fraser ha espresso senza mezzi termini la propria delusione perché l’Istituto non si impegna con la Croce del Carapace. Ma per ora, la relazione fra lui e l’Istituto rimane reciprocamente vantaggiosa e reciprocamente redditizia."
+  },
+  {
+   "id": "leiter.hokobald",
+   "desc": "Hokobald partecipa a ogni riunione dell’Istituto, per tuonare le sue rimostranze sui principi dell’Istituto, sul suo operato, sugli altri fondatori… difficilmente si godrebbe altrettanto le riunioni senza così tante cose di cui lamentarsi."
+  },
+  {
+   "id": "leiter.morgen",
+   "desc": "Morgen sembra sempre più annoiata dal lavoro dell’Istituto. Potrebbe non rimanere Segretaria Persistente molto più a lungo. Ma molto è cambiato nel mondo: forse è ora di scoprire se l’Istituto abbia davvero bisogno di una Segretaria Persistente."
+  },
+  {
+   "id": "leiter.olympe",
+   "desc": "«Tanto è stato perso,» Olympe ama dire, «ma senza di noi sarebbe stato molto peggio.» Non è chiaro se lei ci creda."
+  },
+  {
+   "id": "leiter.serena",
+   "desc": "Serena era delusa di vedere che l’Istituto non era quello che sperava: non un vero erede della Curia, del Trust di St Rhonwen, o di nessuno dei suoi altri piani oscuri. Ma lavora con esso il meglio che può. Serena è sempre stata una pragmatica."
+  },
+  {
+   "id": "leiter.stanislav",
+   "desc": "«Sono un guaritore prima di essere un sacerdote», così hanno sentito dire a Stanislav. La direzione che ha preso l’Istituto non lo soddisfa, ma è disposto a rimanere finché sente di far progredire la prima funzione."
+  },
+  {
+   "id": "leiter.yvette",
+   "desc": "Yvette non sa davvero cosa sta facendo qui all’Istituto. Yvette teme di essere una pedina. Un giorno, Yvette sarà qualcosa di inaspettato."
+  },
+  {
+   "id": "leiter.zachary",
+   "desc": "Zachary siede miseramente silenzioso nelle riunioni, chiaramente turbato dalla direzione che l’Istituto ha preso. «Devo restare freddo», sussurra talvolta."
+  },
+  {
+   "id": "leiter.rowena.persistent",
+   "desc": "Rowena raramente partecipa alle riunioni di persona. Quando lo fa, parla ellitticamente, implorando, talvolta saggiamente. Si lecca le labbra, disperatamente. La sua bellezza è chiaro di luna, specchio, osso."
+  }
+ ]
+}

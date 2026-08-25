@@ -1,0 +1,100 @@
+{
+ "recipes": [
+  {
+   "id": "talk.visitor.hire",
+   "label": "Assumi un Visitatore",
+   "startdescription": "Ingaggerò questa persona per un giorno.",
+   "desc": "Assunto."
+  },
+  {
+   "id": "talk.visitor.hire.hint",
+   "label": "Assumi un Visitatore?",
+   "startdescription": "Se soddisfo il suo prezzo, potrò assumerlo per un giorno."
+  },
+  {
+   "id": "talk.visitor.show.slot.generic",
+   "startdescription": "Posso individuare gli interessi del mio visitatore, e soddisfarli con un libro adatto. In alternativa, se conosce una lingua che vorrei imparare, posso offrirgli un pagamento. [I visitatori poco fidati potrebbero occasionalmente scappare con un libro.]",
+   "desc": "Il mio visitatore non ha imparato nulla.",
+   "slots": [
+    {
+     "id": "v",
+     "label": "Dai o Prendi",
+     "description": "Un libro che corrisponde ai suoi interessi – o una spintria per pagare i suoi servizi."
+    }
+   ]
+  },
+  {
+   "id": "talk.visitor.show.slot.specific",
+   "slots": [
+    {
+     "id": "v",
+     "label": "Libro",
+     "description": "Un libro che corrisponde ai suoi interessi."
+    }
+   ]
+  },
+  {
+   "id": "talk.visitor.affair.router"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.agdistis"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.aladim"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.arthur"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.arun"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.azita"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.chaima"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.connie"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.coquille"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.corso"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.dagmar"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.douglas"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.ehsan"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.fraser"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.hokobald"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.morgen"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.olympe"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.serena"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.stanislav"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.yvette"
+  },
+  {
+   "id": "talk.visitor.offer.callingcard.zachary"
+  }
+ ]
+}

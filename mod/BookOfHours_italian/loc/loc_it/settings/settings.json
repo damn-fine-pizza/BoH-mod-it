@@ -1,0 +1,264 @@
+{
+ "settings": [
+  {
+   "id": "ScreenCanvasSizeSlider",
+   "hint": "UI_OPT_UISCALING"
+  },
+  {
+   "id": "FontSize",
+   "hint": "UI_FONT_SIZE"
+  },
+  {
+   "id": "GraphicsLevel",
+   "hint": "UI_OPT_GRAPHICS_LEVEL"
+  },
+  {
+   "id": "VSyncLevel",
+   "hint": "UI_OPT_VSYNC_LEVEL"
+  },
+  {
+   "id": "Windowed",
+   "hint": "UI_WINDOW_MODE"
+  },
+  {
+   "id": "Resolution",
+   "hint": "UI_OPT_RESOLUTION"
+  },
+  {
+   "id": "UnlockAllResolutions",
+   "hint": "UI_OPT_UNLOCK_ALL_RESOLUTIONS"
+  },
+  {
+   "id": "HighContrast",
+   "hint": "UI_OPT_CONTRAST"
+  },
+  {
+   "id": "AccessibleCards",
+   "hint": "UI_OPT_ACCESSIBLE_CARDS"
+  },
+  {
+   "id": "MasterVolume",
+   "hint": "UI_OPT_MASTERVOL"
+  },
+  {
+   "id": "MusicVolume",
+   "hint": "UI_OPT_MUSICVOL"
+  },
+  {
+   "id": "SfxVolume",
+   "hint": "UI_OPT_SFXVOL"
+  },
+  {
+   "id": "WeatherVolume",
+   "hint": "UI_OPT_WEATHERVOL"
+  },
+  {
+   "id": "EnvironmentVolume",
+   "hint": "UI_OPT_ENVIRONMENTVOL"
+  },
+  {
+   "id": "kbpause",
+   "hint": "UI_KB_PAUSE"
+  },
+  {
+   "id": "kbnormalspeed",
+   "hint": "UI_KB_NORMALSPEED"
+  },
+  {
+   "id": "kbfastspeed",
+   "hint": "UI_KB_FASTSPEED"
+  },
+  {
+   "id": "kbslower",
+   "hint": "UI_KB_SLOWER"
+  },
+  {
+   "id": "kbfaster",
+   "hint": "UI_KB_FASTER"
+  },
+  {
+   "id": "kboverflow",
+   "hint": "UI_KB_OVERFLOW"
+  },
+  {
+   "id": "kbnextcomplete",
+   "hint": "UI_KB_NEXTCOMPLETE"
+  },
+  {
+   "id": "text_clickmodifierdesc",
+   "hint": "UI_KB_CLICKMODIFIERDESC"
+  },
+  {
+   "id": "kbshiftclickmodifier",
+   "hint": "UI_KB_SHIFTCLICKMODIFIER"
+  },
+  {
+   "id": "kbctrlclickmodifier",
+   "hint": "UI_KB_CTRLCLICKMODIFIER"
+  },
+  {
+   "id": "kbstartrecipe",
+   "hint": "UI_KB_STARTRECIPE"
+  },
+  {
+   "id": "kbcollectall",
+   "hint": "UI_KB_COLLECTALL"
+  },
+  {
+   "id": "kbrefillslots",
+   "hint": "UI_KB_REFILLSLOTS"
+  },
+  {
+   "id": "kbzoomin",
+   "hint": "UI_KB_ZOOMIN"
+  },
+  {
+   "id": "kbzoomout",
+   "hint": "UI_KB_ZOOMOUT"
+  },
+  {
+   "id": "kbstack",
+   "hint": "UI_KB_STACKCARDS"
+  },
+  {
+   "id": "kbundomodifier",
+   "hint": "UI_KB_UNDO_MODIFIER"
+  },
+  {
+   "id": "kbzoom1",
+   "hint": "UI_KB_ZOOM1"
+  },
+  {
+   "id": "kbzoom2",
+   "hint": "UI_KB_ZOOM2"
+  },
+  {
+   "id": "kbzoom3",
+   "hint": "UI_KB_ZOOM3"
+  },
+  {
+   "id": "kbzoom4",
+   "hint": "UI_KB_ZOOM4"
+  },
+  {
+   "id": "kbtruckleft",
+   "hint": "UI_KB_TRUCKLEFT"
+  },
+  {
+   "id": "kbtruckright",
+   "hint": "UI_KB_TRUCKRIGHT"
+  },
+  {
+   "id": "kbpedestalup",
+   "hint": "UI_KB_PEDESTALUP"
+  },
+  {
+   "id": "kbpedestaldown",
+   "hint": "UI_KB_PEDESTALDOWN"
+  },
+  {
+   "id": "kbtogglehud",
+   "hint": "UI_KB_TOGGLE_HUD"
+  },
+  {
+   "id": "kbtray1",
+   "hint": "UI_KB_TRAY1"
+  },
+  {
+   "id": "kbtray2",
+   "hint": "UI_KB_TRAY2"
+  },
+  {
+   "id": "kbtray3",
+   "hint": "UI_KB_TRAY3"
+  },
+  {
+   "id": "kbtray4",
+   "hint": "UI_KB_TRAY4"
+  },
+  {
+   "id": "UseGamepad",
+   "hint": "UI_USE_GAMEPAD"
+  },
+  {
+   "id": "text_Traversal",
+   "hint": "UI_TRAVERSAL_HEADER"
+  },
+  {
+   "id": "ZoomStepDistance",
+   "hint": "UI_ZOOM_STEP"
+  },
+  {
+   "id": "CameraArrowSpeed",
+   "hint": "UI_CAMERA_ARROW_SPEED"
+  },
+  {
+   "id": "EdgeScroll",
+   "hint": "UI_EDGE_SCROLL"
+  },
+  {
+   "id": "edgeScrollAreaHorizontal",
+   "hint": "UI_EDGE_SCROLL_AREA_HORIZONTAL"
+  },
+  {
+   "id": "edgeScrollAreaVertical",
+   "hint": "UI_EDGE_SCROLL_AREA_VERTICAL"
+  },
+  {
+   "id": "text_CardTrays",
+   "hint": "UI_CARD_TRAYS_HEADER"
+  },
+  {
+   "id": "GridSnapLevel",
+   "hint": "UI_OPT_GRIDSNAPSIZE"
+  },
+  {
+   "id": "text_AutoSortOverlap",
+   "hint": "UI_OPT_AUTOSORTOVERLAP_HEADER"
+  },
+  {
+   "id": "AutoSortOverlap_memories",
+   "hint": "UI_OPT_AUTOSORTOVERLAP_MEMORIES"
+  },
+  {
+   "id": "AutoSortOverlap_abilities",
+   "hint": "UI_OPT_AUTOSORTOVERLAP_ABILITIES"
+  },
+  {
+   "id": "AutoSortOverlap_skills",
+   "hint": "UI_OPT_AUTOSORTOVERLAP_SKILLS"
+  },
+  {
+   "id": "AutoSortOverlap_misc",
+   "hint": "UI_OPT_AUTOSORTOVERLAP_MISC"
+  },
+  {
+   "id": "AutosortEarlierCardsOnTop",
+   "hint": "UI_AUTOSORT_EARLIER_CARDS_ONTOP"
+  },
+  {
+   "id": "text_Messages",
+   "hint": "UI_NOTIFICATIONS_HEADER"
+  },
+  {
+   "id": "NotificationTime",
+   "hint": "UI_OPT_INFODURATION"
+  },
+  {
+   "id": "ShowNotificationCopyToClipboard",
+   "hint": "UI_OPT_SHOW_NOTIFICATION_COPY_TO_CLIPBOARD"
+  },
+  {
+   "id": "AutosaveInterval",
+   "hint": "UI_OPT_AUTOSAVEINTERVAL"
+  },
+  {
+   "id": "DisableSeasonals",
+   "hint": "UI_OPT_DISABLE_SEASONALS"
+  },
+  {
+   "id": "Culture",
+   "hint": "UI_LANGUAGE"
+  }
+ ]
+}

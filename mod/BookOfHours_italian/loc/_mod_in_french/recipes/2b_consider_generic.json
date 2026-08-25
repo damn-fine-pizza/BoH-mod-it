@@ -1,0 +1,196 @@
+ {"recipes": [
+
+
+    {
+        "id": "examine.considerable.beverage",
+        "actionid": "consider",
+        "label": "Boire",
+        "reqs":{"considerable":1,"ability":1,"beverage":1},
+        "startdescription": "Buvez ce truc. [Cela consommera la boisson. S'il s'agit d'une bouteille entière, pensez à la servir d'abord afin de ne pas boire le tout.]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+    {
+        "id": "examine.considerable.candle",
+        "actionid": "consider",
+        "label": "Lumière",
+        "reqs":{"considerable":1,"ability":1,"candle":1},
+        "startdescription": "Allume la bougie. [Cela la consommera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+    {
+        "id": "examine.considerable.device",
+        "actionid": "consider",
+        "label": "Activer",
+        "reqs":{"considerable":1,"ability":1,"device":1,"inert":-1},
+        "startdescription": "Activez ceci. [Cela l'épuisera ; il ne restera rien]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+    {
+        "id": "examine.considerable.flower",
+        "actionid": "consider",
+        "label": "Disséquer",
+        "reqs":{"considerable":1,"ability":1,"flower":1},
+        "startdescription": "Disséquer la fleur. [Rien ne restera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.fruit",
+        "actionid": "consider",
+        "label": "Consommer",
+        "reqs":{"considerable":1,"ability":1,"fruit":1},
+        "startdescription": "Consommez le fruit. [Rien ne restera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.leaf",
+        "actionid": "consider",
+        "label": "Disséquer",
+        "reqs":{"considerable":1,"ability":1,"leaf":1},
+        "startdescription": "Disséquer la feuille. [Rien ne restera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.liquid",
+        "actionid": "consider",
+        "label": "Analyse",
+        "reqs":{"considerable":1,"ability":1,"liquid":1},
+        "startdescription": "Analysez le liquide. [Rien ne restera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.mark",
+        "actionid": "consider",
+        "label": "Enquêter",
+        "reqs":{"considerable":1,"ability":1,"mark":1},
+        "startdescription": "Examinez la marque. [Rien ne restera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.material",
+        "actionid": "consider",
+        "label": "Analyse",
+        "reqs":{"considerable":1,"ability":1,"material":1},
+        "startdescription": "Analysez cette substance. [Rien ne restera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.remains",
+        "actionid": "consider",
+        "label": "Disséquer",
+        "reqs":{"considerable":1,"ability":1,"remains":1},
+        "startdescription": "Disséquer les restes. [Il ne restera plus rien]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.root",
+        "actionid": "consider",
+        "label": "Disséquer",
+        "reqs":{"considerable":1,"ability":1,"root":1},
+        "startdescription": "Disséquez la racine. [Rien ne restera]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,        
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.sustenance",
+        "actionid": "consider",
+        "label": "Consommer",
+        "reqs":{"considerable":1,"ability":1,"sustenance":1},
+        "startdescription": "Mange le. [Il ne restera plus rien, mais vous apprécierez peut-être le repas]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"scrutiny":1},
+        "craftable":true,        
+        "linked":[{"id":"examine.considerable.consume"}]
+    },
+
+    {
+        "id": "examine.considerable.beast",
+        "actionid": "consider",
+        "label": "Inspecter",
+        "reqs":{"considerable":1,"ability":1,"beast":1},
+        "startdescription": "Inspectez cette bête. [Cependant, il peut être plus gratifiant de parler avec une bête]",
+        "desc": "Qu'ai-je appris?",
+        "warmup":30,
+        "aspects":{"fatiguing.ability":1,"scrutiny":1},
+        "craftable":true
+    },
+{
+    "id": "examine.considerable.generic",
+    "actionid": "consider",
+    "label": "Enquêter",
+    "reqs":{"considerable":1,"ability":1},
+    "startdescription": "Examinez l’objet. [Vous ne l'utiliserez pas et ne le consommerez pas en faisant cela]",
+    "desc": "Qu'ai-je appris?",
+    "warmup":30,
+    "aspects":{"fatiguing.ability":1,"scrutiny":1},
+    "craftable":true
+},
+{
+    "id": "examine.considerable.consume",
+    "actionid": "consider",
+    "comments":"The Cocoa Problem: after the last round of changes, we want to fatigue ingredients after scrutiny so the message shows, and also _not_ to fatigue the memory. #prv analysis-result",
+    "aspects":{"fatiguing.ingredients":1,"fatiguing.ability":1}
+},
+
+{
+    "id": "examine.considerable.hint",
+    "actionid": "consider",
+    "label": "Enquêter?",
+    "reqs":{"considerable":1,"ability":-1},
+    "startdescription": "[Ajoutez une Carte d'Âme]",
+    "hintonly":true
+}
+
+]
+}

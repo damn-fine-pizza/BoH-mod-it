@@ -1,0 +1,17 @@
+{
+    "legacies": [
+        {
+            "id": "librarian",
+            "label": "Brancrug, March 7th, 1936",
+			"family": "librarian",
+            "startdescription": "'There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates are very difficult to find, but perhaps we have found one in you. Take care on your journey - the seas around Brancrug are treacherous...'",
+            "desc": "'She brought them to Brancrug Isle, which even then was a hidden place, to make a double foundation of nuns and monks, and become its first abbess: but she would admit none to the order who was a virgin, nor innocent of any crime. Since then, Brancrug has been a refuge for all the world might consider impure.'",
+
+			 "startup": [
+                {"id": "setup.librarian.consider","topath":"~/fixedverbs"},
+                {"id": "setup.librarian.bookcase","topath":"~/library!lodge/?"},
+                {"id": "setup.librarian.visitors","topath":"~/visitors.offstage"},
+            ],
+        }
+    ]
+}

@@ -1,0 +1,134 @@
+ {"recipes": [
+
+
+
+{"id": "daily.weather",
+"label": "Daily Weather",
+"startdescription":"Weather router",
+"actionid": "weather",
+"alt":[{"id":"daily.weather.spring"},
+{"id":"daily.weather.summer"},
+{"id":"daily.weather.autumn"},
+{"id":"daily.weather.winter"}],
+"warmup":5
+},
+
+{"id": "daily.weather.spring",
+"label": "Daily Weather: Spring",
+"startdescription":"Weather draw: Spring",
+"actionid": "weather",
+"extantreqs":{"season.spring":1},
+"deckeffects":{"deck.weather.spring":1},
+"linked":[{"id":"weather.enactor.*"}]},
+
+{"id": "daily.weather.summer",
+"label": "Daily Weather: Summer",
+"startdescription":"Weather draw: Summer",
+"actionid": "weather",
+"extantreqs":{"season.summer":1},
+"deckeffects":{"deck.weather.summer":1},
+"linked":[{"id":"weather.enactor.*"}]},
+
+{"id": "daily.weather.autumn",
+"label": "Daily Weather: Autumn",
+"startdescription":"Weather draw: Autumn",
+"actionid": "weather",
+"extantreqs":{"season.autumn":1},
+"deckeffects":{"deck.weather.autumn":1},
+"linked":[{"id":"weather.enactor.*"}]},
+
+{"id": "daily.weather.winter",
+"label": "Daily Weather: Winter",
+"startdescription":"Weather draw: Winter",
+"actionid": "weather",
+"extantreqs":{"season.winter":1},
+"deckeffects":{"deck.weather.winter":1},
+"linked":[{"id":"weather.enactor.*"}]
+},
+
+
+{
+    "id": "weather.enactor.rain",
+    "label": "A Rainy Day",
+    "actionid": "weather.enactor.rain",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.rain":1},
+    "fx":{"weather.rain":0}
+},
+{
+    "id": "weather.enactor.snow",
+    "label": "A Snowy Day",
+    "actionid": "weather.enactor.snow",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.snow":1},
+    "fx":{"weather.snow":0}
+},
+{
+    "id": "weather.enactor.storm",
+    "label": "A Stormy Day",
+    "actionid": "weather.enactor.storm",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.storm":1},
+    "fx":{"weather.storm":0}
+},
+{
+    "id": "weather.enactor.fog",
+    "label": "A Foggy Day",
+    "actionid": "weather.enactor.fog",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.fog":1},
+    "fx":{"weather.fog":0}
+},
+{
+    "id": "weather.enactor.hail",
+    "label": "Hail",
+    "actionid": "weather.enactor.hail",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.hail":1},
+    "fx":{"weather.hail":0}
+},
+{
+    "id": "weather.enactor.gale",
+    "label": "Gale",
+    "actionid": "weather.enactor.gale",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.gale":1},
+    "fx":{"weather.gale":0}
+},
+
+{
+    "id": "weather.enactor.sunny",
+    "label": "Sunny",
+    "actionid": "weather.enactor.sunny",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.sunny":1},
+    "fx":{"weather.sunny":0}
+},
+
+{
+    "id": "weather.enactor.clouds",
+    "label": "Clouds",
+    "actionid": "weather.enactor.clouds",
+    "warmup": 1,
+    "craftable": false,
+    "reqs":{"weather.clouds":1},
+    "fx":{"weather.clouds":0}
+}
+
+
+
+
+
+
+
+
+
+]
+}

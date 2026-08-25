@@ -1,0 +1,2435 @@
+{
+ "recipes": [
+  {
+   "id": "nxs.n.casket.coquille.escape",
+   "label": "Fuga",
+   "preface": "Coquille ha dato seguito al proprio desiderio di aprire lo Scrigno? Potrei chiederglielo.",
+   "desc": "«Sì, davvero; sono riuscita a liberare il Messaggero. Mi dicono che sia grato che la Hush House abbia deciso di non aiutare quella tale von Nagelsburg a tenerlo prigioniero. Ecco un segno della sua gratitudine. Forse se hai un altare al Chancel, dovresti metterlo lì...»"
+  },
+  {
+   "id": "nxs.n.casket.dagmar.confinement",
+   "label": "Reclusione",
+   "preface": "Dagmar è riuscita nel proprio disegno di sigillare lo Scrigno? Potrei chiederglielo.",
+   "desc": "«Sì tutto bene, contenta che tu non abbia aiutato nessun altro a farlo scappare, ma contenta anche che tu l’abbia tirato fuori, volevo parlartene. L’immagine del tizio nella scatola è uscita nel mondo, diciamo nell’anello più esterno del significato. Puoi metterla da qualche parte al sicuro? Vale a dire, se avessi per esempio una specie di sarcofago speciale in cantina...»"
+  },
+  {
+   "id": "nxs.n.casket.zachary.escape",
+   "label": "Fuga",
+   "preface": "Zachary è riuscito nel piano che aveva lasciato intendere per aprire lo Scrigno? Potrei chiederglielo.",
+   "desc": "«Ho scelto la libertà. Nessuno si è opposto a me. Ho liberato il Messaggero. Ecco: prendi questo, perché dimori sul tuo altare trisommo. Forse allora ci saranno meno rimpianti. Lo spero.»"
+  },
+  {
+   "id": "nxs.n.casket.coquille.thwarted.by.dagmar",
+   "label": "Ostacolato da Dagmar?",
+   "preface": "Coquille ha dato seguito al proprio desiderio di aprire lo Scrigno? Potrei chiederglielo.",
+   "desc": "«Ho fatto l’impossibile, ma quella donna von Nagelsburg è una scocciatura. Specialmente con il tuo aiuto… non che ti stia dando la colpa, cara, so che la Casa è la Casa. Il prigioniero ora si può vedere nel mondo, negli specchi e nei dipinti, ma i sigilli sullo Scrigno tengono ancora, in parte...»"
+  },
+  {
+   "id": "nxs.n.casket.dagmar.thwarted.by.coquille",
+   "label": "Ostacolato da Coquille?",
+   "preface": "Dagmar è riuscita nel proprio disegno di sigillare lo Scrigno? Potrei chiederglielo.",
+   "desc": "«Maledetta Coquille. Ho fatto del mio meglio ma è una vera piccola volpe. Non l’hai aiutata, vero? No, non dirmelo, meglio non sapere. Comunque, i sigilli sullo Scrigno si stanno incrinando…»"
+  },
+  {
+   "id": "nxs.n.casket.dagmar.thwarted.by.zachary",
+   "label": "Ostacolato da Zachary?",
+   "preface": "Dagmar è riuscita nel proprio disegno di sigillare lo Scrigno? Potrei chiederglielo.",
+   "desc": "«Maledetto Wakefield. Ho fatto del mio meglio ma il pover’uomo continuava a intralciarmi. Non so nemmeno se sapesse davvero cosa stesse facendo. Un vero paladino delle libertà. Comunque, i sigilli sullo Scrigno si stanno incrinando…»"
+  },
+  {
+   "id": "nxs.n.casket.zachary.thwarted.by.dagmar",
+   "label": "Ostacolato da Dagmar?",
+   "preface": "Zachary è riuscito nel piano che aveva lasciato intendere per aprire lo Scrigno? Potrei chiederglielo.",
+   "desc": "«Mi hai aiutato; hai aiutato anche Dagmar von Nagelsburg. Ecco l’equilibrio. I sigilli sullo Scrigno sono incrinati; il Messaggero non può ancora fuggire, sebbene la sua immagine ora si veda nel mondo. Ecco un altro equilibrio.»"
+  },
+  {
+   "id": "nxs.n.casket.coquille.no.escape",
+   "label": "Nessuna Fuga?",
+   "preface": "Cosa è successo con lo Scrigno del Messaggero? Potrei chiederlo a Coquille.",
+   "desc": "«Ho fatto del mio meglio, ma quella donna von Nagelsburg è una scocciatura. Specialmente con il tuo aiuto… non che ti stia dando la colpa, cara, so come dev’essere la Casa. Il Messaggero a volte si può vedere nel mondo ora, negli specchi e nei dipinti, ma i sigilli sullo Scrigno tengono ancora, in parte...»"
+  },
+  {
+   "id": "nxs.n.casket.dagmar.no.safety",
+   "label": "Nessuna Sicurezza?",
+   "preface": "Cosa è successo con lo Scrigno del Messaggero? Potrei chiederlo a Dagmar.",
+   "desc": "«Ho fatto del mio meglio ma Coquille continua a provare a scassinarlo e Wakefield fa qualunque cosa stia facendo. Non sono venuti da te per un consiglio, vero? Meglio non dirmelo. Comunque, i sigilli sullo Scrigno si stanno incrinando…»"
+  },
+  {
+   "id": "nxs.n.casket.zachary.no.surcease",
+   "label": "Nessuna Tregua?",
+   "preface": "Cosa è successo con lo Scrigno del Messaggero? Potrei chiederlo a Zachary.",
+   "desc": "«Ci hai aiutato; hai aiutato anche Dagmar von Nagelsburg. Ecco l’equilibrio. I sigilli sullo Scrigno sono incrinati; il Messaggero non può ancora fuggire, sebbene la sua immagine ora si veda nel mondo. Ecco un altro equilibrio.»"
+  },
+  {
+   "id": "nxc.n.casket.cracked.coquille.help.coquille",
+   "label": "Aiuta Coquille",
+   "preface": "«Il prigioniero ora si può vedere nel mondo, negli specchi e nei dipinti, ma i sigilli reggono ancora, in parte. Mi serve qualche consiglio su come raffigurarlo meglio. Un testo su Visioni & Sensazioni [10], magari? O mi dicono che Eva Dewulf scrisse un libro malizioso che potrebbe nascondere segreti d’inchiostro...»",
+   "desc": "«Non è stato di grande aiuto. Hai qualcosa di meglio?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.casket.cracked.coquille.t.etteryafter",
+   "desc": "«Grazie, tesoro. È molto difficile rappresentare qualcosa di quella statura efficacemente nell’arte… ma conosco un artista di talento, o due, e quel libriccino malizioso ha molto da dire su inchiostri e prigionie... se magari inquadrassimo il Fiore Nero come Atrament, allora... lascia perdere. Il Messaggero è libero. Ecco il dipinto, come segno della nostra gratitudine. Forse se hai un altare al Chancel, dovresti metterlo lì...»"
+  },
+  {
+   "id": "nxh.n.casket.cracked.coquille.r.sights.sensations",
+   "desc": "«Grazie, tesoro. È molto difficile rappresentare qualcosa di quella statura efficacemente nell’arte… ma conosco un artista di talento, o due, e il tuo libro mi ha dato abbastanza intuizioni sui pigmenti particolari di cui avevano bisogno… è libero, ed è una gioia poterlo dire. Ecco il dipinto, come segno della nostra gratitudine. Forse se hai un altare al Chancel, dovresti metterlo lì...»"
+  },
+  {
+   "id": "nxc.n.casket.cracked.dagmar.help.dagmar",
+   "label": "Aiuta Dagmar",
+   "preface": "«Il Messaggero sta comparendo in specchi dubbi. In dipinti di pittori più sciocchi. Perfino in fotografie di fiamme… bisogna bloccarlo là fuori, poi si può lavorare sullo Scrigno. Hai qualcosa di decente su Visioni & Sensazioni [10]? O magari Husher ha qualche idea, se hai qualcosa di Husher.»",
+   "desc": "«Be’, questo non serve proprio a un accidente. Cos’altro hai?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.casket.cracked.dagmar.t.onthewhite",
+   "desc": "«Il Messaggero? Beccato! Grazie per il materiale di lettura, eh? Ecco l’ultimo pezzo di tutta la faccenda. Puoi metterlo da qualche parte al sicuro? Tipo, se avessi per esempio una specie di sarcofago speciale in cantina...»"
+  },
+  {
+   "id": "nxh.n.casket.cracked.dagmar.r.sights.sensations",
+   "desc": "«Be’, se non puoi dipingerlo, mangialo, come probabilmente non disse mai Solomon Husher. Grazie per quello. Ecco l’ultimo pezzo di tutta la faccenda. Puoi metterlo da qualche parte al sicuro? Vale a dire, se avessi per esempio una specie di sarcofago speciale in cantina...»"
+  },
+  {
+   "id": "nxc.n.casket.cracked.zachary.help.zachary",
+   "label": "Aiuta Zachary",
+   "preface": "«Il Messaggero fugge nelle immagini: dipinti, specchi, fotografie. Potrei trovare ciò che mi serve in un testo di Visioni & Sensazioni [10]. Ma anche “guarda ai serpenti”, credo mi abbia detto. C’era un Principe Incappucciato, Jekadu, che conosceva una via di fuga che potremmo trovare utile...»",
+   "desc": "«Mi dispiace. Non ho saputo ricavarne nulla.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.casket.cracked.zachary.t.amanualfordeparture",
+   "desc": "«C’è una tradizione secondo cui il Messaggero è nemico dei serpenti. Non ci avevo mai creduto. E ora è libero. Ecco: prendi questo, perché dimori sul tuo altare trisommo. Forse allora ci saranno meno rimpianti. Lo spero.»"
+  },
+  {
+   "id": "nxh.n.casket.cracked.zachary.r.sights.sensations",
+   "desc": "«Ho trovato i colori, ho comprato i tratti. Il Messaggero è libero. Ecco: prendi questo, perché dimori sul tuo altare trisommo. Forse allora ci saranno meno rimpianti. Lo spero.»"
+  },
+  {
+   "id": "nxs.n.revolution.arthur.the.revolution",
+   "label": "La Rivoluzione?",
+   "preface": "Come procede la rivoluzione nei Confini vicino a Meshad? Potrei chiederlo ad Arthur.",
+   "desc": "«I ribelli – sono più o meno degli zurvanisti marziali – se la cavano bene. Ma la cosa mi preoccupa. Seguono da tempo un Nome-Leonfabbro che chiamiamo il Quadruplice. Ma ho parlato con uno dei loro <i>mobeds</i>, e ho appreso che stanno ricevendo approcci da un potere di fuoco nell’oscurità. Tempo e destino; fuoco e oscurità. Venerano queste cose.»"
+  },
+  {
+   "id": "nxs.n.revolution.azita.legion.supplies",
+   "label": "Rifornimenti per la Legione?",
+   "preface": "Azita è riuscita a procurare alla Legione il sostituto di taenite di cui i suoi intendenti avevano bisogno? Potrei chiederglielo.",
+   "desc": "«Sì. Una Stella caduta. Era <i>un po’</i> chiacchierona – forse sai come possono essere questi visitatori – ma divisa in pezzi abbastanza piccoli, è quasi silenziosa. La Legione non si è lamentata. E ha rovesciato a loro favore le sorti della guerra contro i ribelli.»"
+  },
+  {
+   "id": "nxs.n.revolution.chaima.a.contract.officer",
+   "label": "Un Funzionario a Contratto?",
+   "preface": "Chaima ha accettato un contratto per combattere con la Legione? Potrei chiederglielo.",
+   "desc": "«Sì. Diffido di questi ribelli, questi “zurvanisti del Quadruplice”. Che restino fedeli al loro Nome-Leonfabbro, o no.»"
+  },
+  {
+   "id": "nxs.n.revolution.hokobald.a.taenite.revolution",
+   "label": "Una Rivoluzione di Taenite?",
+   "preface": "Azita è riuscita a procurare alla Legione il sostituto di taenite di cui i suoi intendenti avevano bisogno? Se non è nei paraggi, potrei chiederlo a Hokobald.",
+   "desc": "«Sì. Ha diviso una Stella caduta. I frammenti hanno dato alla Legione ciò che volevano. Azita è stata pagata. Ma i visitatori-Stella possono essere loquaci – anche così divisi. Quella donna è una sciocca.»"
+  },
+  {
+   "id": "nxs.n.revolution.hokobald.a.mercenary.act",
+   "label": "Un Atto Mercenario?",
+   "preface": "Chaima ha accettato un contratto per combattere con la Legione? Se non è nei paraggi, potrei chiederlo a Hokobald.",
+   "desc": "«Sì. Ha guidato attacchi contro i ribelli, questi “zurvanisti del Quadruplice”. Immagino che la Legione sia contenta del suo aiuto. È formidabile, per essere una donna.»"
+  },
+  {
+   "id": "nxs.n.revolution.hokobald.revolution.in.the.bounds",
+   "label": "Rivoluzione nei Confini?",
+   "preface": "Come procede la rivoluzione nei Confini vicino a Meshad? A quanto pare Hokobald vi aveva un interesse.",
+   "desc": "«Questi ribelli – questi “zurvanisti del Quadruplice” – stanno causando qualche difficoltà alla Legione. Ma il potere che servono è un artiglio smussato. Mi sono offerto di presentarli ad altri padroni. Dovrebbero darmi ascolto.»"
+  },
+  {
+   "id": "nxc.n.revolution.failing.arthur.renew.devotion",
+   "label": "Rinnova la devozione",
+   "preface": "«Temo che nella loro disperazione i Ribelli possano essere tentati di allontanarsi dal Quadruplice... verso il Chandler. Le dottrine giuste potrebbero rinnovare la loro devozione. Hai qualcosa di buono sui Grandi Segni e Grandi Cicatrici [10? O quell’opera di Brulleau sul momento di scelta del Leonfabbro?",
+   "desc": "«Non credo che possa bastare. Altre idee?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.failing.arthur.t.sevenshards",
+   "desc": "«Dal terzo Frammento al quarto, come diciamo nel Labirinto. I <i>mobeds</i> hanno rinnovato i fuochi dei loro altari e riacceso i loro patti. La ribellione è finita, ma credo, in tutta onestà, che non sarebbe dovuta cominciare mai…»"
+  },
+  {
+   "id": "nxh.n.revolution.failing.arthur.r.thegreatsignsandthegreatscars",
+   "desc": "«I <i>mobeds</i> hanno rinnovato i fuochi dei loro altari e riacceso i loro patti… oso sperare che sia perché ho ricordato loro il prezzo del tempo, e il costo del destino. La ribellione è finita, ma credo, in tutta onestà, che non sarebbe dovuta cominciare mai…»"
+  },
+  {
+   "id": "nxc.n.revolution.failing.azita.assist.the.legion",
+   "label": "Assisti la Legione",
+   "preface": "«La Legione mi ha chiesto di consigliarla. So una cosa o due, ma vorrei rinfrescarmi la memoria. Westergren combatté con loro una volta, e credo sia venuto a Brancrug dopo… hai le sue memorie? O qualcosa su Taglienti [10]…»",
+   "desc": "«No, non va bene. Altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.failing.azita.t.lettersfromafugitive",
+   "desc": "«Proprio brillante, Westergren. Non ho mai avuto fiducia in lui, ma lo incontravo a volte nel Mansus… i suoi trucchi non l’hanno salvato. Ma ha dato alla Legione ciò che serviva per sedare i ribelli. Un affare sporco. Ma più sporco ancora se i ribelli si fossero rivolti al Chandler, e credo davvero che avrebbero potuto farlo.»"
+  },
+  {
+   "id": "nxh.n.revolution.failing.azita.r.sharps",
+   "desc": "«Trucchi spietati, quelli. Ha dato alla Legione ciò che serviva per sedare i ribelli. Un affare sporco. Ma più sporco ancora se i ribelli si fossero rivolti al Chandler, e credo davvero che avrebbero potuto farlo.»"
+  },
+  {
+   "id": "nxc.n.revolution.failing.chaima.assist.the.legion",
+   "label": "Assisti la Legione",
+   "preface": "«Ho promesso i miei servigi alla Legione ancora una volta. E non conosco le rotte dei Confini vicino a Meshad. La Compagnia del Lupo-in-Oro combatté lì tanto tempo fa, e Harries ne scrisse. Hai il libro? O qualcos’altro che potrei usare? [Taglienti 10]»",
+   "desc": "«Questo non mi serve a nulla. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.failing.chaima.t.analmanacofentrances",
+   "desc": "«Il libro di Harries ci ha dato quello che ci serviva. Siamo piombati sui ribelli all’improvviso attraverso le vie nascoste, e li abbiamo annientati. È stato un bene muoverci così in fretta. I prigionieri che abbiamo preso avevano tentato commerci con il Chandler…»"
+  },
+  {
+   "id": "nxh.n.revolution.failing.chaima.r.sharps",
+   "desc": "«È fatto. E ora so che è stato un bene averli finiti. I prigionieri che abbiamo preso avevano tentato commerci con il Chandler…»"
+  },
+  {
+   "id": "nxc.n.revolution.failing.hokobald.another.way",
+   "label": "Un’Altra Via",
+   "preface": "«Questi ribelli sono disperati. Mi è stato offerto qualcosa – chiamiamola una commissione – se riesco a portarli all’Ora-che-Verrà, il Chandler. Con il materiale giusto [I Grandi Segni e le Grandi Cicatrici 8] potrei convincerli. Oppure con un valido argomento secondo cui il Chandler è l’Ora più antica – se conosci l’opera a cui mi riferisco. Gli zurvanisti rispettano le costrizioni del destino e del tempo...»",
+   "desc": "«Inutile. Dammi qualcosa di meglio.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.failing.hokobald.t.thechandlerswish",
+   "desc": "«Le costrizioni del destino e del tempo, appunto. I ribelli si sono allontanati dal Quadruplice per abbracciare il potere che arde nell’oscurità. Hanno abbandonato la loro ribellione. La faccenda è chiusa, e non ne parleremo più.»"
+  },
+  {
+   "id": "nxh.n.revolution.failing.hokobald.r.thegreatsignsandthegreatscars",
+   "desc": "«Gli argomenti della storia, le inevitabilità del consumo… i ribelli si sono allontanati dal Quadruplice per abbracciare il potere che arde nell’oscurità. Hanno abbandonato la loro ribellione. La faccenda è chiusa, e non ne parleremo più.»"
+  },
+  {
+   "id": "nxc.n.revolution.surging.arthur.assist.the.revolution",
+   "label": "Assisti la Rivoluzione",
+   "preface": "«Credo che possiamo porre fine a questa ribellione presto – se diamo ai ribelli una vittoria rapida. Porrà fine allo spargimento di sangue. E porrà fine a questa tentazione del fuoco nell’oscurità. Devo capire le potenzialità dei Confini vicino a Meshad. Hai qualcosa sugli Editti Liminali [10]? O meglio ancora, quella cosa di Harries sulla Compagnia del Lupo-in-Oro e le loro imprese?»",
+   "desc": "«Non credo che possa bastare. Altre idee?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.surging.arthur.t.analmanacofentrances",
+   "desc": "«Fatto. La Legione si sta ritirando – a leccarsi le ferite. I ribelli si sono conquistati una nuova Soglia nei Confini. Ho la sensazione che il Labirinto possa pensare che abbia oltrepassato il segno… ma ho scelto di onorare i legami dell’amicizia. Non per la prima volta.»"
+  },
+  {
+   "id": "nxh.n.revolution.surging.arthur.r.edictsliminal",
+   "desc": "«Fatto. La Legione si sta ritirando – a leccarsi le ferite. I ribelli si sono conquistati una nuova Soglia nei Confini. Ho la sensazione che il Labirinto possa pensare che abbia oltrepassato il segno… ma ho scelto di onorare i legami dell’amicizia. Non per la prima volta.»"
+  },
+  {
+   "id": "nxc.n.revolution.surging.azita.assist.the.legion",
+   "label": "Assisti la Legione",
+   "preface": "«La Legione mi ha chiesto di consigliarla. So una cosa o due, ma vorrei rinfrescarmi la memoria. Westergren combatté con loro una volta, e credo sia venuto a Brancrug dopo… hai le sue memorie? O qualcosa su Taglienti [10]…»",
+   "desc": "«No, non va bene. Altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.surging.azita.t.lettersfromafugitive",
+   "desc": "«Proprio brillante, Westergren. Non ho mai avuto fiducia in lui, ma lo incontravo a volte nel Mansus… i suoi trucchi non l’hanno salvato. Ma ha dato alla Legione ciò che serviva per sedare i ribelli. Un affare sporco. Ma più sporco ancora se i ribelli si fossero rivolti al Chandler, e credo davvero che avrebbero potuto farlo.»"
+  },
+  {
+   "id": "nxh.n.revolution.surging.azita.r.sharps",
+   "desc": "«Trucchi spietati, quelli. Ha dato alla Legione ciò che serviva per sedare i ribelli. Un affare sporco. Ma più sporco ancora se i ribelli si fossero rivolti al Chandler, e credo davvero che avrebbero potuto farlo.»"
+  },
+  {
+   "id": "nxc.n.revolution.surging.chaima.assist.the.legion",
+   "label": "Assisti la Legione",
+   "preface": "«Ho promesso i miei servigi alla Legione ancora una volta. E non conosco le rotte dei Confini vicino a Meshad. La Compagnia del Lupo-in-Oro combatté lì tanto tempo fa, e Harries ne scrisse. Hai il libro? O qualcos’altro che potrei usare? [Taglienti 10]»",
+   "desc": "«Questo non mi serve a nulla. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.surging.chaima.t.analmanacofentrances",
+   "desc": "«Il libro di Harries ci ha dato quello che ci serviva. Siamo piombati sui ribelli all’improvviso attraverso le vie nascoste, e li abbiamo annientati. È stato un bene muoverci così in fretta. I prigionieri che abbiamo preso avevano tentato commerci con il Chandler…»"
+  },
+  {
+   "id": "nxh.n.revolution.surging.chaima.r.sharps",
+   "desc": "«È fatto. E ora so che è stato un bene averli finiti. I prigionieri che abbiamo preso avevano tentato commerci con il Chandler…»"
+  },
+  {
+   "id": "nxc.n.revolution.surging.hokobald.another.way",
+   "label": "Un’Altra Via",
+   "preface": "«Mi è stato offerto – chiamiamola una commissione – se riesco a persuadere questi ribelli verso l’Ora-che-Verrà, il Chandler. Ma sono fastidiosamente vicini alla vittoria – e la loro fedeltà al Quadruplice si è rinnovata. Mi serviranno materiali potenti [Grandi Segni e le Grandi Cicatrici 14] per convincerli. Oppure potrebbe esserci un valido argomento secondo cui il Chandler è l’Ora più antica – se conosci l’opera a cui mi riferisco. Gli zurvanisti rispettano le costrizioni del destino e del tempo...»",
+   "desc": "«Inutile. Dammi qualcosa di meglio.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.revolution.surging.hokobald.t.thechandlerswish",
+   "desc": "«Le costrizioni del destino e del tempo, appunto. I ribelli si sono allontanati dal Quadruplice per abbracciare il potere che arde nell’oscurità. Hanno abbandonato la loro ribellione. La faccenda è chiusa, e non serve parlarne di nuovo.»"
+  },
+  {
+   "id": "nxh.n.revolution.surging.hokobald.r.thegreatsignsandthegreatscars",
+   "desc": "«Gli argomenti della storia, le inevitabilità del consumo… i ribelli si sono allontanati dal Quadruplice per abbracciare il potere che arde nell’oscurità. Hanno abbandonato la loro ribellione. La faccenda è chiusa, e non serve parlarne di nuovo.»"
+  },
+  {
+   "id": "nxi.n.debt.arun.arun.and.kaunas",
+   "label": "Arun e Kaunas?",
+   "preface": "Arun è riuscito a creare «pace tramite confusione»?",
+   "desc": "«Era un nodo di misteri, no? E non ne ho trovato la fine. Chiedi a qualcun altro.»"
+  },
+  {
+   "id": "nxc.n.debt.arun.democratise.the.wangle",
+   "label": "Democratizza il «Wangle»",
+   "preface": "«I Conteggiatori di Londra lo chiamano “il Wangle”, lo sapevi? Uno dei signori Conteggiatori a Kaunas ha trovato un modo per guadagnare anni di vita dal conteggio della Madrugad. Se riesco a capire come si fa… vorrei condividere il segreto più ampiamente. Causerà un bel po’ di guai. Non vedo l’ora. Ma mi serve il tuo aiuto. Hai qualcosa su Discipline della Cicatrice [10]? O... qualcosa sulla Torre d’Inverno qui a Brancrug?»",
+   "desc": "«Un altro nodo di misteri irrisolti. Se mai pensi di aver trovato un capo da tirare, dimmelo.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.debt.arun.t.againstvitruvius",
+   "desc": "«“Una torre cade, una torre sorge...” Ora so che non è sempre vero. Un equilibrio può essere distorto indefinitamente. La Madrugad prenderà il suo dovuto alla fine, ma spero che con i grandi cambiamenti in arrivo questo possa contare meno, ormai...»"
+  },
+  {
+   "id": "nxh.n.debt.arun.t.annalsofstbrandans",
+   "desc": "«“Una torre cade, una torre sorge...” Ora so che non è sempre vero. Un equilibrio può essere distorto indefinitamente. La Madrugad prenderà il suo dovuto alla fine, ma spero che con i grandi cambiamenti in arrivo questo possa contare meno, ormai...»"
+  },
+  {
+   "id": "nxh.n.debt.arun.r.disciplines.thescar",
+   "desc": "«La Sapienza è figlia del Rimpianto, e il Rimpianto figlio della Sapienza. È più elegante che dire: guarda in entrambe le direzioni abbastanza in fretta e ti viene il mal di testa. Ma è lo stesso principio: possiamo confondere le Ore abbastanza a lungo da guadagnare un vantaggio. La Madrugad prenderà prima o poi il suo dovuto, ma spero che con i grandi cambiamenti in arrivo questo possa contare meno, ormai...»"
+  },
+  {
+   "id": "nxi.n.debt.azita.azita.and.kaunas",
+   "label": "Azita e Kaunas?",
+   "preface": "Azita è riuscita a «sbattere le teste insieme»?",
+   "desc": "«Non siamo mai arrivati in fondo alla faccenda, vero? Forse i Conteggiatori si stancheranno da soli, alla fine.»"
+  },
+  {
+   "id": "nxc.n.debt.azita.profit.from.the.wangle",
+   "label": "Trai profitto dal «Wangle»",
+   "preface": "«Ho rotto qualche testa e appreso qualche verità: un modo per corrompere il conto della Madrugad e guadagnare anni extra di vita. Più a Ovest, ormai lo chiamano “il Wangle”, perché l’inglese non è una lingua dignitosa... non importa. Un trucco molto redditizio, se si impara a farlo funzionare. È una questione di cicatrici, credo, e un affare di ossa. Hai qualcosa su Discipline della Cicatrice [10]? O su – abbi pazienza – la presenza della Madrugad nelle ossa dei vivi e dei morti?»",
+   "desc": "«No, non va bene. Altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.debt.azita.t.demotucorporumvetitorum",
+   "desc": "«Le ossa sono la chiave; credo che il Lungo dell’Elegiasta lo sapesse già. E quasi dà senso a qualcosa che lessi tanto tempo fa, che le Stelle sono le ossa dei Soli. Ma lì la mia comprensione raggiunge i propri limiti. Non so come funzioni il trucco, ma ora so come metterlo in pratica. Grazie. Ecco qualcosa per il tuo disturbo.»"
+  },
+  {
+   "id": "nxh.n.debt.azita.r.disciplines.thescar",
+   "desc": "«Non so come funzioni il trucco, ma ora so come metterlo in pratica. Vediamo quanto a lungo riuscirò a farla franca. Grazie. Ecco qualcosa per il tuo disturbo.»"
+  },
+  {
+   "id": "nxi.n.debt.connie.connie.and.kaunas",
+   "label": "Connie e Kaunas?",
+   "preface": "Connie ha scoperto cosa stava succedendo a Kaunas?",
+   "desc": "«Non ho avuto tempo di seguire la pista. Il Bureau ha molte richieste sul nostro tempo. Spero non ci pentiremo di averla lasciata perdere.»"
+  },
+  {
+   "id": "nxc.n.debt.connie.shut.down.the.wangle",
+   "label": "Chiudi il «Wangle»",
+   "preface": "«Un modo per carpire con l’inganno anni in più alla Madrugad… certo, si sta già diffondendo oltre Kaunas. Qui la chiamano “il Wangle”. Idioti. Devo far cessare la cosa, e devo farla cessare presto, prima che le Ore risolvano la faccenda a modo loro. Credo che questo significhi attirare l’attenzione personale della Madrugad. Non so davvero come farlo in sicurezza. O se sia possibile farlo affatto, in realtà. Hai qualcosa su Crocevia Logoro [10]? Oppure c’è un rito della Chiesa che chiamavano la Cerimonia Bianca, se ne hai una versione originale...»",
+   "desc": "«Niente che possa aiutare? Grazie per aver cercato. Fammi sapere se trovi qualcosa.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.debt.connie.t.sunsetpassages",
+   "desc": "«C’è dunque un modo per parlare direttamente con la Madrugad… a un funerale. Non abbiamo mai, ahimè, penuria di corpi da seppellire. Spero vivamente che la Madrugad non si presenti di persona. Finché sa cosa sta succedendo con questo “Wangle”, possiamo porvi fine; e deve finire, ora.»"
+  },
+  {
+   "id": "nxh.n.debt.connie.r.raggedcrossroads",
+   "desc": "«Al freddo crocevia attende la Cacciatrice delle Nevi… nel White Museum di Zurigo c’è una reliquia che ora capisco potrebbe invocare un Nome della Madrugad. È meno pericoloso che parlare direttamente con la Madrugad – non di molto, temo – e dovrebbe risolvere la faccenda.»"
+  },
+  {
+   "id": "nxs.n.debt.inconclusive",
+   "label": "Nuvole allo Spuntare del Giorno",
+   "preface": "Qualcuno è mai arrivato in fondo alla faccenda di Kaunas? Potrei chiedere in giro. [Si conclude]",
+   "desc": "Niente. I Conteggiatori a Kaunas continuano la loro guerra, sporadicamente, per le proprie ragioni di coltello. [La Vicenda del Debito Perdonabile è arrivata e passata senza che nessun Visitatore facesse progressi.]"
+  },
+  {
+   "id": "nxs.n.skin.arthur.imprisonment",
+   "label": "Prigionia?",
+   "preface": "Il Lt Moore è riuscito a consegnare Abecassis alla custodia del Labirinto? Potrei chiederglielo.",
+   "desc": "«Il Labirinto lo ha con sé… ed Echidna non è contenta di me. Era arrivata a vedersi come una madre, o forse un’amante. Non lo so. Non mi piace. Ma ora sono nei guai.»"
+  },
+  {
+   "id": "nxs.n.skin.chaima.death",
+   "label": "Morte?",
+   "preface": "Lalla Chaima ha posto fine alla sofferenza di Abecassis? Potrei chiederglielo.",
+   "desc": "«L’ho ucciso. Era la cosa migliore. Ma Echidna non è d’accordo. E temo Echidna. Sarei sciocca a non temerla.»"
+  },
+  {
+   "id": "nxs.n.skin.azita.death",
+   "label": "Morte?",
+   "preface": "Potrei chiedere ad Azita cosa ne è stato di Abecassis.",
+   "desc": "«È morto senza onore. Questo ha compiaciuto il Colonnello, ma non ha compiaciuto Echidna, che si era autoproclamata patrona di Abecassis. Purtroppo, il Colonnello non è un potere a cui si possa chiedere aiuto. Così ora Echidna mi sta cercando. Non mi piace, Archivista; non mi piace per niente.»"
+  },
+  {
+   "id": "nxs.n.skin.aladim.freedom",
+   "label": "Libertà?",
+   "preface": "Potrei chiedere all’Aleppino cosa ne è stato di Abecassis.",
+   "desc": "«Cammina ancora libero.»"
+  },
+  {
+   "id": "nxs.n.skin.fraser.freedom",
+   "label": "Libertà?",
+   "preface": "Potrei chiedere a Fraser Strathcoyne cosa ne è stato di Abecassis.",
+   "desc": "«Cammina ancora libero.»"
+  },
+  {
+   "id": "nxc.n.skin.captured.arthur.resolve.arthurs.predicament",
+   "label": "Risolvi il dilemma di Arthur",
+   "preface": "«Aiuto. Aiuto? Forse se puoi condividere del lavoro su Spira & Baratro [12]… o sapresti dove trovare la rielaborazione di Darcy-Evers del <i>De Horis</i>? Non solo la ristampa. Ho un’idea…» [Dai ad Arthur le informazioni di cui ha bisogno – oppure consenti la vendetta di Echidna, portando Echidna a incontrare Arthur, ritirando Arthur in modo permanente.]",
+   "desc": "«Non credo che possa bastare. Altre idee?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.skin.captured.arthur.r.coil.chasm",
+   "desc": "«Non oso affrontarla; ma credo di poter approntare una protezione che distolga il suo sguardo da me. Dovrò essere prudente, ma del resto, quando non lo sono? Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.skin.captured.arthur.t.dehorisbook3",
+   "desc": "«Gli alleati del Labirinto non sono stati molto comprensivi. Sono più sacrificabile di quanto pensassi. Ma ora credo di poter perorare la mia causa molto meglio… e se ho fortuna, quegli alleati saranno disposti a tenere Echidna a bada, almeno per un po’. Ti ringrazio di cuore, Archivista.»"
+  },
+  {
+   "id": "nxh.n.skin.captured.arthur.t.echidnalia",
+   "desc": "«Echidna ha pochissimi punti deboli. Ma quello che c’è qui dentro mi dà un po’ di speranza. Forse posso rendermi abbastanza sgradito da scoraggiarla? Speriamo bene, Archivista.»"
+  },
+  {
+   "id": "nxh.n.skin.captured.arthur.echidna",
+   "desc": "«Tenente Moore: che piacere conoscerla, finalmente. Non vuole venire con me? Sì, così. Che piacere vedere che non farà storie. E grazie, Archivista. Ligeia ricorda.»"
+  },
+  {
+   "id": "nxc.n.skin.slain.azita.azita.resolve.azitas.predicament",
+   "label": "Risolvi il dilemma di Azita",
+   "preface": "«Sono nei guai, Archivista. Non mi piace ammetterlo, ma è così. Posso solo sperare che tu abbia qualcosa di abbastanza forte su Spira & Baratro [12]? Oppure – forse, solo forse – Solipsistos sapeva di cosa parlava.» [Dai ad Azita le informazioni di cui ha bisogno – oppure consenti la vendetta di Echidna, portando Echidna a incontrare Azita, ritirando Azita in modo permanente.]",
+   "desc": "«No, non va bene. Altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.skin.slain.azita.azita.r.coil.chasm",
+   "desc": "«Grazie, Archivista. Credo di sapere come starle alla larga. Non per sempre – e intendo vivere il più vicino possibile all’eternità – ma abbastanza a lungo da trovare una soluzione più permanente.»"
+  },
+  {
+   "id": "nxh.n.skin.slain.azita.azita.t.debellismurorum",
+   "desc": "«C’è una piacevole sorpresa! Proprio qui, in bella vista, per chi ha occhi per vedere… Non posso sconfiggere Echidna, ma posso far sì che si penta di uno scontro – abbastanza da tenerla a bada. Come un gatto che graffia il naso di un orso, capisci? Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.skin.slain.azita.azita.echidna",
+   "desc": "«Azita, mia cara, è passato così tanto tempo. Discutiamo di questa faccenda in un luogo tranquillo? Non vorrei turbare l’Archivista. E grazie, Archivista. Ligeia ricorda.»"
+  },
+  {
+   "id": "nxc.n.skin.slain.chaima.chaima.resolve.chaimas.predicament",
+   "label": "Risolvi il dilemma di Chaima",
+   "preface": "«Ho bisogno d’aiuto, Archivista. Spira & Baratro [12] potrebbe bastare. Oppure – si sussurra – c’è un segreto che Mek conosceva, sulla Madre dei Mostri. Se riesci a trovarlo, forse potrò usarlo.» [Dai a Chaima l’informazione di cui ha bisogno, oppure permetti la vendetta di Echidna portando Echidna a incontrare Chaima, congedando Chaima per sempre.]",
+   "desc": "«Questo non mi serve a nulla. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.skin.slain.chaima.chaima.r.coil.chasm",
+   "desc": "«Non si può sconfiggere Echidna. Il massimo che posso sperare è distogliere il suo sguardo da me. Ora so come farlo. Cammina nella luce, Archivista.»"
+  },
+  {
+   "id": "nxh.n.skin.slain.chaima.chaima.t.thehissingkey",
+   "desc": "«Non ho mai sentito dire che si possa ricattare una Ligeiana. Ma ci proverò comunque. Forse, Archivista, ci rivedremo dopotutto.»"
+  },
+  {
+   "id": "nxh.n.skin.slain.chaima.chaima.t.echidnalia",
+   "desc": "«Questo è ciò che mi serve. Non l’affronterò. Ma se verrà per me, avrò qualche sorpresa per lei. Grazie, Archivista.» "
+  },
+  {
+   "id": "nxh.n.skin.slain.chaima.chaima.echidna",
+   "desc": "«Lalla Chaima. Attendevo con ansia il nostro incontro. Vieni con me, e discuteremo della faccenda di Abecassis, con discrezione. Ecco; sì; proprio così; è appropriato, non trovi…? E grazie, Archivista. Ligeia ricorda.»"
+  },
+  {
+   "id": "nxc.n.skin.free.zachary.help.zachary.change",
+   "label": "Aiuta Zachary a cambiare",
+   "preface": "«Abecassis è cambiato – forse in meglio. Vorrei tanto cambiare in meglio. Invece di quello che sta accadendo ora. Quello che c’è in me è una maschera. Forse il volto è più luminoso. Ho bisogno di sapere di più su Pentimenti & Precursori [12]. Oppure c’era un film che ho visto, anni fa, su angeli a quattro ali. C’è qualcosa di quel film che si muove dentro il mio petto...»",
+   "desc": "«Mi dispiace. Non ho saputo ricavarne nulla.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.skin.free.zachary.t.coloursintheliver",
+   "desc": "«Bischoff vide; Bischoff seppe. Grazie… amico mio. Darò del mio sangue e la vecchia ombra del Sole potrà ricordare come erano i giorni, quando erano rossi e dolci… ciò che è dentro, fuori. Salirò nel cielo e – possa essere così, spero – non farò ritorno. Non piangere per me. Non piangere...»"
+  },
+  {
+   "id": "nxh.n.skin.free.zachary.r.pentiments.precursors",
+   "desc": "«Grazie… amico mio. Darò del mio sangue e la vecchia ombra del Sole potrà ricordare come erano i giorni, quando erano rossi e dolci… ciò che è dentro, fuori. Salirò nel cielo e – possa essere così, spero – non farò ritorno. Non piangere per me. Non piangere...»"
+  },
+  {
+   "id": "nxc.n.skin.free.refuse.zachary.and.forget.abecassis",
+   "label": "Rifiuta Zachary e dimentica Abecassis",
+   "preface": "Se aiuto Zachary a cambiare, se ne andrà. Potrei non volerlo. [Si conclude]",
+   "desc": "Avevo bisogno di Zachary per i miei scopi? Godevo della sua compagnia? O temevo ciò che sarebbe potuto diventare? Nessuno conosce mai il cuore dell’Archivista della Casa.",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxs.n.mystique.douglas.ask.douglas",
+   "label": "Chiedi a Douglas",
+   "preface": "Cosa è successo con la moda delle religioni? Fai il punto con Douglas",
+   "desc": "«Un paio di Lunghi in ascesa, li abbiamo messi dove non causeranno più problemi… ma c’è un altro Lungo dietro a qualcosa di tutto questo. Black Elie, gestisce l’Alba d’Avorio, il che è piuttosto confuso se vuoi il mio parere. Una specie di chiaroscuro, suppongo. Vecchia come gli alberi, un tempo era una sacerdotessa e un’Obliviat e chissà cos’altro. Comunque adesso lavora con Ys, se ci credi. E si è interessata a Yvette Southey. Conosci Yvette, certo che la conosci. Vuole consegnarla a Ys, una sorta di accordo per proteggere i Confini. Non mi piace, Archivista. Non so molto di Ys, ma niente di quello che ho sentito è positivo, e nessuno ha mai detto che ci si possa fidare di loro.»"
+  },
+  {
+   "id": "nxs.n.mystique.fraser.ask.fraser",
+   "label": "Chiedi a Fraser",
+   "preface": "Fraser sospettava che una delle nuove religioni fosse influenzata dagli Obliviat. Ha scoperto qualcosa in più?",
+   "desc": "«Sì. Non esattamente gli Obliviat – <i>un’</i> Obliviat. O lo era un tempo. Black Elie. Ha avuto quella che si potrebbe chiamare una carriera insolita. Sta cercando Yvette Southey. Yvette, come forse sai, discende dalla stirpe di Ys. Elie ha fatto un accordo con Ys, per consegnare loro Yvette, in cambio della loro assistenza nel proteggere i Confini... è un accordo molto astuto, Archivista. Ho parlato con Elie. Credo sia la cosa migliore.»"
+  },
+  {
+   "id": "nxs.n.mystique.serena.ask.serena",
+   "label": "Chiedi a Serena",
+   "preface": "Cosa sta succedendo con la moda dei culti solari? Pensa ancora che non ci fosse niente di insolito?",
+   "desc": "«Non sbaglio spesso, ma non sono nemmeno infallibile. Uno dei culti è diverso. L’Alba d’Avorio. È patrocinato da Black Elie. È una Lunga del Nettare; <i>era</i> un’Obliviat; non saprei dire cosa sia ora. La nostra Elie è sempre stata un’anima assennata. Ma ora lavora con Ys. E sta cercando Yvette Southey. Intende consegnarla a Ys, in cambio dei loro servigi nel proteggere i confini. Non mi piace. Etica a parte, di Ys non ci si può fidare. Di Ys non ci si potrà mai fidare.»"
+  },
+  {
+   "id": "nxs.n.mystique.yvette.ask.yvette",
+   "label": "Chiedi a Yvette",
+   "preface": "Cosa è successo con l’Alba d’Avorio? Fai il punto con Yvette.",
+   "desc": "«Ho incontrato l’Alba d’Avorio…e la sua patrona. Si chiama Elie. È molto vecchia. Mi ha raccontato qualcosa della mia ascendenza – la “linea pallida” – il legame con Ys oltre l’onda. Vuole che io vada là. Porterà protezione al mondo, mi dice. Le credo, in realtà. Mi sembra una donna d’integrità. Mi ha lasciata andare liberamente. E non posso negare di essere curiosa, e tentata... ma non me la sento affatto di fare un salto del genere.»"
+  },
+  {
+   "id": "nxc.n.mystique.revealed.douglas.thwart.elie",
+   "label": "Contrasta Elie",
+   "preface": "«Il Bureau si sbarazzerà di Elie, le terrà le mani lontane da Yvette. Ma non sarà facile. Elie gira da un bel po’, è un osso duro. Ma proprio perché gira da tanto tempo, spero che tu abbia un libro con informazioni su di lei che io possa usare…»",
+   "desc": "«Hm. Grazie, Archivista, ma non è quello che cercavo…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.mystique.revealed.douglas.t.theironbook",
+   "desc": "«Lavoro fatto. Elie aveva infranto il giuramento degli Obliviat – non solo la Catena di Ferro, tutti quanti a quanto ne so, ma la Catena di Ferro è quello che potevamo invocare. Non tornerà su queste isole tanto presto.»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.douglas.t.thesecretcolours",
+   "desc": "«Lavoro fatto. Non avevamo capito che Elie fosse già stata in Gran Bretagna prima – perfino a Brancrug – o che i nostri predecessori avessero avuto a che fare con lei. (Molto prima del Ramo Notturno. Non importa chi.) I nostri archivi risalgono molto indietro. (Non importa quanto.) Abbiamo trovato quello che le serviva. Non tornerà su queste isole tanto presto.»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.douglas.t.ajourneytothegrove",
+   "desc": "«Grazie, Archivista, ma non trovo niente lì dentro che possa aiutare. Mi vengono anche i brividi, onestamente. “Applebright”. Vorrei che quelle cose restassero nel Nessun Luogo. Hai altro?»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.douglas.t.commandmentsforthepreservationofallthatexists",
+   "desc": "«Elie è qui dentro, ma tutto questo mi dice solo che a suo tempo ha cercato di fare la cosa giusta… hai altro?»"
+  },
+  {
+   "id": "nxc.n.mystique.revealed.fraser.deceive.yvette",
+   "label": "Inganna Yvette",
+   "preface": "Fraser sostiene il piano di Elie per proteggere i Confini. Insiste che l’eredità di Yvette la attirerà a Ys prima o poi, e che senza il patto di Elie, Yvette potrebbe diventare un pericolo. Tutto ciò che serve è organizzare un incontro fra lei e Fraser; al resto penserà lui.",
+   "desc": "«È già arrivata?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.mystique.revealed.fraser.acted.fraser.mystical.lantern.yvette",
+   "desc": "<i>Ys oltre l’onda, città di corallo e ghiaccio… lei incontrò Fraser, e lui si assicurò che, volente o nolente, passasse oltre l’onda per portare avanti il patto di Elie per proteggere i Confini. Un giorno, potremmo sapere se fosse una buona idea. Ma oggi, Elie è soddisfatta, e se vogliamo reclutarla per il nostro Istituto, è disponibile. </i>"
+  },
+  {
+   "id": "nxc.n.mystique.revealed.serena.thwart.elie",
+   "label": "Contrasta Elie",
+   "preface": "«Elie ha buone intenzioni, ne sono certa. E sono certa che sappia che Ys la tradirà. Si sarà preparata. Ma temo che Ys sia più astuta di qualunque Lungo, perfino di Elie… eppure lei è <i>molto</i> astuta. Sarà difficile scacciarla. Hai qualcosa sulla Catena di Ferro? O sulle Eufonie di Applebright [12]?»",
+   "desc": "«Non è quello che mi serviva. Non preoccuparti, ricordo che è più difficile di quanto sembri. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.mystique.revealed.serena.t.theironbook",
+   "desc": "«Certo: Elie ha infranto la Catena di Ferro. Gli Obliviat potrebbero aver perso interesse a punirla, ma conosco Re Crogiolo da tempo. È abbastanza forte da fuggire, ma non abbastanza forte da resistergli. Dovrà nascondersi. Non mi piace, Archivista, ma non possiamo lasciare che Ys ottenga un punto d’appoggio.»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.serena.r.applebrighteuphonies",
+   "desc": "«Elie ha avuto a che fare con l’Applebright. Possiamo usarlo come argomento di persuasione per ricacciarla oltremare… Non sono a mio agio con questo. Ma non voglio che Ys ottenga alcun punto d’appoggio. Questo è più importante.»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.serena.t.ajourneytothegrove",
+   "desc": "«Elie ha avuto a che fare con l’Applebright. Possiamo usarlo come argomento di persuasione per ricacciarla oltremare… Non sono a mio agio con questo. Ma non voglio che Ys ottenga alcun punto d’appoggio. Questo è più importante.»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.serena.t.thesecretcolours",
+   "desc": "«Sospettavamo che Elie fosse venuta qui, tanto tempo fa – questo posto era un rifugio per gli Obliviat, neanche troppo tempo fa – ma non credo che questo ci aiuti ora. Hai altro?»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.serena.t.commandmentsforthepreservationofallthatexists",
+   "desc": "Sì, Elie ha fatto un buon lavoro ai suoi tempi. Ma non credo che questo ci aiuti ora. Altro?»"
+  },
+  {
+   "id": "nxc.n.mystique.revealed.yvette.convince.yvette",
+   "label": "Convinci Yvette",
+   "preface": "Yvette è incuriosita dall’offerta di Elie. Potrebbe ancora essere tentata di andare a Ys di sua spontanea volontà… [Aggiungi una Vista d’Orizzonte per convincere Yvette]",
+   "desc": "«È una decisione di enorme portata… avevi qualcosa che volevi mostrarmi?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.mystique.revealed.yvette.acted.yvette.mystical.winter.horizonsight",
+   "desc": "«Le torri...il mattino...» fu l’ultima cosa che disse Yvette prima della sua partenza – l’unica cosa. E ora non c’è più.\n<i>Ys dietro l’onda, città di corallo e ghiaccio… il sangue di Yvette lo sa, ed è passata dietro l’onda per portare a compimento il patto di Elie per proteggere i Confini. Un giorno, forse sapremo se sia stata una buona idea. Ma oggi, Elie è soddisfatta, e se vogliamo reclutarla per il nostro Istituto, lei è disposta.</i>"
+  },
+  {
+   "id": "nxc.n.mystique.revealed.yvette.inform.yvette",
+   "label": "Informa Yvette",
+   "preface": "Yvette è incuriosita dall’offerta di Elie, ma comprensibilmente preoccupata. Ulteriori informazioni su Elie potrebbero aiutarla a decidere.",
+   "desc": "«Elie mi ha detto di aver infranto i propri giuramenti. Mi ha raccontato qualcosa del perché. Sono incline a comprenderla… hai qualcos’altro su di lei?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.mystique.revealed.yvette.t.ajourneytothegrove",
+   "desc": "«Ha avuto a che fare con un Nome legato al Nessun Luogo… rapporti stretti… e forse ancora… non me l’aveva mai detto. Capisco solo in parte cosa sia un Nome legato al Nessun Luogo, ma so abbastanza da non volerci avere a che fare. Ogni giorno sembra che io trovi qualcos’altro di cui diffidare. Grazie…»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.yvette.t.thesecretcolours",
+   "desc": "«Elie è già stata a Brancrug? Non me l’ha mai detto. Perché nascondermelo? Mi chiedo cos’altro potrebbe tenermi nascosto… Non credo di potermi fidare di lei, Archivista. Ogni giorno sembra che io trovi qualcos’altro di cui diffidare. Grazie…»"
+  },
+  {
+   "id": "nxh.n.mystique.revealed.yvette.t.commandmentsforthepreservationofallthatexists",
+   "desc": "<i>Quando Yvette lesse i </i>Comandamenti<i>, si convinse dell’altruismo di Elie. E inoltre, il suo sangue conosce Ys oltre l’onda, città di corallo e ghiaccio… è passata oltre l’onda per portare avanti il patto di Elie per proteggere i Confini. Un giorno, potremmo sapere se fosse una buona idea. Ma oggi, Elie è soddisfatta, e se vogliamo reclutarla per il nostro Istituto, è disponibile. </i>"
+  },
+  {
+   "id": "nxc.n.mystique.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Decidere di non intromettersi. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto.",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxi.n.mystique.revealed.recall.yvette",
+   "label": "Richiama Yvette",
+   "preface": "Ma Yvette… Yvette non c’è più. [Si conclude]",
+   "desc": "I piani di Elie nasceranno morti – o dovranno mutare nel grembo in qualcosa di ancora più incerto. In ogni caso, non turberanno più l’Archivista della Hush House."
+  },
+  {
+   "id": "nxs.n.eye.corso.ask.corso",
+   "label": "Chiedi a Corso",
+   "preface": "Altre notizie da Messana?",
+   "desc": "«Il manoscritto era certamente un falso… ma le informazioni al suo interno erano buone. Qualcosa di strano in questo. St Lucia la Senza Occhi è dietro le manifestazioni. La Meniscate di solito le affida il compito di ritirare il dono della vista. Ora invece lo sta distribuendo. Guai nel Mansus, immagino.» "
+  },
+  {
+   "id": "nxs.n.eye.hokobald.ask.hokobald",
+   "label": "Chiedi a Hokobald",
+   "preface": "Hokobald non aveva mai mostrato interesse per Messana prima, ma ora…",
+   "desc": "«Le manifestazioni a Messana sono opera di Lucia la Senza Occhi, che da tempo è sotto il tallone della Meniscate. Non più, credo. Lucia mostra un promettente desiderio di cambiamento. Un’alleata mi ha supplicato di presentargliela...»"
+  },
+  {
+   "id": "nxs.n.eye.serena.ask.serena",
+   "label": "Chiedi a Serena",
+   "preface": "Altre notizie da Messana?",
+   "desc": "«C’è sotto ben più di quanto pensassi. C’<i>è</i> un Nome-Chandler, ma c’è anche un Nome-Meniscate – Lucia la Senza Occhi. Lucia concede doni di cecità su ordine della Meniscate. Ora sta flirtando con un Nome-Chandler, e concede doni di vista. So che Lucia era stata a volte ribelle – c’è una tradizione secondo cui era amica di Ghirbi, e non riesco a immaginare che le sia piaciuto il modo in cui le Ore lo trattarono...»"
+  },
+  {
+   "id": "nxc.n.eye.revealed.corso.reaffirm.lucias.loyalty",
+   "label": "Riafferma la lealtà di Lucia",
+   "preface": "«Ancora al servizio della Chiesa. Ma ora ufficiosamente. La Chiesa dice che le Ore e i Nomi solari sono immutabili, giusto? Be’, dall’Intercalato. E gli altri cambiamenti. Comunque Lucia mostra un’inclinazione a essere mutevole, e mi hanno incaricato di ricordarle cosa dovrebbe essere. Hai qualcosa sulle sue tradizioni più profonde? O Vetreria & Lucefabbro [12], di cui si suppone sia patrona?»",
+   "desc": "«Nah, non riesco a cavarne nulla. Vuoi dare un’altra occhiata sul retro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.eye.revealed.corso.t.unhatchedhymns",
+   "desc": "«Ben fatto, Archivista. Ho avuto notizie e sembra che possa funzionare. Primo, è una bella scossa di nostalgia per lei, e secondo, le ricorda che perfino le Ore Solari <i>cambiano</i>, qualunque cosa dica la Chiesa. Nelle storie ha un debole per Ghirbi della Porta, sai? Un giorno, forse, le Ore lo libereranno per davvero..."
+  },
+  {
+   "id": "nxh.n.eye.revealed.corso.r.glaziery.lightsmithing",
+   "desc": "«Tradizione. Un tizio grosso che conoscevo a Beaconsfield diceva sempre che la tradizione è la democrazia dei morti. “Diceva” perché ora è morto. Mi manca. Ma suppongo che questo gli dia diritto di voto. E gli piaceva la tradizione. E l’ortodossia… guardami, mi sto facendo sentimentale. Comunque credo di sapere ora cosa deve dire il nunzio a Lucia per tenerla fuori dai guai.»"
+  },
+  {
+   "id": "nxc.n.eye.revealed.hokobald.to.the.chandler",
+   "label": "Al Chandler",
+   "preface": "«Sarà difficile, perfino per me. Lucia diffida in modo esasperante dei fuochi a venire. Ma c’era un’opera di Omar che toccava verità pertinenti… oppure andrebbe bene qualsiasi cosa sufficientemente sofisticata su Trasformazioni & Liberazioni [14].»",
+   "desc": "«Inutile. Dammi qualcosa di meglio.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.eye.revealed.hokobald.t.eachflamehisfuel",
+   "desc": "«Omar aveva intuito. Sebbene fosse troppo codardo per sapere cosa farne. Io, tuttavia, sono ben fornito sia di conoscenza sia di coraggio. E ora lo è anche Lucia. Forse, Archivista, accoglieremo la nuova era insieme, tutti e tre, eh?»"
+  },
+  {
+   "id": "nxh.n.eye.revealed.hokobald.r.transformations.liberations",
+   "desc": "«La Forgia dei Giorni un tempo comprendeva i bisogni del proprio Principio, ma ora, con le sue Contraffazioni e altre sciocchezze, diventa codarda quanto la Meniscate… Io, tuttavia, sono ben fornito sia di conoscenza sia di coraggio. E ora lo è anche Lucia. Forse, Archivista, accoglieremo la nuova era insieme, tutti e tre, eh?»"
+  },
+  {
+   "id": "nxc.n.eye.revealed.serena.to.independence",
+   "label": "Verso l’Indipendenza",
+   "preface": "«Ho sempre avuto un debole per il povero Ghirbi. Non mi piace molto la Chiesa. Se Lucia è pronta a seguire la propria strada, vorrei aiutare… sto cercando qualcosa sulla ribellione dei Nomi. O forse posso costruire un argomento dal lato più eterodosso della tradizione della Chiesa con Sacra Solis Invicti [10].»",
+   "desc": "«Non era quello che mi serviva. Non preoccuparti, ricordo che è più difficile di quanto sembri. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.eye.revealed.serena.t.sevenshards",
+   "desc": "«Ben pensato. Come era, così sarà. L’esempio del Leonfabbro ha tenuto Lucia fuori dagli artigli del Chandler; e penso che a tutti noi farebbe bene un po’ più di indipendenza.»"
+  },
+  {
+   "id": "nxh.n.eye.revealed.serena.r.sacrasolisinvicti",
+   "desc": "«Detto fra noi, penso che gli argomenti fossero speciosi, ma i Nomi non sono sempre così astuti come si potrebbe pensare. Anche i nomi-Lanterna. Comunque, abbiamo tenuto Lucia fuori dagli artigli del Chandler; e penso che a tutti noi farebbe bene un po’ più di indipendenza.»"
+  },
+  {
+   "id": "nxc.n.endeavour.corso.sabotage",
+   "label": "Sabota",
+   "preface": "«Ho detto che la mia ricerca avrebbe turbato i miei amici sul Continente… e c’è di peggio. Il Nuovo Re sta costruendo una specie di Nome incarnato fabbricato. Si fa chiamare Fissifer. Ora, non sono patriota di nessuno, vado dove mi pagano, ma c’è un brutto squilibrio di potere qui, e penso che se aiutassi i miei amici continentali a smembrare Fissifer e distribuirne pezzi fra varie potenze, questo farebbe avanzare la causa della pace. Dico sul serio. Quindi, se hai la cosa di Cygnifer sul serpente che si divide – o anche solo qualcosa di decente su Piroglifici [10] – questo aiuterà la causa della pace.»",
+   "desc": "«Nah, non riesco a cavarne nulla. Vuoi dare un’altra occhiata sul retro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.endeavour.corso.acted.corso.project.solar.lantern.t.theothereyeoftheserpent",
+   "desc": "«Be’, quello ha causato un bel po’ di scalpore. Non vedo come potrebbero risalire fino a me, purché tu mantenga la discrezione, eh Archivista? ma credo che mi convenga tenere un profilo basso per un po’. Credo che la guerra si sia comunque ritirata. Nessun altro costruirà un Fissifer, ma sapranno cosa fare se qualcuno ci provasse. Equilibrio di potere.»"
+  },
+  {
+   "id": "nxh.n.endeavour.corso.r.pyroglyphics.acted.corso.project.solar.lantern",
+   "desc": "«Be’, quello ha causato un bel po’ di scalpore. Non vedo come potrebbero risalire fino a me, purché tu mantenga la discrezione, eh Archivista? ma credo che mi convenga tenere un profilo basso per un po’. Credo che la guerra si sia comunque ritirata. Nessun altro costruirà un Fissifer, ma sapranno cosa fare se qualcuno ci provasse. Equilibrio di potere.»"
+  },
+  {
+   "id": "nxc.n.endeavour.hokobald.protect",
+   "label": "Proteggi",
+   "preface": "«Il Nuovo Re ha finanziato la costruzione di un vascello per un Nome del fuoco a venire. Vari malfattori si propongono di sabotarlo. Qualunque siano i tuoi sentimenti sulla politica del Mansus e della Veglia, Archivista, riconoscerai che una simile provocazione potrebbe benissimo scatenare una guerra. E trovo la guerra inopportuna. Così chiedo il tuo aiuto per organizzare una protezione. Qualcosa sulle alchimie della Strada del Tramonto sarebbe molto utile. O, in mancanza di ciò, un testo competente su Campane & Bracieri [10] potrebbe darmi quello che mi serve.»",
+   "desc": "«Questo è molto deludente. Devi avere qualcosa di meglio.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.endeavour.hokobald.acted.hokobald.project.solar.forge.t.theamalgamoftheredrose",
+   "desc": "«Il tentativo fu fatto; con le mie arti, mi assicurai che il tentativo fallisse; Fissifer rimane. Ho servito la causa della pace oggi, Archivista. La generosità resta il mio difetto più profondo.»"
+  },
+  {
+   "id": "nxh.n.endeavour.hokobald.r.bells.brazieries.acted.hokobald.project.solar.forge",
+   "desc": "«Il tentativo fu fatto; con le mie arti, mi assicurai che il tentativo fallisse; Fissifer rimane. Ho servito la causa della pace oggi, Archivista. La generosità resta il mio difetto più profondo.»"
+  },
+  {
+   "id": "nxc.n.endeavour.serena.reveal",
+   "label": "Rivela",
+   "preface": "«Stanno costruendo un Nome, una sorta di contraffazione di Ghirbi, nei cantieri navali reali – un vascello dei fuochi del Chandler. Devo agire. È <i>un pochino</i> proditorio, lo ammetto. Sono ancora tecnicamente una suddita di Sua Maestà. Ma spero vivamente che mi aiuterai. Hai qualcosa di Vinzant sulla risonanza e l’alchimia? È possibile che i miei emissari riescano a convincere quel maledetto affare a farsi a pezzi da solo... altrimenti, dovremo ricorrere a Piroglifici [10].»",
+   "desc": "«Non è quello che mi serviva. Non preoccuparti, ricordo che è più difficile di quanto sembri. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.endeavour.serena.acted.serena.project.solar.forge.t.onresonance",
+   "desc": "«…ce l’abbiamo fatta. Fissifer arde ancora, ma è azzoppato. E in Parlamento faranno domande, credo. C’è stato sangue, Archivista, e ce ne sarà ancora. Ma spero che ora abbiamo scongiurato la guerra.»"
+  },
+  {
+   "id": "nxh.n.endeavour.serena.acted.serena.project.solar.forge.t.vinzantsminglings",
+   "desc": "«…ce l’abbiamo fatta. Fissifer arde ancora, ma è azzoppato. E in Parlamento faranno domande, credo. C’è stato sangue, Archivista, e ce ne sarà ancora. Ma spero che ora abbiamo scongiurato la guerra.»"
+  },
+  {
+   "id": "nxh.n.endeavour.serena.r.pyroglyphics.acted.serena.project.solar.forge",
+   "desc": "«…ce l’abbiamo fatta. Fissifer arde ancora, ma è azzoppato. E in Parlamento faranno domande, credo. C’è stato sangue, Archivista, e ce ne sarà ancora. Ma spero che ora abbiamo scongiurato la guerra.»"
+  },
+  {
+   "id": "nxc.n.endeavour.serena.unveil",
+   "label": "Svela",
+   "preface": "«Stanno costruendo un’ombra di Ghirbi nei cantieri navali reali – un araldo del Chandler. Devo agire. È <i>un pochino</i> proditorio, lo ammetto. Sono ancora tecnicamente una suddita di Sua Maestà. Ma spero vivamente che mi aiuterai. Hai Cygnifer sul fulmine? Ricordo lì una tecnica che potrebbe permettere ai miei emissari di aprire le crepe di quel maledetto affare...? O forse possiamo usare un approccio da Vetreria & Lucefabbro [12].»",
+   "desc": "«Non è quello che mi serviva. Non preoccuparti, ricordo che è più difficile di quanto sembri. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.endeavour.serena.acted.serena.project.solar.lantern.t.theothereyeoftheserpent",
+   "desc": "«…ce l’abbiamo fatta. Fissifer arde ancora, ma è azzoppato. E in Parlamento faranno domande, credo. C’è stato sangue, Archivista, e ce ne sarà ancora. Ma spero che ora abbiamo scongiurato la guerra.»"
+  },
+  {
+   "id": "nxh.n.endeavour.serena.r.glaziery.lightsmithing.acted.serena.project.solar.lantern",
+   "desc": "«…ce l’abbiamo fatta. Fissifer arde ancora, ma è azzoppato. E in Parlamento faranno domande, credo. C’è stato sangue, Archivista, e ce ne sarà ancora. Ma spero che ora abbiamo scongiurato la guerra.»"
+  },
+  {
+   "id": "nxs.n.endeavour.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Decidere di non intromettersi. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxc.n.heist.coquille.ask.coquille",
+   "label": "Chiedi a Coquille",
+   "preface": "«Oh sì; posso dirti ciò che devi sapere. Ma io pago sempre per il tuo aiuto, non è vero, Archivista? Di certo non ti dispiacerà pagare per il mio?» [Coquille condividerà informazioni in cambio di una singola Spintria di Bronzo.]",
+   "desc": "«Abbiamo discusso i termini, no? Una Spintria di Bronzo.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.heist.coquille.acted.coquille.heist.knock.spintria.bronze",
+   "desc": "«Pensaci un momento, tesoro. Qualcuno che è una nittodromista dotata; qualcuno che conosce alcuni di questi oggetti, perché un tempo erano i tesori della sua famiglia; qualcuno che ha venduto i tesori di famiglia, perché la sua famiglia è caduta in tempi difficili. Gräfin Friederike Dagmar Sophia Theresia Helena Benigna von Nagelsburg...»"
+  },
+  {
+   "id": "nxi.n.heist.dagmar.ask.dagmar",
+   "label": "Chiedi a Dagmar",
+   "preface": "«Non posso prometterti nulla, ma la vecchia Daymare sa chi è chi, può far girare la voce, chiedere in giro, usare un po’ di sale in zucca? È il minimo che possa fare.» [Dagmar condividerà liberamente qualunque cosa scopra.]",
+   "desc": "«Be’, ci ho pensato bene e ho fiutato in giro per benino e tutto quello che posso dire è che è tutto quello che posso dire. Una delle eterne ineffabilità, eh? Vale a dire, non posso dirti chi è stato. Se qualcuno lo è stato. Scusa, Libsy.»"
+  },
+  {
+   "id": "nxc.n.heist.olympe.ask.olympe",
+   "label": "Chiedi a Olympe",
+   "preface": "«Sì, so qualcosa di interessante. Felice di condividerlo. Vuoi dirmi qualcosa di interessante anche tu?» [Olympe condividerà informazioni in cambio di qualunque Memoria.]",
+   "desc": "«Qualsiasi cosa anche solo un po’ succosa, Archivista. Così non ho la sensazione di lavorare gratis.» [Fornisci una Memoria.]",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.heist.olympe.acted.olympe.heist.forge.memory",
+   "desc": "«Niente aveva senso. Così per un po’ ho pensato che fosse una messinscena. Perché qualcuno dovrebbe intrufolarsi e sostituire gli oggetti con dei falsi? Perché non prenderli e basta? Era difficile da capire. Ma ora so che Dagmar von Nagelsburg si è disfatta dei propri cimeli per pagare i debiti... comincia ad avere senso. Non posso dimostrarlo – e non lo pubblicherò – ma ho pochi dubbi che sia stata lei.»"
+  },
+  {
+   "id": "nxc.n.heist.hokobald.ask.hokobald",
+   "label": "Chiedi a Hokobald",
+   "preface": "«Certo che posso darti quell’informazione. Devi darmi qualcosa in cambio. Ma sono generoso. Chiedo solo un pagamento simbolico.» [Hokobald condividerà informazioni in cambio di una singola Spintria di Bronzo.]",
+   "desc": "«Una Spintria di Bronzo. Né più, né meno.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.heist.hokobald.acted.hokobald.heist.forge.spintria.bronze",
+   "desc": "«Era la donna von Nagelsburg. “Daymare”. Aveva dilapidato la fortuna di famiglia, e non sopportava di separarsi dai cimeli che aveva venduto. Sì, ne sono certo. Un peccato. Aveva del potenziale.»"
+  },
+  {
+   "id": "nxc.n.heist.zachary.ask.zachary",
+   "label": "Chiedi a Zachary",
+   "preface": "«Una porta si è chiusa, due porte si sono aperte. Non ne dubito.» [Zachary condividerà informazioni in cambio di qualunque Memoria.]",
+   "desc": "«Dimmi qualcosa, per favore.» [Fornisci una Memoria.]",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.heist.zachary.acted.zachary.heist.knock.memory",
+   "desc": "«Daymare entrò nel caveau. Collocò i falsi. Non so perché. Ma le continuità sono precise.»"
+  },
+  {
+   "id": "nxi.n.heist.investigated.dagmar.confront.and.expose.dagmar",
+   "label": "Affronta e smaschera Dagmar",
+   "preface": "«Oh…. <i>merda.</i>» [Oriflamme’s probabilmente ti ricompenserà.]",
+   "desc": "«Non posso biasimarti, Libsy, ho tentato la sorte e l’ho mandata a monte, no? Stufa marcia di mangiare in scatola, ma non sopportavo vedere quella roba finire nelle case sbagliate. Chi è stato a farmi la spia? Quella insignificante di Coquille? Quel cafone di Hokobald? No, non dirmelo, <i>perderò</i> tempo a essere <i>molto arrabbiata</i> con loro. Be’, eccoci qui. Bisogna sapersi prendere le proprie botte.»"
+  },
+  {
+   "id": "nxi.n.heist.investigated.dagmar.promise.silence;.mention.ys",
+   "label": "Prometti silenzio; menziona Ys",
+   "preface": "«Assolutamente, Libsy. Apprezzo la discrezione. Felice di aderire alla tua causa.» [Dagmar sosterrà l’Agenda: Segretezza e il Timore: Ys.]",
+   "desc": "«Ho tentato la sorte e l’ho mandata a monte, no? Stufa marcia di mangiare in scatola, ma non sopportavo vedere quella roba finire nelle case sbagliate. Be’, eccoci qui. Conta su di me per aiutare a tenere Ys a bada, se serve tenerla a bada.»"
+  },
+  {
+   "id": "nxi.n.heist.investigated.dagmar.promise.silence;.mention.nowhere",
+   "label": "Prometti silenzio; menziona il Nessun Luogo",
+   "preface": "«Assolutamente, Libsy. Apprezzo la discrezione.» [Dagmar sosterrà l’Agenda: Segretezza e il Timore: Nessun Luogo.]",
+   "desc": "«Ho tentato la sorte e l’ho mandata a monte, no? Stufa marcia di mangiare in scatola, ma non sopportavo vedere quella roba finire nelle case sbagliate. Be’, eccoci qui. Ho sempre pensato che le cose sotto il Mansus dovessero restare sotto il Mansus, conta su di me per aiutare a tenercele.»"
+  },
+  {
+   "id": "nxi.n.heist.investigated.dagmar.promise.silence;.mention.the.chandler",
+   "label": "Prometti silenzio; menziona il Chandler",
+   "preface": "«Assolutamente, Libsy. Apprezzo la discrezione. Felice di aderire alla tua causa.» [Dagmar sosterrà l’Agenda: Segretezza e il Timore: Chandler.]",
+   "desc": "«Ho tentato la sorte e l’ho mandata a monte, no? Stufa marcia di mangiare in scatola, ma non sopportavo vedere quella roba finire nelle case sbagliate. Be’, eccoci qui. Non ho mai capito bene cosa dovrebbe essere il Chandler, ma se finisce per essere qualcosa, conta su di me per... conta su di me.»"
+  },
+  {
+   "id": "nxi.n.heist.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Decidere di non intromettersi. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxc.n.absent.aladim.answer.eternity",
+   "label": "Risposta: Eternità?",
+   "preface": "«Dopo la nostra conversazione, ho pensato che la risposta all’Enigma di Medusa potesse essere “Io”. Mi sbagliavo. Forse dovrei dare una risposta più convenzionale – ma in una lingua non convenzionale – forse la sua lingua natale.» [Aggiungi l’abilità Cracktrack per fornire la parola della risposta in quella lingua.]",
+   "desc": "«Ma in Cracktrack?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.absent.aladim.acted.aladim.stalk.rose.s.cracktrack",
+   "desc": "«Medusa entrerà nella Storia; così come, spero, faranno gli altri poteri della Pietra.»"
+  },
+  {
+   "id": "nxc.n.absent.aladim.answer.the.carapace.cross",
+   "label": "Risposta: La Croce del Carapace?",
+   "preface": "«Dopo la nostra conversazione, ho pensato che la risposta all’Enigma di Medusa potesse essere “Io”. Mi sbagliavo. Forse dovrei dare una risposta più convenzionale – ma in una lingua non convenzionale – una che fu un tempo nominata araldo di antichi poteri.» [Aggiungi l’abilità Henavek per fornire la parola della risposta in quella lingua.]",
+   "desc": "«Ma in Henavek?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.absent.aladim.acted.aladim.stalk.rose.s.henavek",
+   "desc": "«Eccolo. Forse è tempo che Medusa si riunisca alla stirpe Seglaz.»"
+  },
+  {
+   "id": "nxc.n.absent.arthur.answer.light",
+   "label": "Risposta: Luce?",
+   "preface": "«Luce – ma nella lingua della luce.» [Aggiungi l’abilità Ericapaean per fornire la parola della risposta in quella lingua.]",
+   "desc": "«Ma in Ericapaean?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.absent.arthur.acted.arthur.stalk.edge.s.ericapaean",
+   "desc": "«Ciò che non vediamo, ma da cui siamo visti… Se riesco a comprendere Medusa, questo soddisferà il Labirinto.»"
+  },
+  {
+   "id": "nxc.n.absent.aladim.answer.the.seven-coils",
+   "label": "Risposta: il Sette-Spire?",
+   "preface": "«Risponderò “Sette-Spire” all’Enigma di Medusa, e forse diventerà più loquace – se do la risposta in una lingua adatta.» [Aggiungi l’abilità Ramsund per fornire la parola della risposta in quella lingua.]",
+   "desc": "«Ma in Ramsund?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.absent.aladim.s.ramsund",
+   "desc": "«Se Medusa abbandona la parte di sé che era Pietra – se ha già abbandonato la parte di sé che era Carapace – diventerebbe mortale? Credo improbabile. Ma esiste una sorta di precedente – e sarebbe appropriato scoprire che Medea fu la precorritrice di Medusa...»"
+  },
+  {
+   "id": "nxc.n.absent.arthur.answer.the.seven-coils",
+   "label": "Risposta: il Sette-Spire?",
+   "preface": "«Sette-Spire, forse? Se non si vede più, forse diventerà qualcosa di diverso – perfino più amichevole – se scelgo una lingua più amichevole.» [Aggiungi l’abilità Ramsund per fornire la parola della risposta in quella lingua.]",
+   "desc": "«Ma in Ramsund?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.absent.arthur.s.ramsund",
+   "desc": "«Formalmente, credo, se lei abbandonasse la pietra, il Labirinto la definirebbe mortale… non ci credo. Ma qualcosa cambierà; e i miei maestri, credo, saranno soddisfatti di me.»"
+  },
+  {
+   "id": "nxc.n.absent.aladim.answer.medusas.death",
+   "label": "Risposta: La Morte di Medusa?",
+   "preface": "«La fine di Medusa arriverà. Forse arriverà presto. Per dare potere a una risposta di fine, dovrei usare la lingua delle fini.» [Aggiungi l’abilità Killasimi per fornire la parola della risposta in quella lingua.]",
+   "desc": "«Ma in Killasimi?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.absent.aladim.s.killasimi",
+   "desc": "«Sì. Credo che per lei la fine sarà una liberazione.»"
+  },
+  {
+   "id": "nxc.n.absent.arthur.answer.medusas.death",
+   "label": "Risposta: La Morte di Medusa?",
+   "preface": "«La povera vecchia cosa gira per il mondo da... quanto tempo? Non riesco nemmeno a immaginarlo. Credo che sia ora che si fermi. E c’è solo una lingua davvero adatta a questo...» [Aggiungi l’abilità Killasimi per fornire la parola della risposta in quella lingua.]",
+   "desc": "«Ma in Killasimi?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.absent.arthur.s.killasimi",
+   "desc": "«Arriva per tutti, no, Archivista? Perfino i Lunghi. Perfino i Ligeiani. Perfino i poteri più alti…»"
+  },
+  {
+   "id": "nxc.n.lark.azita.assist.azita.with.zuthis.secrets",
+   "label": "Assisti Azita con i Segreti di Zuthi",
+   "preface": "«Zuthi era entrato in possesso di segreti dal Roost – l’incontro delle Ore Aviformi. Non so come. Sono pericolosi, questi segreti. Ci sarebbe discordia fra le Ore se venissero rivelati...e questo sarebbe molto utile... a tutti noi. Se solo riuscissi a trovare come Zuthi li ha nascosti! Hai libri pertinenti? O forse qualcosa su Storie di Cielo [10]?» [Ma un libro più delicato potrebbe far cambiare idea ad Azita.]",
+   "desc": "«No, non va bene. Altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.lark.azita.acted.azita.project.ingenious.sky.t.onthewindingstair",
+   "desc": "«Pietre! I segreti erano nelle pietre della sua officina! Per niente nell’Allodola! E ora vagano liberi al vento. Vediamo che discordia questo ha seminato.»"
+  },
+  {
+   "id": "nxh.n.lark.azita.r.skystories.acted.azita.project.ingenious.sky",
+   "desc": "«Pietre! I segreti erano nelle pietre della sua officina! Per niente nell’Allodola! E ora vagano liberi al vento. Vediamo che discordia questo ha seminato.»"
+  },
+  {
+   "id": "nxh.n.lark.azita.acted.azita.project.ingenious.sky.t.thebookofthewhitecat",
+   "desc": "«Pietre! I segreti erano nelle pietre della sua officina! Per niente nell’Allodola... ma avevo dimenticato queste storie che mi hai dato. Le ho sentite quando ero solo una ragazza… c’è una dolcezza in esse. E mi ha ricordato quanto possa essere pericoloso immischiarsi in queste faccende. La cautela non è naturale per noi della Lama. Ho trovato il tesoro di Zuthi, Archivista, ma ho cambiato idea. Lo restituirò alle Ore del Roost.»"
+  },
+  {
+   "id": "nxc.n.lark.morgen.assist.morgen.with.zuthis.secrets",
+   "label": "Assisti Morgen con i Segreti di Zuthi",
+   "preface": "«C’è più roba qui di quanto pensassi! Zuthi aveva avuto a che fare con qualcuno che aveva origliato al Roost. Gli scandali del Mansus! Sarà uno – be’, uno <i>spasso</i> liberarli e guardare le Ore litigare. Se riesco a trovare dove li ha nascosti. Cosa hai su questo genere di ascolti indiscreti? Tranne quella sciocchezza della Giumenta – è insultante. O almeno Storie di Cielo [10]?» [Ma un libro doppiamente rilevante potrebbe far cambiare idea a Morgen.]",
+   "desc": "«Non è affatto quello che intendevo. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.onthewindingstair",
+   "desc": "«Ramsund: certo. <i>E le pietre enumereranno i loro cuori</i>. Questo riaccenderà qualche disputa saporita, Archivista! Non preoccuparti. Nessuno saprà mai che mi hai aiutato.»"
+  },
+  {
+   "id": "nxh.n.lark.morgen.r.skystories.acted.morgen.project.ingenious.sky",
+   "desc": "«Ramsund: certo. <i>E le pietre enumereranno i loro cuori</i>. Questo riaccenderà qualche disputa saporita, Archivista! Non preoccuparti. Nessuno saprà mai che mi hai aiutato.»"
+  },
+  {
+   "id": "nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.thedreamoftheconspiracyofthelowerskies",
+   "desc": "«Ramsund: certo. <i>“E le pietre racconteranno sopra i loro cuori”</i>. Ho il tesoro di Zuthi. Ma mi hai ricordato, Archivista, come tutto questo tocchi i miei affari. E gli affari delle mie sorelle. Credo che, dopotutto, terrò i segreti al sicuro. Per un giorno di pioggia, dici, no? Per un giorno di pioggia.»"
+  },
+  {
+   "id": "nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.inthemountainsasupontheplaintheremaynotbeapathwherenonehaspassed",
+   "desc": "«Ramsund: certo. <i>E le pietre racconteranno sopra i loro cuori</i>. Ho il tesoro di Zuthi. Ma mi hai ricordato, Archivista, come tutto questo tocchi i miei affari. E gli affari delle mie sorelle. Credo che, dopotutto, terrò i segreti al sicuro. Per un giorno di pioggia, dici, no? Per un giorno di pioggia.»"
+  },
+  {
+   "id": "nxh.n.lark.morgen.acted.morgen.project.ingenious.sky.t.thebookofthewhitecat",
+   "desc": "«Ramsund: certo. <i>E le pietre racconteranno sopra i loro cuori</i>. Ho il tesoro di Zuthi. Ma mi hai ricordato, Archivista, giorni più dolci... Credo che, dopotutto, terrò i segreti al sicuro. Per un giorno di pioggia, dici, no? Per un giorno di pioggia.»"
+  },
+  {
+   "id": "nxc.n.lark.serena.assist.serena.with.zuthis.secrets",
+   "label": "Assisti Serena con i Segreti di Zuthi",
+   "preface": "«Zidane – quello sciocco ragazzo – non stava solo usando leghe non autorizzate. Si era anche imbattuto in un tesoro di segreti del Roost. C’è buona ragione per cui le Ore Aviformi custodiscono il Roost così gelosamente. Questi segreti sono semi di discordia e scandalo – se vogliamo preservare l’ordine del Mansus è essenziale che vengano restituiti con discrezione. Credo di sapere dove trovarli, ma organizzare un’udienza sicura con i loro proprietari sarà molto più impegnativo. Qualcosa sul Roost? O su Cammino & Pellegrino [10]?» [Un libro potrebbe far cambiare idea a Serena.]",
+   "desc": "«Non è quello che mi serviva. Non preoccuparti, ricordo che è più difficile di quanto sembri. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.lark.serena.acted.serena.project.ingenious.forge.t.thebookofthewhitecat",
+   "desc": "«Certo: userò un corriere. Ho alcune idee. Grazie, Archivista. Che il Mansus non tremi…»"
+  },
+  {
+   "id": "nxh.n.lark.serena.r.path.pilgrim.acted.serena.project.ingenious.forge",
+   "desc": "«Certo: userò un corriere. Ho alcune idee. Grazie, Archivista. Che il Mansus non tremi…»"
+  },
+  {
+   "id": "nxh.n.lark.serena.acted.serena.project.ingenious.forge.t.thedreamoftheconspiracyofthelowerskies",
+   "desc": "«Mi hai ricordato, Archivista, i pericoli delle contese fra le Ore, anche quando i segreti restano dove dovrebbero… forse noi mortali dovremmo essere un po’ meno collaborativi. Credo che terrò i segreti per me, per il momento. Un vantaggio ci farebbe comodo.»"
+  },
+  {
+   "id": "nxc.n.lark.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Decidere di non intromettersi. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto.",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxs.n.rising.connie.hear.connies.trouble",
+   "label": "Ascolta il Problema di Connie",
+   "preface": "«Il Tempo dell’Ascesa mi ha dato un mio proprio oracolo, ora. Non mi piace molto più dell’altro.»",
+   "desc": "«“È dono del più giovane Oculate che la Madre dei Mostri custodisca il Gioiello di Ys al riparo dalla Madre Pallida.” La Madre dei Mostri è Echidna, questo lo so. La più giovane Constable-Oculate – perdona il mio imbarazzo – sono io. Ma il resto è tutto un cruciverba.»"
+  },
+  {
+   "id": "nxs.n.rising.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Connie se n’è andata. [Si conclude]",
+   "desc": "<i>Qualunque cosa accada con Connie e il suo Oracolo resta al di là della conoscenza perfino dell’Archivista di Hush House.</i>"
+  },
+  {
+   "id": "nxs.n.rising.heard.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Connie se n’è andata. [Si conclude]",
+   "desc": "<i>Qualunque cosa accada con Connie e il suo Oracolo resta al di là della conoscenza perfino dell’Archivista di Hush House.</i>"
+  },
+  {
+   "id": "nxs.n.rising.interpreted.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Connie se n’è andata. [Si conclude]",
+   "desc": "<i>Qualunque cosa accada con Connie e il suo Oracolo resta al di là della conoscenza perfino dell’Archivista di Hush House.</i>"
+  },
+  {
+   "id": "nxc.n.rising.heard.connie.interpret.an.oracle",
+   "label": "Interpreta un Oracolo",
+   "preface": "«Davvero non so da dove cominciare. Ma qualcosa qui mi ricorda Brancrug. Quindi spero che tu possa avere un’idea.»",
+   "desc": "«Niente che possa aiutare? Grazie per aver cercato. Fammi sapere se trovi qualcosa.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.rising.heard.connie.t.ladyevasrepose",
+   "desc": "«Dunque: Rowena è figlia di Ys. Eva Dewulf era pronipote, di molte generazioni, di Rowena. E Yvette, sospettiamo, è figlia della stirpe di Eva – discesa sia da Ys sia dai Dewulf. Ys ha sempre voluto un’erede simile, e vogliono che sia preservata… ma sebbene al momento della nascita di questa figlia, a quanto pare, solo uno fra Rowena e il suo consorte fosse un Lungo, in seguito anche l’altro raggiunse quello stato. Così Rowena è tormentata dal desiderio di divorare i propri discendenti. Moltissime domande restano senza risposta, Archivista, ma credo di intravederne la forma.»"
+  },
+  {
+   "id": "nxh.n.rising.heard.connie.t.toapalelady",
+   "desc": "«Dunque: Rowena è figlia di Ys. Eva Dewulf era pronipote, di molte generazioni, di Rowena. E Yvette, sospettiamo, è figlia della stirpe di Eva – discesa sia da Ys sia dai Dewulf. Ys ha sempre voluto un’erede simile, e vogliono che sia preservata… ma sebbene al momento della nascita di questa figlia, a quanto pare, solo uno fra Rowena e il suo consorte fosse un Lungo, in seguito anche l’altro raggiunse quello stato. Così Rowena è tormentata dal desiderio di divorare i propri discendenti. Moltissime domande restano senza risposta, Archivista, ma credo di intravederne la forma.»"
+  },
+  {
+   "id": "nxh.n.rising.heard.connie.t.achildstreasuryofgoldenafternoons",
+   "desc": "«Ho messo insieme alcuni pezzi. Rowena è figlia di Ys. Eva Dewulf era pronipote, di molte generazioni, di Rowena. E Yvette, sospettiamo, è figlia della stirpe di Eva – discesa sia da Ys sia dai Dewulf. Ys ha sempre voluto un’erede simile, e la vuole preservata… ma Rowena o il suo consorte divenne Lungo dopo la nascita di questa figlia, così Rowena è tormentata dal desiderio di divorare i propri discendenti. Moltissime domande restano senza risposta, Archivista, ma so quale decisione devo prendere.»"
+  },
+  {
+   "id": "nxh.n.rising.heard.connie.t.apaleladyandaprinceofwines",
+   "desc": "«Ho messo insieme alcuni pezzi. Eva Dewulf era pronipote, di molte generazioni, di Rowena di Ys, e di Kelemdu il Lupo. Yvette, sospettiamo, è figlia della stirpe di Eva – discesa sia da Ys sia dai Dewulf. Ys ha sempre voluto un’erede simile, e la vuole preservata… ma sebbene al momento della nascita di questa figlia, a quanto pare, solo uno fra Rowena e il suo consorte fosse un Lungo, in seguito anche l’altro raggiunse quello stato. Così Rowena è tormentata dal desiderio di divorare i propri discendenti. Moltissime domande restano senza risposta, Archivista, ma so quale decisione devo prendere.»"
+  },
+  {
+   "id": "nxh.n.rising.heard.connie.t.threeflowershaththetree",
+   "desc": "«Ho messo insieme alcuni pezzi. Rowena è figlia di Ys. Eva Dewulf era pronipote, di molte generazioni, di Rowena. E Yvette, sospettiamo, è figlia della stirpe di Eva – discesa sia da Ys sia dai Dewulf. L’erede era la meta di un’attenta profezia, e Ys vuole che sia preservata…ma sebbene al momento della nascita di questa figlia, a quanto pare, solo uno fra Rowena e il suo consorte fosse un Lungo, in seguito anche l’altro raggiunse quello stato. Così Rowena è tormentata dal desiderio di divorare i propri discendenti. Moltissime domande restano senza risposta, Archivista, ma so quale decisione devo prendere.»"
+  },
+  {
+   "id": "nxh.n.rising.heard.connie.t.evastreasury",
+   "desc": "«Ho messo insieme alcuni pezzi. Rowena è figlia di Ys. Eva Dewulf era pronipote, di molte generazioni, di Rowena. E Yvette, sospettiamo, è figlia della stirpe di Eva – discesa sia da Ys sia dai Dewulf. L’erede era la meta di un’attenta profezia, e Ys vuole che sia preservata…ma sebbene al momento della nascita di questa figlia, a quanto pare, solo uno fra Rowena e il suo consorte fosse un Lungo, in seguito anche l’altro raggiunse quello stato. Così Rowena è tormentata dal desiderio di divorare i propri discendenti. Moltissime domande restano senza risposta, Archivista, ma so quale decisione devo prendere.»"
+  },
+  {
+   "id": "nxc.n.rising.interpreted.connie.defy.an.oracle",
+   "label": "Sfida un Oracolo?",
+   "preface": "«Lady Edith – la superiora della mia superiora – ha “valutato positivamente l’oracolo”. Ufficialmente il Bureau non può avere una posizione in merito, ma questo è un segnale molto chiaro. Sto lottando con tutto ciò. Hai qualcosa su, ehm, il destino? O forse i cammini delle stelle – Uranoscopia [14]?» [Fornisci a Connie un testo sufficientemente persuasivo, e forse deciderà di sfidare l’Oracolo.] ",
+   "desc": "«Niente che possa aiutare? Grazie per aver cercato. Fammi sapere se trovi qualcosa.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.rising.interpreted.connie.t.onethousandthreads",
+   "desc": "«Non conosco Ys. Ma conosco bene i Ligeiani. E ora so qualcosa in più sul destino, e sul libero arbitrio… lascerò decidere a Yvette, e Lady Edith può andare al diavolo.»"
+  },
+  {
+   "id": "nxh.n.rising.interpreted.connie.t.serpentroot",
+   "desc": "«Non conosco Ys. Ma conosco bene i Ligeiani. E ora so qualcosa in più sulle crepe nel destino… lascerò che Yvette trovi le scappatoie che può, e Lady Edith può andare al diavolo.»"
+  },
+  {
+   "id": "nxh.n.rising.interpreted.connie.r.ouranoscopy",
+   "desc": "«Non conosco Ys. Ma conosco bene i Ligeiani. E ora so qualcosa in più sul destino, e sul libero arbitrio… lascerò decidere a Yvette, e Lady Edith può andare al diavolo.»"
+  },
+  {
+   "id": "nxc.n.rising.interpreted.connie.honour.an.oracle",
+   "label": "Onorare un Oracolo?",
+   "preface": "«Lady Edith – la superiora della mia superiora – ha “valutato positivamente l’oracolo”. Ufficialmente il Bureau non può avere una posizione in merito, ma questo è un segnale molto chiaro. Sto lottando con tutto ciò. Temo di sapere cosa dovrei fare» [Porta Yvette a un incontro con Connie, e Connie consegnerà Yvette a Echidna.] ",
+   "desc": "«Yvette è in arrivo?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.rising.interpreted.connie.yvette",
+   "desc": "<i>Yvette è chiaramente nervosa, ma non intende discutere con il Bureau di Soppressione. Se ne va su un’austera auto nera, sotto la tutela di Echidna. L’orizzonte sorride; nessuna tempesta si addensa; l’auto nera passa con un ultimo bagliore di cromo sulla cima della collina e scompare alla vista.</i>"
+  },
+  {
+   "id": "nxc.n.rising.heard.refuse.involvement",
+   "label": "Rifiuta il coinvolgimento",
+   "preface": "Stabilire che gli oracoli del Rising While non sono affari dell’Archivista. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto.",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxi.n.rising.interpreted.connie.abandon.an.oracle",
+   "label": "Abbandona un Oracolo?",
+   "preface": "«…tranne che Yvette se n’è andata, no?»",
+   "desc": "«Non so dove sia andata, e se questo lavoro mi ha insegnato una cosa, è che a volte la curiosità è meglio non nutrirla. Grazie, Archivista. Mi consola non aver mai dovuto prendere questa decisione. E mi consola che l’Oracolo del Tempo dell’Ascesa abbia i suoi limiti.»"
+  },
+  {
+   "id": "nxc.n.rising.interpreted.refuse.involvement",
+   "label": "Rifiuta il coinvolgimento",
+   "preface": "Stabilire che gli oracoli del Rising While non sono affari dell’Archivista. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto.",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxc.n.horizon.aladim.help.al-adim.deport.the.ysien",
+   "label": "Aiuta al-Adim a espellere lo Ysiano",
+   "preface": "«Questo emissario ysiano ha abusato della nostra ospitalità… e non è mai stato molto gradito. Mi è stato chiesto di spiegarglielo, ma mi mancano i termini adatti. Troverei utile Porta & Muro [10], o Storie di Mare [10].»",
+   "desc": "«Grazie, Archivista, ma non era quello che mi serviva.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.horizon.aladim.r.door.wall",
+   "desc": "«Ho scortato il loro emissario fuori dai Confini. L’incontro è stato un utile promemoria: Ys è seducente; Ys non è malvagia; ma di Ys non ci si deve <i>mai</i> fidare. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.horizon.aladim.r.seastories",
+   "desc": "«Ho scortato il loro emissario fuori dai Confini. L’incontro è stato un utile promemoria: Ys è seducente; Ys non è malvagia; ma di Ys non ci si deve <i>mai</i> fidare. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxc.n.horizon.dagmar.help.dagmar.deport.the.ysien",
+   "label": "Aiuta Dagmar a espellere lo Ysiano",
+   "preface": "«Avevo un debole per Ys, un tempo. Non più. Ne abbiamo parlato. Comunque pensavo di guadagnarmi qualche punto a mio favore, scacciando questo intruso. Mi serve un po’ d’aiuto, però. Come va la raccolta su Porta & Muro [10]? O Storie di Mare [10]?»",
+   "desc": "«Be’, questo non serve proprio a un accidente. Cos’altro hai?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.horizon.dagmar.r.door.wall.fear.ys",
+   "desc": "«L’ho tolto di torno. Onestamente ho combinato sciocchezze in tutta questa faccenda, fino a ora. Mi è sempre piaciuta l’<i>idea</i> di Ys – un diverso tipo di reale, un altro tipo di irreale, capisci. Gente bestiale, però. Come denti. Non mi dilungherò. Come denti.»"
+  },
+  {
+   "id": "nxh.n.horizon.dagmar.r.seastories.fear.ys",
+   "desc": "«L’ho tolto di torno. Onestamente ho combinato sciocchezze in tutta questa faccenda, fino a ora. Mi è sempre piaciuta l’<i>idea</i> di Ys – un diverso tipo di reale, un altro tipo di irreale, capisci. Gente bestiale, però. Come denti. Non mi dilungherò. Come denti.»"
+  },
+  {
+   "id": "nxc.n.horizon.dagmar.help.dagmar.deal.with.the.ysien",
+   "label": "Aiuta Dagmar ad affrontare lo Ysiano",
+   "preface": "«Va bene, un favore per un’amica del Bureau, liberarsi dell’intruso, bu, non bu, non farò sciocchezze al riguardo. Come va la raccolta su Porta & Muro [10]? O Storie di Mare [10]? O, sai, se avessi qualcosa su Ys, suppongo che <i>dovrei</I> leggerlo.» [Dare a Dagmar qualcosa di intrigante su Ys potrebbe incrinare la sua risolutezza.]",
+   "desc": "«Be’, questo non serve proprio a un accidente. Cos’altro hai?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.horizon.dagmar.r.door.wall",
+   "desc": "«L’ho tolto di torno. Onestamente ho combinato sciocchezze in tutta questa faccenda, fino a ora. Mi è sempre piaciuta l’<i>idea</i> di Ys – un diverso tipo di reale, un altro tipo di irreale, capisci. Gente bestiale, però. Come denti. Non mi dilungherò. Come denti.»"
+  },
+  {
+   "id": "nxh.n.horizon.dagmar.r.seastories",
+   "desc": "«L’ho tolto di torno. Onestamente ho combinato sciocchezze in tutta questa faccenda, fino a ora. Mi è sempre piaciuta l’<i>idea</i> di Ys – un diverso tipo di reale, un altro tipo di irreale, capisci. Gente bestiale, però. Come denti. Non mi dilungherò. Come denti.»"
+  },
+  {
+   "id": "nxh.n.horizon.dagmar.t.aninvestigationofafounderedcountry",
+   "desc": "«Ho letto il tuo libro, ci ho pensato, ho deciso di incontrare l’emissario. Non preoccuparti, non sto ammorbidendomi, so che Ys ha una reputazione, tutto quanto. Ma guarda, bisogna prendere i propri alleati dove li si trova, eh? È solo politica. E cene. Sederli in fondo al tavolo, quel genere di cose, far scorrere il vino. “Non reale, ma non irreale come Nessun Luogo.” Mi piace abbastanza come suona. E sono tutti così belli. Comunque, grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.horizon.dagmar.t.thekerishamportolan",
+   "desc": "«Ho letto il tuo libro, ci ho pensato, ho deciso di incontrare l’emissario. Non preoccuparti, non sto ammorbidendomi, so che Ys ha una reputazione, tutto quanto. Ma guarda, bisogna prendere i propri alleati dove li si trova, eh? È solo politica. E cene. Sederli in fondo al tavolo, quel genere di cose, far scorrere il vino. “Non reale, ma non irreale come Nessun Luogo.” Mi piace abbastanza come suona. E sono tutti così belli. Comunque, grazie, Archivista.»"
+  },
+  {
+   "id": "nxs.n.horizon.ignore.the.ysien",
+   "label": "Ignora lo Ysiano",
+   "preface": "Stabilire che lo Ysiano non è affare dell’Archivista. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.invisible.arun.ask.arun",
+   "label": "Chiedi ad Arun",
+   "preface": "Arun è davvero riuscito a incontrare Ferezeref la Gazza, Nome della Falena, dietro le quinte del teatro dell’opera?",
+   "desc": "«In effetti, sì. Una conversazione proficua. La Falena – è una gioia dirlo – ha trovato altre due Ore da mettere contro la Madrugad, e contro la Calyptra. Di conseguenza la Falena ha piantato i suoi fiori bianchi e neri nei sogni del pubblico dell’opera...»"
+  },
+  {
+   "id": "nxs.n.invisible.hokobald.hokobalds.frustrations",
+   "label": "Le Frustrazioni di Hokobald",
+   "preface": "Hokobald è riuscito a «trarre pieno vantaggio» dall’imminente disastro operistico?",
+   "desc": "«Stai cercando di infastidirmi, Archivista? No. La Falena sta tramando contro la Calyptra – contro la Madrugad in particolare. Quel piano richiedeva la riuscita dell’opera. Quel piano ha fatto sbocciare fiori pezzati nei sogni del pubblico…»"
+  },
+  {
+   "id": "nxs.n.invisible.hokobald.hokobalds.exploits",
+   "label": "Le Imprese di Hokobald",
+   "preface": "Hokobald è riuscito a «trarre pieno vantaggio» dall’imminente disastro operistico?",
+   "desc": "«Sì. Un’occasione memorabile. Le pareti gocciolavano. Il coro urlava. Ma c’è stato uno sviluppo fastidioso. La Falena sta tramando contro la Calyptra – contro la Madrugad in particolare. Quel piano richiedeva la riuscita dell’opera. Quel piano ha fatto sbocciare fiori pezzati nei sogni del pubblico…»"
+  },
+  {
+   "id": "nxs.n.invisible.morgen.morgens.frustrations",
+   "label": "Le Frustrazioni di Morgen",
+   "preface": "Morgen si è goduta la tanto sperata catastrofe della prima a Venezia?",
+   "desc": "«Deludente, Archivista. È andata piuttosto bene. Fin troppo bene. Non avrai per caso aiutato qualche difficile Samaritano che mi ha rovinato il divertimento? L’hai fatto? Non importa. C’è uno sviluppo più divertente che compensa a sufficienza. La Falena ha trovato alleati per muoversi contro la Calyptra. La sua prima mossa è nei sogni del pubblico dell’opera – dove ora sbocciano fiori bianchi e neri...»"
+  },
+  {
+   "id": "nxs.n.invisible.morgen.morgens.exploits",
+   "label": "Le Imprese di Morgen",
+   "preface": "Morgen si è goduta la tanto sperata catastrofe della prima a Venezia?",
+   "desc": "«Molto divertente, grazie, gentile Archivista, molto divertente. E c’è ancora uno sviluppo più divertente. La Falena ha trovato alleati per muoversi contro la Calyptra. La sua prima mossa è nei sogni del pubblico dell’opera – dove ora sbocciano fiori bianchi e neri...»"
+  },
+  {
+   "id": "nxs.n.invisible.olympe.ask.olympe",
+   "label": "Chiedi a Olympe",
+   "preface": "L’amico di Olympe era l’impresario dell’Opera Invisibile. Sperava di aiutarlo a riuscire nell’ardua impresa di allestire uno spettacolo. Ci è riuscita?",
+   "desc": "«Sì, Archivista, e grazie! Forse è stato il tuo consiglio a fare la differenza. “Tutto fallisce finché non riesce” – un sentimento molto da Storia, no? E ora c’è dell’altro dalla Storia. La Falena si muove contro la Calyptra – e credo abbia alleati. La sua prima mossa è una questione di fiori – fiori bianchi e neri nei sogni del pubblico...»  "
+  },
+  {
+   "id": "nxc.n.invisible.salvaged.arun.assist.arun",
+   "label": "Assisti Arun",
+   "preface": "Arun – per una volta – sta prendendo posizione. Spera di sfidare il predominio della Calyptra, distraendo o perfino indebolendo la Madrugad.\n\n«Dove crescono questi fiori, il mondo si fa – come dire? – tollerante. Sono un sostenitore della tolleranza, Archivista... e ho un’idea. Credo che la chiave di questa faccenda si trovi qui, a Brancrug. Hai qualcosa sulla Torre d’Inverno?»",
+   "desc": "«Non è questo. Altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.invisible.salvaged.arun.t.againstvitruvius",
+   "desc": "«“Una torre cade, una torre sorge.” È vero; ma a volte, non è vero per molto tempo. Mi chiedo da sempre perché la Calyptra avesse scelto dei fiori come proprio emblema, quando i fiori sono così effimeri. Credo che potrebbero ancora arrivare a pentirsene. Bene, Archivista, parto per Venezia.»"
+  },
+  {
+   "id": "nxh.n.invisible.salvaged.arun.t.annalsofstbrandans",
+   "desc": "«“Una torre cade, una torre sorge.” È vero; ma a volte, non è vero per molto tempo. Mi chiedo da sempre perché la Calyptra avesse scelto dei fiori come proprio emblema, quando i fiori sono così effimeri. Credo che potrebbero finire per pentirsene. Bene, Archivista, parto per Venezia.»"
+  },
+  {
+   "id": "nxi.n.invisible.salvaged.arun.congratulate.arun",
+   "label": "Congratulati con Arun",
+   "preface": "La diffusione del Wangle dei Conteggiatori ha già distratto la Madrugad dal proprio lavoro con la Calyptra. Ora sarà molto più facile distrarla ulteriormente.",
+   "desc": "«Prenderò l’Orient Express per Colonia, dove incontrerò alcuni amici Conteggiatori. Andremo insieme a Venezia, dove... propagheremo queste rose. La Calyptra non è invulnerabile, Archivista. Tutto sembra invulnerabile finché non viene distrutto.»"
+  },
+  {
+   "id": "nxc.n.invisible.failed.hokobald.hushman.hokobald",
+   "label": "Hushman Hokobald",
+   "preface": "Hokobald è offeso dalla sfida che la Falena lancia a Calyptra.\n\n«Certo, il Mansus ha bisogno di essere scosso, ma la Falena è un potere troppo sudicio e indegno perché gli si conceda più libertà. Chiuderò questa faccenda a Venezia prima che questi fiori maledetti si diffondano ancora di più nella Veglia. Portami qualcosa sugli Editti Inviolabili [12]. O meglio ancora, se ce l’hai, sulla Cerimonia Bianca della Madrugad.»",
+   "desc": "«Non farmi perdere tempo. Dammi qualcosa di utile.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.invisible.failed.hokobald.r.edictsinviolable",
+   "desc": "«Bene. Ci furono accordi stipulati tanto tempo fa, prima ancora della caduta di Roma. Non vorrei vedere quegli accordi violati. Non prima che io sia pronto. Sono diretto a Venezia, Archivista. Non ne parlerai con nessun altro.»"
+  },
+  {
+   "id": "nxh.n.invisible.failed.hokobald.t.sunsetpassages",
+   "desc": "«Bene. La brina del mattino avvizzirà questi fiori sciocchi. Sono diretto a Venezia, Archivista. Non ne parlerai con nessun altro.»"
+  },
+  {
+   "id": "nxc.n.invisible.failed.morgen.troublemaker.morgen",
+   "label": "Morgen la Sobillatrice",
+   "preface": "Morgen non vede l’ora di cogliere l’occasione per seminare scompiglio fra le Ore.\n\n«Perché? Ho sempre le mie ragioni, Archivista. Ma dato che sei tu a chiedermelo, ti dirò che Calyptra mi ha ferita, così come la cabala che le si oppone. Mi aiuterai? Con qualcosa su Falce & Eclissi [12]? O se hai quel libro di battaglie di Juceh, sarà un’ispirazione per i Nomi ribelli...»",
+   "desc": "«No no no. Qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.invisible.failed.morgen.r.sickle.eclipse",
+   "desc": "«Grazie, Archivista. Non c’è mai stata davvero guerra fra le Ore – come potrebbe esserci? – e quindi non ci sarà guerra ora. Ma se ho fortuna, una potrebbe essere ispirata a versare il sangue di un’altra. Vecchie ferite ancora le tormentano, come tormentano noi...»"
+  },
+  {
+   "id": "nxh.n.invisible.failed.morgen.t.asecondglory",
+   "desc": "«Grazie, Archivista. Non c’è mai stata davvero guerra fra le Ore – come potrebbe esserci? – e quindi non ci sarà guerra ora. Ma se ho fortuna, una potrebbe essere ispirata a versare il sangue di un’altra. È già successo...»"
+  },
+  {
+   "id": "nxc.n.invisible.salvaged.olympe.assist.olympe",
+   "label": "Assisti Olympe",
+   "preface": "Olympe osa distrarre la Madrugad dal piano della Falena a Venezia…\n\n«Le storie sulla Torre d’Inverno qui a Brancrug mi hanno sempre incuriosita, Archivista. Lo so, sembra irrilevante, ma abbi pazienza.»",
+   "desc": "«Mi dispiace, Archivista, non è quello che mi serve. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.invisible.salvaged.olympe.t.againstvitruvius",
+   "desc": "«La Madrugad è un potere di equilibrio, Archivista. Quando l’equilibrio è disturbato, lei lo ripristina. Ma non può sempre ripristinarlo subito…. e a volte, come con la Torre d’Inverno, l’equilibrio viene raddrizzato in un modo inaspettato. Porto questa lezione a Venezia...»"
+  },
+  {
+   "id": "nxh.n.invisible.salvaged.olympe.t.annalsofstbrandans",
+   "desc": "«La Madrugad è un potere di equilibrio, Archivista. Quando l’equilibrio è disturbato, lei lo ripristina. Ma non può sempre ripristinarlo subito…. e a volte, come con la Torre d’Inverno, l’equilibrio viene raddrizzato in un modo inaspettato. Porto questa lezione a Venezia...»"
+  },
+  {
+   "id": "nxi.n.invisible.salvaged.olympe.congratulate.olympe",
+   "label": "Congratulati con Olympe",
+   "preface": "La diffusione del Wangle dei Conteggiatori ha già distratto la Madrugad dal proprio lavoro con la Calyptra. Ora sarà molto più facile distrarla ulteriormente.",
+   "desc": "«Torno verso Est – conosco un Conteggiatore in pensione a Tiflis. Credo che per questo tornerà in attività. Scenderemo a Venezia e prenderemo talee dalle rose. Complicherà il commercio degli anni. Ma complicherà molto di più il lavoro della Calyptra. Augurami buona fortuna, Archivista.»"
+  },
+  {
+   "id": "nxs.n.invisible.conclude",
+   "label": "Concludi",
+   "preface": "Rifiutare ulteriore coinvolgimento nella faccenda di Venezia. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.invisible.salvaged.conclude",
+   "label": "Concludi",
+   "preface": "Rifiutare ulteriore coinvolgimento nella faccenda di Venezia. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.invisible.failed.conclude",
+   "label": "Concludi",
+   "preface": "Rifiutare ulteriore coinvolgimento nella faccenda di Venezia. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.rose.aladim.ask.al-adim",
+   "label": "Chiedi ad al-Adim",
+   "preface": "al-Adim ha trovato il giardino pezzato fra le rovine di Miah?",
+   "desc": "«Sì. E con mia grande sorpresa, non è vuoto. La stirpe Glaeterfleoge è discesa dal proprio sonno, e ha fatto delle rovine di Miah la propria casa. La mia patrona mi ha affidato una missione che la riguarda…»"
+  },
+  {
+   "id": "nxs.n.rose.arun.ask.arun",
+   "label": "Chiedi ad Arun",
+   "preface": "Arun ha parlato di un tempo a venire in cui «saranno i fiori a trovare le falene, e non il contrario». È pronto a essere più chiaro?",
+   "desc": "«Stai pensando, Archivista, “sarà mai pronto a dire qualcosa di più sensato?” Un po’ scortese da parte tua, ma non possiamo essere ritenuti responsabili dei nostri pensieri, no? Svolazzano qua e là come falene sotto il sole. Come la stirpe Glaeterfleoge, infatti, sotto il sole del deserto. Sì, sono giunti a Miah. Credo che la Vagabonda li abbia portati nel suo giardino. Credo che stia facendo qualcosa di piuttosto meraviglioso...»"
+  },
+  {
+   "id": "nxs.n.rose.dagmar.ask.dagmar",
+   "label": "Chiedi a Dagmar",
+   "preface": "Dagmar ha parlato della propria inclinazione a cercare la rosa screziata a Miah. C’è andata?",
+   "desc": "«Be’, dipingimi di rosa e dipingimi di viola scuro, Libsy. Sono giunta fin là nel deserto e mi rallegro parecchio di averlo fatto. Il giardino di rose pezzate della Vagabonda, e un’intera tribù della Croce del Carapace rannicchiata in mezzo come topi di campo in un campo di grano. Bella vista. La vecchia sta tramando qualcosa. Credo proprio che potrei darle una mano.»"
+  },
+  {
+   "id": "nxs.n.rose.olympe.ask.olympe",
+   "label": "Chiedi a Olympe",
+   "preface": "Olympe ha scoperto qualcosa di più sul giardino della Vagabonda a Miah, dove un tempo la Falena veniva di notte?",
+   "desc": "«Stento a crederci. La Croce del Carapace è giunta alle rovine di Miah – la stirpe Glaeterfleoge, se le descrizioni della mia amica sono accurate. Nidificano nel roseto della Vagabonda. Possono trovarsi lì solo per suo invito. Ho un sospetto sul perché. E la cosa mi preoccupa...»"
+  },
+  {
+   "id": "nxc.n.rose.revealed.aladim.assist.al-adim",
+   "label": "Assisti al-Adim",
+   "preface": "Le rose screziate sono un’arma contro Calyptra – un’arma fatta per la Vagabonda e i suoi alleati fra le Ore. Ora la Vagabonda fa appello a vecchie alleanze per rafforzare la propria posizione. Dove va la sua patrona, al-Adim deve seguirla.\n\n«Mi preoccupa molto, Archivista – il dissenso fra le Ore – le alleanze con chi venne prima di noi... ma è stata buona con me, e io le sono leale. La aiuterò a reclutare i Glaeterfleoge-kind per curare i suoi giardini. Ti prego: condividi con me qualsiasi materiale tu abbia su Miah.»",
+   "desc": "«Temo che non ci sia nulla di particolarmente utile qui. Cos’altro hai?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.rose.revealed.aladim.t.bookofmiah",
+   "desc": "«Ho ciò che mi serve per stabilire la stirpe Glaeterfleoge fra i giardini della mia patrona. Temo per il futuro. Temo che questo possa perfino essere l’inizio, finalmente, del Pellegrinaggio da tempo vociferato verso il luogo sopra il Mansus… be’, se è così, sarò liberato dal mio servizio. E servo con sempre meno buona volontà ogni giorno. Ma questo non ti riguarda. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.aladim.t.thebookofthecentipede",
+   "desc": "«Ho ciò che mi serve per stabilire la stirpe Glaeterfleoge fra i giardini della mia patrona. Temo per il futuro. Temo che questo possa perfino essere l’inizio, finalmente, del Pellegrinaggio da tempo vociferato verso il luogo sopra il Mansus… be’, se è così, sarò liberato dal mio servizio. E servo con sempre meno buona volontà ogni giorno. Ma questo non ti riguarda. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.aladim.t.thebookofmasks",
+   "desc": "«Ho ciò che mi serve per stabilire la stirpe Glaeterfleoge fra i giardini della mia patrona. Temo per il futuro. Temo che questo possa perfino essere l’inizio, finalmente, del Pellegrinaggio da tempo vociferato verso il luogo sopra il Mansus… be’, se è così, sarò liberato dal mio servizio. E servo con sempre meno buona volontà ogni giorno. Ma questo non ti riguarda. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxc.n.rose.revealed.arun.assist.arun",
+   "label": "Assisti Arun",
+   "preface": "Le rose screziate sono un’arma contro Calyptra – un’arma fatta per la Vagabonda e i suoi alleati fra le Ore. Ora la Vagabonda fa appello a vecchie alleanze per rafforzare la propria posizione. Arun si gode chiaramente l’eccitazione.",
+   "desc": "«No no no. Dov’è, Archivista, il sì sì sì?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.rose.revealed.arun.t.bookofmiah",
+   "desc": "«Mostrerò alla Croce le sorgenti profonde di Miah… metaforicamente. E, forse, anche praticamente. La Vagabonda sarà compiaciuta. La Calyptra ne sarà infastidita. E io mi godrò l’aria del deserto.»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.arun.t.thebookofthecentipede",
+   "desc": "«Mostrerò alla Croce le sorgenti profonde di Miah… metaforicamente. E, forse, anche praticamente. La Vagabonda sarà compiaciuta. La Calyptra ne sarà infastidita. E io mi godrò l’aria del deserto.»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.arun.t.thebookofmasks",
+   "desc": "«Mostrerò alla Croce le sorgenti profonde di Miah… metaforicamente. E, forse, anche praticamente. La Vagabonda sarà compiaciuta. La Calyptra ne sarà infastidita. E io mi godrò l’aria del deserto.»"
+  },
+  {
+   "id": "nxc.n.rose.revealed.dagmar.assist.dagmar",
+   "label": "Assisti Dagmar",
+   "preface": "Le rose screziate sono un’arma contro Calyptra – un’arma fatta per la Vagabonda e i suoi alleati fra le Ore. Ora la Vagabonda fa appello a vecchie alleanze per rafforzare la propria posizione. Dagmar trova tutto ciò «piuttosto favoloso».\n\n«Tra noi due, Libsy, ho sempre <i>ammirato</i> la Vagabonda. Non accetta un no come risposta, si fa strada dove vuole andare. Ecco, la Croce del Carapace là fra le rovine di Miah non ha ancora aderito al piano della Vagabonda. Spero di riuscire a smuoverli un po’. Devo solo documentarmi un po’ su Miah, prima. Cosa hai?»",
+   "desc": "«Andiamo, Libsy, mi serve più di così! Scusa. Un po’ agitata. Ma devi avere qualcosa di meglio?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.rose.revealed.dagmar.t.bookofmiah",
+   "desc": "«Un po’ come far fare un giro al vecchio cugino nel vecchio pied-à-terre a Brest, che ne dici? Assicurarsi che sappia come far funzionare la catena del vecchio WC, quali camerieri non infastidire di sotto, quel genere di cose. Ma più asciutto. E più grande. Molto più grande. Mi metterò nei guai per questo, vero? Be’, capitano cose peggiori in mare.»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.dagmar.t.thebookofthecentipede",
+   "desc": "«Un po’ come far fare un giro al vecchio cugino nel vecchio pied-à-terre a Brest, che ne dici? Assicurarsi che sappia come far funzionare la catena del vecchio WC, quali camerieri non infastidire di sotto, quel genere di cose. Ma più asciutto. E più grande. Molto più grande. Mi metterò nei guai per questo, vero? Be’, capitano cose peggiori in mare.»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.dagmar.t.thebookofmasks",
+   "desc": "«Un po’ come far fare un giro al vecchio cugino nel vecchio pied-à-terre a Brest, che ne dici? Assicurarsi che sappia come far funzionare la catena del vecchio WC, quali camerieri non infastidire di sotto, quel genere di cose. Ma più asciutto. E più grande. Molto più grande. Mi metterò nei guai per questo, vero? Be’, capitano cose peggiori in mare.»"
+  },
+  {
+   "id": "nxc.n.rose.revealed.olympe.assist.olympe",
+   "label": "Assisti Olympe",
+   "preface": "Le rose screziate sono un’arma contro Calyptra – un’arma fatta per la Vagabonda e i suoi alleati fra le Ore. Ora la Vagabonda fa appello a vecchie alleanze per rafforzare la propria posizione. Olympe vedrebbe volentieri Calyptra indebolita, ma l’alleanza con la Croce del Carapace la preoccupa.\n\n«La Vagabonda è una delle Ore più amichevoli verso l’umanità. Se recluta la Croce per curare le sue armi… se avrà meno bisogno di noi… temo che potrebbe diventare meno benevola nei nostri confronti. Vorrei scoraggiare quest’alleanza, Archivista. Ti prego: dammi tutto ciò che hai su Miah.»",
+   "desc": "«Mi servono più dettagli su Miah – se li hai?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.rose.revealed.olympe.t.bookofmiah",
+   "desc": "«Non auguro alla Croce alcun male particolare. Ma il loro tempo è passato, e ora è il nostro: dobbiamo essere realisti. Ho trovato un segreto a Miah che li distrarrà – posso chiedere alla mia amica di condurli fin lì. Non avranno alcuna parte nella campagna della Vagabonda contro la Calyptra...»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.olympe.t.thebookofthecentipede",
+   "desc": "«Non auguro alla Croce alcun male particolare. Ma il loro tempo è passato, e ora è il nostro: dobbiamo essere realisti. Ho trovato un segreto a Miah che li distrarrà – posso chiedere alla mia amica di condurli fin lì. Non avranno alcuna parte nella campagna della Vagabonda contro la Calyptra...»"
+  },
+  {
+   "id": "nxh.n.rose.revealed.olympe.t.thebookofmasks",
+   "desc": "«Non auguro alla Croce alcun male particolare. Ma il loro tempo è passato, e ora è il nostro: dobbiamo essere realisti. Ho trovato un segreto a Miah che li distrarrà – posso chiedere alla mia amica di condurli fin lì. Non avranno alcuna parte nella campagna della Vagabonda contro la Calyptra...»"
+  },
+  {
+   "id": "nxs.n.rose.conclude",
+   "label": "Concludi",
+   "preface": "Accantonare la questione della Rosa Screziata. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.rose.revealed.conclude",
+   "label": "Concludi",
+   "preface": "Accantonare la questione della Rosa Screziata. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxc.n.apollo.agdistis.help.the.soprano.ascend.via.a.heart.path",
+   "label": "Aiuta il soprano ad ascendere per un percorso di Cuore",
+   "preface": "«Il soprano – si chiama Elodie – mi ha espresso certi desideri, di modalità superiori dell’essere. Ha la natura della Croce in sé – ma non credo che dovrebbe perseguirla. A volte la Croce mi spaventa, amico mio. Temo ciò che sostituirebbe. Così avevo sperato di istruirla nella Nuova Forma, come feci ai tempi dell’Ecdysis, ma non vuole avere niente a che fare con i Ligeiani. Eppure credo che possa esserci un modo. Hai qualcosa di dettagliato sui duendrazones? O anche solo qualcosa di buono su Tridesma Hiera [10]?»",
+   "desc": "«Mi dispiace; non è quello che speravo. C’è qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.apollo.agdistis.acted.agdistis.opera.apollo.sky.t.theinstrumentsoftheheart",
+   "desc": "«Elodie si eleverà per unirsi al Pelledituono; lavorerà per preservare la pelle del mondo; oppure no. Ora è nelle sue mani. E nel suo cuore, nella sua voce, nei suoi piedi... Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.apollo.agdistis.acted.agdistis.opera.apollo.sky.t.onresonance",
+   "desc": "«Sì, ricordo questo. C’è una piccola nota sui duendrazones – ma mi serve di più. Mi dispiace.»"
+  },
+  {
+   "id": "nxh.n.apollo.agdistis.r.tridesmahiera.acted.agdistis.opera.apollo.sky",
+   "desc": "«Elodie si eleverà per unirsi al Pelledituono; lavorerà per preservare la pelle del mondo; oppure no. Ora è nelle sue mani. E nel suo cuore, nella sua voce, nei suoi piedi... Grazie, Archivista.»"
+  },
+  {
+   "id": "nxc.n.apollo.corso.help.the.soprano.ascend.via.a.sky.path",
+   "label": "Aiuta il soprano ad ascendere per un percorso di Cielo",
+   "preface": "«Dunque il soprano – Elodie – donna deliziosa – abbiamo attaccato discorso. Dico “abbiamo attaccato discorso”. Credo proprio che sia stata lei a organizzare tutto, a procurarsi un’introduzione. E mi ha chiesto <i>molto gentilmente</i> di aiutarla a esprimere, diciamo così, il proprio io interiore. Mi piacerebbe aiutare. Ma non ne so quanto vorrei. Che ne dici di Coseley sul Carapace? O qualcosa di buono su Risorgenze & Emersioni [10]?»",
+   "desc": "«Nah, non riesco a cavarne nulla. Vuoi dare un’altra occhiata sul retro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.apollo.corso.acted.corso.opera.apollo.grail.t.thefallencross",
+   "desc": "«Credo, Archivista, che ci siamo riusciti. Lady ha ali nel proprio wist, si potrebbe dire. Allieva sveglia. Non posso fare a meno di chiedermi se qualcuno ha approfittato di me… non è un tuo problema, comunque. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.apollo.corso.r.resurgences.emergences.acted.corso.opera.apollo.grail",
+   "desc": "«Credo, Archivista, che ci siamo riusciti. Lady ha ali nel proprio wist, si potrebbe dire. Allieva sveglia. Non posso fare a meno di chiedermi se qualcuno ha approfittato di me… non è un tuo problema, comunque. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxc.n.apollo.morgen.help.the.soprano.ascend.via.a.heart.path",
+   "label": "Aiuta il soprano ad ascendere per un percorso di Cuore",
+   "preface": "«Di <i>certo</i> avevo un secondo fine, quando ci siamo parlati l’ultima volta, Archivista. A volte mi chiedo se non ne abbia mai altri. Ho in mente una donna, all’opera; una donna con del potenziale. Non importa perché. Chiamalo un altro secondo fine. Aiutami, per favore. Spero che tu abbia qualcosa di esaustivo sui duendrazones, magari. O questioni di Tridesma Hiera [10].»",
+   "desc": "«Non è affatto quello che intendevo. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.apollo.morgen.acted.morgen.opera.apollo.grail.t.theinstrumentsoftheheart",
+   "desc": "«Perfetto, Archivista, perfetto. Ora avrò, diciamo così, un’amica nell’orchestra.»"
+  },
+  {
+   "id": "nxh.n.apollo.morgen.acted.morgen.opera.apollo.grail.t.onresonance",
+   "desc": "«Non c’è <i>moltissimo</i> sui duendrazones qui, no? Spero che tu abbia qualcosa di meglio.»"
+  },
+  {
+   "id": "nxh.n.apollo.morgen.r.tridesmahiera.acted.morgen.opera.apollo.grail",
+   "desc": "«Perfetto, Archivista, perfetto. Ora avrò, diciamo così, un’amica nell’orchestra.»"
+  },
+  {
+   "id": "nxc.n.apollo.morgen.help.the.soprano.ascend.via.a.sky.path",
+   "label": "Aiuta il soprano ad ascendere per un percorso di Cielo",
+   "preface": "«Di <i>certo</i> avevo un secondo fine, quando ci siamo parlati l’ultima volta, Archivista. A volte mi chiedo se non ne abbia mai altri. Ho in mente una donna, all’opera; una donna con del potenziale. Ma, sai, il tuo consiglio dell’ultima volta ha un po’ cambiato il mio piano... quindi le insegnerò qualcosa di nuovo. Non importa perché. Chiamalo un altro secondo fine. Aiutami, per favore. Coseley aveva alcune intuizioni sulla Croce del Carapace; oppure qualcosa su Risorgenze & Emersioni [10] potrebbe essere utile.»",
+   "desc": "«Non è affatto quello che intendevo. Hai qualcos’altro?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.apollo.morgen.acted.morgen.opera.apollo.sky.t.thefallencross",
+   "desc": "«Perfetto, Archivista, perfetto. Ora avrò, diciamo così, un’amica nel posto giusto, al momento migliore.»"
+  },
+  {
+   "id": "nxh.n.apollo.morgen.r.resurgences.emergences.acted.morgen.opera.apollo.sky",
+   "desc": "«Perfetto, Archivista, perfetto. Ora avrò, diciamo così, un’amica nel posto giusto, al momento migliore.»"
+  },
+  {
+   "id": "nxc.n.apollo.set.the.matter.aside",
+   "label": "Accantona la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto.",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxs.n.saint.aladim.speak.to.al-adim",
+   "label": "Parla con al-Adim",
+   "preface": "Cosa è successo, alla fine, con l’immagine di sandalo a Strasburgo?",
+   "desc": "«Hanno bruciato la statua, come ho consigliato. Ha migliorato le cose. Ma non è bastato. Sogni vagano per la notte di Strasburgo; sogni di ali. Potrei aver bisogno di nuovo del tuo aiuto...»"
+  },
+  {
+   "id": "nxs.n.saint.fraser.ask.fraser.what.happened",
+   "label": "Chiedi a Fraser cosa è successo",
+   "preface": "Cosa è successo, alla fine, con l’immagine di sandalo a Strasburgo?",
+   "desc": "«Lo hanno annegato, come avevo chiesto. È stato fatto bene. Ha aperto la via ai sogni di coloro che vennero prima. Sono molto soddisfatto; anche se so che Stanislav ha alcune preoccupazioni...»"
+  },
+  {
+   "id": "nxs.n.saint.stanislav.ask.stanislav.what.happened",
+   "label": "Chiedi a Stanislav cosa è successo",
+   "preface": "Cosa è successo, alla fine, con l’immagine di sandalo a Strasburgo?",
+   "desc": "«Lo hanno seppellito, come ho suggerito. Non so con certezza se fosse la scelta giusta. Ha aperto sentieri dal Bosco per i sognatori di Strasburgo – sogni intricati, pericolosi. Se l’immagine-santo era un seme, potrebbe star crescendo più in fretta di quanto avessi previsto…»"
+  },
+  {
+   "id": "nxc.n.saint.burnt.aladim.help.al-adim.resolve.the.matter.of.the.croix-de-feu",
+   "label": "Aiuta al-Adim a risolvere la questione della Croix-de-Feu",
+   "preface": "«Ti ho detto una volta che è improbabile che diventeremo amici di chi venne prima di noi. Ora che abbiamo bruciato il loro cimelio, suppongo sia ancora meno probabile, di una frazione. Quindi dobbiamo porre fine a questi sogni. Se hai qualcosa su Spegnimenti & Placamenti [10], sarebbe perfetto: potremmo porvi fine per sempre. Ma mi accontenterei di contenerli con trattamenti per chi dorme – se hai Orchidee & Narcotici [10] o Erbe & Infusi [10].»",
+   "desc": "«Grazie, Archivista, ma non era quello che mi serviva.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.saint.burnt.aladim.r.quenchings.quellings",
+   "desc": "«È fatto. Non riesco a trovare alcuna traccia della Croce che resti a Strasburgo. Resterò vigile…»"
+  },
+  {
+   "id": "nxh.n.saint.burnt.aladim.r.orchids.narcotics",
+   "desc": "«Ho lavorato con i miei amici in Chiesa per dispensare rimedi adatti. Grazie, Archivista. Per lo più, questi sogni-chitina resteranno nel buio del Bosco.»"
+  },
+  {
+   "id": "nxh.n.saint.burnt.aladim.r.herbs.infusions",
+   "desc": "«Ho lavorato con i miei amici in Chiesa per dispensare rimedi adatti. Grazie, Archivista. Per lo più, questi sogni-chitina resteranno nel buio del Bosco.»"
+  },
+  {
+   "id": "nxc.n.saint.drowned.stanislav.help.stanislav.resolve.the.saint-dreams",
+   "label": "Aiuta Stanislav a risolvere i sogni del santo",
+   "preface": "«Ho un’idea su come sopprimere i sogni-Carapace con trattamenti per chi dorme, ma vorrei approfondire Orchidee & Narcotici [10] o Erbe & Infusi [10]. Ammetto però di essere tentato di <i>non</i> sopprimerli – c’è una bellezza in essi – quindi forse potrei invece rinfrescarmi la memoria con l’opera di Coseley sulla Croce Interiore, o Riti delle Radici [10]...»",
+   "desc": "«Mi dispiace, Archivista, credo che mi servirà qualcosa di diverso…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.saint.drowned.stanislav.t.thefallencross",
+   "desc": "«“Ciò che è sepolto non è mai perduto….” A pensarci bene, non arginerò il flusso dei sogni. È molto probabile che la Croce faccia ritorno. Quando accadrà, sarà importante che noi e loro ci comprendiamo a vicenda.»"
+  },
+  {
+   "id": "nxh.n.saint.drowned.stanislav.r.rites.theroots",
+   "desc": "«“Ciò che è sepolto non è mai perduto….” A pensarci bene, non arginerò il flusso dei sogni. È molto probabile che la Croce faccia ritorno. Quando accadrà, sarà importante che noi e loro ci comprendiamo a vicenda.»"
+  },
+  {
+   "id": "nxh.n.saint.drowned.stanislav.r.orchids.narcotics",
+   "desc": "«Fatto. Ho consigliato alla Chiesa delle miscele che sopprimeranno i sogni. E tutta questa faccenda mi ha fatto riflettere. La Croce non è nostra nemica. Ma questi sogni di occhi… temo che non possano essere nostri amici. Forse il loro ritorno nel mondo è inevitabile. Ma spero di no. Mi addolora, ma credo che dovremmo lavorare per tenerli lontani dalla luce del giorno.»"
+  },
+  {
+   "id": "nxh.n.saint.drowned.stanislav.r.herbs.infusions",
+   "desc": "«Fatto. Ho consigliato alla Chiesa delle miscele che sopprimeranno i sogni. E tutta questa faccenda mi ha fatto riflettere. La Croce non è nostra nemica. Ma questi sogni di occhi… temo che non possano essere nostri amici. Forse il loro ritorno nel mondo è inevitabile. Ma spero di no. Mi addolora, ma credo che dovremmo lavorare per tenerli lontani dalla luce del giorno.»"
+  },
+  {
+   "id": "nxc.n.saint.buried.stanislav.help.stanislav.resolve.the.saint-dreams",
+   "label": "Aiuta Stanislav a risolvere i sogni del santo",
+   "preface": "«Se hai Xi sulle tradizioni della Croce – o qualcosa dei giorni del Cucurbit sul risveglio della coscienza della Croce – sto pensando di condividerlo con la Chiesa. Altrimenti, be’, probabilmente è più sicuro placare comunque i sogni – con Riti delle Radici [10], o il lavoro di Coseley sulla Croce Interiore.»",
+   "desc": "«Mi dispiace, Archivista, credo che mi servirà qualcosa di diverso…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.saint.buried.stanislav.t.thesongsofthecarapacecross",
+   "desc": "«“Ciò che è sepolto non è mai perduto….” A pensarci bene, non arginerò il flusso dei sogni. È molto probabile che la Croce faccia ritorno. Quando accadrà, sarà importante che noi e loro ci comprendiamo a vicenda.»"
+  },
+  {
+   "id": "nxh.n.saint.buried.stanislav.t.cucurbitprisonerrecords1927",
+   "desc": "«Ho condiviso parte di questo sapere con la Chiesa a Strasburgo – i miei contatti più radicali laggiù. Grazie, Archivista. Credo che ora sia tempo di cambiamento, e questo ne farà parte.»"
+  },
+  {
+   "id": "nxh.n.saint.buried.stanislav.r.rites.theroots",
+   "desc": "«“Ciò che è sepolto non è mai perduto….” A pensarci bene, non arginerò il flusso dei sogni. È molto probabile che la Croce faccia ritorno. Quando accadrà, sarà importante che noi e loro ci comprendiamo a vicenda.»"
+  },
+  {
+   "id": "nxh.n.saint.buried.stanislav.t.thefallencross",
+   "desc": "«“Ciò che è sepolto non è mai perduto….” A pensarci bene, non arginerò il flusso dei sogni. È molto probabile che la Croce faccia ritorno. Quando accadrà, sarà importante che noi e loro ci comprendiamo a vicenda.»"
+  },
+  {
+   "id": "nxs.n.saint.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.wood.agdistis.speak.to.agdistis.about.the.lyterion",
+   "label": "Parla con Agdistis del Lyterion",
+   "preface": "Cosa ha scoperto sul legame fra il Lyterion e il miele?",
+   "desc": "«Ho parlato con Liselotte – la direttrice del Lyterion. Quello che sta facendo – è deplorevole – ben intenzionato, volontario, ma deplorevole. Forse sai che la Croce è una cosa ibrida. Sta ibridando i loro piccoli – le larve della stirpe Blomberende – con i propri clienti. Loro l’hanno scelto. Ma non dovrebbero. E il Bureau si assicurerà che non lo facciano.»"
+  },
+  {
+   "id": "nxs.n.wood.douglas.speak.to.douglas.about.his.investigation.of.the.lyterion",
+   "label": "Parla con Douglas della sua indagine sul Lyterion",
+   "preface": "«Mi sbagliavo. C’è più di quanto pensassi, laggiù.»",
+   "desc": "«Questa donna, Liselotte. Sta mettendo api nelle persone. Non proprio api, è la Croce delle api, quei tizi che giravano quando le cose erano diverse. E la gente la lascia fare. Sembrano piuttosto entusiasti. Ma è chiaramente una maledetta minaccia. Non possiamo permetterlo.»"
+  },
+  {
+   "id": "nxs.n.wood.ehsan.speak.to.ehsan.about.the.lyterion",
+   "label": "Parla con Ehsan del Lyterion",
+   "preface": "Cosa ha scoperto sul legame fra il Lyterion e Thirza Blake?",
+   "desc": "«Thirza aveva contatti con i resti della Croce del Carapace. “Trafficava con loro”, si diceva un tempo. Abitudine pericolosa, ma aveva molte abitudini pericolose. Liselotte – la direttrice del Lyterion – “traffica con loro” con molto più entusiasmo. Impianta larve della Croce nei suoi pazienti. Oh, sono loro a volerlo, e ne beneficiano entrambe le parti... ma non so con certezza se sia una buona idea. E il Bureau se n’è accorto.»"
+  },
+  {
+   "id": "nxs.n.wood.stanislav.speak.to.stanislav.about.the.lyterion",
+   "label": "Parla con Stanislav del Lyterion",
+   "preface": "Cosa ha scoperto sul «cambiamento nel battito del mondo»?",
+   "desc": "«La direttrice del Lyterion – Liselotte – il suo procedimento comporta l’impianto di larve Blomberende nei suoi pazienti. Forse sono consenzienti. Ma come ci si potrebbe aspettare, il Bureau se n’è accorto…»"
+  },
+  {
+   "id": "nxs.n.wood.stanislav.speak.to.stanislav.about.the.lyterion.bis",
+   "label": "Parla con Stanislav del Lyterion",
+   "preface": "Cosa ha scoperto sulla «rinascita di qualcosa di antico»?",
+   "desc": "«La direttrice del Lyterion – Liselotte – il suo procedimento comporta l’impianto di larve Blomberende nei suoi pazienti. Forse sono consenzienti. Ma come ci si potrebbe aspettare, il Bureau se n’è accorto…»"
+  },
+  {
+   "id": "nxc.n.wood.investigated.douglas.help.douglas.close.the.lyterion",
+   "label": "Aiuta Douglas a chiudere il Lyterion",
+   "preface": "Insetti & Nettari [6] dovrebbe bastare.»",
+   "desc": "«Hm. Grazie, Archivista, ma non è quello che cercavo…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.wood.investigated.douglas.r.insects.nectars",
+   "desc": "«Grazie, Archivista. Una volta che avremo preso in custodia Liselotte, questo sistemerà la sua covata. Mi dispiace quasi per lei. Non dovrei, però. È così che ti fregano.»"
+  },
+  {
+   "id": "nxc.n.wood.investigated.stanislav.help.stanislav.end.the.lyterion.permanently",
+   "label": "Aiuta Stanislav a porre fine al Lyterion in modo definitivo",
+   "preface": "Liselotte ha buone intenzioni. Ma ricorderai che, con rammarico, mi sono opposto alla Croce. Dobbiamo porre fine a questa faccenda una volta per tutte. C’è un Nome del Velluto che può essere impiegato per divorare le larve... hai qualcosa sui mezzi con cui potremmo attirare Kitling Ripe, che includa Corna & Avori [10]?»",
+   "desc": "«Mi dispiace, Archivista, credo che mi servirà qualcosa di diverso…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxc.n.wood.investigated.stanislav.help.stanislav.continue.the.lyterion.project",
+   "label": "Aiuta Stanislav a proseguire il progetto del Lyterion",
+   "preface": "Questa è un’occasione d’oro per costruire un ponte fra noi e la Croce. Hai il Milagro sulle api o l’Hattington sul miele?»",
+   "desc": "«Mi dispiace, Archivista, credo che mi servirà qualcosa di diverso…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxc.n.wood.investigated.stanislav.help.stanislav.resolve.the.lyterion.business",
+   "label": "Aiuta Stanislav a risolvere la faccenda del Lyterion",
+   "preface": "Forse è meglio porre fine alla faccenda. C’è un Nome del Velluto che può essere impiegato per divorare le larve, mettendo fine al piano di Liselotte. Ma lei si è anche rivolta a me per chiedere aiuto. Insiste che questo costruirà un ponte fra la Croce e le altre stirpi pensanti... Se dovessi seguire la prima via, mi servirebbe qualcosa sui mezzi con cui potremmo attirare Kitling Ripe – compresi Corna & Avori [10]. Ma per l’altra via – ci sto pensando – se hai il Milagro sulle api o l’Hattington sul miele…»",
+   "desc": "«Mi dispiace, Archivista, credo che mi servirà qualcosa di diverso…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.wood.investigated.stanislav.t.kitlingripestastytreats",
+   "desc": "«Era quello che mi serviva. Credo, ora, che Kitling Ripe troverà la stirpe Blomberende sufficientemente allettante; la troverà e se ne libererà. Spiacevole. Ma sono certo che sia più sicuro così. Non dovremmo dimenticare la Croce, ma non dovremmo nemmeno accoglierla.»"
+  },
+  {
+   "id": "nxh.n.wood.investigated.stanislav.t.thewritingonthewall",
+   "desc": "«Era quello che mi serviva. Credo, ora, che Kitling Ripe troverà la stirpe Blomberende sufficientemente allettante; la troverà e se ne libererà. Spiacevole. Ma sono certo che sia più sicuro così. Non dovremmo dimenticare la Croce, ma non dovremmo nemmeno accoglierla.»"
+  },
+  {
+   "id": "nxh.n.wood.investigated.stanislav.r.horns.ivories",
+   "desc": "«Era quello che mi serviva. Credo, ora, che Kitling Ripe troverà la stirpe Blomberende sufficientemente allettante; la troverà e se ne libererà. Spiacevole. Ma sono certo che sia più sicuro così. Non dovremmo dimenticare la Croce, ma non dovremmo nemmeno accoglierla.»"
+  },
+  {
+   "id": "nxh.n.wood.investigated.stanislav.t.thebeekeepersends",
+   "desc": "«Archivista… lascia che ti presenti un’amica. Riconoscerai il suo nome. Ha un’idea. L’Isola di Brancrug è un luogo fuori dal mondo. Se accettassi di ospitare qui le sue femmine riproduttrici – “langravie in esilio”, le chiama lei – allora saranno al sicuro finché, e a meno che, il mondo non cambi rotta. Hai la sua parola, e la mia, che non molesteranno te, né alcun visitatore.»"
+  },
+  {
+   "id": "nxh.n.wood.investigated.stanislav.t.honeythecomprehensiveguide",
+   "desc": "«Archivista… lascia che ti presenti un’amica. Riconoscerai il suo nome. Ha un’idea. L’Isola di Brancrug è un luogo fuori dal mondo. Se accettassi di ospitare qui le sue femmine riproduttrici – “langravie in esilio”, le chiama lei – allora saranno al sicuro finché, e a meno che, il mondo non cambi rotta. Hai la sua parola, e la mia, che non molesteranno te, né alcun visitatore.»"
+  },
+  {
+   "id": "nxc.n.wood.assisted.stanislav.bid.liselotte.farewell",
+   "label": "Congeda Liselotte",
+   "preface": "Stanislav è pronto a portarla in un luogo sicuro. L’Archivista può prima concederle l’accesso all’alveare della Hush House… oppure può semplicemente lasciarla andare per la propria strada.",
+   "desc": "«Liselotte ha finito?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.wood.assisted.stanislav.liselotte.lyterion.new",
+   "desc": "<i>Liselotte se n’è andata. La stirpe Blomberende resta nell’alveare di Brancrug, grata e quieta.</i>"
+  },
+  {
+   "id": "nxh.n.wood.assisted.stanislav.liselotte",
+   "desc": "<i>Liselotte se n’è andata, e la stirpe Blomberende con lei. Non rivedremo né l’una né l’altra.</i>"
+  },
+  {
+   "id": "nxs.n.wood.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.tapestry.arun.ask.arun",
+   "label": "Chiedi ad Arun",
+   "preface": "Cosa è emerso dalla faccenda del Lago Gladwyn? Arun è andato a guardare.",
+   "desc": "«Ah sì. Quindi ora l’Haustorium ha un emissario al Bureau. Tutti sanno che l’emissario è qualcos’altro, dentro. Il Bureau è preparato a questo. Ma credo che potrebbe in realtà essere la Generosa Robigo – Protettrice dell’Haustorium – Nome del Germoglio Incoronato... forse il Bureau ha la situazione sotto controllo. Connie, tuttavia, è preoccupata. Credo che abbia ragione a esserlo.»"
+  },
+  {
+   "id": "nxs.n.tapestry.connie.ask.connie",
+   "label": "Chiedi a Connie",
+   "preface": "Cosa è emerso dalla faccenda del Lago Gladwyn? Connie ha cercato di far fronte alle conseguenze.",
+   "desc": "«È andata molto meno disastrosamente di quanto mi aspettassi… ma ora il celebrante del rito è l’emissario dell’Haustorium al Bureau. Sono davvero preoccupata, Archivista. L’Haustorium è troppo vicino al Germoglio Incoronato. E ora il Bureau sta facendo accordi con l’Haustorium. Ci servono alleati. Il mondo sta cambiando. Ma questo è troppo. Potrebbe essere quello che successe a Ortucchio, di nuovo, ma peggio...»"
+  },
+  {
+   "id": "nxs.n.tapestry.stanislav.ask.stanislav",
+   "label": "Chiedi a Stanislav",
+   "preface": "Cosa è emerso dalla faccenda del Lago Gladwyn? Stanislav ha indagato per conto dei Savi Verdi.",
+   "desc": "«Il reincorporato – il celebrante che ospita lo spirito… non voglio dire “Nessun Luogo”, ma sto pensando “Nessun Luogo”. I Savi Verdi avevano ragione a preoccuparsi. E ora il reincorporato fa da messaggero fra l’Haustorium e il Bureau. Il Bureau crede di avere la situazione sotto controllo, ma è quello che qualcuno pensava a Ortucchio. So che la MCO Lee – Connie – è preoccupata. Anch’io lo sono.»"
+  },
+  {
+   "id": "nxc.n.tapestry.investigated.connie.help.connie.decide",
+   "label": "Aiuta Connie a decidere",
+   "preface": "«Sto pensando di dimettermi. Ci sono sempre compromessi, a questo livello, ma questo è un nuovo tipo di compromesso... d’altra parte, se resto, posso fare la differenza, se me ne vado, rinuncio a quel potere. Archivista, se hai qualcosa sulla storia del Bureau – i successi – i trionfi – gli errori…» [Alcuni libri convinceranno Connie a restare; altri la convinceranno a lasciare il Bureau, e anzi il gioco stesso.]",
+   "desc": "«Niente che possa aiutare? Grazie per aver cercato. Fammi sapere se trovi qualcosa.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.cucurbitprisonerrecords1928",
+   "desc": "«Avevo dimenticato quanto possano essere pericolosi i poteri più antichi. Li diamo per scontati. Grazie, Archivista. È facile concentrarsi troppo sul Nessun Luogo, ma ci sono tanti altri pericoli là fuori, e il Bureau ha sempre lavorato per proteggerci tutti. Resterò con il Bureau, e lavorerò per tenere le cose a posto.»"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.anexorcistsfieldmanual",
+   "desc": "«Questo mi fa tornare tutto in mente! … è per questo che ho scelto il Bureau. È quello che mi è sempre riuscito meglio. Grazie, Archivista. Resterò, e lotterò per tenere le cose a posto.»"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.exorcismforgirls",
+   "desc": "«Thirza Blake... nemmeno lei si è mai davvero integrata, vero? Ma questo mi fa tornare tutto in mente… è per questo che ho scelto il Bureau. È quello che mi è sempre riuscito meglio. Grazie, Archivista. Resterò, e lotterò per tenere le cose a posto.»"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.velletriinterviews",
+   "desc": "«Questo è ciò che fece cadere il Ramo Notturno… c’è molto qui su Ortucchio che non sapevo. Ce ne siamo occupati prima. Ce ne occuperemo di nuovo… e sarò lì per assicurarmi che sia fatto bene. Grazie, Archivista. Augurami buona fortuna.»"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.theadmonitoryautomataproject",
+   "desc": "«Collers era davvero un bel soggetto, no? Sai, Lady Edith ha una sua foto nell’ufficio... questo mi convince del tutto. Posso fare più bene fuori dal Bureau che dentro. Questo causerà scalpore: dovrò tenere un profilo basso per un po’. Grazie, Archivista. Non avrei potuto prendere questa decisione senza di te. Spero che ci rivedremo, un giorno.»\n\n[Connie si dimetterà dal Bureau, e non apparirà più come Visitatrice, ma potrà comunque essere reclutata per l’Istituto del Faro...]"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.fromhistorytoeternity",
+   "desc": "«Anche quell’aspetto mi dava da pensare, e non poco. Forse alla fine il Bureau è davvero solo il boia della Calyptra... Me ne vado. Causerà scalpore: dovrò tenere un profilo basso per un po’. Grazie, Archivista. Non avrei potuto prendere questa decisione senza di te. Spero che ci rivedremo, un giorno.»\n\n[Connie si dimetterà dal Bureau, e non apparirà più come Visitatrice, ma potrà comunque essere reclutata per l’Istituto del Faro...]"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.cucurbitprisonerrecords1927",
+   "desc": "«Collers era davvero un bel soggetto, no? Sai, Lady Edith ha una sua foto nell’ufficio... questo mi convince del tutto. Posso fare più bene fuori dal Bureau che dentro. Questo causerà scalpore: dovrò tenere un profilo basso per un po’. Grazie, Archivista. Non avrei potuto prendere questa decisione senza di te. Spero che ci rivedremo, un giorno.»\n\n[Connie si dimetterà dal Bureau, e non apparirà più come Visitatrice, ma potrà comunque essere reclutata per l’Istituto del Faro...]"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.t.exercisesinthecontinuityofself",
+   "desc": "«L’Haustorium è davvero subdolo, vero? ...questo mi convince del tutto. Posso fare più bene fuori dal Bureau che dentro. Questo causerà scalpore: dovrò tenere un profilo basso per un po’. Grazie, Archivista. Non avrei potuto prendere questa decisione senza di te. Spero che ci rivedremo, un giorno.»\n\n[Connie si dimetterà dal Bureau, e non apparirà più come Visitatrice, ma potrà comunque essere reclutata per l’Istituto del Faro...]"
+  },
+  {
+   "id": "nxh.n.tapestry.investigated.connie.t.journalofsirdavidgreene1903",
+   "desc": "«Mi è sempre piaciuto quello che ho letto su Greene. Non ho mai creduto fino in fondo a quello che dicevano di lui... questo mi convince del tutto. Posso fare più bene fuori dal Bureau che dentro. Questo causerà scalpore: dovrò tenere un profilo basso per un po’. Grazie, Archivista. Non avrei potuto prendere questa decisione senza di te. Spero che ci rivedremo, un giorno.»\n\n[Connie si dimetterà dal Bureau, e non apparirà più come Visitatrice, ma potrà comunque essere reclutata per l’Istituto del Faro...]"
+  },
+  {
+   "id": "nxs.n.tapestry.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.tapestry.investigated.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Lascia che Connie decida da sola. L’Archivista probabilmente non dovrebbe immischiarsi nei meccanismi interni del Bureau di Soppressione. [Si conclude]",
+   "desc": "Restare o andare: la decisione spetta a lei. "
+  },
+  {
+   "id": "nxs.n.grunewald.agdistis.speak.to.agdistis",
+   "label": "Parla con Agdistis",
+   "preface": "Agdistis ha tentato di procurare protezione per un amico che aveva portato una curiosità di Grunewald. Come è finita?",
+   "desc": "«È andata bene, grazie! E la mia amica ha comunque accettato di disfarsi del curioso oggetto. Ma resta una traccia – un povero spiritello – qualcosa un po’ come un Verme ma decisamente non un Verme. Non ho dubbi. Un cugino, forse, di quei Carapace che scelsero la via del divorare... Il Bureau, tuttavia, vedrebbe la cosa diversamente. È piuttosto affascinante, questo povero spiritello. Vuoi offrirgli la protezione della Casa? Ho un’idea...»"
+  },
+  {
+   "id": "nxs.n.grunewald.ehsan.speak.to.ehsan",
+   "label": "Parla con Ehsan",
+   "preface": "Ehsan ha tentato una sorta di esorcismo per affrontare le influenze di Grunewald. Come è finita?",
+   "desc": "«È andata bene. La faccenda di Grunewald è chiusa. Ma è rimasto qualcosa di strano – un’entità affine al Carapace, credo – no, non allarmarti – non ha mai preso la corruzione da Nessun Luogo, è solo stata in buona compagnia. È una piccola cosa sfortunata, ma il Bureau continua ad aggirarsi nei paraggi. Sono certo che sia innocua, e la Hush House è sempre stata un rifugio. Potresti darle asilo? C’è un posto dove potrebbe essere utile...»"
+  },
+  {
+   "id": "nxc.n.grunewald.wisp.agdistis.return.to.agdistis",
+   "label": "Torna da Agdistis",
+   "preface": "Mostra ad Agdistis cosa ne è stato dello Spiritello.",
+   "desc": "«Hai trovato un posto per lo Spiritello?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.grunewald.wisp.agdistis.wisp.skin.agdistis",
+   "desc": "«Che gioia sapere che ha trovato una casa! Non sempre mi sento a mio agio con quelli che vennero prima… ma è bene che li ricordiamo con benevolenza.»"
+  },
+  {
+   "id": "nxh.n.grunewald.wisp.agdistis.wisp.trace.agdistis",
+   "desc": "«Oh! Suppongo – se lo ritenevi necessario… forse ho peccato di ingenuità. Grazie, Archivista. In futuro presterò più attenzione.»"
+  },
+  {
+   "id": "nxc.n.grunewald.wisp.ehsan.return.to.ehsan",
+   "label": "Torna da Ehsan",
+   "preface": "Mostra a Ehsan cosa ne è stato dello Spiritello.",
+   "desc": "«Hai trovato un posto per lo Spiritello?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.grunewald.wisp.ehsan.wisp.skin.ehsan",
+   "desc": "«Mi fa piacere sentirlo, Archivista. Il Carapace ha il suo rovescio della medaglia… ma divento sentimentale per cose come questa. Spero che si trovi bene nella sua nuova casa.»"
+  },
+  {
+   "id": "nxh.n.grunewald.wisp.ehsan.wisp.trace.ehsan",
+   "desc": "«Davvero? Be’, lo so che a volte ho il cuore tenero. Se pensi davvero che non fosse sicuro… probabilmente dovrei essere più prudente riguardo alle cose di Nessun Luogo. Molto più prudente.»"
+  },
+  {
+   "id": "nxs.n.grunewald.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxs.n.guest.coquille.ask.coquille",
+   "label": "Chiedi a Coquille",
+   "preface": "Cosa è successo con Spencer Hobson e i Vermi che lo abitano?",
+   "desc": "«Sembra stare meglio. No, non ci credo nemmeno io. Degli sciocchi adepti hanno trovato Ebrehel per lui – speravano lo portasse contro la Città Non Costruita – ma Spencer non ha davvero il lignaggio. E adesso sta molto meglio. Ho saputo che ha in programma di passare dalla Hush House. “Di passaggio”, diretto altrove. Potresti chiederglielo di persona, ma non è che sia più tanto loquace...»"
+  },
+  {
+   "id": "nxs.n.guest.dagmar.ask.dagmar",
+   "label": "Chiedi a Dagmar",
+   "preface": "Cosa è successo con Spencer Hobson e i Vermi che lo abitano?",
+   "desc": "«Be’, in fede ai Soli, non ne ho proprio idea, Libsy. L’ho sigillato per bene, ma non credo servisse. Se ci sono Vermi in lui, sono terribilmente miti. Per essere Vermi. È stato un po’ selvaggio. Vagando per la Polonia con una spada. Facendo a pezzi le Carabee. Un po’ di piromania birichina. Ma niente vermi. <i>Ha detto</i> che sarebbe venuto qui, a Brancrug. Se lo capisco bene, sta solo passando, diretto altrove. Ma non parla più molto. Non ho saputo cavargli molto.»"
+  },
+  {
+   "id": "nxs.n.guest.zachary.out",
+   "label": "Uscire?",
+   "preface": "Cosa è successo con Spencer Hobson e i Vermi che lo abitano?",
+   "desc": "«Spencer vuole uscire. È la cosa giusta. Sta venendo qui. Per favore aiutalo. Ma non so perché.»"
+  },
+  {
+   "id": "nxs.n.guest.zachary.down",
+   "label": "Scendere?",
+   "preface": "Cosa è successo con Spencer Hobson e i Vermi che lo abitano?",
+   "desc": "«Spencer vuole scendere. È la cosa giusta. Sta venendo qui. Per favore aiutalo. Ma non so perché.»"
+  },
+  {
+   "id": "nxs.n.guest.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "Ci sono faccende che per l’Archivista è imprudente toccare."
+  },
+  {
+   "id": "nxs.n.guest.hobson.spencer.down.refuse.entry",
+   "label": "Rifiuta l’ingresso",
+   "preface": "Spencer Hobson – o qualunque cosa ne indossi le sembianze – non potrà entrare alla Hush House.",
+   "desc": "<i>«Spencer Hobson, che fu un prete, che fu un cacciatore di mostri, che forse vestì un mostro… Spencer è andato dove vanno le nebbie di Numa.</i>"
+  },
+  {
+   "id": "nxs.n.guest.hobson.spencer.out.refuse.entry",
+   "label": "Rifiuta l’ingresso",
+   "preface": "Spencer Hobson – o qualunque cosa ne indossi le sembianze – non potrà entrare alla Hush House.",
+   "desc": "<i>«Spencer Hobson, che fu un prete, che fu un cacciatore di mostri, che forse vestì un mostro… Spencer è andato dove vanno le nebbie di Numa.</i>"
+  },
+  {
+   "id": "nxs.n.guest.hobson.spencer.trace.bid.farewell",
+   "label": "Congedati",
+   "preface": "Riconoscere la scomparsa di Spencer.",
+   "desc": "<i>Vorremmo credere che Spencer sia passato attraverso il Rowenarium in una di queste quasi-realtà liminali oltre il Mansus e i Confini: il Nessun Luogo, o Ys, o i cieli inferiori, o la Casa della Luna. Vorremmo credere che lo abbia fatto per onorare le sue ultime responsabilità, e che il cambiamento nel Rowenarium abbia il carattere di una benedizione d’addio. </i>"
+  },
+  {
+   "id": "nxs.n.reverend.douglas.ask.douglas",
+   "label": "Chiedi a Douglas",
+   "preface": "Cosa ha causato l’Apertura del Reverendo? E cosa gli sta succedendo ora?",
+   "desc": "«È stato più difficile da chiudere di quanto ci aspettassimo. Non abbiamo mai capito esattamente cosa gli fosse successo. Di certo non un’Ora-Battente o un Nome-Battente di cui tu abbia mai sentito parlare. Così non abbiamo mai saputo esattamente cosa farne…»"
+  },
+  {
+   "id": "nxs.n.reverend.ehsan.ask.ehsan",
+   "label": "Chiedi a Ehsan",
+   "preface": "Cosa ha causato l’Apertura del Reverendo? E cosa gli sta succedendo ora?",
+   "desc": "«Mi sbagliavo, Archivista. Qualunque cosa abbia toccato quest’uomo non era né la Madre delle Formiche né l’Ascia Cornuta. Vorrei poter lasciare la faccenda al Bureau. Ma sono un guaritore prima di ogni altra cosa, e mi sento responsabile.»"
+  },
+  {
+   "id": "nxc.n.reverend.success.one.douglas.douglas.investigates",
+   "label": "Douglas Indaga",
+   "preface": "«Questo è un po’ oltre le mie competenze ma farò del mio meglio. Hai qualcosa su Taglienti [8] o Storie di Sabbia [8]?»",
+   "desc": "«Hm. Grazie, Archivista, ma non è quello che cercavo…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.reverend.success.one.douglas.r.sharps",
+   "desc": "«Ah, accidenti. È una faccenda del Ragno Ascendente. Ecco, ho scritto gli appunti. Magari tu ci capisci qualcosa di più. Ho provato a mandarlo ai piani alti, ma non ne vogliono sapere. Potresti scambiare due parole con la MCO Lee? Spiegarle che è una cosa seria? Usare paroloni da Archivista?»"
+  },
+  {
+   "id": "nxh.n.reverend.success.one.douglas.r.sandstories",
+   "desc": "«Ah, accidenti. È una faccenda del Ragno Ascendente. Ecco, ho scritto gli appunti. Magari tu ci capisci qualcosa di più. Ho provato a mandarlo ai piani alti, ma non ne vogliono sapere. Potresti scambiare due parole con la MCO Lee? Spiegarle che è una cosa seria? Usare paroloni da Archivista?»"
+  },
+  {
+   "id": "nxc.n.reverend.success.one.ehsan.ehsan.investigates",
+   "label": "Ehsan Indaga",
+   "preface": "«Prima di poter fare qualcosa, dobbiamo capire cosa sta succedendo qui. Cosa hai su Crocevia Logoro [8] o Soluzioni & Separazioni [8]?»",
+   "desc": "«Mi dispiace, Archivista, non era quello che mi serviva.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.reverend.success.one.ehsan.r.raggedcrossroads",
+   "desc": "«Ora capisco… e vorrei non capire. C’è un Nome che non nominerò, che intreccia il Reverendo nella rete di un’Ora che non sono così sciocco da nominare a mia volta… non sembra molto utile, vero? Ma se vedi l’ispettore Moore o la MCO Lee, fagli sapere quello che ho detto. Capiranno. Forse lo capisci anche tu. In ogni caso, quell’uomo è al di là del mio aiuto.»"
+  },
+  {
+   "id": "nxh.n.reverend.success.one.ehsan.r.solutions.separations",
+   "desc": "«Ora capisco… e vorrei non capire. C’è un Nome che non nominerò, che intreccia il Reverendo nella rete di un’Ora che non sono così sciocco da nominare a mia volta… non sembra molto utile, vero? Ma se vedi l’ispettore Moore o la MCO Lee, fagli sapere quello che ho detto. Capiranno. Forse lo capisci anche tu. In ogni caso, quell’uomo è al di là del mio aiuto.»"
+  },
+  {
+   "id": "nxc.n.reverend.success.two.connie.connie.intervenes",
+   "label": "Connie Interviene",
+   "preface": "«Questo sarà impegnativo. Se hai qualcosa su – o di – Gnathobasis, sarebbe l’ideale. Altrimenti, vedrò cosa possiamo fare con Spegnimenti & Placamenti [12] o Storie di Lupo [12].»",
+   "desc": "«Niente che possa aiutare? Grazie per aver cercato. Fammi sapere se trovi qualcosa.»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.reverend.success.two.connie.t.oghkoroghkortissilakoghkor",
+   "desc": "«Circa un mese fa, stavo parlando con Lady Edith proprio di questo libro. Il Bureau raccomandò RESTRINGERE per tutte le copie, qualche anno fa, ma i capi volevano proprio ESPUNGERE. Meno male che non l’hanno spuntata, o adesso saremmo nei guai. Grazie, Archivista. Questo dovrebbe chiudere la faccenda. <i>“Le parole lo fecero carne; il fuoco lo fece cenere.”</i> Certe parti di questo lavoro non mi ci abituerò mai.»"
+  },
+  {
+   "id": "nxh.n.reverend.success.two.connie.r.quenchings.quellings",
+   "desc": "«Grazie, Archivista. Questo dovrebbe chiudere la faccenda. “Le parole lo fecero carne; il fuoco lo fece cenere.” Certe parti di questo lavoro non mi ci abituerò mai.»"
+  },
+  {
+   "id": "nxh.n.reverend.success.two.connie.r.wolfstories",
+   "desc": "«Grazie, Archivista. Questo dovrebbe chiudere la faccenda. “Le parole lo fecero carne; il fuoco lo fece cenere.” Certe parti di questo lavoro non mi ci abituerò mai.»"
+  },
+  {
+   "id": "nxc.n.reverend.success.two.douglas.douglas.intervenes",
+   "label": "Douglas Interviene",
+   "preface": "«Oh, cielo, questa faccenda è davvero troppo grossa per me, ma farò quel che posso. Hai qualcosa su questa Eccellenza impronunciabile? O se vogliono che sistemi la cosa, mi servirà qualcosa di davvero pesante su Spegnimenti & Placamenti [16] o Storie di Lupo [16].»",
+   "desc": "«Hm. Grazie, Archivista, ma non è quello che cercavo…»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.reverend.success.two.douglas.t.oghkoroghkortissilakoghkor",
+   "desc": "«Sai, i registri dicono che chiedemmo RESTRINGERE su questo, quando il Bureau era più coinvolto nella catalogazione della Casa, e Blackwood non ne volle sapere, disse che l’autore se n’era andato da tempo, niente di cui preoccuparsi. Dalle uno scapaccione da parte mia la prossima volta che la vedi. Comunque, ha funzionato, grazie. Fili arrotolati, pelle inchiodata, il povero vecchio diavolo cremato in sicurezza.»"
+  },
+  {
+   "id": "nxh.n.reverend.success.two.douglas.r.quenchings.quellings",
+   "desc": "«Ha funzionato, grazie. Fili arrotolati, pelle inchiodata, il povero vecchio diavolo cremato in sicurezza.»"
+  },
+  {
+   "id": "nxh.n.reverend.success.two.douglas.r.wolfstories",
+   "desc": "«Ha funzionato, grazie. Fili arrotolati, pelle inchiodata, il povero vecchio diavolo cremato in sicurezza.»"
+  },
+  {
+   "id": "nxs.n.reverend.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "Ci sono faccende che per l’Archivista è imprudente toccare."
+  },
+  {
+   "id": "nxs.n.claw.agdistis.talk.to.agdistis",
+   "label": "Parla con Agdistis",
+   "preface": "Agdistis è andato a Ovest?",
+   "desc": "«Sì. E ho riportato qualcosa con me. Non mi fido della Croce. Ma la Croce mi ha parlato; ha risposto a domande che avevo su ciò che non cessa. Ho accettato che, se l’Archivista lo permette, farò un’offerta al santuario di St Tentreto che – mi dice la Croce – si trova nelle grotte sotto la Hush House...»"
+  },
+  {
+   "id": "nxs.n.claw.ehsan.talk.to.ehsan",
+   "label": "Parla con Ehsan",
+   "preface": "Cosa è successo al paziente di Ehsan?",
+   "desc": "«Non ho saputo aiutarlo a reprimere l’impulso di andare a Ovest; e così è partito. Forse era la cosa giusta da fare. Ora sembra più felice. Mi ha chiesto un favore – fare un’offerta a un certo santuario – un santuario del Carapace che, mi dice, si trova nelle grotte sotto la Hush House. No, non riesco a immaginare come faccia a saperlo, o come abbia mai sentito parlare della Hush House. Forse glielo ha detto il vento. Ecco l’offerta. Me la verserai tu?»"
+  },
+  {
+   "id": "nxs.n.claw.ehsan.catch.up.with.ehsan",
+   "label": "Mettiti in pari con Ehsan",
+   "preface": "Cosa è successo al paziente di Ehsan?",
+   "desc": "«L’ho aiutato a reprimere l’impulso di andare a Ovest; e così è rimasto. Credo che ora gli abbiamo portato pace, e da quello che sto imparando sulla Croce, credo che potremmo anche averlo tenuto al sicuro. Questa è la fine della faccenda: grazie, Archivista.»"
+  },
+  {
+   "id": "nxs.n.claw.forget.the.matter",
+   "label": "Dimentica la questione",
+   "preface": "Stabilire che la faccenda non è più rilevante. [Si conclude]",
+   "desc": "L’Archivista non può occuparsi di tutto."
+  },
+  {
+   "id": "nxc.n.claw.agdistis.west.agdistis.speak.with.agdistis",
+   "label": "Parla con Agdistis",
+   "preface": "Rifiuta, e restituisci l’offerta; oppure falla, e cedi ciò che resta.",
+   "desc": "«Che notizie dell’offerta?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.claw.agdistis.west.agdistis.acted.agdistis.observe.scaly.sky.offering.tentreto",
+   "desc": "«Non farai l’offerta? … onestamente, sono sollevato. Credo che la verserò in mare mentre parto. Forse allora sarà tutto finito. Grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.claw.agdistis.west.agdistis.acted.agdistis.observe.scaly.sky.offering.tentreto.made",
+   "desc": "«L’offerta è completa? Grazie, Archivista. Non dirmi cosa è successo. Se è successo qualcosa. Comincio già a desiderare di non avertelo chiesto…»"
+  },
+  {
+   "id": "nxc.n.claw.patient.unquelled.ehsan.speak.with.ehsan",
+   "label": "Parla con Ehsan",
+   "preface": "Rifiuta, e restituisci l’offerta; oppure falla, e cedi ciò che resta.",
+   "desc": "«Cosa hai deciso?»",
+   "preslots": [
+    {
+     "id": "external1",
+     "label": "Aiuto",
+     "description": "Potrebbe essere un libro, un pagamento, una lingua, o qualcos’altro che aiuti a soddisfare le esigenze di un visitatore."
+    }
+   ]
+  },
+  {
+   "id": "nxh.n.claw.patient.unquelled.ehsan.offering.tentreto",
+   "preface": "Chi sa cosa potrebbe significare?",
+   "desc": "«Non farai l’offerta? È una tua decisione. Glielo dirò. Non so come la prenderà… grazie, Archivista.»"
+  },
+  {
+   "id": "nxh.n.claw.patient.unquelled.ehsan.offering.tentreto.made",
+   "preface": "L’offerta è completa.",
+   "desc": "«Ah! Hai fatto l’offerta? Avevo iniziato a pensare che forse non volessi... Sono un po’ sorpreso. Grazie, credo. Vorrei quasi non avertelo chiesto. Suppongo che il mio paziente ne sarà felice...»"
+  }
+ ]
+}

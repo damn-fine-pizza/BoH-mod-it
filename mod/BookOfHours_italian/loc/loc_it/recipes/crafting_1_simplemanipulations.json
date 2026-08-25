@@ -1,0 +1,113 @@
+{
+ "recipes": [
+  {
+   "id": "hatch.egg.gull.fireplace",
+   "label": "Covare l’Uovo",
+   "startdescription": "Il calore del fuoco può risvegliare questo uovo alla vita – ma ci vorrà un giorno intero.",
+   "desc": "Nuova vita!"
+  },
+  {
+   "id": "hatch.egg.gull.kitchen",
+   "label": "Covare l’Uovo",
+   "startdescription": "Il calore del forno può risvegliare questo uovo alla vita – ma ci vorrà un giorno intero.",
+   "desc": "Nuova vita!"
+  },
+  {
+   "id": "distributable.serve",
+   "label": "Servire in Modo Appropriato",
+   "startdescription": "Versa – ",
+   "desc": "– versato."
+  },
+  {
+   "id": "brew.fireplace",
+   "label": "Infondi sul Fuoco",
+   "startdescription": "Porta l’acqua a ebollizione – lascia che il potenziale qui presente si esprima –",
+   "desc": "– vapore e profumo si levano insieme. È pronto."
+  },
+  {
+   "id": "brew.kitchen",
+   "label": "Infondi sul Fornello da Cucina",
+   "startdescription": "Porta a ebollizione –",
+   "desc": "– ed è pronto."
+  },
+  {
+   "id": "pumps.run.upper",
+   "label": "Sistema alla Meglio le Pompe del Livello Superiore",
+   "startdescription": "La macchina si ridesta ruggendo. L’acqua batte e gorgoglia. Ci vorrà un po’.",
+   "desc": "Le pompe tossiscono e si spengono; ma hanno svolto il loro compito."
+  },
+  {
+   "id": "pumps.run.lower",
+   "label": "Sistema alla Meglio le Pompe del Livello Inferiore",
+   "startdescription": "La macchina si ridesta ruggendo. Scintille guizzano. Ci vorrà un po’.",
+   "desc": "Le pompe tossiscono e si spengono; ma hanno svolto il loro compito."
+  },
+  {
+   "id": "disassemble.wooden.workbench",
+   "label": "Smontare un Oggetto di Legno",
+   "startdescription": "Riduci qualcosa di unico a qualcosa di utile. [Questo scomporrà l’oggetto in Ritagli di Legno.]"
+  },
+  {
+   "id": "disassemble.woven.workbench",
+   "label": "Smontare un Oggetto di Tessuto",
+   "startdescription": "Riduci qualcosa di unico a qualcosa di utile. [Questo scomporrà l’oggetto in Stracci.]"
+  },
+  {
+   "id": "disassemble.carcass.necropsy",
+   "label": "Segare una Carcassa",
+   "startdescription": "Riduci qualcosa di unico a qualcosa di utile. [Questo scomporrà l’oggetto in Ossa Animali.]"
+  },
+  {
+   "id": "draw.wire.spintria.gold",
+   "label": "Trafilare Filo d’Oro",
+   "startdescription": "Sarebbe assolutamente illegale farlo con moneta del regno... ma le spintriae non sono affatto moneta del regno. [Questo trasformerà entrambe le Spintriae in un unico rocchetto di filo d’oro.]"
+  },
+  {
+   "id": "draw.wire.spintria.silver",
+   "label": "Trafilare Filo d’Argento",
+   "startdescription": "Sarebbe assolutamente illegale farlo con moneta del regno... ma le spintriae non sono affatto moneta del regno. [Questo trasformerà entrambe le Spintriae in un unico rocchetto di filo d’argento.]"
+  },
+  {
+   "id": "draw.wire.spintria.tin",
+   "label": "Trafilare Filo di Stagno",
+   "startdescription": "Sarebbe assolutamente illegale farlo con moneta del regno... ma le spintriae non sono affatto moneta del regno. [Questo trasformerà entrambe le Spintriae in un unico rocchetto di filo di stagno.]"
+  },
+  {
+   "id": "draw.wire.spintria.bronze",
+   "label": "Trafilare Filo di Rame",
+   "startdescription": "Sarebbe assolutamente illegale farlo con moneta del regno... ma le spintriae non sono affatto moneta del regno. [Questo trasformerà entrambe le Spintriae in un unico rocchetto di filo di rame.]"
+  },
+  {
+   "id": "draw.wire.spintria.iron",
+   "label": "Trafilare Filo d’Acciaio",
+   "startdescription": "Sarebbe assolutamente illegale farlo con moneta del regno... ma le spintriae non sono affatto moneta del regno. [Questo trasformerà entrambe le Spintriae in un unico rocchetto di filo d’acciaio.]"
+  },
+  {
+   "id": "draw.wire.hint",
+   "label": "Trafilare un Filo?",
+   "startdescription": "Due oggetti Duttili identici possono essere trafilati in un filo."
+  },
+  {
+   "id": "dry.book.fireplace",
+   "label": "Asciugare un Libro",
+   "startdescription": "Con grande cura...",
+   "desc": "Un altro tesoro salvato dal mare."
+  },
+  {
+   "id": "dry.book.fireplace.hint",
+   "label": "Asciugare un Libro?",
+   "startdescription": "[Ci vorrà cura, oltre a calore e tempo; aggiungi una carta Anima.]"
+  },
+  {
+   "id": "dry.thing.fireplace",
+   "label": "Asciugare Qualcosa",
+   "startdescription": "Con cura...",
+   "desc": "Si levano vapori leggeri."
+  },
+  {
+   "id": "dry.thing.fireplace.hint",
+   "label": "Asciugare un Libro?",
+   "startdescription": "[Ci vorrà cura, oltre a calore e tempo; aggiungi una carta Anima.]"
+  }
+ ]
+}

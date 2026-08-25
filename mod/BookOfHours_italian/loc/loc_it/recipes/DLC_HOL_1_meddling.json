@@ -1,0 +1,24 @@
+{
+ "recipes": [
+  {
+   "id": "meddle.combine",
+   "label": "Combina due Intuizioni",
+   "startdescription": "Non spetta all’Archivista intromettersi negli affari del mondo oltre la Hush House. Ma talvolta all’Archivista viene la curiosità. [Questo creerà una Via d’Indagine.]"
+  },
+  {
+   "id": "meddle.avoid",
+   "label": "Esamina un’Intuizione",
+   "startdescription": "Investiga la comprensione tratta da un Incidente. [Questo ti darà una Memoria Persistente. In alternativa, combina due Intuizioni se desideri tentare qualcosa di sconsiderato.]"
+  },
+  {
+   "id": "meddle.summon",
+   "label": "Intromettersi",
+   "startdescription": "Non spetta all’Archivista intromettersi negli affari del mondo oltre la Hush House. Ma talvolta all’Archivista viene la curiosità; talvolta l’Archivista abusa delle proprie prerogative per via dell’irrequietezza. [Questo farà precipitare un Incidente, se ve ne sono ancora di non estratti. Se un Incidente è già in corso, i Visitatori potrebbero non interagire da subito con quello che intendi. Istiga con cognizione di causa, Ys-incipiente.]"
+  },
+  {
+   "id": "meddle.consultation.catch",
+   "label": "Verso la Fine",
+   "startdescription": "[Questa volta non si è verificato alcun Incidente. Forse si avvicina una qualche forma di finale. Potremmo perfino dire che <i>immanesce</i>, se fossimo il tipo di persone che dice certe cose.]"
+  }
+ ]
+}

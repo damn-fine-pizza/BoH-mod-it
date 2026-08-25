@@ -1,0 +1,49 @@
+{
+ "elements": [
+  {
+   "id": "mission.corrivality",
+   "label": "La Missione dell’Istituto: Corrivalità",
+   "desc": "La Corrivalità sostiene il mondo, letteralmente e anche metaforicamente. Senza le costanti innovazioni e il rinnovamento della guerra, l’intera umanità ristagnerebbe. L’Istituto si assicurerà che ciò non accada."
+  },
+  {
+   "id": "mission.peace",
+   "label": "La Missione dell’Istituto: Pace",
+   "desc": "In tutte le storie a lungo registrate del genere pensante, la guerra è stata un flagello inimmaginabile. L’Istituto si dedicherà a proteggere il mondo da quel flagello."
+  },
+  {
+   "id": "mission.secrecy",
+   "label": "La Missione dell’Istituto: Segretezza",
+   "desc": "Certa conoscenza è troppo pericolosa per la mente comune. Calyptra potrà anche essere tirannica, ma nel suo nucleo c’è una verità – e anche se Calyptra dovesse cadere, l’Istituto ne raccoglierebbe il fardello."
+  },
+  {
+   "id": "mission.revelation",
+   "label": "La Missione dell’Istituto: Rivelazione",
+   "desc": "La conoscenza può essere pericolosa: ma l’ignoranza lo è ancora di più. L’Istituto lavorerà per liberare tutto il genere mortale dalla tirannia di Calyptra."
+  },
+  {
+   "id": "mission.autarchy",
+   "label": "La Missione dell’Istituto: Autarchia",
+   "desc": "L’Istituto imparerà a sopravvivere senza il patrocinio di alcuna Ora... affinché un giorno il genere mortale possa fare lo stesso."
+  },
+  {
+   "id": "mission.better.gods",
+   "label": "La Missione dell’Istituto: Dèi Migliori",
+   "desc": "L’Istituto si adopererà per creare alternative alle Ore – sostituti delle primalità cosmiche che siano più benevoli, o più remissivi."
+  },
+  {
+   "id": "mission.stone.remembered",
+   "label": "La Missione dell’Istituto: Pietra Ricordata",
+   "desc": "Gli dèi-dalla-Pietra vennero prima delle Ore che ora conosciamo. Il loro ritorno sarebbe terremoto, carestia, natura selvaggia che si aggira per le strade. Non sarà permesso. Ma l’Istituto li studierà; li onorerà; imparerà dalla loro caduta, per proteggersi da un simile mutamento."
+  },
+  {
+   "id": "mission.stone.consumed",
+   "label": "La Missione dell’Istituto: Pietra Consumata",
+   "desc": "Gli dèi-dalla-Pietra vennero prima delle Ore che ora conosciamo. Il loro ritorno sarebbe terremoto, carestia, natura selvaggia che si aggira per le strade. Non sarà permesso. Ma sono risorse preziose quanto il petrolio o l’oro o il sapere nel midollo. L’Istituto li studierà; li porterà alla luce; li ridestinerà, a beneficio di tutto il genere mortale."
+  },
+  {
+   "id": "mission.uncertain",
+   "label": "La Missione dell’Istituto: Incerta",
+   "desc": "L’Istituto non si diede mai una missione precisa, oltre a «tenere tutto il genere mortale lontano dagli scogli della notte eterna»."
+  }
+ ]
+}

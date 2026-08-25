@@ -1,0 +1,124 @@
+{"achievements": [
+
+
+
+  { "id": "A_AFFAIR_CASKET", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "The Affair of the Messenger's Casket",
+  "descriptionunlocked": "In a hidden fold of the mountains above the city of Cluj lies the enigmatic relic they call Saint Mihail's Coffin..."
+},
+{ "id": "A_AFFAIR_GRUNEWALD", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Grunewald Provision",
+"descriptionunlocked": "The assets of Grunewald's Permanent Circus were disposed of by the Bureau. In hindsight, this was a mistake..."
+},
+{ "id": "A_AFFAIR_HEIST", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Oriflamme Heist",
+"descriptionunlocked": "Oriflamme's Auction House is never robbed. But what if it has been?"
+},
+{ "id": "A_AFFAIR_SKIN", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Second Skin",
+"descriptionunlocked": "The labhite Abecassis has begun a dramatic and dangerous metamorphosis..."
+},
+{ "id": "A_AFFAIR_GUEST", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Endless Guest",
+"descriptionunlocked": "An 'inhabitation of Worms' is never to be taken lightly..."
+},
+{ "id": "A_AFFAIR_ROSE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Dappled Rose",
+"descriptionunlocked": "Another man has died in the desert. He raved to the end about gardens, with a flower crushed in his hand..."
+},
+{ "id": "A_AFFAIR_DEBT", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Forgivable Debt",
+"descriptionunlocked": "Two Reckoner mobs have gone to war in the unremarkable Lithuanian city of Kaunas. Why? What's in Kaunas?"
+},
+{ "id": "A_AFFAIR_MYSTIQUE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Particular Mystique",
+"descriptionunlocked": "The Suppression Bureau has a growing interest in the recent fad for unconventional - often prophetic - religious movements..."
+},
+{ "id": "A_AFFAIR_CLAWCLOUDS", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Claw and the Clouds",
+"descriptionunlocked": "From the far monastery of St Tentreto, we hear stories of unexpected visitors - visitors from behind the sky..."
+},
+{ "id": "A_AFFAIR_EYE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Unfettered Eye",
+"descriptionunlocked": "Messana: a prosperous little desert village that has become a place of pilgrimage. There have been peculiar manifestations there of late..."
+},
+{ "id": "A_AFFAIR_HORIZON", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Other Horizon",
+"descriptionunlocked": "Sailors have a term for the compass-whirl phenomenon which occurs before sightings of the city Ys..."
+},
+
+{ "id": "A_AFFAIR_APOLLOMARSYAS", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of 'Apollo and Marsyas'",
+"descriptionunlocked": "An upcoming production of an opera with a very ancient pedigree indeed..."
+},
+{ "id": "A_AFFAIR_OPERA", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Invisible Opera",
+"descriptionunlocked": "No-one has ever successfully staged an entire performance of 'Wings Within Wings'. But now someone is trying again..."
+},
+{ "id": "A_AFFAIR_GOD", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the God in the Wood",
+"descriptionunlocked": "A faddish health camp has attracted attention after many of its clients seem to have developed sudden, sometimes upsetting, artistic abilities..."
+},
+{ "id": "A_AFFAIR_LARK", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Unfinished Lark",
+"descriptionunlocked": "For years a sculptor-adept laboured at his masterpiece. And now, puzzlingly and suddenly, he is dead..."
+},
+{ "id": "A_AFFAIR_ENDEAVOUR", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Royal Endeavour",
+"descriptionunlocked": "The New King has sanctioned the use of the Crown's wealth to fund a visionary new industrial project..."
+},
+
+{ "id": "A_AFFAIR_REVOLUTION", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Threshold Revolution",
+"descriptionunlocked": "The Légion du Seuil recruits from among the Bounds-beasts. How trustworthy is it, really?"
+},
+
+{ "id": "A_AFFAIR_WHILE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Rising While",
+"descriptionunlocked": "A self-styled oracle preaches 'the truth of nearly now' to her followers. She camps by the Temple of Seven Coils, and hasn't been eaten..."
+},
+{ "id": "A_AFFAIR_SAINT", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Sandalwood Saint",
+"descriptionunlocked": "An odd little image in a church in Strasbourg has become a locus for wild claims of healing and haunting. When it comes to the attention of the Church hierarchy, they'll rule it miraculous or heretical... unless someone takes a hand before then."
+},
+{ "id": "A_AFFAIR_TAPESTRY", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Friar's Tapestry",
+"descriptionunlocked": "A tapestry has been stolen from the Haustorium that depicts details of a very old rite indeed..."
+},
+{ "id": "A_AFFAIR_FRIEND", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Absent Friend",
+"descriptionunlocked": "The Ligeian Medusa is long dead. But she walks the streets of Budapest by moonlight and, for the first time, she's being glimpsed in daylight too..."
+},
+{ "id": "A_AFFAIR_WOUND", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Affair of the Open Reverend",
+"descriptionunlocked": "In a highly specialised clinic, specialists study the ecstatic agonies of the case known only as'the Open Reverend'..."
+},
+{ "id": "A_AFFAIR_NUMA", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "In the Mist",
+"descriptionunlocked": "What happens in Numa, stays in Numa. Generally."
+}
+
+]}

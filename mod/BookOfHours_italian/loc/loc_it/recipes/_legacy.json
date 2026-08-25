@@ -1,0 +1,14 @@
+{
+ "recipes": [
+  {
+   "id": "world.corals.deeplight.delegacizing",
+   "label": "Un’Alterazione Misericordiosa",
+   "startdescription": "[C’è un’aberrazione qui. Premi Avvia, e il problema si risolverà permanentemente da sé. Potrebbe servire inserire un elemento Anima per rendere disponibile Avvia, ma non andrà perso né affaticato nulla.]"
+  },
+  {
+   "id": "daily.weather.numa",
+   "label": "Meteo Quotidiano: Numa",
+   "startdescription": "Estrazione Meteo: Numa"
+  }
+ ]
+}

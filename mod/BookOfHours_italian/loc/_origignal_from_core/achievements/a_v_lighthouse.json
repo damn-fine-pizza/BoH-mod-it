@@ -1,0 +1,60 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_LIGHTHOUSE_VICTORY", "label": "Lighthouse Victory", "iconUnlocked": "history" },
+
+
+  { "id": "A_LV_GENERIC", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "mem.salt",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Across The Wake They Come",
+    "descriptionunlocked": "I founded the Lighthouse Institute, with an uncertain course through the world."
+  },
+
+  { "id": "A_LV_AUTARCHY", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.blacksmith.start",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Every Cliff A Fortress",
+  "descriptionunlocked": "I founded the Lighthouse Institute with a mission of mortal self-sufficiency."
+},
+{ "id": "A_LV_CORRIVALITY", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.blacksmith.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Only Twins Drown Twice",
+"descriptionunlocked": "I founded the Lighthouse Institute with a mission of strength through conflict."
+},
+{ "id": "A_LV_PEACE", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.coffinmaker.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Silence After Lightning",
+"descriptionunlocked": "I founded the Lighthouse Institute with a mission to sustain peace."
+},
+{ "id": "A_LV_REVELATION", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.rector.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Lamp Above, Rocks Below",
+"descriptionunlocked": "I founded the Lighthouse Institute with a mission of occult revelation."
+},
+{ "id": "A_LV_SECRECY", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.coffinmaker.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "No Sharper In The Dark",
+"descriptionunlocked": "I founded the Lighthouse Institute with a mission of occult secrecy."
+},
+{ "id": "A_LV_BETTER_GODS", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.blacksmith.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Every Flame Has Its Fuel",
+"descriptionunlocked": "I founded the Lighthouse Institute with a mission of advancing the creation of better Hours."
+},
+{ "id": "A_LV_STONE_CONSUMED", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.midwife.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Many Pebbles, One Beach",
+"descriptionunlocked": "I founded the Lighthouse Institute with a mission to make use of what's left of the gods-from-stone."
+},
+{ "id": "A_LV_STONE_REMEMBERED", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.coffinmaker.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The World's Lost",
+"descriptionunlocked": "I founded the Lighthouse Institute with a mission to honour what's left of the gods-from-stone."
+},
+{ "id": "A_LV_UNCERTAIN", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.midwife.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Hush House Endures",
+"descriptionunlocked": "I founded the Lighthouse Institute with a murky mission of self-advancement."
+}
+ 
+  
+
+]}

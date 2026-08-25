@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "Brew a musky miscellany of cordials. \n\n[Orchids & Narcotics with Prentice-level <sprite name=nectar> creates Thirza's Cordials. Or for a Scholar-level recipe: if I use this with a Beverage, I'll mix a darker, stronger liquor.]",
+  "dove": "recipes/craft.orchids.narcotics_liquid.thirza_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a pungent miscellany of cordials. \n\n[Coil & Chasm with Prentice-level <sprite name=nectar> creates Thirza's Cordials. Or for a Scholar-level recipe: if I steep Wood in the right proportions of the mixture, it'll burst into strange fruit.]",
+  "dove": "recipes/craft.coil.chasm_liquid.thirza_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a spicy miscellany of cordials. \n\n[Spices & Savours with Prentice-level <sprite name=nectar> creates Thirza's Cordials. Or for a Scholar-level recipe: if I steep Wood in the right proportions of the mixture, it'll burst into strange fruit.]",
+  "dove": "recipes/craft.spices.savours_liquid.thirza_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew an aromatic miscellany of cordials. \n\n[Herbs & Infusions with Prentice-level <sprite name=nectar> creates Thirza's Cordials. Or for a Scholar-level recipe: if I use this with a Beverage, I'll mix a darker, stronger liquor.]",
+  "dove": "recipes/craft.herbs.infusions_liquid.thirza_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew an ink that will keep beetles at bay. \n\n[Sickle & Eclipse with Prentice-level <sprite name=moon> creates Catwink. Or for a Scholar-level recipe: if I use this on Remains, I can render something darkly leathery and chillingly powerful.]",
+  "dove": "recipes/craft.sickle.eclipse_catwink_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew an ink that will rouse regret in rats. \n\n[Sand Stories with Prentice-level <sprite name=moon> creates Catwink. Or for a Scholar-level recipe: if I add an Egg to the soak, I'll hatch something mischievous and silvery.]",
+  "dove": "recipes/craft.sandstories_catwink_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew an ink that will suppress silverfish. \n\n[Putrefactions & Calcinations with Prentice-level <sprite name=moon> creates Catwink. Or for a Scholar-level recipe: if I add Liquid, I'll brew a more subtle and more potent ink.]",
+  "dove": "recipes/craft.putrefactions.calcinations_catwink_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew an ink that will ward off worms… although only the least of their kind. \n\n[Edicts Inviolable with Prentice-level <sprite name=moon> creates Catwink. Or for a Scholar-level recipe: mix in a Flower ingredient for a chillier outcome.]",
+  "dove": "recipes/craft.edictsinviolable_catwink_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Call on the lesser names of the Chancel to hallow a new threshold. \n\n[Edicts Liminal with Prentice-level <sprite name=knock> creates Secret Threshold. Or for a Scholar-level recipe: if I add Liquid, I'll brew a powerful Knock toxin.]",
+  "dove": "recipes/craft.edictsliminal_secret.threshold_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Call on the power of the lower Mansus-gates to establish a new threshold. \n\n[Horns & Ivories with Prentice-level <sprite name=knock> creates Secret Threshold. Or for a Scholar-level recipe: if I use this with an Egg, I'll hatch something eyeless, but pulsing with potential.]",
+  "dove": "recipes/craft.horns.ivories_secret.threshold_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive or recall a delightful little music. \n\n[Applebright Euphonies with Prentice-level <sprite name=grail> creates Beguiling Melody. Or for a Scholar-level recipe: if I hum that music to a mixture which includes a Flower, it'll give the mixture an intoxicating quality.]",
+  "dove": "recipes/craft.applebrighteuphonies_music.beguiling_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive or recall a delightful little music. \n\n[Resurgences & Emergences with Prentice-level <sprite name=grail> creates Beguiling Melody. Or for a Scholar-level recipe: if I add Fabric, I can hum the faintest life into a little cloth doll.]",
+  "dove": "recipes/craft.resurgences.emergences_music.beguiling_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive or recall a rousing, catchy tune. \n\n[Drums & Dances with Prentice-level <sprite name=heart> creates Cheerful Ditty. Or for a Scholar-level recipe: if I work at an Instrument, I can elevate it to something more powerful.]",
+  "dove": "recipes/craft.drums.dances_music.cheerful_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive or recall a rousing, catchy tune. \n\n[Strings & Songs with Prentice-level <sprite name=heart> creates Cheerful Ditty. Or for a Scholar-level recipe: if I work at an Instrument, I can elevate it to something more powerful.]",
+  "dove": "recipes/craft.strings.songs_music.cheerful_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate nocturnal resonances with a careful sigil. \n\n[Desires & Dissolutions with Prentice-level <sprite name=moon> creates Midnight Mark. Or for a Scholar-level recipe: if I trace the mark on Wood, it'll burst into strange fruit.]",
+  "dove": "recipes/craft.desires.dissolutions_midnight.mark_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate nocturnal resonances with a careful sigil. \n\n[Insects & Nectars with Prentice-level <sprite name=moon> creates Midnight Mark. Or for a Scholar-level recipe: if I use this with an Egg, I'll hatch something eyeless, but pulsing with potential.]",
+  "dove": "recipes/craft.insects.nectars_midnight.mark_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate nocturnal resonances with a careful sigil. \n\n[Rhyme & Remembrance with Prentice-level <sprite name=moon> creates Midnight Mark. Or for a Scholar-level recipe: if I add an Egg to the soak, I'll hatch something mischievous and silvery.]",
+  "dove": "recipes/craft.rhyme.remembrance_midnight.mark_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate nocturnal resonances with a careful sigil. \n\n[Serpents & Venoms with Prentice-level <sprite name=moon> creates Midnight Mark. Or for a Scholar-level recipe: if I use this with an Egg, I'll hatch something mischievous and silvery.]",
+  "dove": "recipes/craft.serpents.venoms_midnight.mark_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate nocturnal resonances with a careful sigil. \n\n[Sharps with Prentice-level <sprite name=moon> creates Midnight Mark. Or for a Scholar-level recipe: if I use this on Remains, I can render something darkly leathery and chillingly powerful.]",
+  "dove": "recipes/craft.sharps_midnight.mark_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate nocturnal resonances with a careful sigil. \n\n[Snow Stories with Prentice-level <sprite name=moon> creates Midnight Mark. Or for a Scholar-level recipe: if I use this with an Egg, I'll hatch something mischievous and silvery.]",
+  "dove": "recipes/craft.snowstories_midnight.mark_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate nocturnal resonances with a careful sigil. \n\n[Wolf Stories with Prentice-level <sprite name=moon> creates Midnight Mark. Or for a Scholar-level recipe: if I use this on Remains, I can render something darkly leathery and chillingly powerful.]",
+  "dove": "recipes/craft.wolfstories_midnight.mark_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate smouldering essences into a Forge ingredient. \n\n[Bells & Brazieries with Prentice-level <sprite name=forge> creates Bitterblack Salts. Or if I add Metal to Scholar-level Forge, I could alloy it into something exotic.]",
+  "dove": "recipes/craft.bells.brazieries_salts.bitterblack_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate smouldering essences into a Forge ingredient. \n\n[Disciplines of the Hammer with Prentice-level <sprite name=forge> creates Bitterblack Salts. Or for a Scholar-level recipe: if I add Metal to Scholar-level Forge, I could alloy it into something exotic.]",
+  "dove": "recipes/craft.disciplines.thehammer_salts.bitterblack_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Concentrate smouldering essences into a Forge ingredient. \n\n[Transformations & Liberations with Prentice-level <sprite name=forge> creates Bitterblack Salts. Or for a Scholar-level recipe:  if I add Liquid to Scholar-level Forge, the essences will take longer to cool, and redden into something more potent.]",
+  "dove": "recipes/craft.transformations.liberations_salts.bitterblack_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft a token to invite the attention of a Moth-name. \n\n[Edicts Liminal with Prentice-level <sprite name=moth> creates Tanglebrag. Or for a Scholar-level recipe: if I work with Memory I'll remember a riddle instead.]",
+  "dove": "recipes/craft.edictsliminal_tanglebrag_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft a token to invite the attention of a Moth-name. \n\n[Resurgences & Emergences with Prentice-level <sprite name=moth> creates Tanglebrag. Or for a Scholar-level recipe: if I nestle an Egg into the knot, I'll hatch something eyeless, but pulsing with potential.]",
+  "dove": "recipes/craft.resurgences.emergences_tanglebrag_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft an optical device. \n\n[Glassblowing & Vesselcrafting with Prentice-level <sprite name=lantern> creates Dearday Lens. Or for a Scholar-level recipe: if I add Glass, I can distil a more potent Lantern-liquid.]",
+  "dove": "recipes/craft.glassblowing.vesselcrafting_dearday.lens_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft an optical device. \n\n[Glassblowing & Vesselcrafting with Prentice-level <sprite name=sky> creates Dearday Lens. Or for a Scholar-level recipe: if I add Glass, I can distil a potent Lantern-liquid.]",
+  "dove": "recipes/craft.glassblowing.vesselcrafting_dearday.lens_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft an optical device. \n\n[Glaziery & Lightsmithing with Prentice-level <sprite name=lantern> creates Dearday Lens. Or for a Scholar-level recipe: if I add Glass, I can distil a more potent Lantern-liquid.]",
+  "dove": "recipes/craft.glaziery.lightsmithing_dearday.lens_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft an optical device. \n\n[Glaziery & Lightsmithing with Prentice-level <sprite name=sky> creates Dearday Lens. Or for a Scholar-level recipe: add Metal and create a substance with subtler properties.]",
+  "dove": "recipes/craft.glaziery.lightsmithing_dearday.lens_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft: Amethyst Ampoule",
+  "dove": "recipes/craft.glassblowing.vesselcrafting_ampoule.amethyst_knock.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Awakened Feather",
+  "dove": "recipes/craft.anbary.lapidary_awakened.feather_sky.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Beguiling Melody",
+  "dove": "recipes/craft.applebrighteuphonies_music.beguiling_grail.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Bisclavret's Knot",
+  "dove": "recipes/craft.coil.chasm_bisclavrets.knot_scale.label",
+  "ricorre": 8
+ },
+ {
+  "en": "Craft: Bitterblack Salts",
+  "dove": "recipes/craft.anbary.lapidary_salts.bitterblack_forge.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Bittersweet Certainty",
+  "dove": "recipes/craft.ouranoscopy_bittersweet.certainty_moon.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Catwink",
+  "dove": "recipes/craft.edictsinviolable_catwink_moon.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Cheerful Ditty",
+  "dove": "recipes/craft.drums.dances_music.cheerful_heart.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Craft: Confounding Parable",
+  "dove": "recipes/craft.applebrighteuphonies_confounding.parable_sky.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Dearday Lens",
+  "dove": "recipes/craft.disciplines.thescar_dearday.lens_lantern.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Eigengrau",
+  "dove": "recipes/craft.auroralcontemplations_eigengrau_lantern.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Labhitic Tincture",
+  "dove": "recipes/craft.disciplines.thehammer_tincture.labhitic_edge.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Midnight Mark",
+  "dove": "recipes/craft.desires.dissolutions_midnight.mark_moon.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Craft: Old Wound",
+  "dove": "recipes/craft.edictsmartial_old.wound_moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft: Paint: Moth-Gold",
+  "dove": "recipes/craft.inks.revelation_paint.moth_moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft: Perhibiate",
+  "dove": "recipes/craft.inks.power_perhibiate_scale.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Refulgin",
+  "dove": "recipes/craft.inks.revelation_pigment.refulgin_lantern.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Regensburg Balm",
+  "dove": "recipes/craft.edictsinviolable_liquid.regensburg_heart.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Salt-Sign",
+  "dove": "recipes/craft.hill.hollow_sign.salt_moon.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Savage Hymn",
+  "dove": "recipes/craft.drums.dances_music.savage_nectar.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Secret Threshold",
+  "dove": "recipes/craft.door.wall_secret.threshold_knock.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Stargall Ink",
+  "dove": "recipes/craft.inks.containment_stargall.ink_sky.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Tanglebrag",
+  "dove": "recipes/craft.edictsliminal_tanglebrag_moth.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Thirza's Cordials",
+  "dove": "recipes/craft.coil.chasm_liquid.thirza_nectar.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Torgue's Cleansing",
+  "dove": "recipes/craft.auroralcontemplations_torgues.cleansing_edge.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Westcott's Compounds",
+  "dove": "recipes/craft.meniscatereflections_material.westcott_forge.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Wistful Air",
+  "dove": "recipes/craft.bells.brazieries_music.wistful_sky.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Witching Tisane",
+  "dove": "recipes/craft.desires.dissolutions_witching.tisane_grail.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Yewgall Ink",
+  "dove": "recipes/craft.inks.containment_yewgall.ink_nectar.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Create an unusual and dangerous medicine: a paradoxical Knock-ampoule. \n\n[Surgeries & Exsanguinations with Prentice-level <sprite name=knock> creates Amethyst Ampoule. Or for a Scholar-level recipe: if I add Liquid, I'll brew a powerful Knock toxin.]",
+  "dove": "recipes/craft.surgeries.exsanguinations_ampoule.amethyst_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dark and pungent.",
+  "dove": "recipes/craft.edictsinviolable_catwink_moon.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Daub the vessel with suitable signs, and the tisane within will take on a particular potency. \n\n[The Great Signs and the Great Scars with Prentice-level <sprite name=grail> creates Witching Tisane. Or for a Scholar-level recipe: if I soak Fabric in the brew, I can twist it into a Grailful little cloth doll.]",
+  "dove": "recipes/craft.thegreatsignsandthegreatscars_witching.tisane_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a kind of possibility. \n\n[Auroral Contemplations with Prentice-level <sprite name=lantern> creates Eigengrau. Or for a Scholar-level recipe: mix in another Liquid to produce an alchemical essence.]",
+  "dove": "recipes/craft.auroralcontemplations_eigengrau_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a kind of possibility. \n\n[Inks of Containment with Prentice-level <sprite name=winter> creates Eigengrau. Or for a Scholar-level recipe: crush a Flower in, and mix a pale and chilling draught.]",
+  "dove": "recipes/craft.inks.containment_eigengrau_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a kind of possibility. \n\n[Maggephene Mysteries with Prentice-level <sprite name=moon> creates Eigengrau. Or for a Scholar-level recipe: crush a Flower in, and mix a pale and chilling draught.]",
+  "dove": "recipes/craft.maggephenemysteries_eigengrau_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a kind of possibility. \n\n[Pearl & Tide with Prentice-level <sprite name=moon> creates Eigengrau. Or for a Scholar-level recipe: add Liquid to strengthen it into a silvery Ink of Revelation.]",
+  "dove": "recipes/craft.pearl.tide_eigengrau_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a kind of possibility. \n\n[Quenchings & Quellings with Prentice-level <sprite name=winter> creates Eigengrau. Or for a Scholar-level recipe: crush a Flower in, and mix a pale and chilling draught.]",
+  "dove": "recipes/craft.quenchings.quellings_eigengrau_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a kind of possibility. \n\n[Sights & Sensations with Prentice-level <sprite name=winter> creates Eigengrau. Or for a Scholar-level recipe: crush a Flower in, and mix a pale and chilling draught.]",
+  "dove": "recipes/craft.sights.sensations_eigengrau_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Don't spill it.",
+  "dove": "recipes/craft.inks.containment_stargall.ink_sky.desc",
+  "ricorre": 10
+ },
+ {
+  "en": "Draw glyphs to empower a paradoxical Knock-ampoule. \n\n[The Great Signs and the Great Scars with Prentice-level <sprite name=knock> creates Amethyst Ampoule. Or for a Scholar-level recipe: if I add a Memory, I can inhale the jewel-colours and gain a more powerful Knock-insight.]",
+  "dove": "recipes/craft.thegreatsignsandthegreatscars_ampoule.amethyst_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Elegant as a flower-petal.",
+  "dove": "recipes/craft.pearl.tide_sign.salt_rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Elegant as a footprint.",
+  "dove": "recipes/craft.path.pilgrim_sign.salt_rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Elegant as a smoothed pebbel.",
+  "dove": "recipes/craft.hill.hollow_sign.salt_moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Elegant as a wave.",
+  "dove": "recipes/craft.seastories_sign.salt_moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Elegant as an alchemical formula.",
+  "dove": "recipes/craft.inks.power_sign.salt_rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Elegant as sunset.",
+  "dove": "recipes/craft.sandstories_sign.salt_rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ a complex round of rhymes to establish a new threshold. \n\n[Preliminal Meter with Prentice-level <sprite name=knock> creates Secret Threshold. Or for a Scholar-level recipe: if I add a Memory, it'll resolve to a Knock-insight.]",
+  "dove": "recipes/craft.preliminalmeter_secret.threshold_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ the Sisterhood's invocations to bring a subtle memory to mind. \n\n[Tridesma Hiera with Prentice-level <sprite name=moon> creates Confounding Parable. Or for a Scholar-level recipe: if I pronounce these invocations over an Egg, it'll hatch into something silvery and mischievous.]",
+  "dove": "recipes/craft.tridesmahiera_confounding.parable_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Employ the doorkeeper's lesser-known Arts to establish a new threshold. \n\n[Door & Wall with Prentice-level <sprite name=knock> creates Secret Threshold. Or for a Scholar-level recipe: if I add Liquid, I'll brew a powerful Knock toxin.]",
+  "dove": "recipes/craft.door.wall_secret.threshold_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enact a life-current in an abandoned feather. \n\n[Lockworks & Clockworks with Prentice-level <sprite name=sky> creates Awakened Feather. Or for a Scholar-level recipe: enact those life-currents in Metal, and create an exotic alloy.]",
+  "dove": "recipes/craft.lockworks.clockworks_awakened.feather_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Explore an old wound to awaken the violent resonances within. \n\n[Edicts Martial with Prentice-level <sprite name=moon> creates Old Wound. Or for a Scholar-level recipe: add a Memory and find an even bitterer dream.]",
+  "dove": "recipes/craft.edictsmartial_old.wound_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Find a chilly insight in moonlight. \n\n[Ouranoscopy with Prentice-level <sprite name=moon> creates Bittersweet Certainty. Or for a Scholar-level recipe: add a Lens and focus that moonlight into a silvery Ink of Revelation.]",
+  "dove": "recipes/craft.ouranoscopy_bittersweet.certainty_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Find a chilly insight in starlight. \n\n[Ouranoscopy with Prentice-level <sprite name=winter> creates Bittersweet Certainty. If I were to use Moon instead of Winter, I might be able to take this further.]",
+  "dove": "recipes/craft.ouranoscopy_bittersweet.certainty_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Find a chilly insight in the intricacies of regret. \n\n[Ragged Crossroads with Prentice-level <sprite name=winter> creates Bittersweet Certainty. Or for a Scholar-level recipe: crush a Flower to mix a pale and chilling draught.]",
+  "dove": "recipes/craft.raggedcrossroads_bittersweet.certainty_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Find a chilly insight in the labyrinths of memory. \n\n[Rhyme & Remembrance with Prentice-level <sprite name=winter> creates Bittersweet Certainty. Or for a Scholar-level recipe: let it guide my hand when I dissect Remains, and I can render something darkly leathery, chillingly powerful.]",
+  "dove": "recipes/craft.rhyme.remembrance_bittersweet.certainty_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Find a chilly insight in the memory of snow. \n\n[Snow Stories with Prentice-level <sprite name=winter> creates Bittersweet Certainty. Or for a Scholar-level recipe: let it guide my hand when I dissect Remains, and I can render something darkly leathery, chillingly powerful.]",
+  "dove": "recipes/craft.snowstories_bittersweet.certainty_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Find a sweet and sorrowful song in the intersections of paradox-formulae. \n\n[Watchman's Paradoxes with Prentice-level <sprite name=sky> creates Wistful Air. Or for a Scholar-level recipe: apply the formulae to a Light, and see rosy essence drip from the air.]",
+  "dove": "recipes/craft.watchmansparadoxes_music.wistful_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Find a sweet and sorrowful song in the turn of the heavens. \n\n[Ouranoscopy with Prentice-level <sprite name=sky> creates Wistful Air. Or for a Scholar-level recipe: carve the song into Wood to enchant an instrument.]",
+  "dove": "recipes/craft.ouranoscopy_music.wistful_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Focus my own and local resources to create a small quantity of a stable Edge ingredient. \n\n[Disciplines of the Hammer with Prentice-level <sprite name=edge> creates Labhitic Tincture. Or for a Scholar-level recipe: add something with a Memory aspect, and I have the makings of a significant Edge Memory.]",
+  "dove": "recipes/craft.disciplines.thehammer_tincture.labhitic_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Focus my own and local resources to create a small quantity of a stable Edge ingredient. \n\n[Edicts Martial with Prentice-level <sprite name=edge> creates Labhitic Tincture. Or for a Scholar-level recipe: if I crush a suitable Leaf into to the brew, it'll make a dangerous ink.]",
+  "dove": "recipes/craft.edictsmartial_tincture.labhitic_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Focus my own and local resources to create a small quantity of a stable Edge ingredient. \n\n[Ragged Crossroads with Prentice-level <sprite name=edge> creates Labhitic Tincture. Or for a Scholar-level recipe: add something with a Memory aspect, and I have the makings of a significant Edge Memory.]",
+  "dove": "recipes/craft.raggedcrossroads_tincture.labhitic_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Focus my own and local resources to create a small quantity of a stable Edge ingredient. \n\n[Sickle & Eclipse with Prentice-level <sprite name=edge> creates Labhitic Tincture. Or Scholar-level Edge, plus something with the Leaf aspect, will brew me a dangerous ink.]",
+  "dove": "recipes/craft.sickle.eclipse_tincture.labhitic_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Forge an optical device. \n\n[Pyroglyphics with Prentice-level <sprite name=lantern> creates Dearday Lens. Or for a Scholar-level recipe: if I add Liquid, I can distil a more potent Lantern-essence.]",
+  "dove": "recipes/craft.pyroglyphics_dearday.lens_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Glow, little colour.",
+  "dove": "recipes/craft.inks.revelation_pigment.refulgin_lantern.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Grind an optical device. \n\n[Disciplines of the Scar with Prentice-level <sprite name=lantern> creates Dearday Lens. Or for a Scholar-level recipe: if I add Memory, I'll glean a powerful insight with some Lantern and more Scale.]",
+  "dove": "recipes/craft.disciplines.thescar_dearday.lens_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Harsh on the tongue.",
+  "dove": "recipes/craft.drums.dances_music.savage_nectar.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Here where the sea sounds, I can mix a tide-touched tisane. \n\n[Sea Stories with Prentice-level <sprite name=grail> creates Witching Tisane. Or for a Scholar-level recipe: if I soak Fabric in the brew, I can twist it into a Grailful little cloth doll.]",
+  "dove": "recipes/craft.seastories_witching.tisane_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hold on to it.",
+  "dove": "recipes/craft.ouranoscopy_bittersweet.certainty_moon.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Hush House still rings with thwarted desires. I'll mix that into a tisane. \n\n[Desires & Dissolutions with Prentice-level <sprite name=grail> creates Witching Tisane. Or for a Scholar-level recipe: if I add a Flower, the mixture will become intoxicating.]",
+  "dove": "recipes/craft.desires.dissolutions_witching.tisane_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I can brew a minor Ink of Power: a binding ink. \n\n[Inks of Power with Prentice-level <sprite name=scale> creates Perhibiate. Or for a Scholar-level recipe: if I crush in a suitable Leaf, I can make this a deadlier and more potent Ink.]",
+  "dove": "recipes/craft.inks.power_perhibiate_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll be humming this for a while. And so will anyone else who happens by.",
+  "dove": "recipes/craft.applebrighteuphonies_music.beguiling_grail.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "It fits fairly tidily in the mind, as long as you turn it sideways.",
+  "dove": "recipes/craft.applebrighteuphonies_confounding.parable_sky.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "It has its uses, but none of them are simple and few are safe.",
+  "dove": "recipes/craft.glassblowing.vesselcrafting_ampoule.amethyst_knock.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "It's best when it's warm; but it'll keep.",
+  "dove": "recipes/craft.desires.dissolutions_witching.tisane_grail.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Let it rise in head and heart.",
+  "dove": "recipes/craft.bells.brazieries_music.wistful_sky.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Let the wind-sounds gradually recall a subtle memory. \n\n[Sky Stories with Prentice-level <sprite name=rose> creates Confounding Parable. Or for a Scholar-level recipe: if I bring in another Memory, I can conceive a higher insight.]",
+  "dove": "recipes/craft.skystories_confounding.parable_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Medicine should smell like this: reassuringly offputting.",
+  "dove": "recipes/craft.edictsinviolable_liquid.regensburg_heart.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Meditate on the space between sounds to recall a subtle memory. \n\n[Preliminal Meter with Prentice-level <sprite name=rose> creates Confounding Parable. Or for a Scholar-level recipe: if I bring in another Memory, I can conceive a higher insight.]",
+  "dove": "recipes/craft.preliminalmeter_confounding.parable_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix a pigment of blinding white, one that the Church used for their rites before the Dissolution. \n\n[Inks of Revelation with Prentice-level <sprite name=lantern> creates Refulgin. Or for a Scholar-level recipe: if I add Glass, I can resolve it into a more potent Lantern-liquid, a precursor of the ink Ashartine.]",
+  "dove": "recipes/craft.inks.revelation_pigment.refulgin_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix a pigment of blinding white, one that the Church used for their rites before the Dissolution. \n\n[Sacra Solis Invicti with Prentice-level <sprite name=lantern> creates Refulgin. Or for a Scholar-level recipe: if I add Glass, I can resolve it into a more potent Lantern-liquid, a sacred substance.]",
+  "dove": "recipes/craft.sacrasolisinvicti_pigment.refulgin_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix a pigment of blinding white. \n\n[Purifications & Exaltations with Prentice-level <sprite name=lantern> creates Refulgin. Or for a Scholar-level recipe: if I add Liquid, I can distil a more potent alchemical essence.]",
+  "dove": "recipes/craft.purifications.exaltations_pigment.refulgin_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix a pigment of blinding white. \n\n[Transformations & Liberations with Prentice-level <sprite name=lantern> creates Refulgin. Or for a Scholar-level recipe: if I add Liquid, I can distil a more potent alchemical essence.]",
+  "dove": "recipes/craft.transformations.liberations_pigment.refulgin_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix a simple cure. \n\n[Surgeries & Exsanguinations with Prentice-level <sprite name=heart> creates Regensburg Balm. Or for a Scholar-level recipe: if I add a suitably aspected Liquid, I'll brew something more potent.]",
+  "dove": "recipes/craft.surgeries.exsanguinations_liquid.regensburg_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix paint of a wistful golden hue. \n\n[Inks of Revelation with Prentice-level <sprite name=moth> creates Paint: Moth-Gold. Or for a Scholar-level recipe: if I add Liquid, I'll brew a silvery moon-ink.]",
+  "dove": "recipes/craft.inks.revelation_paint.moth_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix something to keep disease at bay. \n\n[Edicts Inviolable with Prentice-level <sprite name=heart> creates Regensburg Balm. Or for a Scholar-level recipe: if I add a suitably aspected Liquid, I'll brew something touched with the power of the Thunderskin.]",
+  "dove": "recipes/craft.edictsinviolable_liquid.regensburg_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mix something to keep disease at bay. \n\n[Maggephene Mysteries with Prentice-level <sprite name=heart> creates Regensburg Balm. Or for a Scholar-level recipe: if I add a suitably aspected Liquid, I'll brew something more potent.]",
+  "dove": "recipes/craft.maggephenemysteries_liquid.regensburg_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Move gingerly while the pain lasts.",
+  "dove": "recipes/craft.edictsmartial_old.wound_moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Muse on tradition, recall contradiction. \n\n[Applebright Euphonies with Prentice-level <sprite name=sky> creates Confounding Parable. Or for a Scholar-level recipe: if I use an Instrument, I can set this contradiction to music.]",
+  "dove": "recipes/craft.applebrighteuphonies_confounding.parable_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Neither bright nor dark.",
+  "dove": "recipes/craft.inks.revelation_paint.moth_moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Not all bindings are physical. I can brew an ink of links. \n\n[Stitching & Binding with Prentice-level <sprite name=heart> creates Perhibiate. Or for a Scholar-level recipe: if I add Fabric, I can stain the fibres with the binding brew and stitch something of greater power.]",
+  "dove": "recipes/craft.stitching.binding_perhibiate_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Not all knots are physical. I can brew an ink which ties the naming to the named. \n\n[Weaving & Knotworking with Prentice-level <sprite name=heart> creates Perhibiate. Or for a Scholar-level recipe: if I add Fabric, I can weave the stained fibres into a greater binding.]",
+  "dove": "recipes/craft.weaving.knotworking_perhibiate_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "One <i>can</i> cook with Bitterblack Salts, but only if one uses them very sparingly.",
+  "dove": "recipes/craft.bells.brazieries_salts.bitterblack_forge.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Pom ti pom ti pom. Padom!",
+  "dove": "recipes/craft.drums.dances_music.cheerful_heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Purge myself of earthly influences, accruing some personal Edge through the savagery of the process. \n\n[Purifications & Exaltations with Prentice-level <sprite name=sky> creates Torgue's Cleansing. Or for a Scholar-level recipe: if I use an Instrument, I can use the experience as an inspiration for Sky-focused music.]",
+  "dove": "recipes/craft.purifications.exaltations_torgues.cleansing_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Purge myself of harmonious resonances, accruing some personal Edge. It won't be pleasant. \n\n[Auroral Contemplations with Prentice-level <sprite name=edge> creates Torgue's Cleansing. Or for a Scholar-level recipe: add something with a Memory aspect, and I have the makings of a significant Edge Memory.]",
+  "dove": "recipes/craft.auroralcontemplations_torgues.cleansing_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Purge myself of harmonious resonances, accruing some personal Edge. It won't be pleasant. \n\n[Disciplines of the Scar with Prentice-level <sprite name=edge> creates Torgue's Cleansing. Or Scholar-level Edge, and something with the Leaf aspect, will brew me a dangerous ink.]",
+  "dove": "recipes/craft.disciplines.thescar_torgues.cleansing_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Purge myself of harmonious resonances, accruing some personal Edge. It won't be pleasant. \n\n[Meniscate Reflections with Prentice-level <sprite name=edge> creates Torgue's Cleansing. Or for a Scholar-level recipe: add something with a Memory aspect, and I have the makings of a significant Edge Memory.]",
+  "dove": "recipes/craft.meniscatereflections_torgues.cleansing_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Purge myself of harmonious resonances, accruing some personal Edge. It won't be pleasant. \n\n[Sharps with Prentice-level <sprite name=edge> creates Torgue's Cleansing. Or for a Scholar-level recipe: add something with a Memory aspect, and I have the makings of a significant Edge Memory.]",
+  "dove": "recipes/craft.sharps_torgues.cleansing_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Raise the rhythms of the earth to a remembered music. \n\n[Stone Stories with Prentice-level <sprite name=scale> creates Savage Hymn. Or for a Scholar-level recipe: whisper it to an Egg and hatch something that recalls an earlier era.]",
+  "dove": "recipes/craft.stonestories_music.savage_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall a delightful little music from a different time... \n\n[Pentiments & Precursors with Prentice-level <sprite name=grail> creates Beguiling Melody. Or for a Scholar-level recipe: if I add Fabric, I can hum the faintest life into a little cloth doll.]",
+  "dove": "recipes/craft.pentiments.precursors_music.beguiling_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall a sweet and sorrowful song. \n\n[Bells & Brazieries with Prentice-level <sprite name=sky> creates Wistful Air. Or for a Scholar-level recipe: use an Instrument to raise it to a greater music.]",
+  "dove": "recipes/craft.bells.brazieries_music.wistful_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall a sweet and sorrowful song. \n\n[Sky Stories with Prentice-level <sprite name=sky> creates Wistful Air. Or for a Scholar-level recipe: use an Instrument to raise it to a greater music.]",
+  "dove": "recipes/craft.skystories_music.wistful_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall a sweet and sorrowful song. \n\n[Strings & Songs with Prentice-level <sprite name=sky> creates Wistful Air. Or for a Scholar-level recipe: use an Instrument to raise it to a greater music.]",
+  "dove": "recipes/craft.strings.songs_music.wistful_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall the hymns of the hill-cults. \n\n[Drums & Dances with Prentice-level <sprite name=nectar> creates Savage Hymn. Or for a Scholar-level recipe: use an Instrument to resolve it into a buzzing and more ancient song.]",
+  "dove": "recipes/craft.drums.dances_music.savage_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall the hymns of the hill-cults. \n\n[Drums & Dances with Prentice-level <sprite name=scale> creates Savage Hymn.]",
+  "dove": "recipes/craft.drums.dances_music.savage_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Remember the parables of the old teachings. \n\n[Sacra Solis Invicti with Prentice-level <sprite name=sky> creates Confounding Parable. Or for a Scholar-level recipe: if I add Wood, I can use this insight to enchant an instrument.]",
+  "dove": "recipes/craft.sacrasolisinvicti_confounding.parable_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Set it down softly, or it might roll away, even uphill.",
+  "dove": "recipes/craft.edictsliminal_tanglebrag_moth.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Shape and fill a paradoxical Knock-ampoule. \n\n[Solutions & Separations with Prentice-level <sprite name=knock> creates Amethyst Ampoule. Or for a Scholar-level recipe: if I add Liquid, I'll brew a powerful Knock toxin.]",
+  "dove": "recipes/craft.solutions.separations_ampoule.amethyst_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Shape, tint, fill a paradoxical Knock-ampoule. \n\n[Glassblowing & Vesselcrafting with Prentice-level <sprite name=knock> creates Amethyst Ampoule. Or for a Scholar-level recipe: if I add a Metal, I'll create an exotic alloy.]",
+  "dove": "recipes/craft.glassblowing.vesselcrafting_ampoule.amethyst_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Smooth an abandoned feather to enchanted alertness. \n\n[Furs & Feathers with Prentice-level <sprite name=sky> creates Awakened Feather. Or for a Scholar-level recipe: use it with an Instrument to find a celestial music.]",
+  "dove": "recipes/craft.furs.feathers_awakened.feather_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Some authorities claim it's difficult to lose a pot of perhibiate ink, but they haven't lived at Hush House.",
+  "dove": "recipes/craft.inks.power_perhibiate_scale.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Something from the boundaries of the jeweller's art: concentrate smouldering essences into a Forge ingredient. \n\n[Anbary & Lapidary with Prentice-level <sprite name=forge> creates Bitterblack Salts. Or for a Scholar-level recipe:  if I add Liquid, but retain Scholar-level Forge, the essences will take longer to cool, and redden into something more potent.]",
+  "dove": "recipes/craft.anbary.lapidary_salts.bitterblack_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Sort, mix, concentrate: an odd set of compounds with a variety of uses. \n\n[Pyroglyphics with Prentice-level <sprite name=forge> creates Westcott's Compounds. Or if I add Liquid, to Scholar-level Forge, the essences will take longer to cool, and redden into something more potent.]",
+  "dove": "recipes/craft.pyroglyphics_material.westcott_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Sort, mix, concentrate: an odd set of compounds with a variety of uses. \n\n[Spices & Savours with Prentice-level <sprite name=forge> creates Westcott's Compounds. Or if I add liquid to Scholar-level Forge, the essences will take longer to cool, and redden into something more potent.]",
+  "dove": "recipes/craft.spices.savours_material.westcott_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Spark a life-current in an abandoned feather. \n\n[Anbary & Lapidary with Prentice-level <sprite name=sky> creates Awakened Feather. Or for a Scholar-level recipe: spark those energies in a Liquid, curdling it into an alchemical essence.]",
+  "dove": "recipes/craft.anbary.lapidary_awakened.feather_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Stitch together phrases of sacred music to make something delightful. \n\n[Tridesma Hiera with Prentice-level <sprite name=grail> creates Beguiling Melody. Or for a Scholar-level recipe: if I add Fabric, I can hum the faintest life into a little cloth doll.]",
+  "dove": "recipes/craft.tridesmahiera_music.beguiling_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Taste with care.",
+  "dove": "recipes/craft.coil.chasm_liquid.thirza_nectar.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "The Cleansing has left my eyes dazzled, my skin burning. The Corrivality manifests even in the operations of the Sun.",
+  "dove": "recipes/craft.purifications.exaltations_torgues.cleansing_sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Cleansing has left my skin burning, my teeth throbbing. The Corrivality rumbles beneath the membraneous surfaces of the waking world.",
+  "dove": "recipes/craft.auroralcontemplations_torgues.cleansing_edge.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The Lens is asymmetrical - fragile - unstable. That's what gives it power.",
+  "dove": "recipes/craft.disciplines.thescar_dearday.lens_lantern.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "The Mark shouldn't be exposed to sunlight, but that's mostly because it looks surprisingly ugly in sunlight.",
+  "dove": "recipes/craft.desires.dissolutions_midnight.mark_moon.desc",
+  "ricorre": 7
+ },
+ {
+  "en": "The Ordo Limiae taught how to prepare Forgeful compounds from ephemeral materials - 'the Moth finds the Flame'. \n\n[Sacra Limiae with Prentice-level <sprite name=moth> creates Westcott's Compounds. Or for a Scholar-level recipe:  if I include a Memory and smoke the preparation while it's fresh, I'll gain a riddlesome insight.]",
+  "dove": "recipes/craft.sacralimiae_material.westcott_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Reflections include alchemical techniques. I can use those to prepare an odd set of compounds with a variety of uses. \n\n[Meniscate Reflections with Prentice-level <sprite name=forge> creates Westcott's Compounds. Or if I add Liquid to Scholar-level Forge, the essences will take longer to cool, and redden into something more potent.]",
+  "dove": "recipes/craft.meniscatereflections_material.westcott_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The common name now is 'Westcott's Compounds', but the Ordo Limiae is older than Westcott by… quite some centuries. Probably. Westcott wasn't Long as far as anyone ever knew.",
+  "dove": "recipes/craft.sacralimiae_material.westcott_moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The odd leaf and the occasional berry, dried to brew a tisane. \n\n[Leaves & Thorns with Prentice-level <sprite name=grail> creates Witching Tisane. Or for a Scholar-level recipe: if I add a Flower, the mixture will become intoxicating.]",
+  "dove": "recipes/craft.leaves.thorns_witching.tisane_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The odd petal and the occasional stem, dried to brew a tisane. \n\n[Orchids & Narcotics with Prentice-level <sprite name=grail> creates Witching Tisane. Or for a Scholar-level recipe: if I add a Flower, the mixture will become intoxicating.]",
+  "dove": "recipes/craft.orchids.narcotics_witching.tisane_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The surface of the substance is difficult to resolve - almost as if it weren't there at all.",
+  "dove": "recipes/craft.auroralcontemplations_eigengrau_lantern.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "Tiddly tiddly tum ti diddle. Tum!",
+  "dove": "recipes/craft.strings.songs_music.cheerful_heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tie a token to invite the attention of a Moth-name. \n\n[Rites of the Roots with Prentice-level <sprite name=moth> creates Tanglebrag. Or for a Scholar-level recipe: if I work with Memory I'll remember a riddle instead.]",
+  "dove": "recipes/craft.rites.theroots_tanglebrag_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use a rudimentary ink to trace a sigil of sense and sunset. \n\n[Inks of Power with Prentice-level <sprite name=rose> creates Salt-Sign. Or for a Scholar-level recipe: if I trace the sign with a Light, I can wring a rosy essence from the air.]",
+  "dove": "recipes/craft.inks.power_sign.salt_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use earth to trace a sigil of the Hill-Children. \n\n[Furs & Feathers with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: trace it on an Egg to hatch something that recalls an earlier era.]",
+  "dove": "recipes/craft.furs.feathers_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use earth to trace a sigil of the Hill-Children. \n\n[Horns & Ivories with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: add a Memory to recall something older and more powerful.]",
+  "dove": "recipes/craft.horns.ivories_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use earth to trace a sigil of the Hill-Children. \n\n[Path & Pilgrim with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: add a Memory to recall something older and more powerful.]",
+  "dove": "recipes/craft.path.pilgrim_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use mud to trace a sigil of the silvered night. \n\n[Hill & Hollow with Prentice-level <sprite name=moon> creates Salt-Sign. Or for a Scholar-level recipe: if I trace the sign on an Egg, I can hatch something eyeless, but pulsing with potential.]",
+  "dove": "recipes/craft.hill.hollow_sign.salt_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use my own blood to trace a feral sigil. \n\n[Coil & Chasm with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: add a Memory to recall something older and more powerful.]",
+  "dove": "recipes/craft.coil.chasm_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use my own blood to trace a feral sigil. \n\n[Wolf Stories with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: add a Memory to recall something older and more powerful.]",
+  "dove": "recipes/craft.wolfstories_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use my own tears to trace a sigil of regret. \n\n[Hill & Hollow with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: trace it on an Egg to hatch something that recalls an earlier era.]",
+  "dove": "recipes/craft.hill.hollow_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use my own tears to trace a sigil of regret. \n\n[Pentiments & Precursors with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: trace it on an Egg to hatch something that recalls an earlier era.]",
+  "dove": "recipes/craft.pentiments.precursors_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use my own tears to trace a sigil of regret. \n\n[Serpents & Venoms with Prentice-level <sprite name=scale> creates Bisclavret's Knot. Or for a Scholar-level recipe: mix a Liquid with my hallowed tears, to clarify it into a Knock-toxin.]",
+  "dove": "recipes/craft.serpents.venoms_bisclavrets.knot_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use salt to trace a secret sigil of desert thresholds. \n\n[Sand Stories with Prentice-level <sprite name=rose> creates Salt-Sign. Or for a Scholar-level recipe: if I trace the sign with a Light, I can wring a rosy essence from the air.]",
+  "dove": "recipes/craft.sandstories_sign.salt_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use salt to trace a sigil of journeys and returns. \n\n[Path & Pilgrim with Prentice-level <sprite name=rose> creates Salt-Sign. Or for a Scholar-level recipe: if I add a Memory, I can achieve an insight more powerful than this Sign.]",
+  "dove": "recipes/craft.path.pilgrim_sign.salt_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use salt to trace a sigil of night-travel and sunset-sound. \n\n[Pearl & Tide with Prentice-level <sprite name=rose> creates Salt-Sign. Or for a Scholar-level recipe: if I add a Memory, I can achieve an insight more powerful than this Sign.]",
+  "dove": "recipes/craft.pearl.tide_sign.salt_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use salt to trace a sigil of wave-song and night-travel. \n\n[Sea Stories with Prentice-level <sprite name=moon> creates Salt-Sign. Or for a Scholar-level recipe: if I hallow a Liquid with this sign, it will clarify into an Ink of Revelation.]",
+  "dove": "recipes/craft.seastories_sign.salt_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Weave a token to invite the attention of a Moth-name. \n\n[Weaving & Knotworking with Prentice-level <sprite name=moth> creates Tanglebrag. Or for a Scholar-level recipe: if I work with Memory I'll remember a riddle instead.]",
+  "dove": "recipes/craft.weaving.knotworking_tanglebrag_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Westcott probably didn't invent all these, but he knew how to make a name stick.",
+  "dove": "recipes/craft.meniscatereflections_material.westcott_forge.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Whisper an ascension-cantrip to awaken an abandoned feather. \n\n[Sacra Limiae with Prentice-level <sprite name=sky> creates Awakened Feather. Or for a Scholar-level recipe: whisper it to carved Wood, and enchant an instrument.]",
+  "dove": "recipes/craft.sacralimiae_awakened.feather_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A corner of something metallic protrudes from the soil...",
+  "dove": "recipes/gather.garden.plot.key.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A familiar iron key has washed up on the beach.",
+  "dove": "recipes/gather.beachcombing.key.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A familiar iron key is caught in a crevice.",
+  "dove": "recipes/gather.nests.key.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A familiar iron key lies in a shallow rock-pool.",
+  "dove": "recipes/gather.caves.key.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A familiar iron key nestles in the bucket.",
+  "dove": "recipes/gather.well.key.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A metallic wink of light...",
+  "dove": "recipes/gather.caves.key.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "An odd rattle below...",
+  "dove": "recipes/gather.well.key.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I pour the milk in a wide circle, and watch as it sinks into the scabbed earth. Serpent-eyes glint from the gorse. The wind rises to a hissing shriek. Rain rattles from the sky. I have attracted someone's attention.",
+  "dove": "recipes/gather.echidna.moor.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite Echidna, Mother of Monsters, to Brancrug",
+  "dove": "recipes/gather.echidna.moor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Once again, here's the Key to Hush House, half-buried in the garden.",
+  "dove": "recipes/gather.garden.plot.key.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Familiar",
+  "dove": "recipes/_gather.retrieve.key.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something half-buried in the sand...",
+  "dove": "recipes/gather.beachcombing.key.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Summon, or Gather?",
+  "dove": "recipes/gather.echidna.moor.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The summoning must be performed beyond the hearing of any profane ears - and far from any conceivable protection.",
+  "dove": "recipes/gather.echidna.moor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[To summon Echidna, provide Serpent-Milk, and a total of 7 <sprite name=scale> - or leave out these requirements, and try to gather from the moors as usual.]",
+  "dove": "recipes/gather.echidna.moor.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Pyrus auricalcinus</i>. In Numa it develops quickly - the boughs of the tree bend with the fruit.",
+  "dove": "recipes/gather.garden.p.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A little water sploshes on to the stones of the well to nourish the mosses there.",
+  "dove": "recipes/gather.well.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Aglaophotis, the other rose. Only in Numa does it bloom.",
+  "dove": "recipes/gather.garden.c.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "At night? I'll fall off something, into something, or both. Tomorrow is soon enough.",
+  "dove": "recipes/gather.moor.night.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carrots, tomatoes, marrows, and blessed onions - all the unsung heroes of the stew-pot.",
+  "dove": "recipes/gather.garden.v.autumn.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Carrots, tomatoes, marrows, and blessed onions - all the unsung heroes of the stew-pot. In Numa they flourish fast, but there is something odd about their taste.",
+  "dove": "recipes/gather.garden.v.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Do grapes taste different when plucked in Numa? Perhaps we only imagine it.",
+  "dove": "recipes/gather.garden.g.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw up Water",
+  "dove": "recipes/gather.well.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Echoes in the endless night...",
+  "dove": "recipes/gather.caves.autumn.startdescription",
+  "ricorre": 4
+ },
+ {
+  "en": "Exertion?",
+  "dove": "recipes/gather.garden.needs.ability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Few flowers flourish in the depths of winter. Blue crown is one of those few.",
+  "dove": "recipes/gather.garden.b.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Fierce yellow eyes watch my every move.",
+  "dove": "recipes/gather.nests.autumn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Fragrant pears, soft in the hand.",
+  "dove": "recipes/gather.garden.p.autumn.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Gather catsclaw carefully. Its mischievous thorns find ways through the thickest gloves.",
+  "dove": "recipes/gather.garden.c.spring.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Gather herbs for healing.",
+  "dove": "recipes/gather.garden.h.spring.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Gather herbs for healing. In Numa they flourish feverishly...",
+  "dove": "recipes/gather.garden.h.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Gather in Autumn",
+  "dove": "recipes/_gather.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gather in Numa",
+  "dove": "recipes/_gather.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gather in Spring",
+  "dove": "recipes/_gather.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gather in Summer",
+  "dove": "recipes/_gather.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gather in Winter",
+  "dove": "recipes/_gather.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Gather the scented blossoms of the fragrant chalice.",
+  "dove": "recipes/gather.garden.a.autumn.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Gather the spiny florescences of the sea holly.",
+  "dove": "recipes/gather.garden.b.autumn.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Gleanings from the darkness.",
+  "dove": "recipes/gather.caves.autumn.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Harvest takes effort as well as knowledge. [Add a Soul card.]",
+  "dove": "recipes/gather.garden.needs.ability.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Honey or beeswax, if I'm careful.",
+  "dove": "recipes/gather.garden.beehive.spring.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Honeyscar jasmine, like a dart of sweet fire.",
+  "dove": "recipes/gather.garden.d.autumn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Honeyscar jasmine, like a dart of sweet fire. Numa brings it back to life.",
+  "dove": "recipes/gather.garden.d.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I am quite clearly not intending to climb the cliffs of Brancrug Isle in the middle of the night. I'm just speculating about the possibility.",
+  "dove": "recipes/gather.nests.night.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'm unlikely to garner much from the hive at this time of year.",
+  "dove": "recipes/gather.garden.beehive.autumn.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "If I go to the caves at night, either I'll drown when the tide comes in, or I'll drown when it doesn't.",
+  "dove": "recipes/gather.caves.night.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In Numa, I might gather honey, beeswax, or something unexpected.",
+  "dove": "recipes/gather.garden.beehive.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In Numa, the sea holly returns. Gather it carefully.",
+  "dove": "recipes/gather.garden.b.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In autumn, before the real chill comes, trumpeter's lily still flourishes.",
+  "dove": "recipes/gather.garden.c.autumn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In spring as the days warm, blue crown still blossoms for a little while.",
+  "dove": "recipes/gather.garden.b.spring.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In summer, trumpeter's lily flourishes like a shout.",
+  "dove": "recipes/gather.garden.c.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the Dark?",
+  "dove": "recipes/_gather.night.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Is it wise to walk on the moors in this season? Let's find out.",
+  "dove": "recipes/gather.moor.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "LEEKS",
+  "dove": "recipes/gather.garden.v.autumn.leeks.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Lower the bucket creaking into the dark.",
+  "dove": "recipes/gather.well.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mist coils below...",
+  "dove": "recipes/gather.well.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth orchid is soft as velvet to the touch; except when it changes.",
+  "dove": "recipes/gather.garden.d.spring.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Much is lost, but much remains...",
+  "dove": "recipes/gather.caves.numa.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Night-gardening is more atmospheric than practical. I should come back tomorrow.",
+  "dove": "recipes/gather.garden.night.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Numa:",
+  "dove": "recipes/gather.garden.d.numa.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Only in Numa can I follow the white flowers of moly to its potent black root.",
+  "dove": "recipes/gather.garden.a.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Pluck the grapes from the vine.",
+  "dove": "recipes/gather.garden.g.spring.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Pluck the petals of the lenten rose.",
+  "dove": "recipes/gather.garden.a.spring.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Quiet Seasons",
+  "dove": "recipes/gather.garden.empty.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rime rims the moor-tarns.",
+  "dove": "recipes/gather.moor.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Scraps from the isle's edge.",
+  "dove": "recipes/gather.nests.autumn.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Sea-strewn salt-snared stuff.",
+  "dove": "recipes/gather.beachcombing.autumn.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The History Plant has risen! Gather its blooms - all the more plentiful in Numa!",
+  "dove": "recipes/gather.garden.x.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The History Plant has risen! Gather its blooms!",
+  "dove": "recipes/gather.garden.x.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Numa-fog is thick here.",
+  "dove": "recipes/gather.beachcombing.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The birds are furiously vigilant.",
+  "dove": "recipes/gather.nests.spring.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The earth is quiet - not barren, only sleeping. [Harvesting is possible in a different season.]",
+  "dove": "recipes/gather.garden.empty.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The gardens of Hush House hold plants with many virtues - for those with the wisdom to recognise them. [Add a suitable Skill.]",
+  "dove": "recipes/gather.garden.needs.skill.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The gorse is bright on the land's nape.",
+  "dove": "recipes/gather.moor.spring.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The last leaves toss and scutter.",
+  "dove": "recipes/gather.moor.autumn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The ocean's edge is dark... [Return later.]",
+  "dove": "recipes/gather.beachcombing.noseason.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The sea rolls below.",
+  "dove": "recipes/gather.nests.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The sky is shrouded... [Return later.]",
+  "dove": "recipes/gather.moor.noseason.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The wind is bitter today.",
+  "dove": "recipes/gather.nests.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The wind's almost warm.",
+  "dove": "recipes/gather.moor.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is a bad way to find things and a good way to drown. I should come back tomorrow.",
+  "dove": "recipes/gather.beachcombing.night.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Tide-wracked treasures.",
+  "dove": "recipes/gather.beachcombing.numa.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Unexpected finds in the folds of earth and sky.",
+  "dove": "recipes/gather.moor.autumn.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Water in the season of Numa is almost the same as water in any other season.",
+  "dove": "recipes/gather.well.numa.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What has Numa brought?",
+  "dove": "recipes/gather.caves.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What has the sea ceded today?",
+  "dove": "recipes/gather.beachcombing.autumn.startdescription",
+  "ricorre": 4
+ },
+ {
+  "en": "What pilgrims pass in Numa?",
+  "dove": "recipes/gather.nests.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Wisdom?",
+  "dove": "recipes/gather.garden.needs.skill.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Brisk Swim",
+  "dove": "recipes/sea.swimming.label",
+  "ricorre": 5
+ },
+ {
+  "en": "A Brisk Swim?",
+  "dove": "recipes/sea.swimming.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Afterwards?",
+  "dove": "recipes/sea.swimming.slots.apres_swim.label",
+  "ricorre": 2
+ },
+ {
+  "en": "I'll plunge again into the waves...",
+  "dove": "recipes/sea.swimming.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll plunge again into the waves... and dry off afterwards.",
+  "dove": "recipes/sea.swimming.dry.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll plunge again into the waves... but swimming in a winter sea might be rash. [Make sure you have dry towels at the ready.]",
+  "dove": "recipes/sea.swimming.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll plunge again into the waves... though I have no dry towels.",
+  "dove": "recipes/sea.swimming.dry.damp.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll plunge again into the waves... though in the labyrinth season, something might be different.",
+  "dove": "recipes/sea.swimming.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It is difficult afterwards to remember what I felt, there among the billows. The waves have made their pilgrimage from the horizon. Now I am a pilgrim too.",
+  "dove": "recipes/sea.swimming.numa.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Never Again",
+  "dove": "recipes/sea.swimming.blocker.storm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The waves are hungry today. I'm not going swimming in a storm... well, not a second time.",
+  "dove": "recipes/sea.swimming.blocker.storm.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The waves raise me; the salt stings my eyes; the horizon waits.",
+  "dove": "recipes/sea.swimming.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "The waves raise me; the salt stings my eyes; the horizon waits. Afterwards, the towels are clean and soft. [By drying off afterwards, you've gained a Memory: Solace.]",
+  "dove": "recipes/sea.swimming.dry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The wind will be chilly, afterwards...",
+  "dove": "recipes/sea.swimming.slots.apres_swim.description",
+  "ricorre": 2
+ },
+ {
+  "en": "[Swimming requires an Element of the Soul with Heart and Scale - generally, this means Health.]",
+  "dove": "recipes/sea.swimming.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Fool of a Librarian!' [It is no longer possible to complete the game.]",
+  "dove": "recipes/well.renounce.journal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "(Plip.)",
+  "dove": "recipes/well.renounce.penny.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "(Plosh.)",
+  "dove": "recipes/well.renounce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "And the waves march on to the horizon.",
+  "dove": "recipes/sea.renounce.penny.numa.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "And the waves march on.",
+  "dove": "recipes/sea.renounce.penny.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Burn Correspondence",
+  "dove": "recipes/fire.renounce.correspondence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Do I really want to burn a book? Do I really want to burn <i>this</i> book? [THIS WILL DESTROY YOUR JOURNAL, which will make it IMPOSSIBLE TO COMPLETE THE GAME. You'll be stuck! But you can do it if you really want.]",
+  "dove": "recipes/fire.renounce.journal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Do I really want to fling my journal into the well? [THIS WILL DESTROY YOUR JOURNAL, which will make it IMPOSSIBLE TO COMPLETE THE GAME. You'll be stuck! But you can do it if you really want.]",
+  "dove": "recipes/well.renounce.journal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Does anything happen? Does an arm in white samite rise from the sea to accept the book? No. Only the water lapping on the beach, and the long ripple washing, as the old knight once said... and the White Flower has triumphed. [It is no longer possible to complete the game.]",
+  "dove": "recipes/sea.renounce.journal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I could release it to the waves, the winds, or the sands, as it prefers.",
+  "dove": "recipes/sea.release.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I cast an object into the fire, it will be transformed; destroyed; lost. [If the item is Brewable, add a Soul card to brew it instead of destroying it.]",
+  "dove": "recipes/fire.renounce.brewable.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I cast an object into the fire, it will be transformed; destroyed; lost. [Use this to dispose of junk, or of danger.]",
+  "dove": "recipes/fire.renounce.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I cast an object into the sea, it will be lost, perhaps irretrievably. [Use this to dispose of junk, or of danger.]",
+  "dove": "recipes/sea.renounce.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I drop an object into the well, I'm unlikely to see it again. [Use this to dispose of junk, or of danger.]",
+  "dove": "recipes/well.renounce.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My journal won't survive a second soaking. [THIS WILL DESTROY YOUR JOURNAL, which will make it IMPOSSIBLE TO COMPLETE THE GAME. You'll be stuck! But you can do it if you really want.]",
+  "dove": "recipes/sea.renounce.journal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Page by page, my future curls, blackens, disintegrates. Smoke curls thoughtfully, and then the Red Flower thrusts it aside. [It is no longer possible to complete the game.]",
+  "dove": "recipes/fire.renounce.journal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps this letter is irritating; or useless; or dangerous.",
+  "dove": "recipes/fire.renounce.correspondence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Release",
+  "dove": "recipes/sea.release.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Renounce",
+  "dove": "recipes/fire.renounce.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Renounce (or Brew?)",
+  "dove": "recipes/fire.renounce.brewable.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Renounce What Could Be",
+  "dove": "recipes/fire.renounce.journal.label",
+  "ricorre": 3
+ },
+ {
+  "en": "The flames leap up, and die away.",
+  "dove": "recipes/fire.renounce.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "The smallest of wishes. [Dispose of a stray penny.]",
+  "dove": "recipes/well.renounce.penny.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There were two of us, and now there's one.",
+  "dove": "recipes/sea.release.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "To give a coin to the sea at this season - once, this was said to be the toll due to Ys. [Dispose of a stray penny.]",
+  "dove": "recipes/sea.renounce.penny.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "When something is given to the sea it rarely returns... although, of course, I did.",
+  "dove": "recipes/sea.renounce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Why? Why not? [Dispose of a stray penny.]",
+  "dove": "recipes/sea.renounce.penny.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A book that matches their interests - or a spintria to pay for their services.",
+  "dove": "recipes/talk.visitor.show.slot.generic.slots.v.description",
+  "ricorre": 1
+ },
+ {
+  "en": "A book that matches their interests.",
+  "dove": "recipes/talk.visitor.show.slot.specific.slots.v.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Book",
+  "dove": "recipes/talk.visitor.show.slot.specific.slots.v.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Give or Take",
+  "dove": "recipes/talk.visitor.show.slot.generic.slots.v.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hire a Visitor",
+  "dove": "recipes/talk.visitor.hire.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hire a Visitor?",
+  "dove": "recipes/talk.visitor.hire.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hired.",
+  "dove": "recipes/talk.visitor.hire.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I can identify my visitor's interests, and satisfy them with an appropriate book. Alternatively, if they know a language I'd like to learn, I can offer payment. [Untrustworthy visitors might occasionally abscond with a book.]",
+  "dove": "recipes/talk.visitor.show.slot.generic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll hire this one for a day.",
+  "dove": "recipes/talk.visitor.hire.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "If I meet their price, I can hire them for a day.",
+  "dove": "recipes/talk.visitor.hire.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor has learnt nothing.",
+  "dove": "recipes/talk.visitor.show.slot.generic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "About...?",
+  "dove": "recipes/talk.visitor.what.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+  "dove": "recipes/talk.visitor.payment.language.cracktrack.tutor.desc",
+  "ricorre": 11
+ },
+ {
+  "en": "My visitor can teach me the rudiments of the primal language that we rather underwhelmingly call 'Cracktrack' - because there is no name for that language in that language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.cracktrack.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this bold language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.vak.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this dry language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.fucine.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this elegant language - with its name so notoriously difficult to spell in any language, including itself. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.ericapaean.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this enigmatic language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.sabazine.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this forgotten language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.henavek.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this lively language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.ramsund.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this resonant language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.mandaic.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this sly language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.hyksos.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can teach me the rudiments of this woven language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+  "dove": "recipes/talk.visitor.payment.language.killasimi.tutor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor has nothing to offer me just now.",
+  "dove": "recipes/talk.visitor.payment.nothing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Payment for...?",
+  "dove": "recipes/talk.visitor.payment.nothing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Cracktrack",
+  "dove": "recipes/talk.visitor.payment.language.cracktrack.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Deep Mandaic",
+  "dove": "recipes/talk.visitor.payment.language.mandaic.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Ericapaean",
+  "dove": "recipes/talk.visitor.payment.language.ericapaean.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Fucine",
+  "dove": "recipes/talk.visitor.payment.language.fucine.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Hyksos",
+  "dove": "recipes/talk.visitor.payment.language.hyksos.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Kernewek Henavek",
+  "dove": "recipes/talk.visitor.payment.language.henavek.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Killasimi",
+  "dove": "recipes/talk.visitor.payment.language.killasimi.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Ramsund",
+  "dove": "recipes/talk.visitor.payment.language.ramsund.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Sabazine",
+  "dove": "recipes/talk.visitor.payment.language.sabazine.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tutoring: Vak",
+  "dove": "recipes/talk.visitor.payment.language.vak.tutor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[Pick an Incident that will interest them; or offer them spintriae for tuition.]",
+  "dove": "recipes/talk.visitor.what.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'A prophet is without honour in his own country, as the saying has it; and I'm pretty much from everywhere these days, so I suppose no one will ever really take me seriously again. Mind if I take a look? I can point out a couple of the better bits. And I'll keep my gloves on.' [Peel will examine the book and return it to you. He won't leave until his other business is concluded.]",
+  "dove": "recipes/talk.visitor.intercept.arun.theradicalmeasure.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'A very great treasure, Librarian -'",
+  "dove": "recipes/talk.visitor.intercept.arthur.thesunsdesign.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Does the Sweet Bones still do that starygazy pie...? Perhaps I'll drop in on my way home. Come to think of it, that reminds me of a recipe. You have to hear this -'",
+  "dove": "recipes/talk.visitor.intercept.ehsan.theseadoesnotregret.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Every one of us still living - we all shed histories as a snake casts its skin. And I cast this history off long ago. I have no wish - no wish at all - to revisit it.'",
+  "dove": "recipes/talk.visitor.intercept.arun.theflayedtantra.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Here you go. And here I go.'",
+  "dove": "recipes/talk.visitor.intercept.arun.thevictoryofcrowns.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Here. And here. And the editor tried to take <i>that</i> bit out. So I arranged a motivational sort of dream. Worth it.'",
+  "dove": "recipes/talk.visitor.intercept.arun.theradicalmeasure.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I cannot read this script, Librarian, but I have seen it before, and it was translated to me - by one I held very dear. Long ago, you see, I made my own pilgrimage to the sanctuary of Elagabalus... though in that country they still call him Ilah al-Gabal. May I examine the stone?'  [Moore will examine the book and return it to you. He won't leave until his other business is concluded.]",
+  "dove": "recipes/talk.visitor.intercept.arthur.thesunsdesign.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I forgot I'd written in the Third History. Well well. Can I take a look? I'll keep my gloves on.' [Peel will examine the book and return it to you. He won't leave until his other business is concluded.]",
+  "dove": "recipes/talk.visitor.intercept.arun.collectedhushhouselectures.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had feared no copies yet remained! There is so much despite in the world - so much needless contumely - so much contempt for hard-earned wisdom - forgive me. I will purchase this treasure from you - if you are prepared to give it up. A gold spintria?' [Hokobald will take the book and depart, forgetting about any current Incident.]",
+  "dove": "recipes/talk.visitor.intercept.hokobald.bighuff.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I remember this - '",
+  "dove": "recipes/talk.visitor.intercept.stanislav.deathsandtheirevasions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'I see. I see. I <i>see</i>. Christopher. Christopher Christopher Christopher...'",
+  "dove": "recipes/talk.visitor.intercept.arun.theradicalmeasureglossed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm surprised that it's found its way here... but that's Hush House, I suppose. May I refresh my memory? I remember that I wrote about the Galmier business - not as cautiously as I might have...' [Stanislav will examine the book and return it to you. He won't leave until his other business is concluded.]",
+  "dove": "recipes/talk.visitor.intercept.stanislav.deathsandtheirevasions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've been trying to get my hands on this edition for quite some time. Once I have it, I can decide if I need to get my hands on young Illopoly. I'll give you a silver spintria for it?' [Peel will take the book, but won't leave until his other business is concluded.]",
+  "dove": "recipes/talk.visitor.intercept.arun.theradicalmeasureglossed.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've learnt a little more lore since then, but I hope you still find it useful. May I take a look?' [Ehsan will examine the book and return it to you. He won't leave until his other business is concluded.]'",
+  "dove": "recipes/talk.visitor.intercept.ehsan.fekrisherbary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If Death's direction is down, and Eternity's is up, which directions do we assign to Life and to History? It is a frequent topic of discussion, at the Labyrinth. I wonder, sometimes, if my teachers have nothing better to do with all those years of learning... but in the Labyrinth, more than any other place I have been, even Emesa, Sun and Stone and Silence are the first constants.'",
+  "dove": "recipes/talk.visitor.intercept.arthur.thesunsdesign.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'If there's one thing I wish I'd known back then, it's this...'",
+  "dove": "recipes/talk.visitor.intercept.ehsan.fekrisherbary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Is that...?'",
+  "dove": "recipes/talk.visitor.intercept.hokobald.bighuff.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Not a bad effort, that one -'",
+  "dove": "recipes/talk.visitor.intercept.ehsan.fekrisherbary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Not to everyone's taste, I know -'",
+  "dove": "recipes/talk.visitor.intercept.arun.theradicalmeasure.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oh my -'",
+  "dove": "recipes/talk.visitor.intercept.ehsan.theseadoesnotregret.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Old memories, Librarian! Some of them - well, some of those memories are better than others. Can I take a look?' [Ehsan will examine the book and return it to you. He won't leave until his other business is concluded.]",
+  "dove": "recipes/talk.visitor.intercept.ehsan.theseadoesnotregret.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ooh!'",
+  "dove": "recipes/talk.visitor.intercept.auntmopsy.snareofthetreecollectedproverbsofauntmopsy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Something, as it were, coming through.'",
+  "dove": "recipes/talk.visitor.intercept.arun.collectedhushhouselectures.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'That law I will not name aloud - the law of the three - it can be defied. It is rarely wise to attempt that defiance. The penalty of failure is paid by one - but the penalty of success, by many. I would ask you, Librarian, to remember that, when you decide how to address yourself to Eternity. But I already have faith in your judgement. Thank you for the loan of the book.'",
+  "dove": "recipes/talk.visitor.intercept.stanislav.deathsandtheirevasions.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'That publisher in Kerisham. I promised her if she did right by me, she'd never see me again. Well, dear, a promise is a promise, but a story is a story. If you let me touch that book, I promise I'll give it back.' [Aunt Mopsy will examine the book and return it to you. She won't leave until her other business is concluded.]'",
+  "dove": "recipes/talk.visitor.intercept.auntmopsy.snareofthetreecollectedproverbsofauntmopsy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Victory of Crowns?'",
+  "dove": "recipes/talk.visitor.intercept.arun.thevictoryofcrowns.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The glossed version?'",
+  "dove": "recipes/talk.visitor.intercept.arun.theradicalmeasureglossed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'There you are, dear. A little lesson for you. And another little lesson for you later.'",
+  "dove": "recipes/talk.visitor.intercept.auntmopsy.snareofthetreecollectedproverbsofauntmopsy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Undiplomatic, Librarian -'",
+  "dove": "recipes/talk.visitor.intercept.arun.theflayedtantra.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'You know that Oriflamme's was established in the same year as the Masque of Masques? But not the same history. So it's probably a concidence. Come closer, though, and I'll whisper you a footnote.'",
+  "dove": "recipes/talk.visitor.intercept.arun.collectedhushhouselectures.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'You know, I can never quite remember if that's actually one of mine. Or one of, um, another mine. Do you mind if I take it away with me? I'll swap you the other books I happen to be carrying. No, I won't tell you what those might be. Rocks are no sharper in the dark.' [Peel will take 'Crowns' and give you two books of unpredictable nature and origin. He won't leave until his other business is concluded.]",
+  "dove": "recipes/talk.visitor.intercept.arun.thevictoryofcrowns.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Aunt Mopsy has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.auntmopsy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coseley has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.julian.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Moore has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Blackwood has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Ibn al-Adim has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I have been so very greatly wronged. But I am capable of wreaking wrongs yet greater. My dear Librarian, <i>bon appetit</i>",
+  "dove": "recipes/talk.visitor.intercept.hokobald.bighuff.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Lord Bancroft has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.franklin.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Lt Moore has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Lee has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Magister Hokobald has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Agdistis has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Old Material",
+  "dove": "recipes/talk.visitor.intercept.tx.agdistis.label",
+  "ricorre": 24
+ },
+ {
+  "en": "Olympe has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Peel has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.rowena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Wakefield has already consulted this book. [A Visitor can only benefit once from each book; try another.]",
+  "dove": "recipes/talk.visitor.intercept.tx.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Um...'",
+  "dove": "recipes/talk.visitor.cantread.aramaic.label",
+  "ricorre": 15
+ },
+ {
+  "en": "My visitor can't read Aramaic. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.aramaic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Cracktrack. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.cracktrack.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Ericapaean. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.ericapaean.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Fucine. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.fucine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Greek. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.greek.startdescription",
+  "ricorre": 1
+ }
+]

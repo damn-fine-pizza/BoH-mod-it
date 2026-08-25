@@ -1,0 +1,37 @@
+{
+ "recipes": [
+  {
+   "id": "village.invite.timothy",
+   "label": "Invita il Rettore a un Salotto",
+   "startdescription": "Invita il Reverendo Timothy alla Hush House.",
+   "desc": "Il Reverendo Timothy è quasi senza parole per l’eccitazione... quasi. [Timothy ha mandato un dono in anticipo.]"
+  },
+  {
+   "id": "village.invite.denzil",
+   "label": "Invita il Fabbro alla Hush House",
+   "startdescription": "Invita Denzil alla Hush House.",
+   "desc": "Denzil china il capo in segno di ringraziamento. [Denzil ha mandato un dono in anticipo.]"
+  },
+  {
+   "id": "village.invite.killes",
+   "label": "Invita i Kille alla Hush House",
+   "startdescription": "Invita i Kille alla Hush House.",
+   "desc": "Mr Kille è chiaramente entusiasta, e resta cortese. Mrs Kille resta cortese, e forse è entusiasta anche lei: come sempre, è difficile dirlo. [I Kille hanno mandato un dono in anticipo.]"
+  },
+  {
+   "id": "village.invite.timothy.block.hint",
+   "label": "Non Proprio Ora – ",
+   "startdescription": "[Non puoi invitare Timothy a un Salotto se hai già invitato un abitante del villaggio o già tenuto un Salotto in questa Stagione.]"
+  },
+  {
+   "id": "village.invite.killes.block.hint",
+   "label": "Non Proprio Ora – ",
+   "startdescription": "[Non puoi invitare i Kille a un Salotto se hai già invitato un abitante del villaggio o già tenuto un Salotto in questa Stagione.]"
+  },
+  {
+   "id": "village.invite.denzil.block.hint",
+   "label": "Non Proprio Ora – ",
+   "startdescription": "[Non puoi invitare Denzil a un Salotto se hai già invitato un abitante del villaggio o già tenuto un Salotto in questa Stagione.]"
+  }
+ ]
+}

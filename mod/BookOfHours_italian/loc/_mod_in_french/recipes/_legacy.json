@@ -1,0 +1,19 @@
+{"recipes": [
+ 
+{"id": "world.corals.deeplight.delegacizing",
+"label": "Une altération miséricordieuse",
+"actionid": "world.corals.deeplight",
+"startdescription": "[Il y a une aberration ici. Appuyez sur Start, et le problème se résoudra de lui-même. Vous devrez peut-être ajouter un Élément d'Âme pour que le démarrage soit possible, mais vous ne perdrez ni ne fatiguerez rien.]",
+"aspects":{"delegacizing":1},
+"craftable":"true",
+"warmup":1
+
+},
+
+{"id": "daily.weather.numa",
+"label": "Météo du Jour: Numa",
+"startdescription":"Tirage de la Météo: Numa",
+"actionid": "weather",
+"extantreqs":{"season.numa":1}}
+]
+}

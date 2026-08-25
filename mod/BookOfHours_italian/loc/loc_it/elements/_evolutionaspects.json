@@ -1,0 +1,99 @@
+{
+ "elements": [
+  {
+   "id": "e.illumination",
+   "label": "Evolvi tramite l’Illuminazione",
+   "desc": "Potrei usare l’Illuminazione con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza dell’Illuminazione, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.horomachistry",
+   "label": "Evolvi tramite l’Oromachia",
+   "desc": "Potrei usare l’Oromachia con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza dell’Oromachia, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.ithastry",
+   "label": "Evolvi tramite l’Ithastria",
+   "desc": "Potrei usare l’Ithastria con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza dell’Ithastria, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.hushery",
+   "label": "Evolvi tramite la Silenzieria",
+   "desc": "Potrei usare la Silenzieria con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza della Silenzieria, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.nyctodromy",
+   "label": "Evolvi tramite la Nittodromia",
+   "desc": "Potrei usare la Nittodromia con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza della Nittodromia, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.skolekosophy",
+   "label": "Evolvi tramite la Scolecosofia",
+   "desc": "Potrei usare la Scolecosofia con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza della Scolecosofia, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.birdsong",
+   "label": "Evolvi tramite il Canto degli Uccelli",
+   "desc": "Potrei usare il Canto degli Uccelli con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza del Canto degli Uccelli, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.bosk",
+   "label": "Evolvi tramite il Boschetto",
+   "desc": "Potrei usare il Boschetto con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza del Boschetto, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "e.preservation",
+   "label": "Evolvi tramite la Preservazione",
+   "desc": "Potrei usare la Preservazione con questo per far evolvere la mia Anima. [Una volta assegnata un’abilità alla Sapienza della Preservazione, potrai usare quell’abilità con questo per combinare due carte Anima identiche in una più potente. Ma devi usare un’abilità che hai sintonizzato su quella Sapienza, e la sintonizzazione funzionerà una sola volta.]"
+  },
+  {
+   "id": "a.xhausted",
+   "label": "Sintonizzazione Compiuta",
+   "desc": "Questa abilità è già stata usata per far evolvere un Elemento dell’Anima."
+  },
+  {
+   "id": "a.xcho",
+   "label": "Sintonizzato: Chor",
+   "desc": "Questa abilità è sintonizzata sul mio Chor. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Chor. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Chor in una più forte.]"
+  },
+  {
+   "id": "a.xere",
+   "label": "Sintonizzato: Ereb",
+   "desc": "Questa abilità è sintonizzata sul mio Ereb. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Ereb. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Ereb in una più forte.]"
+  },
+  {
+   "id": "a.xfet",
+   "label": "Sintonizzato: Fet",
+   "desc": "Questa abilità è sintonizzata sul mio Fet. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Fet. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Fet in una più forte.]"
+  },
+  {
+   "id": "a.xhea",
+   "label": "Sintonizzato: Salute",
+   "desc": "Questa abilità è sintonizzata sulla mia Salute. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Salute. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Salute in una più forte.]"
+  },
+  {
+   "id": "a.xmet",
+   "label": "Sintonizzato: Mettle",
+   "desc": "Questa abilità è sintonizzata sul mio Mettle. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Mettle. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Mettle in una più forte.]"
+  },
+  {
+   "id": "a.xpho",
+   "label": "Sintonizzato: Phost",
+   "desc": "Questa abilità è sintonizzata sul mio Phost. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Phost. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Phost in una più forte.]"
+  },
+  {
+   "id": "a.xsha",
+   "label": "Sintonizzato: Shapt",
+   "desc": "Questa abilità è sintonizzata sul mio Shapt. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Shapt. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Shapt in una più forte.]"
+  },
+  {
+   "id": "a.xtri",
+   "label": "Sintonizzato: Trist",
+   "desc": "Questa abilità è sintonizzata sul mio Trist. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Trist. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Trist in una più forte.]"
+  },
+  {
+   "id": "a.xwis",
+   "label": "Sintonizzato: Wist",
+   "desc": "Questa abilità è sintonizzata sul mio Wist. [Quando hai assegnato questa Abilità all’Albero, hai ottenuto Wist. Trova un luogo con un aspetto Evolvi corrispondente: potrai usare l’Abilità – una sola volta – per combinare due carte Wist in una più forte.]"
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "elements": [
+  {
+   "id": "_opportunity"
+  },
+  {
+   "id": "o.ability",
+   "label": "Impegno Extra: Anima",
+   "desc": "Un’opportunità di aggiungere un Elemento Anima. [Attenzione: il fallimento potrebbe causare Malanni.]"
+  },
+  {
+   "id": "o.weather",
+   "label": "I Cieli Giusti: Meteo",
+   "desc": "Un’opportunità di usare una carta Meteo."
+  },
+  {
+   "id": "o.memory",
+   "label": "Basta Connettere: Memoria",
+   "desc": "Un’opportunità di aggiungere una Memoria, che verrà consumata."
+  },
+  {
+   "id": "o.comfort",
+   "label": "Conforto: Mobili Pertinenti",
+   "desc": "Possibile ispirazione da mobili pertinenti, o altri Comfort."
+  },
+  {
+   "id": "o.thing",
+   "label": "Roba: Anche Cose",
+   "desc": "Possibile ispirazione da una Cosa pertinente."
+  },
+  {
+   "id": "o.wallart",
+   "label": "Arte: È Educativa!!",
+   "desc": "Possibile ispirazione da un dipinto pertinente, o altra Arte da Parete"
+  },
+  {
+   "id": "o.awen",
+   "label": "Awen",
+   "desc": "Ispirazione divina? O solo il soffio d’aria giusto al momento giusto? [Questo stato d’animo aumenta certi aspetti.]"
+  },
+  {
+   "id": "o.epiphany",
+   "label": "Epifania",
+   "desc": "«Era compito dell’uomo di lettere registrare queste epifanie con estrema cura, considerando che esse stesse sono i momenti più delicati ed evanescenti.» – Joyce [Questo stato d’animo aumenta certi aspetti.]"
+  },
+  {
+   "id": "o.duende",
+   "label": "Duende",
+   "desc": "«Il duende è una forza, non una fatica, una lotta, non un pensiero.» – Lorca [Questo stato d’animo aumenta certi aspetti.]"
+  },
+  {
+   "id": "o.ubisunt",
+   "label": "«Ubi Sunt»?",
+   "desc": "«Dove sono i miei consanguinei? Dov’è colui che dona tesori? Dove sono i banchi a sostenerci? Le gioie della sala che ci riuniscono?» [Questo stato d’animo aumenta certi aspetti.]"
+  },
+  {
+   "id": "m.awen",
+   "label": "Awen",
+   "desc": "Ispirazione divina? O solo il soffio d’aria giusto al momento giusto? [Questo stato d’animo aumenta certi aspetti.]"
+  },
+  {
+   "id": "m.epiphany",
+   "label": "Epifania",
+   "desc": "«Era compito dell’uomo di lettere registrare queste epifanie con estrema cura, considerando che esse stesse sono i momenti più delicati ed evanescenti.» – Joyce \n\n [Questo stato d’animo aumenta certi aspetti.]"
+  },
+  {
+   "id": "m.duende",
+   "label": "Duende",
+   "desc": "«Il duende è una forza, non una fatica, una lotta, non un pensiero.» – Lorca \n\n[Questo stato d’animo aumenta certi aspetti.]"
+  },
+  {
+   "id": "m.ubisunt",
+   "label": "«Ubi Sunt»?",
+   "desc": "«Dove sono i miei consanguinei? Dov’è colui che dona tesori? Dove sono i banchi a sostenerci? Le gioie della sala che ci riuniscono?» \n\n[Questo stato d’animo aumenta certi aspetti.]"
+  }
+ ]
+}

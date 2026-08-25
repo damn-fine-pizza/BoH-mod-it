@@ -1,0 +1,2049 @@
+{
+ "recipes": [
+  {
+   "id": "slnev.echidna.echidnanodal",
+   "startdescription": "Echidna Nodal"
+  },
+  {
+   "id": "slnev.agdistis.aladim",
+   "startdescription": "Agdistis e al-Adim intrattengono una vivace chiacchierata sugli usi del canto degli uccelli nella previsione del tempo. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.agdistis.arthur",
+   "startdescription": "Arthur e Agdistis parlano, sottovoce e con serietà, delle assenze che lasciano cicatrici. «Mi manca ancora,» dice Arthur. Agdistis gli stringe la mano e cita in greco: «Rose al capo, gelsomino ai piedi…» [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.agdistis.arun",
+   "startdescription": "Agdistis e Arun discutono dei riti del Pelledituono in Frigia, India e Cipro… [Lezione: Tamburi & Danze]"
+  },
+  {
+   "id": "slnev.agdistis.azita",
+   "startdescription": "«Sei sogdiana, non è vero?» chiede Agdistis ad Azita. «Sono nata», conferma lei, «nel crepuscolo sogdiano, dopo l’arrivo di ibn Asad, quando la nostra lingua stava già scomparendo dal mondo... ma ricordo ancora qualcuna delle nostre canzoni, se è questo che stavi per chiedermi.» [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.agdistis.chaima",
+   "startdescription": "Agdistis è chiaramente felice di rivedere Chaima, e lei lo premia con un raro sorriso, luminoso come mica al chiaro di luna. Tornano a discutere delle danze delle montagne del Rif – da quando si sono visti l’ultima volta, lui vi si è recato di persona per impararle… [Lezione: Tamburi & Danze]"
+  },
+  {
+   "id": "slnev.agdistis.connie",
+   "startdescription": "Connie e Agdistis, inaspettatamente, discutono di uranoscopia: lei è incuriosita dai modi in cui la «danza» delle Ore e dei corpi celesti potrebbe fungere da fonte di informazione oromachica. Agdistis è spiazzato, ma fa del proprio meglio per stare al passo. [Lezione: Uranoscopia]"
+  },
+  {
+   "id": "slnev.agdistis.coquille",
+   "startdescription": "Agdistis e Coquille chiacchierano d’opera. Lui preferisce il tedesco; lei, l’italiano. [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.agdistis.corso",
+   "startdescription": "Agdistis e Corso chiacchierano di dottrina solare. Entrambi, a quanto pare, sono stati cresciuti nel Sole: entrambi ammettono un assurdo livello di senso di colpa per la loro assenza dalla chiesa nel Giorno del Sole. [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.agdistis.dagmar",
+   "startdescription": "Agdistis recita – con cautela – alcuni dei canti-di-lago delle streghe delle paludi del Fucino. «Mi trovo più a mio agio con la lingua frigia,» dice, «ma è saggio rendere alla Sorella ciò che le è dovuto.» [Lezione: Fucine]"
+  },
+  {
+   "id": "slnev.agdistis.douglas",
+   "startdescription": "Douglas è stato a uno spettacolo di <i>Incessante</i> di Keirle – per valutarne il pericolo onirico, non per piacere, ma ha portato Mrs Moore («biglietto gratis è sempre biglietto gratis») ed entrambi se lo sono goduti – Douglas molto più di quanto si aspettassero. Agdistis è più che felice di discutere dell’opera di Keirle. [Lezione: Tessitura & Annodatura]"
+  },
+  {
+   "id": "slnev.agdistis.ehsan",
+   "startdescription": "Ehsan e Agdistis discutono di tecniche di cucito per ricamare sigilli di guarigione in ferite che si stanno richiudendo – o sigilli di guida nei costumi. [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.agdistis.fraser",
+   "startdescription": "Fraser spera di finanziare un balletto, per contribuire ad accelerare lo sviluppo della natura della Croce nei suoi «parenti sotto la Croce»; spera di assumere Agdistis come coreografo. Agdistis è chiaramente diffidente, ma altrettanto chiaramente tentato. [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.agdistis.hokobald",
+   "startdescription": "Agdistis e Hokobald intrattengono una conversazione scrupolosamente cortese su acustica, risonanza e il suono delle campane nelle chiese di Londra. [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.agdistis.morgen",
+   "startdescription": "Agdistis e Morgen si scambiano notizie sull’amica di lui, e non-sorella di lei, la Ligeiana Sulochana (che, a quanto pare, fu a un certo punto l’istruttrice di danza di Morgen). Ora si trova in Georgia: Agdistis si chiede perché. «Medea,» dice Morgen, ma si rifiuta, con aria maliziosa, di sbottonarsi su cosa possa significare. [Lezione: Serpenti & Veleni]"
+  },
+  {
+   "id": "slnev.agdistis.olympe",
+   "startdescription": "Agdistis e Olympe parlano del tipo di ferite che le parole, usate come armi, possono causare – quelle grandi e quelle piccole. Parlano anche della creazione delle stelle – quelle grandi, e quelle piccole… [Lezione: Piroglifici]"
+  },
+  {
+   "id": "slnev.agdistis.serena",
+   "startdescription": "Agdistis e Serena discutono di una rappresentazione mascherata – una sorta di ibrido sufico degenerato – che lui vide ad Alessandria alcuni anni fa. «La rappresentavano soltanto,» dice, «nelle ore prima dell’alba.» Serena annuisce: «Penso fosse saggio.» [Lezione: Paradossi del Guardiano]"
+  },
+  {
+   "id": "slnev.agdistis.stanislav",
+   "startdescription": "Agdistis e Stanislav parlano di giardinaggio sotto vetro d’inverno. Il loro tono è paterno. [Lezione: Foglie & Spine]"
+  },
+  {
+   "id": "slnev.agdistis.yvette",
+   "startdescription": "Agdistis ascolta mentre Yvette espone le proprie teorie sui dipinti di Nina Lagasse: come, secondo Yvette, la sua scelta di colori nel corso degli anni dimostri che sapeva quando il proprio tempo si stava avvicinando alla fine. [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.agdistis.zachary",
+   "startdescription": "Zachary parla con entusiasmo staccato degli sforzi di sabotaggio poetico di qualcuno che chiama «Hammerbreaker». La sua voce resta piatta ma le sue mani si contraggono selvaggiamente: le sue dita battono un ritmo complesso sul tavolo. Agdistis ascolta con partecipazione. [Lezione: Putrefazioni & Calcinazioni]"
+  },
+  {
+   "id": "slnev.aladim.agdistis",
+   "startdescription": "Al-Adim e Agdistis spettegolano, a bassa voce, sulla patrona di al-Adim. «Non cento zampe,» dice al-Adim, «ma più di quante si penserebbe…» [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.aladim.arthur",
+   "startdescription": "Al-Adim chiede ad Arthur se abbia mai pensato di diventare Lungo, ma Arthur scuote la testa. «Troppi sacrifici – troppi altri ancora. So che la tua patrona è più mite. Ma non pagherò quel prezzo, né lascerò che altri lo paghino per me.» [Lezione: Contemplazioni Aurorali]"
+  },
+  {
+   "id": "slnev.aladim.arun",
+   "startdescription": "Al-Adim punzecchia Arun sulla potenza calante dei «tuoi veleni». Arun sta chiaramente scivolando nel broncio. [Lezione: Serpenti & Veleni]"
+  },
+  {
+   "id": "slnev.aladim.azita",
+   "startdescription": "Azita e al-Adim discutono delle varietà di uccelli-messaggeri e spiriti-corrieri di cui si sono serviti nel corso dei secoli della loro conoscenza. [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.aladim.chaima",
+   "startdescription": "Chaima ascolta con attenzione mentre al-Adim descrive le rare occasioni in cui dei labhite sono stati abbattuti con successo. Nessuno dei due sembra felice. [Lezione: Corna & Avori]"
+  },
+  {
+   "id": "slnev.aladim.connie",
+   "startdescription": "Connie e al-Adim discutono delle storie su Franklin Bancroft ed Eva Dewulf – teste vicine – sorridenti. Evidentemente il luogo li ha ispirati. [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.aladim.coquille",
+   "startdescription": "Al-Adim interroga cortesemente Coquille sulla sua famiglia e la sua natura. Sì, è associata alla Tomba delle Menzogne; no, non è più gradita là; sì, suppone di essere, tecnicamente, un pentimento… [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.aladim.corso",
+   "startdescription": "Al-Adim rievoca con Corso il ricordo di Yarden di Nishapur, che conosceva i «canti venuti prima del sole»… [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.aladim.dagmar",
+   "startdescription": "Al-Adim e Dagmar sono immersi in una discussione profondamente tecnica sull’accuratezza – e la possibile transitorietà – dei resoconti di Westergren sul Mansus. (Dagmar continua a ricordare, deferente, ad al-Adim di non aver mai oltrepassato la Porta del Cervo.) [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.aladim.douglas",
+   "startdescription": "Al-Adim intreccia racconti dei propri viaggi, sulle montagne della Persia, nella taiga dell’Estremo Oriente, tra le nevi dell’Antartide… Douglas ascolta, rapito. «A volte,» dice con voce burbera, «vorrei aver fatto le cose diversamente.» [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.aladim.ehsan",
+   "startdescription": "Ehsan e al-Adim discutono della cura e dell’alimentazione dei rapaci. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.aladim.fraser",
+   "startdescription": "Al-Adim, lo storico, e Fraser, il collezionista, dibattono sulla longevità e il pericolo dei loro Grandi Inchiostri preferiti. [Lezione: Inchiostri di Potere]"
+  },
+  {
+   "id": "slnev.aladim.hokobald",
+   "startdescription": "Hokobald espone la propria convinzione che il Grande Inchiostro chiamato Orpimento Esultante sia – o diventerà – un Nome del Chandler. Al-Adim ascolta dapprima con incredulità, ma poi con interesse scettico. [Lezione: Inchiostri di Potere]"
+  },
+  {
+   "id": "slnev.aladim.morgen",
+   "startdescription": "Al-Adim e Morgen discutono delle meditazioni dell’Abate Thomas di St Brandan’s. Morgen chiede ad al-Adim se abbia mai incontrato l’Abate. «Riconosco di essere piuttosto più vecchio di te,» risponde lui, un po’ rigido, «ma non sono vecchio <i>a quel punto</i>.» [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.aladim.olympe",
+   "startdescription": "Al-Adim e Olympe si scambiano racconti di incontri con i morti preumani: creature gentili che bramano un sole più rosso, e creature più affamate che cercano sangue umano per soddisfare quella brama. [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "slnev.aladim.serena",
+   "startdescription": "Al-Adim e Serena discutono dei Grandi Inchiostri di Potere e delle loro personalità. Serena è preoccupata che l’uso di un particolare inchiostro possa alterare il significato di un testo. Al-Adim considera questo un vantaggio; o un modo per aggiungere significato al testo; o quantomeno qualcosa di fondamentale. [Lezione: Inchiostri di Potere]"
+  },
+  {
+   "id": "slnev.aladim.stanislav",
+   "startdescription": "Al-Adim descrive i propri ricordi di Thirza Blake, e del suo lavoro, ai tempi in cui era Segretario Nunziante della Casa. È chiaramente diviso fra affetto e fastidio. Stanislav scuote la testa: «Vorrei averla conosciuta. Penso che saremmo andati d’accordo.» [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.aladim.yvette",
+   "startdescription": "Yvette parla della propria monografia su «La Svolta di Lagiah» – l’ascesa della Regina Insaziata a sedere alla sinistra del Graal Rosso – in cui sviluppa un’interpretazione junghiana coerente del mito. Al-Adim reagisce con scettico divertimento – sostiene di aver incontrato Lagiah – ma Yvette non si lascia scoraggiare. «Le cose non devono essere reali per essere vere», fa notare. [Lezione: Colle & Valle]"
+  },
+  {
+   "id": "slnev.aladim.zachary",
+   "startdescription": "Zachary e al-Adim parlano di come le cose finiscono; al-Adim con una sorta di nostalgia impaziente; Zachary con semplice impazienza. [Lezione: Putrefazioni & Calcinazioni]"
+  },
+  {
+   "id": "slnev.arthur.agdistis",
+   "startdescription": "Agdistis invita Arthur a fargli visita a Berlino, ma Arthur scuote la testa. «Posso fare a meno della tentazione. I vecchi legami sarebbero troppo per me. La Guerra, intendo. Sappiamo entrambi cosa sta arrivando.» [Lezione: Contemplazioni Aurorali]"
+  },
+  {
+   "id": "slnev.arthur.aladim",
+   "startdescription": "Arthur e al-Adim discutono dei tintori e delle tinture della città di Tiro. [Lezione: Inchiostri di Potere]"
+  },
+  {
+   "id": "slnev.arthur.arun",
+   "startdescription": "Arthur e Arun discutono su quali armi proibite dovrebbero essere permesse, e quali armi sono state permesse troppo a lungo. Arthur è preoccupato dalle voci sugli esperimenti Dawnbreaker in Gran Bretagna; Arun si vanta, un po’, delle proprie esperienze con la terribile piuma chiamata Imhullune Tectrix. [Lezione: Taglienti]"
+  },
+  {
+   "id": "slnev.arthur.azita",
+   "startdescription": "Arthur ha descritto i labirinti di specchi del Labirinto dei Leoni a una sorridente Azita – ma ora sembra farsi sospettoso dei motivi per cui lei lo interroga, e si ritira. [Lezione: Vetreria & Lucefabbro]"
+  },
+  {
+   "id": "slnev.arthur.chaima",
+   "startdescription": "Arthur e Chaima parlano di armi da fuoco. Chaima si mostra sprezzante riguardo all’affidabilità dei fucili Berthier un tempo in dotazione alla sua unità di Goumier, ma sia lei che Arthur sono vivamente interessati ai lavori recenti della ditta Manufacture d’Armes de Saint-Étienne… ed entrambi preoccupati di dove commissionare «munizioni nobili» per le nuove armi. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.arthur.connie",
+   "startdescription": "Arthur e Connie discutono, piuttosto rigidamente, dei progetti del Nuovo Re. Entrambi sembrano diffidare l’uno dell’altra. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.arthur.coquille",
+   "startdescription": "Coquille e Arthur discutono dei pericoli della famiglia; del Crimine del Cielo; della tragedia di Matthias e dell’Imago d’Ametista. Coquille è al massimo del proprio fascino, e Arthur è al massimo della propria vigilanza. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.arthur.corso",
+   "startdescription": "Arthur e Corso discutono di Ericapaean – una lingua che entrambi faticano a padroneggiare. Concordano di scriversi in quella lingua, sebbene Corso faccia notare che probabilmente farà aprire la loro posta dal Bureau di Soppressione. [Lezione: Ericapaean]"
+  },
+  {
+   "id": "slnev.arthur.dagmar",
+   "startdescription": "Dagmar e Arthur brindano alle glorie passate, ed elencano le guerre in cui le loro nazionalità mutevoli li hanno messi su fronti opposti. [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.arthur.douglas",
+   "startdescription": "Douglas saluta Arthur con una stretta di mano e uno «Zio». Arthur lo apostrofa sorridendo come «il giovane Douggie». Poi entrambi esitano, evidentemente alle prese col fatto che Douglas sembra vent’anni più vecchio di Arthur. Quando riprende a parlare, la voce di Douglas si incrina per un istante. Poi trascorrono il resto della serata a parlare in modo molto pratico dei Lunghi della Lama. [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.arthur.ehsan",
+   "startdescription": "Arthur ed Ehsan discutono del resoconto di Anaël Verdier sull’ascesa del «Mortale Insensato» fino alle vette del Mansus – forse persino fino alla Gloria – e di come lui, forse, sia riuscito dove tanti altri fallirono. «Ho imparato, nel tempo che ho passato qui» – Ehsan fa un gesto per indicare la Casa – «che può essere importante tanto chi assiste a un’impresa, quanto chi la compie.» Arthur annuisce, lentamente. [Lezione: Paradossi del Guardiano]"
+  },
+  {
+   "id": "slnev.arthur.fraser",
+   "startdescription": "Fraser, a quanto pare, ha ignorato gli avvertimenti di Arthur sull’Abisso di Althiban, e vi si è recato sperando di trovare un grande residuo della Croce del Carapace – forse persino un drago perduto. Proprio come Arthur lo aveva avvertito, ha trovato qualcosa che si è schiuso e cresciuto in un viticcio in decomposizione del Sette-Spire – qualcosa che aveva acquisito la natura del Verme. «Sapevo che era possibile per la Croce corrompersi», si lamenta, «ma avevo sperato di non doverlo mai vedere.» [Lezione: Spira & Baratro]"
+  },
+  {
+   "id": "slnev.arthur.hokobald",
+   "startdescription": "Hokobald sta tenendo una lezione ad Arthur sulla strategia e sulla tattica della Guerra delle Strade – nello specifico, i modi in cui le nature dei Sovrani della Fiamma Incatenata si manifestarono attraverso le loro scelte in battaglia. Arthur ascolta educatamente. [Lezione: Riflessi Meniscati]"
+  },
+  {
+   "id": "slnev.arthur.morgen",
+   "startdescription": "Morgen supplica sorridendo Arthur di parlarle della «Crepa nel Vetro» – la minaccia che Omar la Vampa individuò nel recinto di una fiamma sacra nel Labirinto dei Leoni. È al massimo del proprio fascino, e perfino Arthur – non certo un uomo di cui ci si aspetterebbe che sia sensibile al fascino di Morgen – si lascia ammorbidire abbastanza da lasciar cadere qualche indizio. [Lezione: Vetreria & Lucefabbro]"
+  },
+  {
+   "id": "slnev.arthur.olympe",
+   "startdescription": "Arthur e Olympe dibattono sull’ipotetica Città Non Costruita, la dimora del perfetto equilibrio. Olympe suggerisce che potrebbe essere realizzabile nelle Marche Lunari, o persino nella Casa della Luna. Arthur ritiene che sia meglio come ideale irraggiungibile – specialmente perché la Meniscate, l’Ora del perfetto equilibrio, è una delle tre Ore del Chancel, e le altre due potrebbero preferire limitare il suo potere proibendo la Città. [Lezione: Riflessi Meniscati]"
+  },
+  {
+   "id": "slnev.arthur.serena",
+   "startdescription": "Arthur parla della luce che si suppone dimorasse nel Bosco prima della venuta dei dèi-dalla-Luce: suggerisce che potrebbe essere il Sole più rosso degli dèi-che-erano-pietra. Serena pensa che sia semplicemente fuoco – «se mai possiamo dire “semplicemente” a proposito del Bosco.» [Lezione: Piroglifici]"
+  },
+  {
+   "id": "slnev.arthur.stanislav",
+   "startdescription": "Stanislav e Arthur discutono allegramente su quale tisana alle erbe abbia il gusto più disgustoso, e sia quindi più utile per accelerare la partenza degli ospiti che si attardano. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.arthur.yvette",
+   "startdescription": "Yvette è affascinata dal linguaggio dei segni chiamato Sabazine, in cui Arthur è esperto. Lui le insegna alcuni segni, ma lei si spaventa improvvisamente e gli chiede di smettere. [Lezione: Sabazine]"
+  },
+  {
+   "id": "slnev.arthur.zachary",
+   "startdescription": "Arthur e Zachary rievocano Londra di notte – come è cambiata, e come sono cambiati loro. [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.arun.agdistis",
+   "startdescription": "Arun e Agdistis discutono dei dettagli tecnici della scuoiatura, senza alcun particolare riguardo per l’effetto che ciò potrebbe avere sull’appetito di chiunque. [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.arun.aladim",
+   "startdescription": "Arun, compiaciuto: «Il viaggiatore sta sempre tornando. Chi non lo fa non è un viaggiatore.» Al-Adim, pungente: «Dillo alla mia patrona.» [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.arun.arthur",
+   "startdescription": "Arun e Arthur rievocano la città di Pune, sebbene Arun confidi di non averla visitata dai tempi dell’Impero Maratha. «Un esilio dopo l’altro; il destino del pentimento. L’esilio dà assuefazione. Anche questo, lo imparerai.» [Lezione: Falce & Eclissi]"
+  },
+  {
+   "id": "slnev.arun.azita",
+   "startdescription": "Arun e Azita parlano dei Tragulari, i «lanciatori di dardi» che un tempo usavano veleni esotici per dare la caccia agli immortali. Arun esprime disgusto per il ruolo del Colonnello nella creazione dei Tragulari, ma Azita non si scompone: «Buon esercizio. Onestamente, mi mancano.» Arun si rifiuta categoricamente di crederle. [Lezione: Taglienti]"
+  },
+  {
+   "id": "slnev.arun.chaima",
+   "startdescription": "Arun e Chaima parlano delle «Sorelle Minori» della Madre delle Formiche, a cui Chaima ha dato la caccia in passato. «Non ne restano molte in forma di serpente,» le dice Arun. «Il mondo cambia, e assumono forma umana. Come fecero i draghi.» [Lezione: Colle & Valle]"
+  },
+  {
+   "id": "slnev.arun.connie",
+   "startdescription": "Arun sta ponendo allegramente a Connie domande dettagliate sui legami fra il Bureau e la Calyptra. Connie, chiaramente in difficoltà nel reprimere la propria indignazione, risponde con tutta la diplomazia e l’evasività di cui è capace. [Lezione: Editti Inviolabili]"
+  },
+  {
+   "id": "slnev.arun.coquille",
+   "startdescription": "«Amavamo tutti Vak, a casa», sospira Arun. Coquille annuisce, gli occhi che brillano. «Ricordi le poesie che scrivemmo per lei? In altre lingue, ovviamente. Tranne me; io le scrissi una poesia in lei. Mi costò un bel guaio, per quello. Di nuovo.» Recita qualche verso, e Coquille batte le mani, deliziata. [Lezione: Vak]"
+  },
+  {
+   "id": "slnev.arun.corso",
+   "startdescription": "Arun e Corso discutono di uno stratagemma per rintracciare libri di valore osservando gli effetti del loro inchiostro sui sogni di chi sta nei paraggi, ma Corso scivola nel broncio quando diventa chiaro che Arun non prende sul serio l’idea. [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.arun.dagmar",
+   "startdescription": "Arun e Dagmar si salutano con gioia e sono presto impegnati in un altro giro del loro perenne gioco di indovinelli. «Qual è la differenza,» chiede Arun, «tra un Gemello?» Dagmar ruggisce felice: «Uno dei suoi Nomi è entrambi, ed è lo stesso!» [Lezione: Editti Liminali]"
+  },
+  {
+   "id": "slnev.arun.douglas",
+   "startdescription": "Douglas ha rintracciato il Lungo in divenire di cui Arun lo aveva avvertito l’ultima volta. Arun si congratula con lui; Douglas descrive, con disgusto, gli occhi vuoti delle vittime del suo bersaglio… [Lezione: Misteri Maggephene]"
+  },
+  {
+   "id": "slnev.arun.ehsan",
+   "startdescription": "Arun ed Ehsan – l’ex-skaptodonte, il forse-ex-Lungo del Battente – parlano di cosa significhi essere stati qualcosa che non si è più. Ehsan si lamenta di dover usare sia martelli che schiaccianoci, e anche che le sue articolazioni hanno iniziato a dolergli quando cambia il tempo. Arun si sfrega le bende sui polsi, e dice con rammarico: «Ma resistiamo; resistiamo.» [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.arun.fraser",
+   "startdescription": "Fraser ringrazia calorosamente Arun per il consiglio che gli aveva dato l’ultima volta sullo sviluppo delle ghiandole velenifere. Chiacchierano con arguzia sulle difficoltà di secernere veleno, e sugli effetti della dieta sulla sua potenza. [Lezione: Serpenti & Veleni]"
+  },
+  {
+   "id": "slnev.arun.hokobald",
+   "startdescription": "Arun e Hokobald dibattono sulla veridicità di una voce riguardo ai Lunghi dell’Inverno: che non possano generare né partorire figli, e possano quindi giacere insieme senza timore del Crimine del Cielo. Hokobald insiste che, anche fosse vero, la fecondità dei Lunghi del Graal – o il vigore dei Lunghi della Forgia – permetterebbe comunque il concepimento. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.arun.morgen",
+   "startdescription": "Morgen e Arun discutono dell’ordine appartato di Lunghi noto come gli Obliviat; del triplice giuramento che prestano, e del loro santuario nell’isola di Noon, di cui Morgen parla con affetto. [Lezione: Sacra Limiae]"
+  },
+  {
+   "id": "slnev.arun.olympe",
+   "startdescription": "Olympe cerca di arrivare al fondo delle opinioni di Arun sul Nuovo Re. Lui risponde solo per enigmi, ma lei sembra trovare le sue risposte illuminanti. [Lezione: Trasformazioni & Liberazioni]"
+  },
+  {
+   "id": "slnev.arun.serena",
+   "startdescription": "Arun e Serena discutono del manuale clandestino di inchiostri intitolato «Dalla Storia all’Eternità», e fanno congetture sull’identità del suo autore. Serena si chiede se possa essere stata Edith Abney-Hastings, ora Segretaria Notturna responsabile dell’intero Bureau di Soppressione, ma Arun sbuffa con disprezzo. [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.arun.stanislav",
+   "startdescription": "Arun e Stanislav confrontano i luoghi sacri dove è opportuno versare sangue; quelli dove versare sangue è gradito; e quelli dove si può versare solo il proprio. [Lezione: Riti delle Radici]"
+  },
+  {
+   "id": "slnev.arun.yvette",
+   "startdescription": "Yvette e Arun riprendono una conversazione carica di allusioni su un possibile intreccio fra Vak e Henavek. Ciascuno recita poesie nella propria lingua preferita. Non ci vuole molto perché avvicinino le sedie abbastanza da potersi sussurrare la poesia l’un l’altro all’orecchio. [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.arun.zachary",
+   "startdescription": "Zachary chiede ad Arun della leggendaria guerra fra i Grandi Principi Incappucciati e gli Obliviat. Arun lo gratifica del proprio sorriso triangolare. «Non fu proprio una guerra. Madre dalle Molte Braccia si offese semplicemente per alcuni dei loro riti. Be’, delle loro abitudini. Ed eravamo tutti ancora suoi figli...» [Lezione: Editti Liminali]"
+  },
+  {
+   "id": "slnev.azita.agdistis",
+   "startdescription": "Azita e Agdistis discutono dei ruoli giocati nel sostentamento del mondo dal Pelledituono («che non permette conclusione») e dalla Corrivalità (l’eterna contesa dei poteri della Lama). Concordano che sia una faccenda che si può affidare solo a Ore che hanno familiarità con la sofferenza... [Lezione: Editti Marziali]"
+  },
+  {
+   "id": "slnev.azita.aladim",
+   "startdescription": "Al-Adim e Azita rievocano l’epoca del loro primo incontro nella città di Damasco, nei giorni prima dell’arrivo di Timur. «Che bei combattimenti!» sospira lei. «Io preferivo la falconeria,» dice lui; e trascorrono un po’ di tempo a discutere di falconeria nel deserto. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.azita.arthur",
+   "startdescription": "Azita sta descrivendo le proprie esperienze nel Mansus ad Arthur – che, a quanto pare, non ha mai oltrepassato la Porta del Cervo, sebbene parli con affetto del suo guardiano. [Lezione: Paradossi del Guardiano]"
+  },
+  {
+   "id": "slnev.azita.arun",
+   "startdescription": "Azita e Arun parlano di conversazioni che entrambi ebbero tempo fa con la strega Ninegala di Lagash a proposito di Vak – identificata con la Porta del Pavone – e Calyptra. «La dea! Fu molto negativa per me», sospira Arun, «ma molto peggio per il povero Ghirbi. Fu così che sviluppò il proprio interesse per le porte. E per le dee.» [Lezione: Falce & Eclissi]"
+  },
+  {
+   "id": "slnev.azita.chaima",
+   "startdescription": "Chaima ascolta mentre Azita discute della morte del Dio-dalla-Pietra chiamato Sette-Spire, e della nascita della Madre delle Formiche. «Non credo sia stato bello a vedersi,» dice alla donna più giovane. «Ma mi chiedo se non possa essere stato comunque splendido.» [Lezione: Editti Marziali]"
+  },
+  {
+   "id": "slnev.azita.connie",
+   "startdescription": "Azita e Connie sono impegnate in negoziati inaspettatamente professionali per l’acquisto di gioielli talismanici, da parte del Bureau di Soppressione, dai contatti di Azita… [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.azita.coquille",
+   "startdescription": "«Il fiato è la tentazione dell’anima.» Azita e Coquille discutono dei modi in cui la bellezza può essere assorbita attraverso i polmoni; e Azita punta a un contatto con l’amico di Coquille, Giorgiou, il contrabbandiere di sigarette… [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.azita.corso",
+   "startdescription": "Corso e Azita sono entrambi incuriositi dal recente interesse del governo per le alchimie della Strada del Tramonto (e da cosa questo potrebbe significare per chi riuscisse, diciamo, a mettere le mani su opere perdute della Strada del Tramonto, anche opere di provenienza incerta.) [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.azita.dagmar",
+   "startdescription": "Azita sta negoziando l’uso della tenuta di Dagmar per immagazzinare un carico di «automi da intrattenimento»; ma Dagmar deve prima accertarsi che «di certo non possano uccidere nessuno. Specialmente» (aggiunge) «nessuno di importante.» [Lezione: Serrature & Orologi]"
+  },
+  {
+   "id": "slnev.azita.douglas",
+   "startdescription": "Douglas sta indagando su attacchi che sospetta possano essere opera dei Nomi della Lama noti come i Multialati; chiede ad Azita un resoconto sulla loro natura e sulle loro probabili mosse. Lei acconsente, sebbene insista ripetutamente sul fatto che questi Multialati debbano essere al servizio del Leonfabbro, non del Colonnello... [Lezione: Contemplazioni Aurorali]"
+  },
+  {
+   "id": "slnev.azita.ehsan",
+   "startdescription": "Azita, la devota del Colonnello, ascolta Ehsan, che un tempo servì il Leonfabbro, spiegare la propria concezione della Corrivalità. «Le Storie non sono, credo, intrecciate, ma tessute. La Corrivalità, avanti e indietro fra i nostri padroni» – fa un gesto – «come una spola su un telaio...» [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.azita.fraser",
+   "startdescription": "Fraser e Azita stanno concordando un accordo complesso che coinvolge un’operazione di allevamento ovino di Azita in Medio Oriente. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.azita.hokobald",
+   "startdescription": "L’ultima volta, Azita e Hokobald fecero un braccio di ferro, e sebbene lui avesse vinto, si ruppe il polso. Questa volta, lui pretende una rivincita. Azita rifiuta; dopo qualche minuto di insistenze gli dice, con un lampo di stizza, che l’ultima volta lo ha lasciato vincere, e che non sarà altrettanto fortunato la prossima. Hokobald, furioso, si rifiuta di crederle; passano la mezz’ora successiva a discutere i meriti della forza inarrestabile e dell’oggetto inamovibile. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.azita.morgen",
+   "startdescription": "Azita e Morgen confrontano le proprie cacce alla «preda eretta». Morgen osserva con disapprovazione che, a differenza di Azita, lei non caccia mai per piacere. Azita inarca le sopracciglia e le lascia inarcate finché Morgen non si scioglie in risatine argentee. [Lezione: Corna & Avori]"
+  },
+  {
+   "id": "slnev.azita.olympe",
+   "startdescription": "Olympe sta scrivendo un romanzo in cui uno dei personaggi è una contrabbandiera di gioielli, e spera che Azita possa aiutarla nelle ricerche. Azita è comprensibilmente sospettosa, nonostante le ripetute rassicurazioni di Olympe che nulla di tutto ciò sarà messo agli atti, ma si rilassa abbastanza da «parlare di rubini» una volta che Olympe le spiega che la protagonista è ispirata a Dagmar. [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.azita.serena",
+   "startdescription": "Azita e Serena discutono di coloro che hanno fatto scelte inaspettate su come diventare Lunghi. Azita chiede a Serena cosa prenderebbe in considerazione, ma Serena scuote la testa: «Non ora che gli Obliviat sono andati a Ovest. E anche se non lo avessero fatto, dubito che avrei potuto indurire il cuore abbastanza.» [Lezione: Riflessi Meniscati]"
+  },
+  {
+   "id": "slnev.azita.stanislav",
+   "startdescription": "Azita e Stanislav discutono dei Nomi del Pelledituono – i sette Strumenti le cui musiche sostengono il suo ritmo. Azita ripete la tradizione secondo cui un duendrazon che ha conosciuto sette cesure diventa idoneo a sostituire uno Strumento. Stanislav scuote la testa. «Duendrazones. Una scelta strana, ho sempre pensato, diventare eternamente coscienti, per poi inseguire così la cesura...» [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.azita.yvette",
+   "startdescription": "Yvette chiede ad Azita della diade della Lama Torgue e Dearday, con cui è nota per andare a bere ogni secolo o due. Yvette menziona (con noncuranza?) di aver sempre avuto un debole per Dearday. Gli occhi di Azita luccicano: «Ma guarda un po’.» [Lezione: Editti Marziali]"
+  },
+  {
+   "id": "slnev.azita.zachary",
+   "startdescription": "Azita e Zachary discutono di come mantenere un delicato equilibrio, nell’occulto come nel personale; e anche di come disfarsi dei cadaveri. [Lezione: Falce & Eclissi]"
+  },
+  {
+   "id": "slnev.chaima.agdistis",
+   "startdescription": "Chaima sta descrivendo ad Agdistis una delle danze delle Montagne del Rif, la sua terra. Le spalle le fremono come se volesse mostrargliela, ma la sua dignità la mantiene seduta. Dal suo sorriso gentile, si capisce che Agdistis se n’è accorto. [Lezione: Tamburi & Danze]"
+  },
+  {
+   "id": "slnev.chaima.aladim",
+   "startdescription": "Chaima e al-Adim confrontano tecniche di navigazione. [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.chaima.arthur",
+   "startdescription": "Chaima e Arthur discutono delle difficoltà delle campagne nel deserto, in Algeria e in Persia; della limpidezza delle stelle; dell’onnipresenza della sabbia; dei racconti narrati sul bordo dell’acqua. [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.chaima.arun",
+   "startdescription": "Arun racconta storie dei tempi in cui era ancora annoverato fra i Grandi Principi Incappucciati – storie delle guerre indirette che condussero contro gli invasori della loro patria adottiva – i fiumi che risvegliarono, i leoni che crearono… [Lezione: Editti Marziali]"
+  },
+  {
+   "id": "slnev.chaima.azita",
+   "startdescription": "Chaima e Azita discutono dei dardi dei Tragulari, l’ordine che un tempo dava la caccia agli immortali – la loro forgiatura, la loro sagomatura, e le piccole spregevoli maledizioni poste su di essi per rafforzare i veleni che portavano. [Lezione: Taglienti]"
+  },
+  {
+   "id": "slnev.chaima.connie",
+   "startdescription": "Chaima e Connie discutono – con tristezza – dei «khalvite», quei labhite che hanno scelto di bere ciò che Echidna offre… [Lezione: Storie di Lupo]"
+  },
+  {
+   "id": "slnev.chaima.coquille",
+   "startdescription": "Chaima e Coquille discutono della «poesia dei serpenti» – i segni che si possono leggere dalle loro tracce, per la caccia e per altri scopi. Coquille sembra inaspettatamente esperta di serpenti… [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.chaima.corso",
+   "startdescription": "Corso ascolta con attenzione mentre Chaima descrive un brutto pasticcio con le Bande dei Conteggiatori – gli strozzini degli anni di vita – risalente agli anni Venti… [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.chaima.dagmar",
+   "startdescription": "Dagmar è tornata dalla Pentapoli Mozabita («nessuna traccia della mia amica, probabilmente se l’è mangiata qualcuno, ma posto incantevole, fa venire a una ragazza la voglia di saper dipingere»). È piena di notizie sulla regione, e Chaima è impaziente di ascoltarle. Sebbene Dagmar sembri ancora convinta che si chiami «Charlie». [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.chaima.douglas",
+   "startdescription": "Chaima e Douglas discutono del film sperimentale di Ilse Bischoff, <i>La Testa Aperta</i>. «L’ho visto ad Alessandria,» offre Chaima. «Penso che forse fosse ispirata da un sogno del Chandler – che quando emergerà, emergerà dalla guerra – e dalla conoscenza condivisa incautamente.» Douglas succhia la pipa. «Mrs M voleva vederlo,» dice cupo. «Le piace anche quel Buñuel.» Succhia di nuovo la pipa. «A me non piace quel Buñuel.» [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.chaima.ehsan",
+   "startdescription": "Chaima intende dare la caccia a una delle <i>striges</i>, i Multialati, che a volte servono il Colonnello e a volte il Leonfabbro. Chiede a Ehsan quale esca dovrebbe usare, e lui risponde senza esitazione: «Pettegolezzi». [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.chaima.fraser",
+   "startdescription": "Fraser sta interrogando Chaima sui percorsi attraverso il deserto algerino. [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.chaima.hokobald",
+   "startdescription": "Chaima ipotizza sul modo in cui potrebbe dare la caccia a Hokobald e sconfiggerlo. Hokobald descrive il modo in cui potrebbe intrappolarla e divorarla. È difficile essere certi di quanto ciascuno dei due si stia davvero godendo la conversazione. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.chaima.morgen",
+   "startdescription": "Chaima chiede a Morgen, senza mezzi termini, se lei – e le altre Ligeiane – siano nomi dei Gemelli. Morgen risponde con teatrale sconcerto; fa allusioni che suggeriscono di sì; ne fa altre che lasciano intendere che sia associata al Graal, alla Meniscate, o all’Ossanera. [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.chaima.olympe",
+   "startdescription": "Verso la fine del pasto, Chaima parla, dapprima con riluttanza, di ciò che chiama «le orme del vento». Lo dimostra incidendo il tavolo con il proprio coltello: segni nella lingua chiamata informalmente «Cracktrack». I segni, spiega Chaima, sono il resoconto di una delle sue cacce, sebbene non voglia nominare la preda in nessuna lingua umana. [Lezione: Cracktrack]"
+  },
+  {
+   "id": "slnev.chaima.serena",
+   "startdescription": "Chaima descrive la propria sconfitta nei Confini per mano di un «guardiano di porta» che chiama Forculus. Serena, affascinata, cerca di farla parlare: Forculus è davvero un Nome di Janus? Janus, allora, è reale? Chaima nega interesse per entrambe le domande – e aggiunge sottovoce che è imprudente da parte di Serena porle. [Lezione: Contemplazioni Aurorali]"
+  },
+  {
+   "id": "slnev.chaima.stanislav",
+   "startdescription": "Stanislav e Chaima discutono della cura delle ferite causate da grandi bestie: labhite e skaptodon; tarrasque e raveleur; e i grandi serpenti chiamati Sorelle Minori per la loro parentela con la Madre delle Formiche. [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.chaima.stanislav.ehsan",
+   "startdescription": "Stanislav, Chaima ed Ehsan discutono della cura delle ferite causate da grandi bestie: tarrasque e raveleur; i grandi serpenti chiamati Sorelle Minori per la loro parentela con la Madre delle Formiche; labhite e skaptodon. Quando Chaima menziona gli skaptodon, Stanislav lancia un’occhiata di sbieco a Ehsan. Ehsan fa un gesto della mano come per liquidare la cosa, sorridendo: ma subito dopo, un vecchio dolore gli attraversa il volto. [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.chaima.yvette",
+   "startdescription": "Chaima chiede a Yvette di interpretare un sogno – di una distesa bianca a occidente del mondo dove muti pallidi arrossano la neve con il sangue di un toro… [Lezione: Storie di Neve]"
+  },
+  {
+   "id": "slnev.chaima.zachary",
+   "startdescription": "Chaima e Zachary discutono di rimpianti, da cacciatore a cacciatore. [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.connie.agdistis",
+   "startdescription": "Ancora una volta, Connie e Agdistis discutono di uranoscopia. Lei ha fatto indagare alcuni dei suoi uomini su alcune delle idee di Agdistis, e il suo volto è serio. «Molto più di un’eclissi», dice cupamente. «Forse persino una Guerra nel Sole.» [Lezione: Uranoscopia]"
+  },
+  {
+   "id": "slnev.connie.aladim",
+   "startdescription": "Ancora una volta, Connie e al-Adim discutono di Eva Dewulf e Bancroft. Connie sorseggia dal proprio bicchiere, osservandolo mentre si china in avanti per recitare la poesia di Bancroft. [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.connie.arthur",
+   "startdescription": "Connie e Arthur discutono del lavoro di Teresa Galmier sull’enigmatico potere noto come «Janus», con una cortesia professionale un po’ tesa. [Lezione: Paradossi del Guardiano]"
+  },
+  {
+   "id": "slnev.connie.arun",
+   "startdescription": "L’ultima volta, Arun interrogava Connie su possibili legami fra Calyptra e il Bureau. Si è chiaramente documentato: questa volta, la delizia con una disquisizione sulle proprie teorie in materia. Lei sembra apprezzarla ancora meno. [Lezione: Editti Inviolabili]"
+  },
+  {
+   "id": "slnev.connie.azita",
+   "startdescription": "L’ultima volta che erano entrambe qui, Connie organizzò l’acquisto di gioielli talismanici da Azita. A quanto pare la faccenda ebbe successo: ora Connie e Azita discutono dello stanziamento di fondi del Bureau per un’impresa di pesca delle perle… [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.connie.chaima",
+   "startdescription": "Chaima e Connie parlano, molto sottovoce, dei sette alukite che compongono il Ligeia Club…. [Lezione: Storie di Lupo]"
+  },
+  {
+   "id": "slnev.connie.chaima.morgen",
+   "startdescription": "Chaima e Connie parlano, molto sottovoce, dei sette alukite che compongono il Ligeia Club….con frequenti occhiate di sbieco verso Morgen, che sfoggia un sorriso alla Morgen. [Lezione: Storie di Lupo]"
+  },
+  {
+   "id": "slnev.connie.coquille",
+   "startdescription": "Connie e Coquille discutono di recenti naufragi, e di un possibile legame con Ys… [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.connie.corso",
+   "startdescription": "Connie sta interrogando un Corso chiaramente nervoso sui contenuti e la storia del libro noto come le «Supplicazioni di Calicite»… e la recente scomparsa della copia del Bureau. [Lezione: Tridesma Hiera]"
+  },
+  {
+   "id": "slnev.connie.dagmar",
+   "startdescription": "Connie e Dagmar discutono di una piccola organizzazione religiosa, l’Alba d’Avorio, il cui interesse per Ys preoccupa Connie. [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.connie.douglas",
+   "startdescription": "Douglas e Connie parlano di lavoro; il genere di lavoro che li obbliga a versare del sale sul tavolo dopo aver nominato certe entità, e a non nominarne affatto altre, ma piuttosto a riferirsi a loro come «quella regale e spinosa», «quella bluastra dal caratteraccio», e «quella lucida». [Lezione: Misteri Maggephene]"
+  },
+  {
+   "id": "slnev.connie.ehsan",
+   "startdescription": "Ehsan e Connie discutono del diritto <i>sicut regale</i>, «come un re», assegnato ai Dewulf – i diritti riservati ai Signori di Marca, sebbene Brancrug non sia affatto vicina alle Marche Gallesi. «Credo che Brancrug si sia talvolta trovata nelle Marche della Luna», concorda Ehsan, «ma non ai miei tempi. Il pericolo si è ritirato, come sempre accade. Ma Ys perdura, come sempre accade.» [Lezione: Misteri Maggephene]"
+  },
+  {
+   "id": "slnev.connie.fraser",
+   "startdescription": "Connie e Fraser discutono animatamente sul possibile ritorno della Croce del Carapace. Connie, naturalmente, lo vede come una minaccia; Fraser, inevitabilmente, lo vede come un’opportunità. [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.connie.hokobald",
+   "startdescription": "Connie interroga Hokobald con insistenza su recenti manifestazioni mefitiche al confine svizzero-tedesco. Hokobald nega ogni coinvolgimento, e sostiene in modo plausibile che potrebbero essere i primi segni dell’emergere di un altro Nome del Chandler… [Lezione: Piroglifici]"
+  },
+  {
+   "id": "slnev.connie.morgen",
+   "startdescription": "Connie rivolge a Morgen domande caute e neutre sul suo legame con il Graal Rosso, l’Ora della Nascita e dell’appetito. Morgen condivide con noncuranza i propri ricordi, ma insiste sul fatto che, fra tutte le sue non-sorelle, è quella «meno graalesca». [Lezione: Tridesma Hiera]"
+  },
+  {
+   "id": "slnev.connie.olympe",
+   "startdescription": "Olympe incalza Connie sulla soppressione, da parte del Bureau, delle registrazioni di «Aprire il Cielo» di Verro. Connie si gode evidentemente il duello verbale con lei: c’erano buone ragioni; è forse un’intervista, Olympe; troppe domande per non essere un’intervista; e così via. Sebbene quando Olympe menziona la parola «Chandler», diventi un po’ più stizzita. [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.connie.serena",
+   "startdescription": "Connie e Serena dibattono se gli dèi-dal-Nessun Luogo dimorino abitualmente nel Nessun Luogo, siano costretti a fare ritorno nel Nessun Luogo, o portino il Nessun Luogo con sé. [Lezione: Misteri Maggephene]"
+  },
+  {
+   "id": "slnev.connie.stanislav",
+   "startdescription": "Connie sta indagando su racconti di qualcosa descritto come «Spinnennebel» – una sorta di vapore-di-ragno – che ha iniziato a manifestarsi in Germania e nei Paesi Bassi. Stanislav non ne ha sentito parlare, ma concorda che non somiglia affatto ad Alveare, né a Nido, né a Crisalide… [Lezione: Insetti & Nettari]"
+  },
+  {
+   "id": "slnev.connie.yvette",
+   "startdescription": "«La lingua dei Quattro Quadranti.» Connie scuote la testa. «L’ho imparata là fuori, prima di entrare nel Bureau. Se ne parlo troppo, rovinerò l’atmosfera. Ma ecco qualche indicazione.» [Lezione: Killasimi]"
+  },
+  {
+   "id": "slnev.connie.zachary",
+   "startdescription": "Zachary chiede a Connie consiglio su un piano per gestire lo sviluppo della propria condizione con tatuaggi-di-contenimento. «Vorrei che fossi venuto da me prima», sospira lei. Ma naturalmente gli offre tutto l’aiuto che può. [Lezione: Inchiostri di Contenimento]"
+  },
+  {
+   "id": "slnev.coquille.agdistis",
+   "startdescription": "Coquille e Agdistis parlano di danza contemporanea. [Lezione: Tamburi & Danze]"
+  },
+  {
+   "id": "slnev.coquille.aladim",
+   "startdescription": "Al-Adim e Coquille tornano a schermagliare verbalmente. Lei gli chiede senza mezzi termini della natura della sua condizione di Lungo; lui le dice di aver «trovato la propria patrona nel deserto.» Lui le chiede se sia «rilevante per Clogg»; lei finge indignazione per la domanda sulla propria età, e dirà soltanto di avere meno di un secolo. [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.coquille.arthur",
+   "startdescription": "Ancora una volta, Arthur e Coquille discutono dei pericoli della famiglia, della nascita, e del matrimonio. Coquille ha cominciato a lasciar intendere che gradirebbe una presentazione a uno dei parenti più giovani e di miglior partito di Arthur. Un ricciolo di capelli scuri le ricade senza artificio su una guancia perfetta. I suoi denti e i suoi occhi sono molto luminosi. Arthur, imperturbabile come una fortezza sotto il fuoco, riporta ripetutamente la conversazione sugli affari di sangue. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.coquille.arun",
+   "startdescription": "Coquille e Arun hanno scoperto di avere famiglia in comune nel subcontinente da cui sono stati entrambi esiliati. Chiacchierano avidamente delle manifestazioni dei tratti di famiglia nei loro cugini; delle loro trasformazioni e del loro sviluppo; dei loro parenti appena schiusi. [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.coquille.azita",
+   "startdescription": "Ancora una volta, Coquille e Azita discutono delle «tentazioni dell’anima» rese possibili dall’inalazione di essenze aromatiche. Coquille è contrariata perché il suo amico e fornitore Giorgiou è scomparso; si chiede se Azita lo considerasse un concorrente fastidioso. Azita nega blandamente ogni responsabilità. [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.coquille.chaima",
+   "startdescription": "Coquille sta descrivendo «la poesia dei serpenti» a una Chaima vigile e silenziosa. Gli occhi di Coquille brillano come agata; i suoi denti sembrano più prominenti del solito; persino il suo modo di parlare si è fatto più sibilante. [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.coquille.connie",
+   "startdescription": "Coquille e Connie discutono delle voci sulla relazione fra Franklin Bancroft ed Eva Dewulf, più di duecento anni fa; sulla partenza di Bancroft e sul figlio che potrebbero aver avuto. «È bello essere adottati in una famiglia amorevole,» dice Coquille sorridendo, ma non si lascia tirare fuori altro su cosa intenda. [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.coquille.corso",
+   "startdescription": "Corso sta cercando di impressionare Coquille con una lunga tirata sul Nome noto come l’Eccellenza Gnathobasis, in cui quasi – ma non del tutto – lascia intendere di averlo incontrato. Coquille non è impressionata. Ma continua a sorridere, e lui continua a parlare. [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.coquille.dagmar",
+   "startdescription": "La conversazione di Dagmar e Coquille sui Grandi Segni e le Grandi Cicatrici viene ripetutamente interrotta dai tentativi di Dagmar di presentare Coquille a un «margravio molto simpatico». [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.coquille.douglas",
+   "startdescription": "Douglas si volta verso Coquille e scuote tristemente il capo. «C’è un mandato per te. Se te ne vai subito ti do un vantaggio, ma il Sergente Heaton ha già fermato il tuo autista al Sweet Bones. Dovrai tentare con le scogliere.»\n\nOsserva gli occhi di Coquille spalancarsi, aspetta il tempo di contare fino a tre, e dice con grande soddisfazione: «Oh, no, stavo pensando a qualcun altro.»\n\nDa quel momento in poi, i due vanno molto d’accordo. [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.coquille.ehsan",
+   "startdescription": "Coquille sta stuzzicando Ehsan riguardo alle possibilità mediche offerte dall’influenza dell’Applebright. Lui non la trova divertente. [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.coquille.fraser",
+   "startdescription": "Coquille e Fraser discutono del passaggio dei Grandi Principi (e Principesse) Incappucciati fra le Storie. Lui chiede se ci fossero ancora membri della Croce del Carapace attivi nella Quinta Storia, ma lei non gli risponde. [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.coquille.hokobald",
+   "startdescription": "Coquille sta civettando in modo sfacciato con Hokobald. Lui tiene il capo inclinato da un lato e la fissa con uno sguardo da fornace che potrebbe indicare tanto lussuria quanto fame. Ha la bocca striata di saliva. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.coquille.morgen",
+   "startdescription": "Coquille e Morgen sono avvinte in una gelida guerra di complimenti. [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.coquille.olympe",
+   "startdescription": "Coquille e Olympe confrontano i ristoranti di Tiflis. Coquille insiste che il posto sia andato in declino dopo la fondazione della Repubblica Socialista; Olympe ribatte che basta sapere dove guardare. [Lezione: Spezie & Sapori]"
+  },
+  {
+   "id": "slnev.coquille.serena",
+   "startdescription": "Coquille e Serena discutono dei leggendari «Sentieri del Sole» attraverso il Mansus, un tempo riservati al Sole indiviso, chiedendosi se i sé scissi del Sole – come il Lupo e la Madrugad – ora li percorrano. Coquille ipotizza che se la Meniscate li percorre, questo potrebbe spiegare alcune delle storie sull’ombra-Mansus talvolta chiamata la Casa della Luna... [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.coquille.stanislav",
+   "startdescription": "Coquille si vanta con Stanislav della topiaria mangia-bambini del palazzo del suo ultimo padre. Non è chiaro se lui le creda o no. [Lezione: Foglie & Spine]"
+  },
+  {
+   "id": "slnev.coquille.yvette",
+   "startdescription": "Coquille chiede a Yvette cosa sappia della stirpe di Kelemdu, la «Colomba Nera». Yvette descrive una leggenda popolare Henavek in cui la Colomba Nera riceve la custodia delle Marche Lunari dallo stesso Henavek – una leggenda popolare associata a Brancrug. [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.coquille.zachary",
+   "startdescription": "Zachary e Coquille discutono dei modi in cui le Ore «trattengono e restringono» le proprie rivalità, per prevenire una guerra nel Mansus. Zachary sente che le «trattenute e restrizioni» si stanno indebolendo. Coquille sembra elettrizzata dalla prospettiva, ma Zachary scuote la testa da un lato all’altro in segno di diniego. «I Vermi», sussurra. [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.corso.agdistis",
+   "startdescription": "Agdistis e Corso chiacchierano amichevolmente di come sono cresciuti nelle vie del Sole. A quanto pare erano entrambi chierichetti. («Lo so, lo so,» dice Corso. «Poi ho iniziato a fumare.») [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.corso.aladim",
+   "startdescription": "Corso è ansioso di saperne di più su Yarden di Nishapur, che al-Adim potrebbe aver conosciuto tempo fa… sebbene al-Adim si faccia più freddo quando l’interesse di Corso si cristallizza in curiosità sulla posizione di alcuni testi di valore. [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.corso.arthur",
+   "startdescription": "Corso e Arthur, a quanto pare, si sono scritti maldestramente in un Ericapaean imparato a metà. Arthur ha fatto più progressi: spiega, molto sottovoce, di aver avuto l’aiuto di Julian Coseley. «È davvero vivo?» chiede Corso con scetticismo. «Vivo? Cosa vuol dire vivo?» risponde Arthur. «L’Impero è vivo?» [Lezione: Ericapaean]"
+  },
+  {
+   "id": "slnev.corso.arun",
+   "startdescription": "Corso e Arun ridacchiano insieme delle teorie di Musgrave Dewulf sul Grande Inchiostro Porfirina. [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.corso.azita",
+   "startdescription": "Corso e Azita discutono di lettere scoperte di recente, presumibilmente inviate dall’Abbadessa Melancthe a Gunnhild, figlia di Harold. Le loro riflessioni sui contenuti sono punteggiate da stime spudorate del loro possibile valore. [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.corso.chaima",
+   "startdescription": "«Lingua odiosa», dice Corso cupamente. «Ma è difficile smettere di parlarla una volta iniziato, sai, Chaima? Anche quando ci si impantana in un guaio.» [Lezione: Hyksos]"
+  },
+  {
+   "id": "slnev.corso.connie",
+   "startdescription": "L’ultima volta, Connie ha manifestato il sospetto che Corso potesse essere coinvolto nel furto della copia del Bureau delle Supplicazioni Calicite. Sembra che sia poi ricomparsa dopo la risoluzione di un errore di catalogazione. È raro vedere Connie così spiazzata. Corso festeggia con un’inarrestabile conferenza sulle eresie della Sorellanza. [Lezione: Tridesma Hiera]"
+  },
+  {
+   "id": "slnev.corso.coquille",
+   "startdescription": "Corso sta cercando di impressionare Coquille con una recitazione improvvisata del Tantra della Sete. La sua pronuncia è eccentrica, ma Coquille sembra sorprendentemente interessata. Alla fine, risulta chiaro anche a Corso che lei sta solo cercando di scoprire dove si trovi una copia, ma Corso non sembra scomporsi. [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.corso.dagmar",
+   "startdescription": "Corso e Dagmar si godono una discussione <i>del tutto teorica</i> su come le serrature potrebbero essere sovvertite tramite volgare nittodromia. E se Teresa Galmier fosse una nittodromista (secondo Dagmar) o un’oromachista (secondo Corso). [Lezione: Serrature & Orologi]"
+  },
+  {
+   "id": "slnev.corso.douglas",
+   "startdescription": "Douglas e Corso chiacchierano amabilmente di chiesa. (Douglas un tempo frequentava la cappella, ma Mrs Moore disapprova.) [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.corso.ehsan",
+   "startdescription": "Corso insiste con Ehsan sul fatto che Teresa Galmier abbia visitato la sua libreria a Oxford, di persona. «Usava un nome diverso. Così non ho voluto metterla in imbarazzo. È cambiata. Ma è lei. Ma è cambiata. Più alta. Be’, qualcosa come più alta, non esattamente più alta. Smettila di ridere, Ehsan – » [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.corso.fraser",
+   "startdescription": "Fraser e Corso dibattono l’Enigma di Medusa: «Cosa Non Si Vede?» Corso gesticola con nonchalance con la sigaretta: «Se non si vede, le Ore non sanno dove sia successo. Alla fine, è tutta una questione di provenienza.» [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.corso.hokobald",
+   "startdescription": "Corso, con abilità, adula Hokobald fino a ottenere una lezione improvvisata sulla sigillografia del Mandaico Profondo. [Lezione: Mandaico Profondo]"
+  },
+  {
+   "id": "slnev.corso.morgen",
+   "startdescription": "Corso scherza con Morgen sulla composizione reale della sua leggendaria «chiave di zaffiro nero», che lei insiste sia metaforicamente di vetro, e che lui suggerisce essere una vetrata «da qualche parte tranquilla»… [Lezione: Vetreria & Lucefabbro]"
+  },
+  {
+   "id": "slnev.corso.olympe",
+   "startdescription": "Corso stuzzica Olympe sulla sua recente recensione di una rappresentazione de «La Donna Ardente» di Menandro, che lei considera un vero e proprio manifesto per la creazione di nuove Ore – i «Dèi-dall’Acciaio». Riconosce che è un’idea assurda… ma non concorda sul fatto che il regista la ritenesse tale. [Lezione: Trasformazioni & Liberazioni]"
+  },
+  {
+   "id": "slnev.corso.serena",
+   "startdescription": "Serena e Corso discutono cupamente il minaccioso aforisma del poeta Kalle: «Una stella è una puntura di spillo, ma il Sole è una ferita.» Corso crede che presagisca la successiva divisione del Sole; Serena suggerisce che anticipi una fine orribile per il pellegrinaggio profetizzato della Vagabonda su fino alla Gloria... [Lezione: Piroglifici]"
+  },
+  {
+   "id": "slnev.corso.stanislav",
+   "startdescription": "Corso e Stanislav parlano dei sogni che seguono il consumo dello scuro liquore chiamato «leathy», e delle loro conversazioni con il Nome della Falena Knotwingnot. Entrambi concordano, quasi in modo convincente, di aver sempre ignorato i suoi consigli. [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.corso.yvette",
+   "startdescription": "Yvette e Corso discutono delle bande dei conteggiatori – i mercanti predatori di anni-di-vita. Yvette suggerisce timidamente che le piacerebbe che Corso la mettesse in contatto con i conteggiatori, se può... ma lui la scoraggia. «Sai cos’è la sabbiatura? O l’imbambolamento? Scoprilo, dottoressa Southey, e poi torna a chiedermelo.» [Lezione: Storie di Neve]"
+  },
+  {
+   "id": "slnev.corso.zachary",
+   "startdescription": "Zachary chiede a Corso di insegnargli una preghiera in Hyksos – «nel caso dovessi morire al risveglio». [Lezione: Hyksos]"
+  },
+  {
+   "id": "slnev.dagmar.agdistis",
+   "startdescription": "Dagmar divaga allegramente a uno scettico Agdistis sulle possibilità – nittodromiche e musicali – dei nuovi organi Hammond. «Me ne sto facendo spedire uno, da mettere nella mia cantoria», dice felice. «Certo, prima ci servirà l’elettricità in cantoria. E nel castello. E rimettere il tetto al castello. Per caso sei ricco, Aggers? Dai una mano a una ragazza?» [Lezione: Serrature & Orologi]"
+  },
+  {
+   "id": "slnev.dagmar.aladim",
+   "startdescription": "Dagmar e al-Adim chiacchierano allegramente delle «Regine dei Fiumi» di Medina. [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.dagmar.arthur",
+   "startdescription": "Dagmar e Arthur discutono di «transabitazione» – il mezzo con cui i Lunghi della Lanterna e altre simili entità del Mansus possono manifestarsi in specchi e luci. (Dagmar disapprova il termine «scrining», che considera «dozzinale».) [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.dagmar.arun",
+   "startdescription": "Arun e Dagmar si salutano con gioia e sono presto impegnati in un altro giro del loro perenne gioco di indovinelli; ma Arun si fa altezzoso quando si rende conto che Dagmar gli ha chiesto del «Solvente del Dolore» solo per vedere se riesce a far spuntare, sibilanti, i denti dell’ex Principe Incappucciato. [Lezione: Soluzioni & Separazioni]"
+  },
+  {
+   "id": "slnev.dagmar.azita",
+   "startdescription": "Dagmar e Azita discutono di come contenere le selvagge creature del bosco chiamate Hügelkinder, che a quanto pare stanno causando problemi a un’attività di Azita, la quale a quanto pare richiede di spostare quantità di armi attraverso remote regioni europee nel cuore della notte. [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.dagmar.chaima",
+   "startdescription": "Dagmar sta pianificando una visita alla Pentapoli Mozabita in Algeria «per rivedere una miserabile piantagrane». Chiede con serietà consigli sulla regione a Chaima (che continua a chiamare con disinvoltura «Charlie»). [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.dagmar.connie",
+   "startdescription": "Dagmar ha deciso di fare la predica a Connie sugli abusi di potere del Bureau di Soppressione e dei suoi cugini-dei-Doveri europei, citando argomenti e precedenti tratti dalla teologia e dalla filosofia naturale. Connie per lo più ascolta, per lo più pazientemente. [Lezione: Editti Liminali]"
+  },
+  {
+   "id": "slnev.dagmar.coquille",
+   "startdescription": "Dagmar e Coquille parlano di nuovo dei Grandi Segni e delle Grandi Cicatrici; ancora una volta la loro conversazione è punteggiata da discorsi sul «margravio molto simpatico» a cui Dagmar ha effettivamente presentato Coquille – un fatto di cui Dagmar sembra ora pentirsi. [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.dagmar.corso",
+   "startdescription": "Dagmar e Corso discutono bonariamente se i dialoghi dell’Abate Geffrey su Forculus, Limentinus e Cardea possano dirsi «nittodromia autentica». [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.dagmar.douglas",
+   "startdescription": "Dagmar sta assillando Douglas sugli abusi di potere del Bureau di Soppressione, ma lui se ne sta seduto in silenzio a sorridere con le braccia conserte, e ogni tanto cita un altro incidente abbastanza sinistro da richiedere l’intervento del Bureau: «Reims», o «Revek», o «Treowen», o «il Wildwood Club». Ognuno di questi mette Dagmar in difficoltà, ma lei si riprende e spiega perché ciascun caso sia diverso; il che almeno dà a Douglas il tempo di sorseggiare il proprio bicchiere o di riempire la pipa. [Lezione: Editti Inviolabili]"
+  },
+  {
+   "id": "slnev.dagmar.ehsan",
+   "startdescription": "Dagmar avverte cupamente Ehsan di «cose losche» a Vienna: «Quel maledetto ometto. I tetti brulicano di <i>striges</i>, sai. Amano la guerra ancora più del pettegolezzo.» [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.dagmar.fraser",
+   "startdescription": "Fraser vuole di nuovo l’aiuto di Dagmar, questa volta per aprire una scatola a nove serrature che ha ricevuto dalle Isole della Sera, e che spera possa contenere «una certa mappa». Si rifiuta però categoricamente di mostrare la scatola a Dagmar, che si indigna per la sua sfiducia; e la conversazione naufraga. [Lezione: Serrature & Orologi]"
+  },
+  {
+   "id": "slnev.dagmar.hokobald",
+   "startdescription": "Hokobald e Dagmar discutono dell’opera di Willem Harries, con particolare riferimento ad architravi e soglie. Il consueto disprezzo di Hokobald si assottiglia – ascolta con vero interesse le risposte di Dagmar – ma Dagmar mantiene una distanza cauta, e, dopo che lui le sistema il piatto e il cucchiaino da tè per illustrare un’idea di lei, lei li osserva di sottecchi e non li tocca più. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.dagmar.morgen",
+   "startdescription": "Dagmar e Morgen discutono dei pregi relativi di cani e gatti. Morgen, che preferisce i gatti, fa notare che i gatti sono noti per entrare nel Mansus senza alcun intervento mortale o immortale, e per riportare «doni» nella Veglia. Dagmar usa lo stesso argomento per sostenere la superiorità dei cani. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.dagmar.olympe",
+   "startdescription": "Olympe sta scrivendo un romanzo in cui uno dei personaggi è una chimica criminale specializzata in acidi e veleni; spera che Dagmar possa aiutarla nelle ricerche. Dagmar è immediatamente diffidente, e continua a insistere di sapere solo di «succo di limone e cose simili»; ma una volta che Olympe le spiega che la protagonista è ispirata a Coquille, si rilassa abbastanza da discutere delle proprietà della Tossina Ditovetro. [Lezione: Soluzioni & Separazioni]"
+  },
+  {
+   "id": "slnev.dagmar.serena",
+   "startdescription": "Dagmar cita a Serena battute spinte tratte da «Una Settima Voce» di Savage. Serena fa notare corrispondenze onirogene negli schemi delle rime; Dagmar continua a ridacchiare e a citare altre battute. [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.dagmar.stanislav",
+   "startdescription": "Dagmar descrive con naturalezza a Stanislav alcuni di quei sentieri attraverso i Confini disponibili solo a chi versa il proprio sangue. Gli mostra perfino le cicatrici. [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.dagmar.yvette",
+   "startdescription": "Yvette e Dagmar hanno entrambe sognato conversazioni con Xenodice dal mezzo volto, «giusta con i forestieri», Nome dell’Ascia Cornuta. Dagmar è convinta che abbiano entrambe incontrato la vera Xenodice. Yvette è altrettanto convinta che entrambe stessero conversando con un’ambasciatrice dell’inconscio collettivo, ma fatica a rispondere quando Dagmar le chiede quale sarebbe la differenza fra questo e un Nome «autentico». [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.dagmar.zachary",
+   "startdescription": "Dagmar sta cercando di spiegare a Zachary le battute più spinte contenute in «Una Settima Voce» di Savage. Zachary prende cortesemente appunti. [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.douglas.agdistis",
+   "startdescription": "Douglas e Agdistis parlano dell’Ecdysis Club, dove Agdistis un tempo lavorava e alla cui chiusura Douglas contribuì. Douglas non si pente, ma prova anche rammarico. [Lezione: Tamburi & Danze]"
+  },
+  {
+   "id": "slnev.douglas.aladim",
+   "startdescription": "Douglas e al-Adim cercano di stabilire se la natura insolita dell’ascesa di al-Adim alla condizione di Lungo – sotto la Vagabonda – significhi in realtà che non abbia infranto alcuna legge britannica. Concludono che probabilmente le ha infrante, ma Douglas si mostra molto pratico riguardo alle difficoltà di arrestarlo, e si offre di lasciarlo andare con un ammonimento se non ascenderà mai più all’immortalità. [Lezione: Editti Inviolabili]"
+  },
+  {
+   "id": "slnev.douglas.arthur",
+   "startdescription": "Douglas e Arthur intrattengono una conversazione pratica sulla diade della Lama nota come Dearday e Torgue, e sui guai che hanno causato nel corso degli anni…. discorso che viene bruscamente interrotto quando Douglas, che dopotutto è un detective, squarcia il velo di discrezione che avvolge la storia familiare di Arthur e si rende conto che la coincidenza dei cognomi non è affatto una coincidenza, e che lui è il pronipote di Arthur. Le emozioni di Douglas si manifestano solo nella ripetizione della frase «Be’, che mi venga un colpo», e in una stretta di mano insolitamente lunga alla fine della serata. [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.douglas.arun",
+   "startdescription": "Arun è preoccupato per i progressi di un recente candidato a diventare Lungo della Lanterna: condivide nomi e dettagli con Douglas. «Coltello, cappio, fiamma, parola, hm? Non mi piace; ma non mi piace nemmeno questo aspirante.» [Lezione: Misteri Maggephene]"
+  },
+  {
+   "id": "slnev.douglas.azita",
+   "startdescription": "Azita e Douglas ipotizzano sull’attuale posizione e disposizione di Teresa Galmier, che è stata mortale due volte, e due volte è diventata Lunga… [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.douglas.chaima",
+   "startdescription": "Douglas e Chaima si godono una conversazione molto pratica su cosa fare quando qualcuno ti morde, cosa fare quando qualcosa ti morde, e cosa fare quando qualcuno morde qualcos’altro. [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.douglas.connie",
+   "startdescription": "Douglas e Connie rievocano vecchi casi, e speculano allegramente sul destino finale degli adepti che hanno rinchiuso. [Lezione: Editti Inviolabili]"
+  },
+  {
+   "id": "slnev.douglas.coquille",
+   "startdescription": "Coquille chiede sorridendo a Douglas di ricordarle se al momento pende su di lei un mandato d’arresto. «Non al momento,» risponde lui, «ma sono certo che possiamo sistemare qualcosa.» Coquille trascorre gran parte del resto del pasto citando il «Tempo della Divisione» di Zahra, e chiedendo quali passaggi la farebbero arrestare se li recitasse a un cocktail party. [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.douglas.corso",
+   "startdescription": "Douglas e Corso discutono delle sfumature delle differenze fra le versioni Ricevuta e Sanzionata del Libro dei Soli… una volta che Corso ha superato la sorpresa per gli interessi di Douglas. («Nessuno crede mai che io mi sia guadagnato una borsa di studio, maledizione», borbotta Douglas.) [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.douglas.dagmar",
+   "startdescription": "Con il macabro cameratismo di due pensionati in una casa di riposo, Douglas e Dagmar discutono dei dettagli dei propri malanni, e dei conseguenti interventi chirurgici. [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.douglas.ehsan",
+   "startdescription": "Douglas chiede a Ehsan se sia vero che un tempo scavasse nel terreno come una talpa; se sia nato o sia stato creato; se abbia mai «mangiato qualcuno». Ehsan risponde alle domande con cortesia: non esattamente; non nato; e no. [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.douglas.fraser",
+   "startdescription": "Fraser vorrebbe sapere cosa intenda fare Douglas «riguardo ai Profeti Grezzi». Douglas non ha intenzione di fare nulla riguardo ai Profeti Grezzi. Fraser vorrebbe sapere, allora, cosa intenda fare il <i>Bureau</i> riguardo ai Profeti Grezzi. Douglas esprime la propria confusione. Fraser esprime la propria irritazione. Douglas esprime la propria incapacità di fare alcunché riguardo ai Profeti Grezzi. Entrambi concordano che i Profeti Grezzi non sono il genere di cosa su cui si possa davvero fare qualcosa. [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "slnev.douglas.hokobald",
+   "startdescription": "Douglas e Hokobald faticano a trovare un terreno comune, finché un’osservazione casuale non tira in ballo l’entusiasmo dell’Endeavour Club per gli atti di piromanzia e, talvolta, per il vero e proprio incendio doloso. Entrambi concordano che l’Endeavour Club sia una banda di snob piromani che meritano di essere rinchiusi. [Lezione: Piroglifici]"
+  },
+  {
+   "id": "slnev.douglas.morgen",
+   "startdescription": "Ancora una volta, Morgen punzecchia Douglas con fastidiose ipotesi: in caso di attacco da parte di varie sue non-sorelle, diciamo la Dama dei Fili o la Madre dei Mostri, quali tecniche potrebbe usare Douglas per scacciarle? Ma lui le risponde con fermezza, e una volta riesce perfino a incrociare i suoi occhi azzurri come l’orizzonte. [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.douglas.olympe",
+   "startdescription": "Douglas mette cupamente in guardia Olympe sui pericoli di lavorare a maglia prima di dormire, e sui sentieri che può aprire nel Bosco. («Sì, lavoro a maglia. Anche i signori possono farlo.») [Lezione: Tessitura & Annodatura]"
+  },
+  {
+   "id": "slnev.douglas.serena",
+   "startdescription": "Douglas e Serena discutono di una passione condivisa, segreta ma evidentemente profonda, per il lavoro a maglia. Douglas: «Se lo dici a qualcuno fuori da questa stanza, ti faccio rinchiudere.» Serena: «Se sei <i>tu</i> a dirlo a qualcuno fuori da questa stanza, do il tuo indirizzo a Re Crogiolo.» [Lezione: Tessitura & Annodatura]"
+  },
+  {
+   "id": "slnev.douglas.stanislav",
+   "startdescription": "Stanislav chiede a Douglas della morte – presumibilmente un omicidio – della Badessa Nonna, quasi sei secoli fa. Douglas riconosce che tecnicamente rientra nella giurisdizione del Bureau; e che il Bureau non riconosce alcun termine di prescrizione al di sotto dell’eternità; e aggiunge di avere già molto da fare; ma promette di indagare, e rivolge a Stanislav alcune domande incisive su rare erbe velenose. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.douglas.yvette",
+   "startdescription": "Yvette e Douglas discutono di coloro fra i Morti che hanno entrambi incontrato. Yvette parla di ombre senza bocca, supplicanti, che si muovono come sott’acqua sulla soglia prima del sonno. Douglas parla di cose sbrindellate dalla bocca squarciata che «hanno provato a strapparmi la testa». [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.douglas.zachary",
+   "startdescription": "Douglas cerca di rievocare con Zachary il loro lavoro condiviso al Bureau di Soppressione – la volta in cui dovettero reprimere una compagnia di Percussigant che vagava per la Foresta di Dean. Ma Zachary si limita a fissarlo e a scuotere il capo – «Non ricordo» – «Non ricordo» – «Ricordo che faceva freddo» – «Non ricordo». [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.ehsan.agdistis",
+   "startdescription": "Ehsan e Agdistis discutono dei duendrazones, i Lunghi del Cuore eternamente attivi, che possiedono i mortali affinché possano talvolta conoscere la pace. «Un tempo speravo di poter essere qualcosa del genere», dice Agdistis, «ma ho imparato dalla mia amica Sulochana cosa significhi essere un Lungo, e mi sono opposto a quell’idea.» [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.ehsan.aladim",
+   "startdescription": "Ehsan e al-Adim parlano di capre. Entrambi sembrano notevolmente informati ed eccezionalmente entusiasti riguardo alle capre. Nessuno dei due ammette del tutto di essere mai stato un capraio. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.ehsan.arthur",
+   "startdescription": "Arthur parla delle arti di lucefabbro praticate al Labirinto dei Leoni; Ehsan si offre di mostrare ad Arthur le vetrate della cappella della Hush House dopo il pasto («con il tuo permesso, Archivista»?). [Lezione: Vetreria & Lucefabbro]"
+  },
+  {
+   "id": "slnev.ehsan.arun",
+   "startdescription": "Ehsan offre ad Arun consigli pratici sulla conservazione e la protezione delle parti di Arun che non sono più protette e conservate dalla pelle. [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.ehsan.azita",
+   "startdescription": "Ehsan e Azita discutono del periodo in cui Ehsan fu uno skaptodonte, una creazione guerriera del Leonfabbro. Più di una fu la ragione per cui Ehsan si lasciò degradare in forma umana. Il suo entusiasmo per i frutti di mare fu una; ma non si sentì mai a suo agio come guerriero. (Azita scuote il capo e sorride.) [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.ehsan.chaima",
+   "startdescription": "Ehsan e Chaima discutono del resoconto di Nina Lagasse sul Roost delle Ore Aviformi, e si chiedono se lo abbia davvero visitato. Ehsan è incline a crederlo. «L’ho incontrata una volta, a Parigi, poco prima che il Sole-in-Stracci la richiamasse a sé. Era straordinaria...» [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.ehsan.connie",
+   "startdescription": "Ehsan vuole sapere se Connie si stanchi mai di far rispettare le leggi. «Potrei chiedertelo io», risponde lei, «se ti stanchi mai di guarire i corpi.» [Lezione: Editti Inviolabili]"
+  },
+  {
+   "id": "slnev.ehsan.coquille",
+   "startdescription": "Ehsan e Coquille parlano di Tryphon, la Lunga del Graal. Ehsan dice: «Era adorata; e per questo era felice.» Un’espressione attraversa il volto di Coquille come l’ombra di una nuvola, e per un momento sembra più vecchia. «No», dice lei, «era adorata, e per questo non era felice.» [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.ehsan.corso",
+   "startdescription": "Ehsan e Corso discutono dei sogni che hanno fatto del Mansus esterno. Ehsan si dichiara sorpreso di scoprire di avere meno affinità per il Bosco, e più per il Mansus, da quando ha perso la propria condizione di skaptodonte. Quest’ultimo punto mette chiaramente a disagio Corso: sposta la sedia per sedersi un po’ più lontano da Ehsan. [Lezione: Paradossi del Guardiano]"
+  },
+  {
+   "id": "slnev.ehsan.dagmar",
+   "startdescription": "Ehsan e Dagmar discutono di una mostra di dipinti influenzati (sospettano) dall’opera di Julian Coseley. «Non mi è piaciuta granché», sentenzia Dagmar. «Il Bureau la chiuderà abbastanza presto. Nessuna gran perdita. Ci sono già abbastanza cose brutte al mondo.» Impallidisce inorridita rendendosi conto di stare parlando con la persona più brutta della stanza; comincia a scusarsi; comincia a scusarsi per essersi scusata. Ehsan ridacchia come ghiaia smossa. Dopo un momento, ridacchia anche Dagmar. [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.ehsan.douglas",
+   "startdescription": "Ehsan deve recarsi a Zurigo, e vuole sapere se i «cugini dei Doveri» di Douglas potrebbero arrestarlo. Douglas ripassa quella che chiama la propria «lista di controllo degli abomini»; a malincuore, dice a Ehsan che sì, probabilmente lo faranno. (Suggerisce a Ehsan di non dirgli quale treno prenderà.) [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.ehsan.fraser",
+   "startdescription": "Fraser sta provando dolore alle articolazioni alterate della mano che preferisce tenere guantata; Ehsan ha qualche consiglio. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.ehsan.hokobald",
+   "startdescription": "Hokobald ammette con un ringhio sotterraneo che, nonostante il suo status di Lungo della Forgia – o forse proprio a causa di esso –, l’aria marina di Brancrug gli irrigidisce le articolazioni. «Ad arrugginirsi, forse?» chiede Ehsan con tono neutro. Di fronte all’occhiataccia di Hokobald, si scusa, e prescrive una tisana. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.ehsan.morgen",
+   "startdescription": "Morgen offre opinioni sulle origini delle <i>striges</i>, i «parassiti dei cieli inferiori»; Ehsan dissente rispettosamente. «Il Leonfabbro può averle cambiate, ma non le ha mai create.» [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.ehsan.olympe",
+   "startdescription": "Ehsan e Olympe discutono delle teorie folli dell’eresiarca Cygnifer. Olympe menziona il legame che Cygnifer traccia fra l’ambra e la città di Ys – la città oltre l’onda – e ammette che questo legame le è sempre parso intuitivamente sensato, sebbene non sappia spiegarne il motivo... [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.ehsan.serena",
+   "startdescription": "Ehsan e Serena rievocano il loro periodo alla Hush House negli anni del suo potere, quando i venti erano tenuti al guinzaglio per proteggere i mari, quando i Fine-Takers rispondevano ancora alle parole del Patto… [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.ehsan.stanislav",
+   "startdescription": "Ehsan e Stanislav si vantano allegramente l’uno con l’altro dei malanni che hanno sconfitto. Ehsan descrive una degenerazione gnatobasica che ha dovuto purificare con vespe e vino; Stanislav sostiene di aver scacciato da un paziente un’infezione di lignaggio usando «un dibattito ragionato». [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.ehsan.yvette",
+   "startdescription": "Ehsan e Yvette parlano di Tentreto, il santo forse-umano della chiesa primitiva. Ehsan descrive il proprio pellegrinaggio al santuario di Tentreto a Venezia, ma ammette di essere stato motivato solo in parte dalla curiosità religiosa – più che altro da un entusiasmo per la cucina veneziana e dal desiderio di rivedere un vecchio (tossisce imbarazzato) amico... [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.ehsan.zachary",
+   "startdescription": "Ehsan e Zachary discutono di un verso di Illopoly – alla maniera di Husher: «il Bianco è a Ovest del Mondo, e l’Inverno non aspetta per sempre.» Zachary dice all’improvviso che vorrebbe dipingere il Bianco; Ehsan lo incoraggia con dolcezza; discutono dei pigmenti più pallidi. [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.fraser.agdistis",
+   "startdescription": "Agdistis e Fraser sono tornati alla loro discussione sul balletto in progetto per cui Fraser desidera fare da impresario. Agdistis ha finalmente accettato di fare da coreografo, ma solo a condizione di poter porre il veto sulla scelta iniziale del nome di Fraser, che detesta profondamente: «Il Ronzio nel Cranio.» [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.fraser.aladim",
+   "startdescription": "Al-Adim e Fraser dibattono – con grande cautela, anche qui alla Hush House – sulla natura del Fiore Rosso di Calyptra – in che misura faccia uso del fuoco purificatore, e in che misura si affidi a illusione e inganno. [Lezione: Inchiostri di Potere]"
+  },
+  {
+   "id": "slnev.fraser.arthur",
+   "startdescription": "Arthur e Fraser discutono dell’Abisso di Althiban vicino a Baghdad. Fraser spera che il potere che vi si agita possa essere collegato alla Croce del Carapace, ma Arthur lo dissuade con fermezza: se un tempo era Croce, dice, ora appartiene a qualcos’altro. [Lezione: Spira & Baratro]"
+  },
+  {
+   "id": "slnev.fraser.arun",
+   "startdescription": "Fraser sta parlando ad Arun dei cambiamenti che sta subendo mentre la sua natura interiore si fa più manifesta. Parla con evidente orgoglio; ma è preoccupato che il suo corpo possa aver cominciato a produrre un veleno, e non è sicuro di cosa fare al riguardo… [Lezione: Serpenti & Veleni]"
+  },
+  {
+   "id": "slnev.fraser.azita",
+   "startdescription": "Fraser e Azita stanno negoziando qualcosa dall’aria losca riguardo ad avorio di mammut e sogni di ghiaccio… [Lezione: Corna & Avori]"
+  },
+  {
+   "id": "slnev.fraser.chaima",
+   "startdescription": "Chaima sta commissionando «munizioni nobili» a Fraser, per prede che non si preoccupano granché del solito tipo di proiettile. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.fraser.connie",
+   "startdescription": "Fraser vuole visionare reperti dal White Museum del Bureau: i resti di animali che hanno subito un mutamento della Croce. Sostiene con argomenti persuasivi che potrebbe essere d’aiuto, ma Connie è scettica. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.fraser.coquille",
+   "startdescription": "Fraser chiede a Coquille di consigliarlo su alcuni pezzi orientali che ha acquistato di recente, che spera possano essere pentimenti della Sesta Storia… [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.fraser.corso",
+   "startdescription": "Corso ha un insolito Libro dei Soli in vendita, «raccolto» da un misterioso pellegrino di discendenza antaiana. Fraser è interessato, ma vuole parlare con chi l’ha raccolto. Corso scuote la testa: «I miei clienti pagano per la mia discrezione.» [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.fraser.dagmar",
+   "startdescription": "Fraser desidera incaricare Dagmar di ispezionare le proprie misure di sicurezza. È particolarmente preoccupato per intrusi che usino le armi-chiave note come frangiclave, e per i Ligeiani con le loro Chiavi, sebbene Dagmar lo derida: «Ai Ligeiani non importerà nulla della tua collezione, in un senso o nell’altro.» [Lezione: Serrature & Orologi]"
+  },
+  {
+   "id": "slnev.fraser.dagmar.morgen",
+   "startdescription": "Fraser desidera incaricare Dagmar di ispezionare le proprie misure di sicurezza. È particolarmente preoccupato per intrusi che usino le armi-chiave note come frangiclave, e per i Ligeiani con le loro Chiavi, sebbene Dagmar lo derida: «Ai Ligeiani non importerà nulla della tua collezione, in un senso o nell’altro.» Dall’altra parte della stanza, Morgen inclina la testa e fa l’occhiolino. [Lezione: Serrature & Orologi]"
+  },
+  {
+   "id": "slnev.fraser.douglas",
+   "startdescription": "Fraser si lamenta con Douglas di alcune effrazioni. Douglas suggerisce senza troppa compassione che forse Fraser dovrebbe tenere meno contrabbando in casa. [Lezione: Storie di Lupo]"
+  },
+  {
+   "id": "slnev.fraser.ehsan",
+   "startdescription": "Fraser ed Ehsan discutono di <i>tarascisation</i> e di <i>«la malaise raveline»</i> – gli orribili cambiamenti che si manifestano in certe famiglie che hanno intrattenuto «traffici con le bestie». [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.fraser.hokobald",
+   "startdescription": "Fraser e Hokobald discutono animatamente se Henavek – lo spirito-lingua a volte chiamato «il Più Antico» – appartenga al Bosco o al Mansus. [Lezione: Henavek]"
+  },
+  {
+   "id": "slnev.fraser.morgen",
+   "startdescription": "Fraser espone le proprie teorie sull’attribuzione dei nomi ai terremoti – l’origine del ristretto elenco di nomi da cui (a suo dire) attingono tutti i nuovi terremoti. Morgen insiste che non esistono nuovi terremoti, se non, di tanto in tanto, sotto il mare, quando un altro degli arti del Blackbone si frattura ulteriormente. [Lezione: Colle & Valle]"
+  },
+  {
+   "id": "slnev.fraser.olympe",
+   "startdescription": "Olympe e Fraser discutono di asimel e ashartine. Olympe confessa di getto di non riuscire mai a ricordare quale sia quale; dopo un momento di angoscia, Fraser scuote il capo e ammette: «Nemmeno io.» Si scambiano un sorriso. [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.fraser.serena",
+   "startdescription": "Fraser e Serena parlano di Antaios, che potrebbe essere stato figlio di emanazioni-Nome della Selce e della Ruota. Fraser si chiede perché, se gli antenati di Antaios erano immortali, non abbiano provato l’impulso di divorarlo. Serena chiede provocatoriamente quando pensa che il Crimine del Cielo sia diventato per la prima volta un Crimine... [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "slnev.fraser.stanislav",
+   "startdescription": "Fraser e Stanislav discutono delle Pietre Innumerate di Bretagna, non lontano dall’attuale rifugio di Stanislav. Fraser insiste che siano state poste lì dalla Croce del Carapace. Stanislav lo asseconda. [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "slnev.fraser.yvette",
+   "startdescription": "Yvette sta chiedendo a Fraser dei suoi «sogni di occhi». Lui è ansioso di raccontarglieli – li interpreta come messaggi della «maggiore ibridità» della Croce del Carapace, sebbene lei sia scettica. [Lezione: Colle & Valle]"
+  },
+  {
+   "id": "slnev.fraser.zachary",
+   "startdescription": "Fraser si informa – a volte con tatto – sulla condizione di Zachary, su cosa esattamente porti dentro di sé, quali pericoli possa presentare, e cosa potrebbe diventare. Zachary risponde – sempre con cautela e in modo ellittico. [Lezione: Serpenti & Veleni]"
+  },
+  {
+   "id": "slnev.hokobald.agdistis",
+   "startdescription": "Hokobald e Agdistis discutono della possibilità di un balletto di campane. Agdistis si lascia coinvolgere abbastanza da sorridere a Hokobald, nonostante la sua evidente diffidenza verso quell’immortale corrotto… [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.hokobald.aladim",
+   "startdescription": "Hokobald parla ad al-Adim dell’ultimo Pellegrinaggio dei Sette che la Vagabonda presumibilmente intende compiere – su per il Mansus e oltre, nella Gloria. Spiega con soddisfazione perché crede che il suo Pellegrinaggio fallirà. Al-Adim non è d’accordo; pensa che, alla fine, avrà successo; ma la prospettiva lo rende chiaramente infelice. (Può darsi, in effetti, che fosse proprio questa l’intenzione di Hokobald nel sollevare l’argomento...) [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.hokobald.arthur",
+   "startdescription": "Hokobald riprende da dove aveva lasciato, tenendo lezione ad Arthur sulle strategie della Fiamma Incatenata nella Guerra delle Strade in un modo dotto ma assillante. Arthur, di nuovo, ascolta educatamente; ma s’inalbera quando Hokobald parla con sarcasmo del residuo della Fiamma, l’Endeavour Club, dove Arthur ha degli amici. Hokobald diventa cocentemente sprezzante; Arthur, amaramente educato; e la conversazione finisce. [Lezione: Riflessi Meniscati]"
+  },
+  {
+   "id": "slnev.hokobald.arun",
+   "startdescription": "Arun accarezza il braccio di Hokobald e sussurra dei «piaceri dei Principi». La reazione di Hokobald si può descrivere al meglio come «curiosità rabbiosa». [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.hokobald.azita",
+   "startdescription": "Hokobald sfida Azita a un braccio di ferro. Lei accetta con entusiasmo. Per decoro, escono dalla stanza per disputare la sfida. Quando tornano, risulta evidente che Hokobald ha vinto; ma che si è rotto il polso. «Non dovrebbe succedere! Non dovrebbe essere permesso!» continua a lagnarsi, a denti stretti. Azita si limita a scrollare le spalle. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.hokobald.chaima",
+   "startdescription": "Hokobald ha sentito dire che Chaima ha dato la caccia e ucciso un’alukite a Tripoli qualche mese fa. Chiede dettagli, che lei fornisce. Il suo volto resta, come al solito, impassibile per tutto il tempo. Hokobald chiede, con gli occhi che luccicano, se abbia qualche trofeo della caccia. Dopo una lunga pausa, durante la quale il suo volto resta impassibile, lei dice di no. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.hokobald.connie",
+   "startdescription": "Hokobald si concede, con grandiosa condiscendenza, di condividere informazioni sulle razzie di un Lungo del Graal e della congrega a lui associata in Maremma. Connie ascolta con attenzione, il volto impassibile. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.hokobald.coquille",
+   "startdescription": "Hokobald e Coquille proseguono il loro inquietante corteggiamento. Lei gli accarezza la testa calva e mormora stime sulle misure delle ossa del proprio bacino e della propria gabbia toracica. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.hokobald.corso",
+   "startdescription": "Corso ha comprato un sigillo cilindrico in Mandaico Profondo come dono per Hokobald – «perché, Magister, sono in pochi a poterlo apprezzare.» Mentre Hokobald è così compiaciuto, Corso tira fuori una collezione di sigilli cilindrici simili, e si assicura l’opinione e il consiglio di Hokobald sulla loro autenticità... [Lezione: Mandaico Profondo]"
+  },
+  {
+   "id": "slnev.hokobald.dagmar",
+   "startdescription": "Hokobald ha in mente una proposta per una «porta-vento a nove archi» che spera di costruire nella tenuta di Dagmar. Dagmar è chiaramente interessata al progetto, ma rifiuta fermamente di lasciare che Hokobald usi la sua tenuta, o perfino che la visiti. Hokobald digrigna i denti, ma non perde la calma. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.hokobald.douglas",
+   "startdescription": "Hokobald e Douglas restano diffidenti l’uno verso l’altro ma, ancora una volta, trovano un terreno comune nel lamentarsi degli Obliviat. Si divertono a enumerare i crimini degli Obliviat, borbottano su quanto sia frustrante vederli camminare in punta di piedi sul filo della legge, e concordano che siano una banda di snob pedanti che meritano di essere rinchiusi. [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.hokobald.ehsan",
+   "startdescription": "Hokobald ed Ehsan discutono dell’origine dell’Amiranis Beteli, la pietra incisa dei segreti caduta dal cielo, forse prima della partenza della Croce. Ehsan crede che le iscrizioni siano opera di Ys, dopo che il meteorite colpì il mare; Hokobald insiste che fossero un «dono-Bagliore» proveniente da una Stella (e insiste anche che Ehsan sia un «sterco di leone dalla faccia da carlino» quando Ehsan dissente). [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.hokobald.fraser",
+   "startdescription": "Hokobald negozia con Fraser l’acquisto di certe leghe esotiche. Lo incalza sulla disponibilità di metallo di Ys, ma Fraser, guardandosi intorno con nervosismo, insiste di non poter fornire nulla del genere. [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.hokobald.morgen",
+   "startdescription": "Hokobald si prodiga intorno a Morgen con una specie di ossequiosità scontrosa e lasciva, e lei gli permette di parlarle dei gioielli che le ha portato, offrendo di tanto in tanto opinioni diverse a cui Hokobald presta la dovuta attenzione. Alla fine della conversazione, con evidente sconcerto di lui, lei gli regala uno zaffiro cabochon «da custodire». [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.hokobald.olympe",
+   "startdescription": "Hokobald e Olympe condividono una serie di curiose meditazioni su crisalidi e crocevia. «Non sarà mai più come prima», dice lei, più volte, sottovoce. [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.hokobald.serena",
+   "startdescription": "Hokobald e Serena stanno speculando sulla natura e sulla possibile identità dell’Ora ancora nascente chiamata il Chandler, che porta il fuoco nell’oscurità; che lascia un luogo senza esservi mai entrato; le cui imprese sono redditizie. Serena ritiene possibile che il Chandler si manifesti attraverso il Nuovo Re. Hokobald scuote la grossa testa. «Un Nome lo accompagna di certo. Ma non più di un Nome.» [Lezione: Trasformazioni & Liberazioni]"
+  },
+  {
+   "id": "slnev.hokobald.stanislav",
+   "startdescription": "Stanislav incalza Hokobald su quali qualità il Nome Kitling Ripe trovi appetitose – su come il Velluto possa ricompensare i propri portatori con l’immortalità, per farne prede del proprio animaletto. Hokobald gli fornisce alcuni dettagli, ma chiede bruscamente se Stanislav speri di diventare un Lungo. Stanislav non risponde; Hokobald tiene una tirata in cui si duole della propria immortalità, e vorrebbe essere morto seguendo l’aratro a Uffington. (Ma forse Hokobald ha bevuto.) Stanislav chiede se non intendesse forse «Pocsind», non «Uffington», e Hokobald cambia argomento. [Lezione: Spezie & Sapori]"
+  },
+  {
+   "id": "slnev.hokobald.yvette",
+   "startdescription": "Hokobald esige di sapere se Yvette senta mai le campane di Ys quando è vicina al mare. Yvette si irrigidisce al suo tono, ma risponde con cautela che forse le pare di sì; discutono di che forma potrebbero avere quei suoni, e la rudezza di Hokobald si ammorbidisce un poco. [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.hokobald.zachary",
+   "startdescription": "Hokobald insiste con impazienza con Zachary sul fatto che sia un crimine non cedere alla propria «natura crescente», e che dovrebbe «darsi da fare a divorare». Zachary dissente con fermezza ma pacatezza. [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.morgen.agdistis",
+   "startdescription": "Morgen e Agdistis discutono dei canti popolari dell’Umbria e del loro legame con i Gemelli. Emerge che entrambi conobbero Christopher Illopoly durante il suo anno in Italia da giovane. Morgen si chiede dove possa trovarsi, e Agdistis sbotta d’impulso: «Stagli alla larga!» Impallidisce immediatamente per la propria audacia, ma Morgen sembra divertita. [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.morgen.aladim",
+   "startdescription": "Morgen e al-Adim confrontano le proprie esperienze dei famigerati fiori della Città delle Aquile Messaggere, che hanno entrambi visitato, sebbene, a quanto pare, le loro visite siano avvenute a quasi duecento anni di distanza l’una dall’altra... [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.morgen.arthur",
+   "startdescription": "Morgen incalza di nuovo Arthur sulla «Crepa nel Vetro» individuata nel recinto di una fiamma sacra nel Labirinto dei Leoni – e sul suo legame con il Chandler. Questa volta Arthur è in guardia, ma ammette che un legame potrebbe «prendere vita» con sufficiente Lanterna e Battente – e che è per questo che il Labirinto non permette a nessun adepto di Battente di entrare nel recinto. [Lezione: Vetreria & Lucefabbro]"
+  },
+  {
+   "id": "slnev.morgen.arun",
+   "startdescription": "Morgen e Arun tornano alla loro conversazione sugli Obliviat, un tempo chiamati la Casa di Lethe. Lei lo accusa scherzosamente di esserne membro, e gli chiede dove tenga le sue tre catene. Lui ribatte chiedendole dove tenga la sua famigerata chiave di zaffiro nero. Morgen accavalla le gambe e chiede ad Arun, con voce vellutata, se vorrebbe perquisirla. Dopo un momento, lui dice con grande fermezza che no, non vorrebbe. [Lezione: Sacra Limiae]"
+  },
+  {
+   "id": "slnev.morgen.azita",
+   "startdescription": "Morgen punzecchia Azita con riferimenti al «Lamento di Medusa», che pretenderebbe di descrivere la morte del dio-di-pietra Sette-Spire per mano del Colonnello, il protettore di Azita. [Lezione: Corna & Avori]"
+  },
+  {
+   "id": "slnev.morgen.chaima",
+   "startdescription": "Chaima dice: se desiderassi entrare nella Casa della Luna, mi apriresti la porta. Morgen risponde, come se fosse un rituale: perché desideri entrare nella Casa della Luna? Chaima dice: se la mia preda fosse entrata nella Casa della Luna, e io reclamassi i diritti del cacciatore. Morgen risponde: onorerò sempre i diritti del cacciatore. [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.morgen.connie",
+   "startdescription": "Connie rivolge domande professionali su un didumos – il gemello o riflesso di una stella – che teme possa essere stato impiegato per commettere crimini-di-sogno. Sospetta che si sia rifugiato nell’ombra-Mansus chiamata la Casa della Luna. Morgen, rispondendo con sorprendente franchezza, chiarisce comunque a Connie che il Bureau di Soppressione non potrà mai seguirlo nella Casa della Luna – e che lei non li aiuterà in nessuna circostanza a provarci. [Lezione: Uranoscopia]"
+  },
+  {
+   "id": "slnev.morgen.coquille",
+   "startdescription": "Morgen e Coquille sembrano quasi andare d’accordo, finché Morgen non chiede con dolcezza dell’«ultimo padre» di Coquille. Coquille arrossisce: «In eccellente salute», dice, «e il tuo ultimo figlio?» Si pente chiaramente della frase nell’istante stesso in cui le esce di bocca. Si scusa e lascia la stanza per «prendere aria», mentre Morgen la osserva allontanarsi con occhi come chiodi d’argento lucenti. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.morgen.corso",
+   "startdescription": "Corso ha letto resoconti contrastanti sui metodi tradizionali per preparare il Sacramento Calicite. Chiede a Morgen, in quanto «ambasciatrice del Graal», la sua opinione. Lei obietta a questa definizione – «ambasciatrice della Strega, forse, almeno in una notte serena» – ma condivide comunque le proprie opinioni, chiaramente informate. [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.morgen.dagmar",
+   "startdescription": "Morgen racconta a una Dagmar affascinata la storia dell’unica volta in cui tentò, senza riuscirci, di raggiungere la città di Ys, legando la propria nave a un messaggero dissoluto dei cieli inferiori… [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.morgen.douglas",
+   "startdescription": "Morgen discute con Douglas di cucina dai risvolti occulti, suggerendo di tanto in tanto ipotetiche persone-ingrediente (un vescovo fraudolento; un amputato adepto del Battente) che potrebbe includere, e con quanto fervore il Bureau le darebbe la caccia in questi casi ipotetici. Douglas fatica a non perdere la calma. [Lezione: Spezie & Sapori]"
+  },
+  {
+   "id": "slnev.morgen.ehsan",
+   "startdescription": "Morgen ed Ehsan discutono delle motivazioni delle Ore aviformi. Ehsan è fermamente convinto che siano fondamentalmente benevole verso i mortali; Morgen dice sorridendo: «Allora forse conosci i Gemelli meglio di me.» [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.morgen.fraser",
+   "startdescription": "Morgen insiste sulla superiorità dei gatti sui cani. Fraser insiste sull’inferiorità dei gatti rispetto alle api. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.morgen.hokobald",
+   "startdescription": "L’ultima volta, Morgen ha regalato a Hokobald uno zaffiro cabochon; ora lui glielo restituisce, deridendo l’ovvietà della sua «trappola». Il suo atteggiamento verso di lei è passato da un’ossequiosità scontrosa a una minaccia scontrosa, sebbene il sottotono lascivo resti. Morgen insiste ridendo che si trattava «solo di un piccolo gioco», e sebbene Hokobald evidentemente non le creda, alla fine decide di accettare la scusa – forse per il bene della loro tenue non-parentela da alukite. [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.morgen.olympe",
+   "startdescription": "Morgen ripete frammenti semidimenticati di Ramsund che il vento le portò mentre navigava. Olympe glieli traduce. [Lezione: Ramsund]"
+  },
+  {
+   "id": "slnev.morgen.serena",
+   "startdescription": "Morgen e Serena discutono dei paralleli, e delle alleanze, fra le Ore e i corpi celesti. [Lezione: Uranoscopia]"
+  },
+  {
+   "id": "slnev.morgen.stanislav",
+   "startdescription": "Morgen chiede a Stanislav, con tono allegro e leggero, di «Tre Volti», il guardiano del Frutteto degli Immortali Verdi, dove si dice che Stanislav abbia trascorso del tempo. Stanislav risponde con rispetto, urbanità, e reticenza. [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.morgen.yvette",
+   "startdescription": "Morgen sembra colpita da Yvette, e le dedica più attenzioni di quante Yvette sembri gradire. Quando Yvette ammutolisce, Morgen leva la propria voce argentea in un canto argenteo. La melodia è allegra; ma le parole sono in Killasimi; e alla fine, perfino Morgen sembra sconvolta. «Vorrei, a volte, poter ancora piangere», confida. [Lezione: Killasimi]"
+  },
+  {
+   "id": "slnev.morgen.zachary",
+   "startdescription": "Dopo la loro conversazione sul contenimento-in-vetro dell’ultima volta, Morgen e Zachary si sono portati a vicenda dei reperti – o dei doni. Per lei, uno specchio di vetro brunito sempre freddo al tatto; per lui, una chiave di vetro che lei gli suggerisce di frantumare se le cose dovessero diventare «troppo quello che sono.» [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.olympe.agdistis",
+   "startdescription": "Olympe si è interessata a una «semi-diade» – un presunto Lungo della Lama a metà strada che tentò di ascendere sotto l’Ascia Cornuta, un habitué dell’ormai defunto Ecdysis Club dove un tempo lavorava Agdistis. Agdistis le suggerisce di interrompere le proprie indagini: che non è saggio inseguire l’idea che l’Ascia Cornuta possa ancora possedere una traccia di Lama... [Lezione: Editti Liminali]"
+  },
+  {
+   "id": "slnev.olympe.aladim",
+   "startdescription": "Olympe mostra ad al-Adim degli schizzi che ha realizzato basandosi su segni visti in sogno. «Sì», dice lui, «questo è quasi Sabazine. Ecco. Le Torri del Piccolo Martello. La Lupa-Sposa. La Colomba Nera. Credo che tu abbia sognato di dirigerti verso Brancrug…» [Lezione: Sabazine]"
+  },
+  {
+   "id": "slnev.olympe.arthur",
+   "startdescription": "Olympe è interessata a un altare inciso in Ramsund dedicato al Corvo-di-Spiaggia che Arthur trovò in una grotta sulla scogliera vicino a Trebisonda. Lui le abbozza alcuni dei segni. [Lezione: Ramsund]"
+  },
+  {
+   "id": "slnev.olympe.arun",
+   "startdescription": "Olympe e Arun ridacchiano su una voce del Roost tornata di recente a circolare, riguardo ad antichi incontri amorosi fra il Malachite e la Giumenta-nell’Albero; parlano della tradizione secondo cui la Giumenta-nell’Albero può talvolta essere la Sorella della Strega, cosa questo possa significare, e specialmente cosa possa significare per Rowena e zia Mopsy. [Lezione: Trasformazioni & Liberazioni]"
+  },
+  {
+   "id": "slnev.olympe.azita",
+   "startdescription": "Olympe cerca di interrogare Azita sulla presunta fornitura di armi a vari gruppi ribelli e partigiani a est del Mar Nero. Azita insiste che il responsabile sia il suo gemello-diade Mehrad. [Lezione: Editti Marziali]"
+  },
+  {
+   "id": "slnev.olympe.chaima",
+   "startdescription": "Olympe insegna a Chaima alcune utili frasi in Ramsund, a condizione che Chaima non le usi mai per ingannare la propria preda. [Lezione: Ramsund]"
+  },
+  {
+   "id": "slnev.olympe.connie",
+   "startdescription": "Olympe insiste con Connie sul fatto di non aver mai violato la legge onirica nell’uso di pigmenti esotici nel proprio lavoro. Connie è certa che Olympe abbia usato il refulgin; Olympe ammette di averlo fatto, ma assicura a Connie che era diluito ben oltre la soglia di pericolo… [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.olympe.coquille",
+   "startdescription": "Olympe sta scrivendo un romanzo in cui uno dei personaggi è un architetto specializzato in passaggi segreti e ingressi nascosti. Spera che Coquille possa aiutarla nelle ricerche. Coquille è comprensibilmente sospettosa, sebbene Olympe le assicuri più volte che ogni dettaglio delicato resterà nella massima riservatezza. Alla fine Olympe le spiega che il protagonista è ispirato a Fraser, e Coquille si rilassa abbastanza da condividere i propri segreti. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.olympe.corso",
+   "startdescription": "Olympe e Corso si consolano a vicenda sulla difficoltà di togliere l’inchiostro asimel dai propri sogni, lamentandosi che il sonno resta argenteo per mesi… [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.olympe.dagmar",
+   "startdescription": "Olympe e Dagmar confrontano le proprie esperienze di ubriacatura con l’Idromele Skinshuck. Entrambe si chiedono se abbiano davvero cambiato forma, o se i loro spiriti abbiano camminato in forma di bestia; entrambe concordano che berranno di nuovo quella roba solo in compagnia fidata. [Lezione: Soluzioni & Separazioni]"
+  },
+  {
+   "id": "slnev.olympe.douglas",
+   "startdescription": "Olympe sonda Douglas sulla soppressione dell’opera di Verro «Aprire il Cielo» – su quanto sia strano che il governo abbia commissionato l’opera per l’incoronazione del Nuovo Re, per poi sopprimerla. Douglas tira boccate imbarazzate dalla pipa e dice cose come «faccende di polizia» e «non me ne intendo molto di musica»; finché Olympe non menziona la parola «Gleam», a quel punto si scusa bruscamente ed esce a prendere aria. [Lezione: Uranoscopia]"
+  },
+  {
+   "id": "slnev.olympe.ehsan",
+   "startdescription": "Ehsan descrive con nostalgia e rimpianto i gioielli che conosceva nella terra, negli anni in cui era skaptodonte, così come li percepiva attraverso sensi più lenti e più forti. (Olympe: «Per quanto tempo sei stato nella terra?» Ehsan: «Questo è un segreto del Leonfabbro.») [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.olympe.fraser",
+   "startdescription": "Olympe sta scrivendo un romanzo in cui uno dei personaggi possiede un’impresa mineraria, e spera che Fraser possa aiutarla nelle ricerche. Fraser è disperatamente preoccupato per una pubblicità superflua, sebbene Olympe gli prometta che il personaggio non condividerà il suo nome, il suo aspetto, né alcun dettaglio biografico. Accetta comunque, a malincuore, di dare una mano quando Olympe gli confida che la protagonista è ispirata ad Azita. [Lezione: Spira & Baratro]"
+  },
+  {
+   "id": "slnev.olympe.hokobald",
+   "startdescription": "Olympe e Hokobald si scambiano osservazioni ellittiche su linfa, vino, coroide, e chitina. Lei gli dà un colpetto sulla mano e sorride; lui scrolla le ampie spalle. [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.olympe.morgen",
+   "startdescription": "Olympe chiede francamente se Morgen desiderasse diventare alukite, e in caso contrario, se ci fossero passi che avrebbe potuto compiere per evitare il concepimento. Morgen rabbrividisce divertita – ma è solo divertimento? – e osserva che Olympe non ha mai capito il Graal; che non c’è da stupirsi se Olympe «ha scelto un’altra strada». [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.olympe.serena",
+   "startdescription": "Olympe sta facendo ricerche sugli Obliviat – i loro antichi luoghi di potere, le loro parole di incatenamento. Serena è molto interessata alle sue scoperte. [Lezione: Sacra Limiae]"
+  },
+  {
+   "id": "slnev.olympe.stanislav",
+   "startdescription": "Olympe chiede a Stanislav del leggendario «Tasso Pontino»; e poi del miele dei suoi fiori, che apre una porta verso un altro luogo. Lui ha assaggiato il miele, ma di quel luogo dirà solo che non è il Mansus. [Lezione: Riti delle Radici]"
+  },
+  {
+   "id": "slnev.olympe.yvette",
+   "startdescription": "Yvette si chiede se gli dèi-che-erano-pietra possano essere ricondotti a fattori psichici o psicologici – fino a che punto siano mai state vere Ore, piuttosto che impulsi più bassi, parzialmente sublimati, delle Ore esistenti. Olympe è incuriosita. [Lezione: Putrefazioni & Calcinazioni]"
+  },
+  {
+   "id": "slnev.olympe.zachary",
+   "startdescription": "Zachary sta avendo una brutta giornata. I suoi occhi sono spalancati e fissi; i denti gli battono. Olympe gli posa una mano sul braccio per confortarlo, e cita dal Dibattito delle Sette Coppe: «Il dolore è dunque il Solvente ultimo del Senso…» [Lezione: Soluzioni & Separazioni]"
+  },
+  {
+   "id": "slnev.serena.agdistis",
+   "startdescription": "Serena e Agdistis discutono dei riti del ramo damasceno della Casa di Lethe. Lei si chiede – con tatto, ma l’implicazione è chiara – se Agdistis abbia mai partecipato a riti simili per preservare la propria voce meravigliosa. Lui dice di no, e sta sorridendo, ma è una maschera di sorriso. [Lezione: Sacra Limiae]"
+  },
+  {
+   "id": "slnev.serena.aladim",
+   "startdescription": "Serena interroga al-Adim sul ramo damasceno dell’organizzazione ora chiamata gli Obliviat. Lui condivide ciò che ricorda. [Lezione: Sacra Limiae]"
+  },
+  {
+   "id": "slnev.serena.arthur",
+   "startdescription": "Serena e Arthur discutono a voce bassa del Fiore Rosso dell’Albero del Guardiano. Serena ricorda i modi in cui il Serapeo ha usato le arti dell’ithast per preservare la conoscenza persino in un libro che viene bruciato... [Lezione: Piroglifici]"
+  },
+  {
+   "id": "slnev.serena.arun",
+   "startdescription": "Serena e Arun dibattono su quali siano le condizioni di illuminazione migliori – e più sicure – per leggere testi vergati in Inchiostri di Rivelazione. [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.serena.azita",
+   "startdescription": "Serena e Azita discutono delle imprese e della scomparsa del Diarista, il Lungo della Lanterna che da mortale si chiamava Lars Westergren. «Era un mostro», ammette Serena, «ma era il nostro mostro.» [Lezione: Paradossi del Guardiano]"
+  },
+  {
+   "id": "slnev.serena.chaima",
+   "startdescription": "Serena e Chaima si sono entrambe sottoposte al processo noto come la Purga di Torgue. Serena lo descrive come «orribile». Chaima suggerisce invece che sia «tonificante». [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.serena.connie",
+   "startdescription": "Connie e Serena discutono preoccupate dei recenti sviluppi in Gran Bretagna e sul Continente, dove le restrizioni dei Doveri sono state messe da parte da governi in cerca di armi sempre più terribili… [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.serena.coquille",
+   "startdescription": "Esiste una tradizione secondo cui ogni secolo nel Mansus è un nuovo salone dei banchetti per le Ore, e che alla fine di ogni secolo, lo chiudono e ne occupano uno nuovo… ma poiché ogni salone è sigillato dall’autorità combinata di tutte le Ore, è impossibile dimostrarlo. Coquille e Serena condividono i propri calcoli su dove, nel calendario solare, potrebbe cadere la fine di un secolo del Mansus. Entrambe concordano, con evidente inquietudine, che con ogni probabilità accadrà nei prossimi anni. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.serena.corso",
+   "startdescription": "Serena vuole ingaggiare Corso per procurarle un volume di poesie di Kalle di cui si vocifera da tempo – presumibilmente uno sviluppo dei temi di «Il Cielo, l’Anima» – per ragioni che non è disposta a condividere. Discutono della sua probabile ubicazione e del suo contenuto, e Corso la avverte che potrebbe in realtà non esistere, ma accetta comunque volentieri un anticipo. [Lezione: Piroglifici]"
+  },
+  {
+   "id": "slnev.serena.dagmar",
+   "startdescription": "Serena e Dagmar discutono del rapporto fra i Confini, le Marche della Luna, e il Nessun Luogo. Serena ritiene che il Nessun Luogo e lo spazio oltre le Marche della Luna siano contigui, ma Dagmar scuote fermamente il capo. «Ys non riuscì mai a trovare una via verso il Nessun Luogo. E nessuna Stella trovò mai una via per tornare.» [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.serena.douglas",
+   "startdescription": "Serena e Douglas hanno scoperto una passione condivisa per il lavoro a maglia: si mostrano a vicenda esempi del proprio lavoro. Douglas dice, sovrappensiero: «C’è una profezia fra i tessitori su chi imprudentemente cerca di scoprire il futuro…» Serena sussulta sorpresa, e Douglas borbotta: «Nessuno pensa mai che io abbia letto un maledetto libro.» [Lezione: Tessitura & Annodatura]"
+  },
+  {
+   "id": "slnev.serena.ehsan",
+   "startdescription": "Serena ed Ehsan parlano dei «riti velati» della Chiesa Solare – quelli vietati al pubblico, che ancora in gran parte considera le Ore come favole o maschere divine. [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.serena.fraser",
+   "startdescription": "Serena e Fraser fanno ipotesi sui <i>bisclavrets</i>, i licantropi di Broceliande. Serena propone legami sia con Ys sia con famiglie come i Raveline che soffrono sotto una maledizione bestiale. Interrompe con impazienza la risposta di Fraser: «Non tutto deve per forza riguardare la Croce del Carapace, sai.» [Lezione: Spira & Baratro]"
+  },
+  {
+   "id": "slnev.serena.hokobald",
+   "startdescription": "Serena e Hokobald stanno di nuovo discutendo sulla natura e sull’identità finale di un’Ora imminente. «La Chandler», insiste Hokobald con impazienza, «lascia la Casa senza esservi mai entrata. E ora, con tutta evidenza, si sta specchiando di nuovo, senza alcun tipo di ascensione che io riesca a scorgere.» Serena scuote il capo: «No. Non ha raggiunto un potere di quella portata. E in ogni caso: semplicemente non lo crederò di lei.» Hokobald si limita a ringhiare, feroce: «Allora sei ancora una sciocca.» [Lezione: Trasformazioni & Liberazioni]"
+  },
+  {
+   "id": "slnev.serena.morgen",
+   "startdescription": "Serena suggerisce alcune vie di ricerca che potrebbero – solo potrebbero – permettere a un’alukite di scrollarsi di dosso la propria contaminazione, o di placare la propria fame incalzante… ma Morgen insiste, forse con troppo fervore, che nessun Ligeiano si interesserebbe mai a una cosa del genere. [Lezione: Riflessi Meniscati]"
+  },
+  {
+   "id": "slnev.serena.olympe",
+   "startdescription": "Serena e Olympe confrontano le proprie esperienze con Re Crogiolo. Serena lo ha evocato in diverse occasioni. Olympe lo ha intervistato, con sorpresa di Serena: perfino Crogiolo, a quanto pare, è sempre più incline a camminare in forma umana… [Lezione: Trasformazioni & Liberazioni]"
+  },
+  {
+   "id": "slnev.serena.stanislav",
+   "startdescription": "Serena parla in tono didattico delle «conseguenze frangibili» del Fucine nelle preghiere sussurrate dai chirurghi. «Non è affatto la mia specialità. Ma il Serapeo ha ospitato nel corso degli anni medici illustri.» [Lezione: Fucine]"
+  },
+  {
+   "id": "slnev.serena.yvette",
+   "startdescription": "Yvette sta considerando di tenere i propri appunti in houndsgall, per sicurezza. Serena la mette in guardia da alcuni dei pericoli dell’uso e della conservazione dell’houndsgall. [Lezione: Inchiostri di Contenimento]"
+  },
+  {
+   "id": "slnev.serena.zachary",
+   "startdescription": "Zachary chiede a Serena dei Wheelock di Treowen e in particolare del povero Gregory, condannato, la «semi-diade»; ma concludono che nulla in quella triste storia potrà aiutare Zachary. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.stanislav.agdistis",
+   "startdescription": "Stanislav e Agdistis discutono delle tecniche di potatura usate quando una pianta è ferita dall’inverno; di come assicurarsi che non resti corteccia lacerata; di come non farsi distrarre da timidezza o tenerezza. [Lezione: Foglie & Spine]"
+  },
+  {
+   "id": "slnev.stanislav.aladim",
+   "startdescription": "Verso la fine del pasto, Padre Stanislav dimostra alcuni dei segni che usava per comunicare con i «piedeunico» durante i suoi viaggi «a est di Hsian». Disegna i segni sul proprio piatto, e li cancella subito dopo. «Meglio di no», dice sottovoce, «a meno che tu non voglia <i>restare</i> a est di Hsian.» [Lezione: Cracktrack]"
+  },
+  {
+   "id": "slnev.stanislav.arthur",
+   "startdescription": "Stanislav e Arthur discutono delle erbe di Persia, e dei loro usi nell’infermeria del Labirinto dei Leoni. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.stanislav.arun",
+   "startdescription": "Stanislav parla di un verso provocatorio sulla Tavoletta di Giada Bianca – «le nostre pelli erano ancora morbide, e cadevano facilmente da noi…» Si chiede come la «muta» di Peel possa essere collegata a ciò, ma Peel è evasivo come al solito. [Lezione: Riti delle Radici]"
+  },
+  {
+   "id": "slnev.stanislav.azita",
+   "startdescription": "Azita chiede l’opinione di Stanislav sulla «peste lignificante» che ha osservato di recente a Kabul e Samarcanda, che finora colpisce solo gli edifici… [Lezione: Riti delle Radici]"
+  },
+  {
+   "id": "slnev.stanislav.chaima",
+   "startdescription": "Stanislav e Chaima parlano del Sette-Spire, il «Padre della Madre», che ha lasciato il mondo; dei sette accoliti non umani che ha ispirato; delle loro profezie. Chaima riflette con nostalgia su quale grande caccia sarebbe potuta essere la fine del Sette-Spire... [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.stanislav.connie",
+   "startdescription": "Stanislav conferma a Connie di aver anche lui ormai sentito qualcosa dello «Spinnennebel» apparso dapprima in Austria ma che ha afflitto zone remote della campagna in tutta Europa – persino tanto a ovest quanto il suo rifugio in Bretagna. Concorda che presenti molti dei tratti caratteristici di un’irruzione dal Nessun Luogo – ma aggiunge pensieroso che un informatore sostiene sia stato fabbricato... [Lezione: Insetti & Nettari]"
+  },
+  {
+   "id": "slnev.stanislav.coquille",
+   "startdescription": "Stanislav e Coquille si scambiano storie su zia Mopsy. Lui la incontrò quando lei fece un pellegrinaggio al Frutteto degli Immortali Verdi, nei giorni in cui abitava alla sua penombra; lei lo presentò al proprio fratello adottivo a Tiflis quando i suoi gusti erano diventati stanchi e cercava diversivi più pericolosi... [Lezione: Foglie & Spine]"
+  },
+  {
+   "id": "slnev.stanislav.corso",
+   "startdescription": "Stanislav e Corso parlano di Zulfiya Zakirova, con cui Corso una volta stava quasi per sposarsi – officiante Stanislav, per giunta. Corso si tira mestamente i baffi mentre descrive le sue lotte contro il delirio e la sua ossessione per i capricci del Bosco. «Poi un giorno ha cominciato a indossare parrucche ed è scappata con un accordatore di pianoforti. L’ultima volta che ne ho avuto notizia, dava lezioni di piano a Lipsia.» [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.stanislav.dagmar",
+   "startdescription": "Stanislav dà consigli di apicoltura a Dagmar. Gli alveari nella sua tenuta, gli riferisce lei, si sono «rilassati un po’ troppo». [Lezione: Insetti & Nettari]"
+  },
+  {
+   "id": "slnev.stanislav.douglas",
+   "startdescription": "Douglas si sta occupando della morte, avvenuta sei secoli fa, della Badessa Nonna. Ha interrogato fonti non specificate che non condivide con Stanislav, e conclude che Nonna fu posseduta da un Nome del Blackbone e «soppressa» dalle sue consorelle – «brutta faccenda, ma era la cosa migliore da fare». Lui e Stanislav discutono delle miscele di erbe che potrebbero averla resa vulnerabile a quella possessione. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.stanislav.ehsan",
+   "startdescription": "Stanislav ed Ehsan discutono su quali fiumi e condizioni atmosferiche possano ancora essere considerati – metaforicamente o profeticamente – a seconda dei momenti e delle stagioni, «sangue del Sette-Spire». [Lezione: Spira & Baratro]"
+  },
+  {
+   "id": "slnev.stanislav.fraser",
+   "startdescription": "Stanislav e Fraser discutono dell’opera dell’entomologa Juliana Zawistowski. Fraser è fermamente convinto che portasse dentro di sé la natura della stirpe Thritige della Croce del Carapace. [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "slnev.stanislav.hokobald",
+   "startdescription": "Stanislav chiede a Hokobald della tradizione secondo cui il Velluto renderebbe immortali coloro che sono abbastanza saporiti da essere cacciati dal suo animaletto, Kitling Ripe. Hokobald conferma con sicurezza che è così, ma le sue spiegazioni deragliano in tirate su quegli immortali che <i>avrebbero dovuto</i> diventare sue vittime – o che lei divorò nonostante la loro insipidezza. (Sembra quasi geloso di questi ultimi.) [Lezione: Spezie & Sapori]"
+  },
+  {
+   "id": "slnev.stanislav.morgen",
+   "startdescription": "Morgen incalza ulteriormente Stanislav su «Tre Volti», il Nome di Applebright associato al Frutteto degli Immortali Verdi. Stanislav chiede se Morgen e Tre Volti si conoscano «professionalmente»; Morgen dice che non si conoscono – non ancora – e che potrebbe chiedere a Stanislav di fare da tramite per una presentazione. Stanislav non sembra entusiasta della prospettiva. [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.stanislav.olympe",
+   "startdescription": "Stanislav e Olympe discutono delle Ore del Bosco. Stanislav fa notare che i monaci si tagliano i capelli; suggerisce, forse maliziosamente, che come categoria appartengano alla Falena… [Lezione: Riti delle Radici]"
+  },
+  {
+   "id": "slnev.stanislav.serena",
+   "startdescription": "Serena risponde alle domande di Stanislav sulle cucine del Serapeo durante il suo periodo lì – in particolare sulle tecniche westcottiane che portò da Brancrug. [Lezione: Spezie & Sapori]"
+  },
+  {
+   "id": "slnev.stanislav.yvette",
+   "startdescription": "Yvette interroga Stanislav sull’Eresia Carniolana, che percepiva la Luna come una crisalide e il Sole come la sua imago. Stanislav è divertente sui dettagli dell’eresia, ma si scopre incapace di illuminare Yvette sulle sue motivazioni e origini. [Lezione: Insetti & Nettari]"
+  },
+  {
+   "id": "slnev.stanislav.zachary",
+   "startdescription": "Stanislav e Zachary discutono delle «misure di misericordia» della strega Nyn. Zachary concorda che le sue tecniche siano potenti contro i Divoratori, ma è diventato riluttante a usarle da quando teme di potersi qualificare, a propria volta, come un Divoratore… [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.yvette.agdistis",
+   "startdescription": "Yvette ascolta mentre Agdistis lotta con la propria avversione per l’opera di Solomon Husher: non riesce, non vuole, accettare che tutto <i>debba</i> finire – non è disposto nemmeno ad accettare che <i>qualcosa</i> debba finire. [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.yvette.aladim",
+   "startdescription": "Yvette chiede ad al-Adim cosa ricordi dei propri genitori. Lui risponde di ricordare solo la loro morte. Parla di quelle morti con un distacco che sembra sorprendere più lui di quanto sorprenda lei. [Lezione: Storie di Lupo]"
+  },
+  {
+   "id": "slnev.yvette.arthur",
+   "startdescription": "Yvette solleva di nuovo l’argomento del Sabazine con Arthur. Ha letto del dio Sabazos, che porta la follia impiegando le armi del parlare-nel-silenzio. Arthur ha sentito parlare di queste tecniche, e con grande cautela ne condivide appena un poco… [Lezione: Taglienti]"
+  },
+  {
+   "id": "slnev.yvette.arun",
+   "startdescription": "Arun e Yvette hanno iniziato con una seria discussione filologica – le somiglianze fra Henavek e Vak – ma la conversazione è degenerata in qualcosa di più simile a un pettegolezzo, confrontando le virtù e i fascini di Vak e Henavek come se fossero persone. Arun menziona la tradizione secondo cui le due lingue sarebbero fratello e sorella. «Sarebbe un peccato, non credi, se lo fossero?» risponde Yvette con aria maliziosa. «Se fossero fratello e sorella, di certo non potrebbe accadere nulla di sconveniente fra loro, no?» Il viso di Arun si increspa tutto in un sorriso insolitamente fervido. [Lezione: Henavek]"
+  },
+  {
+   "id": "slnev.yvette.azita",
+   "startdescription": "In una Storia, Alexander udì da Darius un segreto che lo convinse ad abbandonare la battaglia e a tornare a casa, annunciando: «Il Sole ha il suo corso, e così anch’io.» Yvette chiede ad Azita cosa sappia del segreto, apparentemente convinta che Azita e Alexander fossero contemporanei, il che diverte non poco Azita («non ho nemmeno mille anni»). In ogni caso Azita è dell’opinione che il segreto sia «una sciocchezza da Leonfabbro» e che Alexander fosse «parecchio sopravvalutato». [Lezione: Falce & Eclissi]"
+  },
+  {
+   "id": "slnev.yvette.chaima",
+   "startdescription": "Yvette interroga Chaima sui motivi e sulla credibilità di «Piccola Sophia», l’autrice cacciatrice di mostri – e in particolare cacciatrice di Vermi – di «Oblazioni nel Ferro». Chaima non si sbilancia, ma è molto chiara sul fatto che anche lei cerchi di non dare la caccia ai Vermi. [Lezione: Inchiostri di Contenimento]"
+  },
+  {
+   "id": "slnev.yvette.connie",
+   "startdescription": "Connie e Yvette discutono di un paziente di Yvette che, a quanto ora sembra, potrebbe essere morto prima ancora della prima seduta. («Mi ero chiesta,» dice Yvette lentamente, «perché le mie stanze fossero sempre così fredde dopo.») Connie è dell’opinione che, essendo l’uomo morto, non debba applicarsi alcuna considerazione etica sulla riservatezza. Yvette non ne è convinta. [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.yvette.coquille",
+   "startdescription": "Coquille incalza Yvette sulla sua somiglianza con Rowena Hengerst; le chiede se si siano mai incontrate. «No,» dice Yvette; «non accetterà mai un’intervista con me.» Coquille ipotizza con entusiasmo sul perché; Yvette annuisce e sorride. [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.yvette.corso",
+   "startdescription": "Yvette incalza Corso sulle origini del «Codex Acephali». Lui le risponde come meglio può, ma poi cambia argomento: «Non voglio parlare di quel libro mentre mangio.» [Lezione: Storie di Neve]"
+  },
+  {
+   "id": "slnev.yvette.dagmar",
+   "startdescription": "Dagmar parla a Yvette dei suoi sogni del Fiume Dipinto. «Difficile dire se sia un sogno <i>del</i> Fiume, o <i>nel</i> Fiume. Il Fiume sta dietro la Porta del Cervo. Non ho mai oltrepassato la Porta del Cervo; be’, non formalmente; be’, non parliamone, eh? Ma comunque la Vagabonda dipinse il Fiume, e tutta la sua storia, vedi, è che lei entra dove non dovrebbe. Anzi, parliamo d’altro?» [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.yvette.douglas",
+   "startdescription": "Yvette e Douglas discutono degli stymphling, che Douglas chiama «l’errore dell’Ora-Colomba», e che Yvette preferisce considerare un ricordo benedetto di un’era dal sole più rosso… [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.yvette.ehsan",
+   "startdescription": "Yvette ed Ehsan parlano con nostalgia di ciò che hanno letto sull’Ora perduta chiamata Marea. Yvette ricorda che quando la Sorella si ritira, altre Ore a volte riempiono lo spazio lasciato dal suo ritiro, e si chiede se la Marea sia abbastanza gentile da restare in seguito... ma Ehsan insiste cortesemente che gli dèi-che-erano-pietra non sono mai gentili. [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.yvette.fraser",
+   "startdescription": "Yvette e Fraser discutono dei suoi ulteriori «sogni di occhi», e delle sue teorie sull’ingresso della stirpe Scīmafectra e della stirpe Thritige nella carne umana. Yvette si chiede ad alta voce se abbia mai considerato che la maggior parte – forse tutti – i sogni nascano dal suo stesso desiderio frustrato di paternità. In un moto di stizza, lui si strappa il guanto dalla mano alterata, e ne mostra a lei gli angoli lucidi e mutati. Per un momento cala il silenzio al tavolo. [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.yvette.hokobald",
+   "startdescription": "Yvette chiede a Hokobald se esistano modi per determinare chi possa essere figlio di due Lunghi. Lui insiste con apparente orgoglio sul fatto che sia molto raro che i figli dei Lunghi sopravvivano – che uno dei genitori quasi sempre li divori e «ascenda» allo status di alukite – ma riconosce che è successo, in rare circostanze, e condivide alcuni dei segni... [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.yvette.morgen",
+   "startdescription": "Incoraggiata dalla loro ultima conversazione, Yvette rivolge domande dirette su come Morgen sia diventata ciò che è. Morgen non vuole parlare di come sia diventata alukite, ma parla volentieri della propria crescita come Lunga – il proprio addestramento nella Forma Antica da parte di Sulochana, la propria fascinazione per la Nuova Forma del Pelledituono, e le ultime danze che la condussero alla Casa della Luna. [Lezione: Tridesma Hiera]"
+  },
+  {
+   "id": "slnev.yvette.olympe",
+   "startdescription": "Yvette e Olympe proseguono le proprie teorizzazioni sulla natura fondamentalmente favolosa o metaforica degli dèi-che-erano-pietra. Forse la Selce non è che un frammento raffreddato degli impulsi della Forgia – forse la Marea rappresenta il desiderio inconscio di pace del Graal.... Olympe propone di incaricare Yvette di scrivere una serie di articoli per la <i>Rivista Kerisham</i>. [Lezione: Putrefazioni & Calcinazioni]"
+  },
+  {
+   "id": "slnev.yvette.serena",
+   "startdescription": "Serena e Yvette discutono della morte del Signore di Marca Gwilym Ddu, «Guglielmo Nero», nella quale le suore di St Brandan potrebbero – potrebbero – essere state implicate tramite i loro rapporti con gli antichi poteri delle colline… Yvette suggerisce vivacemente che potrebbe esserci stata una certa confusione linguistica fra «Gwilym Ddu» e «Kelemdu», la Colomba Nera... ma Serena si porta un dito alle labbra. [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.yvette.stanislav",
+   "startdescription": "Yvette e Stanislav chiacchierano del famigerato romanzo erotico-occulto «Ettery After», che Yvette considera «scadente» e Stanislav considera «piccante». [Lezione: Inchiostri di Contenimento]"
+  },
+  {
+   "id": "slnev.yvette.zachary",
+   "startdescription": "Yvette parla con tono rassicurante a Zachary di neve, silenzio, e luna piena… [Lezione: Storie di Neve]"
+  },
+  {
+   "id": "slnev.zachary.agdistis",
+   "startdescription": "Zachary descrive la propria comprensione dell’«Angelo delle Tempeste», la bellezza delle sue nubi sottostanti, gli accessi dei suoi fulmini, come brami di rinchiuderla in una gabbia di vetro. Agdistis ascolta pazientemente; di tanto in tanto i suoi occhi guizzano come se comprendesse. [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.zachary.aladim",
+   "startdescription": "Zachary, senza alcun imbarazzo, recita ad al-Adim una poesia ancora in lavorazione: un componimento che è una fortezza di dissonanze. Ne batte il ritmo sul tavolo. Al-Adim suggerisce timidamente un affinamento, che Zachary, con giudizio, accetta. [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.zachary.arthur",
+   "startdescription": "Zachary e Arthur discutono di una profezia della Guerra delle Strade, in cui le Legioni Imperiture combattono contro la Fiamma Incatenata, con effetti apocalittici. Arthur teme che la profezia non sia ancora completa – che si riferisca a una guerra imminente in Europa. Zachary concorda, ma trova difficile articolare le proprie ragioni – dice che le Legioni Imperiture non sono la Légion du Seuil, ma (gesticolando, sempre gesticolando) che sono «aggiogate al Cuore». [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.zachary.arun",
+   "startdescription": "«Ricorda,» dice Arun a Zachary, «che alla fine è sempre troppo tardi; ma non lo è mai fino ad allora.» Zachary tira un lungo sospiro. «Lo dici sempre. È meno utile di quanto tu creda.» [Lezione: Putrefazioni & Calcinazioni]"
+  },
+  {
+   "id": "slnev.zachary.azita",
+   "startdescription": "Zachary e Azita confrontano tecniche di esorcismo. Lei chiede per scherzo quali tecniche si potrebbero usare per esorcizzare lui, e se ne pente immediatamente quando lui non si accorge che sta scherzando e risponde con tutta la serietà possibile. [Lezione: Falce & Eclissi]"
+  },
+  {
+   "id": "slnev.zachary.chaima",
+   "startdescription": "Zachary e Chaima parlano di come ci si sente quando la caccia finisce – lo spazio inquieto prima che ne cominci un’altra. [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.zachary.chaima.seventhvoice",
+   "startdescription": "Zachary recita alcuni dei passi da «Una Settima Voce» di Savage che Dagmar ha condiviso con lui ridacchiando. La sua dizione chiara, fredda e precisa produce un effetto inaspettato: gli elementi spinti sembrano struggenti, gli elementi struggenti brillano di luce. Chaima gli prende la mano mentre ascolta, e l’irrequieto movimento delle sue dita per un momento si placa. [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.zachary.connie",
+   "startdescription": "Connie e Zachary discutono degli effetti del suo piano di tatuaggi-di-contenimento per aiutare con la sua condizione. Non è promettente. Le mostra l’avambraccio, sul quale i tatuaggi già sbiadiscono come i colori di un fiore sotto la brina. «Devi venire,» gli dice. «Al Bureau. Prima che sia troppo tardi. Diventa sempre più difficile spiegare perché non ti abbia già portato dentro...» [Lezione: Inchiostri di Contenimento]"
+  },
+  {
+   "id": "slnev.zachary.coquille",
+   "startdescription": "Zachary e Coquille si scambiano parabole sulla «Grande Cicatrice» – la lingua-dea Vak, che è la Porta del Pavone – e su come potrebbe essere guarita. Coquille fa notare che ciò significherebbe la fine di Vak. «Sì», concorda Zachary, «la fine del suo dolore.» [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.zachary.corso",
+   "startdescription": "Zachary vuole altro aiuto da Corso con i propri studi di Hyksos. Ha sentito dire che le cerimonie della Légion du Seuil a volte impiegano quella lingua. Sta considerando di unirsi alla Légion, ma vuole prima comprenderla meglio. [Lezione: Hyksos]"
+  },
+  {
+   "id": "slnev.zachary.dagmar",
+   "startdescription": "Zachary mostra a Dagmar un Tanglebrag che ha realizzato. Cerca di spiegare come esso «raffiguri e tradisca» i sentieri del proprio futuro. Lei cerca di capire. [Lezione: Editti Liminali]"
+  },
+  {
+   "id": "slnev.zachary.douglas",
+   "startdescription": "Zachary e Douglas rievocano un caso su cui lavorarono entrambi, anni fa, quando dovettero trovare un modo per vincolare un thriceros che si era in qualche modo ritrovato nel Tamigi. Douglas ricorda come il processo di vincolo abbia risvegliato per la prima volta la sua passione per il lavoro a maglia, e Zachary si impone lo sforzo necessario per piegare il volto in un sorriso. [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.zachary.ehsan",
+   "startdescription": "Zachary parla a Ehsan della scalinata verso il Nessun Luogo che perseguita i suoi dipinti, delle lampade di nefrite nera, dello scintillio stellare dei fiori tra i capelli di Miss Naenia. C’è più di una tentazione verso il Nessun Luogo, dice… [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.zachary.fraser",
+   "startdescription": "Fraser suggerisce modi in cui Zachary potrebbe far progredire o evolvere i propri passeggeri privi di arti, così che entrambi possano diventare qualcosa di più – in sicurezza. Zachary non ne è convinto. [Lezione: Serpenti & Veleni]"
+  },
+  {
+   "id": "slnev.zachary.hokobald",
+   "startdescription": "Zachary e Hokobald discutono della divisione del Sole, che Zachary sospetta essere il risultato di «una cospirazione del cielo», e che Hokobald insiste essere stata «la Grande Opera del Destino». [Lezione: I Grandi Segni e le Grandi Cicatrici]"
+  },
+  {
+   "id": "slnev.zachary.morgen",
+   "startdescription": "Zachary chiede francamente a Morgen di tecniche esoteriche per contenere l’appetito in un recipiente esterno. Morgen ribatte con alterigia che non ha mai sentito il bisogno di contenere i propri appetiti, esternamente o altrimenti – ma nel corso della conversazione, sviluppa chiaramente un certo grado di simpatia per il pallido, tremante ex-detective. [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.zachary.olympe",
+   "startdescription": "«Ho un nome», dice Zachary con distacco, «e un altro nome. Uno dei due è scritto solo in Killasimi. Ne parlerò, perché mi hai invitato. Ma non lo pronuncerò, perché sono un ospite.» [Lezione: Killasimi]"
+  },
+  {
+   "id": "slnev.zachary.serena",
+   "startdescription": "Serena si offre di foggiare una prigione per Zachary e il suo passeggero, se le cose dovessero farsi troppo gravi. Lui ci penserà; condivide con arguzia i propri pensieri su cosa potrebbe contenerlo. [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.zachary.stanislav",
+   "startdescription": "Stanislav consiglia a Zachary alcune «parole di misericordia», che potrebbero placare le urgenze che turbano la pelle di Zachary. «Quella la conosco!» dice Zachary all’improvviso. «Discende da Chione.» [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.zachary.yvette",
+   "startdescription": "«Fa freddo», sussurra Zachary a Yvette. Rabbrividisce. «Devo restare freddo, vero? Se mi scongelo, mi disferò, non è così?» Yvette annuisce con cautela. «Penso sia meglio che tu non ti scongeli – non ancora –» concorda. [Lezione: Storie di Neve]"
+  },
+  {
+   "id": "slnev.visiting.denzil.agdistis",
+   "startdescription": "Agdistis vuole sentire qualche canto tradizionale della Cornovaglia. Denzil ne canticchia uno, e Agdistis ascolta con attenzione, ripetendoglielo. Denzil è un po’ stonato, ma Agdistis lo raddrizza canticchiandolo a sua volta. [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.visiting.denzil.aladim",
+   "startdescription": "Al-Adim sta ponendo a Denzil domande tecniche sulla maniscalcheria. («Ho cavalcato molte specie di destrieri su molte specie di strade…») Denzil risponde in modo breve e serio, ma il suo interesse sembra destarsi di fronte agli accenni di al-Adim sul ferrare destrieri diversi dai cavalli… [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.visiting.denzil.arthur",
+   "startdescription": "Arthur sta chiedendo a Denzil del periodo che ha passato in Guerra. Denzil risponde con cortesi monosillabi. [Lezione: Discipline del Martello]"
+  },
+  {
+   "id": "slnev.visiting.denzil.arun",
+   "startdescription": "Arun avvia una conversazione animata, per quanto unilaterale, con Denzil, regalandogli una traduzione improvvisata del Tantra Incandescente: «un grande cambiamento richiede una dissoluzione fondente.» Il tono di Arun si fa più sibilante, e si siede molto vicino a Denzil, che comincia, cautamente, a sorridere. [Lezione: Trasformazioni & Liberazioni]"
+  },
+  {
+   "id": "slnev.visiting.denzil.azita",
+   "startdescription": "Azita descrive scaramucce con banditi e doganieri lungo le strade dell’Est. Denzil siede a braccia conserte, annuendo di tanto in tanto. [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.visiting.denzil.chaima",
+   "startdescription": "Denzil e Chaima siedono in amichevole compagnia mentre lei dimostra allarmanti trucchi con il proprio coltello. [Lezione: Taglienti]"
+  },
+  {
+   "id": "slnev.visiting.denzil.connie",
+   "startdescription": "Connie sta interrogando Denzil, con apparente noncuranza, su sogni recenti in cui ha seguito una grande bestia alata attraverso un bosco oscuro. Denzil risponde in modo conciso, ma sincero. [Lezione: Corna & Avori]"
+  },
+  {
+   "id": "slnev.visiting.denzil.coquille",
+   "startdescription": "Coquille chiede a Denzil di descriverle le tempeste della costa. Si sporge verso di lui e gli sorride da sotto le ciglia. Denzil non si lascia coinvolgere, se non per lamentarsi di una recente tempesta che ha chiuso lo Sweet Bones. Alla fine parla di un episodio delle «candele di St Piran» – una luce che a volte guizza intorno alla banderuola della canonica durante le tempeste – ma la sua descrizione distaccata e pratica non riesce evidentemente a soddisfare Coquille. [Lezione: Ambreria & Lapidario]"
+  },
+  {
+   "id": "slnev.visiting.denzil.corso",
+   "startdescription": "Corso chiede a Denzil dei sentieri costieri, e di chi ha visto percorrerli. Contrabbandieri? Pellegrini? Fantasmi? Denzil scuote la testa a tutte queste ipotesi, ma descrive un incontro che il suo bisnonno avrebbe avuto con una «donna da dietro l’onda»... [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.visiting.denzil.dagmar",
+   "startdescription": "Dagmar sta spiegando a Denzil come lui si trasferirà per diventare il suo fabbro residente e aiutarla con «tanti piccoli progetti». Denzil ribadisce a intervalli che non farà niente del genere. Dagmar non sembra accorgersene, o quantomeno non sembra dispiacersene. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.visiting.denzil.douglas",
+   "startdescription": "Douglas chiede a Denzil consigli sulle riparazioni al proprio capanno, che Denzil fornisce con solennità. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.visiting.denzil.ehsan",
+   "startdescription": "Ehsan e Denzil chiacchierano di pesca. [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.visiting.denzil.fraser",
+   "startdescription": "Fraser interroga Denzil sui suoi ricordi dell’estrazione dello stagno in Cornovaglia. La famiglia di Denzil, a quanto pare, includeva diversi minatori di stagno. «Non molti di loro muoiono vecchi», ammette Denzil. [Lezione: Spira & Baratro]"
+  },
+  {
+   "id": "slnev.visiting.denzil.hokobald",
+   "startdescription": "Hokobald incalza Denzil sui racconti costieri delle campane profonde di Ys. Denzil condivide a malincuore alcuni frammenti raccolti da suo padre. [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.visiting.denzil.morgen",
+   "startdescription": "Morgen disdegna Denzil. Lui, a sua volta, mantiene una distanza rispettosa, e si può osservare che incide furtivamente una croce solare sul tavolo quando lei non guarda."
+  },
+  {
+   "id": "slnev.visiting.denzil.olympe",
+   "startdescription": "Olympe chiacchiera con Denzil della vita di paese. È soprattutto Olympe a chiacchierare."
+  },
+  {
+   "id": "slnev.visiting.denzil.serena",
+   "startdescription": "Denzil e Serena rievocano il periodo in cui lei era Archivista, e le settimane che il giovane Denzil trascorse alla Hush House, aiutando a riparare la fonderia, dopo aver litigato con suo padre… e prima di partire per la guerra."
+  },
+  {
+   "id": "slnev.visiting.denzil.stanislav",
+   "startdescription": "Stanislav consiglia sollecitamente a Denzil un impacco per la sua lombaggine. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.visiting.denzil.yvette",
+   "startdescription": "Gli occhi di Denzil si spalancano alla vista di Yvette. Inclina rispettosamente il capo, ma risponde a malapena a qualsiasi sua domanda."
+  },
+  {
+   "id": "slnev.visiting.denzil.zachary",
+   "startdescription": "Sembra che Denzil e Zachary si conoscano dal tempo in cui Zachary si riprendeva a Brancrug dopo la Grande Guerra. Parlano dei sentieri che non hanno percorso. Denzil non si è mai sposato, né è mai andato più a sud di Ypres. Zachary non ha toccato un’arma da fuoco dalla Guerra, né è mai tornato nel luogo della propria nascita. [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.visiting.killes.agdistis",
+   "startdescription": "Mrs Kille e Agdistis si salutano calorosamente. Sembra che si conoscessero a Parigi, nei giorni prima del matrimonio di lei. Lei gli chiede della sua scuola di danza… [Lezione: Tamburi & Danze]"
+  },
+  {
+   "id": "slnev.visiting.killes.aladim",
+   "startdescription": "Al-Adim e Mr Kille discutono degli uccelli rapaci che infestano le brughiere. Mr Kille è incuriosito nell’apprendere dell’interesse di al-Adim per la falconeria, sebbene non l’abbia mai praticata personalmente. [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.visiting.killes.arthur",
+   "startdescription": "Arthur e Mr Kille discutono di alcune delle ferite più raccapriccianti che abbiano visto su dei cadaveri. I loro diversi interessi professionali li portano fuori strada, ed entrambi si zittiscono dopo che un’occhiata tagliente di Mrs Kille ricorda loro dove si trovano. [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.visiting.killes.arun",
+   "startdescription": "Arun esercita il proprio fascino per superare la diffidenza di Mr Kille verso gli stranieri. Descrive la propria «condizione della pelle» in termini ellittici, e invita Mr Kille a consigliarlo su come nasconderla meglio. Mr Kille ribadisce di essere un fabbricante di bare, non un imbalsamatore, ma ha comunque un suggerimento o due... [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.visiting.killes.azita",
+   "startdescription": "Azita e Mrs Kille si scambiano sapienza meteorologica. («Un sacco di bambini restii a nascere, non vedono l’ora di spuntar fuori la testa in un temporale» sentenzia Mrs Kille tetra.) [Lezione: Storie di Cielo]"
+  },
+  {
+   "id": "slnev.visiting.killes.chaima",
+   "startdescription": "Chaima e Mr Kille discutono di usanze funerarie in Europa e oltre. [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.visiting.killes.connie",
+   "startdescription": "Connie interroga Mrs Kille su storie di changeling nelle zone più remote della contea. Mrs Kille insiste che sono solo storie… ma ammette che le è capitato di intrecciare filo rosso attorno ai davanzali, e mettere rametti di sorbo sotto la culla, per sicurezza. [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.visiting.killes.coquille",
+   "startdescription": "Coquille e Mrs Kille discutono di metodi per facilitare il parto, e per prevenirlo. [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.visiting.killes.corso",
+   "startdescription": "Corso tira fuori dalla tasca il proprio taccuino e mostra un ritaglio di rivista: «Terra Sottile», una poesia che gli è piaciuta, scritta niente meno che da Mr Kille. Mr Kille, imbarazzato, si china vicino per discuterne. Ammette che le conversazioni allo Sweet Bones con i visitatori più memorabili della Hush House gli hanno fornito ispirazione... [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.visiting.killes.dagmar",
+   "startdescription": "Dagmar saluta Mrs Kille chiamandola «Mlle Raveline», si corregge, le dà una manata sulla spalla, le chiede di vari parenti francesi che Mrs Kille non vede da anni, si entusiasma per vari altri parenti francesi che Mrs Kille non vede da anni, e alla fine le chiede se abbia mai avuto problemi con <i>«la malaise raveline»</i>. Mrs Kille risponde cortesemente di no... ma che ha scelto di non avere figli, per sicurezza. Dall’altra parte del tavolo, Mr Kille incrocia il suo sguardo con la familiarità di un lungo matrimonio e allunga la mano verso la sua."
+  },
+  {
+   "id": "slnev.visiting.killes.douglas",
+   "startdescription": "Douglas sta commissionando a Mr Kille una bara molto particolare: legno colpito da un fulmine, fasce di rame (che Mr Kille dice, con qualche dubbio, di sperare che Denzil sappia realizzare) e il tutto senza che possa mai toccare terra prima che Douglas ne prenda consegna… [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.visiting.killes.ehsan",
+   "startdescription": "Mrs Kille ed Ehsan discutono della fasciatura e della sutura delle ferite. [Lezione: Cucitura & Rilegatura]"
+  },
+  {
+   "id": "slnev.visiting.killes.fraser",
+   "startdescription": "Fraser chiede a Mrs Kille se ci siano state nascite insolite nella campagna qui intorno ultimamente – animali, o umani? Lei ammette che sì, ce ne sono state. Lui chiede se qualcuna di esse presentasse ali, o occhi insoliti. Dopo una pausa più lunga, lei dice che sì, alcune sì, ma che non ne conosce nessuna sopravvissuta. [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.visiting.killes.hokobald",
+   "startdescription": "Mr e Mrs Kille siedono il più lontano possibile da Hokobald. Nessuno dei due lo guarda."
+  },
+  {
+   "id": "slnev.visiting.killes.morgen",
+   "startdescription": "Mrs Kille si rivolge rispettosamente a Morgen chiamandola <i>Chaculette</i> – un titolo che Morgen sembra riconoscere – e china il capo. Morgen si tocca un dito alle labbra, e poi lo posa sulla fronte di Mrs Kille – forse una benedizione, forse qualcos’altro. Segue una pausa, dopo la quale Morgen comincia un resoconto informale di un recente viaggio per mare. [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.visiting.killes.olympe",
+   "startdescription": "Mr Kille e Olympe si entusiasmano per Noël Coward, di cui, a quanto pare, sono entrambi ammiratori appassionati. Olympe menziona di avere, riposto con cura nel proprio bagaglio, un disco a 78 giri con l’opera più recente di Coward, «Don’t Put Your Daughter On the Stage, Mrs Worthington», e si offre di prestarlo a Mr Kille, che è così entusiasta da rischiare di rovesciare la sedia. [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.visiting.killes.serena",
+   "startdescription": "Serena conobbe Mr Kille quando era un «giovane disordinato». Rievocano insieme Brancrug subito dopo la Guerra; poi lei gli ricorda la volta in cui fu sorpreso a rubare frutta nel Giardino dell’Esercizio, e sebbene lui rida insieme a lei, il tono si fa imbarazzato, e la conversazione finisce poco dopo."
+  },
+  {
+   "id": "slnev.visiting.killes.stanislav",
+   "startdescription": "Stanislav chiede a Mrs Kille se la vecchia tradizione sia ancora praticata a Brancrug; se le madri lascino ancora dormire i neonati per una notte tra le radici di un melo. Mrs Kille sfoggia il proprio breve sorriso malinconico e ammette che sì, a volte lo si fa ancora; ma la maggior parte delle madri paga Mrs Kille perché lo faccia al posto loro, così da non avere problemi con il Reverendo Timothy; e che lei resta sempre fuori tutta la notte a vegliare il neonato, il che non è necessariamente ciò che si faceva nei tempi prima della Chiesa. [Lezione: Riti delle Radici]"
+  },
+  {
+   "id": "slnev.visiting.killes.yvette",
+   "startdescription": "Yvette ha saputo da Corso della propensione di Mr Kille per la poesia. Gli chiede delle sue ispirazioni, e lui le condivide, sebbene con cautela. Gli chiede dei suoi sogni, e lui si guarda intorno, poi si porta un dito alle labbra. «Non in questa Casa», dice. [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.visiting.killes.zachary",
+   "startdescription": "Zachary confida a Mrs Kille di pensare che alla fine partorirà «una specie di figlio». Le chiede se possa aiutarlo. Lei lo scruta; e dice sottovoce che non può. Lui chiede se pensa che sopravvivrà al parto; lei riflette a lungo, e poi dice, ancora più sottovoce, che crede di sì. Chiede, per ultimo, quando pensa che il bambino potrebbe nascere: lei si china vicino e sussurra, «Un giorno di mezza estate, credo.» [Lezione: Storie di Neve]"
+  },
+  {
+   "id": "slnev.visiting.timothy.agdistis",
+   "startdescription": "Agdistis esprime interesse per l’Ericapaean. Il Reverendo Timothy, che non è stato iniziato ai misteri superiori della Chiesa, si dichiara «ben lungi dal parlarlo fluentemente», ma è felice di condividere qualche indicazione. [Lezione: Ericapaean]"
+  },
+  {
+   "id": "slnev.visiting.timothy.aladim",
+   "startdescription": "Timothy e al-Adim discutono di al-Jabal, «il sole che sorge sopra la montagna» – il dio siriano con cui il famigerato imperatore Eliogabalo si identificò notoriamente. Parlano anche del culto emeseno che onora ancora dio e imperatore – con evidente, sebbene furtivo, fascino di Timothy. [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.visiting.timothy.arthur",
+   "startdescription": "Il Reverendo Timothy è in possesso di un manoscritto sulla mescolanza degli inchiostri che crede con orgoglio abbia avuto origine nel Labirinto dei Leoni. Lui e Arthur ne discutono il contenuto e la provenienza finché non diventa evidente, con evidente delusione di Timothy, che si tratta di un falso molto più recente. [Lezione: Inchiostri di Rivelazione]"
+  },
+  {
+   "id": "slnev.visiting.timothy.arun",
+   "startdescription": "Il Reverendo Timothy si è reso conto che Arun è l’autore de «La Misura Radicale», il famigerato manifesto ottocentesco per la poesia sperimentale, e pende dalle labbra di Arun: ha quasi smesso di parlare. [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.visiting.timothy.azita",
+   "startdescription": "Azita e il Reverendo Timothy discutono delle chiese dell’Est – variazioni della fede solare con altre Ore riconosciute, e ultimi bastioni dell’eresia crociana. (Azita obietta blandamente a che Timothy la descriva come «eresia crociana».) [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.visiting.timothy.chaima",
+   "startdescription": "Timothy non ha chiaramente idea di cosa dire a Chaima, almeno per i primi minuti. A quel punto sceglie arbitrariamente le lumache acquatiche come argomento (è, a quanto pare, un appassionato naturalista dilettante) e per un po’ parla a Chaima di lumache acquatiche. E per un po’, Chaima lo ascolta parlarne. [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.visiting.timothy.connie",
+   "startdescription": "Timothy rivolge a Connie domande dettagliate sulla costruzione del Cucurbit, a cui lei risponde con grande cautela finché non si rende conto che l’interesse di Timothy è fondamentalmente architettonico e che, in effetti, sembra per lo più essersi dimenticato che si tratta di una prigione. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.visiting.timothy.coquille",
+   "startdescription": "Timothy sta raccontando con entusiasmo a Coquille il proprio sermone della settimana precedente, evidentemente lusingato dall’interesse di lei, sebbene un osservatore neutrale noterebbe che quell’interesse sta diventando sempre più vitreo e disperato. [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.visiting.timothy.corso",
+   "startdescription": "Corso ha scoperto che il Reverendo Timothy possiede una minuscola biblioteca di testi teologici ereditata da una zia nubile gallese, e sta manovrando per capire se Timothy abbia qualcosa di valore, cercando al contempo di non apparire troppo predatorio. Per fortuna di Corso, Timothy resta ignaro; sfortunatamente per Timothy e Corso entrambi, la biblioteca consiste per lo più di ristampe vittoriane. [Lezione: Sacra Solis Invicti]",
+   "desc": "sacrasolisinvicti"
+  },
+  {
+   "id": "slnev.visiting.timothy.dagmar",
+   "startdescription": "Dagmar, lamentandosi del mal di schiena, scatena un attacco infuocato contro Timothy: sembra ritenerlo personalmente responsabile, tramite la Chiesa e in definitiva la Madrugad, del Conteggio degli Anni che la Madrugad mantiene e che determina la durata della vita mortale. Timothy si piega sotto l’assalto come un salice nella tempesta, ma nondimeno ripete i consueti argomenti morali e teologici a favore del Conteggio. Alla fine a Dagmar sfugge di essersi dedicata a «nettarazione e conteggio», apparentemente per correggere la propria voce nel Conteggio, e si ritira dall’argomento con fare piuttosto evasivo. [Lezione: Editti Liminali]"
+  },
+  {
+   "id": "slnev.visiting.timothy.douglas",
+   "startdescription": "Douglas e il Reverendo Timothy discutono con piacere della coltivazione delle rose. [Lezione: Foglie & Spine]"
+  },
+  {
+   "id": "slnev.visiting.timothy.ehsan",
+   "startdescription": "Timothy coglie l’occasione per chiedere a Ehsan delle attività dell’infermeria della Hush House. Il suo interesse è chiaramente storico, ma Ehsan, con insolita malizia, descrive nel dettaglio alcune delle operazioni chirurgiche più allarmanti condotte lì in passato, lasciando Timothy leggermente verdastro... [Lezione: Chirurgie & Dissanguamenti]"
+  },
+  {
+   "id": "slnev.visiting.timothy.fraser",
+   "startdescription": "Timothy (un appassionato naturalista dilettante) condivide con Fraser le proprie intuizioni sulle vespe. L’interesse di Fraser cresce e cala. [Lezione: Insetti & Nettari]"
+  },
+  {
+   "id": "slnev.visiting.timothy.hokobald",
+   "startdescription": "Hokobald incalza il Reverendo Timothy riguardo al Nuovo Re – in particolare, sulle affermazioni di alcuni prelati secondo cui potrebbe essere associato alla Seconda Alba, sebbene ciò sembri contraddire la Versione Ricevuta del Libro dei Soli. Il proposito di Hokobald è chiaramente malevolo. Timothy se ne rende chiaramente conto, ed è anche chiaramente piuttosto intimorito da Hokobald. Resta educato, sebbene pallido e insolitamente silenzioso. [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.visiting.timothy.morgen",
+   "startdescription": "Il Reverendo Timothy si siede accanto a Morgen e, all’inizio, la trova chiaramente piuttosto affascinante. Chiacchiera allegramente del proprio periodo a Brancrug e al collegio teologico, e alla fine le chiede delle sue origini. Diventa sempre più perplesso, e quando lei menziona le proprie «non-sorelle» gli si accende chiaramente la lampadina. Sposta la sedia il più lontano possibile da lei, per quanto la buona educazione consenta, ed evita la conversazione per il resto del pasto. Lei sorride e si offre di tagliargli il cibo. [Lezione: Storie di Lupo]"
+  },
+  {
+   "id": "slnev.visiting.timothy.olympe",
+   "startdescription": "Il Reverendo Timothy scopre che Olympe è (almeno a volte) direttrice della Rivista Kerisham. È ansioso di proporle un suo scritto sui film di Ilse Bischoff. Lei lo respinge con abilità consumata, ma il suo entusiasmo inesauribile per i dettagli bischoffiani la sfianca, e alla fine sembra conquistarla, tanto che al termine del pasto gli ha dato il proprio biglietto da visita. [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.visiting.timothy.serena",
+   "startdescription": "Timothy ha domande per Serena sulla Chiesa ad Alessandria, sul culto di St Lucia, e su vari casi di sincretismo con credenze pre-solari. Lei fa del proprio meglio per rispondergli. [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.visiting.timothy.stanislav",
+   "startdescription": "Timothy è dottore in teologia: un titolo che a quanto pare è stato fonte di confusione a Brancrug, dove diversi paesani hanno interpretato «dottore» nel senso che dovrebbero chiedergli aiuto per i loro dolori e le loro storte. A lui dispiace rimandarli indietro, e si rivolge a Stanislav per qualche consiglio pratico. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.visiting.timothy.yvette",
+   "startdescription": "Il Reverendo Timothy sta discutendo di eresie ed eterodossie storiche con Yvette. Lei sembra moderatamente coinvolta dalla conversazione, ma il Reverendo Tim ribolle letteralmente d’entusiasmo. [Lezione: Paradossi del Guardiano]"
+  },
+  {
+   "id": "slnev.visiting.timothy.zachary",
+   "startdescription": "Il Reverendo Timothy parla con entusiasmo a Zachary di uova, orologi, la popolazione locale di tassi e il sanguinaccio della propria governante. Alla fine nota che Zachary non sta davvero prestando attenzione, e che la sua espressione non è allegra. Con tono più sommesso, comincia a spiegare i discorsi di St Lewen su fini e principi. [Lezione: Contemplazioni Aurorali]"
+  },
+  {
+   "id": "slnev.agdistis.visiting.denzil",
+   "startdescription": "Agdistis enumera diversi «canti di fucina», tamburellando sul tavolo mentre lo fa. Denzil annuisce educatamente, ma è chiaro che non sta prestando attenzione. [Lezione: Tamburi & Danze]"
+  },
+  {
+   "id": "slnev.aladim.visiting.denzil",
+   "startdescription": "Denzil e al-Adim riprendono la loro discussione sulla maniscalcheria. Al-Adim pone domande ipotetiche su come si potrebbe ferrare un ipotetico cavallo capace di «correre sulla schiuma del mare». Denzil risponde lentamente, attingendo a un racconto popolare in cui un simile cavallo viene ferrato con l’oro raccolto dal sentiero di riflesso del sole al tramonto... [Lezione: Pellicce & Piume]"
+  },
+  {
+   "id": "slnev.arthur.visiting.denzil",
+   "startdescription": "Arthur e Denzil intrattengono una conversazione impacciata ma cordiale sulla birra locale. [Lezione: Spezie & Sapori]"
+  },
+  {
+   "id": "slnev.arun.visiting.denzil",
+   "startdescription": "Denzil e Arun si godono una conversazione inaspettatamente cordiale, sebbene sia soprattutto Arun a parlare. Arun chiede, evidentemente non per la prima volta, quando Denzil andrà a trovarlo a Londra, ma Denzil si limita a scuotere il capo, imperturbabile; e in seguito la conversazione si raffredda un poco. [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnev.azita.visiting.denzil",
+   "startdescription": "Azita sta cercando di avviare una conversazione sulle tattiche di fanteria; ma Denzil non sembra interessato. [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.chaima.visiting.denzil",
+   "startdescription": "Denzil e Chaima sono impegnati in una sorta di gara in cui ciascuno tiene il palmo di una mano sopra la fiamma di una candela per periodi di tempo sempre più lunghi. Chaima offre di tanto in tanto interiezioni filosofiche. [Lezione: Taglienti]"
+  },
+  {
+   "id": "slnev.connie.visiting.denzil",
+   "startdescription": "Connie richiama alla mente la descrizione di Denzil di certi sogni recenti – il bosco oscuro, la falena, le radici che gli tiravano i piedi. Gli dà consigli con la sua voce più ufficiale: che non dovrebbe tagliarsi i capelli dopo mezzogiorno, e che dovrebbe mettere una trapunta patchwork colorata sul letto. Denzil è chiaramente perplesso, ma ascolta educatamente e annuisce senza sbilanciarsi. [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnev.coquille.visiting.denzil",
+   "startdescription": "Coquille tira i capelli di Denzil e gli chiede scherzosamente quando si farà tosare. Lui dice soltanto «Quando ce ne sarà bisogno», e si allontana da lei con irritazione. Non si parlano più."
+  },
+  {
+   "id": "slnev.corso.visiting.denzil",
+   "startdescription": "Denzil insegna a Corso alcune parole di Kernewek Henavek, l’antica lingua ancora usata in alcune cerimonie invernali del Villaggio di Brancrug. La chiama «Tavas Mytern» – forse «la Lingua del Re» – e non ne parla come di «essa», ma di «lui», come se la lingua fosse davvero un re vivente. [Lezione: Henavek]"
+  },
+  {
+   "id": "slnev.dagmar.visiting.denzil",
+   "startdescription": "Dagmar descrive come stia facendo ristrutturare le scuderie affinché Denzil vi si «senta a casa» quando verrà a lavorare per lei. (Sembra avere le idee un po’ confuse su come vivano i fabbri.) Denzil spiega di nuovo, con grande pazienza, che non andrà a lavorare per lei. Dagmar comincia a parlare delle incudini della Mitteleuropa. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.douglas.visiting.denzil",
+   "startdescription": "Denzil e Douglas si lamentano amichevolmente del recente calo di qualità del loro tabacco da pipa preferito. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.ehsan.visiting.denzil",
+   "startdescription": "Denzil ed Ehsan parlano con toni sommessi e rispettosi delle celebri galette di pesce di Mrs Kille. [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.fraser.visiting.denzil",
+   "startdescription": "Fraser torna sull’argomento delle miniere, e dei legami della famiglia di Denzil con i minatori di stagno. Evidentemente ha ambizioni commerciali in questa parte del mondo… Denzil gli risponde, sebbene con riluttanza. [Lezione: Spira & Baratro]"
+  },
+  {
+   "id": "slnev.hokobald.visiting.denzil",
+   "startdescription": "Hokobald condivide con aria di condiscendenza alcune delle proprie teorie personali sulla «Grande Svilimento» e sulle sue conseguenze metallurgiche. Denzil mastica lentamente il proprio cibo e non dice assolutamente nulla. [Lezione: Campane & Bracieri]"
+  },
+  {
+   "id": "slnev.morgen.visiting.denzil",
+   "startdescription": "Morgen continua a ignorare Denzil, che mantiene una distanza di sicurezza, lanciando di tanto in tanto occhiate imbronciate e diffidenti nella sua direzione"
+  },
+  {
+   "id": "slnev.olympe.visiting.denzil",
+   "startdescription": "Olympe chiacchiera con Denzil dei propri viaggi in Europa. Di tanto in tanto Denzil dice qualcosa. Di solito dice «Ah sì?», ma una volta osserva, sibillino, «Meraviglia». [Lezione: Cammino & Pellegrino]"
+  },
+  {
+   "id": "slnev.serena.visiting.denzil",
+   "startdescription": "Serena chiede a Denzil del lavoro che suo padre svolgeva per il Governatore Collers del Cucurbit. Denzil risponde brevemente, ma cortesemente. È evidente che a nessuno dei due Collers piacesse granché. [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.stanislav.visiting.denzil",
+   "startdescription": "Denzil offre a Stanislav tutti i consigli che riesce a racimolare su come tenere lontana la ruggine. [Lezione: Putrefazioni & Calcinazioni]"
+  },
+  {
+   "id": "slnev.yvette.visiting.denzil",
+   "startdescription": "Yvette fa del suo meglio per mettere Denzil a suo agio: lui è evidentemente molto diffidente nei suoi confronti. Resta educato, ma taciturno persino per i suoi standard di taciturnità. Alla fine ammette che a Brancrug esiste una tradizione secondo cui porta sfortuna insultare, comprare da, o bere con una donna dai capelli pallidi... [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.zachary.visiting.denzil",
+   "startdescription": "Denzil e Zachary parlano ancora della loro vecchia conoscenza, risalente al tempo in cui Zachary si riprendeva a Brancrug dopo la Grande Guerra. Ricordano le persone che entrambi conoscevano alla Hush House: Hattington («in un manicomio di New York, credo»), Illopoly («a Marsiglia, credo») e Collers («morto, spero»)… [Lezione: Crocevia Logoro]"
+  },
+  {
+   "id": "slnev.agdistis.visiting.killes",
+   "startdescription": "Mrs Kille e Agdistis ripercorrono i ricordi del periodo in cui si conobbero a Parigi. Lui le chiede se sia ancora in contatto con «zia Adeline», e lei scuote il capo con decisione. «Quando ho sposato Mr Kille», dice con fermezza, «gli ho detto che avrei lasciato tutto questo alle spalle. È un brav’uomo.» [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.aladim.visiting.killes",
+   "startdescription": "Mrs Kille e al-Adim si scambiano proverbi. Lui: «Chi cucina il veleno, lo mangia.» Lei: «Le onde lasciano ciò che il mondo ha perduto…» [Lezione: Rima & Rimembranza]"
+  },
+  {
+   "id": "slnev.arthur.visiting.killes",
+   "startdescription": "Arthur e Mr Kille si scambiano racconti dei giorni più sfrenati della loro infanzia a Castleford e a Brancrug, i guai in cui si cacciavano; entrambi ridacchiano, ma entrambi si fanno silenziosi quando si rendono conto che l’infanzia di Arthur risale a molto, molto più tempo fa."
+  },
+  {
+   "id": "slnev.arun.visiting.killes",
+   "startdescription": "Arun si china verso Mrs Kille. «La mia famiglia,» dice con aria significativa, «percepisce il tempo come una fiamma: più fredda al suo cuore, ma più selvaggia al suo bordo…» Mrs Kille si stringe nelle spalle, e dice: «Ogni fiamma ha il suo combustibile; ogni combustibile teme la propria fiamma.»\nArun ritrae il capo per osservarla, in un modo più ofidico del solito. «Uh,» suggerisce lui. [Lezione: Purificazioni & Esaltazioni]"
+  },
+  {
+   "id": "slnev.azita.visiting.killes",
+   "startdescription": "Azita e Mr Kille discutono delle qualità del legname dei grandi cedri del Libano. Azita si offre di fornire una quantità di legno di cipresso a un prezzo molto conveniente; Mr Kille, sorridente come al solito, rifiuta. Azita offre un campione gratuito, e il sorriso di Mr Kille svanisce. Si scusa, dice, ma a Brancrug hanno insegnato loro a non accettare doni dai visitatori della Hush House. [Lezione: Foglie & Spine]"
+  },
+  {
+   "id": "slnev.chaima.visiting.killes",
+   "startdescription": "Mrs Kille e Chaima si lamentano a vicenda della quasi impossibilità di trovare un caffè decente in Inghilterra. [Lezione: Spezie & Sapori]"
+  },
+  {
+   "id": "slnev.connie.visiting.killes",
+   "startdescription": "Connie, ricordando che il nome da nubile di Mrs Kille era «Raveline», la incalza di domande su eventuali sogni di lupi, o desideri improvvisi di carne o di terriccio. Mrs Kille risponde no a ogni domanda, paziente, per quanto stanca. [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "slnev.coquille.visiting.killes",
+   "startdescription": "Coquille, si scopre, coltiva orchidee. Mr Kille, appassionato giardiniere, è molto interessato. Mrs Kille tiene d’occhio entrambi, con aria possessiva, per assicurarsi che l’interesse del marito non si infiammi più del necessario. [Lezione: Orchidee & Narcotici]"
+  },
+  {
+   "id": "slnev.corso.visiting.killes",
+   "startdescription": "Corso ha portato un volume di poesie di Franklin Bancroft perché Mr Kille lo legga – sostiene di vederci dei paralleli con l’opera dello stesso Kille. Kille è grato, ma chiaramente cauto. Alla fine accetta di prenderlo in prestito per una notte, a patto che non sia un dono, e che Corso passi a riprenderlo prima di andarsene. (Mr Kille fa notare che a Brancrug diffidano dell’accettare doni dai visitatori della Casa.) [Lezione: Eufonie di Applebright]"
+  },
+  {
+   "id": "slnev.dagmar.visiting.killes",
+   "startdescription": "Dagmar, chiacchierando amabilmente con Mr Kille, cita con tono sprezzante la «Primavera dei Popoli» del 1848 in un modo che lascia intendere di esservi stata presente – il che le darebbe qualcosa come novant’anni. Mr Kille manifesta shock, poi sorpresa, poi comincia a balbettare. Dagmar liquida la cosa con un gesto: «Primo, ero <i>molto</i> giovane. Secondo, l’età non è un numero. Ti dirò io cos’è un numero, però: nove. Il nove è un numero assoluto.»"
+  },
+  {
+   "id": "slnev.douglas.visiting.killes",
+   "startdescription": "Douglas chiede a Mr Kille se qualcuno degli occupanti delle sue bare abbia mai causato «difficoltà» prima, dopo o durante la sepoltura. Mr Kille, chiaramente scettico, risponde che non è mai successo. Douglas suggerisce comunque alcuni accorgimenti che potrebbero prevenire un simile malcostume, qualora si presentasse mai. [Lezione: Vetro Soffiato & Vasellame]"
+  },
+  {
+   "id": "slnev.ehsan.visiting.killes",
+   "startdescription": "Ehsan e Mr Kille discutono di pesca in acqua dolce. (Mr Kille ammette di non essere mai uscito su una barca da pesca: troppe storie sui mari vicino all’Isola di Brancrug.) [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnev.fraser.visiting.killes",
+   "startdescription": "Fraser interroga Mrs Kille sui suoi sogni; in particolare su qualunque sogno riesca a ricordare della propria infanzia; e in particolare se riesca a ricordare eventuali «sogni di occhi». Mrs Kille risponde nei dettagli, ma senza cordialità. [Lezione: Pentimenti & Precursori]"
+  },
+  {
+   "id": "slnev.hokobald.visiting.killes",
+   "startdescription": "Hokobald chiede a Mr Kille se lavori anche materiali diversi dal legno. Mr Kille si alza, si inchina profondamente, dice che purtroppo non lo fa, e lascia la stanza per alcuni minuti. Quando torna, sta attento a non sedersi vicino a Hokobald."
+  },
+  {
+   "id": "slnev.morgen.visiting.killes",
+   "startdescription": "Ancora una volta, Mrs Kille si rivolge a Morgen chiamandola <i>«Chaculette»</i>, e ancora una volta, Morgen si bacia un dito e lo posa sulla fronte di Mrs Kille. (Mr Kille osserva da una prudente distanza.) Entrambe scambiano convenevoli per qualche minuto, finché Mrs Kille non chiede a Morgen se abbia mai considerato «la via di Medea». Una tristezza argentea brilla negli occhi di Morgen; dice che si è preclusa, e cita inaspettatamente un passo dal <i>Libro dei Soli</i> sulla commissione dei peccati al crepuscolo... [Lezione: Risorgenze & Emersioni]"
+  },
+  {
+   "id": "slnev.olympe.visiting.killes",
+   "startdescription": "L’ultima volta, Olympe ha prestato a Mr Kille la propria copia di «Mrs Worthington» di Coward. Ora lui gliela restituisce con ringraziamenti. Per qualche minuto si entusiasmano per l’opera, dopodiché lei gli porge con un sorriso due biglietti per uno spettacolo di Coward a Londra il mese prossimo. Improvvisamente serio, lui rifiuta, ringraziando. Lei insiste che sono omaggi, e non le costano nulla; lui dice molto sommessamente di aver imparato che può essere imprudente accettare doni dai visitatori della Hush House. Il sorriso di Olympe vacilla; lei ritira i biglietti; la conversazione finisce lì. [Lezione: Corde & Canti]"
+  },
+  {
+   "id": "slnev.serena.visiting.killes",
+   "startdescription": "Serena conobbe Mr Kille come un «giovane disordinato» a Brancrug subito dopo la Grande Guerra. Condivide alcuni dei propri ricordi con Mrs Kille, che ascolta attentamente e sorride con affetto, sebbene non rida. (Non è facile far ridere Mrs Kille.) Serena chiede se Mr Kille parli mai di lei, ma Mrs Kille dice di no; dice di pensare che Mr Kille abbia ancora un po’ paura di lei. «Silenzio dopo il lampo; silenzio prima del tuono», osserva, e Serena la guarda di sottecchi."
+  },
+  {
+   "id": "slnev.stanislav.visiting.killes",
+   "startdescription": "Stanislav e Mr Kille discutono delle zucchine di Mr Kille. Stanislav sembra provare sincero stupore per le zucchine di Mr Kille. [Lezione: Erbe & Infusi]"
+  },
+  {
+   "id": "slnev.yvette.visiting.killes",
+   "startdescription": "Yvette, inaspettatamente, chiede se possa dipingere Mrs Kille. Mrs Kille, non meno sorprendentemente, acconsente – «è passato del tempo» – ma rivolge a Yvette domande dettagliate sulla sua tecnica. Mr Kille presta un’attenzione discreta ma vigile. [Lezione: Visioni & Sensazioni]"
+  },
+  {
+   "id": "slnev.zachary.visiting.killes",
+   "startdescription": "Zachary chiede se Mr Kille possa costruirgli una bara. «Non mi serve ancora», dice, «ma potremmo essergliene tutti grati.» Mr Kille scuote lentamente il capo: non è il suo genere di lavoro. Ma suggerisce a Zachary di parlare dei propri problemi, e Zachary lo fa, sebbene in modo ellittico, in termini di specchi; neve; ali; e la «torsione nel cuore». [Lezione: Storie di Neve]"
+  },
+  {
+   "id": "slnev.agdistis.visiting.timothy",
+   "startdescription": "Timothy e Agdistis discutono di resoconti storici sui riti montani dei Frigi. Entrambi abbassano notevolmente la voce ogni volta che menzionano la parola «Graal». [Lezione: Tridesma Hiera]"
+  },
+  {
+   "id": "slnev.aladim.visiting.timothy",
+   "startdescription": "Al-Adim è tornato di recente da New York. Il Reverendo Timothy è immediatamente e ferocemente curioso riguardo a New York. Emerge che New York non è particolarmente piaciuta ad al-Adim."
+  },
+  {
+   "id": "slnev.arthur.visiting.timothy",
+   "startdescription": "Timothy e Arthur discutono della Storia dei Re Senza-Ombra di Isaac di Karth. Arthur è scettico sull’affidabilità di Isaac di Karth; Timothy ne è un ammiratore accanito. [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.arun.visiting.timothy",
+   "startdescription": "Dal loro ultimo incontro, il Reverendo Timothy ha effettivamente <i>letto</i> «La Misura Radicale» di Arun, e ribolle di domande dettagliate al riguardo. Il ricordo che Arun ha del libro è ovviamente un po’ più confuso di quello di Timothy, e lui cerca di rifugiarsi nel proprio consueto intrico di enigmi conversazionali; ma l’ingegnosità dell’entusiasmo di Timothy è spietata. [Lezione: Metro Preliminale]"
+  },
+  {
+   "id": "slnev.azita.visiting.timothy",
+   "startdescription": "Azita e il Reverendo Timothy discutono dei film di Ilse Bischoff. «Orribile», dice il Reverendo Tim con enfasi, a proposito de <i>La Testa Aperta</i>. «Ma non riuscivo a smettere di pensarci. Ho scritto un pezzo per la rivista della diocesi. Non gli è piaciuto granché. Mi hanno chiesto di fare invece un’altra delle mie rubriche di enigmi natalizi.» [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnev.chaima.visiting.timothy",
+   "startdescription": "Il Reverendo Timothy, avendo stabilito con sua piena soddisfazione che Chaima è una persona interessata alle lumache acquatiche, continua a parlarle di lumache acquatiche. Chaima ascolta con la pazienza di una cacciatrice. [Lezione: Perla & Marea]"
+  },
+  {
+   "id": "slnev.connie.visiting.timothy",
+   "startdescription": "Timothy è emozionato di trovarsi alla portata di conversazione di un alto funzionario del Bureau di Soppressione, e rivolge a Connie moltissime domande sulle attività del Bureau e sulla sua recentemente accresciuta collaborazione con la Chiesa. Lei ne risponde a diverse e ne respinge cortesemente altre, finché lui non chiede candidamente «dov’è esattamente Calyptra?» – a quel punto lei scuote il capo, gli dice sottovoce di non chiedere mai più di Calyptra, e cambia argomento. [Lezione: Editti Inviolabili]"
+  },
+  {
+   "id": "slnev.coquille.visiting.timothy",
+   "startdescription": "Il Reverendo Timothy, essendosi assicurato l’attenzione di un’affascinante donna disposta ad ascoltare i suoi sermoni, sta ora illustrando il suo precedente <i>e</i> il suo prossimo sermone natalizio previsto. Coquille fissa il proprio sorriso sul volto con ancora più garbo. I suoi occhi percorrono la stanza da un capo all’altro. Non c’è via di fuga. [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.corso.visiting.timothy",
+   "startdescription": "Timothy sta intrattenendo Corso senza sosta con le proprie passeggiate preferite sulla brughiera. [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "slnev.dagmar.visiting.timothy",
+   "startdescription": "Timothy è venuto in qualche modo a sapere che Dagmar possiede un castello in rovina da qualche parte in Mitteleuropa, e che questo, naturalmente, comprende una cappella. Ha molte domande sulla costruzione e sulla decorazione di questa cappella. Dagmar all’inizio è felice di parlarne, ma la sua conoscenza mostra i propri limiti sotto l’incessante cannoneggiamento di domande del Reverendo Timothy. Quando lui dispiega una <i>lista</i> di ulteriori domande preparate in anticipo, il coraggio l’abbandona, si scusa e va fuori a fumare. Timothy, però, la segue. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.douglas.visiting.timothy",
+   "startdescription": "Douglas ha domande difficili per Timothy riguardo a un fuggitivo avvistato lungo la costa. Timothy all’inizio si mostra evasivo, ma crolla quasi subito e ammette di aver avuto pietà dell’uomo per spirito di carità, e di aver incaricato la propria governante Terrence di portare pasti alla carbonaia dove l’uomo si era nascosto per quasi una settimana..."
+  },
+  {
+   "id": "slnev.ehsan.visiting.timothy",
+   "startdescription": "Timothy è arrivato a capire che Ehsan un tempo era qualcos’altro, sebbene non sia chiaro esattamente cosa fosse, ed Ehsan non è particolarmente ansioso di illuminarlo. Gli chiede com’è, il cambiamento di vita. Ehsan si appoggia allo schienale, e dichiara – o forse cita – con un po’ di melodramma: «Il mare non rimpiange la marea, e dopo che la marea si ritira, qualcosa resta sempre, ciò che chiamiamo memoria.» Questo è tutto ciò che ha da dire in proposito, e contro il suo silenzio, le domande di Timothy cadono come pioggia."
+  },
+  {
+   "id": "slnev.fraser.visiting.timothy",
+   "startdescription": "Timothy – ammiratore dell’opera di Christopher Illopoly – ha scoperto che Illopoly fu adottato da Fraser Strathcoyne, e ha moltissime, moltissime domande per Fraser sull’educazione e sulla carriera di Illopoly. Fraser risponde con ragionevole buonumore finché Timothy non chiede candidamente perché Illopoly usi ora un cognome diverso. [Lezione: Contemplazioni Aurorali]"
+  },
+  {
+   "id": "slnev.hokobald.visiting.timothy",
+   "startdescription": "Hokobald ha domande sulle vetrate della cappella della Hush House, e sulle loro raffigurazioni delle Ore. Il Reverendo Timothy – da tempo appassionatamente interessato alla storia e all’architettura della Casa – è ansioso di condividere ciò che sa, ma è chiaramente nervoso all’idea che Hokobald possa avere qualche secondo fine. Hokobald, tuttavia, non manifesta altro che genuina (per quanto condiscendente) curiosità. [Lezione: Vetreria & Lucefabbro]"
+  },
+  {
+   "id": "slnev.morgen.visiting.timothy",
+   "startdescription": "Dal momento in cui Morgen entra nella stanza con passo indolente, Timothy la fissa come un aracnofobo di fronte a una tarantola che gironzola tranquilla. Lei ne è chiaramente consapevole, e lo ignora per la prima mezz’ora. A quel punto si volta per fissarlo negli occhi e batte bruscamente le mani: lui rovescia la sedia, si allontana barcollando scusandosi in direzione della toilette, e non torna per un bel po’."
+  },
+  {
+   "id": "slnev.olympe.visiting.timothy",
+   "startdescription": "Timothy è felicissimo di scoprire che Olympe conosce la Georgia. Ha letteralmente centinaia di domande, le assicura, sul vino, sulle eterodossie, sulla Pelle della Pantera, sulla Quinta Coppa, sul mito dell’Amiranis Beteli… Olympe si massaggia le tempie e gli dice che gliene sono concesse dieci. Ciononostante, risponde a ciascuna nei dettagli. [Lezione: Storie di Sabbia]"
+  },
+  {
+   "id": "slnev.serena.visiting.timothy",
+   "startdescription": "Timothy tempesta Serena di domande sull’architettura della Hush House, e sui cambiamenti che nota rispetto al proprio periodo qui. Lei risponde alle domande più innocue e lo distoglie da quelle più difficili. [Lezione: Porta & Muro]"
+  },
+  {
+   "id": "slnev.stanislav.visiting.timothy",
+   "startdescription": "Stanislav e Timothy si scambiano pettegolezzi sulle differenze dottrinali e politiche fra l’establishment ecclesiastico sul continente e la sua denominazione gemella in Gran Bretagna. Stanislav si appoggia allo schienale della sedia, gli occhi socchiusi, ridacchiando di tanto in tanto; Timothy è così deliziato e si sente evidentemente così in colpa che i suoi denti battono un poco. [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.yvette.visiting.timothy",
+   "startdescription": "Yvette e il Reverendo Timothy discutono delle differenze fra le versioni Ricevuta e Sanzionata del Libro dei Soli. Yvette, la cui educazione teologica formale si è fermata alla scuola domenicale, è chiaramente confusa dai dettagli, ma questo rende solo il Reverendo Tim più desideroso di correggerla, e il suo entusiasmo ingenuo la fa sorridere. [Lezione: Sacra Solis Invicti]"
+  },
+  {
+   "id": "slnev.zachary.visiting.timothy",
+   "startdescription": "Il Reverendo Timothy, che forse ha intuito qualcosa della natura della condizione di Zachary – o forse ha solo creduto di averla intuita – offre a Zachary preghiere ed esercizi meditativi che ritiene possano aiutare. Zachary glieli ripete senza alcun cambiamento di espressione. [Lezione: Spegnimenti & Placamenti]"
+  },
+  {
+   "id": "slnrsp.zachary.onion.gratin",
+   "startdescription": "Zachary si raddrizza di scatto, fissando il piatto di cipolle gratinate davanti a sé. «Ce lo davano in infermeria», dice a nessuno in particolare. «Quando tornai dalla Guerra. Lo chiamavo <i>formaggio troiano</i>.» Ne prende un boccone cauto; poi un altro. «Ancora non mi piace», confida. Il suo volto è impassibile come al solito, ma lacrime gli rigano le guance. Comincia a parlare della Guerra... [Lezione: Discipline della Cicatrice]"
+  },
+  {
+   "id": "slnrsp.ehsan.pie.pilchards",
+   "startdescription": "«Torta Starygazy?» esclama Ehsan. Si accaparra una fetta. «Brancrug al suo meglio. Vado al Sweet Bones per questa da... be’, da più tempo di quanto mi vada di ricordare. Le storie che raccontano i pescatori...» [Lezione: Storie di Mare]"
+  },
+  {
+   "id": "slnrsp.coquille.soup.pumpkin.honey",
+   "startdescription": "Coquille assaggia sorridendo la zuppa di zucca dosata con miele di cuculo. «<i>Coucou</i>,» tuba, gli occhi socchiusi. «Ho sempre apprezzato il lavoro della stirpe Blomberende.» Assonnata, racconta la sorprendente storia della sua seduzione di un rampollo della Casa di Scudamore – «uno abbastanza appetibile da farmi apprezzare la sua compagnia, ma non così allettante da farmelo rimpiangere quando venne il momento di spremerlo fuori dal loro grazioso nido...» [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnrsp.coquille.pie.pumpkin.honey",
+   "startdescription": "Coquille assaggia sorridendo la torta di zucca dosata con miele di cuculo. «<i>Coucou</i>,» tuba, gli occhi socchiusi. «Ho sempre apprezzato il lavoro della stirpe Blomberende.» Assonnata, racconta la sorprendente storia della sua seduzione di un rampollo della Casa di Scudamore – «uno abbastanza appetibile da farmi apprezzare la sua compagnia, ma non così allettante da farmelo rimpiangere quando venne il momento di spremerlo fuori dal loro grazioso nido...» [Lezione: Desideri & Dissoluzioni]"
+  },
+  {
+   "id": "slnrsp.visiting.killes.beverage.raveline",
+   "startdescription": "Con evidente cautela, Mrs Kille assaggia il vino – vino rosso dalla bottiglia con l’etichetta Domaine Raveline. Mentre il sapore le attraversa la lingua, la sua consueta malinconia si scioglie, e sorride; ma poi richiude il sorriso a chiave. «Ho lasciato tutto questo alle spalle», dice. Il suo accento cornico si è offuscato, come tempera sotto la pioggia, così che un altro accento sottostante è diventato visibile – qualcosa di non più caldo, ma più mercuriale. «Ho lasciato tutto questo alle spalle prima che le qualità del suolo potessero entrarmi nelle ossa. Sebbene tutti noi ne portiamo un poco. E così non avrò mai figli miei. Capisci, mio caro» – sta parlando a Mr Kille – «capisci, vero? E capisci che mi prenderò il piccolo rischio» – ancora a Mr Kille – «di finire questo bicchiere.» [Lezione: Storie di Pietra]"
+  },
+  {
+   "id": "lastresortfallthroughslnev",
+   "startdescription": "La conversazione sale, scende, rifluisce, fluisce."
+  }
+ ]
+}

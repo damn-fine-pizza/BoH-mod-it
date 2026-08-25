@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "My Bed: Long Cell",
+  "dove": "verbs/library.bed.rest.cell.long.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Motley",
+  "dove": "verbs/library.bed.rest.motley.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Pale",
+  "dove": "verbs/library.bed.rest.pale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Servant's Quarters",
+  "dove": "verbs/library.bed.rest.servants1.label",
+  "ricorre": 4
+ },
+ {
+  "en": "My Bed: Severn Chamber",
+  "dove": "verbs/library.bed.rest.severn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Solomon",
+  "dove": "verbs/library.bed.rest.solomon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My Bed: Violet Chamber",
+  "dove": "verbs/library.bed.rest.violet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Narrow, but comfortable. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.servants1.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Necropsy Table",
+  "dove": "verbs/library.table.necropsy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "No-one emerges unchanged from a barber's chair. Perhaps they'll just be a little bit more beautiful.",
+  "dove": "verbs/library.chair.barber.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Nocturnary",
+  "dove": "verbs/library.nocturnary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Oubliette Containment",
+  "dove": "verbs/library.oubliette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Papers",
+  "dove": "verbs/library.desk.ambrose.consider.slots.i1.label",
+  "ricorre": 8
+ },
+ {
+  "en": "Practic Garden Dummy",
+  "dove": "verbs/library.practic.dummy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Practice Equipment",
+  "dove": "verbs/library.duelhall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Projector",
+  "dove": "verbs/library.projector.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall",
+  "dove": "verbs/library.chair.barber.slots.i2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Recollection",
+  "dove": "verbs/library.clock.great.slots.i2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Record",
+  "dove": "verbs/library.phonograph.consider.slots.i1.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Reflection",
+  "dove": "verbs/library.mirrors.slots.i2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Regret",
+  "dove": "verbs/library.chair.barber.slots.i1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Remember what has passed.",
+  "dove": "verbs/library.prospect.towertop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Remembrance",
+  "dove": "verbs/library.altar.ascite.slots.i2.label",
+  "ricorre": 13
+ },
+ {
+  "en": "Restore",
+  "dove": "verbs/library.bed.rest.cell.adept.slots.i1.label",
+  "ricorre": 16
+ },
+ {
+  "en": "Rowena the Ligeian, protectress of the House, holds the Mare's Key of worm-stone, which opens the door to Nowhere. Now and then, she has lent it unwisely. But only once has she lent it to Ys.",
+  "dove": "verbs/library.rowenarium.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Saint Tentreto of the Deep Door, who is four times winged: for the Scīmafectra-kind; the Glaeterfleoge-kind; the Thritige-kind; for the kind-within.",
+  "dove": "verbs/library.altar.tentreto.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sculptor's Bench",
+  "dove": "verbs/library.workbench.governor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Seven generations of Dewulfs slept here… as did Kitty Mazarine, who never cared much for tradition. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.pale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Shadow",
+  "dove": "verbs/library.nocturnary.slots.i2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shrine: St Januarius",
+  "dove": "verbs/library.altar.atrium.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shrine: the Chancel",
+  "dove": "verbs/library.altar.chancel.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Shrine: the Madrugad",
+  "dove": "verbs/library.altar.glorious.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shrine: the Watchman",
+  "dove": "verbs/library.altar.radiant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sight",
+  "dove": "verbs/library.mirrors.slots.i1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Since the Napoleonic War, he has been punched, thumped, stabbed and shot by amateurs, by professionals, and by tipsy guests after dinner. No wonder he looks so cross.",
+  "dove": "verbs/library.practic.dummy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Six generations of Dewulf heirs were born in this room. It would have been seven, but Hafren Waters had the ill grace to give birth to Baron Walter in (family legend has it) a cow-byre outside Kerisham. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.violet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Solar Altar",
+  "dove": "verbs/library.altar.solar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Solomon Husher himself commissioned this from Lockwood Fen bog-yew, blackened and half-fossilised by centuries underwater. Here at this desk he wrote his doomy allegory of Winter and its romance with the sun. When he blotted the last word on his manuscript and rose from his work, the timber had turned pale as fresh-cut maple. Or so the story goes.",
+  "dove": "verbs/library.desk.pale.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Solution",
+  "dove": "verbs/library.glassware.alchemist.slots.i2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something might emerge, if it could only be assured of a hospitable History. Until that time, its dreams might be audible to one who presses an ear against its trembling, sky-scented warmth.",
+  "dove": "verbs/library.chrysalis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spire Prospect",
+  "dove": "verbs/library.prospect.spire.label",
+  "ricorre": 1
+ },
+ {
+  "en": "St Januarius is the Name which was wounded; the Name of exceptions; the little god at the door.",
+  "dove": "verbs/library.altar.atrium.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Still the best place in the House to get hurt.",
+  "dove": "verbs/library.duelhall.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Stout, rustic, snug. [Add a Fatigued Soul card to nap, a Maladied soul card to cure it, or (once night has fallen) a Memory to dream on it.]",
+  "dove": "verbs/library.bed.rest.lodge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Subject",
+  "dove": "verbs/library.condignator.slots.i1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Substance",
+  "dove": "verbs/library.dispensary.slots.i2.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Take counsel with the seas.",
+  "dove": "verbs/library.prospect.loggia.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Take counsel with the skies.",
+  "dove": "verbs/library.prospect.spire.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Telescope",
+  "dove": "verbs/library.telescope.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Horned-Axe, who opens the way and keeps the threshold, is accounted the last of the Gods-from-Stone.",
+  "dove": "verbs/library.altar.ascite.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Madrugad is the Hour which cannot be unbalanced; which quells and quiets; which comes before the sun.",
+  "dove": "verbs/library.altar.glorious.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Red Grail, birth and appetite, denied and condemned by the clergy of the Sun for her temptress-role in the Sun's division. Those of us who oppose Eternity might instead give her thanks and praise. But cautiously.",
+  "dove": "verbs/library.altar.calicite.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sun-in-Splendour is the Hour which was sundered; the Hour which is not conquered; the Hour from which proceed all the other Hours of the day. Or so the Church teaches.",
+  "dove": "verbs/library.altar.solar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman is the Hour which navigates; which illuminates; which is not compassionate.",
+  "dove": "verbs/library.altar.radiant.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The bookwheel is a Dewulf heirloom - a gift to Eva Dewulf from her admirer, the adept Franklin Bancroft. The desk and lectern are much more recent. Steel plaques on both read 'TO GERVINUS VAN LAUREN - IN GRATITUDE FOR HIS ASSISTANCE IN THE CLOSING OF THE WINDING STAIR - E. ABNEY-HASTINGS, NOCTURNAL SECRETARY, 1928'",
+  "dove": "verbs/library.desk.reading.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The prisoners in the Cucurbit were permitted to grow neither too strong, nor too weak. Here they were subjected to an exacting regime which developed both their bodies and their souls, in accordance with the Governor's designs.",
+  "dove": "verbs/library.yard.exercise.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The scholars of the House watched the courses of the stars to determine their pasts and understand their future.",
+  "dove": "verbs/library.telescope.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The terrible heart of the Governor's terrible project.",
+  "dove": "verbs/library.condignator.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Thirza Blake invited a nameless friend (or according to Brancrug tradition, her sister) to Hush House to recover from an illness. Thirza was uncharacteristically secretive about the whole business, perhaps because her own solicitude embarrassed her. She cooked her guest's meals herself; read to her in the afternoons; and purchased this phonograph so her guest could listen to Viennese opera.",
+  "dove": "verbs/library.phonograph.severn.consider.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Thirza's Phonograph",
+  "dove": "verbs/library.phonograph.severn.consider.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This was once strung with yeth-hound gut. Those strings must be long gone, but there's still an unusual savagery to the harp's notes.",
+  "dove": "verbs/library.instrument.harp2.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tower-Top Prospect",
+  "dove": "verbs/library.prospect.towertop.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Valentine Dewulf put his only friends in cages. Did he close the cage doors?",
+  "dove": "verbs/library.cage.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ventral",
+  "dove": "verbs/library.chrysalis.slots.i2.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Warp",
+  "dove": "verbs/library.loom.slots.i1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "We do not name these Hours, but we acknowledge that together they are the Chancel, the Cruciate, and the Rode.",
+  "dove": "verbs/library.altar.chancel.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Weft",
+  "dove": "verbs/library.loom.slots.i2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Where the wild few traffic with the tides.",
+  "dove": "verbs/library.corals.deeplight.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Windlit Workbench",
+  "dove": "verbs/library.workbench.gallery.label",
+  "ricorre": 1
+ },
+ {
+  "en": "With",
+  "dove": "verbs/library.bed.rest.cell.adept.slots.i2.label",
+  "ricorre": 24
+ },
+ {
+  "en": "A quiet little furnace.",
+  "dove": "verbs/library.fireplace.staffroom.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A welcome warmth.",
+  "dove": "verbs/library.fireplace.infirmary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Brancrug Boathouse",
+  "dove": "verbs/world.sea.boathouse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Entrance Hall Fireplace",
+  "dove": "verbs/library.fireplace.entrance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Even when the wind buffets at the windows, the fire in the hearth keeps the room cosy.",
+  "dove": "verbs/library.fireplace.librarian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fire always accepts gifts. And boils the kettle for tea.",
+  "dove": "verbs/library.fireplace.lodge.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Grumbling like an old man.",
+  "dove": "verbs/library.fireplace.hermit.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hall of Division Fireplace",
+  "dove": "verbs/library.fireplace.mirrors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hearth: Hall of Voices",
+  "dove": "verbs/library.kitchen.hallofvoices.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Here I can draw up water - or drop something in, most likely to be lost forever.",
+  "dove": "verbs/library.well.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Here, the priestesses prepared those meals which they would not, or could not, entrust to their servants.",
+  "dove": "verbs/library.kitchen.hallofvoices.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hermit's Stove",
+  "dove": "verbs/library.fireplace.hermit.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hush House Well",
+  "dove": "verbs/library.well.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Infirmary Fireplace",
+  "dove": "verbs/library.fireplace.infirmary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ingredient",
+  "dove": "verbs/library.kitchen.gaol.slots.i1.label",
+  "ricorre": 6
+ },
+ {
+  "en": "It's good luck for the villagers to bring little gifts of food to the Librarian. That's already become a tradition. But sometimes the Librarian wants a hot meal, and, these days, the Librarian is the only entity in the house that can cook.",
+  "dove": "verbs/library.kitchen.servants.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Kitchen Range: Gaol",
+  "dove": "verbs/library.kitchen.gaol.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Kitchen Range: Servants",
+  "dove": "verbs/library.kitchen.servants.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Librarian's Quarters Fireplace",
+  "dove": "verbs/library.fireplace.librarian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Loading Dock Crane",
+  "dove": "verbs/world.sea.crane.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lodge Fireplace",
+  "dove": "verbs/library.fireplace.lodge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Long Tower Study Fireplace",
+  "dove": "verbs/library.fireplace.long1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Long ago, this was the route by which provisions entered the gaol, and by which prisoners failed to escape. [Discard objects here, or release beasts.]",
+  "dove": "verbs/world.sea.crane.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Object",
+  "dove": "verbs/world.sea.beach.slots.object.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Pale Chamber Fireplace",
+  "dove": "verbs/library.fireplace.pale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Plates, cups and glasses, so that if I want to offer someone wine, I needn't give them the whole bottle.",
+  "dove": "verbs/station.serving.gaol.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Pumps: Lower Level",
+  "dove": "verbs/pumps.lower.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pumps: Upper Level",
+  "dove": "verbs/pumps.upper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Refectory Fireplace",
+  "dove": "verbs/library.fireplace.refectory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sea's Edge",
+  "dove": "verbs/world.sea.beach.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Servants' Hall Fireplace",
+  "dove": "verbs/library.fireplace.servants.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serve",
+  "dove": "verbs/station.serving.gaol.slots.p.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Serve Here",
+  "dove": "verbs/station.serving.gaol.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Since the Conquest, this has been waiting for you. The irreverent might even call it a <i>you tree</i>.",
+  "dove": "verbs/world.tree.gate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Staff-Room Stove",
+  "dove": "verbs/library.fireplace.staffroom.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Curia installed these pumps to drain the lower levels - but they installed them in the late nineteenth century. I'll need to provide suitable materials and fuel - and I'll need a Prentice-level of Forge to jury-rig them.",
+  "dove": "verbs/pumps.upper.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Earl's Yew",
+  "dove": "verbs/world.tree.gate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sea is always hungry; the Sea never sleeps; the Sea accepts offerings. [Discard objects here; release beasts; or go for a swim.]",
+  "dove": "verbs/world.sea.beach.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The boat is gone, the Sea remains. That is, of course, the way it usually works. [Discard objects here; release beasts; or go for a swim.]",
+  "dove": "verbs/world.sea.boathouse.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The coals glow.",
+  "dove": "verbs/library.fireplace.servants.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The fire mutters companionably in the grate.",
+  "dove": "verbs/library.fireplace.refectory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The firelight reflections in the mirrors are difficult to describe without risking a foray into pentameter.",
+  "dove": "verbs/library.fireplace.mirrors.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The fireplace doesn't exactly warm the room, but it keeps the chill more or less at bay.",
+  "dove": "verbs/library.fireplace.long1.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The food served in Brancrug Gaol was unexpectedly hearty and tasty - in keeping with Collers' more humane theories of rehabilitation.",
+  "dove": "verbs/library.kitchen.gaol.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "These machines are of different and newer manufacture than the ones above. They include something like a generator, too. But they're in even worse condition. I'll need to provide suitable materials and fuel - and I'll need Scholar-level of Forge to jury-rig them.",
+  "dove": "verbs/pumps.lower.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "This is the only place in the House where fire was permitted near books.",
+  "dove": "verbs/library.fireplace.westcott.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitors found the warmth welcome after the battering winds of the bridge crossing.",
+  "dove": "verbs/library.fireplace.entrance.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Westcott Room Fireplace",
+  "dove": "verbs/library.fireplace.westcott.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sarcophagus': the eater of flesh. No bones remain, but the marble is chilly with power. Observe the indwelling light that was not here when it's first occupant - Rowena's heir? - was laid to rest long ago. [The Sarcophagus now admits Forge and Lantern intentions.]",
+  "dove": "verbs/library.sarcophagus.columbic.mihail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Bees, like librarians, are not to be trifled with. Especially these bees. Concealed among their drony bustlings: the elegant worm-curled noble larvae who might one day be the progenitors of the new Blomberende. Blomberende remnants come to pay their respects. [Cuckoo-Honey can sometimes be found in this hive even when it's not Numa.]",
+  "dove": "verbs/garden.beehive.liselotte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena the Ligeian, protectress of the House, holds the Mare's Key of worm-stone, which opens the door to Nowhere. Now and then, she has lent it unwisely. But only once has she lent it to Ys. Spencer Hobson's visit has extended the Rowenarium 'almost-down'. [The Rowenarium now admits Knock intentions. It also provides Winter Aspect.]",
+  "dove": "verbs/library.rowenarium.spencer.down.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena the Ligeian, protectress of the House, holds the Mare's Key of worm-stone, which opens the door to Nowhere. Now and then, she has lent it unwisely. But only once has she lent it to Ys. Spencer Hobson's visit has extended the Rowenarium 'almost-out'. [The Rowenarium now admits Knock intentions. It also provides Knock Aspect.]",
+  "dove": "verbs/library.rowenarium.spencer.out.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Saint Tentreto of the Deep Door, who is four times winged: for the Scīmafectra-kind; the Glaeterfleoge-kind; the Thritige-kind; for the kind-within. His fires have been fed with the offering from the West, as the setting Sun in the West once was fed with blood. [The altar now admits Heart intention, and provides Heart aspect.]",
+  "dove": "verbs/library.altar.tentreto.offering.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something might emerge, if it could only be assured of a hospitable History. Until that time, its dreams might be audible to one who presses an ear against its trembling, sky-scented warmth. Since the 'poor wisp' was incorporated, the Chrysalis is smoother and a little colder. [The Chrysalis now admits Winter intentions. It also provides Winter Aspect.]",
+  "dove": "verbs/library.chrysalis.wisp.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "We do not name these Hours, but we acknowledge that together they are the Chancel, the Cruciate, and the Rode. Observe the indwelling light that was not here when the altar was first raised. [The Chancel Altar now admits Forge and Lantern intentions.]",
+  "dove": "verbs/library.altar.chancel.mihail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "After the Restoration of 1930, the New King's agents came looking for his enemies in these parts... and they weren't gentle about it. Since those days, the locals are suspicious of foreigners. No-one in the Sweet Bones will talk to me.",
+  "dove": "verbs/village.sweetbones.closed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil Smith has more work than he needs, and he rarely opens his door to strangers.\n[You need an Introduction, or a mutual acquaintance marked with Edge, Forge, or Heart - someone in a similar trade, or someone who can appeal to his secret passion for saffron cake.]",
+  "dove": "verbs/village.smithy.closed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil Smith, strong as oak, blackened by smoke. He will never surpass his father, and he is no longer a soldier. But he still has his craft.",
+  "dove": "verbs/village.smithy.open.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Me",
+  "dove": "verbs/village.sweetbones.open.slots.ability.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mine",
+  "dove": "verbs/village.sweetbones.open.slots.money.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille the midwife is tall and gloomy. Mr Kille the undertaker is slight and wry. For ten years she has drawn villagers into the world and he has shaped cradles for their departure. But she can also whittle, and he can also paint.",
+  "dove": "verbs/village.killes.open.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Mrs Kille the midwife is tall and gloomy. Mr Kille the undertaker is slight and wry. In these troubled times, both are wary of strangers. [You need a suitably marked Introduction; check the slot.]",
+  "dove": "verbs/village.killes.closed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs and Mr Kille",
+  "dove": "verbs/village.killes.open.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Mrs and Mr Kille [Locked]",
+  "dove": "verbs/village.killes.closed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Offering",
+  "dove": "verbs/village.postoffice.open.slots.l.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Post Office",
+  "dove": "verbs/village.postoffice.open.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy is a hospitable soul, but Terrence, his housekeeper, guards her employer fiercely. She doesn't want his innocent theological enthusiasms getting him in trouble with the New King's men.\n [You need an Introduction, or a mutual acquaintance marked with Lantern, Knock, or Sky -  perhaps someone who shares his interests in theology or poetry.]",
+  "dove": "verbs/village.rectory.closed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy's words always run ahead of him, but his thoughts always catch up in the end.",
+  "dove": "verbs/village.rectory.open.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy's words always run ahead of him, but his thoughts always catch up.",
+  "dove": "verbs/village.rectory.open.friend.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The 'Sweet Bones'",
+  "dove": "verbs/village.sweetbones.open.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The 'Sweet Bones' has been the public house in Brancrug since Cromwell's time. Its history is notable; its beer is not. Guests looking for discreet employment, or for discreet assistance, congregate in the snug.",
+  "dove": "verbs/village.sweetbones.open.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Post Office [Locked]",
+  "dove": "verbs/village.postoffice.closed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress keeps the gate to the wider world. In her left hand is the lightning (which is to say, the telegraph) and in her right, the thunder (which is to say, the only telephone in Brancrug). Before her lies the cash-register, which accepteth the greater currency and returneth its lesser children.",
+  "dove": "verbs/village.postoffice.open.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Rectory",
+  "dove": "verbs/village.rectory.open.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Rectory [Locked]",
+  "dove": "verbs/village.rectory.closed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Smithy",
+  "dove": "verbs/village.smithy.open.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Smithy [Locked]",
+  "dove": "verbs/village.smithy.closed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sweet Bones [Locked]",
+  "dove": "verbs/village.sweetbones.closed.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The postmistress may have something for me - once I know what to ask for.",
+  "dove": "verbs/village.postoffice.closed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What have you brought the Postmistress?",
+  "dove": "verbs/village.postoffice.open.slots.l.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Inkling Outcomes",
+  "dove": "decks/d.inkling.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memories that might spawn from an Inkling.",
+  "dove": "decks/d.inkling.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Baronial Books",
+  "dove": "decks/d.books.baronial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Books associated with (roughly) Hush House's Baronial period",
+  "dove": "decks/d.books.baronial.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Books associated with (roughly) Hush House's Curia period",
+  "dove": "decks/d.books.curia.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Books associated with (roughly) Hush House's Dawn period",
+  "dove": "decks/d.books.dawn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Books associated with (roughly) Hush House's Nocturnal period",
+  "dove": "decks/d.books.nocturnal.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Books associated with (roughly) Hush House's Solar Gothic period",
+  "dove": "decks/d.books.solar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Curia Books",
+  "dove": "decks/d.books.curia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dawn Books",
+  "dove": "decks/d.books.dawn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Divers Books and Strange",
+  "dove": "decks/d.books.divers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nocturnal Books",
+  "dove": "decks/d.books.nocturnal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nocturnal Books: Three Everyman Essentials",
+  "dove": "decks/d.books.nocturnal.everyman.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Solar Gothic Books",
+  "dove": "decks/d.books.solar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The whole shebang",
+  "dove": "decks/d.books.divers.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Consolation",
+  "dove": "decks/d.challenges.consolations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Some sort of lesson.",
+  "dove": "decks/d.challenges.consolations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Success?",
+  "dove": "decks/d.challenges.opportunities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This might yet be salvageable.",
+  "dove": "decks/d.challenges.opportunities.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Denzil",
+  "dove": "decks/d.chat.denzil.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with a Craftsman",
+  "dove": "decks/d.chat.craftsman.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with a Scholar",
+  "dove": "decks/d.chat.scholar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with a Traveller",
+  "dove": "decks/d.chat.traveller.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chance Conversation",
+  "dove": "decks/d.chat.generic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I will question the villagers of Brancrug...",
+  "dove": "decks/d.chat.sweetbones.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Searching Conversations at the Sweet Bones",
+  "dove": "decks/d.chat.sweetbones.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Well, what do you know?",
+  "dove": "decks/d.chat.craftsman.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Beach: Autumn",
+  "dove": "decks/beach.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beach: Numa",
+  "dove": "decks/beach.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beach: Oddity",
+  "dove": "decks/beach.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beach: Rarity",
+  "dove": "decks/beach.rarity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beach: Spring",
+  "dove": "decks/beach.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beach: Summer",
+  "dove": "decks/beach.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beach: Winter",
+  "dove": "decks/beach.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beehive: Autumn",
+  "dove": "decks/beehive.autumn.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Beehive: Numa",
+  "dove": "decks/beehive.liselotte.numa.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Beehive: Spring",
+  "dove": "decks/beehive.liselotte.spring.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Beehive: Summer",
+  "dove": "decks/beehive.liselotte.summer.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Beehive: Winter",
+  "dove": "decks/beehive.liselotte.winter.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Bright Treasures",
+  "dove": "decks/bright.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Hardware",
+  "dove": "decks/cache.hardware.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Household",
+  "dove": "decks/cache.household.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Large",
+  "dove": "decks/cache.large.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Large Oddity",
+  "dove": "decks/cache.large.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Large Rarity",
+  "dove": "decks/cache.large.rarity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Odd Provisions",
+  "dove": "decks/cache.provisions.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Oddity",
+  "dove": "decks/cache.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Provisions",
+  "dove": "decks/cache.provisions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Small Oddity",
+  "dove": "decks/cache.small.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Small Rarity",
+  "dove": "decks/cache.small.rarity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cache: Suppression Bureau",
+  "dove": "decks/cache.bureau.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Caves: Autumn",
+  "dove": "decks/caves.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Caves: Numa",
+  "dove": "decks/caves.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Caves: Spring",
+  "dove": "decks/caves.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Caves: Summer",
+  "dove": "decks/caves.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Caves: Winter",
+  "dove": "decks/caves.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chrysalis: Autumn",
+  "dove": "decks/chrysalis.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chrysalis: Numa",
+  "dove": "decks/chrysalis.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chrysalis: Spring",
+  "dove": "decks/chrysalis.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chrysalis: Summer",
+  "dove": "decks/chrysalis.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chrysalis: Winter",
+  "dove": "decks/chrysalis.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Garden.Deck: Notional1",
+  "dove": "decks/garden.deck.notional1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Garden.Deck: Notional2",
+  "dove": "decks/garden.deck.notional2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moor: Autumn",
+  "dove": "decks/moor.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moor: Numa",
+  "dove": "decks/moor.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moor: Spring",
+  "dove": "decks/moor.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moor: Summer",
+  "dove": "decks/moor.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moor: Winter",
+  "dove": "decks/moor.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nests: Autumn",
+  "dove": "decks/nests.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nests: Numa",
+  "dove": "decks/nests.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nests: Spring",
+  "dove": "decks/nests.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nests: Summer",
+  "dove": "decks/nests.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nests: Winter",
+  "dove": "decks/nests.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Night Treasures",
+  "dove": "decks/night.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sovereign Treasures",
+  "dove": "decks/sovereign.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Treasures Unregarded",
+  "dove": "decks/unregarded.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Well: Numa",
+  "dove": "decks/well.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Well: Well",
+  "dove": "decks/well.label",
+  "ricorre": 1
+ },
+ {
+  "en": "..",
+  "dove": "decks/deck.weather.autumn.desc",
+  "ricorre": 18
+ },
+ {
+  "en": "Employables",
+  "dove": "decks/sweetbones.employables.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Incidents",
+  "dove": "decks/incidents.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Numa Incidents",
+  "dove": "decks/incidents.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Numa likelihood",
+  "dove": "decks/numa.possibility.label",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_AUTOSORT_EARLIER_CARDS_ONTOP",
+  "dove": "settings/autosortearliercardsontop.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_CAMERA_ARROW_SPEED",
+  "dove": "settings/cameraarrowspeed.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_CARD_TRAYS_HEADER",
+  "dove": "settings/text_cardtrays.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_EDGE_SCROLL",
+  "dove": "settings/edgescroll.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_EDGE_SCROLL_AREA_HORIZONTAL",
+  "dove": "settings/edgescrollareahorizontal.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_EDGE_SCROLL_AREA_VERTICAL",
+  "dove": "settings/edgescrollareavertical.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_FONT_SIZE",
+  "dove": "settings/fontsize.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_CLICKMODIFIERDESC",
+  "dove": "settings/text_clickmodifierdesc.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_COLLECTALL",
+  "dove": "settings/kbcollectall.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_CTRLCLICKMODIFIER",
+  "dove": "settings/kbctrlclickmodifier.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_FASTER",
+  "dove": "settings/kbfaster.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_FASTSPEED",
+  "dove": "settings/kbfastspeed.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_NEXTCOMPLETE",
+  "dove": "settings/kbnextcomplete.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_NORMALSPEED",
+  "dove": "settings/kbnormalspeed.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_OVERFLOW",
+  "dove": "settings/kboverflow.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_PAUSE",
+  "dove": "settings/kbpause.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_PEDESTALDOWN",
+  "dove": "settings/kbpedestaldown.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_PEDESTALUP",
+  "dove": "settings/kbpedestalup.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_REFILLSLOTS",
+  "dove": "settings/kbrefillslots.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_SHIFTCLICKMODIFIER",
+  "dove": "settings/kbshiftclickmodifier.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_SLOWER",
+  "dove": "settings/kbslower.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_STACKCARDS",
+  "dove": "settings/kbstack.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_STARTRECIPE",
+  "dove": "settings/kbstartrecipe.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_TOGGLE_HUD",
+  "dove": "settings/kbtogglehud.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_TRAY1",
+  "dove": "settings/kbtray1.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_TRAY2",
+  "dove": "settings/kbtray2.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_TRAY3",
+  "dove": "settings/kbtray3.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_TRAY4",
+  "dove": "settings/kbtray4.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_TRUCKLEFT",
+  "dove": "settings/kbtruckleft.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_TRUCKRIGHT",
+  "dove": "settings/kbtruckright.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_UNDO_MODIFIER",
+  "dove": "settings/kbundomodifier.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_ZOOM1",
+  "dove": "settings/kbzoom1.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_ZOOM2",
+  "dove": "settings/kbzoom2.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_ZOOM3",
+  "dove": "settings/kbzoom3.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_ZOOM4",
+  "dove": "settings/kbzoom4.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_ZOOMIN",
+  "dove": "settings/kbzoomin.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_KB_ZOOMOUT",
+  "dove": "settings/kbzoomout.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_LANGUAGE",
+  "dove": "settings/culture.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_NOTIFICATIONS_HEADER",
+  "dove": "settings/text_messages.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_ACCESSIBLE_CARDS",
+  "dove": "settings/accessiblecards.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_AUTOSAVEINTERVAL",
+  "dove": "settings/autosaveinterval.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_AUTOSORTOVERLAP_ABILITIES",
+  "dove": "settings/autosortoverlap_abilities.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_AUTOSORTOVERLAP_HEADER",
+  "dove": "settings/text_autosortoverlap.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_AUTOSORTOVERLAP_MEMORIES",
+  "dove": "settings/autosortoverlap_memories.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_AUTOSORTOVERLAP_MISC",
+  "dove": "settings/autosortoverlap_misc.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_AUTOSORTOVERLAP_SKILLS",
+  "dove": "settings/autosortoverlap_skills.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_CONTRAST",
+  "dove": "settings/highcontrast.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_DISABLE_SEASONALS",
+  "dove": "settings/disableseasonals.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_ENVIRONMENTVOL",
+  "dove": "settings/environmentvolume.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_GRAPHICS_LEVEL",
+  "dove": "settings/graphicslevel.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_GRIDSNAPSIZE",
+  "dove": "settings/gridsnaplevel.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_INFODURATION",
+  "dove": "settings/notificationtime.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_MASTERVOL",
+  "dove": "settings/mastervolume.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_MUSICVOL",
+  "dove": "settings/musicvolume.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_RESOLUTION",
+  "dove": "settings/resolution.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_SFXVOL",
+  "dove": "settings/sfxvolume.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_SHOW_NOTIFICATION_COPY_TO_CLIPBOARD",
+  "dove": "settings/shownotificationcopytoclipboard.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_UISCALING",
+  "dove": "settings/screencanvassizeslider.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_UNLOCK_ALL_RESOLUTIONS",
+  "dove": "settings/unlockallresolutions.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_VSYNC_LEVEL",
+  "dove": "settings/vsynclevel.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_OPT_WEATHERVOL",
+  "dove": "settings/weathervolume.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_TRAVERSAL_HEADER",
+  "dove": "settings/text_traversal.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_USE_GAMEPAD",
+  "dove": "settings/usegamepad.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_WINDOW_MODE",
+  "dove": "settings/windowed.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "UI_ZOOM_STEP",
+  "dove": "settings/zoomstepdistance.hint",
+  "ricorre": 1
+ },
+ {
+  "en": "'She brought them to Brancrug Isle, which even then was a hidden place, to make a double foundation of nuns and monks, and become its first abbess: but she would admit none to the order who was a virgin, nor innocent of any crime. Since then, Brancrug has been a refuge for all the world might consider impure.'",
+  "dove": "legacies/librarian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'There has been no Librarian at Hush House since the fire - seven years now. Suitable candidates are very difficult to find, but perhaps we have found one in you. Take care on your journey - the seas around Brancrug are treacherous...'",
+  "dove": "legacies/librarian.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brancrug, March 7th, 1936",
+  "dove": "legacies/librarian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A faddish health camp has attracted attention after many of its clients seem to have developed sudden, sometimes upsetting, artistic abilities...",
+  "dove": "achievements/a_affair_god.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "A self-styled oracle preaches 'the truth of nearly now' to her followers. She camps by the Temple of Seven Coils, and hasn't been eaten...",
+  "dove": "achievements/a_affair_while.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "A tapestry has been stolen from the Haustorium that depicts details of a very old rite indeed...",
+  "dove": "achievements/a_affair_tapestry.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "An 'inhabitation of Worms' is never to be taken lightly...",
+  "dove": "achievements/a_affair_guest.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "An odd little image in a church in Strasbourg has become a locus for wild claims of healing and haunting. When it comes to the attention of the Church hierarchy, they'll rule it miraculous or heretical... unless someone takes a hand before then.",
+  "dove": "achievements/a_affair_saint.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "An upcoming production of an opera with a very ancient pedigree indeed...",
+  "dove": "achievements/a_affair_apollomarsyas.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Another man has died in the desert. He raved to the end about gardens, with a flower crushed in his hand...",
+  "dove": "achievements/a_affair_rose.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "For years a sculptor-adept laboured at his masterpiece. And now, puzzlingly and suddenly, he is dead...",
+  "dove": "achievements/a_affair_lark.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "From the far monastery of St Tentreto, we hear stories of unexpected visitors - visitors from behind the sky...",
+  "dove": "achievements/a_affair_clawclouds.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "In a hidden fold of the mountains above the city of Cluj lies the enigmatic relic they call Saint Mihail's Coffin...",
+  "dove": "achievements/a_affair_casket.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "In a highly specialised clinic, specialists study the ecstatic agonies of the case known only as'the Open Reverend'...",
+  "dove": "achievements/a_affair_wound.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "In the Mist",
+  "dove": "achievements/a_affair_numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Messana: a prosperous little desert village that has become a place of pilgrimage. There have been peculiar manifestations there of late...",
+  "dove": "achievements/a_affair_eye.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "No-one has ever successfully staged an entire performance of 'Wings Within Wings'. But now someone is trying again...",
+  "dove": "achievements/a_affair_opera.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Oriflamme's Auction House is never robbed. But what if it has been?",
+  "dove": "achievements/a_affair_heist.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Sailors have a term for the compass-whirl phenomenon which occurs before sightings of the city Ys...",
+  "dove": "achievements/a_affair_horizon.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "The Affair of 'Apollo and Marsyas'",
+  "dove": "achievements/a_affair_apollomarsyas.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Absent Friend",
+  "dove": "achievements/a_affair_friend.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Claw and the Clouds",
+  "dove": "achievements/a_affair_clawclouds.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Dappled Rose",
+  "dove": "achievements/a_affair_rose.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Endless Guest",
+  "dove": "achievements/a_affair_guest.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Forgivable Debt",
+  "dove": "achievements/a_affair_debt.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Friar's Tapestry",
+  "dove": "achievements/a_affair_tapestry.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the God in the Wood",
+  "dove": "achievements/a_affair_god.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Grunewald Provision",
+  "dove": "achievements/a_affair_grunewald.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Invisible Opera",
+  "dove": "achievements/a_affair_opera.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Messenger's Casket",
+  "dove": "achievements/a_affair_casket.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Open Reverend",
+  "dove": "achievements/a_affair_wound.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Oriflamme Heist",
+  "dove": "achievements/a_affair_heist.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Other Horizon",
+  "dove": "achievements/a_affair_horizon.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Particular Mystique",
+  "dove": "achievements/a_affair_mystique.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Rising While",
+  "dove": "achievements/a_affair_while.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Royal Endeavour",
+  "dove": "achievements/a_affair_endeavour.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Sandalwood Saint",
+  "dove": "achievements/a_affair_saint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Second Skin",
+  "dove": "achievements/a_affair_skin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Threshold Revolution",
+  "dove": "achievements/a_affair_revolution.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Unfettered Eye",
+  "dove": "achievements/a_affair_eye.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Affair of the Unfinished Lark",
+  "dove": "achievements/a_affair_lark.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The Ligeian Medusa is long dead. But she walks the streets of Budapest by moonlight and, for the first time, she's being glimpsed in daylight too...",
+  "dove": "achievements/a_affair_friend.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "The Légion du Seuil recruits from among the Bounds-beasts. How trustworthy is it, really?",
+  "dove": "achievements/a_affair_revolution.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "The New King has sanctioned the use of the Crown's wealth to fund a visionary new industrial project...",
+  "dove": "achievements/a_affair_endeavour.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "The Suppression Bureau has a growing interest in the recent fad for unconventional - often prophetic - religious movements...",
+  "dove": "achievements/a_affair_mystique.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "The assets of Grunewald's Permanent Circus were disposed of by the Bureau. In hindsight, this was a mistake...",
+  "dove": "achievements/a_affair_grunewald.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "The labhite Abecassis has begun a dramatic and dangerous metamorphosis...",
+  "dove": "achievements/a_affair_skin.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Two Reckoner mobs have gone to war in the unremarkable Lithuanian city of Kaunas. Why? What's in Kaunas?",
+  "dove": "achievements/a_affair_debt.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "What happens in Numa, stays in Numa. Generally.",
+  "dove": "achievements/a_affair_numa.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Deeper Than Did Ever Plummet Sound",
+  "dove": "achievements/a_event_prospero.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I curated a perfect display of every Hush House Librarian.",
+  "dove": "achievements/a_event_bustmaster.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I discovered the source of the fire that ravaged Hush House.",
+  "dove": "achievements/a_event_firefighter.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I drowned my book.",
+  "dove": "achievements/a_event_prospero.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Much Is Lost... But We Abide",
+  "dove": "achievements/a_event_bustmaster.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Wicke's Waking",
+  "dove": "achievements/a_event_firefighter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Beneath the Abbey of the Black Dove",
+  "dove": "achievements/a_explore_underground.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Darkness at Noon",
+  "dove": "achievements/a_explore_gaol.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Exit Dewulf",
+  "dove": "achievements/a_explore_baronial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I found my way through the storm to Brancrug Village.",
+  "dove": "achievements/a_explore_village.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of alchemy, metallurgy and pyrotechnics.",
+  "dove": "achievements/a_explore_ithastry.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of healing and restoration.",
+  "dove": "achievements/a_explore_preservation.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of music, riddles and miscellanea.",
+  "dove": "achievements/a_explore_birdsong.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of purification of the self and its surroundings.",
+  "dove": "achievements/a_explore_illumination.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of silence and its sundering.",
+  "dove": "achievements/a_explore_hushery.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of the laws (and disagreements) of the Hours.",
+  "dove": "achievements/a_explore_horomachistry.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of the primaeval wood.",
+  "dove": "achievements/a_explore_bosk.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of the ways and byways of the transmundane.",
+  "dove": "achievements/a_explore_nyctodromy.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I mastered the Wisdom of things that should not be studied.",
+  "dove": "achievements/a_explore_skolekosophy.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I restored the Abbey Church of the Isle, all the way to its topmost spire.",
+  "dove": "achievements/a_explore_church.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I restored the deepest chambers of the Cucurbit Prison.",
+  "dove": "achievements/a_explore_gaol.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I restored the rooms set aside by the Curia for the Librarian.",
+  "dove": "achievements/a_explore_curia.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I restored the sanctuary of the last Baron Dewulf.",
+  "dove": "achievements/a_explore_baronial.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I unearthed the final secret of the caves below Hush House.",
+  "dove": "achievements/a_explore_underground.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "In the Isle's Shadow",
+  "dove": "achievements/a_explore_village.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Birdsong",
+  "dove": "achievements/a_explore_birdsong.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Bosk",
+  "dove": "achievements/a_explore_bosk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Horomachistry",
+  "dove": "achievements/a_explore_horomachistry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Hushery",
+  "dove": "achievements/a_explore_hushery.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Illumination",
+  "dove": "achievements/a_explore_illumination.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Ithastry",
+  "dove": "achievements/a_explore_ithastry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Nyctodromy",
+  "dove": "achievements/a_explore_nyctodromy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Preservation",
+  "dove": "achievements/a_explore_preservation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mastery: Skolekosophy",
+  "dove": "achievements/a_explore_skolekosophy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Brothers and Sisters of St Brandan's",
+  "dove": "achievements/a_explore_church.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Curia of the Isle",
+  "dove": "achievements/a_explore_curia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Food And Cheer And Song",
+  "dove": "achievements/a_salon_supper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hot Ice Creams For Cold Days",
+  "dove": "achievements/a_salon_picnic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I Am Particularly Fond Of Muffins",
+  "dove": "achievements/a_salon_afternoon_tea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I hosted guests for a picnic.",
+  "dove": "achievements/a_salon_picnic.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I hosted guests for afternoon tea.",
+  "dove": "achievements/a_salon_afternoon_tea.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I hosted guests for elevenses.",
+  "dove": "achievements/a_salon_elevenses.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I hosted guests for luncheon.",
+  "dove": "achievements/a_salon_lunch.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I hosted guests for supper.",
+  "dove": "achievements/a_salon_supper.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Salon Achievement",
+  "dove": "achievements/a_category_salon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Second Breakfast",
+  "dove": "achievements/a_salon_elevenses.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Stress Cannot Exist In The Presence Of A Pie",
+  "dove": "achievements/a_salon_lunch.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Knowledge In The Look Of Things",
+  "dove": "achievements/a_u_winter.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Evening Falls",
+  "dove": "achievements/a_u_evening.label",
+  "ricorre": 2
+ },
+ {
+  "en": "I followed in the footsteps of Solomon Husher.",
+  "dove": "achievements/a_u_winter.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "I lived out my days quietly, as the Librarian of Hush House; and I was happy.",
+  "dove": "achievements/a_u_evening.descriptionunlocked",
+  "ricorre": 1
+ },
+ {
+  "en": "Assured Success",
+  "dove": "achievements/a_v_history_world.label",
+  "ricorre": 1
+ },
+ {
+  "en": "CATASTROPHE",
+  "dove": "achievements/a_v_history_tower.label",
+  "ricorre": 1
+ }
+]

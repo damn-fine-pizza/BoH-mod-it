@@ -1,0 +1,30 @@
+{
+"dicta":[
+  {
+    "id": "dictum.bookofhours",
+
+    "WorldSphereType": "SecretHistories.Spheres.SkySphere",
+    "DefaultWorldSpherePath": "~/lastresort",
+    "AlternativeDefaultWorldSpherePaths": ["~/portage1","~/portage2","~/portage3","~/portage4","~/portage5","~/hand.memories","~/hand.abilities","~/hand.skills","~/hand.misc","~/library!cucurbitbridge/outsidepile","~/library!brancrugbeach/outsidepile"],
+
+    "LogoScene": "S1Logo",
+    "QuoteScene": "S2Quote",
+    "MenuScene": "S3MenuUmber",
+    "PlayfieldScene": "S4Library",
+    "GameOverScene": "S5HistoryChosen",
+    "NewGameScene": "S6HistoriesPast",
+    "LoadingScene": "S8Loading",
+
+    "DefaultCardBack":"aureate_eye",
+    "NoteElementId": "tlg.note",
+    "DefaultGameSpeed": "0",
+
+    "StoredManifestation": "SecretHistories.Manifestations.StoredCircleManifestation",
+    "StoredPhyicalManifestation": "SecretHistories.Manifestations.StoredCirclePhysicalManifestation",
+    "MaxSuitabilityPulseFrequency":"0.2",
+    "SuitabilityPulseSpeed":"1"
+  }
+
+]
+
+}

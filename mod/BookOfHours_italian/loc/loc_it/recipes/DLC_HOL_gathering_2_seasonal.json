@@ -1,0 +1,24 @@
+{
+ "recipes": [
+  {
+   "id": "gather.garden.beehive.liselotte.spring",
+   "startdescription": "Miele o cera d’api, se faccio attenzione. Miele di cuculo se i Blomberende sono passati a visitare la loro nobiltà infantile."
+  },
+  {
+   "id": "gather.garden.beehive.liselotte.summer",
+   "startdescription": "Miele o cera d’api, se faccio attenzione. Miele di cuculo se i Blomberende sono passati a visitare la loro nobiltà infantile."
+  },
+  {
+   "id": "gather.garden.beehive.liselotte.autumn",
+   "startdescription": "È improbabile che riesca a raccogliere molto dall’alveare in questo periodo dell’anno, ma i Blomberende talvolta cantano i loro lamenti più forte di quanto il vento possa smentire."
+  },
+  {
+   "id": "gather.garden.beehive.liselotte.winter",
+   "startdescription": "È improbabile che riesca a raccogliere molto dall’alveare in questo periodo dell’anno, ma i Blomberende talvolta cantano i loro lamenti più forte di quanto il vento possa smentire."
+  },
+  {
+   "id": "gather.garden.beehive.liselotte.numa",
+   "startdescription": "In Numa, potrei raccogliere miele, cera d’api, o qualcosa di inaspettato. I Blomberende solitamente passano per rendere omaggio alla loro nobiltà infantile, e lasciano i loro doni di cuculo."
+  }
+ ]
+}

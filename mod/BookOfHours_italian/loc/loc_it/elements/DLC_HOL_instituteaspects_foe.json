@@ -1,0 +1,34 @@
+{
+ "elements": [
+  {
+   "id": "foe.chandler",
+   "label": "Il Nemico dell’Istituto: il Chandler",
+   "desc": "L’Istituto ha deciso di premunirsi contro la venuta del Chandler."
+  },
+  {
+   "id": "foe.ys",
+   "label": "Il Nemico dell’Istituto: Ys",
+   "desc": "L’Istituto ha deciso di premunirsi contro le seduzioni di Ys."
+  },
+  {
+   "id": "foe.carapace",
+   "label": "Il Nemico dell’Istituto: la Croce del Carapace",
+   "desc": "L’Istituto ha deciso di premunirsi contro il ritorno della Croce del Carapace, e i cambiamenti che potrebbe portare."
+  },
+  {
+   "id": "foe.devourers",
+   "label": "Il Nemico dell’Istituto: Divoratori",
+   "desc": "L’Istituto ha deciso di premunirsi anzitutto contro le insidie del mondo nascosto: aluchiti, spiriti del Mansus, fantasmi affamati..."
+  },
+  {
+   "id": "foe.nowhere",
+   "label": "Il Nemico dell’Istituto: le Ore del Nessun Luogo",
+   "desc": "L’Istituto ha deciso di premunirsi contro l’orrore divorante degli dèi-dal-Nessun Luogo."
+  },
+  {
+   "id": "foe.none",
+   "label": "Il Nemico dell’Istituto: Nessuno",
+   "desc": "I fondatori dell’Istituto non riuscirono a concordare sulla natura della minaccia occulta più significativa."
+  }
+ ]
+}

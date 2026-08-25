@@ -1,0 +1,1558 @@
+{
+ "recipes": [
+  {
+   "id": "terrain.atrium",
+   "preface": "Atrio in Ombra",
+   "label": "Atrio",
+   "startdescription": "Questo è stato a lungo un luogo sacro, ma in assenza di preghiere, altre influenze vi si sono insinuate. Mi servirà aiuto per purificarlo, passo dopo passo.",
+   "desc": "Nel 1651, Musgrave Dewulf dotò l’atrio di un santuario a St Januarius della Porta. Musgrave era un uomo pio ma anche puritano, perciò questo grandioso santuario risultava un po’ insolito. Anche St Januarius è una scelta insolita – ma è il santo patrono dei confini, e si diceva spesso che i Dewulf fossero in qualche misura «Signori di Marca» incaricati della custodia dei confini.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.backstairs",
+   "preface": "Scale Sbarrate",
+   "label": "Scale di Servizio",
+   "startdescription": "Qualcuno ha riempito queste scale di travi di legno e mobili spezzati. Ha riempito il legname e i mobili di segni per portare ombra e disperazione. Voleva impedire a un intruso di passare, o a un residente di andarsene? In ogni caso, sarà un lavoro difficile e delicato riaprire le scale.",
+   "desc": "L’arteria segreta della Casa. Tutti quegli abati e baroni e tutte le loro folle di servitori avevano bisogno che i loro vasi da notte venissero svuotati e i loro stivali puliti. Queste sono le scale su cui salivano e scendevano gli stivali e i vasi da notte. Erano notoriamente anguste e insidiose. Raro era l’anno in cui qualche povero sguattero non si rompeva una caviglia. Fu il Bureau di Soppressione, finalmente, dopo tanto tempo, a rimodernare le scale e a installare luci elettriche. E la gente dice che il Bureau di Soppressione non ha mai fatto nulla di buono alla Hush House!",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.ballroomduellinghall",
+   "preface": "Sala Fioca",
+   "label": "Sala dei Duelli",
+   "startdescription": "Le pareti sono coperte di armi. Mentre saggio la soglia, un sussurro turba l’aria immobile, e un paio di spade appese al muro luccicano minacciose. Altre protezioni di van Lauren. Sembrano molto più forti sul lato della Casa rivolto al mare che su quello rivolto alla terraferma. Si potrebbe iniziare a chiedersi se fossero mai state pensate per proteggere dagli estranei.",
+   "desc": "In epoca baronale, questa era una sala da ballo, ma nel diciannovesimo secolo, durante il periodo di Brulleau come Archivista, una diade di Lunghi della Lama in eterno duello accettò di restare alla Hush House per un anno e un giorno per permettere a Natalia di studiarli, a patto che soddisfacesse certe condizioni. Uno spazio adeguatamente attrezzato era una di quelle condizioni. (Alla fine, la faccenda si rivelò una trappola o un tranello architettato da uno o entrambi i membri della diade, e se ne andarono dopo una sola battaglia.) I loro nomi sono registrati come «Mistress Dearday» e «Father Torgue».",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.bells",
+   "preface": "Campane Cadute",
+   "label": "Campane",
+   "startdescription": "Qualcuno ha spaccato i ceppi delle campane così che cadessero qui sul pavimento. La pietra sottostante è incrinata – il rumore dev’essere stato insopportabile. Una è caduta contro le scale che portano in cima alla torre.",
+   "desc": "Giver, Teller, Shur’s Tongue, Lady Janice e Great Paycock sono i nomi di queste campane, sebbene siano più antiche della stessa Abbazia e quei nomi si siano certamente corrotti nel corso degli anni. Nel 1915, Shur’s Tongue e Lady Janice erano troppo incrinate per suonare, e il Bureau di Soppressione pagò perché fossero rifuse – il <i>quid pro quo</i> di Serena Blackwood per l’assistenza prestata a George Collers nel suo progetto dell’orologio.\n\n",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.boathouse",
+   "preface": "Sentiero Pericoloso",
+   "label": "Rimessa delle Barche",
+   "startdescription": "Questa via non è mai stata sicura, nemmeno prima che l’ultima ondata di tempeste se ne facesse gioco.",
+   "desc": "Il modo migliore per arrivare a Brancrug senza farsi notare. Più di recente, un mezzo non ufficiale per i funzionari del Bureau di Soppressione per andare e venire.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.brancrug",
+   "preface": "Villaggio di Brancrug",
+   "label": "Villaggio di Brancrug",
+   "startdescription": "Villaggio di Brancrug: rifugio nella tempesta. Avrò bisogno di aiuto per scalare le scogliere al buio, e la gente del posto diffida degli estranei... più che mai da quando c’è stata la Restaurazione, e il Nuovo Re.",
+   "desc": "Questo quieto villaggio di pescatori della Cornovaglia è rimasto a lungo all’ombra dell’Isola. Potrebbe essere antico quanto la Hush House stessa. E come la Hush House, il Villaggio di Brancrug ha dato rifugio, nel corso degli anni, alla sua parte di disadattati ed esuli.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "Guida",
+     "description": "Un’ultima volta, affidati alla gentilezza degli sconosciuti."
+    }
+   ]
+  },
+  {
+   "id": "terrain.brancrugbeach",
+   "preface": "",
+   "label": "Baia di St Brandan",
+   "startdescription": "",
+   "desc": "Qui il mare finisce e il mondo comincia (o forse il contrario). Dopo le tempeste, i pescatori del Villaggio di Brancrug trovano qui stranezze portate dalle onde.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.catacombs",
+   "preface": "Gallerie Sferraglianti",
+   "label": "Catacombe",
+   "startdescription": "I morti non camminano qui; ma i loro occhi sono su di me. Posso placarli, o posso nutrirli.",
+   "desc": "Nei giorni del miele, coloro che ricordavano portavano le ossa dei loro morti alla roccia grigia nel mare. Nel tempo delle Aquile, coloro che ricordavano portavano le ossa dei loro morti alla roccia grigia nel mare. Nel tempo del Re-Orso, i clan portavano le ossa dei loro morti alla roccia grigia nel mare. Quando vennero i Re-Lupo, coloro che ricordavano portavano le ossa dei loro morti alla roccia grigia nel mare. Per tutti gli anni del Sole e del Bronzo, coloro che ricordavano portavano le ossa dei loro morti alla roccia grigia nel mare. Molto è stato tolto; molto rimane.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.cell-adept",
+   "preface": "Cella Sigillata",
+   "label": "Cella: Adepti",
+   "startdescription": "Un cartello fuori da questa cella recita ATTENZIONE: NON INSERIRE LE CHIAVI SENZA PRIMA AVER INVOCATO UN’ADEGUATA AUTORIZZAZIONE. La chiave è nella Sala del Personale, ma non dovrei girarla senza invocare poteri che forniscano un ragionevole facsimile di autorizzazione.",
+   "desc": "Settantasette giorni nel Cucurbit erano considerati sufficienti ad ammorbidire le passioni dell’adepto più impenitente. Dopodiché, di solito l’adepto veniva incriminato e processato a porte chiuse; molto di rado rilasciato; talvolta portato di sopra per uno dei colloqui sperimentali di Collers.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.cell-long",
+   "preface": "Cella con Trabocchetto",
+   "label": "Cella: Lunghi",
+   "startdescription": "Un cartello fuori da questa cella recita ATTENZIONE: NON ENTRARE MENTRE LE MISURE DI SICUREZZA SONO INNESCATE.",
+   "desc": "I pochi Lunghi a Brancrug venivano tenuti in celle triplicemente rinforzate con argento, acciaio e incantesimi autorizzati. Il Bureau conosceva le loro debolezze, ma non vi fece mai affidamento. Questa cella ha ospitato per ultimi <i>due</i> immortali – una diade di Lunghi della Lama. Questo dev’essere costato non solo una vigilanza feroce ed eterna, ma anche la frequente sostituzione di mobili in frantumi.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.cell-unknown",
+   "preface": "Cella Intricata",
+   "label": "Cella: ?",
+   "startdescription": "Un mesentere coriaceo color bordeaux si è esteso fuori e attorno alla porta di questa cella. Chitina? Fungo? Si sgretola sotto le mie mani, emanando fumi soffocanti. Sarà impossibile entrare nella cella senza prima rimuoverlo.",
+   "desc": "Questo fu l’ultimo prigioniero ammesso nella Prigione, ma ne è stata registrata solo la data. Non rimane alcuna traccia della sua origine, del suo crimine, o del suo arresto. Collers era un uomo di molti segreti. A volte, tuttavia, era anche un uomo generoso, e insistette perché gli fossero forniti un letto e materiali per scrivere, qualora ne avesse mai sentito il bisogno.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.cell-worm-inhabited",
+   "preface": "Cella Impermeabile",
+   "label": "Cella: Abitata dai Vermi",
+   "startdescription": "Un cartello fuori da questa cella recita ATTENZIONE: NON RIVOLGERGLI LA PAROLA, NÉ POSARVI LO SGUARDO. Le protezioni che ancora aleggiano nell’aria danno forza a questo divieto.",
+   "desc": "All’occupante di <i>questa</i> cella non potevano essere concessi aria fresca ed esercizio. Non avrebbe potuto ragionevolmente aspettarsi di lasciare mai più questa cella, nemmeno quando indossava forma umana. Ma non poteva essere confinato per sempre; alla fine, in qualche modo, si fece strada dentro le pareti.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.chancel",
+   "preface": "Camera Velata",
+   "label": "Chancel della Chiesa Abbaziale",
+   "startdescription": "Questo è stato a lungo un luogo assai sacro – troppo sacro perché lo si potesse lasciare incustodito per tanto tempo senza pericolo. Ci sono settantasette candele, e ognuna arde di una fredda fiamma blu, ognuna abitata da uno spirito vigile. Non dovrei entrare finché ogni fiamma non sarà stata purificata o spenta.",
+   "desc": "La Chiesa del Sole Invitto riconosce solo una manciata di Ore: il Sole in Stracci o in Splendore; la Meniscate; la Madrugad; il Guardiano; e, con riluttanza, il Lupo-Diviso. Qualunque altra cosiddetta «Ora» dev’essere un potere minore, un malvagio impostore, o una superstizione.\n\nCosì la Chiesa nega due delle tre Ore del Chancel. Eppure si dice che sia proprio il Chancel a determinare quali dei suoi pari si qualifichino come Ore. Cose della teologia.\n\nL’Abate Geffrey decretò che tutte e tre fossero venerate in questa più santa delle stanze. Per evitare una vera e propria eresia, non permise che nessuna delle tre fosse nominata. Anche questa è teologia.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.chapelascite",
+   "preface": "Un Divieto Invernale",
+   "label": "Cappella Ascite",
+   "startdescription": "Nebbie gelide si attorcigliano e vagano.",
+   "desc": "L’Ascia Cornuta dice: Non parlare mai di questo Mistero. Quando il Pelledituono era mortale, servì le Ore che uccisero la mia stirpe. Pretesi la morte del Pelledituono, e così il Graal me lo consegnò. C’è sempre un conto da saldare, e nulla è mai davvero perdonato.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.chapelcalicite",
+   "preface": "Un Divieto Rosso",
+   "label": "Cappella Calicite",
+   "startdescription": "Nebbie cremisi fanno cenno e ondeggiano.",
+   "desc": "Il Graal Rosso dice: Non parlare mai di questo Mistero. Fui sempre il primo, e devo sempre essere il più grande. Quando versammo il sangue del Pelledituono, banchettai e divenni forte, più forte ancora dei Gemelli. C’è sempre un banchetto, e nulla è mai davvero sprecato.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.chapelmalachite",
+   "preface": "Un Divieto Mielato",
+   "label": "Cappella Malachite",
+   "startdescription": "L’aria è densa dei profumi di miele e bacche di tasso – abbastanza da stordire il cuore e la mente.",
+   "desc": "Il Tasso ad Anello dice: Non parlare mai di questo Mistero. Quando il Pelledituono era mortale mi amò per primo, e così il Graal lo distrusse. Ora il Pelledituono si delizia per sempre della mia succulenza. C’è sempre un rinnovamento, e nulla finisce davvero.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.chapterhouse",
+   "preface": "Camera degli Echi",
+   "label": "Sala Capitolare",
+   "startdescription": "Questo è stato a lungo un luogo sacro, ma le voci dei monaci sono sopravvissute alle loro preghiere. Un brontolio scontroso gira per la stanza, prendendo velocità man mano che avanza. Ogni volta che mi passa accanto, per poco non riesce ad articolare il mio nome.",
+   "desc": "Qui si riunivano i superiori monastici per amministrare gli affari dell’Abbazia di St Brandan e risolverne le controversie. Qui, nel 1349, si tenne l’ultimo processo delle ultime monache dell’Abbazia di St Brandan. Due furono giustiziate per l’omicidio della Badessa Nonna, presumibilmente con «perversioni delle arti curative». Nonna fu l’ultima badessa dell’Abbazia di St Brandan, e dopo il processo, il monastero non accettò mai più novizie. Dalle ampie finestre, il mare è sempre visibile, mentre batte sulle rocce molto più in basso.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.churchtower1",
+   "preface": "Torre Malaugurata",
+   "label": "Torre della Chiesa",
+   "startdescription": "La scalinata è stata sbarrata con catene – più che sbarrata. L’intera struttura è avvolta o fasciata di catene. Sigilli d’autorità ne vietano l’accesso.",
+   "desc": "Le campane di questa torre suonavano ogni domenica, anche ai tempi di Solomon Husher, finché Thirza Blake non cancellò infine le funzioni per risparmiare licenziando il prete. Questo portò una delegazione di abitanti infuriati dal Villaggio di Brancrug, dove circolava una tetra superstizione secondo cui, quando le campane di Brancrug fossero cadute nel silenzio, si sarebbero udite le campane di Ys.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.churchtower2",
+   "preface": "Orologio Fermo",
+   "label": "Orologio della Torre",
+   "startdescription": "Con cura maniacale ma metodica, qualcuno ha smontato l’orologio e ne ha sparso i pezzi per la stanza. Ruote e componenti sono stati ammucchiati e appoggiati su ogni superficie. Una W è stata tracciata sulle scale con la fuliggine.",
+   "desc": "George Collers, governatore della Prigione di Brancrug, supervisionò la progettazione e l’installazione di questo grande orologio, con il riluttante aiuto dell’Archivista Serena Blackwood. Lei avrebbe forse rifiutato categoricamente, se avesse saputo come lui intendesse riutilizzare le tecniche dell’orologiaio per il suo cosiddetto «condignatore».\n\nUn’iscrizione sulla ruota maggiore recita «BATTI LE ORE».\n\n",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.cloister",
+   "preface": "Giardino del Chiostro",
+   "label": "Chiostro di St Brandan",
+   "startdescription": "Riesco a distinguere uno spazio verde e ombreggiato, ma è soffocato da erbacce e spine. Mi servirà aiuto per liberare lo spazio.",
+   "desc": "Le sorelle e i fratelli dell’Abbazia costruirono questi giardini nel tredicesimo secolo – all’apice del periodo che ora chiamiamo Gotico Solare. Cammina qui un poco e respira la pace che hanno lasciato.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.columbiccrypt",
+   "preface": "Cripta Svolazzante",
+   "label": "Cripta Columbica",
+   "startdescription": "L’oscurità qui pulsa di ali. Pipistrelli? Il suono somiglia più a uccelli, ma c’è una qualità da timpani che suggerisce più ossa che piume. Un altro passo, e avverto la possibilità di artigli.",
+   "desc": "<i>St Columba, con dodici compagni, portò la parola del Sole Invitto in Scozia, dove fondò un monastero sull’isola benedetta di Iona. Lì morì, e lì le sue ossa rimasero finché non giunsero gli Uomini del Nord.\n\nMa in Cornovaglia si narra di una sua tredicesima compagna, una «bellezza ibrida» chiamata Rowena, che fu forse sua precettrice, forse sua seduttrice, o forse sua figlia. Alla sua morte, i monaci cercarono di lapidarla per le sue impurità. Lei portò via le ossa di Columba perché i monaci non le avessero – sostituendole, per tatto o per dispetto, con le ossa di un cavallo. Portò le ossa in un’Isola nascosta, dove fondò una doppia comunità di monache e monaci, e ne divenne la prima badessa: ma non ammetteva al suo ordine nessuno che fosse vergine, né innocente di alcun crimine. Da allora, l’Isola è stata un rifugio per tutti coloro che il mondo potrebbe considerare impuri.</i>\r",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.crucibletower1",
+   "preface": "Camera Fumosa",
+   "label": "Torre del Crogiolo: Ufficio del Governatore",
+   "startdescription": "La stanza è quasi intatta, ma piccoli fuochi ardono ancora qui, ignorando allegramente l’assenza di combustibile, riempiendo la stanza di sette anni di fumo.",
+   "desc": "L’ufficio del Governatore – discretamente lussuoso, almeno per i criteri del Cucurbit. Collers era devoto alla propria causa e al proprio servizio, ma teneva ai suoi piccoli piaceri.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.crucibletower2",
+   "preface": "Camera Soffocante",
+   "label": "Torre del Crogiolo: Alloggio del Governatore",
+   "startdescription": "Non si vedono fuochi, né segni di bruciature, né fumo, ma questa stanza pulsa di un calore afoso. La testa mi gira mentre mi avvicino alla soglia.",
+   "desc": "In questa stanza, il Governatore era Collers l’artista, Collers il sognatore. Era un lato di lui che quasi nessuno vedeva, specialmente dopo che, alla morte della moglie, divenne tanto più solitario. Detto questo, si può tracciare un collegamento tra il suo entusiasmo per la scultura e le sue ambizioni per i propri soggetti umani.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.crucibletower3",
+   "preface": "Camera Carbonizzata",
+   "label": "Torre del Crogiolo: Laboratorio degli Interrogatori",
+   "startdescription": "La porta di ferro qui è socchiusa – ma brilla ancora debolmente di rosso, anche dopo tutti questi anni. Non è un calore naturale, e non c’è un modo del tutto naturale per placarlo.",
+   "desc": "Quando un prigioniero resisteva a ogni altro intervento, Collers lo portava qui, per saggiarne e affinarne il valore. I suoi successi potevano essere trasferiti a Zurigo, oppure consegnati alla Légion du Seuil per guadagnarsi la propria umanità, o perfino, almeno una volta, rilasciati. Ma i suoi successi non furono numerosi.\n\nQui, infine, è dove l’incendio cominciò e dove finì. Quando il potere sotto la prigione fu liberato, venne qui a interrogare Collers. Forse intendeva metterlo nel suo stesso dispositivo; ma sembra che di lui non fosse rimasto neanche lontanamente abbastanza per farlo.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.cucurbitbridge",
+   "preface": "Ponte Velato di Nebbia",
+   "label": "Ponte del Cucurbit",
+   "startdescription": "Ogni tanto, qualcuno costruisce un ponte verso l’Isola; ogni ponte dura cent’anni, o duecento; poi il mare se ne libera. Questo fu costruito negli anni 1890, il che lo rende il ponte più recente – ma questo non significa che sia nuovo.",
+   "desc": "La Hush House è stata molte cose nel corso dei secoli – inclusa, nel Periodo Notturno del 1896-1929, una prigione. Nessuno ricorda quel periodo con affetto, ma almeno volle dire che il Ramo Notturno pagò un nuovo ponte.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "Riparazioni",
+     "description": "La Hush House è rimasta vuota per sette anni. Quei sette anni hanno reso il ponte pericoloso."
+    }
+   ]
+  },
+  {
+   "id": "terrain.deeplightcaves",
+   "preface": "Fosforescenza Minacciosa",
+   "label": "Grotte della Luce Profonda",
+   "startdescription": "Le pompe hanno drenato acqua a sufficienza da poterci sguazzare, ma tutto è chiazzato e macchiato di una luce malsana, aliena, meravigliosa, ipnotica. Quando mi ritiro, trovo lo stesso bagliore sui miei stivali. Qualunque cosa faccia, non dovrei farla in fretta.",
+   "desc": "Quando gli dei-dalla-pietra furono spazzati via, anche la Croce del Carapace che li aveva serviti fu spazzata via. La stirpe Seglaz, la stirpe Wyrmefota, la stirpe Glaeterfloge, tutti quei saggi e possenti sono svaniti, nel Nessun Luogo, nel nascondimento, o in noi. Qui, nelle acque riscaldate dal fuoco, lontano dalla giustizia della luce del sole, la loro eredità prospera in silenzio.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.deepwelldescent",
+   "preface": "Discesa Intricata di Radici",
+   "label": "Discesa del Pozzo Profondo",
+   "startdescription": "Le radici qui sono un labirinto di anni. Da quanto tempo nessuno passa più di qui?",
+   "desc": "Ognuna delle grandi radici qui ospita un giardino di funghi fruttiferi. Grandi bombi neri ronzano improbabilmente tra di esse, raccogliendo spore, bordonando pace.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.earlbrian'sfield",
+   "preface": "Prato Sommerso dalla Nebbia",
+   "label": "Campo del Conte Brian",
+   "startdescription": "C’è erba sotto i piedi e un miscuglio di profumi di fiori selvatici, ma sopra ogni cosa gli umidi vapori salmastri di una fitta nebbia marina. Da qualche parte nella nebbia mi pare di udire una campana lontana – remota – come fosse sotto il mare...\n\nForse la si può disperdere col vento, forse dissolvere con un canto, se porto i giusti poteri e il giusto aiuto.",
+   "desc": "«Brian» è un altro di quei nomi-leitmotiv che ricorrono per tutta la lunga storia di Brancrug. Questo era Brian di Bretagna, che re Guglielmo nomina Conte di Cornovaglia dopo la Conquista. Nel 1068, i figli del deposto re Harold conducono incursioni in Cornovaglia, e Brian finanzia la costruzione di un cancello fortificato e della Torre del Guardiano – inizialmente in legno – a protezione dell’abbazia. In cambio, l’Abbazia «dà rifugio» a un tasso che lui ha portato dalla Bretagna, che fiorisce in «vari colori». Questo è quell’albero, ormai cavo e lentamente marcescente dall’interno, che si prende il suo tempo per morire con grazia.\n\nNon è fiorito a memoria d’uomo e i colori dei suoi fiori non si possono più conoscere; ma i fratelli di Brian si chiamavano Alan il Rosso e Alan il Nero.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.earthcellar",
+   "preface": "Cantina Crollata",
+   "label": "Cantina di Terra",
+   "startdescription": "Il tetto è crollato. Dovremo scavare per liberarlo.",
+   "desc": "Ai tempi dell’Abbazia, questo era un santuario a St Lucia la Senza Occhi. Dopo le eresie dell’Intercalato, la Chiesa del Sole Invitto la considera un aspetto dell’Ora chiamata Meniscate, ma allora era solo la santa patrona dei vetrai e degli oculisti. L’albero nel Campo del Conte Brian fuori era tradizionalmente ornato di decorazioni in vetro colorato nel giorno di St Lucia.\n\nDalla dissoluzione dell’Abbazia, però, qui dentro è per lo più un deposito di verdure.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.entrancehall",
+   "preface": "La Prima Vera Soglia",
+   "label": "Sala d’Ingresso",
+   "startdescription": "Ho raggiunto la soglia della Casa vera e propria. Gli Archivisti della Curia erano studiosi di rilievo – alcuni erano adepti potenti. Da qui dovrei procedere con cautela, osservando le forme dovute, facendo le offerte appropriate. Gli abitanti del villaggio e gli altri del posto conoscono le vie della terra e del mare qui intorno. Il loro aiuto sarà prezioso.",
+   "desc": "L’inizio della Casa vera e propria. La Curia era solita distribuire guanti e pantofole di cuoio morbido per proteggere i libri e i locali. Ai visitatori si chiedeva spesso di togliersi le scarpe. Fermati un momento e ascolta le Storie.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.fluddgallery",
+   "preface": "Laboratorio Saccheggiato",
+   "label": "Galleria Fludd",
+   "startdescription": "Questo era un laboratorio d’alchimista e una galleria di quadri, ma i quadri sono stati gettati a terra, i vasi rovesciati, i solventi e i reagenti versati. Ripararlo richiederà tempo e sarà pericoloso.",
+   "desc": "Thirza Blake, settima Archivista della Casa, ampliò questo spazio, decorandolo con materiali semipreziosi e riempiendolo della migliore arte che il denaro della Hush House potesse comprare. (Naturalmente, dopo che i suoi entusiasmi ebbero portato la Casa sull’orlo della miseria, gran parte dovette essere venduta.)",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.foundry",
+   "preface": "Fonderia Devastata",
+   "label": "Fonderia",
+   "startdescription": "Questa stanza non è stata soltanto abbandonata, ma vandalizzata. Qualcuno l’ha devastata e ha scarabocchiato segni a W sul muro con sangue e fuliggine. Mi servirà aiuto qualificato per rimetterla in uso.",
+   "desc": "Questa stanza fu destinata alla lavorazione dei metalli da Hendrik Dewulf. C’è sempre stata una fucina nel Villaggio di Brancrug, ma Hendrik voleva essere certo di poter far fondere le proprie pallottole e riparare i ferri dei prigionieri, anche se gli abitanti del villaggio si fossero sentiti ribelli. Quando arrivò Ambrose Westcott, dei ferri aveva poco bisogno e delle pistole ancor meno; ristrutturò il luogo per i propri esperimenti metallurgici. Un brutto posto in estate, un buon posto in inverno.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gaolbridge",
+   "preface": "Ponte Rotto",
+   "label": "Ponte Minore",
+   "startdescription": "Il ponte della prigione resiste ancora, ma carbonizzato e contorto. Geme pericolosamente nel vento. Un incendio, dunque, ma quale incendio fa una cosa simile? È come se qualcuno avesse fatto scorrere la fiamma di un fiammifero lungo un ponte di cera.\n\nDall’altra parte, il cancello è spalancato. Quando il ponte sarà riparato, potrò entrare nella prigione.",
+   "desc": "Prigione di Brancrug: costruita nel 1896 su ordine del Ramo Notturno, per contenere «disordini sconvenienti e occulti». Appena sei anni dopo, dopo l’Incidente di Ortucchio, fu il Ramo stesso a essere considerata «sconveniente e occulta», e le sue funzioni furono assorbite dal Bureau di Soppressione. Ma la Prigione resta ancora in piedi.\n\nSopra il cancello si legge il motto del Bureau: ALIIS SI LICET, TIBI NON LICET, comunemente reso come È PERMESSO A NOI; NON È PERMESSO A TE.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gaolcellar",
+   "preface": "Cantina Devastata",
+   "label": "Cantina della Prigione",
+   "startdescription": "Anche questa stanza è stata visitata dai Vermi, l’«abominio della stirpe dei relitti»... ma non ne restano quasi tracce.",
+   "desc": "L’ingresso al sotto-scantinato era sbarrato, chiuso a chiave, incatenato, protetto da sigilli, sia fisicamente che altrimenti. Qualunque cosa fosse custodita là sotto, la prendevano estremamente sul serio.\n\nSembra proprio che i Vermi cercatori abbiano infranto i sigilli, attratti dal potere sottostante. Sembra proprio che se ne siano pentiti.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gaolhall",
+   "preface": "Sala Corrosa dai Vermi",
+   "label": "Sala della Prigione",
+   "startdescription": "Questo luogo porta le tracce inconfondibili dei Vermi – i «serpenti che non sono serpenti». Quasi certamente se ne sono andati... ma non correremo rischi. I Vermi sono difficili da sfrattare dagli edifici, ma molto più difficili da sfrattare dalle persone.",
+   "desc": "Qui le guardie e i prigionieri consumavano i loro pasti. A volte anche Collers scendeva dalla sua torre per discutere di filosofia con avvelenatori, di etica con gli Antaiani, di teologia con i labhiti. In seguito, di solito, bruciava i suoi appunti.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gaolkitchen",
+   "preface": "Cucina Rosicchiata dai Vermi",
+   "label": "Cucina della Prigione",
+   "startdescription": "Questa cucina è stata chiaramente penetrata e contaminata dai Vermi – i «parassiti del Sole». I Vermi se ne sono andati da tempo. Ma la cucina andrà strofinata, andrà decontaminata, e poi bisognerà di certo buttarne via tutto il cibo. Anche se in scatola.",
+   "desc": "«Non ci sono Ore a Brancrug», diceva Collers – ancora prima di essere Governatore della Prigione di Brancrug, quando era solo Segretario Vigilante della Curia. A monito, le lancette furono confiscate a ogni orologio entro le mura della prigione. I secondini potevano comunque contare sui rintocchi del grande Orologio nella guglia dell’abbazia. Ma di certo rese la vita più difficile ai cuochi.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gaolyard",
+   "preface": "Cortile Annerito",
+   "label": "Cortile della Prigione",
+   "startdescription": "Un calore feroce ha bruciacchiato, persino fuso, le pietre. Ma come al ponte, solo qua e là. Orribilmente, «qua» e «là» sembrano per lo più coincidere con dove si trovavano delle persone. Ossa carbonizzate e incrinate sono sparse per il cortile.",
+   "desc": "La prigione era soprannominata il «Cucurbit», dal matraccio dell’alchimista che distilla e raffina. I prigionieri sarebbero dovuti diventare versioni migliori di se stessi, riallineati al senso di responsabilità. Perciò, sebbene sarebbe stato molto più sicuro confinare gli internati più potenti nelle loro celle sigillate, il Governatore Collers insisteva che anche a loro fossero concessi aria fresca ed esercizio.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gatehouse",
+   "preface": "Il grande cancello della Casa",
+   "label": "Torre del Guardiano: Corpo di Guardia",
+   "startdescription": "Le mura della Casa si innalzano sopra di me. Mi era stato detto che fu abbandonata dopo un incendio – ma non c’è alcun segno di ciò. L’edificio avrà senza dubbio bisogno di restauro, ma è in condizioni migliori di quanto temessi.\n\n«I LIBRI SONO LA MEMORIA CHE NON MUORE», recita l’iscrizione sopra il cancello.",
+   "desc": "Già nell’undicesimo secolo, Brian di Bretagna costruì la Torre e il suo cancello per proteggere l’Abbazia di St Brandan – come la Hush House era allora conosciuta. Più tardi, i Baroni Dewulf rinforzarono il cancello contro i loro numerosi nemici. Ma è ormai passato molto tempo da quando la Hush House era una qualche forma di fortezza... e quando gli studiosi della Curia ne presero possesso, questo luogo era già da tempo una comoda sala d’attesa per i visitatori della Casa troppo poco importanti per meritare attenzione immediata.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "Chiave",
+     "description": "Quasi tutte le stanze della Casa avranno bisogno di lavori. Questa deve soltanto essere aperta."
+    }
+   ]
+  },
+  {
+   "id": "terrain.gloriousstair",
+   "preface": "Scala Tetra",
+   "label": "Scala Gloriosa",
+   "startdescription": "Questo è stato a lungo un luogo sacro, ma ora la Madrugad ne ha ritirato il favore, e un gelo attende qui dove l’alba non lo sfiora. Solo una volta pacificato potrò passare al sicuro.",
+   "desc": "Ogni gradino della scala è decorato con una citazione dal Libro dei Soli, affinché i fedeli possano essere edificati mentre ascendono. Le citazioni sono consumate fino alla semi-illeggibilità dal passaggio di tutti quei piedi devoti, il che potrebbe spiegare perché alcune di queste citazioni differiscano, inquietantemente, da qualunque versione ortodossa.\n\nSi è naturalmente affermato che la Sorellanza del Nodo, che per prima detenne l’Isola, possedesse anch’essa una copia della versione Shuritica, da lungo tempo soppressa, del Libro...",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.grandascent.1",
+   "preface": "Grande Ascesa – Primo Piano",
+   "label": "Grande Ascesa – Primo Piano",
+   "startdescription": "Le finestre sono chiuse ermeticamente, i tappeti sorprendentemente puliti, ma la pelle mi si accappona per la presenza vigile che abita la tromba delle scale. Dovremo placarla prima di salire oltre.",
+   "desc": "Per lunga tradizione, ogni Barone di Brancrug aveva la propria immagine collocata in una nicchia della Grande Ascesa. Più tardi, la Curia dell’Isola proseguì la tradizione per i propri Archivisti.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.grandascent.2",
+   "preface": "Grande Ascesa – Secondo Piano",
+   "label": "Grande Ascesa – Secondo Piano",
+   "startdescription": "È inaspettatamente difficile sollevare il piede per l’ultimo gradino prima del pianerottolo. Ombre di foglie scivolano davanti alla mia vista, e le finestre sibilano e tremano. Ho sentito dire che Gervinus van Lauren, ultimo Archivista prima di me, era abile nel proibire i passaggi.",
+   "desc": "Per lunga tradizione, ogni Barone di Brancrug aveva la propria immagine collocata in una nicchia della Grande Ascesa. Più tardi, la Curia dell’Isola proseguì la tradizione per i propri Archivisti.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.grandascent.3",
+   "preface": "Grande Ascesa – Terzo Piano",
+   "label": "Grande Ascesa – Terzo Piano",
+   "startdescription": "Il gelo scricchiola sui vetri delle finestre mentre salgo, e la luce mi colpisce gli occhi come coltelli. Un altro dei divieti di van Lauren.",
+   "desc": "Per lunga tradizione, ogni Barone di Brancrug aveva la propria immagine collocata in una nicchia della Grande Ascesa. Più tardi, la Curia dell’Isola proseguì la tradizione per i propri Archivisti.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.grandascent.g",
+   "preface": "Grande Ascesa – Piano Terra",
+   "label": "Grande Ascesa – Piano Terra",
+   "startdescription": "Le scale qui sono sgombre, ma l’aria qui è densa di vecchie magie. Dovrei muovermi con cautela, e non dovrei andarci senza compagnia.\n\nAncora nessun segno di alcun incendio. Perché allora la Casa fu abbandonata?",
+   "desc": "La scalinata che servì da spina dorsale della Casa: il grande progetto del Barone Walter, realizzato dal mastro muratore Gregory Wheelock.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gullcolony",
+   "preface": "Nube di Gabbiani Stridenti",
+   "label": "Colonia di Gabbiani",
+   "startdescription": "I gabbiani ne hanno fatto il proprio regno, e sono diventati intolleranti verso gli intrusi. Dovremo placarli o scoraggiarli.",
+   "desc": "In tutti i lunghi anni dell’Isola, i gabbiani, incuranti delle nostre vicende, hanno preso dal mare quanto loro dovuto e l’hanno reso alle rocce. Attenzione a dove metti i piedi.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gullscryloggia",
+   "preface": "Loggia degli Schiamazzi",
+   "label": "Loggia di Gullscry",
+   "startdescription": "Uccelli affollano ogni angolo di questo luogo, fissandomi con occhi gialli e malevoli. Il guano incrosta le pareti e piume si ammucchiano sul pavimento. Qualcosa li ha attirati qui – andrà affrontato. Una volta fatto, il luogo richiederà una quantità impressionante di pulizie.",
+   "desc": "Quando la malinconia del Barone Valentine e la sua acusia divennero troppo da sopportare, cominciò a consumare qui i propri pasti, senza nessuno di quei suoni che trovava fastidiosi – solo il vento, il mare, e i richiami dei suoi amati uccelli. Dopo che i Dewulf se ne furono andati, gli Archivisti della Curia venivano qui quando avevano bisogno di pensare in pace.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gullscrytower1",
+   "preface": "Camera del Pianto",
+   "label": "Torre di Gullscry: Stanza di Valentine",
+   "startdescription": "L’acqua gocciola come lacrime da tubi rotti nel soffitto, spruzzando sulle gabbie che pendono qui. Il pavimento è coperto di alcuni centimetri d’acqua. Il vento sbatte lugubre tra le sbarre delle gabbie.",
+   "desc": "In gioventù, il Barone Valentine era incline alla religione, e compì pellegrinaggi verso luoghi santi sul Continente. Dopo il suo ultimo pellegrinaggio – all’Abbazia di Fermier – cominciarono i sogni – di sangue che filtrava dalla terra; di un’immensa e pulsante Ruota che schiacciava i templi degli uomini; e, ciò che lo turbava di più, di uccelli contorti, che stridevano di dolore, che crescevano come frutti tra i rami di un antico tasso.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gullscrytower2",
+   "preface": "Camera Ululante",
+   "label": "Torre di Gullscry: Stanza di Eales",
+   "startdescription": "Grandi porzioni sono state strappate via dalle pareti di questa stanza. Il vento vaga per il luogo come una bestia in trappola, sbattendo qua e là.",
+   "desc": "Eales Dewulf ereditò la follia di suo padre Valentine, e fu giudicato inadatto a ereditare, così sua sorella Eva tenne l’Isola al suo posto. Quando i suoi accessi di violenza divennero incontrollabili, fu confinato qui nella torre, dove la sorella andava a trovarlo tre volte a settimana – fino alla sua fuga, verso la fine degli anni Venti del Settecento. Il destino ultimo di Eales resta sconosciuto.\n\n",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.gullscrytower3",
+   "preface": "Vetta Urlante",
+   "label": "Torre di Gullscry: Sommità",
+   "startdescription": "Qui la furia del vento è talmente grande che riesco a malapena a restare in piedi. Mi costringe a ritirarmi di nuovo verso le scale. Ora riesco a sentire la voce nel vento, che grida di un dolore grande quanto la furia del vento.",
+   "desc": "Nel 1721, Valentine cadde – o si gettò – dalla cima della torre. Non ci furono testimoni, e il suo corpo fu ritrovato solo tre giorni dopo. Sua figlia Eva fu l’ultima a vederlo in vita, e della loro ultima conversazione disse soltanto che aveva cominciato a temere il sole.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.hallofmirrors",
+   "preface": "Trappole Argentate",
+   "label": "Aula della Divisione",
+   "startdescription": "Gli specchi in questa stanza brulicano di spiriti vigili e riflessi pericolosi. Possono essere placati e banditi, ma solo uno sciocco tenterebbe un esorcismo in solitaria di una stanza dove ogni presenza è raddoppiata.",
+   "desc": "Eva Dewulf arredò per prima questa sala come la sua Aula della Divisione, tenendovi banchetti in cui gli ospiti erano selezionati secondo criteri insoliti e rigorosi. Più tardi, Thirza Blake, settima Archivista, incaricò lo speculista Poemander di aggiungere altri specchi. <i>Molti</i> altri specchi.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.hallofvoices",
+   "preface": "Sala Silenziosa",
+   "label": "Aula delle Voci",
+   "startdescription": "Il focolare è freddo, il pavimento coperto di polvere, le pareti striate di salnitro. Vecchie invocazioni e divieti squittiscono e sussurrano come topi.",
+   "desc": "Qui si riunivano gli iniziati superiori dei Misteri Tripartiti per amministrare gli affari della Colomba Nera e risolverne le controversie. Qui votarono per accecare ed espellere i Chorates del Pelledituono, che avevano violato le camere interne e spiato i Misteri. Da quel momento, i riti del Pelledituono non furono più permessi sull’Isola, e i tamburi sacri tacquero. Ma le onde ancora battono nelle ossa della roccia. Anche ora, arriva quel lento battito.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.hermitcell",
+   "preface": "Oscurità Spalancata",
+   "label": "Cella dell’Eremita",
+   "startdescription": "Il tuono si aggira all’ingresso di questa grotta – una maledizione morente, o uno spirito di tempesta capriccioso? Bisognerà occuparsene con cautela.",
+   "desc": "Le parole RED WILLIAM sono incise nel muro accanto alla nicchia del letto. Era il nome dello stregone che gettò una maledizione su Hendrik Dewulf, perché non vi fosse settimo della sua stirpe – lo stregone che Hendrik Dewulf castrò e imprigionò sotto la Casa.\n\nMa questa non sembra una cella. Non ci possono essere state serrature. Forse è vera quell’altra storia – che William fosse un iniziato del Pelledituono, tenuto segretamente da Hendrik perché profetizzasse per lui «secondo l’antico modo». Chi erano davvero i Dewulf?\n",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.hiddenstair",
+   "preface": "Scala Frusciante",
+   "label": "Scala Nascosta",
+   "startdescription": "Squame di serpente sussurrano sulla pietra; occhi di serpente scintillano nella pallida luce delle finestre.",
+   "desc": "Dopo il ritiro di Brulleau nel 1861, la Curia si trovò a corto di candidati promettenti – finché non giunse Willem Harries, ex sacerdote luterano olandese e un tempo corrispondente di Stanislav Schaller. Era stato missionario nelle Indie Orientali Olandesi finché la sua fede non andò perduta, o si trasformò in devozione per St Agnes della Porta, e fu attratto dalla Hush House.\n\nOttenne la sua posizione presentando alla Curia una «chiave perduta da tempo». Era la chiave proprio di questa scala, ma solo un ingenuo penserebbe che quella chiave fosse un oggetto tangibile.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.infirmary1a",
+   "preface": "Stanza Tetra",
+   "label": "Ambulatorio",
+   "startdescription": "La finestra di questa stanza è ricoperta da uno spesso strato di vernice nera. Un poco di luce filtra comunque. Per il resto, la stanza è buia. Percepisco ancora, molto debolmente, un odore di carne marcia.",
+   "desc": "Hendrik Dewulf sfrattò la famiglia del guaritore Natan dalla Torre del Barbiere – come veniva allora chiamata. («Ho estirpato la covata del barbiere», si narra che si vantasse.) Ma il suo trisnipote Gideon – «il Barone Variopinto», per i suoi capelli chiazzati – restaurò la Torre e ne fece di nuovo un luogo di cura.\n\nNaturalmente l’attrezzatura in questa stanza risale al secolo corrente. Ma l’altro soprannome di Gideon era «il Tagliatore». Si diceva che comprasse cadaveri per la dissezione – persino che fosse un vivisezionista. Quest’ultima accusa era probabilmente una calunnia, ma in un modo o nell’altro, gli studiosi sezionano cadaveri qui dentro da moltissimo tempo.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.infirmary1b",
+   "preface": "Stanza Trascurata",
+   "label": "Salotto dei Pazienti",
+   "startdescription": "La stanza sopra potrebbe un tempo essere stata una sorta di salotto, ma i mobili e le attrezzature sono stati spaccati e rovesciati; le pareti sono striate di muffa. Un odore sgradevole aleggia da più in alto.",
+   "desc": "In questa stanza, i maledetti della Grande Guerra si radunavano per rimettersi – coloro che avevano sofferto qualcosa non più orribile, ma in qualche modo più misterioso, delle solite ferite di corpo e spirito inflitte dalla Guerra – un’irruzione di Vermi, forse, o i rischi del versante militare delle attività del Bureau di Soppressione. Tra loro vi erano luminari minori del mondo invisibile – Christopher Illopoly, Zachary Wakefield, Harvey Hattington. Ma non Brian Levinsen, che era stato nono Archivista, e sotto il cui mandato l’Infermeria aveva prosperato. Si arruolò; prestò servizio per un periodo come ufficiale medico sul Fronte Occidentale; il suo corpo non fu mai ritrovato.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.infirmaryg",
+   "preface": "Infermeria",
+   "label": "Infermeria",
+   "startdescription": "Visitatori negligenti hanno trascinato fango dentro dalla porta, e le finestre sono rimaste aperte alle intemperie per anni.",
+   "desc": "Nel quindicesimo secolo, Natan di Ratisbona giunse a Brancrug. I fratelli di St Brandan gli concessero rifugio, ma non permisero a un ebreo – e alla sua famiglia! – di vivere entro i confini dell’abbazia. Costruirono comunque questa torre perché vi dimorasse e praticasse le sue arti curative. È cambiata molto da allora, ma resta un luogo di guarigione.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.ironvault",
+   "preface": "Volta Sigillata",
+   "label": "Volta di Ferro",
+   "startdescription": "Una pesante porta di ferro sigillata con cera nera; una serratura tripla di ferro senza ornamenti.",
+   "desc": "Da dove venne la Curia dell’Isola? Dall’altra parte dell’oceano occidentale, da Noon, dove l’Ordo Limiae fece la propria dimora? Ciò solleverebbe più domande di quante ne risolverebbe. Ma questa cripta sembrerebbe opera loro, e sembrerebbe anche fare riferimento al giuramento chiamato la Catena di Ferro, che vincola ogni abitante di Noon a restare nascosto al mondo, «affinché la Calyptra non possa posare lo sguardo su di noi, affinché il Chancel non possa udire i nostri nomi, affinché le Ore non possano divorarci».",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.ivoryvault",
+   "preface": "Volta Sigillata",
+   "label": "Volta d’Avorio",
+   "startdescription": "Una pesante porta di granito sigillata con cera bianca; una serratura tripla ornata d’avorio e nefrite nera.",
+   "desc": "Come ebbe inizio la Curia dell’Isola? Non ci sono prove che sia cominciata con la Casa di Lethe, quella società di immortali invisibili vincolati da tre giuramenti. Ma questa cripta – molto più recente delle gallerie sopra di essa – sembra davvero riferirsi al giuramento chiamato la Catena d’Avorio, che proibiva ogni commercio con le Ore – tranne, a volte, con l’Ora d’inverno nota come l’Elegiast, o la Colomba d’Avorio. Solomon Husher osservò che questo si potrebbe considerare non tanto un giuramento di rifiuto delle Ore, quanto un giuramento di fedeltà verso l’Elegiast. Ma Solomon, naturalmente, svanì nella neve.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.kitchen",
+   "preface": "Cucina in Rovina",
+   "label": "Cucina",
+   "startdescription": "Finalmente, segni di un incendio – ma sembra che, fortunatamente, la cappa del camino sia crollata prima che potesse propagarsi troppo. Non può essere questo il motivo per cui la Casa fu abbandonata. In ogni caso, la cucina richiederà manodopera specializzata per essere riportata a uno stato utilizzabile.",
+   "desc": "La «Torta della Fortuna del Re» – una torta di manzo con pere, cannella e ingredienti segreti – è il piatto tradizionale della Casa. Fu cucinata per la prima volta, si dice, per Re Henry, quando in gran segreto, nel giorno di St Piran, venne in Cornovaglia in cerca del «Metallo del Re», lo stagno, per «restaurare la sua Lega». Probabilmente non accadde mai. Ma la torta sì.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.kitchengarden",
+   "preface": "Orto Inselvatichito",
+   "label": "Orto",
+   "startdescription": "Questo luogo è stato ceduto al vento e alle erbacce. Le api ronzano minacciose. Da qualche parte, qualcosa chioccia lamentosamente.",
+   "desc": "Nel 1652, Musgrave Dewulf sorprese un venditore ambulante a rubare verdure da questo orto – un eccentrico vagabondo che si faceva chiamare «Ricardo Milagro». Gli antenati di Musgrave si sarebbero limitati a impiccare il tizio, ma Musgrave decretò invece sette anni di servizio nell’orto. Allo scadere dei sette anni, Milagro aveva dimostrato il proprio valore come giardiniere e scelse di fare di Brancrug la sua casa. Le viti qui coltivate provengono dal portainnesto che portava con sé nel suo sacco.\n",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.librarianquarters",
+   "preface": "Alloggio Abbandonato dell’Archivista",
+   "label": "Alloggi dell’Archivista",
+   "startdescription": "Un rifugio luminoso sul lato della Casa rivolto al mare, libero da protezioni e influenze minacciose – anche se ci vorrà del lavoro per rimetterlo in ordine e pulirlo.",
+   "desc": "Quando la Curia dell’Isola acquisì il titolo di proprietà della tenuta abbandonata dei Dewulf, Ambrose Westcott divenne primo Archivista, e fece costruire questo accogliente angolo sopra l’ala nord su misura per le proprie preferenze. La sua successora Kitty preferì la stanza accanto (si lamentava che il tanfo della pipa di Westcott fosse rimasto a lungo dopo la sua morte) e il suo successore, Solomon Husher, preferì la Torre Lunga per le proprie gelide ragioni. Ma la maggior parte degli Archivisti ha apprezzato la pace e la vista sul mare.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.loadingdock",
+   "preface": "Molo Cadente",
+   "label": "Banchina di Carico",
+   "startdescription": "Le tempeste ne hanno fatto ciò che hanno voluto da quando la prigione fu abbandonata. Non durerà ancora a lungo.",
+   "desc": "Qui arrivavano i rifornimenti, da ogni continente che i mari toccano – dai Confini, e oltre. Di tanto in tanto i prigionieri tentavano la fuga, ma il mare ha sempre fame.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.lodge",
+   "preface": "La Casa al Cancello",
+   "label": "Casa del Custode",
+   "startdescription": "Un cottage dove viveva il guardiano dei giardini della Hush House – fino all’incendio. Se riesco a entrarci e a renderlo abitabile, potrò usarlo come base per recuperare altre parti della Casa.",
+   "desc": "Per cinquecento anni – nei tempi che chiamiamo Baronale, della Curia, Notturno – ci fu sempre un custode a vigilare i sentieri, sarchiare i giardini, riparare il tetto quando splendeva il sole. Ora non c’è più alcun custode, ma il tetto della Casa del Custode resiste ancora alle tempeste della Baia di Brancrug.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "Ingresso",
+     "description": "Il fabbro del posto avrà ragione della porta. Il rettore ha probabilmente una chiave di scorta. E la levatrice sa come far scattare il chiavistello della porta sul retro."
+    }
+   ]
+  },
+  {
+   "id": "terrain.longtower1",
+   "preface": "Torre Lunga: Primo Piano",
+   "label": "Torre Lunga: Studio di Solomon",
+   "startdescription": "La Torre Lunga sembra abbandonata da molto più di sette anni. Nel Periodo Notturno, gli abitanti probabilmente passavano la maggior parte del tempo sul lato dell’Isola rivolto al mare. Mi servirà aiuto per restaurare la stanza sopra.",
+   "desc": "Nel 1818, il Reverendissimo Solomon Husher divenne terzo Archivista della Curia dell’Isola. Prese come propri alloggi le stanze della Torre Lunga. I gusti di Husher erano spartani; sebbene alla Curia in genere piacesse un po’ più di lusso, nessuno osò mai davvero ridecorare il luogo dopo la sua scomparsa.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.longtower2",
+   "preface": "Torre Lunga: Secondo Piano",
+   "label": "Torre Lunga: Alloggi di Solomon",
+   "startdescription": "Aria gelida – persino volute di nebbia – scende dalla cima della torre. Dovrei probabilmente cercare l’aiuto di qualcuno che conosca le tradizioni locali per trattare con gli spiriti inquieti.",
+   "desc": "Generalmente considerata la stanza più fredda della Casa. La Torre Lunga era di solito chiamata Torre d’Inverno, finché Julian Coseley – mago, epistolografo, presunto Lungo – non vi dimorò brevemente nel diciassettesimo secolo. Solomon Husher fu il secondo, per quanto se ne sa, a dormire in questa stanza. Evidentemente il freddo non li disturbava.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.lowerpumproom",
+   "preface": "Livello Allagato",
+   "label": "Sala Pompe Inferiore",
+   "startdescription": "Acqua nera e scintillante, immobile come osso. Dovrò trovare un modo per abbassare il livello dell’acqua prima di poter scendere.",
+   "desc": "La Curia installò queste pompe quando i livelli inferiori del luogo sacro della Sorellanza erano già asciutti. Perché? Cosa cercavano? Cosa giace sotto l’Isola di Brancrug che nemmeno la Sorellanza trovò mai?",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.mapchamber",
+   "preface": "Stanza Avviluppata nella Ragnatela",
+   "label": "Sala delle Mappe",
+   "startdescription": "Le ragnatele qui sono fitte come edera, aggrappate alle pareti e ai mobili. Corpi dal pelo nero frusciano appiccicosi. Van Lauren fu creativo qui. Molti dei ragni sono probabilmente solo parvenze, ma le ragnatele sono reali, e sarà un lavoro lungo e tedioso liberarsene.",
+   "desc": "Al volgere del secolo, Sir David Greene – ottavo Archivista ed ex soprintendente del Ramo Notturno – fece riarredare questa stanza per pianificare le sue esplorazioni, e per gestire le operazioni dei suoi numerosi agenti.\n",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.mazarineroom",
+   "preface": "Camera Fetida",
+   "label": "Camera Mazarine",
+   "startdescription": "La stanza puzza come un rettile in decomposizione. Le tende ondeggiano irrequiete con le presenze vigili che van Lauren ha lasciato dietro di sé. Forse posso trovare qualcuno che le addormenti cantando.",
+   "desc": "«L’orgoglio di Kitty, e la gioia della Casa.» Kitty Mazarine era più nota per le sue composizioni vocali, ma era una musicista versatile, e nelle sere d’inverno invitava tanto i visitatori quanto i compaesani ai suoi recital.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.motleytower1",
+   "preface": "Torre Variopinta: Primo Piano",
+   "label": "Torre Variopinta: Angolo di Illopoly",
+   "startdescription": "La porta si blocca semiaperta, ma la stanza sopra è un’oasi luminosa dopo lo squallido abbandono della torre inferiore. Il precedente occupante ha probabilmente lasciato in piedi qualche forma di protezione. Troverò qualcuno adeguatamente qualificato per occuparsene.",
+   "desc": "Christopher Illopoly – poeta, pittore, archivista, rovina-sedute spiritiche – rimase per un periodo alla Hush House dopo la Grande Guerra. L’Archivista, Serena Blackwood, gli fece preparare delle stanze nella Torre Variopinta, ufficialmente perché desse una mano con la collezione, ma forse anche perché vide in lui un possibile alleato contro il Governatore del Cucurbit... i rapporti tra il Cucurbit e la Casa erano, all’epoca, gravemente tesi. ",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.motleytower2",
+   "preface": "Torre Variopinta: Secondo Piano",
+   "label": "Torre Variopinta: Farmacia",
+   "startdescription": "Un miasma teoplasmatico sgradevole aleggia nella stanza sopra. Non è più forte, ma ci vorranno anni prima che si dissipi fino a un livello di sicurezza. Con l’aiuto giusto, posso suscitare contro-influenze.",
+   "desc": "Questa stanza può in origine essere servita da dispensario funzionante, ma almeno alcuni dei suoi arredi più eccentrici furono aggiunti da Christopher Illopoly nel periodo in cui vi abitò. A quel punto aveva già reciso i legami col padre adottivo. Usava il nome Illopoly da anni e non aveva accesso alla fortuna degli Strathcoyne – ma «Viaggiare di Notte» aveva venduto sorprendentemente bene (molto meglio della sua poesia) e a quel punto aveva un po’ di denaro suo – abbastanza per assecondare le proprie preferenze.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.motleytower3",
+   "preface": "Torre Variopinta: Terzo Piano",
+   "label": "Torre Variopinta: Stanza di Ratisbona",
+   "startdescription": "Il miasma teoplasmatico che aleggiava intorno alla stanza sottostante è un po’ più forte qui, e un po’ diverso, con un odore marcio e muschiato che suggerisce un rettilario in decomposizione. Forse qualcosa ha fatto qui la propria tana dopo la partenza degli abitanti; forse gli abitanti sognarono in modo incauto. In ogni caso, le giuste contro-influenze lo dissiperanno.",
+   "desc": "Il medico Natan visse qui nel quindicesimo secolo – e la sua famiglia dopo di lui, tollerata dai monaci – finché il Re Henry non sciolse la fondazione e concesse l’Isola a Hendrik. Hendrik li cacciò dalla torre e arredò il luogo più secondo i propri gusti. Ma quando Christopher Illopoly vi si trasferì quattrocento anni dopo, restaurò ciò che poté. Illopoly scrisse a quel tempo della propria simpatia, da trovatello senza radici, per il reietto Natan: <i>«Non so cosa sono, ma non credo di essere inglese.»</i>",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.narthex",
+   "preface": "Fontana Serpeggiante",
+   "label": "Nartece",
+   "startdescription": "Dopo tutti questi anni, la fontana in questa sala è ostruita. Non è una sorpresa. Un po’ più sorprendente è questo: l’ostruzione sembra essere composta perlopiù da serpenti; moltissimi serpenti. Questo, senza dubbio, spiega perché abbiamo visto così pochi topi.",
+   "desc": "Se foste stati pellegrini all’Abbazia del Corvo Bianco, vi sareste purificati qui. Non avreste voluto portare nei sacri recinti il profano fango Dumnoniano, né l’estraneo sale del Mare Britannicum. O pensieri impuri. Specialmente non pensieri impuri. Le sacerdotesse qui erano un po’ più clementi delle Ore che servivano, ma solo un po’.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.nave",
+   "preface": "Chiesa Oscurata",
+   "label": "Navata della Chiesa Abbaziale",
+   "startdescription": "Questo è stato a lungo un luogo sacro, ma ora le ombre sono le uniche fedeli qui. Le finestre sono state dipinte di nero, le panche rovesciate, l’organo addobbato di nastri neri.",
+   "desc": "Per mille anni il Sole Invitto è stato venerato qui in tutti i suoi Aspetti – sebbene, dopo le eresie dell’Intercalato, molti di quegli aspetti siano ora considerati Ore distinte a pieno titolo, e si celebrino ormai sia la morte che la nascita del Sole.\n\nLa Chiesa Abbaziale era un tempo più dorata, ma molti degli oggetti di valore andarono perduti alla dissoluzione dell’Abbazia, comprese le vetrate originali. Queste magnifiche vetrate sono di manifattura recente, finanziate dall’ottavo Archivista, Greene, che era un fedele della corrente della Seconda Alba.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.nightgallery",
+   "preface": "Spazio Velato",
+   "label": "Galleria Notturna",
+   "startdescription": "Se le protezioni su questo luogo fossero reali, sarebbero pesanti tende di velluto nero che pungerebbero la mano che le sfiora. Non sono reali in alcun senso significativo del termine. Dovrò comunque disfarmene prima di poter entrare in sicurezza.",
+   "desc": "Negli anni Cinquanta dell’Ottocento, e nel più profondo segreto, Natalia Brulleau costruì la Galleria Notturna nelle fondamenta della Torre di Gullscry. Dietro questa pesante porta d’acciaio la Curia, e in seguito il Bureau di Soppressione, custodiva tesori troppo difficili per la vista comune, ma troppo rilevanti per essere relegati in una cripta più profonda. Se qualcosa di difficile avesse avuto, ipoteticamente, l’inclinazione a strisciare su per le scale dal basso, sarebbe stato scoraggiato anche da quella porta.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.ocean",
+   "preface": "",
+   "label": "L’Oceano Atlantico",
+   "startdescription": "",
+   "desc": "Covo di balene, strada di luna, custode d’ossa, spezzatore di navi.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.oubliette",
+   "preface": "Cavità Incandescente",
+   "label": "Oubliette",
+   "startdescription": "Un calore cupo ribolle ancora di sotto. Chi lo ha originato dev’essere scomparso da tempo, ma va placato prima che io possa scendere in sicurezza.",
+   "desc": "Qui, in un vaso plasmato dal fuoco e dal fato, George Collers confinò una fiamma in carne umana, un’ombra ardente di un futuro ardente, un Nome d’avidità e di tempo. Greene lo definì «il nipote bastardo del Sole». Van Lauren mise in guardia contro «la prima scintilla della Seconda Alba». Ma Collers ne parlava con reverenza: come «il vero erede della Fiamma Incatenata».",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.ourladybeneath",
+   "preface": "Chiesa Abbandonata",
+   "label": "Nostra Signora di Sotto",
+   "startdescription": "Questo è un luogo sacro della Sorellanza del Triplice Nodo. Le Ore che veneravano non sono più venerate ora, ma quelle Ore non sono morte, e nemmeno addormentate. Non dovrei entrare in questo luogo senza versare un’offerta sufficiente.",
+   "desc": "Chi è «Nostra Signora»? Il Graal Rosso, che dà la vita, che toglie la vita, che non è mai sazio? L’Ascia Cornuta, che porta due lame, che attende alla soglia, che separa ciò che non dovrebbe essere unito? Il Tasso ad Anello, che è succulento, che si rinnova, che tutto racchiude? O una quarta, sempre significata ma mai nominata?\n\nUn Archivista potrebbe porre la domanda in modo diverso: chi fu la prima?",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.palechamber",
+   "preface": "Camera da Letto Gelida",
+   "label": "Camera Pallida",
+   "startdescription": "Una foschia densa e gelida, come una nebbia nera che si aggrappa, ondeggia a livello del pavimento. Non è propriamente teoplasma – i resti logori di qualche gelida creatura del Bosco? O un buon vecchio fantasma all’antica, decaduto a energie semi-elementali? Probabilmente qualche abitante del posto lo saprà.",
+   "desc": "Ai tempi dei Dewulf, questa magnifica camera da letto era riservata al Barone... o, ai tempi di Lady Eva, alla Baronessa. Eva fece decorare l’intera stanza di nero come gesto di lutto permanente per suo padre Valentine (o, secondo voci scurrili, per far risaltare il proprio pallore agli occhi degli amanti). Fu Kitty Mazarine, molto più tardi, a rinnovare gli arredi e a farne la Camera Pallida.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.pantry",
+   "preface": "Dispensa Devastata",
+   "label": "Dispensa",
+   "startdescription": "Vetri infranti e travi in pezzi. Questa stanza può essere restaurata, e tra le macerie ci saranno provviste recuperabili nascoste, ma mi servirà qualcuno con braccia forti e un cuore paziente.",
+   "desc": "Questa stanza è vicina alle radici della Casa; e così aveva fama inquieta tra la servitù, che a tarda notte poteva udire il battito di un tamburo invisibile, il ronzio di mosche, voci che gridavano in lingue sconosciute... e così i servitori si scambiavano favori pur di non essere quelli incaricati di andare a prendere le spezie per il posset di Sua Signoria dopo il calar della notte.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.physicgarden",
+   "preface": "Giardino Soffocato dalle Erbacce",
+   "label": "Orto dei Semplici",
+   "startdescription": "Da quel che riesco a distinguere del giardino oltre, doveva essere molto tranquillo – ma ora è trascurato e invaso dalla vegetazione.",
+   "desc": "Le monache del Nodo piantarono questo giardino di erbe curative nel Periodo dell’Alba. Sia Natan di Ratisbona sia Gideon Dewulf lo ampliarono, e la Curia dell’Isola se ne prese cura. Persino il Ramo e il Bureau ne fecero uso nei cupi giorni in cui Brancrug servì da prigione.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.practicgarden",
+   "preface": "Giardino Recintato",
+   "label": "Giardino dell’Esercizio",
+   "startdescription": "Punte di ferro corrono lungo la sommità del muro. Il cancello è arrugginito e chiuso, ma quel che riesco a vedere tra le sbarre è rovinoso quanto potevo aspettarmi.",
+   "desc": "Nei primi tempi dell’Abbazia di St Brandan, i fratelli praticavano qui le arti della guerra. Fu così che, in epoca baronale, il giardino divenne un luogo prediletto dei bellicosi e litigiosi Dewulf.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.radiantstair",
+   "preface": "Scala Velata",
+   "label": "Scala Radiosa",
+   "startdescription": "Questo è stato a lungo un luogo sacro, ma ora la Meniscate ne ha ritirato il favore. Qualcuno ha frantumato uno specchio sul pavimento. I frammenti luccicano nella penombra – qualcosa di appena intravisto guizza da un frammento all’altro, sfuggendo al mio sguardo, invisibile per quanto rapidamente io giri la testa. Solo una volta pacificato potrò passare al sicuro.",
+   "desc": "Il santuario del Guardiano qui è decorato con l’Occhio Eliogabalino – una variante controversa dell’Occhio del Guardiano. I riti Eliogabalini hanno sempre avuto uno status dottrinale incerto. Naturalmente, non sarebbe stato spesso visibile. Queste scale erano riservate ai monaci del coro che cantavano la liturgia delle Ore, gli unici autorizzati a entrare nel Chancel. Eppure è un po’ sorprendente che l’Occhio sia stato lasciato al suo posto, quando il monastero fu soppresso e l’Isola data ai Dewulf.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.readingroom",
+   "preface": "Camera in Penombra",
+   "label": "Sala di Lettura",
+   "startdescription": "Le vecchie protezioni di van Lauren gravano pesanti nell’aria qui, rappigliandola di ombre. Mi serviranno contro-influenze per dissolverle.",
+   "desc": "Ai visitatori era di solito concesso arrivare fin qui nella Casa, e non oltre. Nei giorni in cui gli Archivisti comandavano i servigi dei Fine-Takers, i visitatori venivano talvolta persino lasciati incustoditi.\r",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.refectory",
+   "preface": "Sala Infestata di Rose",
+   "label": "Refettorio",
+   "startdescription": "La stanza è invasa da rose rampicanti, aggrovigliate tra le lampade, distese sopra il tavolo. I fiori sono di un rosso intenso, profondissimo – uno di quei colori raramente visti nella vita da svegli – e il loro profumo mi fa girare la testa. Un’altra delle protezioni di van Lauren? O qualcos’altro? In ogni caso, sarà un lavoro arduo e attento liberarla.",
+   "desc": "Qui si riuniva un tempo l’intera Curia – l’Archivista, e i Segretari Salvante, Vigilante ed Enigmatico. A volte persino il Segretario Nunziante, sebbene i doveri di quella carica lo tenessero di solito lontano dalla Casa. Ma c’è sempre stata una sola Segretaria Persistente, e non le è mai piaciuto mangiare in compagnia.\n\nErano i bei tempi dello splendore della Curia. Negli anni successivi, il Governatore della Prigione sedeva a un’estremità, l’Archivista all’altra, e l’orologio scandiva i lunghi silenzi tra le loro parole.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.rowenarium",
+   "preface": "Camera Cristallizzata",
+   "label": "Rowenarium",
+   "startdescription": "Il mio cammino è bloccato da superfici lucenti come luce rappresa. Forme scure si muovono sotto. Possiamo staccare il cristallo a colpetti se siamo prudenti. Ma dobbiamo, dobbiamo essere prudenti.",
+   "desc": "<i>C’era una volta un fratello e una sorella che si amavano immensamente. Si convinsero di essere un’unica anima divisa in due corpi, e il loro desiderio più grande era diventare una cosa sola. Trovarono l’isola nascosta dove le Gemelle, la Sorella-e-Strega, erano approdate dopo aver attraversato il grande oceano, e uno stagno sacro su cui la luna splendeva una sola volta l’anno. Lì parlarono con le Gemelle in sogno, e appresero come avrebbero potuto congiungersi in una sola carne, ed essere immortali.\n\n\nMa la risolutezza del fratello venne meno, e sebbene amasse sua sorella, non seppe scegliere di trascorrere l’eternità uniti in una sola carne. La sorella non riuscì a persuaderlo, e non volle né abbandonarlo né costringerlo. Così usarono le loro arti per vivere lunghe vite, vicini ma separati, e fondarono una doppia comunità di monaci e monache, casti come erano sempre stati, ma ogni monaca aveva il proprio fratello-gemello e nessuno poteva entrarvi da solo.\n\nCol tempo, la sorella trovò la propria immortalità, e ancora oggi cammina per il mondo al chiaro di luna. Il fratello morì, e le sue ossa sono sepolte nella stanza sotto il pozzo. Ma i suoi figli vivono ancora.</i>",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.sacredspring",
+   "preface": "Sorgente Colma di Ruote",
+   "label": "Sorgente Sacra",
+   "startdescription": "La pozza qui è piena di ruote arrugginite e marcite. Era un tentativo di bloccarla? O le ruote furono gettate giù dal pozzo sopra come offerte? In entrambi i casi, andrà ripulita, e andranno fatte offerte adeguate per placare i poteri a cui questo luogo è sacro.",
+   "desc": "L’Occhio segnato sulle rocce qui non è l’Occhio del Guardiano che decora la chiesa sopra, ma l’Occhio che segna il Tempio della Ruota nei sogni. I sacerdoti del Sole vi direbbero che non vi era vista prima del sorgere del Sole; ma chi ha bevuto da questa sorgente sognerà un altro sole, uno che pendeva più basso nel cielo, uno che avrebbe parlato con noi, uno che avrebbe accettato amichevoli doni di sangue da parte nostra.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.scentgarden",
+   "preface": "Groviglio di Spine",
+   "label": "Giardino dei Profumi",
+   "startdescription": "Un giardino fiorito, ora invaso da erbacce spinose e rose canine.",
+   "desc": "Anche questo risale al tempo dell’Abbazia... ma d’estate, né alle sorelle né ai fratelli era permesso trascorrere qui più di un’ora, per timore che la «tentazione dei sapori» li sopraffacesse.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.seacaves",
+   "preface": "Grotte Marine Sommerse",
+   "label": "Grotte Marine",
+   "startdescription": "Il mare ha reclamato queste grotte. La marea tuona di sotto. Dovrò trovare un modo per abbassare il livello dell’acqua prima di poter entrare.",
+   "desc": "L’ultimo segreto della Curia. Proprio sotto il naso del Governatore Collers, Levinsen, Blackwood e van Lauren continuarono tutti le loro attente indagini sulle grotte marine di Brancrug. Molte delle specie qui presenti sono sconosciute alla Cornovaglia. Alcune non sono mai state viste sotto questo Sole, in nessun luogo.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.secondbeach",
+   "preface": "Distese di Marea",
+   "label": "Sabbie di Crowcross",
+   "startdescription": "Brancrug è un’isola di marea; a bassa marea ci si potrebbe arrivare a piedi. Anche se probabilmente è meglio di no.",
+   "desc": "Guarda oltre la baia. Tanto, tanto tempo fa, qui c’era una foresta.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "Guida",
+     "description": "Queste sabbie possono essere insidiose. Chiedi la via a una guida."
+    }
+   ]
+  },
+  {
+   "id": "terrain.servantshall",
+   "preface": "Sala in Rovina",
+   "label": "Sala dei Servitori",
+   "startdescription": "Questo luogo un tempo era luminoso e animato. Può tornare a esserlo. Ma sarà un lavoro estenuante renderlo tale – non un lavoro adatto all’Archivista.",
+   "desc": "Hendrik Dewulf, primo Barone di Brancrug, ricevette la Hush House dopo la soppressione di St Brandan’s per mano di «Vecchio Naso di Rame», Re Henry VIII. In un atto di insolita generosità per quel Re spilorcio, la concessione venne accompagnata dal titolo di Barone, e da diritti <i>sicut regale</i> – «come un re» – la quasi-indipendenza tradizionalmente accordata ai Lord di Marca. Hendrik era chiaramente determinato a vivere come si conveniva al suo nuovo rango, e ampliò di conseguenza la casa per sostenere personale a sufficienza.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.servantsquarters1",
+   "preface": "Stanza Impazzita dal Labirinto",
+   "label": "Alloggi dei Servitori – Sud",
+   "startdescription": "Fili sono tesi per la stanza, stretti e folli, e allacciano le gambe del letto ai chiavistelli delle finestre, i chiavistelli delle finestre alle maniglie dell’armadio. Ogni movimento porta un’increspatura di musicali <i>ping</i>. Serviranno tempo e pazienza per districarli.",
+   "desc": "Quando Hendrik Dewulf si lasciò alle spalle la vita da mercenario, nominò il proprio furiere a capo della nuova casa. Ciò avrebbe suscitato pochi commenti, se non fosse che il suo furiere era una donna – la pacata ma risoluta Ernestine Peterhans. Per più di cinquant’anni, queste stanze furono il suo dominio incontrastato. Anche nel suo ottantesimo anno, faceva ancora il proprio giro ogni giorno, e i servitori ammutolivano al tintinnio lontano delle sue chiavi.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.servantsquarters2",
+   "preface": "Stanza Ferita",
+   "label": "Alloggi dei Servitori – Nord",
+   "startdescription": "Sangue gocciola da crepe dai bordi umidi nel soffitto, raccogliendosi sul pavimento. Un’altra presenza alimentata dalla rabbia che avrei bisogno di aiuto per placare.",
+   "desc": "Questa era un tempo la camera privata della formidabile Ernestine Peterhans, Siniscalca di Brancrug. Il Barone Hendrik, e in seguito suo figlio Thomas, scendevano entrambi la scala di servizio per farle visita di persona. Per consiglio, dicevano i più; per preghiere, insistevano altri. Solo i più sciocchi mai insinuarono che vi fosse qualche motivo improprio dietro le loro visite.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.severnchamber",
+   "preface": "Camera da Letto Abbandonata",
+   "label": "Camera Severn",
+   "startdescription": "Un sussurro cantilenante infesta questa stanza. Doveva un tempo essere lussuosa, e tornerà a esserlo una volta restaurata, ma avrò bisogno di aiuto per placare la presenza inquieta che vi aleggia.",
+   "desc": "Ai tempi dei Dewulf, questa camera era riservata all’erede della Casa – sebbene fosse stata originariamente arredata per Hafren, la donna di «lignaggio incerto» che divenne la madre del Barone Walter e trasmise i suoi insoliti occhi e capelli chiari a Walter e ai suoi discendenti.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.shrinetosttentreto",
+   "preface": "Oscurità Pulsante",
+   "label": "Santuario di St Tentreto",
+   "startdescription": "Se l’Isola avesse un cuore, ne udiremmo il battito.",
+   "desc": "La Croce del Carapace, la razza ibrida che nelle sue molte stirpi era alata, munita di zampe, dotata di occhi, luminosa, oscura, squamata, piumata, chitinosa... e noi? La Croce non c’è più; la Croce fu sempre Storia; ma ai loro figli, ai loro nemici, lasciano questa eredità silenziosa.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.silvervault",
+   "preface": "Volta Sigillata",
+   "label": "Volta d’Argento",
+   "startdescription": "Una pesante porta di marmo sigillata con cera rossa; una serratura tripla cesellata d’argento.",
+   "desc": "Fu la Curia dell’Isola a costruire questa camera blindata? Non erano Lunghi – la maggior parte di loro non lo era. Quindi non erano gli Obliviat, quella società di immortali invisibili vincolati da tre giuramenti. Ma questa camera blindata sembra davvero riferirsi al giuramento chiamato la Catena d’Argento, che proibiva agli uomini di giacere con le donne, o alle donne con gli uomini: «poiché ciò che potrebbe avvenire non è sempre il Crimine del Cielo, eppure è un pericolo furioso.»",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.smuggler'sden",
+   "preface": "Grotta Infestata dalle Ali",
+   "label": "Covo dei Contrabbandieri",
+   "startdescription": "Un vortice di pipistrelli ubriachi mi respinge! Forse ubriachi per davvero. C’è un odore di brandy, tenue ma inconfondibile.",
+   "desc": "Negli ultimi anni del diciottesimo secolo, la stirpe dei Dewulf si estinse e la proprietà rimase vuota. Contrabbandieri intraprendenti diffusero voci di fantasmi che vagavano per l’Isola, e portavano di nascosto il loro tè, brandy e tabacco attraverso le vecchie miniere sul lato dell’Isola rivolto al mare. Ma i resti qui presenti sono molto più recenti del diciottesimo secolo. Forse anche dopo che la Curia ne prese possesso, permise ai contrabbandieri di usare questo luogo. Ad Ambrose Westcott piaceva tanto il suo tabacco. Forse persino il Bureau di Soppressione trovò i contrabbandieri abbastanza utili da chiudere un occhio. ",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.solarium",
+   "preface": "Stanza Abbagliante",
+   "label": "Solarium",
+   "startdescription": "Questo è stato a lungo un luogo sacro, ma ora il Sole-in-Stracci ne ha ritirato la pace, e la luce qui non si può sopportare. Di giorno la luce del sole abbaglia, di notte la luce della luna gela. Solo una volta che sulla stanza sarà stata posta una pace potrò entrarvi al sicuro.",
+   "desc": "Questa stanza un tempo era destinata alla meditazione dei visionari prediletti. Qui White Matilda profetizzò la vittoria del Re di Ferro nelle Guerre delle Strade, quasi esattamente come sarebbe accaduto trecento anni dopo. (Sbagliò però il nome di lui.) ",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.spire",
+   "preface": "Guglia Maledetta dal Fato",
+   "label": "Guglia",
+   "startdescription": "Sette anni fa, qualcuno pronunciò qui una maledizione, nel nome del Sole e dei suoi molti sé. Questo luogo non era il bersaglio della maledizione, e nemmeno io lo ero, ma il suo veleno riempie l’aria intorno a me. Non dovrei entrare finché non sarà purificato.",
+   "desc": "Qui Hendrik Dewulf si incontrò in segreto con Re Henry – un tempo il Re di Bronzo, ora «Vecchio Naso di Rame», poiché la Grande Svalutazione aveva posto fine al predominio della Fiamma Incatenata, e gli eredi di Henry non erano più che umani. Si racconta che il figlio di Hendrik, Thomas, ascoltasse dalle travi del tetto – che per tre volte udì Henry chiedere a suo padre di infrangere una certa promessa riguardo a Caer Ys oltre l’onda, e che la terza volta, il padre non oppose un rifiuto al re. Questo, dice la storia, è il motivo per cui Thomas non amò mai più fare promesse, da allora, per timore di infrangerle.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.staff-room",
+   "preface": "Sala del Personale Annerita",
+   "label": "Sala del Personale",
+   "startdescription": "La stessa storia del cortile sottostante – ossa carbonizzate, pareti annerite, mobili semiconsumati da un incendio violento. Ma gran parte della stanza resta intatta.",
+   "desc": "I carcerieri di Brancrug erano una spanna sopra il tipico carceriere da prigione – ex agenti del Bureau, membri pentiti della Conoscenza, Tragulari rinnegati, veterani della Légion du Seuil. Quando venne la fine, nulla di tutto questo contò più. Ma qui, per un poco, quando le tempeste invernali flagellavano le mura, si stringevano vicino a questa stufa ardente per condividere tè, cameratismo e racconti delle loro vite tanto diverse.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.stairtenebrous",
+   "preface": "Scala in Ombra",
+   "label": "Scala Tenebrosa",
+   "startdescription": "L’ombra qui è una sentinella. Entrarvi impreparati significa rischiare la dissoluzione. Devo portare con me una Memoria, come una torcia nel buio.",
+   "desc": "C’erano ombre qui nella terra, molto prima che fossero poste le fondamenta della Casa. Si ritirarono davanti agli scavi dei Romani, tremarono davanti agli inni al sole dei confratelli, sgusciarono via davanti alle lame e alle pistole dei Baroni Dewulf. Nel corso di tutti quei secoli si assottigliarono, finché, quando la Curia dell’Isola infine scavò questa scala, poté reclutarne una come cane da guardia.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.stores",
+   "preface": "Stanza Infestata dal Cuore",
+   "label": "Magazzino",
+   "startdescription": "La luce in questa stanza si affievolisce in pulsazioni d’un rosso da tramonto, incessantemente, in un battito appena udibile che si accorda con il fragore delle onde di sotto. Servirà un esorcismo attento da parte di qualcuno sintonizzato con queste influenze.",
+   "desc": "Al tempo della Ribellione del Libro delle Preghiere, nel 1549, Hendrik usò questa stanza come cella carceraria per gli sfortunati del posto – incluso il guaritore popolare e capo ribelle, Red William, che si era vantato della maledizione lanciata sugli eredi di Hendrik: «Non ci sarà un settimo della sua stirpe.»\n\nSi racconta nel Villaggio di Brancrug che Hendrik venne di persona a parlare con William, imprigionato. «Non ci sarà un <i>secondo</i> della tua stirpe», gli disse – e lo fece castrare proprio qui, in questa stessa cella, e gettare nell’oscurità delle grotte sotto la Casa.\n\nC’è un’altra storia, secondo cui Eva Dewulf rispose una volta a un pretendente importuno portandolo qui, in questa stanza, e indicandogli una macchia sulle pietre...",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.upperpumproom",
+   "preface": "Stanza delle Ruggini",
+   "label": "Sala Pompe Superiore",
+   "startdescription": "Il soffitto è crollato. Macchinari arrugginiti spuntano qua e là tra le macerie.",
+   "desc": "Guarda i segni di piccone sulle pareti. Prima che la Sorellanza giungesse sull’Isola, i Romani o i Fenici scavarono questi tunnel, grattando la terra in cerca di stagno e d’oro. Per secoli quelle pompe tennero a bada il mare, azionate da schiavi o da devoti che vedevano il sole un giorno su nove. Quando quelle pompe tacquero, il mare si insinuò – finché, molto più tardi, la Curia non portò le proprie macchine per riaprire i livelli inferiori.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.vestibulumtransitus",
+   "preface": "Ponte Sferragliante",
+   "label": "Vestibulum Transitus",
+   "startdescription": "Ogni volta che il vento compie il suo giro, l’intero ponte trema. Sulla sua soglia, c’è un marchio serpentino a forma di nodo, in sangue rappreso. Il segno sta svanendo, ma trema ancora del potere dello spirito che vi attende – un grande servitore dell’antica Casa, forse l’ultimo degli stessi Fine-Takers. Devo placarlo con un’offerta adeguata prima di poter passare.",
+   "desc": "«Vestibulum Transitus» era il nome ironico che la Curia diede a questa struttura. Prima di allora era «il Ponte di Valentine», l’attraversamento riparato oltre il quale era assicurata la solitudine del Barone Valentine.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.violetchamber",
+   "preface": "Camera Infestata dai Serpenti",
+   "label": "Camera Violetta",
+   "startdescription": "Serpenti dalle squame lucenti, vigili, giacciono acciambellati su ogni superficie. Credo che alcuni di loro potrebbero essere veri.",
+   "desc": "Ai tempi dei Dewulf, questa camera era riservata alla dama della Casa. In seguito, gli Archivisti Willem Harries e Gervinus van Lauren la preferirono entrambi agli Alloggi dell’Archivista. Harries eresse un piccolo santuario a St Agnes nell’angolo più remoto, e lì rimase per molti anni finché van Lauren non ne ordinò la rimozione.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.watchmanstower1",
+   "preface": "Scale del Corpo di Guardia",
+   "label": "Torre del Guardiano: Primo Piano",
+   "startdescription": "Le scale verso la stanza sopra sono bloccate da macerie, e l’intonaco si stacca dalle pareti. Mi servirà l’aiuto del villaggio per liberare e restaurare il luogo.",
+   "desc": "La famigerata Eva Dewulf, prima e ultima Baronessa di Brancrug, amava questa stanza. Perché questo lato della casa portava meno ricordi del suo povero padre Valentine? Perché così poteva origliare le conversazioni dei visitatori in attesa di sotto? O semplicemente per come la luce pallida filtrava obliqua dalle finestre negli ultimi giorni d’inverno?",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.watchmanstower2",
+   "preface": "Torre del Guardiano: Piano Superiore",
+   "label": "Torre del Guardiano: Osservatorio",
+   "startdescription": "Il soffitto si incurva in modo preoccupante sotto una macchia di umidità. Deve esserci una perdita nell’osservatorio. Solo il Sole lassù sa in che stato sia. Dovrei cercare aiuto, ed entrare con cautela.",
+   "desc": "Thomas Dewulf, secondo Barone di Brancrug, che chiamavano «Barone Silenzio», costruì questo osservatorio nel 1576 – per felice coincidenza, appena in tempo per osservare il passaggio della Grande Cometa nel 1577.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.well",
+   "preface": "Pozzo Abbandonato",
+   "label": "Pozzo",
+   "startdescription": "Il pozzo è ostruito e sudicio. Andrà purificato dentro e fuori.",
+   "desc": "C’è un pozzo qui sin dai tempi della Sorellanza, e attorno a esso si sono accumulate superstizioni come foglie ammucchiate dal vento. La sua acqua ha virtù curative se attinta in una notte di luna nuova. Porta sfortuna attingerne se si sente un gufo. Se si versano gocce del sangue di un nemico vivo nel pozzo, il nemico annegherà. E così via. Di certo, quando viene Numa, qui le nebbie si fanno dense.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.welldescent",
+   "preface": "Discesa Invasa dai Rampicanti",
+   "label": "Discesa del Pozzo",
+   "startdescription": "Foglie, fiori, spine. Specialmente spine. Se riuscissi a sgombrarle, potrei trovare qualcosa sotto.",
+   "desc": "Pioli corrono lungo il fianco del pozzo. Deve condurre giù, alla parte più antica dell’Isola, ai santuari della Sorellanza. Può darsi che i servitori della famiglia Dewulf continuassero a venire qui di nascosto, pur rendendo un omaggio di facciata ai riti del Sole Invitto.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.westcottroom",
+   "preface": "Sala Fumatori",
+   "label": "Camera Westcott",
+   "startdescription": "Un’insegna d’ottone annerito sulla porta recita chiaramente «SALA FUMATORI». Brandelli di fumo antichissimo ondeggiano inquieti, velando la stanza oltre: ciò che resta delle protezioni che un tempo vi pose van Lauren. (Eppure, ancora, nessuna traccia di un incendio.)",
+   "desc": "«Perdio, Signore, non avremo Sigari in Biblioteca, e non avremo Casa senza una Sala Fumatori.» Dr Ambrose Westcott (1734-1797)",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.whisperingstair",
+   "preface": "Scala degli Enigmi",
+   "label": "Scala Sussurrante",
+   "startdescription": "Volti appena intravisti articolano indovinelli appena uditi. Non è opera di van Lauren – queste difese sono molto più antiche della Curia. Ma la Curia trovò un modo per rispondere a questi indovinelli, e lo troveremo anche noi.",
+   "desc": "Questa era la scala che le sacerdotesse percorrevano, nel tempo in cui questa era l’Abbazia della Colomba Nera. I loro volti scolpiti custodiscono ancora le pareti. Le loro preghiere si possono ancora udire quando le arie dell’Isola sono eccezionalmente immote.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.windlitgallery",
+   "preface": "Galleria Percorsa dal Vento",
+   "label": "Galleria Rischiarata dal Vento",
+   "startdescription": "Questo è stato a lungo un luogo sacro, ma i riti non si celebrano da troppo tempo. Le finestre sono infrante e ora solo il vento cammina qui.",
+   "desc": "Ai tempi dei confratelli, ogni giorno questa galleria risuonava della Liturgia delle Ore. Ai tempi dei Dewulf e della Curia, qui si tenevano funzioni ogni domenica. Tutti quei tempi sono ormai lontani. Questa è ora una casa di echi.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  },
+  {
+   "id": "terrain.winecellar",
+   "preface": "Cantina Infestata",
+   "label": "Cantina",
+   "startdescription": "Qualcosa di molto più grande ha avuto qui la sua tana. Le pareti e il soffitto sono impiastricciati della sua bava. È sparito, ma i suoi piccoli restano, contorcendosi in ogni ombra. Dovremo eliminarli, attirarli fuori o scacciarli.",
+   "desc": "Ricardo Milagro, viaggiatore, briccone, giardiniere di Musgrave, riuscì a produrre un vino apprezzabile dalle uve di Brancrug. La Cornovaglia non è mai stata davvero terra di vino, e la tradizione fu mantenuta in modo discontinuo, ma la Curia dell’Isola custodiva una buona cantina.",
+   "preslots": [
+    {
+     "id": "infoRecipeInput",
+     "label": "#UI_ROOMINPUT_LABEL#",
+     "description": "#UI_ROOMINPUT_DESCRIPTION#"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,339 @@
+{
+    "verbs": [
+      {
+        "id": "garden.plot.a.1",
+      "category": "Workstation",
+      "label": "Garden",
+        "desc": "Fragrant chalice in summer and autumn, lenten rose in winter. Rarer plants might flourish in Numa.",
+        "audio":"GardenMeadow",
+        "slots": [        {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+    },
+    {
+      "id": "garden.plot.a.2",
+    "category": "Workstation",
+    "label": "Garden",
+      "desc": "Fragrant chalice in summer and autumn, lenten rose in winter. Rarer plants might flourish in Numa.",
+      "audio":"GardenMeadow",
+      "slots": [        {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+      {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+  },
+  {
+    "id": "garden.plot.a.3",
+  "category": "Workstation",
+  "label": "Garden",
+    "desc": "Fragrant chalice in summer and autumn, lenten rose in winter. Rarer plants might flourish in Numa.",
+    "audio":"GardenMeadow",
+    "slots": [        {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+    {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+    {
+      "id": "garden.plot.b.1",
+    "category": "Workstation",
+    "label": "Garden",
+      "desc": "Sea holly in summer, blue crown in winter.",
+      "audio":"GardenMeadow",
+      "slots": [    {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+  ],
+  "hints":["nectar"]
+  },
+  {
+    "id": "garden.plot.b.2",
+  "category": "Workstation",
+  "label": "Garden",
+    "desc": "Sea holly in summer, blue crown in winter.",
+    "audio":"GardenMeadow",
+    "slots": [    {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.b.3",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Sea holly in summer, blue crown in winter.",
+  "audio":"GardenMeadow",
+  "slots": [    {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+  {
+    "id": "garden.plot.c.1",
+  "category": "Workstation",
+  "label": "Garden",
+    "desc": "Catsclaw in spring, trumpeter's lily in summer. Rarer plants might flourish in Numa.",
+    "audio":"GardenMeadow",
+    "slots": [   {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+ ],
+ "hints":["nectar"]
+},
+{
+  "id": "garden.plot.c.2",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Catsclaw in spring, trumpeter's lily in summer. Rarer plants might flourish in Numa.",
+  "audio":"GardenMeadow",
+  "slots": [   {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.c.3",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Catsclaw in spring, trumpeter's lily in summer. Rarer plants might flourish in Numa.",
+  "audio":"GardenMeadow",
+  "slots": [   {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.d.1",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Moth orchids in spring and summer, honeyscar jasmine in autumn.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.d.2",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Moth orchids in spring and summer, honeyscar jasmine in autumn.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.d.3",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Moth orchids in spring and summer, honeyscar jasmine in autumn.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.g.1",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "The gentle climate of Cornwall supports grapevines. Harvest in spring and summer.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge","essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.g.2",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "The gentle climate of Cornwall supports grapevines. Harvest in spring and summer.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge","essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.g.3",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "The gentle climate of Cornwall supports grapevines. Harvest in spring and summer.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge","essential":{"skill":1},"required":{"nectar":1}}
+],
+"hints":["nectar"]
+},
+{
+  "id": "garden.plot.h.1",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Healing herbs in spring and summer.",
+  "audio":"GardenMeadow",
+  "slots": [ {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+ ],
+ "hints":["nectar"]
+},
+{
+  "id": "garden.plot.h.2",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Healing herbs in spring and summer.",
+  "audio":"GardenMeadow",
+  "slots": [ {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+ ],
+ "hints":["nectar"]
+},
+{
+  "id": "garden.plot.h.3",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Healing herbs in spring and summer.",
+  "audio":"GardenMeadow",
+  "slots": [ {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+ ],
+ "hints":["nectar"]
+},
+{
+  "id": "garden.plot.p.1",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Sea-Blest Pears in summer and autumn; in Numa, the 'shining pear', <i>pyrus auricalcinus</i>.",
+  "audio":"GardenMeadow",
+  "slots": [ {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+ ],
+ "hints":["nectar"]
+},
+{
+  "id": "garden.plot.p.2",
+"category": "Workstation",
+"label": "Garden",
+"desc": "Sea-Blest Pears in summer and autumn; in Numa, the 'shining pear', <i>pyrus auricalcinus</i>.",
+  "audio":"GardenMeadow",
+  "slots": [ {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+ ],
+ "hints":["nectar"]
+},
+{
+  "id": "garden.plot.p.3",
+"category": "Workstation",
+"label": "Garden",
+"desc": "Sea-Blest Pears in summer and autumn; in Numa, the 'shining pear', <i>pyrus auricalcinus</i>.",
+  "audio":"GardenMeadow",
+  "slots": [ {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}
+ ],
+ "hints":["nectar"]
+},
+
+{
+  "id": "garden.plot.v.1",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Nourishing vegetables in summer and autumn.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}],
+  "hints":["nectar"]
+},
+{
+  "id": "garden.plot.v.2",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Nourishing vegetables in summer and autumn.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}],
+  "hints":["nectar"]
+},
+{
+  "id": "garden.plot.v.3",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "Nourishing vegetables in summer and autumn.",
+  "audio":"GardenMeadow",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}],
+  "hints":["nectar"]
+},
+{
+  "id": "garden.plot.x.1",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "The 'history plant', <i>agave aeterna</i>, flowers here in summer.",
+  "audio":"GardenMeadow",
+  "slots": [
+    {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}],
+    "hints":["nectar"]
+},
+
+{
+  "id": "garden.plot.x.2",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "The 'history plant', <i>agave aeterna</i>, flowers here in summer.",
+  "audio":"GardenMeadow",
+  "slots": [
+    {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}],
+    "hints":["nectar"]
+},
+{
+  "id": "garden.plot.x.3",
+"category": "Workstation",
+"label": "Garden",
+  "desc": "The 'history plant', <i>agave aeterna</i>, flowers here in summer.",
+  "audio":"GardenMeadow",
+  "slots": [
+    {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1},"forbidden":{"fatigued":1,"malady":1}},{"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1}}],
+    "hints":["nectar"]
+},
+{
+  "id": "garden.beehive",
+"category": "Workstation",
+"label": "Beehive",
+"audio":"Bees",
+"xtriggers":{"upgrading":"garden.beehive.liselotte"},
+  "desc": "Bees, like librarians, are not to be trifled with.",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"nectar":1,"scale":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"nectar":1,"scale":1,"lyterion":1}}],
+  "hints":["nectar","scale"]
+},
+
+
+{
+  "id": "world.beachcombing",
+"category": "Workstation",
+"label": "Beachcombing",
+  "desc": "Take a long walk along the ocean's side. If I know what to look for, I might find something the ocean has forsaken.",
+  "audio":"Sand",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1,"moon":1,"rose":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"heart":1,"moon":1,"rose":1}}],
+  "hints":["heart","moon","rose"]
+},
+
+{
+  "id": "world.moor",
+"category": "Workstation",
+"label": "A Walk on the Moor",
+  "desc": "Clamber up into the long reaches of the moors behind the village. Lean into the wind's fluttering fist. If I know what to look for, I might find something among the rocks.",
+  "audio":"WindGust",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"heart":1,"scale":1,"rose":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"heart":1,"rose":1,"scale":1}}],
+  "hints":["heart","rose","scale"]
+},
+{
+  "id": "world.nests",
+"category": "Workstation",
+"label": "The Gull-Colony",
+"audio":"gulls",
+  "desc": "Steal eggs from the sea-birds, or find what the sea-birds have stolen.",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"scale":1,"sky":1,"rose":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"scale":1,"sky":1,"rose":1}}],
+  "hints":["rose","scale","sky"]
+},
+{
+  "id": "world.caves",
+"category": "Workstation",
+"label": "The Sea-Caves",
+  "desc": "Splash cautiously through the shallower tunnels.",
+  "audio":"WaterDroplet",
+  "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"required":{"scale":1,"moon":1},"forbidden":{"fatigued":1,"malady":1}},
+  {"id": "skill","label": "Knowledge", "essential":{"skill":1},"required":{"scale":1,"moon":1}}],
+  "hints":["moon","scale"]
+}
+
+
+
+    ]
+}

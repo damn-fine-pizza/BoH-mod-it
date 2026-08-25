@@ -1,0 +1,87 @@
+{"achievements": [
+
+
+  { "id": "A_EXPLORE_VILLAGE", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "In the Isle's Shadow",
+    "descriptionunlocked": "I found my way through the storm to Brancrug Village."
+  },
+
+  { "id": "A_EXPLORE_BARONIAL", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Exit Dewulf",
+  "descriptionunlocked": "I restored the sanctuary of the last Baron Dewulf."
+},
+
+{ "id": "A_EXPLORE_CURIA", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Curia of the Isle",
+"descriptionunlocked": "I restored the rooms set aside by the Curia for the Librarian."
+},
+
+{ "id": "A_EXPLORE_CHURCH", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "The Brothers and Sisters of St Brandan's",
+"descriptionunlocked": "I restored the Abbey Church of the Isle, all the way to its topmost spire."
+},
+
+{ "id": "A_EXPLORE_GAOL", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Darkness at Noon",
+"descriptionunlocked": "I restored the deepest chambers of the Cucurbit Prison."
+},
+
+{ "id": "A_EXPLORE_UNDERGROUND", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Beneath the Abbey of the Black Dove",
+"descriptionunlocked": "I unearthed the final secret of the caves below Hush House."
+},
+
+{ "id": "A_EXPLORE_BIRDSONG", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Birdsong",
+"descriptionunlocked": "I mastered the Wisdom of music, riddles and miscellanea."
+},
+{ "id": "A_EXPLORE_BOSK", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Bosk",
+"descriptionunlocked": "I mastered the Wisdom of the primaeval wood."
+},
+{ "id": "A_EXPLORE_HOROMACHISTRY", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Horomachistry",
+"descriptionunlocked": "I mastered the Wisdom of the laws (and disagreements) of the Hours."
+},
+{ "id": "A_EXPLORE_HUSHERY", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Hushery",
+"descriptionunlocked": "I mastered the Wisdom of silence and its sundering."
+},
+{ "id": "A_EXPLORE_ILLUMINATION", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Illumination",
+"descriptionunlocked": "I mastered the Wisdom of purification of the self and its surroundings."
+},
+{ "id": "A_EXPLORE_ITHASTRY", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Ithastry",
+"descriptionunlocked": "I mastered the Wisdom of alchemy, metallurgy and pyrotechnics."
+},
+{ "id": "A_EXPLORE_NYCTODROMY", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Nyctodromy",
+"descriptionunlocked": "I mastered the Wisdom of the ways and byways of the transmundane."
+},
+{ "id": "A_EXPLORE_PRESERVATION", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Preservation",
+"descriptionunlocked": "I mastered the Wisdom of healing and restoration."
+},
+{ "id": "A_EXPLORE_SKOLEKOSOPHY", "category": "A_CATEGORY_EXPLORATION", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Mastery: Skolekosophy",
+"descriptionunlocked": "I mastered the Wisdom of things that should not be studied."
+}
+  
+
+]}

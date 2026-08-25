@@ -1,0 +1,17 @@
+{"achievements": [
+
+
+  { "id": "A_U_WINTER", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Une Connaissance De L'Apparence Des Choses",
+    "descriptionunlocked": "J'ai suivi les traces de Solomon Husher."
+  },
+
+  { "id": "A_U_EVENING", "category": "A_CATEGORY_VICTORY", "iconUnlocked": "",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Chutes du Soir",
+  "descriptionunlocked": "J'ai vécu mes jours tranquillement, en tant que Bibliothécaire de la Hush House ; et j'étais heureux(se)."
+}
+  
+
+]}

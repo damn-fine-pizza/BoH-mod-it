@@ -1,0 +1,7 @@
+{
+  "_nota": "Copiare in percorsi.json - che git non segue - e correggere i percorsi. Vale anche l'ambiente, con la stessa chiave in maiuscolo e il prefisso BOH_: BOH_GAME, BOH_MODS, BOH_LOC_ES, BOH_KIT, BOH_FONT_INSEGNA. Se percorsi.json non c'e', bohloc.py cerca il gioco nei posti soliti (Flatpak e Steam nativo) e prende il primo che esiste: su un'installazione ordinaria non serve scrivere niente.",
+  "game": "~/.local/share/Steam/steamapps/common/Book of Hours/bh_Data/StreamingAssets/bhcontent",
+  "mods": "~/.config/unity3d/Weather Factory/Book of Hours/mods",
+  "loc_es": "~/.local/share/Steam/steamapps/workshop/content/1028310/3784793429/loc/loc_es",
+  "kit": "~/Downloads/loc_images"
+}

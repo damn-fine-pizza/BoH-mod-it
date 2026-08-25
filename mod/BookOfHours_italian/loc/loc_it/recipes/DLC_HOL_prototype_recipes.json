@@ -1,0 +1,16 @@
+{
+ "recipes": [
+  {
+   "id": "_cook"
+  },
+  {
+   "id": "_manuscript.write"
+  },
+  {
+   "id": "_manuscript.soph.set"
+  },
+  {
+   "id": "_manuscript.soph.improve"
+  }
+ ]
+}

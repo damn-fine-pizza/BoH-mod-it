@@ -1,0 +1,79 @@
+{
+ "recipes": [
+  {
+   "id": "talk.visitor.cantread.aramaic",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere l’Aramaico. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.greek",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Greco. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.latin",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Latino. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.phrygian",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Frigio. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.sanskrit",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Sanscrito. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.cracktrack",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Cracktrack. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.ericapaean",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere l’Ericapaean. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.fucine",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Fucine. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.henavek",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Kernewek Henavek. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.hyksos",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere l’Hyksos. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.killasimi",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Killasimi. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.mandaic",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Mandaico. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.ramsund",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Ramsund. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.sabazine",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Sabazine. Questo testo non gli è di alcuna utilità."
+  },
+  {
+   "id": "talk.visitor.cantread.vak",
+   "label": "«Ehm...»",
+   "startdescription": "Il mio visitatore non sa leggere il Vak. Questo testo non gli è di alcuna utilità."
+  }
+ ]
+}

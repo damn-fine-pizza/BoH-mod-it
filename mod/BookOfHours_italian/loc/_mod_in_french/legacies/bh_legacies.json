@@ -1,0 +1,23 @@
+{
+    "legacies": [
+        {
+            "id": "librarian",
+            "label": "Brancrug, 7 Mars, 1936",
+			"family": "librarian",
+            "startdescription": "'Il n'y a plus de Bibliothécaire à la Hush House depuis l'incendie - sept ans maintenant. Les candidats appropriés sont très difficiles à trouver, mais peut-être en avons-nous trouvé un en vous. Soyez prudent lors de votre voyage: les mers autour de Brancrug sont traîtresses…'",
+            "desc": "'Elle les amena à l'île Brancrug, qui était déjà alors un lieu caché, pour y faire une double fondation de religieuses et de moines, et en devenir la première Abbesse: mais elle ne voulait admettre dans l'ordre ni vierge, ni innocent d'aucun crime. Depuis lors, Brancrug est un refuge pour tout ce que le monde pourrait considérer comme impur.'",
+          
+            "image": "exile",
+            "effects": {},
+			 "startup": [
+                {"id": "setup.librarian.consider","topath":"~/fixedverbs"},
+                {"id": "setup.librarian.bookcase","topath":"~/library!lodge/?"},
+                {"id": "setup.librarian.visitors","topath":"~/visitors.offstage"}
+            ],
+            "fromending": "retirement",
+            "availableWithoutEndingMatch": true,
+            "startingverbid": "consider",
+            "newstart": true
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+ "achievements": [
+  {
+   "id": "A_CATEGORY_SALON",
+   "label": "Traguardo di Salotto"
+  },
+  {
+   "id": "A_SALON_ELEVENSES",
+   "label": "Seconda Colazione",
+   "descriptionunlocked": "Ho ricevuto ospiti per lo spuntino di metà mattina."
+  },
+  {
+   "id": "A_SALON_AFTERNOON_TEA",
+   "label": "Un Amore Particolare per i Muffin",
+   "descriptionunlocked": "Ho ricevuto ospiti per il tè pomeridiano."
+  },
+  {
+   "id": "A_SALON_LUNCH",
+   "label": "Lo Stress Non Può Esistere in Presenza di una Torta",
+   "descriptionunlocked": "Ho ricevuto ospiti per il pranzo."
+  },
+  {
+   "id": "A_SALON_SUPPER",
+   "label": "Cibo e Gioia e Canzone",
+   "descriptionunlocked": "Ho ricevuto ospiti per la cena."
+  },
+  {
+   "id": "A_SALON_PICNIC",
+   "label": "Gelati Caldi per Giorni Freddi",
+   "descriptionunlocked": "Ho ricevuto ospiti per un picnic."
+  }
+ ]
+}

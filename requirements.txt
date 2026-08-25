@@ -1,0 +1,11 @@
+# Le dipendenze Python del progetto. Si installano in un venv:
+#     python3 -m venv .venv && .venv/bin/pip install -r requirements.txt
+# Che cosa serve a chi: json5 legge i JSON del gioco, che hanno virgole finali e
+# a volte sono in UTF-16; Pillow e numpy rifanno le copertine e le insegne;
+# UnityPy tira gli sprite fuori da resources.assets del gioco installato.
+# python3 tools/prereqs.py dice quali mancano, e --verify le mette alla prova.
+# I test hanno un file a parte: requirements-dev.txt.
+json5>=0.9
+Pillow>=10
+numpy>=1.24
+UnityPy>=1.20

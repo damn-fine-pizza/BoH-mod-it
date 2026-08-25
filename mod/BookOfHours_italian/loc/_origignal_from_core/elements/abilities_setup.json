@@ -1,0 +1,70 @@
+{
+    "elements": [
+
+        {
+            "id": "setup.cho",
+            "icon":"xcho",
+            "label": "Memory: Chor?",
+            "desc": "Chor is exuberance; instinct; rhythm. Do those mean something to me?",
+      "inherits": "_ability.setup",
+              "xtriggers":{"recovering":"xcho","recovering.ability":"xcho"}
+        },
+        {
+            "id": "setup.ere",
+            "icon":"xere",
+            "label": "Memory: Ereb?",
+            "desc": "Ereb is pride, compassion; hatred and fear. Do those passions burn in me?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xere","recovering.ability":"xere"}
+        },
+        {
+            "id": "setup.fet",
+            "icon":"xfet",
+            "label": "Memory: Fet?",
+            "desc": "Fet is that part of us which dreams. Are dreams important to me?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xfet","recovering.ability":"xfet"}
+        },
+        {
+            "id": "setup.met",
+            "icon":"xmet",
+            "label": "Memory: Mettle?",
+            "desc": "Mettle is the capacity for meaningful choice. Did I prove my mettle?",
+    		"inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xmet","recovering.ability":"xmet"}
+        },
+        {
+            "id": "setup.pho",
+            "icon":"xpho",
+            "label": "Memory: Phost?",
+            "desc": "Phost is sight, perception, inspiration, all the Glory's gifts. Is my soul a bright soul?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xpho","recovering.ability":"xpho"}
+        },
+        {
+            "id": "setup.sha",
+            "icon":"xsha",
+            "label": "Memory: Shapt?",
+            "desc": "Shapt is eloquence and also understanding: the door opens both ways. Is my soul open to knowledge?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xsha","recovering.ability":"xsha"}
+        },
+        {
+            "id": "setup.tri",
+            "icon":"xtri",
+            "label": "Memory: Trist?",
+            "desc": "Trist, they say, is the change and the longing. Do I miss something I never had?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xtri","recovering.ability":"xtri"}
+        },
+        {
+            "id": "setup.wis",
+            "icon":"xwis",
+            "label": "Memory: Wist?",
+            "desc": "Wist is the name, the memory - that part which remains. Is it important to me that things endure?",
+      "inherits": "_ability.setup",
+            "xtriggers":{"recovering":"xwis","recovering.ability":"xwis"}
+        }
+        
+    ]
+}

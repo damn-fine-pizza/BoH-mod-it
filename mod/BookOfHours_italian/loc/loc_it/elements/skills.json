@@ -1,0 +1,3435 @@
+{
+ "elements": [
+  {
+   "id": "s.preliminalmeter",
+   "Label": "Metro Preliminale",
+   "Desc": "«Nove modi, nove orizzonti»: i sottili ritmi delle parole che aprono vie.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.pyroglyphics",
+   "Label": "Piroglifici",
+   "Desc": "«Una sola scrittura che il mondo intero deve leggere, perfino i ciechi, ed è scritta in fiamme.» Materie di fuochi d’artificio e loro affini: luci, colori, detonazioni infernali.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.inks.containment",
+   "Label": "Inchiostri di Contenimento",
+   "Desc": "Gli inchiostri in cui le Storie sono preservate.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.inks.revelation",
+   "Label": "Inchiostri di Rivelazione",
+   "Desc": "Gli inchiostri in cui le Storie sono rivelate.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.inks.power",
+   "Label": "Inchiostri di Potere",
+   "Desc": "Gli inchiostri in cui le Storie sono scritte.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.drums.dances",
+   "Label": "Tamburi & Danze",
+   "Desc": "Le prime musiche non furono create dai mortali, ma prese; da spira-di-sabbia e spina-di-mare, da cuore-di-selce e grembo-di-drago.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.strings.songs",
+   "Label": "Corde & Canti",
+   "Desc": "Le armonie dei cieli inferiori sono qui riprodotte.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.bells.brazieries",
+   "Label": "Campane & Bracieri",
+   "Desc": "Quella risonanza che perdura dopo il tocco del martello.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.horns.ivories",
+   "Label": "Corna & Avori",
+   "Desc": "Il Cacciatore, la Via, e le loro memorie.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.surgeries.exsanguinations",
+   "Label": "Chirurgie & Dissanguamenti",
+   "Desc": "La chirurgia comporta il flusso di sangue, e il flusso di sangue comporta la purificazione, ma la porta si apre anche nell’altro verso.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.stitching.binding",
+   "Label": "Cucitura & Rilegatura",
+   "Desc": "Niente è del tutto rotto né del tutto integro – non finché abbiamo i nostri aghi.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.furs.feathers",
+   "Label": "Pellicce & Piume",
+   "Desc": "Bestie, uccelli, allevamento, raccolto.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.pearl.tide",
+   "Label": "Perla & Marea",
+   "Desc": "Gli abissi del mare, le onde sulla riva, e il ricordo del loro ritirarsi.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.insects.nectars",
+   "Label": "Insetti & Nettari",
+   "Desc": "L’Alveare, il Nido e la Crisalide sono i tre principati segreti del mondo minore. Due di questi tre conoscono le tentazioni della dolcezza.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.herbs.infusions",
+   "Label": "Erbe & Infusi",
+   "Desc": "Coglila, polverizzala, mescolala, scaldala, bevila. Ma non quella.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.spices.savours",
+   "Label": "Spezie & Sapori",
+   "Desc": "Non c’è sacrificio senza nutrimento.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.leaves.thorns",
+   "Label": "Foglie & Spine",
+   "Desc": "Non c’è profumo senza dolore.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.orchids.narcotics",
+   "Label": "Orchidee & Narcotici",
+   "Desc": "Non c’è avidità senza bellezza.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.serpents.venoms",
+   "Label": "Serpenti & Veleni",
+   "Desc": "Questi sono i figli trascurati della Madre, e preferiamo che non passino per nessuna porta.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.sights.sensations",
+   "Label": "Visioni & Sensazioni",
+   "Desc": "Per mescolare i colori più rari, occorre un distacco spietato.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.desires.dissolutions",
+   "Label": "Desideri & Dissoluzioni",
+   "Desc": "I confini fra carne, perla e piacere sono ugualmente contingenti.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.resurgences.emergences",
+   "Label": "Risorgenze & Emersioni",
+   "Desc": "Nascita e morte sono solo direzioni. Fra le due troviamo un crocevia.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.rhyme.remembrance",
+   "Label": "Rima & Rimembranza",
+   "Desc": "Parlare con i morti; tormentare i vivi; celebrare entrambi.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.disciplines.thehammer",
+   "Label": "Discipline del Martello",
+   "Desc": "Purificare e combinare i sé e le essenze. Il Martello foggia cancelli e infrange porte, dentro di noi e fuori.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.disciplines.thescar",
+   "Label": "Discipline della Cicatrice",
+   "Desc": "Dominare i confini attraverso la loro determinazione. La Cicatrice segna saggezza e rimpianti; l’una nasce spesso dall’altra.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.auroralcontemplations",
+   "Label": "Contemplazioni Aurorali",
+   "Desc": "«Conoscere ciò che passerà in ciò che è passato.» Chi pratica questa disciplina vede fini e principi, passaggi e transizioni, allo stesso modo dell’alba e del tramonto.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.applebrighteuphonies",
+   "Label": "Eufonie di Applebright",
+   "Desc": "«Il respiro è la tentazione dell’anima.» Piaceri e intuizioni che la Chiesa chiamerebbe «i Segreti», la Sorellanza «i Misteri», e il Bureau «non autorizzati».",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.watchmansparadoxes",
+   "Label": "Paradossi del Guardiano",
+   "Desc": "«Che l’ambra preserva ed è preservata dalla luce; che schiudersi non è morire; che il Sole.» C’è un luogo dietro il mondo chiamato Mansus. Le imprese che nel mondo sarebbero impossibili, là sono inevitabili. Il Guardiano, che conosce tutte le vie del Mansus, sa anche come rendere possibili queste imprese nel mondo della veglia.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.raggedcrossroads",
+   "Label": "Crocevia Logoro",
+   "Desc": "«Comprendere perché quattro vie non furono prese.»",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.meniscatereflections",
+   "Label": "Riflessi Meniscati",
+   "Desc": "«Il fuori si purifica, il dentro si cancella.»",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.putrefactions.calcinations",
+   "Label": "Putrefazioni & Calcinazioni",
+   "Desc": "«La morte muta; la neve perdura.» – Solomon Husher",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.solutions.separations",
+   "Label": "Soluzioni & Separazioni",
+   "Desc": "Il chirurgo maneggia il coltello e il tagliapietre maneggia lo scalpello. Esistono strumenti più sottili dell’uno e dell’altro.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.path.pilgrim",
+   "Label": "Cammino & Pellegrino",
+   "Desc": "«Il viaggiatore sta sempre tornando. Chi non torna non è un viaggiatore.» – Arun Peel",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.purifications.exaltations",
+   "Label": "Purificazioni & Esaltazioni",
+   "Desc": "«Nessuno desidera mai veramente essere veramente mutato. Azoth e refulgin si temono a ragione. Ma nessuno che sia stato mutato sceglierebbe di tornare indietro.» – George Collers",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.transformations.liberations",
+   "Label": "Trasformazioni & Liberazioni",
+   "Desc": "Forgia e Falena sono meno diverse di quanto crediamo. Ogni mutamento è, in qualche modo, un rilascio.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.lockworks.clockworks",
+   "Label": "Serrature & Orologi",
+   "Desc": "I piccoli modi delle piccole macchine.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.seastories",
+   "Label": "Storie di Mare",
+   "Desc": "Il mare è sempre stato la strada più larga.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.wolfstories",
+   "Label": "Storie di Lupo",
+   "Desc": "A volte mangiamo il lupo, e a volte il lupo mangia noi.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.sandstories",
+   "Label": "Storie di Sabbia",
+   "Desc": "Di tribù erranti, vagabondi vigili, e divoratori alati.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.skystories",
+   "Label": "Storie di Cielo",
+   "Desc": "I nove venti spettegolano, e a volte possiamo ascoltare.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.snowstories",
+   "Label": "Storie di Neve",
+   "Desc": "Di vento, dolore, e inverno.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.stonestories",
+   "Label": "Storie di Pietra",
+   "Desc": "Della terra, delle sue forme, degli abitanti vivi e morti.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.vak",
+   "Label": "Vak",
+   "Desc": "Prima che gli dèi sorgessero dal sangue, prima ancora che la scimmia si reggesse eretta, questa era la lingua udita nella Casa del Sole... «Io sono Vak», si vantava la Porta del Pavone, «tanto la lingua quanto la Dea. Sono l’unico ingresso nella luce segreta. Mi veneravano prima di voi scimmie erette, e sarò ancora quando tutte voi sarete brutta cenere. Ascoltate, e ve lo dimostrerò.»",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.mandaic",
+   "Label": "Mandaico Profondo",
+   "Desc": "La scrittura più segreta dei riti più intimi delle sette profonde del deserto profondo. La lingua natia, si sostiene, della Madre delle Formiche in persona.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.killasimi",
+   "Label": "Killasimi",
+   "Desc": "Se c’è favella in Nessun Luogo; se esiste una lingua usata dai Morti; se la Casa della Luna ha un idioma nativo; allora dev’essere il Killasimi. Se nulla di questo è vero, resta comunque una lingua da non parlare alla luce del giorno. Ogni parola respira dolore. Leggila, come si dice, e piangi.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.fucine",
+   "Label": "Fucine",
+   "Desc": "Un popolo viveva a est del lago perduto di Fucino. Orazio ammoniva che la loro era la terra delle streghe. Questa era la loro lingua, detta da alcuni «la lingua arida» e da altri «la lingua delle streghe».",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.sabazine",
+   "Label": "Sabazine",
+   "Desc": "C’è una Storia in cui Alexander sconfisse prima il Grande Nodo di Sabazos, e poi il Re dei Re. C’è un’altra Storia in cui, invece, imparò da loro. Quante altre ancora? Se pieghiamo le mani nelle forme giuste, potremmo ancora comprendere.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.cracktrack",
+   "Label": "Cracktrack",
+   "Desc": "Nelle Tracce delle Bestie, nelle Convoluzioni del proprio Carapace, in Vena-d’Uovo e Ombra-di-Guscio, il Molteplice-Occhiuto trovò i Segni che possono essere Storia.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.hyksos",
+   "Label": "Hyksos",
+   "Desc": "I Re-Pastori portarono questa parlata a occidente da Canaan, per usarla nei loro scongiuri e nelle loro trappole. Se non fossero mai giunti in Egitto, forse non avrebbero mai trovato un modo per scriverla; date le sue qualità assuefacenti, forse sarebbe stato meglio così.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.ericapaean",
+   "Label": "Ericapaean",
+   "Desc": "Una lingua di bellezza e allusività senza pari, rivelata attraverso le percezioni estatiche degli Orfici, degli Eleusini e delle Sibille del Reno. L’Ericapaean, sostenevano questi mistici, permette di elaborare sfumature, sensazioni e stati d’animo troppo sottili per lingue più grossolane.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.ramsund",
+   "Label": "Ramsund",
+   "Desc": "Questa lingua è stata chiamata <i>«mantiq al-tair»</i> e <i>«lenga aucel»</i> e <i>«la parlata degli uccelli»</i> e <i>«Ramsund»</i> e <i>«la lingua della nocciola»</i>, ma è una lingua di segreti, e il suo vero nome non può mai essere usato. Le Ore aviformi la usano al loro Roost, o così vuole la storia.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.sacrasolisinvicti",
+   "Label": "Sacra Solis Invicti",
+   "Desc": "I riti della Chiesa del Sole Invitto, e certi segreti dei dèi-dalla-Luce.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.tridesmahiera",
+   "Label": "Tridesma Hiera",
+   "Desc": "I riti della Sorellanza del Triplice Nodo, che comprendono certi misteri degli abitanti del Bosco dietro il Mondo.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.sacralimiae",
+   "Label": "Sacra Limiae",
+   "Desc": "I riti di un ordine di immortali che ha cercato di restare in disparte. Questi riti toccano segreti delle Ore del Mansus – principalmente i dèi-che-furono-carne e i dèi-dalla-Luce.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.sickle.eclipse",
+   "Label": "Falce & Eclissi",
+   "Desc": "Sale e argento; equilibrio, necessità e rimprovero.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.hill.hollow",
+   "Label": "Colle & Valle",
+   "Desc": "Le vie dei figli-della-collina e dei dèi-dalla-pietra. Vecchi sentieri, vecchi segreti, i canti che ancora echeggiano sotto la terra.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.pentiments.precursors",
+   "Label": "Pentimenti & Precursori",
+   "Desc": "Imprese e prodezze di cose dimenticate: la Croce del Carapace, la stirpe di Antaios, il mondo di un basso sole rosso. «Sebbene molto sia tolto, molto rimane.»",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.coil.chasm",
+   "Label": "Spira & Baratro",
+   "Desc": "Vermi, Sette-Spire, luoghi pericolosi; come i terremoti vengono vincolati e perché vengono liberati.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.rites.theroots",
+   "Label": "Riti delle Radici",
+   "Desc": "Le Ore più antiche sono i dèi-dal-sangue, sorti dal sacrificio. Quel sangue fu sempre versato sulle radici, e i riti del suo versare sono ancora ricordati.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.door.wall",
+   "Label": "Porta & Muro",
+   "Desc": "«La serratura cerca la sua chiave, il muro cerca la sua porta, e noi che vorremmo passare impariamo alla fine che non sono nostri servitori.» – Willem Harries",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.edictsliminal",
+   "Label": "Editti Liminali",
+   "Desc": "I precetti della limitazione e della divisione; stabiliti dall’enigmatico conclave di Ore talvolta detto il Chancel.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.edictsmartial",
+   "Label": "Editti Marziali",
+   "Desc": "I precetti della lotta e del conflitto che muovono il motore cosmico del mutamento talvolta detto la Corrivalità.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.edictsinviolable",
+   "Label": "Editti Inviolabili",
+   "Desc": "I precetti dell’occlusione e della dissoluzione; la loro applicazione gelosa è la natura della Calyptra.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.thegreatsignsandthegreatscars",
+   "Label": "I Grandi Segni e le Grandi Cicatrici",
+   "Desc": "Alcuni glifi sono troppo oscuri per risiedere in una lingua, ma troppo potenti per restare non scritti.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.maggephenemysteries",
+   "Label": "Misteri Maggephene",
+   "Desc": "«Le piaghe maggiori non si possono guarire, solo vincolare. La più grande di tutte si può solo supplicare... e farlo in modo improprio è morte.»",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.weaving.knotworking",
+   "Label": "Tessitura & Annodatura",
+   "Desc": "«Hee hee hee hee hee hee hee hee hee. Hee.» – Valentine Dewulf",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.anbary.lapidary",
+   "Label": "Ambreria & Lapidario",
+   "Desc": "«Il fulmine è una piccola vita, e le gemme sono i suoi occhi.» – Eva Dewulf",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.quenchings.quellings",
+   "Label": "Spegnimenti & Placamenti",
+   "Desc": "Arti che spengono i fuochi e portano sollievo alla mente turbata. «Un vero adepto non è mai turbato dal fuoco, né dalla febbre, né dallo spirito inquieto.» – Ambrose Westcott",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.glassblowing.vesselcrafting",
+   "Label": "Vetro Soffiato & Vasellame",
+   "Desc": "«Siamo tutti vasi. Conteniamo solo ciò che ci farà onore quando la luce vi risplenderà attraverso.» – Thirza Blake",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.glaziery.lightsmithing",
+   "Label": "Vetreria & Lucefabbro",
+   "Desc": "«Rompi una finestra. Cos’hai fatto? Una via? Una luce nuova? Un’arma?» – Natalia Brulleau",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.sharps",
+   "Label": "Taglienti",
+   "Desc": "Coltelli, pericoli, e cose fuori posto.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.ouranoscopy",
+   "Label": "Uranoscopia",
+   "Desc": "«Considera la Stella. Ha ciascuna Stella i suoi Sette Nomi. Osserva che questi Nomi non sono Mai Condivisi.» – Thomas Dewulf",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  },
+  {
+   "id": "s.henavek",
+   "Label": "Henavek",
+   "Desc": "Kernewek Henavek; la forma più antica della lingua oggi detta Cornico; o qualcosa di ancora più antico.",
+   "slots": [
+    {
+     "id": "a1",
+     "label": "Impegno"
+    },
+    {
+     "id": "x1",
+     "label": "Lezione"
+    },
+    {
+     "id": "x2",
+     "label": "Memoria"
+    },
+    {
+     "id": "x3",
+     "label": "Memoria"
+    },
+    {
+     "id": "x4",
+     "label": "Memoria"
+    },
+    {
+     "id": "x5",
+     "label": "Memoria"
+    },
+    {
+     "id": "x6",
+     "label": "Memoria"
+    },
+    {
+     "id": "x7",
+     "label": "Memoria"
+    },
+    {
+     "id": "x8",
+     "label": "Memoria"
+    },
+    {
+     "id": "x9",
+     "label": "Memoria"
+    }
+   ]
+  }
+ ]
+}

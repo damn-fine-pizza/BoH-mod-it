@@ -1,0 +1,154 @@
+{
+ "elements": [
+  {
+   "id": "agdistis",
+   "label": "Mr Peter Agdistis",
+   "desc": "Musicista, mistico, impresario. Agdistis un tempo era un danzatore. Non lo si può guardare senza accorgersene. La ferita alla coscia lo tiene lontano dal palco; ma ogni suo movimento conserva ancora la cadenza di una preghiera.",
+   "xexts": {
+    "befriend.agdistis.chaima": "Agdistis e Chaima sono diventati amici."
+   }
+  },
+  {
+   "id": "aladim",
+   "label": "Dr Ibn al-Adim",
+   "desc": "«L’Aleppino»: Storico, medico, e soprattutto, viaggiatore. Il buon dottore è stato associato a tutte le biblioteche dell’Albero del Guardiano tranne una. È stato persino Segretario Nunziante della Hush House per un breve periodo, ma non è mai stato in buoni rapporti con il Bureau di Soppressione.",
+   "xexts": {
+    "befriend.aladim.connie": "Al-Adim e Connie si vedranno dopo il salotto."
+   }
+  },
+  {
+   "id": "arthur",
+   "label": "Lt Arthur Thomas Moore (Ret.)",
+   "desc": "Eroe, pellegrino, traditore. Sarà sempre un soldato, ma non potrà mai essere <i>soltanto</i> un soldato.",
+   "xexts": {
+    "befriend.arthur.douglas": "Arthur e Douglas manterranno un contatto cauto.",
+    "mistrust.arthur.coquille": "Arthur terrà d’occhio Coquille."
+   }
+  },
+  {
+   "id": "arun",
+   "label": "Dr Arun Peel",
+   "desc": "Esule, mercante di enigmi, devoto del Pelledituono. («Preferirei dire confidente.») Impeccabilmente vestito, ma sempre di scuro, così che le macchie non si vedano. Scure anche le bende alle caviglie e ai polsi. («Non prenderò posto. È gentile da parte tua offrirlo. Sarebbe scortese da parte mia accettare.»)",
+   "xexts": {
+    "befriend.arun.coquille": "Arun e Coquille hanno sviluppato un’amicizia cauta.",
+    "befriend.arun.yvette": "Arun e Yvette partiranno insieme questa notte…",
+    "befriend.arun.denzil": "Arun e Denzil hanno discretamente stabilito un’affinità."
+   }
+  },
+  {
+   "id": "auntmopsy",
+   "label": "Zia Mopsy",
+   "desc": "Collezionista di proverbi, intenditrice di vini, araldo dell’Ora detta Giumenta-nell’Albero."
+  },
+  {
+   "id": "azita",
+   "label": "Ms Azita Bukhara",
+   "desc": "Donna d’affari, maestra di scacchi, iniziata dell’Ora sfregiata a volte chiamata il Colonnello.",
+   "xexts": {
+    "befriend.azita.yvette": "C’è qualcosa tra Azita e Yvette, anche se resta da vedere che cosa esattamente."
+   }
+  },
+  {
+   "id": "chaima",
+   "label": "Lalla Chaima",
+   "desc": "Cacciatrice, goumier, consulente occasionale del Bureau. Quando non si riesce a uccidere qualcosa, e veramente è necessario, Chaima è quella a cui si rivolgono.",
+   "xexts": {
+    "befriend.chaima.zachary": "Chaima e Zachary hanno qualcosa di quasi simile a un’amicizia."
+   }
+  },
+  {
+   "id": "connie",
+   "label": "MCO Constance Lee",
+   "desc": "Connie si è elevata rapidamente nel Bureau di Soppressione, al rango esaltato di Constable-Oculate Minore. Meglio non intralciarla."
+  },
+  {
+   "id": "coquille",
+   "label": "Princess Coquille Amirejibi",
+   "desc": "Artista, mondana... ladra? Una donna affascinante in modo indescrivibile, con un particolare talento nel farsi adottare.",
+   "xexts": {
+    "befriend.coquille.douglas": "Coquille e Douglas non sono amici – non proprio."
+   }
+  },
+  {
+   "id": "corso",
+   "label": "Sr. Corso Reverte",
+   "desc": "Cacciatore di manoscritti, frugatore di eredità... mercenario? Molti metterebbero in discussione la sua etica; pochi negherebbero la sua acutezza."
+  },
+  {
+   "id": "dagmar",
+   "label": "«Daymare»",
+   "desc": "Gräfin Friederike Dagmar Sophia Theresia Helena Benigna von Nagelsburg, se preferisci. A lei non piace."
+  },
+  {
+   "id": "douglas",
+   "label": "DI Douglas Moore",
+   "desc": "Detective-Illuminato del Bureau di Soppressione. Un tipo stoico, ma stanco. Il suo più caro desiderio è trasferirsi a Chingford e coltivare rose. Ma quei bastardi non lo lasciano andare in pensione.",
+   "xexts": {
+    "befriend.douglas.hokobald": "Douglas ha imparato a tollerare Hokobald meglio della maggior parte."
+   }
+  },
+  {
+   "id": "ehsan",
+   "label": "Mr Ehsan Fekri",
+   "desc": "Un tempo; Ehsan era un guaritore; non era umano; era Segretario Salvante della Hush House. Ma non tutto allo stesso tempo. Pignolo, gentile, notoriamente ripugnante a vedersi."
+  },
+  {
+   "id": "franklin",
+   "label": "Lord Franklin Bancroft",
+   "desc": "Libertino, dilettante, prodigio esasperante. Forse morto, forse reale."
+  },
+  {
+   "id": "fraser",
+   "label": "Mr Fraser Strathcoyne",
+   "desc": "Filantropo, collezionista, ex Archivista. Un uomo complicato, ma non crudele."
+  },
+  {
+   "id": "hokobald",
+   "label": "Magister Hokobald",
+   "desc": "Metallurgo, buongustaio, immortale corrotto. E, presumibilmente, il bastardo di un re di molto tempo fa."
+  },
+  {
+   "id": "julian",
+   "label": "Julian Coseley",
+   "desc": "Mago, Longevo d’Inverno, filosofo controverso. Per un immortale esaltato da un’Ora di Silenzio, soprattutto uno che potrebbe essere morto, ha avuto molto da dire su se stesso negli anni."
+  },
+  {
+   "id": "morgen",
+   "label": "Mlle Margot Matutine",
+   "desc": "Donna di mondo, velista… e, sotto il nome di «Morgen», un’alukite, una Ligeiana. Il primo significa, tra le altre cose, che mangia persone. Il secondo significa, tra le altre cose, che non è da prendere alla leggera.",
+   "xexts": {
+    "befriend.morgen.zachary": "Morgen sembra quasi protettiva nei confronti di Zachary."
+   }
+  },
+  {
+   "id": "olympe",
+   "label": "Mme Olympe Bechet",
+   "desc": "Saggista, illustratrice, critica. Direttrice della Rivista Kerisham."
+  },
+  {
+   "id": "rowena",
+   "label": "Professor Rowena Hengerst",
+   "desc": "Per molti anni, sotto molti nomi, Rowena ha fatto, imparato o mangiato molte cose che non avrebbe davvero dovuto fare. Ma per molti anni, sotto molti nomi, ha servito come protettrice della Hush House."
+  },
+  {
+   "id": "serena",
+   "label": "Dr Serena Blackwood",
+   "desc": "Un tempo Archivista della Hush House, un tempo Archivista del Serapeo Invisibile ad Alessandria, e attualmente... cosa, esattamente? Serena è riservata, ma so che ha lavorato con il Trust di St Rhonwen."
+  },
+  {
+   "id": "stanislav",
+   "label": "Fr. Stanislav John Schaller",
+   "desc": "Sacerdote, diplomatico, giardiniere: un uomo dalla voce pacata e dallo sguardo molto fermo."
+  },
+  {
+   "id": "yvette",
+   "label": "Dr Yvette Southey",
+   "desc": "Drammaturga, filologa, psicoanalista: felice tanto delle domande quanto delle risposte."
+  },
+  {
+   "id": "zachary",
+   "label": "Mr Zachary Wakefield",
+   "desc": "Tiratore scelto, investigatore, rinnegato. È sempre stato un uomo silenzioso, ma da quando ha lasciato il Bureau di Soppressione, lo è diventato ancora di più, e terribilmente immobile – salvo le dita e gli occhi, sempre in movimento inquieto."
+  }
+ ]
+}

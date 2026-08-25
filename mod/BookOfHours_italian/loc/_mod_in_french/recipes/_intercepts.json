@@ -1,0 +1,42 @@
+{"recipes": [
+
+    {"id":"upgrade.altar.chancel.mihail",
+    "actionid": "library.altar.chancel",
+    "reqs": {"painting.mihail.altar":1},
+    "label":"Représenter Mihail sur l'autel du Chœur",
+    "startdescription":"Les yeux s'assombrissent à la lumière des bougies.",
+    "comments":"En particulier, cela permettra d'intercepter les tentatives de fabrication. Une meilleure approche consisterait à ne pas s'appuyer sur des conventions de dénomination pour l'attribution des DLC _et_ des priorités.",
+    "desc":"Peut-être que Mihail le Messager sera celui qui portera la flamme du commencement à la Cité Inconstruite. Il est certain qu'il n'est pas encore éteint. [L'autel du Chœur admet désormais les intentions de Forge et de Lanterne]",
+    "aspects":{"upgrading":1},
+    "effects":{"painting.mihail.altar":-1},
+    "craftable":true,
+    "warmup":60
+    },
+    
+    {"id":"upgrade.sarcophagus.columbic.mihail",
+    "actionid": "library.sarcophagus.columbic",
+    "reqs": {"painting.mihail.sarcophagus":1},
+   "label":"Représenter Mihail dans le Sarcophage",
+    "startdescription":"Les yeux brillent dans l'obscurité.",
+    "desc":"Peut-être que Mihail le Messager ne portera jamais le feu à la Cité Inconstruite - mais il n'a pas encore été éteint. [Le Sarcophage admet désormais les intentions de la Forge et de la Lanterne]",
+    "comments":"En particulier, cela permettra d'intercepter les tentatives de fabrication. Une meilleure approche consisterait à ne pas s'appuyer sur des conventions de dénomination pour l'attribution des DLC _et_ des priorités.",
+    "aspects":{"upgrading":1},
+    "effects":{"painting.mihail.sarcophagus":-1},
+    "craftable":true,
+    "warmup":60
+    },
+    {
+        "id":"manuscript.intercept",
+        "actionid":"*consider",
+        "hintonly":true,
+        "craftable":true,
+        "reqs":{"manuscript":1},
+        "label":"Mon Travail!",
+        "startdescription":"Je peux en être fier, mais je ne peux pas vraiment l'étudier."
+        }
+    
+
+
+
+]
+}

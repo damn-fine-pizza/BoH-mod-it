@@ -1,0 +1,369 @@
+{
+ "elements": [
+  {
+   "id": "r.preliminalmeter",
+   "label": "Oggetto: Metro Preliminale",
+   "desc": "«Nove modi, nove orizzonti»: i sottili ritmi delle parole che aprono vie."
+  },
+  {
+   "id": "r.pyroglyphics",
+   "label": "Oggetto: Piroglifici",
+   "desc": "«Una sola scrittura che il mondo intero deve leggere, perfino i ciechi, ed è scritta in fiamme.» Materie di fuochi d’artificio e loro affini: luci, colori, detonazioni infernali."
+  },
+  {
+   "id": "r.inks.containment",
+   "label": "Oggetto: Inchiostri di Contenimento",
+   "desc": "Gli inchiostri in cui le Storie sono preservate."
+  },
+  {
+   "id": "r.inks.revelation",
+   "label": "Oggetto: Inchiostri di Rivelazione",
+   "desc": "Gli inchiostri in cui le Storie sono rivelate."
+  },
+  {
+   "id": "r.inks.power",
+   "label": "Oggetto: Inchiostri di Potere",
+   "desc": "Gli inchiostri in cui le Storie sono scritte."
+  },
+  {
+   "id": "r.drums.dances",
+   "label": "Oggetto: Tamburi & Danze",
+   "desc": "Le prime musiche non furono create dai mortali, ma prese; da spira-di-sabbia e spina-di-mare, da cuore-di-selce e grembo-di-drago."
+  },
+  {
+   "id": "r.strings.songs",
+   "label": "Oggetto: Corde & Canti",
+   "desc": "Le armonie dei cieli inferiori sono qui riprodotte."
+  },
+  {
+   "id": "r.bells.brazieries",
+   "label": "Oggetto: Campane & Bracieri",
+   "desc": "Quella risonanza che perdura dopo il tocco del martello."
+  },
+  {
+   "id": "r.horns.ivories",
+   "label": "Oggetto: Corna & Avori",
+   "desc": "Il Cacciatore, la Via, e le loro memorie."
+  },
+  {
+   "id": "r.surgeries.exsanguinations",
+   "label": "Oggetto: Chirurgie & Dissanguamenti",
+   "desc": "La chirurgia comporta il flusso di sangue, e il flusso di sangue comporta la purificazione, ma la porta si apre anche nell’altro verso."
+  },
+  {
+   "id": "r.stitching.binding",
+   "label": "Oggetto: Cucitura & Rilegatura",
+   "desc": "Niente è del tutto rotto né del tutto integro – non finché abbiamo i nostri aghi."
+  },
+  {
+   "id": "r.furs.feathers",
+   "label": "Oggetto: Pellicce & Piume",
+   "desc": "Bestie, uccelli, allevamento, raccolto."
+  },
+  {
+   "id": "r.pearl.tide",
+   "label": "Oggetto: Perla & Marea",
+   "desc": "Gli abissi del mare, le onde sulla riva, e il ricordo del loro ritirarsi."
+  },
+  {
+   "id": "r.insects.nectars",
+   "label": "Oggetto: Insetti & Nettari",
+   "desc": "L’Alveare, il Nido e la Crisalide sono i tre principati segreti del mondo minore. Due di questi tre conoscono le tentazioni della dolcezza."
+  },
+  {
+   "id": "r.herbs.infusions",
+   "label": "Oggetto: Erbe & Infusi",
+   "desc": "Coglila, polverizzala, mescolala, scaldala, bevila. Ma non quella."
+  },
+  {
+   "id": "r.spices.savours",
+   "label": "Oggetto: Spezie & Sapori",
+   "desc": "Non c’è sacrificio senza nutrimento."
+  },
+  {
+   "id": "r.leaves.thorns",
+   "label": "Oggetto: Foglie & Spine",
+   "desc": "Non c’è profumo senza dolore."
+  },
+  {
+   "id": "r.orchids.narcotics",
+   "label": "Oggetto: Orchidee & Narcotici",
+   "desc": "Non c’è avidità senza bellezza."
+  },
+  {
+   "id": "r.serpents.venoms",
+   "label": "Oggetto: Serpenti & Veleni",
+   "desc": "Questi sono i figli trascurati della Madre, e preferiamo che non passino per nessuna porta."
+  },
+  {
+   "id": "r.sights.sensations",
+   "label": "Oggetto: Visioni & Sensazioni",
+   "desc": "Per mescolare i colori più rari, occorre un distacco spietato."
+  },
+  {
+   "id": "r.desires.dissolutions",
+   "label": "Oggetto: Desideri & Dissoluzioni",
+   "desc": "I confini fra carne, perla e piacere sono ugualmente contingenti."
+  },
+  {
+   "id": "r.resurgences.emergences",
+   "label": "Oggetto: Risorgenze & Emersioni",
+   "desc": "Nascita e morte sono solo direzioni. Fra le due troviamo un crocevia."
+  },
+  {
+   "id": "r.rhyme.remembrance",
+   "label": "Oggetto: Rima & Rimembranza",
+   "desc": "Parlare con i morti; tormentare i vivi; celebrare entrambi."
+  },
+  {
+   "id": "r.disciplines.thehammer",
+   "label": "Oggetto: Discipline del Martello",
+   "desc": "Purificare e combinare i sé e le essenze. Il Martello foggia cancelli e infrange porte, dentro di noi e fuori."
+  },
+  {
+   "id": "r.disciplines.thescar",
+   "label": "Oggetto: Discipline della Cicatrice",
+   "desc": "Dominare i confini attraverso la loro determinazione. La Cicatrice segna saggezza e rimpianti; l’una nasce spesso dall’altra."
+  },
+  {
+   "id": "r.auroralcontemplations",
+   "label": "Oggetto: Contemplazioni Aurorali",
+   "desc": "«Conoscere ciò che passerà in ciò che è passato.» Chi pratica questa disciplina vede fini e principi, passaggi e transizioni, allo stesso modo dell’alba e del tramonto."
+  },
+  {
+   "id": "r.applebrighteuphonies",
+   "label": "Oggetto: Eufonie di Applebright",
+   "desc": "«Il respiro è la tentazione dell’anima.» Piaceri e intuizioni che la Chiesa chiamerebbe «i Segreti», la Sorellanza «i Misteri», e il Bureau «non autorizzati»."
+  },
+  {
+   "id": "r.watchmansparadoxes",
+   "label": "Oggetto: Paradossi del Guardiano",
+   "desc": "«Che l’ambra preserva ed è preservata dalla luce; che schiudersi non è morire; che il Sole.» C’è un luogo dietro il mondo chiamato Mansus. Le imprese che nel mondo sarebbero impossibili, là sono inevitabili. Il Guardiano, che conosce tutte le vie del Mansus, sa anche come rendere possibili queste imprese nel mondo della veglia."
+  },
+  {
+   "id": "r.raggedcrossroads",
+   "label": "Oggetto: Crocevia Logoro",
+   "desc": "«Comprendere perché quattro vie non furono prese.»"
+  },
+  {
+   "id": "r.meniscatereflections",
+   "label": "Oggetto: Riflessi Meniscati",
+   "desc": "«Il fuori si purifica, il dentro si cancella.»"
+  },
+  {
+   "id": "r.putrefactions.calcinations",
+   "label": "Oggetto: Putrefazioni & Calcinazioni",
+   "desc": "«La morte muta; la neve perdura.» – Solomon Husher"
+  },
+  {
+   "id": "r.solutions.separations",
+   "label": "Oggetto: Soluzioni & Separazioni",
+   "desc": "Il chirurgo maneggia il coltello e il tagliapietre maneggia lo scalpello. Esistono strumenti più sottili dell’uno e dell’altro."
+  },
+  {
+   "id": "r.path.pilgrim",
+   "label": "Oggetto: Cammino & Pellegrino",
+   "desc": "«Il viaggiatore sta sempre tornando. Chi non torna non è un viaggiatore.» – Arun Peel"
+  },
+  {
+   "id": "r.purifications.exaltations",
+   "label": "Oggetto: Purificazioni & Esaltazioni",
+   "desc": "«Nessuno desidera mai veramente essere veramente mutato. Azoth e refulgin si temono a ragione. Ma nessuno che sia stato mutato sceglierebbe di tornare indietro.» – George Collers"
+  },
+  {
+   "id": "r.transformations.liberations",
+   "label": "Oggetto: Trasformazioni & Liberazioni",
+   "desc": "Forgia e Falena sono meno diverse di quanto crediamo. Ogni mutamento è, in qualche modo, un rilascio."
+  },
+  {
+   "id": "r.lockworks.clockworks",
+   "label": "Oggetto: Serrature & Orologi",
+   "desc": "I piccoli modi delle piccole macchine."
+  },
+  {
+   "id": "r.seastories",
+   "label": "Oggetto: Storie di Mare",
+   "desc": "Il mare è sempre stato la strada più larga."
+  },
+  {
+   "id": "r.wolfstories",
+   "label": "Oggetto: Storie di Lupo",
+   "desc": "A volte mangiamo il lupo, e a volte il lupo mangia noi."
+  },
+  {
+   "id": "r.sandstories",
+   "label": "Oggetto: Storie di Sabbia",
+   "desc": "Di tribù erranti, vagabondi vigili, e divoratori alati."
+  },
+  {
+   "id": "r.skystories",
+   "label": "Oggetto: Storie di Cielo",
+   "desc": "I nove venti spettegolano, e a volte possiamo ascoltare."
+  },
+  {
+   "id": "r.snowstories",
+   "label": "Oggetto: Storie di Neve",
+   "desc": "Di vento, dolore, e inverno."
+  },
+  {
+   "id": "r.stonestories",
+   "label": "Oggetto: Storie di Pietra",
+   "desc": "Della terra, delle sue forme, degli abitanti vivi e morti."
+  },
+  {
+   "id": "r.vak",
+   "label": "Oggetto: Vak",
+   "desc": "Prima che gli dèi sorgessero dal sangue, prima ancora che la scimmia si reggesse eretta, questa era la lingua udita nella Casa del Sole... «Io sono Vak», si vantava la Porta del Pavone, «tanto la lingua quanto la Dea. Sono l’unico ingresso nella luce segreta. Mi veneravano prima di voi scimmie erette, e sarò ancora quando tutte voi sarete brutta cenere. Ascoltate, e ve lo dimostrerò.»"
+  },
+  {
+   "id": "r.mandaic",
+   "label": "Oggetto: Mandaico Profondo",
+   "desc": "La scrittura più segreta dei riti più intimi delle sette profonde del deserto profondo. La lingua natia, si sostiene, della Madre delle Formiche in persona."
+  },
+  {
+   "id": "r.killasimi",
+   "label": "Oggetto: Killasimi",
+   "desc": "Se c’è favella in Nessun Luogo; se esiste una lingua usata dai Morti; se la Casa della Luna ha un idioma nativo; allora dev’essere il Killasimi. Se nulla di questo è vero, resta comunque una lingua da non parlare alla luce del giorno. Ogni parola respira dolore. Leggila, come si dice, e piangi."
+  },
+  {
+   "id": "r.fucine",
+   "label": "Oggetto: Fucine",
+   "desc": "Un popolo viveva a est del lago perduto di Fucino. Orazio ammoniva che la loro era la terra delle streghe. Questa era la loro lingua, detta da alcuni «la lingua arida» e da altri «la lingua delle streghe»."
+  },
+  {
+   "id": "r.sabazine",
+   "label": "Oggetto: Sabazine",
+   "desc": "C’è una Storia in cui Alexander sconfisse prima il Grande Nodo di Sabazos, e poi il Re dei Re. C’è un’altra Storia in cui, invece, imparò da loro. Quante altre ancora? Se pieghiamo le mani nelle forme giuste, potremmo ancora comprendere."
+  },
+  {
+   "id": "r.cracktrack",
+   "label": "Oggetto: Cracktrack",
+   "desc": "Nelle Tracce delle Bestie, nelle Convoluzioni del proprio Carapace, in Vena-d’Uovo e Ombra-di-Guscio, il Molteplice-Occhiuto trovò i Segni che possono essere Storia."
+  },
+  {
+   "id": "r.hyksos",
+   "label": "Oggetto: Hyksos",
+   "desc": "I Re-Pastori portarono questa parlata a occidente da Canaan, per usarla nei loro scongiuri e nelle loro trappole. Se non fossero mai giunti in Egitto, forse non avrebbero mai trovato un modo per scriverla; date le sue qualità assuefacenti, forse sarebbe stato meglio così."
+  },
+  {
+   "id": "r.ericapaean",
+   "label": "Oggetto: Ericapaean",
+   "desc": "Una lingua di bellezza e allusività senza pari, rivelata attraverso le percezioni estatiche degli Orfici, degli Eleusini e delle Sibille del Reno. L’Ericapaean, sostenevano questi mistici, permette di elaborare sfumature, sensazioni e stati d’animo troppo sottili per lingue più grossolane."
+  },
+  {
+   "id": "r.ramsund",
+   "label": "Oggetto: Ramsund",
+   "desc": "Questa lingua è stata chiamata <i>«mantiq al-tair»</i> e <i>«lenga aucel»</i> e <i>«la parlata degli uccelli»</i> e <i>«Ramsund»</i> e <i>«la lingua della nocciola»</i>, ma è una lingua di segreti, e il suo vero nome non può mai essere usato. Le Ore aviformi la usano al loro Roost, o così vuole la storia."
+  },
+  {
+   "id": "r.sacrasolisinvicti",
+   "label": "Oggetto: Sacra Solis Invicti",
+   "desc": "I riti della Chiesa del Sole Invitto, e certi segreti dei dèi-dalla-Luce."
+  },
+  {
+   "id": "r.tridesmahiera",
+   "label": "Oggetto: Tridesma Hiera",
+   "desc": "I riti della Sorellanza del Triplice Nodo, che comprendono certi misteri degli abitanti del Bosco dietro il Mondo."
+  },
+  {
+   "id": "r.sacralimiae",
+   "label": "Oggetto: Sacra Limiae",
+   "desc": "I riti di un ordine di immortali che ha cercato di restare in disparte. Questi riti toccano segreti delle Ore del Mansus – principalmente i dèi-che-furono-carne e i dèi-dalla-Luce."
+  },
+  {
+   "id": "r.sickle.eclipse",
+   "label": "Oggetto: Falce & Eclissi",
+   "desc": "Sale e argento; equilibrio, necessità e rimprovero."
+  },
+  {
+   "id": "r.hill.hollow",
+   "label": "Oggetto: Colle & Valle",
+   "desc": "Le vie dei figli-della-collina e dei dèi-dalla-pietra. Vecchi sentieri, vecchi segreti, i canti che ancora echeggiano sotto la terra."
+  },
+  {
+   "id": "r.pentiments.precursors",
+   "label": "Oggetto: Pentimenti & Precursori",
+   "desc": "Imprese e prodezze di cose dimenticate: la Croce del Carapace, la stirpe di Antaios, il mondo di un basso sole rosso. «Sebbene molto sia tolto, molto rimane.»"
+  },
+  {
+   "id": "r.coil.chasm",
+   "label": "Oggetto: Spira & Baratro",
+   "desc": "Vermi, Sette-Spire, luoghi pericolosi; come i terremoti vengono vincolati e perché vengono liberati."
+  },
+  {
+   "id": "r.rites.theroots",
+   "label": "Oggetto: Riti delle Radici",
+   "desc": "Le Ore più antiche sono i dèi-dal-sangue, sorti dal sacrificio. Quel sangue fu sempre versato sulle radici, e i riti del suo versare sono ancora ricordati."
+  },
+  {
+   "id": "r.door.wall",
+   "label": "Oggetto: Porta & Muro",
+   "desc": "«La serratura cerca la sua chiave, il muro cerca la sua porta, e noi che vorremmo passare impariamo alla fine che non sono nostri servitori.» – Willem Harries"
+  },
+  {
+   "id": "r.edictsliminal",
+   "label": "Oggetto: Editti Liminali",
+   "desc": "I precetti della limitazione e della divisione; stabiliti dall’enigmatico conclave di Ore talvolta detto il Chancel."
+  },
+  {
+   "id": "r.edictsmartial",
+   "label": "Oggetto: Editti Marziali",
+   "desc": "I precetti della lotta e del conflitto che muovono il motore cosmico del mutamento talvolta detto la Corrivalità."
+  },
+  {
+   "id": "r.edictsinviolable",
+   "label": "Oggetto: Editti Inviolabili",
+   "desc": "I precetti dell’occlusione e della dissoluzione; la loro applicazione gelosa è la natura della Calyptra."
+  },
+  {
+   "id": "r.thegreatsignsandthegreatscars",
+   "label": "Oggetto: I Grandi Segni e le Grandi Cicatrici",
+   "desc": "Alcuni glifi sono troppo oscuri per risiedere in una lingua, ma troppo potenti per restare non scritti."
+  },
+  {
+   "id": "r.maggephenemysteries",
+   "label": "Oggetto: Misteri Maggephene",
+   "desc": "«Le piaghe maggiori non si possono guarire, solo vincolare. La più grande di tutte si può solo supplicare... e farlo in modo improprio è morte.»"
+  },
+  {
+   "id": "r.weaving.knotworking",
+   "label": "Oggetto: Tessitura & Annodatura",
+   "desc": "«Hee hee hee hee hee hee hee hee hee. Hee.» – Valentine Dewulf"
+  },
+  {
+   "id": "r.anbary.lapidary",
+   "label": "Oggetto: Ambreria & Lapidario",
+   "desc": "«Il fulmine è una piccola vita, e le gemme sono i suoi occhi.» – Eva Dewulf"
+  },
+  {
+   "id": "r.quenchings.quellings",
+   "label": "Oggetto: Spegnimenti & Placamenti",
+   "desc": "Arti che spengono i fuochi e portano sollievo alla mente turbata. «Un vero adepto non è mai turbato dal fuoco, né dalla febbre, né dallo spirito inquieto.» – Ambrose Westcott"
+  },
+  {
+   "id": "r.glassblowing.vesselcrafting",
+   "label": "Oggetto: Vetro Soffiato & Vasellame",
+   "desc": "«Siamo tutti vasi. Conteniamo solo ciò che ci farà onore quando la luce vi risplenderà attraverso.» – Thirza Blake"
+  },
+  {
+   "id": "r.glaziery.lightsmithing",
+   "label": "Oggetto: Vetreria & Lucefabbro",
+   "desc": "«Rompi una finestra. Cos’hai fatto? Una via? Una luce nuova? Un’arma?» – Natalia Brulleau"
+  },
+  {
+   "id": "r.sharps",
+   "label": "Oggetto: Taglienti",
+   "desc": "Coltelli, pericoli, e cose fuori posto."
+  },
+  {
+   "id": "r.ouranoscopy",
+   "label": "Oggetto: Uranoscopia",
+   "desc": "«Considera la Stella. Ha ciascuna Stella i suoi Sette Nomi. Osserva che questi Nomi non sono Mai Condivisi.» – Thomas Dewulf"
+  },
+  {
+   "id": "r.henavek",
+   "label": "Oggetto: Henavek",
+   "desc": "Kernewek Henavek; la forma più antica della lingua oggi detta Cornico; o qualcosa di ancora più antico."
+  }
+ ]
+}

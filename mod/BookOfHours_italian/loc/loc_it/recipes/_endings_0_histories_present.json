@@ -1,0 +1,499 @@
+{
+ "recipes": [
+  {
+   "id": "present.h.sky.oldl.symurgist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.sky.oldl.magnate",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.sky.oldl.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.sky.unde.magnate",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.sky.unde.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.sky.bala.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.sky.bala.executioner",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.sky.bala.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moth.thre.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moth.thre.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moth.loop.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moth.loop.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moth.desc.executioner",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moth.desc.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.bell.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.bell.prodigal",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.bell.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.oldl.magnate",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.oldl.symurgist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.oldl.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.unde.magnate",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.rose.unde.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moon.secr.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moon.secr.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moon.loop.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moon.loop.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moon.worl.symurgist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moon.worl.cartographer",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.moon.worl.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.grail.feas.artist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.grail.feas.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.grail.alte.artist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.grail.alte.archaeologist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.grail.alte.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.grail.desc.executioner",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.grail.desc.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.worl.symurgist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.worl.cartographer",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.worl.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.bala.executioner",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.bala.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.bala.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.thre.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.heart.thre.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.conf.prodigal",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.conf.archaeologist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.conf.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.loop.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.loop.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.asce.cartographer",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.asce.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.knock.asce.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.nectar.feas.artist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.nectar.feas.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.nectar.worl.symurgist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.nectar.worl.cartographer",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.nectar.worl.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.nectar.secr.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.nectar.secr.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.asce.cartographer",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.asce.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.asce.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.alte.artist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.alte.archaeologist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.alte.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.bell.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.bell.prodigal",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.forge.bell.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.oldl.magnate",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.oldl.symurgist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.oldl.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.conf.prodigal",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.conf.archaeologist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.conf.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.thre.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.scale.thre.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.lantern.asce.cartographer",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.lantern.asce.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.lantern.asce.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.lantern.desc.executioner",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.lantern.desc.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.lantern.secr.twiceborn",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.lantern.secr.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.bell.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.bell.prodigal",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.bell.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.feas.artist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.feas.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.alte.artist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.alte.archaeologist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.edge.alte.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.unde.magnate",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.unde.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.conf.prodigal",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.conf.archaeologist",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.conf.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.bala.executioner",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.bala.revolutionary",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  },
+  {
+   "id": "present.h.winter.bala.",
+   "label": "Chiedi che la mia Storia abbia testimoni",
+   "startdescription": "«Terra, cielo, mare: siate testimoni della mia opera.» [Hai foggiato una Storia che almeno una delle Ore avallerà. Questo è il punto di non ritorno. Molte di queste Storie sono strane o selvagge. Se non hai la certezza di voler concludere la partita, resta qui nella pace della Casa.]"
+  }
+ ]
+}

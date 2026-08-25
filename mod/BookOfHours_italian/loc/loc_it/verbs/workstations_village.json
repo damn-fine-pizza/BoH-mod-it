@@ -1,0 +1,141 @@
+{
+ "verbs": [
+  {
+   "id": "village.rectory.closed",
+   "label": "La Canonica [Bloccata]",
+   "desc": "Il Reverendo Timothy è un’anima ospitale, ma Terrence, la sua governante, protegge ferocemente il suo datore di lavoro. Non vuole che i suoi innocenti entusiasmi teologici lo mettano nei guai con gli uomini del Nuovo Re.\n [Hai bisogno di una Presentazione, o di una conoscenza in comune marcata con Lanterna, Battente, o Cielo – forse qualcuno che condivida i suoi interessi in teologia o poesia.]",
+   "slot": {
+    "id": "w",
+    "label": "I Gradini d’Ingresso",
+    "description": "Mi serve una conoscenza comune che mi presenti al Reverendo Timothy – magari qualcuno che ne condivida gli interessi per la teologia o la poesia."
+   }
+  },
+  {
+   "id": "village.smithy.closed",
+   "label": "La Fucina [Bloccata]",
+   "desc": "Denzil Smith ha più lavoro di quanto gliene serva, e raramente apre la porta agli sconosciuti.\n[Hai bisogno di una Presentazione, o di una conoscenza in comune marcata con Lama, Forgia, o Cuore – qualcuno dello stesso mestiere, o qualcuno che possa appellarsi alla sua passione segreta per la torta di zafferano.]",
+   "slot": {
+    "id": "w",
+    "label": "Una Stanza Fumosa",
+    "description": "Mi serve una conoscenza comune che mi presenti a Denzil – qualcuno dello stesso mestiere, o qualcuno che sappia far leva sulla sua passione segreta per la torta allo zafferano."
+   }
+  },
+  {
+   "id": "village.killes.closed",
+   "label": "Mrs e Mr Kille [Bloccato]",
+   "desc": "Mrs Kille la levatrice è alta e cupa. Mr Kille il becchino è minuto e ironico. In questi tempi turbolenti, entrambi diffidano degli sconosciuti. [Hai bisogno di una Presentazione adeguatamente marcata; controlla lo slot.]",
+   "slot": {
+    "id": "w",
+    "label": "Il Salotto Buono",
+    "description": "Mi serve una conoscenza comune che mi presenti ai Kille – qualcuno di riguardo, o qualcuno che ne condivida gli interessi."
+   }
+  },
+  {
+   "id": "village.sweetbones.closed",
+   "label": "Lo «Sweet Bones» [Bloccato]",
+   "desc": "Dopo la Restaurazione del 1930, gli agenti del Nuovo Re vennero a cercare i suoi nemici in questi luoghi... e non furono gentili nel farlo. Da quei giorni, gli abitanti sono sospettosi verso gli stranieri. Nessuno nei Sweet Bones parlerà con me.",
+   "slot": {
+    "id": "w",
+    "label": "Un Mare di Volti Ostili",
+    "description": "Diplomazia? O corruzione?"
+   }
+  },
+  {
+   "id": "village.postoffice.closed",
+   "label": "L’Ufficio Postale [Bloccato]",
+   "desc": "La Direttrice delle Poste potrebbe avere qualcosa per me – una volta che saprò cosa chiedere.",
+   "slot": {
+    "id": "w",
+    "label": "Bancone dell’Ufficio Postale",
+    "description": "Un luogo di potere, un luogo di sapere, sotto la mano protettrice di Sua Maestà il Re."
+   }
+  },
+  {
+   "id": "village.rectory.open",
+   "label": "La Canonica",
+   "desc": "Le parole del Reverendo Timothy sempre corrono davanti a lui, ma i suoi pensieri sempre lo raggiungono alla fine.",
+   "slot": {
+    "id": "w",
+    "label": "Lo Studio",
+    "description": "Questioni di fede?"
+   }
+  },
+  {
+   "id": "village.smithy.open",
+   "label": "La Fucina",
+   "desc": "Denzil Smith, forte come la quercia, annerito dal fumo. Non supererà mai suo padre, e non è più un soldato. Ma ha ancora il suo mestiere.",
+   "slot": {
+    "id": "w",
+    "label": "Una Stanza Fumosa",
+    "description": "Questioni pratiche?"
+   }
+  },
+  {
+   "id": "village.killes.open",
+   "label": "Mrs e Mr Kille",
+   "desc": "Mrs Kille l’ostetrica è alta e cupa. Mr Kille il becchino è minuto e ironico. Da dieci anni lei porta al mondo gli abitanti del villaggio e lui foggia culle per la loro partenza. Ma lei sa anche intagliare, e lui sa anche dipingere.",
+   "slot": {
+    "id": "w",
+    "label": "Il Salotto Buono",
+    "description": "Questioni di vita e di morte?"
+   }
+  },
+  {
+   "id": "village.sweetbones.open",
+   "label": "Il «Sweet Bones»",
+   "desc": "Il «Sweet Bones» è l’osteria di Brancrug dai tempi di Cromwell. La sua storia è notevole; la sua birra no. I clienti che cercano un’occupazione discreta, o un’assistenza discreta, si radunano nel salottino riservato.",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Io"
+    },
+    {
+     "id": "money",
+     "label": "Mio"
+    }
+   ]
+  },
+  {
+   "id": "village.postoffice.open",
+   "label": "Ufficio Postale",
+   "desc": "La Direttrice delle Poste custodisce il cancello verso il mondo più ampio. Nella sua mano sinistra è il fulmine (cioè il telegrafo) e nella sua destra il tuono (cioè l’unico telefono di Brancrug). Davanti a lei si trova la cassa, che accetta la moneta più grande e restituisce i suoi figli minori.",
+   "slots": [
+    {
+     "id": "l",
+     "label": "Offerta",
+     "description": "Che cosa hai portato alla Direttrice delle Poste?"
+    }
+   ]
+  },
+  {
+   "id": "village.rectory.open.friend",
+   "label": "La Canonica",
+   "desc": "Le parole del Reverendo Timothy sempre corrono davanti a lui, ma i suoi pensieri sempre lo raggiungono.",
+   "slot": {
+    "id": "w",
+    "label": "Lo Studio",
+    "description": "Il Reverendo Timothy è sempre lieto di vederti."
+   }
+  },
+  {
+   "id": "village.smithy.open.friend",
+   "label": "La Fucina",
+   "desc": "Denzil Smith, forte come la quercia, annerito dal fumo. Non supererà mai suo padre, e non è più un soldato. Ma ha ancora il suo mestiere.",
+   "slot": {
+    "id": "w",
+    "label": "Una Stanza Fumosa",
+    "description": "Denzil non sorride quando ti fa entrare, ma solo perché è Denzil."
+   }
+  },
+  {
+   "id": "village.killes.open.friend",
+   "label": "Mrs e Mr Kille",
+   "desc": "Mrs Kille l’ostetrica è alta e cupa. Mr Kille il becchino è minuto e ironico. Da dieci anni lei porta al mondo gli abitanti del villaggio e lui foggia culle per la loro partenza. Ma lei sa anche intagliare, e lui sa anche dipingere.",
+   "slot": {
+    "id": "w",
+    "label": "Il Salotto Buono",
+    "description": "I Kille mettono l’acqua sul fuoco quando ti vedono arrivare lungo la strada."
+   }
+  }
+ ]
+}

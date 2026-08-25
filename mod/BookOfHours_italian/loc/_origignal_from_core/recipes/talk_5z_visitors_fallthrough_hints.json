@@ -1,0 +1,21 @@
+{"recipes": [
+ 
+
+
+
+{
+  "id":"talk.incident.irrelevant",
+  "label": "...?",
+  "actionid":"talk",
+  "reqs":{"incident":1,"visitor":1},
+  "startdescription": "[This visitor isn't interested in that. Find a visitor with matching interests.]",
+  "hintonly":true
+}
+
+
+
+
+
+
+]
+}

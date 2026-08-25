@@ -1,0 +1,102 @@
+{
+ "recipes": [
+  {
+   "id": "_salon.pref.bev.block"
+  },
+  {
+   "id": "salon.pref.bev.block.agdistis",
+   "label": "Bevande Preferite di Agdistis",
+   "startdescription": "Agdistis parteciperà soltanto se sarà presente almeno una bevanda <sprite name=heart>."
+  },
+  {
+   "id": "salon.pref.bev.block.aladim",
+   "label": "Bevande Preferite di al-Adim",
+   "startdescription": "al-Adim parteciperà soltanto se sarà presente almeno una bevanda non Inebriante."
+  },
+  {
+   "id": "salon.pref.bev.block.arthur",
+   "label": "Bevande Preferite di Arthur Moore",
+   "startdescription": "Arthur Moore parteciperà soltanto se sarà presente almeno una bevanda <sprite name=lantern>."
+  },
+  {
+   "id": "salon.pref.bev.block.arun",
+   "label": "Bevande Preferite di Peel",
+   "startdescription": "Peel parteciperà soltanto se sarà presente almeno una bevanda <sprite name=moon>."
+  },
+  {
+   "id": "salon.pref.bev.block.azita",
+   "label": "Bevande Preferite di Azita",
+   "startdescription": "Azita parteciperà soltanto se sarà presente almeno una bevanda <sprite name=edge>."
+  },
+  {
+   "id": "salon.pref.bev.block.chaima",
+   "label": "Bevande Preferite di Chaima",
+   "startdescription": "Chaima parteciperà soltanto se sarà presente almeno una bevanda <sprite name=edge>."
+  },
+  {
+   "id": "salon.pref.bev.block.connie",
+   "label": "Bevande Preferite di Connie",
+   "startdescription": "Connie parteciperà soltanto se sarà presente almeno una bevanda <sprite name=sky>."
+  },
+  {
+   "id": "salon.pref.bev.block.coquille",
+   "label": "Bevande Preferite di Coquille",
+   "startdescription": "Coquille parteciperà soltanto se sarà presente almeno una bevanda <sprite name=grail>."
+  },
+  {
+   "id": "salon.pref.bev.block.corso",
+   "label": "Bevande Preferite di Corso",
+   "startdescription": "Corso parteciperà soltanto se sarà presente almeno una bevanda <sprite name=grail>."
+  },
+  {
+   "id": "salon.pref.bev.block.dagmar",
+   "label": "Bevande Preferite di Daymare",
+   "startdescription": "Daymare parteciperà soltanto se sarà presente almeno una bevanda <sprite name=knock>."
+  },
+  {
+   "id": "salon.pref.bev.block.douglas",
+   "label": "Bevande Preferite di Douglas Moore",
+   "startdescription": "Douglas Moore parteciperà soltanto se sarà presente almeno una bevanda <sprite name=lantern>."
+  },
+  {
+   "id": "salon.pref.bev.block.ehsan",
+   "label": "Bevande Preferite di Ehsan",
+   "startdescription": "Ehsan parteciperà soltanto se sarà presente almeno una bevanda <sprite name=sky>."
+  },
+  {
+   "id": "salon.pref.bev.block.fraser",
+   "label": "Bevande Preferite di Strathcoyne",
+   "startdescription": "Strathcoyne parteciperà soltanto se sarà presente almeno una bevanda <sprite name=scale>."
+  },
+  {
+   "id": "salon.pref.bev.block.hokobald",
+   "label": "Bevande Preferite di Hokobald",
+   "startdescription": "Hokobald parteciperà soltanto se sarà presente almeno una bevanda <sprite name=forge>."
+  },
+  {
+   "id": "salon.pref.bev.block.morgen",
+   "label": "Bevande Preferite di Morgen",
+   "startdescription": "Morgen parteciperà soltanto se sarà presente almeno una bevanda <sprite name=sky>."
+  },
+  {
+   "id": "salon.pref.bev.block.olympe",
+   "label": "Bevande Preferite di Olympe",
+   "startdescription": "Olympe parteciperà soltanto se sarà presente almeno una bevanda <sprite name=forge>."
+  },
+  {
+   "id": "salon.pref.bev.block.serena",
+   "label": "Bevande Preferite di Serena",
+   "startdescription": "Serena parteciperà soltanto se sarà presente almeno una bevanda <sprite name=forge>."
+  },
+  {
+   "id": "salon.pref.bev.block.stanislav",
+   "label": "Bevande Preferite di Padre Stanislav",
+   "startdescription": "Padre Stanislav parteciperà soltanto se sarà presente almeno una bevanda <sprite name=heart>."
+  },
+  {
+   "id": "salon.pref.bev.block.zachary",
+   "label": "Bevande Preferite di Zachary",
+   "startdescription": "Zachary parteciperà soltanto se sarà presente almeno una bevanda <sprite name=winter>."
+  }
+ ]
+}

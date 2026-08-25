@@ -1,0 +1,1762 @@
+[
+ {
+  "en": "_book",
+  "dove": "elements/_book.label",
+  "ricorre": 1
+ },
+ {
+  "en": "_book.unc",
+  "dove": "elements/_book.unc.label",
+  "ricorre": 1
+ },
+ {
+  "en": "ÁÚÍ áúí ìòù ÈÌÒÙ ªº",
+  "dove": "elements/bonus_latin_for_extractor_run.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "e.g. convincing a visitor it's not worth their time. We can use it both for marking them for embarkation, and for dissatisfaction comments",
+  "dove": "elements/dissatisfying.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Currently, this just removes the entire coin. With some extra behaviour, it should give change.",
+  "dove": "elements/payment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Penny",
+  "dove": "elements/penny.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Acquiring an Occult Scrap",
+  "dove": "elements/precursor.occult.scrap.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Realising an Old Moment",
+  "dove": "elements/precursor.old.moment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Recalling an Old Wound",
+  "dove": "elements/precursor.old.wound.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone has tucked a sad little treasure beneath the seat cushion…",
+  "dove": "elements/precursor.pale.mommet.fromchair.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "What's this down the back of the cushions? A small and unexpected treasure.",
+  "dove": "elements/precursor.spintria.bronze.fromsofa.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "A tiny treasure dropped carelessly into the tin!",
+  "dove": "elements/precursor.spintria.iron.fromspanners.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Acquiring a Wind-in-Waiting",
+  "dove": "elements/precursor.windinwaiting.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who returned loyalty for loyalty and curse for curse'",
+  "dove": "elements/pspherespec.b1.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "1st Baron Brancrug",
+  "dove": "elements/pspherespec.b1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who saw what had not yet passed'",
+  "dove": "elements/pspherespec.b2.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "2nd Baron Brancrug",
+  "dove": "elements/pspherespec.b2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who commanded the raising of this stair'",
+  "dove": "elements/pspherespec.b3.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "3rd Baron Brancrug",
+  "dove": "elements/pspherespec.b3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who was mocked more than he merited'",
+  "dove": "elements/pspherespec.b4.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "4th Baron Brancrug",
+  "dove": "elements/pspherespec.b4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who was feared more than he merited'",
+  "dove": "elements/pspherespec.b5.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "5th Baron Brancrug",
+  "dove": "elements/pspherespec.b5.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who knew cages'",
+  "dove": "elements/pspherespec.b6.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "6th Baron Brancrug",
+  "dove": "elements/pspherespec.b6.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Not to be crossed, and not to be found'",
+  "dove": "elements/pspherespec.b7.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "7th Baroness Brancrug",
+  "dove": "elements/pspherespec.b7.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[Keep things here until you tidy them away.]",
+  "dove": "elements/pspherespec.belongings.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Belongings",
+  "dove": "elements/pspherespec.belongings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "If it goes on the floor, we call it a 'comfort', whether or not it's comfortable.",
+  "dove": "elements/pspherespec.comfort.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "COMFORT",
+  "dove": "elements/pspherespec.comfort.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who often purified, but was not often pure'",
+  "dove": "elements/pspherespec.l1.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "First Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who departed, but did not forget'",
+  "dove": "elements/pspherespec.l10.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tenth Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l10.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who returned to complete what he began.'",
+  "dove": "elements/pspherespec.l11.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Eleventh Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l11.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This, of course, would be me. I could use whatever I want as my image.",
+  "dove": "elements/pspherespec.l12.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twelfth Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l12.label",
+  "ricorre": 1
+ },
+ {
+  "en": "If I have a successor, their image might stand here.",
+  "dove": "elements/pspherespec.l13.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Thirteenth Librarian of the Curia of the Isle?",
+  "dove": "elements/pspherespec.l13.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who was born of three nations, and of none'",
+  "dove": "elements/pspherespec.l2.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Second Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Whereof we cannot speak, thereof we must remain silent'",
+  "dove": "elements/pspherespec.l3.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Third Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who died not but passed within'",
+  "dove": "elements/pspherespec.l4.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fourth Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who was denied victory, though never defeated'",
+  "dove": "elements/pspherespec.l5.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fifth Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l5.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who brought a key long lost'",
+  "dove": "elements/pspherespec.l6.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sixth Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l6.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who dwells still in the three-flowered tree'",
+  "dove": "elements/pspherespec.l7.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Seventh Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l7.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who served two masters as best he could'",
+  "dove": "elements/pspherespec.l8.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Eighth Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l8.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A niche with a plaque: 'Who saw his fate, and did not shirk it'",
+  "dove": "elements/pspherespec.l9.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ninth Librarian of the Curia of the Isle",
+  "dove": "elements/pspherespec.l9.label",
+  "ricorre": 1
+ },
+ {
+  "en": "ABANDONED AT THE WATER'S EDGE",
+  "dove": "elements/pspherespec.outsidepile.beach.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[If you don't have anywhere to put a physical object, it might end up here.]",
+  "dove": "elements/pspherespec.outsidepile.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "ABANDONED AT THE THRESHOLD",
+  "dove": "elements/pspherespec.outsidepile.label",
+  "ricorre": 1
+ },
+ {
+  "en": "If it doesn't live on the wall or on the floor, it's probably a thing.",
+  "dove": "elements/pspherespec.things.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "THINGS",
+  "dove": "elements/pspherespec.things.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paintings, tapestries, trophies.",
+  "dove": "elements/pspherespec.wall art.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "WALLART",
+  "dove": "elements/pspherespec.wall art.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Toffee Pudding",
+  "dove": "elements/pudding.toffee.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This could use different levels to indicate the amount paid.",
+  "dove": "elements/receipt.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Residue",
+  "dove": "elements/residue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This held something.",
+  "dove": "elements/rind.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rind",
+  "dove": "elements/rind.label",
+  "ricorre": 1
+ },
+ {
+  "en": "For many years, under many names, Rowena has done, learnt, or eaten many things she really shouldn't have. But for many years, under many names, she's served as the protectress of Hush House.",
+  "dove": "elements/rowena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "e.g. helping out a visitor. We can use it both for marking them for embarkation, and for satisfaction comments",
+  "dove": "elements/satisfying.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "To make sure we don't accidentally also satisfy a visitor we're retiring",
+  "dove": "elements/satisfying.echidna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What's tangled in these teeth?",
+  "dove": "elements/saw.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "This was something more.",
+  "dove": "elements/scraps.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Scraps",
+  "dove": "elements/scraps.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Umbelled spiny flowers, the steel-blue of a winter afternoon.",
+  "dove": "elements/sea.holly.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Traditionally, this was the flower of Hush House. Sometimes you find it along the dunes and cliff-tops hereabouts.",
+  "dove": "elements/sea.holly.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "What's lost.",
+  "dove": "elements/seaglass.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Freeze-dry a season while we go Numa",
+  "dove": "elements/season.pausing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One-time Librarian of Hush House, one-time Librarian of the Invisible Serapeum in Alexandria, and currently... what, exactly? Serena is close-mouthed, but I know that she has worked with the St Rhonwen Trust.",
+  "dove": "elements/serena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Swirls and curlicues in solemn hues. Until recently, one could exchange bank notes for gold in the banks of the capital. A seven-pound note can still be exchanged for rarer metals in rarer places.",
+  "dove": "elements/sevenpoundnote.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twelve pence or, if you prefer, one-twentieth of a pound.",
+  "dove": "elements/shilling.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Shilling",
+  "dove": "elements/shilling.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Too bad it won't last. But then again, what does?",
+  "dove": "elements/sign.salt.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The silver coin of least value - but silver, nonetheless.",
+  "dove": "elements/sixpence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sixpence",
+  "dove": "elements/sixpence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "We all of us come to this condition in the end, but not all of us are fortunate enough to be lovingly buffed and fixed carefully to a stylish wooden stand.",
+  "dove": "elements/skull.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Upholstered in a velvet of peculiar richness that invites the hand.",
+  "dove": "elements/sofa.grail.a.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Tin Spintria",
+  "dove": "elements/spintria.tin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tavish",
+  "dove": "elements/stag.tavish.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Treasury of Shelters",
+  "dove": "elements/stand.umbrella.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Priest, diplomat, gardener: a soft-voiced man with a very steady gaze.",
+  "dove": "elements/stanislav.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Was Ambrose Westcott really asked to provide a 'watcher of the skies?'",
+  "dove": "elements/statuette.pigeon.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Unexciting, but also unobjectionable.",
+  "dove": "elements/stew.vegetables.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Vegetable Stew",
+  "dove": "elements/stew.vegetables.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Violet Stool",
+  "dove": "elements/stool.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What hath weth wrought. Th.",
+  "dove": "elements/sugar.creamed.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Tanglebrag",
+  "dove": "elements/tanglebrag.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Half a pound; but not half a note. A recent innovation.",
+  "dove": "elements/tenshillingnote.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Or 'thruppence', or a 'thruppenny bit'. Like twopence, but more so.",
+  "dove": "elements/threepence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Threepence",
+  "dove": "elements/threepence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "If you think you've hit a dead end, try something else. There's always a way forward, although it may take you in a different direction than you had planned...",
+  "dove": "elements/tip.calm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hit BACKSPACE to cycle between workstations with finished recipes.",
+  "dove": "elements/tip.completedworkstations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Go to Completed Workstation",
+  "dove": "elements/tip.completedworkstations.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Push R1 to cycle between workstations with finished recipes.",
+  "dove": "elements/tip.completedworkstations.steamdeck.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Before the Curia, before the Dewulfs, before the Church of the Unconquered Sun, the sisters of the Knot kept their secrets in the caves of the Isle.",
+  "dove": "elements/tip.foundation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If you used up your starting ink, don't worry. There are lots of inkpots in the House, and you can learn to brew your own ink.",
+  "dove": "elements/tip.ink.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian has left the world behind. This has its advantages, but also its price.",
+  "dove": "elements/tip.isolation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Good, the Bad, the Ugly",
+  "dove": "elements/tip.isolation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "You can't destroy it by accident, but if you put it on the wrong shelf, you might be vexed. This is an accurate simulation.",
+  "dove": "elements/tip.journal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Put Your Journal Somewhere Safe",
+  "dove": "elements/tip.journal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "When upgrading a Skill, you can use a Lesson from <i>any</i> skill if it matches at least one Aspect... and you only need one Lesson. The rest can be any matching Memory.",
+  "dove": "elements/tip.lessons.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Memories and Lessons",
+  "dove": "elements/tip.lessons.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Left-click to interact with objects and rooms; right-click or use cursor keys to move your view around (you can change keys in Settings).",
+  "dove": "elements/tip.navigate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Navigating the House",
+  "dove": "elements/tip.navigate.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Left stick and left trackpad move the cursor; button A or trackpad tap to interact with objects and rooms. Right stick moves your view around (you can also use the touchscreen).",
+  "dove": "elements/tip.navigate.steamdeck.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Everything. Read <i>everything</i>.",
+  "dove": "elements/tip.read.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "READ EVERYTHING",
+  "dove": "elements/tip.read.label",
+  "ricorre": 1
+ },
+ {
+  "en": "House furnishings are sometimes unique. Resources are not. If you destroy a resource, you can always get a replacement eventually.",
+  "dove": "elements/tip.replacements.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Much is taken, much abides",
+  "dove": "elements/tip.replacements.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>BOOK OF HOURS</i> is a gentler game than <i>Cultist Simulator</i> - you can save and load at will.",
+  "dove": "elements/tip.save.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Save your game if you're worried about what might happen next",
+  "dove": "elements/tip.save.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Weary wrist? Shift-click sends to the nearest workstation; ctrl-click to the nearest verb; you can change these keyboard shortcuts in Settings.",
+  "dove": "elements/tip.send.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Send to Slot",
+  "dove": "elements/tip.send.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Weary wrist? R2 + tap sends to the nearest workstation; L2 + tap to the nearest verb; you can change these controls in Settings.",
+  "dove": "elements/tip.send.steamdeck.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Click a slot to highlight everything that can go over it; mouse over an Aspect to highlight everything with that Aspect.",
+  "dove": "elements/tip.slot.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What is Most Fitting?",
+  "dove": "elements/tip.slot.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Tap on a slot to highlight everything that can go over it; tap on an Aspect to highlight everything with that Aspect.",
+  "dove": "elements/tip.slot.steamdeck.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Space pauses; numpad + and - change speed up and down; you can change these keyboard shortcuts in Settings.",
+  "dove": "elements/tip.speed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "D-Pad down pauses; right and left modify the game's speed; you can change these controls in Settings.",
+  "dove": "elements/tip.speed.steamdeck.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Thirza Blake, Seventh Librarian, spent all the House's money on her projects before her disappearance... and that's when Nocturnal Branch stepped in.",
+  "dove": "elements/tip.thirza.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Curia's End",
+  "dove": "elements/tip.thirza.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The seasons will pass; don't worry. There's no need to hurry... except in Numa.",
+  "dove": "elements/tip.time.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hush House is one of the nine great libraries of the Watchman's Tree - the select few places where the Hours sanction the preservation of forbidden knowledge.",
+  "dove": "elements/tip.tree.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Watchman's Tree",
+  "dove": "elements/tip.tree.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Commit Skills to the Tree to get more Soul cards... and also to develop your understanding of the world and the Histories.",
+  "dove": "elements/tip.wisdoms1.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Tree of Wisdoms",
+  "dove": "elements/tip.wisdoms1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The icons at the top of the Workstation window suggest relevant Powers to use in recipes at that workstation.",
+  "dove": "elements/tip.workstationhints.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "If you're new to BOOK OF HOURS... you might not realise just how far you can zoom in with the scroll wheel.",
+  "dove": "elements/tip.zoom.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Up Close",
+  "dove": "elements/tip.zoom.label",
+  "ricorre": 2
+ },
+ {
+  "en": "If you're new to BOOK OF HOURS... you might not realise just how far you can zoom in with the touchscreen.",
+  "dove": "elements/tip.zoom.steamdeck.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "PC",
+  "dove": "elements/tip_platform.pc.label",
+  "ricorre": 1
+ },
+ {
+  "en": "SteamDeck",
+  "dove": "elements/tip_platform.steamdeck.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Note",
+  "dove": "elements/tlg.note.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Triply crunchy.",
+  "dove": "elements/toastie.pilchards.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Torgue's Cleansing",
+  "dove": "elements/torgues.cleansing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Trumpeter's Lily",
+  "dove": "elements/trumpeters.lily.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Traditionally, the flower of the western Library named Crossrow, where the Watchman, the Vagabond, and Sunset Celia are all celebrated.",
+  "dove": "elements/trumpeters.lily.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Turpentine",
+  "dove": "elements/turpentine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Well, my hands are clean…",
+  "dove": "elements/turpentine.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Or, if you prefer, 'tuppence'. A sort of Janus of pennies.",
+  "dove": "elements/twopence.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twopence",
+  "dove": "elements/twopence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Typewriter",
+  "dove": "elements/typewriter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncatalogued Pile of Books (Baronial)",
+  "dove": "elements/uncatpile.baronial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncatalogued Pile of Books (Curia)",
+  "dove": "elements/uncatpile.curia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncatalogued Pile of Books (Dawn)",
+  "dove": "elements/uncatpile.dawn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncatalogued Pile of Books",
+  "dove": "elements/uncatpile.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncatalogued Pile of Books (Nocturnal)",
+  "dove": "elements/uncatpile.nocturnal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncatalogued Pile of Books (Solar)",
+  "dove": "elements/uncatpile.solar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Used when opening a delivery to provoke spawns",
+  "dove": "elements/unwrapping.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "uqcat",
+  "dove": "elements/uqcat.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqchaq",
+  "dove": "elements/uqchaq.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqdog",
+  "dove": "elements/uqdog.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqnumen",
+  "dove": "elements/uqnumen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqterrence",
+  "dove": "elements/uqterrence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "uqtuppence",
+  "dove": "elements/uqtuppence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Urn of Ashes",
+  "dove": "elements/urn.ashes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Uzult",
+  "dove": "elements/uzult.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[v. mutations can be acquired in two ways: (1) visitor is magneted to House because they fit interests and/or (2) visitor successfully interacts with incident. This allows players to use WC to accelerate interaction]",
+  "dove": "elements/v.comment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A passing atmosphere.",
+  "dove": "elements/vapours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Vapours",
+  "dove": "elements/vapours.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vase of Amaryllis",
+  "dove": "elements/vase.amaryllis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vase of Golden Bulrushes",
+  "dove": "elements/vase.bulrushes.golden.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vase of Carnations",
+  "dove": "elements/vase.carnations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vase of Gorse",
+  "dove": "elements/vase.gorse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vase of Lilies",
+  "dove": "elements/vase.lilies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vase of Roses",
+  "dove": "elements/vase.roses.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Vase of Rushes",
+  "dove": "elements/vase.rushes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ware fingers…",
+  "dove": "elements/viper.hungry.xexts.scrutiny",
+  "ricorre": 3
+ },
+ {
+  "en": "Watering Can",
+  "dove": "elements/wateringcan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "wcma",
+  "dove": "elements/wc.markeraspect.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Torgue's Foil",
+  "dove": "elements/weapon.foil.torgue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Torgue was one-half of the Edge dyad that Natalia Brulleau hoped to lure to Hush House - to learn from them or to imprison them?",
+  "dove": "elements/weapon.foil.torgue.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Treasured items left behind by the occupants of the cell during their inglorious career on the high seas. Procured by Governor Collers as a gift for the occupants of the cell, in the hope it would induce better behaviour.",
+  "dove": "elements/weapons.td.bokken.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Very old iron cudgels, recently and heavily padded.",
+  "dove": "elements/weapons.td.cudgels.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Wasters: Darling-Dear and Father Turk",
+  "dove": "elements/weapons.td.wasters.label",
+  "ricorre": 1
+ },
+ {
+  "en": "In this country the sky is rarely clear. The Sun goes courteously cloaked.",
+  "dove": "elements/weather.clouds.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Clouds",
+  "dove": "elements/weather.clouds.label",
+  "ricorre": 2
+ },
+ {
+  "en": "The gentlest of earth tremors. Just to remind us that the earth is not dead but sleeping.",
+  "dove": "elements/weather.earthquake.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Earthquake",
+  "dove": "elements/weather.earthquake.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Coastal fog - moon-mared, sea-dulling.",
+  "dove": "elements/weather.fog.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fog",
+  "dove": "elements/weather.fog.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Trees bend, walls creak, travellers bend low against the blast.",
+  "dove": "elements/weather.gale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Gale",
+  "dove": "elements/weather.gale.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ice raps on the roofs and tree-tops.",
+  "dove": "elements/weather.hail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hail",
+  "dove": "elements/weather.hail.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Soft rain brings life.",
+  "dove": "elements/weather.rain.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rain",
+  "dove": "elements/weather.rain.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The world is pale today. 'The White is west of the world, and winter does not wait forever', Solomon Husher once said.",
+  "dove": "elements/weather.snow.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Snow",
+  "dove": "elements/weather.snow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Thunder-roaring, lightning-lashed skies.",
+  "dove": "elements/weather.storm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Storm",
+  "dove": "elements/weather.storm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sun is not what it was, but today he is smiling.",
+  "dove": "elements/weather.sunny.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sunny",
+  "dove": "elements/weather.sunny.label",
+  "ricorre": 2
+ },
+ {
+  "en": "WHAT IS WITHIN, WITHOUT; WHAT IS WITHOUT, WITHIN",
+  "dove": "elements/window.meniscate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "WHEN IT ENDS, IT WILL BE A BEAUTIFUL ENDING",
+  "dove": "elements/window.suninrags.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Those who've studied the Hours of the Edge often say the world is a war - the Corrivality. Every event that might happen differently is a battle in that war, a contention between alternate outcomes. The Wisdoms can sometimes show those battles might be won.",
+  "dove": "elements/winning.move.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Turns an order form back into a delivery",
+  "dove": "elements/wrapping.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Warmly Coloured Yarns",
+  "dove": "elements/yarns.warm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Playwright, philologist, psychoanalyst: as happy with questions as with answers.",
+  "dove": "elements/yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Marksman, detective, renegade. He has always been a quiet man, but since he left the Suppression Bureau, he has grown even quieter, and terribly still - except for his fingers and for his eyes, always in restless motion.",
+  "dove": "elements/zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History - my last and greatest work - the arts of Ys will spark war behind the world. The Second Dawn will burn bright - the Hours, brighter.</i>\n\nSTRIKE THE HOURS. History blazes bright. Eternity retreats. The sky will shake, the earth will break, and what treasures will that reveal?\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.edge.bell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The arts of Ys will spark war behind the world. The Second Dawn will burn bright - the Hours, brighter - until even their servants who hunt me are humbled or consumed. And I will be safe at last.</i>\n\nSTRIKE THE HOURS. In the bright shadows of heaven's war, I'm safe as a butterfly at a cyclone's heart. And when earth and sky break open, what treasures will we find within?\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.edge.bell.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The arts of Ys will spark war behind the world. The Second Dawn will burn bright - the Hours, brighter - until even the Calyptra is humbled.</i>\n\nSpeech was the weapon that won our first war. This Bell is the weapon that will win our last. The night-storms come and go with their violent colours and their violent rains. When all the skies are empty and all the Hours are spent, Eternity's tyranny will fall.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.edge.bell.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This is a History where the savour-arts of the Cross will provoke the Hours to war. Was that always the Cross's plan? Who knows? Does it matter? Who'll remember anything but the splendour of the feast?</i>\n\nI wish I could see it up close - the rents, the daubs, the fires. But it's enough that it's projected on the sky. A free entertainment! The Devouring War! For all to enjoy!\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.edge.feas.artist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Artist Victory: An Art of War",
+  "dove": "endings/end.h.edge.feas.artist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work; and in it, the savour-arts of the Carapace Cross will stir the Hours to greed and war. It will be the victor who brings the Second Dawn.</i>\n\nThis has been the longest night. Even the stars have deserted us. The air grows stale and chill. But the ground trembles beneath us, and so I know the war goes on, and the Dawn is coming soon.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.edge.feas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>It should not be possible to birth new Hours from Glory in the world. But there's always a way. And if I am destroyed in the birth of those new Hours… that is the final expiation.</i>\n\nThe New King's foundries and glassworks roar with light. It's autumn, but already the nights are in retreat. Across the kingdom they're setting up altars of glass and steel. Dawn will kindle in the altar-depths, and I'll open my arms to its colours. My shadow will leave me; and then at last I'll know which <i>me</i> I am.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.alte.archaeologist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>New Hours! It's a risk. It's almost a cheat. But it'll be all the colours and more.</i>\n\nThe New King's foundries and glassworks roar with light. I begged a visit. I wasn’t disappointed. I can see the colours of Eternity in those fires. Those colours will kindle a hundred windows. Dawn will come. All I have to do is make <i>absolutely certain</i> that my part in it is known.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.alte.artist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work, and in it, new Hours will come to be. The means are imperfect - even, perhaps, regrettable - but we can hope the new Hours will be neither of those things.</i>\n\nThe New King's foundries and glassworks roar with light. It's autumn, but already the nights are in retreat. Every evening the streets are filled with patriots and sceptics alike, jostling, joking, marvelling. Dawn is coming. A new Age. It might even be better than the last one.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.alte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, new Hours will arise to illuminate the Paths of the Sun… and the Mansus-ways will resolve to perfect clarity.</i>\n\nThe Mansus-paths pulse with light. Every mirror is an eye. The world awakens… but all this is nothing to me. The Mansus is illuminated. My Map is complete, perfect in every detail, and it charts the road to Dawn.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.asce.cartographer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work, and in it, new Hours will arise in the Paths of the Sun.</i>\n\nThe New King's foundries and glassworks roar with light. I haven't been near, but even at this distance their light stains the sky. The Paths of the Sun open both ways… and down those Paths, Glory will flow like mercury, to blossom in its hundred altars. Dawn is coming.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.asce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, new Hours will arise in the Paths of the Sun… and I will have my 'third choice'.</i>\n\nThe New King's foundries and glassworks roar with light. I haven't been near, but even at this distance their light stains the sky. The Paths of the Sun open both ways… and down those Paths, Glory will flow like mercury, to take possession of its altars. The new order of the Mansus will permit no devouring of errant Long or anyone else. It seems almost quaint that I used to worry about <i>that</i> sort of thing.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.asce.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Ys-metals will roil with light. New Hours will arise. This History is my last and greatest work.</i>\n\nThe New King's foundries and workshops quiver with life. The songs of the foundry-Names ring out across the sky. When Dawn comes, the King has promised there will be no war in Europe. The foundries concur... but also they promise a victory. In this new Age, perhaps this will no longer be a paradox.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.bell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Ys-metals will roil with light. New Hours will arise. I will have my weapon.</i>\n\nThe New King's foundries and workshops quiver with life. The songs of the foundry-Names ring out across the sky. When Dawn comes, the King has promised there will be no war in Europe. The foundries concur... but also they promise a victory. I'll leave others to resolve that paradox. My weapon chimes softly in my hand. Let my pursuers come.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.forge.bell.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Who was I? I'll never be entirely sure, but I know what I will be: first at the feast when the Gods-from-Stone are finally consumed.</i>\n\nCats weave at my shoulders, rats wreathe my wrists. The table bands the world and the Hours sit at its head. I crouch beneath like the scavenger I am, but the bloody gods favour me - I feast on furry shadows - I am first at the feast.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.grail.alte.archaeologist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Archaeologist Victory: First at the Table",
+  "dove": "endings/end.h.grail.alte.archaeologist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>What we can do, we must do! And what we must do will warm and brighten Eternity's halls… with the last traces of the Gods-from-Stone.</i>\n\nFrom stone, we will squeeze ripe-bursting diamonds! From bone, we will melt the drippingest light! From darkness, the most furious colours! A mountain of lights, a mountain of gifts, a feast to warm the world's last age!\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.grail.alte.artist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work, and I have recorded that with the application of this terrible Numen, the last traces of the Gods-from-Stone will be consumed.</i>\n\nIt is the Hours that feast and the Names that wait upon them. No mortal is invited; few mortals will ever know. But the gobbets and tidbits of what was fall through the cracks into dream… and all our dreams are warm and fruitful. A ripe autumn for the world. A mellow sky, a sweet and smoky mist…\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.grail.alte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. The greedier Hours will take advantage of the Sun's weakness. They will devour the last of the Gods-from-Stone, and the old world will feed the new.</i>\n\nIt is the Hours that feast (all but the Sun, all but the gods-from-Light) and the Names that wait upon them. No mortal is invited; few mortals will ever know. But the gobbets and tidbits of what was fall through the cracks into dream… and all our dreams are warm and fruitful. A ripe autumn for the world. A mellow sky, a sweet and smoky mist…\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.grail.desc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>What's done is done. I had thought to make amends for what I had destroyed, but now I choose otherwise. I will erase the last traces of what remained. They will be safe from Eternity. I will not. This is my punishment and my penance.</i>\n\nWe are they who dream no dreams - singers of arising day…' The poet-consul had it, and now I am Day's consul. The Sun's scars will keep him from the feast, but the Hours will pick clean the bones of Stone. My crimes will be erased... Or consumed.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.grail.desc.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Executioner Victory: The Scar and the Savour",
+  "dove": "endings/end.h.grail.desc.executioner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This is the savour and this is the feast! The Gods-from-Stone will nourish Hours and mortals alike.</i>\n\nEvery feast ends. When it does, some of the Hours will be sorry for what we did. Some will weep. Some will lick their lips and wonder what colours they'd find, each inside the other. This - this! - is my legacy.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.grail.feas.artist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Artist Victory: The Art of the Feast",
+  "dove": "endings/end.h.grail.feas.artist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. Hours and mortals alike will feast on the last traces of the Gods-from-Stone.</i>\n\n'We'll crack our teeth to break their stones. We'll warm our fires to boil their bones. Their shining ribs will arc the sky; until <i>into the fire we fly.</i>'\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.grail.feas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Gift of Stones",
+  "dove": "endings/end.h.grail.feas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work: and in this History, the travelling-Carapace kinds will return from the other side of wave and sky, and hymn the Hours that were lost.</i>\n\nWhen the Carapace-kinds departed, into earth and flesh, wave and sky, they carried the memories of lost Hours. Now, the proper steps have been taken for their return. I know because the sky begins at last to darken with their wings; I know because in my bones, I hear the buzzing of their raptured hymns.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.heart.bala.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The travelling-Carapace kinds will return, from the other side of wave and sky; and when the lost Hours are remembered, my atonement will be complete.</i>\n\nWhen the Carapace-kinds departed, into earth and flesh, wave and sky, they carried the memories of lost Hours. Now, the proper steps have been taken for their return. I know because I hear their thunders; I know because I have begun to long for rain.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.heart.bala.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The travelling-Carapace kinds will return from the other side of wave and sky, the lost Hours will be named and sung: an irresistible defiance in the teeth of the Calyptra!</i>\n\nWhen the Carapace-kinds departed, into earth and flesh, wave and sky, they carried the memories of lost Hours. Now, the proper steps have been taken for their return. I know because I see their fires in the sky; I know because I feel the revolution in my flesh.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.heart.bala.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work.In it, Calyptra's weakness will become manifest; and the Gods-who-were-Stone will be named beneath the sky.</i>\n\nIn the last days of the Gods-from-Stone, the seed of the Watchman's Tree was planted. The Calyptra will preserve the tree, but they cannot uproot a second sapling. I will plant it on the beach beneath the closed horizon; I will water it with salt blood and salted sacrament; and the memory of the Gods-from-Stone will flower on its wounded skin.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.heart.thre.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. Even in the very beginning, from Axe and Shell and Stone, the pattern was clear, and now that pattern will preserve the past against Eternity.</i>\n\nIn another age, Brancrug was the grey rock in the sea, the foothold where the Cross met Flint. Flint is gone; but her facets echoed each a separate Star. Walk by the waves in Brancrug Bay. Look up at the night sky. Watch for Flint.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.heart.worl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The pattern is clear at last. The Gods-from-Stone lent their songs to the Roost; and now those songs will be heard again.</i>\n\nThe Wheel's membrane-pulses; the Flint's facet-cries; the bell-tones of the Ambered Egg. We thought them lost to silence, but neither word nor song is ever entirely lost, except to Eternity. This is the memory that has not died.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.heart.worl.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Sun has made his Paths… and forbidden them to mortals until we are ready. But in this History, the Gods-from-Stone will use those Paths to return - and the Sun's Paths will lie open to us.</i>\n\nThe Wheel in the House of the Moon, the Flint in the memories of the sky, the Seven-Coils in her children… the Sun's Paths, in the Sun's arrogance, touched all these places. Along these paths, the anger of the forgotten gods will flow, like a river, like the pounding of the heart. Along all those paths the Flint will hang her facet-Stars like maps... and in their light, at last, I will map the Mansus.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.asce.cartographer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work, and in it the Sun's Paths will be opened to the nowheres, the elsewheres, the everywheres whence the Gods-from-Stone return.</i>\n\nThe Wheel in the House of the Moon, the Flint in the memories of the sky, the Seven-Coils in her children… the Sun's Paths, in the Sun's arrogance, touched all these places. Along these paths, the anger of the forgotten gods will flow, like a river, like the pounding of the heart.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.asce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Crusade of Stones",
+  "dove": "endings/end.h.knock.asce.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Sun has made his Paths… wisely and unwisely. In this History, others will travel them. The Gods-from-Stone will return for their revenge. In that new order, I'll find my 'third choice'.</i>\n\nThe Wheel in the House of the Moon, the Flint in the memories of the sky, the Seven-Coils in her children… the Sun's Paths, in the Sun's arrogance, touched all these places. Along these paths, the anger of the forgotten gods will flow, like a river, like the pounding of the heart. They will make of the paths a labyrinth of lovely bones... and therein I will dwell, neither in the House nor of it, neither alive nor dead, neither quite in History nor entirely in Eternity.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.asce.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twiceborn Victory: A Road of Bones",
+  "dove": "endings/end.h.knock.asce.twiceborn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, a prison will open to a certain Hour of winter… and to the corruption that walks with me. Let the Gods-from-Stone take their revenge. The world will be safe from my shadow.</i>\n\nThis is the cell the Sun-in-Rags built in the southmost reaches of the world, where the sea grows hard as horn and the sunset pale as mirrors. When the sunset comes, it will be his cell. He always knew he might be snared in glass, and when the earth contorts, he will be free... but when the earth contorts, it will be the coming anger of the Hour we call Flint. On that day, the one who walks with me will seek the safety of the cell. Whoever I am.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.conf.archaeologist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, a prison will open to a certain ancient Hour of might, and the old compacts will be sundered. Let the Gods-from-Stone take their revenge.</i>\n\nThis is the cell the Colonel built in the southmost reaches of the world, where the sea scabs over and the sunset pales to the colour of a fresh bandage. When the sunset comes, it will be his cell. He always knew he might be snared in scars, and when the world's skin is healed, he will be free... but when the world's skin is healed, so too will the Hour named Seven-Coils... and her children's children will hear her screams.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.conf.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Cage of Scars",
+  "dove": "endings/end.h.knock.conf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, a prison will open to a certain Hour of light… and to the Hour's servants who pursue me. Let the Gods-from-Stone take their revenge. My safety is assured.</i>\n\nThis is the cell the Watchman built in the southmost reaches of the world, where the sea grows hard as horn and the sunset pale as snow. When the sunset comes, it will be his cell. He always knew he might be snared in ice, and when the waters rise, he will be free... but when the waters rise, the Egg will crack. No-one who serves the Sun on that day will be looking for me. They'll all be looking for the last place to hide.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.conf.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, the old exceptions will come alive... and the Gods-from-Stone pass through the Loopholes to have their revenge.</i>\n\nThe Chancel resolved that the Wheel is no Hour; that it might turn only in the House of the Moon. But the Meniscate favours the House of the Moon; the Horned-Axe obeys the Sanguine Exception; and the Sister-and-Witch do not divide what should be together. So the Wheel has returned to the waking world, and blood will run beneath its turnings.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.loop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, the old exceptions will come alive... and the Gods-from-Stone pass through the Loopholes to have their revenge. In that new order, I'll find my 'third choice'.</i>\n\nThe Chancel resolved that the Wheel is no Hour; that it might turn only in the House of the Moon. But the Meniscate favours the House of the Moon; the Horned-Axe obeys the Sanguine Exception; and the Sister-and-Witch do not divide what should be together. So the Wheel has returned to the waking world, and blood will run beneath its turnings. Safety will always have a price, for oneself or for others, and this is the price I have decided they will pay.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.knock.loop.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twiceborn Victory: The Consciousness of Blood",
+  "dove": "endings/end.h.knock.loop.twiceborn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, the New King will enter the Paths of the Sun: and the Second Dawn will illuminate the Mansus.</i>\n\nVery soon, the King will begin his royal progress. By day he'll travel the roads of Britain. By night, he'll walk the Paths of the Sun. Herald-Names will cry the Dawn before him, until every vein of the Mansus flushes with light, like a rose with golden ink; and at last I will complete my Map.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.lantern.asce.cartographer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Cartographer Victory: Charting the Dawn",
+  "dove": "endings/end.h.lantern.asce.cartographer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History - my last and greatest work - the New King will enter the Paths of the Sun, and the Second Dawn will return the Sun to Splendour.</i>\n\nVery soon, the King will begin his royal progress. By day he'll travel the roads of Britain. By night, he'll walk the Paths of the Sun. Herald-Names will cry the Dawn before him, until Eternity's light colours every Mansus-stone, like cinnabar, like mercury, like gold.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.lantern.asce.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, the New King will enter the Paths of the Sun: and the Second Dawn will change everything. I will have my 'third choice'.</i>\n\nVery soon, the King will begin his royal progress. By day he'll travel the roads of Britain. By night, he'll walk the Paths of the Sun. Herald-Names will cry the Dawn before him; and I will walk among them, inviolate under the protection of the Dawn-King.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.lantern.asce.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Sun's scars must be healed. The Sun's sins must be cleansed. The New King must bring the Second Dawn.</i>\n\nIt was not an easy matter, the healing of the scars of the Sun. The king took the greatest into his own flesh, and so we see him now only twice each year, at winter and at spring. But we love him so. And we have the Dawn.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.lantern.desc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Perhaps the Sun's scars and the Sun's sins have taught him mercy. Perhaps if the New King brings the Dawn, that dawn will be merciful.</i>\n\nIt was not an easy matter, the healing of the scars of the Sun. The king took the greatest into his own flesh, and so we see him now only twice each year, at winter and at spring. But sometimes pain teaches mercy. The days are bright as the King's coin, but the nights fizz with song. Little jewelled lives, little hungry plants, tide-fruit and coil-spawn, all of it will thrive in the secret night. If any part of this is mine, then I have made amends.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.lantern.desc.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sun's Scars",
+  "dove": "endings/end.h.lantern.desc.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History - my last and greatest work - <i>someone</i> will bring the Second Dawn. Perhaps it'll be the New King; and perhaps it won't.</i>\n\nEach day in the New Kingdom gleams like a gold coin. Is this the Second Dawn? A Brass Age? Eternity's penumbra? We are warm and fed; the King is wise and just; the skies are clear and bright; all's well.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.lantern.secr.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Coin of the Realm",
+  "dove": "endings/end.h.lantern.secr.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Perhaps the New King is the real thing; and perhaps he's not. Either way, <i>someone</i> will bring the Second Dawn. Everything will change; and I'll have my 'third choice'.</i>\n\nThe Mansus has grown bright as brass. Is this the Second Dawn? A Golden Age? History's last throes? Perhaps all those things, perhaps none, but in this New Order, under Light's Law, I am safe, I am warm, I am home.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.lantern.secr.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twiceborn Victory: The Realm of Gold",
+  "dove": "endings/end.h.lantern.secr.twiceborn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work - and in this History, the City will rise in the House of the Moon, the place behind the Mansus.</i>\n\nThrough the Loopholes the citizens will pass, to raise a city of black sapphire where the Wheel still turns in the Moon's house. No-one will ever see the place with waking eyes, and no-one will inscribe my name above the gate. But I will keep the knowledge like a jewel beneath my tongue.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moon.loop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The ways that were closed will open.  The City will rise in the House of the Moon, the place behind the Mansus… and there at last, I'll be safe.</i>\n\nThrough the Loopholes the citizens will pass, to raise a city of black sapphire where the Wheel still turns in the Moon's house. No-one will ever see the place with waking eyes, but there I will dwell between sleep and life, and there, at last, I will be safe.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moon.loop.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. One hand in darkness; the other in light. The City will rise in the House of the Moon, the place behind the Mansus.</i>\n\nAs within; so without. Brancrug, once the grey rock in the sea where the Cross first met Flint; now the flinty proxy of the black sapphire City that will rise endlessly into night, in the other-place we call the House of the Moon. No-one will inscribe my name above the gate; but I will keep the knowledge like a jewel beneath my tongue.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moon.secr.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>One hand In darkness, the other in light. In this History, the City will rise in the House of the Moon, the place behind the Mansus… and there at last, I'll be safe.</i>\n\nAs within; so without. Brancrug, once the grey rock in the sea where the Cross first met Flint; now the flinty proxy of the black sapphire City that will rise endlessly into night, in the other-place we call the House of the Moon. There I will be welcome, and there I will be safe. \n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moon.secr.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work.</i>\n\nThe Mansus-paths cross like threads and meet like welcome strangers. Here at their nexus, at the hub of the Wheel that still turns beneath the invisible Moon, the architects of dream and citizens of song will assemble behind the world; and they will raise a city of black sapphire, where all our arts will find their end.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moon.worl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The pattern is clear at last. I'll find my songs in the City when it rises in the House of the Moon - the place behind the Mansus.</i>\n\nSilver, the Moon's tongue. Silver, the road's blood. The birdsong notes, gleaming like black sapphire… this is the City in the world's shadow, and here we will welcome the aviform Hours, to raise their song beneath the turning Wheel.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moon.worl.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: The Songs of the House of the Moon",
+  "dove": "endings/end.h.moon.worl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. The City so long dreamt of will never be built; the Sun will not touch it; Eternity cannot take it.</i>\n\nEverything that occurs must dwell in History; everything that dwells in History will some day be bleached into the light of Eternity. But even Eternity's light casts shadows; and in that penumbral sanctuary, we who are citizens of Never will find our home.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moth.desc.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Sun's light cannot drive out the last friendly shadows. They'll be safe from Eternity in a city that will never be built.</i>\n\nEverything that occurs must dwell in History; everything that dwells in History will some day be bleached into the light of Eternity. But even Eternity's light casts shadows - and those shadows mark the boundaries of our paradoxical, penumbral home.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moth.desc.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A City Outside Eternity",
+  "dove": "endings/end.h.moth.desc.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. The City so long dreamt of will be safe outside existence, preserved by paradox.</i>\n\nThe City Never is founded on the rocks of paradox; its walls are paper; its rivers are ink. I am a servant of the City Never's laws, a subject of its kingless throne; and I am not alone.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moth.loop.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A City Built on Paradox",
+  "dove": "endings/end.h.moth.loop.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>I've found a place of safety, in a city that will never be built - a fortress of paradox.</i>\n\nBy day I walk in the world, by night in the Mansus, but wherever I go, I walk the streets of the City Never. I am a servant of its laws, a subject of its kingless throne. The laws of others cannot touch me; and I am not alone.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moth.loop.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Twiceborn Victory: The Sanctuary Never",
+  "dove": "endings/end.h.moth.loop.twiceborn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. The City so long dreamt of will never be built, and so Calyptra cannot hide it from us.</i>\n\nAll of of us who search out secrets are lonely. Our only home is a city we'll never see. But in Eternity or History, we're still its citizens.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moth.thre.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Our revolution's city will rise only in mortal hearts, where Calyptra cannot touch it.</i>\n\nWe are citizens of a republic we'll never see. Our walls are paper and our rivers are only ink. But we are the children of History. Let Eternity tremble!\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.moth.thre.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: The Revolution in the Heart",
+  "dove": "endings/end.h.moth.thre.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. The last traces of the Gods-from-Stone will be consumed… and those traces will grow within their feasters, until the traces are at last reborn.</i>\n\nWheel-eggs, Tide-fruit, Coil-spawn; all the gleanings that the select invitees might gather. A joyous occasion, for the eater and the eaten. And afterwards, when we surrender ourselves to our oldest natures, the most magnificent night.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.nectar.feas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There is always a compromise. In this History - my last and greatest work - that compromise will embrace the Gods-who-were-Stone…</i>\n\nCan a serpent hatch from a scar? Can wings turn like wheels? Can the sea drink the Grail? Are these old gods or new? In time, the Hours will decide, braiding the Histories back toward Eternity; but in this History, those gods that were lost will remain.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.nectar.secr.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There is always a compromise. In this History, that compromise will embrace the Gods-who-were-Stone… and I will have my 'third choice'.</i>\n\nCan a serpent hatch from a scar? Can wings turn like wheels? Can the sea drink the Grail? Are these old gods or new? In time, the Hours will decide, as they always do; but until that order is restored, their unbraided bewilderement will keep me safe.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.nectar.secr.twiceborn.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The pattern remains. The Gods-from-Stone have left their traces in every corridor of the Mansus…</i>\n\nSacrifice hair; sacrifice history. Untie a knot; break a testament. The passages of the Mansus are a labyrinth, and every labyrinth is its own answer. At the labyrinth's heart waits an old-new god. If I follow its call… if I trace my paths on skin and paper... I'll have my map.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.nectar.worl.cartographer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. In this History, the Gods-from-Stone will be born again from the pattern that persists.</i>\n\nFind them in corners, find them in stories, find them in the edges of the sky. Little miracles like starred vipers, like thorned anemones, like nests of silk. All one piece, and all renewed, far beneath the notice of the Hours. But colours come back to the ochred earth.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.nectar.worl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The roots go deep. The knots remain. The Gods-from-Stone will be reborn; and the songs which they taught the Hours of the Roost will ring out again in the world.</i>\n\nSeven-Coils: mother of monsters, scaled queen… first weaver? Before the bird, the serpent; before the feather, the scale; before the knot, the nest. In each Coil-spawn, a mote of her remains; when they complete their matrix, we will know her Song.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.nectar.worl.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. Ys will be the City we've dreamt of, and its bells will ring out again across the seas.</i>\n\nI had never thought we would pass beyond the wave to Ys - never thought we would walk its amber-shining cobbles and breathe its golden waters - never thought we would see the fortresses of orichalcum rise, day by day, to become something more than a City. But the world is changing, and when we have changed enough, this will be our home.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.bell.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Bells Beyond the Wave",
+  "dove": "endings/end.h.rose.bell.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Ys will be the City we've dreamt of - and its bells will protect me from what follows.</i>\n\nI had never thought we would pass beyond the wave to Ys - never thought we would walk its amber-shining cobbles and breathe its golden waters - never thought we would see the sanctuaries of orichalcum rise, day by day, towards the future. Ys is not kind. But it is safe; and it will be home.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.bell.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: Beneath the Hand of Ys",
+  "dove": "endings/end.h.rose.bell.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Ys will be the City we've dreamt of. At the sound of its bells, Calyptra will tremble.</i>\n\nI had never thought we would pass beyond the wave to Ys - never thought we would walk its amber-shining cobbles and breathe its golden waters - never thought we would see the manufactories of orichalcum rise, day by day, towards the final City's plan. And I had never thought I would raise an army there against the world I know. But Eternity's tyranny must end; Calyptra must fall.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.bell.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolutionary Victory: When the Hours Tremble",
+  "dove": "endings/end.h.rose.bell.revolutionary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. Ys will be the City we've dreamt of.</i>\n\nYs, with its ever-shifting light and its amber-shining cobbles, with its canals of coral and its temples of ice… we speak of it as a city, but Ys has no walls, and so it is no city. Not yet. We will build those walls of song.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.oldl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ys Beyond the Wave",
+  "dove": "endings/end.h.rose.oldl.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>I'll follow those songs to Ys beyond the wave… and there I'll find my peace.</i>\n\nYs, with its ever-shifting light and its amber-shining cobbles, with its canals of coral and its temples of ice. It is so far from what we had known. But at evening, when the bells of Ys fall silent, there is peace here.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.oldl.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Magnate Victory: Peace Beyond the Wave",
+  "dove": "endings/end.h.rose.oldl.magnate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Ys will be the City we've dreamt of, where the bells will peal out that old lost music. All we have to do is follow the songs.</i>\n\nYs, with its ever-shifting light and its amber-shining cobbles, with its canals of coral and its temples of ice… we speak of it as a city, but Ys has no walls, and so it is no city. Not yet. With the bells of Ys, we will build those walls of song; and I will dwell in that music I have longed for.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.oldl.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Symurgist Victory: The Songs of Ys",
+  "dove": "endings/end.h.rose.oldl.symurgist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. Ys beyond the wave will be the city of conclusions, where all the threads resolve.</i>\n\nYs, with its ever-shifting light and its amber-shining cobbles, with its canals of coral and its temples of ice. When we have built the walls of Ys, it will be a city at last. In fact, it will be the City of Conclusions: the place that all the threads of History at last resolve to one.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.unde.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "At Last, Ys",
+  "dove": "endings/end.h.rose.unde.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Ys beyond the wave will be the last city on earth… and there I'll find my peace.</i>\n\nYs, with its ever-shifting light and its amber-shining cobbles, with its canals of coral and its temples of ice. When we have built the walls of Ys, it will be a city at last. In fact, it will be the last city. In that long decline to evening, I'll know peace.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.rose.unde.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Sun is broken; at war with all his aspects. But in this History, there will be a prison for his worst self. The Sun will be reconciled at last with his oldest nature; and so will I.</i>\n\nWhen once the Wolf-Divided is caged in light, the Sun will harden like spring ice, until - as we were born from the Shell - so the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood… and each night it will protect us. As it goes down into evening, as it rises in the morning, it will remember us in song. I will never be pure of my corruption. But the Red Sun won't trouble himself over it... and so neither will I.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.conf.archaeologist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Sun is broken; at war with all his aspects. But in this History, there will be a prison for his worst self. The Sun will be reconciled at last with his oldest nature; and so will I.</i>\n\nWhen once the Wolf-Divided is caged in light, the Sun will harden like spring ice, until - as we were born from the Shell - so the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood… and each night it will protect us. As it goes down into evening, as it rises in the morning, it will remember us in song.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.conf.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Cage of Light",
+  "dove": "endings/end.h.scale.conf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>The Sun is broken; at war with his other aspects. But in this History, there will be a prison for his brightest, most quarrelsome self… and for that bright self's servants who pursue me.</i>\n\nWhen once the Watchman is caged in shadows, the Sun will harden like spring ice, until - as we were born from the Shell - so the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood... I balk at that. I admit it. But a Sun that knows our taste is a kinder sun. I am quite certain that it will not eat me. And, once my pursuers are confined, neither will anything else.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.conf.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Prodigal Victory: A Sun that Knows Us",
+  "dove": "endings/end.h.scale.conf.prodigal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work; and in it, that old red sun will return to a gentler, hungrier heaven.</i>\n\nThe skies will be softer, the winds warmer. As we were born from the Shell, so the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood… and each night it will protect us. As it goes down into evening, as it rises in the morning, it will remember us in song.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.oldl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There was a gentler sun once. In this History, when the oldest hymn is raised, perhaps it will grace our sky with its peace…</i>\n\nThe skies will be softer, the winds warmer. As we were born from the Shell, so the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood… and each night it will protect us. I can understand the consternation. I can understand the unkind turns of phrase. But it's much gentler to have a Sun that knows you; that every sunrise, honours you with its own blood; that every evening, offers peace.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.oldl.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There was a kinder sun once. In this History, when the oldest hymn is raised, perhaps it will answer us…</i>\n\nThe skies will be softer, the winds warmer. As we were born from the Shell, so the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood… and each night it will protect us. As it goes down into evening, as it rises in the morning, it will remember us in song. That song will be the one I have yearned for, and its rhythm the beat of my own heart.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.oldl.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This is the History - my last and greatest work in which the Chancel, at a crucial moment, will be snared in its own rules - and the way will be clear for the old sun's return.</i>\n\nThe Watchman's Tree has a Black Flower, but the Red Sun cannot be forgotten. It has a White, but his light runs red on snow. It has a Red Flower, but in this History, when the Sanguine Exception is invoked, the Red Flower will close its petals. And the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood… and each night it will protect us. As it goes down into evening, as it rises in the morning, it will remember us in song.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.thre.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>In this History, the gentler sun will return - the sun of the time before Calyptra - and Calyptra will be powerless to prevent it.</i>\n\nThe Watchman's Tree has a Black Flower, but the Red Sun cannot be forgotten. It has a White, but his light runs red on snow. It has a Red Flower, but in this History, when the Sanguine Exception is invoked, the Red Flower will close its petals. And the Red Sun will hatch, but gently. Each day it will accept a little - a very little - of our blood… and each night it will protect us. As it goes down into evening, as it rises in the morning, it will remember us in song... a song that even the Calyptra cannot silence.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.scale.thre.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. When the Carapace-kind return, they will return to Noon. </i>\n\nAcross the evening sea. The day the Cross came, the sky above Port Noon was dark with returning wings, and the sea boiled with their shapes.  Now, as the Carapace-spires of horn and ivory rise above the new City, Noon is different; for good, or for ill, but not forever.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.sky.bala.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>We'll bring them back. And when the Carapace-kind return, they will return to Noon. </i>\n\nAcross the evening sea. The day the Cross came, the sky above Port Noon was dark with returning wings, and the sea boiled with their shapes. The residents took a while to come around to it. But Noon has always been a sanctuary before all else; and now, as the Carapace-spires of horn and ivory rise above the new City, it's a sanctuary for them, too.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.sky.bala.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. That old lost music will draw the Birds, the Names, the architects and the adepts to Noon across the evening sea. </i>\n\n'Noon, they say, is not as it was.' But Noon, with its towers of ivory, its wheels of shining iron, is becoming something more.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.sky.oldl.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>I've found my peace. That old lost music will draw the Birds, the Names, the architects and the adepts to Noon across the evening sea. </i>\n\nPort Noon, across the evening sea. It's long been a place for Long, and now it's something more. Each day more of us arrive. The waves take our name as once the fountain did. The towers rise day by day. Here in the City's shade, there will be peace.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.sky.oldl.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>My songs await me. That old lost music will draw the Birds, the Names, the architects and the adepts to Noon across the evening sea. </i>\n\nAcross the evening sea to Noon - for so long a city of Long, and now a city of song. Each day the ivory towers rise a little higher. 'Noon, they say, is not as it was.' But now we hear on the wind what Noon could become. I have found that old lost music… and the Hours of the Roost take up the refrain.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.sky.oldl.symurgist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This History is my last and greatest work. This will be the last city on Earth. When it passes, so will the world.</i>\n\nAcross the evening sea. Ever since the Spring of the Witness rose from the earth, Port Noon has been a place for the ones who defy endings. Now, as the ivory towers rise, it's a place for those who accept them. In the end, that'll be all of us.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.sky.unde.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>I've found my peace. This will be the last city on Earth. When it passes, so will the world.</i>\n\n'The houses are white and the hills are green and the air is golden and the sea won’t settle on one colour….' That's still true. But all the colours grow pale. The towers of ivory will rise higher day by day. One day, they'll be complete. Until then, I'll know peace; and when they're complete, it won't matter any more.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.sky.unde.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This is the History where the travelling-kinds of the Carapace Cross return… and everything changes. What is above, below; what has wings, shall thrive.</i>\n\nThe Cross died not but passed within.' When the travelling-kinds of the Carapace Cross return, how many of us will answer the heart-lifting buzz of their call? One in every thousand? One in every ten? There will be no Second Dawn - the Cross will walk among us - and when the wing-buzz, the heart-shrill, the star-song, goes out, when we are called to travel again beyond the sky - how many of us will go with them?\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.winter.bala.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>This is the History where the travelling-kinds of the Carapace Cross return… and everything changes. What is above, below; what has wings, shall thrive. And I'll have made amends.</i>\n\nThe Carapace Cross is gone. Into earth; into flesh; and the travelling-kinds, beyond wave and sky. They are very few now under the earth, and the Cross-in-flesh are us - some of us, at least. But when the travelling-kinds return, their wings will darken the sky; and in this history, they will be safe from any Dawn.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.winter.bala.executioner.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There will be no Second Dawn. This is the History where the travelling-kinds of the Carapace Cross expose the lies of the Church… and the roots of Calyptra will tremble.</i>\n\nSafe from any Second Dawn - In streets at night - in spires by day - crawling on the roofs of moving trains - buzzing in factory chimneys - the kinds of the Cross return. Of course they'll frighten the wits out of everyone - everyone! But the Calyptra's law doesn't bind the Cross. When they're ready to speak, and we're ready to listen - to the hybrids in our sky, and the echo in our flesh - the tyranny of Eternity, at long last, will approach its resolution.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.winter.bala.revolutionary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There will be no Second Dawn. The adepts of this History will make a prison for the sharpest lights, the most perilous fires... and for my other self. At last I will be free.</i>\n\nThis is the cell the Watchman built for the Wolf-Divided, in the southmost reaches of the world, where the sea grows hard as horn and the sunset pale as snow. When the sunset comes, it will be his cell. Without the Wolf, we will see no Second Dawn. There may - there just may - be other benefits beside. No more Wolf-Splinters, for one. Is that my shadow? Or is it, finally, me? Let's say it's not. Let's say I'm free..\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.winter.conf.archaeologist.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There will be no Second Dawn. The adepts of this History - my last and greatest work - will make a prison for the sharpest lights, the most perilous fires... and the kindling-spark that might have been the Dawn.</i>\n\nThis is the cell the Watchman built in the southmost reaches of the world, where the sea grows hard as horn and the sunset pale as snow. When the sunset comes, it will be his cell. Without the Watchman, there will be no Second Dawn. 'He navigates; he illuminates; he is not compassionate...' Perhaps when night falls, we'll finally see a little compassion.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.winter.conf.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Cage of Snows",
+  "dove": "endings/end.h.winter.conf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There will be no Second Dawn. The adepts of this History will make a prison for the sharpest lights, the most perilous fires.. I will be safe at last.</i>\n\nThis is the cell the Watchman built in the southmost reaches of the world, where the sea grows hard as horn and the sunset pale as snow. When the sunset comes, it will be his cell. Without the Watchman, there will be no Second Dawn… and without the Watchman, my pursuers will lose their force. A little light in the world is a small price to pay. After all, without the Watchman, there'll be a little more mercy, too.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.winter.conf.prodigal.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>There need be no Second Dawn. All the colours of the world are enough. In that understanding I will find my peace.</i>\n\n'Speech is a wound,' Husher famously insisted. Of silence, he said nothing at all. But then, of course, I suppose, he wouldn't.\n\nIt's enough. I'm tired. What is written is written, and my contribution comes after this mark.\n<size=120%><align=center>--</size>\n<i>[You have proved yourself as Librarian; convinced the Hours to accept a History; changed the world; won the game. This is the memory that does not die. Please accept our congratulations.]</i>",
+  "dove": "endings/end.h.winter.unde.magnate.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute could not prevent the coming war, any more than a lighthouse could prevent a storm. And so the storm broke, on Europe and the world. But how many bodies did they save? And how many souls? Through the falls of the Stars and the rise of the Incorporates, through all the plagues of Worm and amber, the Institute built havens, found time and strength for its guests to build bridges. And the oldest, the kindest, the strongest of those havens was Hush House... where the Librarian still keeps their solitary counsel.\n\n\n<align=center><i>[You have founded the Lighthouse Institute. Its motto: 'Silence after lightning; silence before thunder.']</i></align>",
+  "dove": "endings/end.hol.institute.peace.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute at its founding resolved to undermine Calyptra. Its founders never guessed how successful they could be. The War in the Sun brought an end to the established order. With so many Hours uncounted or fled - with the horrors of the old spirits and the new weapons ravaging Europe - with the Gleam-touched Ministries rising in the East, and the Glory-crowned Incorporates of the West - the laws of secrecy crumbled. The Institute set itself to guarding knowledge and guiding its seekers. And the centre of that endeavour remains - of course - Hush House: where the Librarian, as always, keeps their solitary counsel.\n\n\n<align=center><i>[You have founded the Lighthouse Institute. Its motto: 'Every lighthouse needs a lamp at the top and rocks at the bottom.'']</i></align>",
+  "dove": "endings/end.hol.institute.revelation.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Hush House lives again. Perhaps that's all I want. Some of the very best Librarians have worked well, lived quietly, left the world a better place...</i>\n\nI have my fire, my books, my clock, my window on the world where they do other things; and I am happy. This is the life I chose. The years will pass, like sun, like snow, like rain, like a gull's wing beating, and when I close my eyes, they will find me smiling.\n<size=120%><align=center>--</size>\n<i>[You have completed the game: congratulations. Greater victories are available, but there is an argument to be made that this is the best ending of BOOK OF HOURS.]</i></align>",
+  "dove": "endings/end.u.evening.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>January 9th, 1838. A heavy snow falls on Brancrug. When the staff dig themselves out, Solomon Husher, third Librarian of the House, has disappeared from his quarters in the Long Tower, leaving a letter of resignation. 'Winter,' the letter concludes, 'does not wait forever; though Janus might.' Husher is never seen again, but every year on the same day, his footprints can be found beneath the Tree.</i>\n\n<align=center><smallcaps>After the red leaf and the gold have gone,\nBrought down by the wind, then by hammering rain...\n...I speak to you now with the land's voice,\nIt is the cold, wild land that says to you\nA knowledge glimmers in the sleep of things:\nThe old hills hunch before the north wind blows.</smallcaps>\n\n- Howard Nemerov, 1920-1991, from <i>'A Spell Before Winter'</i>.</align>\n<align=center>--</align>\n<align=center><i>[You have completed a hidden ending. An argument has been made that this is the true ending of BOOK OF HOURS.]</i></align>",
+  "dove": "endings/end.u.winter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Now I have an idea of the book's nature, and its contents.",
+  "dove": "recipes/_catalogue.book.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Catalogue an Unknown Book",
+  "dove": "recipes/_catalogue.book.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Catalogue a Baronial Period book",
+  "dove": "recipes/catalogue.book.baronial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Baronial Period - roughly 1500s to 1700s. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are only rarely contaminated.]",
+  "dove": "recipes/catalogue.book.baronial.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Catalogue a Curia Period book",
+  "dove": "recipes/catalogue.book.curia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Curia Period - roughly 1700s to 1800s. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are only rarely contaminated.]",
+  "dove": "recipes/catalogue.book.curia.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Catalogue a Dawn Period book",
+  "dove": "recipes/catalogue.book.dawn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Dawn Period - some time before the end of the first millennium, commonly reckoned. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are sometimes contaminated.]",
+  "dove": "recipes/catalogue.book.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Catalogue a Nocturnal Period book",
+  "dove": "recipes/catalogue.book.nocturnal.label",
+  "ricorre": 2
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Nocturnal Period - after the turn of the century. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are almost never contaminated.]",
+  "dove": "recipes/catalogue.book.nocturnal.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Catalogue a Solar Period book",
+  "dove": "recipes/catalogue.book.solar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Solar Gothic Period - roughly, between the 1000s and the 1500s. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are occasionally contaminated.]",
+  "dove": "recipes/catalogue.book.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Catalogue a Collection of Books",
+  "dove": "recipes/catalogue.pile.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Examine a collection of books",
+  "dove": "recipes/catalogue.pile.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=scale>.",
+  "dove": "recipes/cook.beef.marinated.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=scale>.",
+  "dove": "recipes/cook.beef.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge>.",
+  "dove": "recipes/cook.dough.beef.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=grail> <sprite name=heart> <sprite name=lantern> <sprite name=moth> <sprite name=nectar> <sprite name=scale>.",
+  "dove": "recipes/cook.dough.cake.honey.cuckoo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.dough.sack.vegetables.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.dough.startdescription",
+  "ricorre": 2
+ }
+]

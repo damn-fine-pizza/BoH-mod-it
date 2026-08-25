@@ -1,0 +1,43 @@
+{
+  
+    "elements": [
+
+        {	"id":"technique.summon.echidna",	"Label": "Technique: Rôdeurs d'Échidna",
+        "desc": "La Ligéienne Échidna rôde dans les lieux vides. [Il suffit de marcher sur la Lande et d'invoquer l'Échidna avec suffisamment d'autorité pour être crédible. Vous aurez besoin de cette Compétence, d'une Carte d'Âme, d'une offrande de Lait de Serpent (qui peut être fabriqué à partir de Perinculate avec un <sprite name=edge> de niveau Gardien et quelques recettes <sprite name=scale>) et d'un total de 7 <sprite name=scale>]",
+        "isaspect":true},
+      
+        {	"id":"x.summon.echidna",	"Label": "Leçon: Les rôdeurs de l'Échidna",
+        "desc": "Je sais que la Ligéienne Échidna rôde dans les endroits vides. [Examinez ceci avec la plus forte de vos compétences Spirale & Abîme, Repentirs & Précurseurs, Serpents & Venins ou Histoires de loups. Vous apprendrez comment inviter Échidna à Brancrug.]",
+        "aspects":{"lesson":1,"scale":1}	},
+
+        {	"id":"echidna.enroute",	"Label": "Échidna Arrive",
+        "icon":"x.summon.echidna",
+        "desc": "Blessure de guerre et cicatrice de serpent, par la rue du ciel et la profondeur du désert. Soyez prêts.",
+    "lifetime":360,
+    "decayto":"echidna"
+    },
+
+    
+    {	"id":"echidna.enroute.persistent",	"Label": "Échidna Arrive",
+    "icon":"x.summon.echidna",
+    "desc": "Blessure de guerre et cicatrice de serpent, par la rue du ciel et la profondeur du désert. Soyez prêts.",
+"lifetime":360,
+"decayto":"echidna.persistent"
+}
+
+
+
+    
+    
+    
+
+
+
+
+
+      
+     
+
+
+    ]
+}

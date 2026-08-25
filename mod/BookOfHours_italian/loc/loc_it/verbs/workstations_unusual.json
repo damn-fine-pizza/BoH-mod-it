@@ -1,0 +1,427 @@
+{
+ "verbs": [
+  {
+   "id": "library.fireplace.entrance",
+   "label": "Camino della Sala d’Ingresso",
+   "desc": "I visitatori trovavano gradito quel calore, dopo i venti sferzanti della traversata del ponte.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.hermit",
+   "label": "Stufa dell’Eremita",
+   "desc": "Brontolando come un vecchio.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.infirmary",
+   "label": "Camino dell’Infermeria",
+   "desc": "Un calore gradito.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.librarian",
+   "label": "Camino degli Alloggi dell’Archivista",
+   "desc": "Anche quando il vento sbatte alle finestre, il fuoco nel camino mantiene la stanza accogliente.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.lodge",
+   "label": "Camino della Casa del Custode",
+   "desc": "Il fuoco accetta sempre doni. E fa bollire l’acqua per il tè.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.long1",
+   "label": "Camino dello Studio della Torre Lunga",
+   "desc": "Il camino non riscalda esattamente la stanza, ma tiene il freddo più o meno a bada.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.mirrors",
+   "label": "Camino dell’Aula della Divisione",
+   "desc": "I riflessi della luce del fuoco negli specchi sono difficili da descrivere senza rischiare un’incursione nel pentametro.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.pale",
+   "label": "Camino della Camera Pallida",
+   "desc": "Il fuoco accetta sempre doni. E fa bollire l’acqua per il tè.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.refectory",
+   "label": "Camino del Refettorio",
+   "desc": "Il fuoco mormora amichevolmente nel focolare.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.servants",
+   "label": "Camino della Sala dei Servitori",
+   "desc": "I carboni ardono.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.staffroom",
+   "label": "Stufa della Sala del Personale",
+   "desc": "Una piccola e tranquilla fornace.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.fireplace.westcott",
+   "label": "Camino della Camera Westcott",
+   "desc": "Questo è l’unico luogo della Casa dove il fuoco era permesso vicino ai libri.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "world.sea.boathouse",
+   "label": "Rimessa delle Barche di Brancrug",
+   "desc": "La barca non c’è più, il Mare resta. È così, naturalmente, che di solito vanno le cose. [Scarta oggetti qui; rilascia bestie; o vai a nuotare.]",
+   "slots": [
+    {
+     "id": "thing",
+     "label": "Oggetto"
+    }
+   ]
+  },
+  {
+   "id": "world.sea.crane",
+   "label": "Gru della Banchina di Carico",
+   "desc": "Molto tempo fa, questa era la via per cui le provviste entravano nella prigione, e per cui i prigionieri non riuscivano a fuggire. [Scarta oggetti qui, o rilascia bestie.]",
+   "slots": [
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "library.well",
+   "label": "Pozzo della Hush House",
+   "desc": "Qui posso attingere acqua – o lasciarci cadere dentro qualcosa, che con ogni probabilità andrà perduto per sempre.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Impegno"
+    },
+    {
+     "id": "thing",
+     "label": "Cosa"
+    }
+   ]
+  },
+  {
+   "id": "world.sea.beach",
+   "label": "Margine del Mare",
+   "desc": "Il Mare è sempre affamato; il Mare non dorme mai; il Mare accetta offerte. [Scarta oggetti qui; rilascia bestie; o vai a nuotare.]",
+   "slots": [
+    {
+     "id": "object",
+     "label": "Oggetto"
+    }
+   ]
+  },
+  {
+   "id": "world.tree.gate",
+   "label": "Il Tasso del Conte",
+   "desc": "Fin dalla Conquista, questo albero è rimasto in attesa di te. Gli irriverenti potrebbero persino chiamarlo un <i>tasso per te</i>.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "j",
+     "label": "Diario"
+    }
+   ]
+  },
+  {
+   "id": "station.serving.lodge",
+   "label": "Servi Qui",
+   "desc": "Piatti, tazze e bicchieri, così che, se voglio offrire del vino a qualcuno, non debba dargli l’intera bottiglia.",
+   "slots": [
+    {
+     "id": "p",
+     "label": "Servi"
+    }
+   ]
+  },
+  {
+   "id": "station.serving.kitchen",
+   "label": "Servi Qui",
+   "desc": "Piatti, tazze e bicchieri, così che, se voglio offrire del vino a qualcuno, non debba dargli l’intera bottiglia.",
+   "slots": [
+    {
+     "id": "p",
+     "label": "Servi"
+    }
+   ]
+  },
+  {
+   "id": "station.serving.gaol",
+   "label": "Servi Qui",
+   "desc": "Piatti, tazze e bicchieri, così che, se voglio offrire del vino a qualcuno, non debba dargli l’intera bottiglia.",
+   "slots": [
+    {
+     "id": "p",
+     "label": "Servi"
+    }
+   ]
+  },
+  {
+   "id": "pumps.upper",
+   "label": "Pompe: Livello Superiore",
+   "desc": "La Curia installò queste pompe per drenare i livelli inferiori – ma le installò alla fine del diciannovesimo secolo. Dovrò fornire materiali e combustibile appropriati – e avrò bisogno di un livello da Apprendista di Forgia per rimetterle in sesto alla meglio.",
+   "slots": [
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "l",
+     "label": "Combustibile"
+    },
+    {
+     "id": "m1",
+     "label": "Metallo"
+    },
+    {
+     "id": "m2",
+     "label": "Metallo"
+    }
+   ]
+  },
+  {
+   "id": "pumps.lower",
+   "label": "Pompe: Livello Inferiore",
+   "desc": "Queste macchine sono di manifattura diversa e più recente rispetto a quelle sopra. Includono anche qualcosa come un generatore. Ma sono in condizioni ancora peggiori. Dovrò fornire materiali e combustibile appropriati – e avrò bisogno di un livello da Studioso di Forgia per rabberciarle.",
+   "slots": [
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "l",
+     "label": "Combustibile"
+    },
+    {
+     "id": "m1",
+     "label": "Metallo"
+    },
+    {
+     "id": "m2",
+     "label": "Metallo"
+    }
+   ]
+  },
+  {
+   "id": "library.kitchen.gaol",
+   "label": "Fornello da Cucina: Prigione",
+   "Desc": "Il cibo servito nella Prigione di Brancrug era inaspettatamente sostanzioso e saporito – in linea con le teorie più umane di Collers sulla riabilitazione.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ingrediente"
+    },
+    {
+     "id": "i2",
+     "label": "Ingrediente"
+    },
+    {
+     "id": "t1",
+     "label": "Utensili da Cucina"
+    }
+   ]
+  },
+  {
+   "id": "library.kitchen.hallofvoices",
+   "label": "Focolare: Aula delle Voci",
+   "Desc": "Qui, le sacerdotesse preparavano quei pasti che non avrebbero voluto, o non avrebbero potuto, affidare ai loro servitori.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ingrediente"
+    },
+    {
+     "id": "i2",
+     "label": "Ingrediente"
+    },
+    {
+     "id": "t1",
+     "label": "Utensili da Cucina"
+    }
+   ]
+  },
+  {
+   "id": "library.kitchen.servants",
+   "label": "Fornello da Cucina: Servitori",
+   "Desc": "Porta fortuna agli abitanti del villaggio portare piccoli doni di cibo all’Archivista. È già diventato una tradizione. Ma a volte l’Archivista vuole un pasto caldo, e al giorno d’oggi l’Archivista è l’unica entità nella casa che sa cucinare.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ingrediente"
+    },
+    {
+     "id": "i2",
+     "label": "Ingrediente"
+    },
+    {
+     "id": "t1",
+     "label": "Utensili da Cucina"
+    }
+   ]
+  }
+ ]
+}

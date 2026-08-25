@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "Knock: a Gate Flung Wide",
+  "dove": "recipes/study.mystery.knock.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Lantern: Radiance",
+  "dove": "recipes/study.mystery.lantern.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lantern: Revelations!",
+  "dove": "recipes/study.mystery.lantern.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Lantern: Visions?",
+  "dove": "recipes/study.mystery.lantern.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Acusis",
+  "dove": "recipes/maladyrisk.shapt.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Despair",
+  "dove": "recipes/maladyrisk.trist.edge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Duendracy",
+  "dove": "recipes/maladyrisk.chor.heart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Fascination",
+  "dove": "recipes/maladyrisk.phost.lantern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Gisting",
+  "dove": "recipes/maladyrisk.fet.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Shell-Crossed",
+  "dove": "recipes/maladyrisk.wist.scale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Sickness",
+  "dove": "recipes/maladyrisk.health.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Malady: Westengryre",
+  "dove": "recipes/maladyrisk.ereb.nectar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory crossed, hatched, lined, snapped. [A defeat when Scale is present can leave wist shell-crossed.]",
+  "dove": "recipes/maladyrisk.wist.scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Moon: a Culmination!",
+  "dove": "recipes/study.mystery.moon.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Moon: a Semblance?",
+  "dove": "recipes/study.mystery.moon.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moon: the Cycle",
+  "dove": "recipes/study.mystery.moon.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth: Chance?",
+  "dove": "recipes/study.mystery.moth.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth: Choice!",
+  "dove": "recipes/study.mystery.moth.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Moth: Consequence",
+  "dove": "recipes/study.mystery.moth.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My chor has been compromised - by a possessing presence from the Mansus behind the world! Quite a pleasant possessing presence - but it makes it hard to concentrate. [A defeat when Heart is present makes chor vulnerable to duendracy.]",
+  "dove": "recipes/maladyrisk.chor.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My ereb has been compromised by the green-sickness, the wasteland-terror, the bosk-haunt that Abbot Thomas named <i>westengryre</i>, long ago. [A defeat when Nectar is present makes ereb vulnerable to westengryre.]",
+  "dove": "recipes/maladyrisk.ereb.nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My fet is gisting - too loosely tethered to me - so that I glimpse the Mansus even in daylight hours. [A defeat when additional Rose is present makes fet vulnerable to gisting.]",
+  "dove": "recipes/maladyrisk.fet.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mystery and Mastery",
+  "dove": "recipes/study.film.general.hint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Mystery and Mastery?",
+  "dove": "recipes/study.book.general.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nectar: Full Flower!",
+  "dove": "recipes/study.mystery.nectar.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Nectar: a Hedge of Thorns?",
+  "dove": "recipes/study.mystery.nectar.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nectar: the Fruits of Knowledge",
+  "dove": "recipes/study.mystery.nectar.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Not Today",
+  "dove": "recipes/study.mastering.no.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Now I have an idea of the book's nature, and its contents.",
+  "dove": "recipes/_catalogue.book.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Opportunities?",
+  "dove": "recipes/study.mastering.opportunities.router.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Opportunity: ?",
+  "dove": "recipes/study.mastering.opportunity.duende.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Opportunity: an Element of the Soul?",
+  "dove": "recipes/study.mastering.opportunity.ability.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps the damp air is affecting my lungs. [A defeat when Winter is present risks sickness.]",
+  "dove": "recipes/maladyrisk.health.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Edge, but not enough to match Mystery: Edge. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.edge.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Forge, but not enough to match Mystery: Forge. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.forge.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Grail, but not enough to match Mystery: Grail. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.grail.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Heart, but not enough to match Mystery: Heart. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.heart.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Knock, but not enough to match Mystery: Knock. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.knock.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Lantern, but not enough to match Mystery: Lantern. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.lantern.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Moon, but not enough to match Mystery: Moon. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.moon.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Moth, but not enough to match Mystery: Moth. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.moth.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Nectar, but not enough to match Mystery: Nectar. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.nectar.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Rose, but not enough to match Mystery: Rose. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.rose.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Scale, but not enough to match Mystery: Scale. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.scale.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Sky, but not enough to match Mystery: Sky. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.sky.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps...  [You've provided Winter, but not enough to match Mystery: Winter. If you're lucky, you might still succeed.]",
+  "dove": "recipes/study.mystery.winter.mastering.maybe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Phost is the brightest part of the soul - sometimes it can grow too bright for safety. [A defeat when additional Lantern is present makes phost vulnerable to fascination.]",
+  "dove": "recipes/maladyrisk.phost.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rest my Eyes",
+  "dove": "recipes/study.mastering.opportunity.wallart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Robed and flowing shapes, rather as if the Aramaic script had taken up dancing. I can't read it.",
+  "dove": "recipes/study.mandaic.none.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rose: Back Again",
+  "dove": "recipes/study.mystery.rose.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rose: Journey's End!",
+  "dove": "recipes/study.mystery.rose.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Rose: Wandering?",
+  "dove": "recipes/study.mystery.rose.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scale: Buried?",
+  "dove": "recipes/study.mystery.scale.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scale: Secured",
+  "dove": "recipes/study.mystery.scale.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scale: Unearthed!",
+  "dove": "recipes/study.mystery.scale.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Sky: Dissonance?",
+  "dove": "recipes/study.mystery.sky.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sky: Echoes",
+  "dove": "recipes/study.mystery.sky.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sky: Harmony!",
+  "dove": "recipes/study.mystery.sky.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Slyly curved, sharp-edged shapes. I can't read it, but every time I move to put the book down, my eyes are drawn back to those oddly delightful swoops and hooks...",
+  "dove": "recipes/study.hyksos.none.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something to consider.",
+  "dove": "recipes/study.mystery.edge.mastered.desc",
+  "ricorre": 13
+ },
+ {
+  "en": "Stretch my legs and change my point of view. [Increase relevant Aspects by using a Comfort.]",
+  "dove": "recipes/study.mastering.opportunity.comfort.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Take a Moment",
+  "dove": "recipes/study.mastering.opportunity.comfort.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Take a moment to look at something here. [Increase relevant Aspects by referencing a piece of wall art.]",
+  "dove": "recipes/study.mastering.opportunity.wallart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Ear's Apprehensions",
+  "dove": "recipes/study.record.phonograph.ability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Next Page?",
+  "dove": "recipes/study.journal.general.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Night Speaks, the Moon Hears",
+  "dove": "recipes/study.mem.fear.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Operations of the Eye",
+  "dove": "recipes/study.film.ability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Soul's Labours",
+  "dove": "recipes/study.book.ability.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Wind Moans",
+  "dove": "recipes/study.mem.fear.hint.day.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The mysteries in this have defeated me... for now. [You can always try again later.]",
+  "dove": "recipes/study.mastering.no.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "There's still a chance...",
+  "dove": "recipes/study.mastering.opportunities.router.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Baronial Period - roughly 1500s to 1700s. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are only rarely contaminated.]",
+  "dove": "recipes/catalogue.book.baronial.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Curia Period - roughly 1700s to 1800s. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are only rarely contaminated.]",
+  "dove": "recipes/catalogue.book.curia.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Dawn Period - some time before the end of the first millennium, commonly reckoned. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are sometimes contaminated.]",
+  "dove": "recipes/catalogue.book.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Nocturnal Period - after the turn of the century. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are almost never contaminated.]",
+  "dove": "recipes/catalogue.book.nocturnal.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "This book was probably written around the time of Hush House's Solar Gothic Period - roughly, between the 1000s and the 1500s. If I examine it, I can learn more about what knowledge it might contain. [Books from this period are occasionally contaminated.]",
+  "dove": "recipes/catalogue.book.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Trist is already half a hand trailed in a river of deeper sadness. [A defeat when Edge is present can submerge trist in despair.]",
+  "dove": "recipes/maladyrisk.trist.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Uneven symbols in a complex pattern, veering off in all directions. The shapes are heavy with half-felt meaning... but I can't read it.",
+  "dove": "recipes/study.cracktrack.none.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "What is this?",
+  "dove": "recipes/study.cracktrack.none.startdescription",
+  "ricorre": 10
+ },
+ {
+  "en": "When the Librarian of Hush House determines their answer to one of the great mysteries... the Hours themselves might pay attention.\n\n[Making a Determination is the first step towards writing your own History. It will require no less than 20 of a Power aspect. This means suitably potent Soul, Memory, and Skill, as well as a carefully chosen ink.]",
+  "dove": "recipes/study.journal.determination.first.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "When the Librarian of Hush House determines their answer to one of the great mysteries... the Hours themselves might pay attention.\n\n[To record a new History, you'll need an ink of power; one of the great secrets known as Numina, which usually dwell in the most hallowed books; and 25 points of a Power aspect. This is easier if you've made at least one, and preferably two, suitable Determinations.]",
+  "dove": "recipes/study.journal.determinations.more.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Winter: Nothing More",
+  "dove": "recipes/study.mystery.winter.mastered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Winter: Silence?",
+  "dove": "recipes/study.mystery.winter.mastering.maybe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Winter: a Conclusion",
+  "dove": "recipes/study.mystery.winter.mastering.begin.label",
+  "ricorre": 2
+ },
+ {
+  "en": "[Increase relevant Aspects by adding a Memory - which will be used up.]",
+  "dove": "recipes/study.mastering.opportunity.memory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Increase relevant Aspects by adding a Weather card - which will be used up.]",
+  "dove": "recipes/study.mastering.opportunity.weather.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Increase relevant Aspects by adding an Element of the Soul card.]",
+  "dove": "recipes/study.mastering.opportunity.ability.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "awen!",
+  "dove": "recipes/study.mastering.opportunity.awen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Crack open the container, delight in your discovery.",
+  "dove": "recipes/open.cache.bureau.startdescription",
+  "ricorre": 12
+ },
+ {
+  "en": "Open a Package",
+  "dove": "recipes/open.delivery.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Abandoned",
+  "dove": "recipes/open.cache.household.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Bright",
+  "dove": "recipes/open.cache.bright.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Confiscated",
+  "dove": "recipes/open.cache.bureau.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Dark",
+  "dove": "recipes/open.cache.night.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Especially Tasty",
+  "dove": "recipes/open.cache.provisions.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Exalted",
+  "dove": "recipes/open.cache.sovereign.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Handy",
+  "dove": "recipes/open.cache.hardware.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Lost",
+  "dove": "recipes/open.cache.large.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Memorable",
+  "dove": "recipes/open.cache.souvenirs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Odd",
+  "dove": "recipes/open.cache.large.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Rare",
+  "dove": "recipes/open.cache.large.rarity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Renounced",
+  "dove": "recipes/open.cache.jetsam.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Shipwrecked",
+  "dove": "recipes/open.cache.flotsam.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Small and Curious",
+  "dove": "recipes/open.cache.small.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Small and Rare",
+  "dove": "recipes/open.cache.small.rarity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Tasty",
+  "dove": "recipes/open.cache.provisions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Tricksy",
+  "dove": "recipes/open.cache.oddity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Something Unregarded",
+  "dove": "recipes/open.cache.unregarded.rarities.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Unwrap, unbox, unleash.",
+  "dove": "recipes/open.delivery.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What ship lost this?",
+  "dove": "recipes/open.cache.flotsam.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Who threw this overboard?",
+  "dove": "recipes/open.cache.jetsam.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Activate",
+  "dove": "recipes/examine.considerable.device.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Activate this. [This will use it up; nothing will remain.]",
+  "dove": "recipes/examine.considerable.device.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Analyse",
+  "dove": "recipes/examine.considerable.liquid.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Analyse the liquid. [Nothing will remain.]",
+  "dove": "recipes/examine.considerable.liquid.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Analyse this substance. [Nothing will remain.]",
+  "dove": "recipes/examine.considerable.material.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Consume",
+  "dove": "recipes/examine.considerable.fruit.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Consume the fruit. [Nothing will remain.]",
+  "dove": "recipes/examine.considerable.fruit.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dissect",
+  "dove": "recipes/examine.considerable.flower.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Dissect the flower. [Nothing will remain.]",
+  "dove": "recipes/examine.considerable.flower.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dissect the leaf. [Nothing will remain.]",
+  "dove": "recipes/examine.considerable.leaf.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dissect the remains. [Nothing will be left.]",
+  "dove": "recipes/examine.considerable.remains.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Dissect the root. [Nothing will remain.]",
+  "dove": "recipes/examine.considerable.root.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Drink",
+  "dove": "recipes/examine.considerable.beverage.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Drink the stuff. [This will consume the beverage. If it's a whole bottle, consider Serving it first so you don't drink the whole thing.]",
+  "dove": "recipes/examine.considerable.beverage.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Eat it. [There'll be nothing left, but you might enjoy the meal.]",
+  "dove": "recipes/examine.considerable.sustenance.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Inspect",
+  "dove": "recipes/examine.considerable.beast.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inspect this beast. [It can be more rewarding to Talk with a beast, though.]",
+  "dove": "recipes/examine.considerable.beast.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Investigate",
+  "dove": "recipes/examine.considerable.generic.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Investigate the mark. [Nothing will remain.]",
+  "dove": "recipes/examine.considerable.mark.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Investigate the object. [You won't use this up or consume it by doing this.]",
+  "dove": "recipes/examine.considerable.generic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Investigate?",
+  "dove": "recipes/examine.considerable.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Light the candle. [This will consume it.]",
+  "dove": "recipes/examine.considerable.candle.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What have I learnt?",
+  "dove": "recipes/examine.considerable.beast.desc",
+  "ricorre": 14
+ },
+ {
+  "en": "[Add a Soul card.]",
+  "dove": "recipes/examine.considerable.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Identify as Leeks",
+  "dove": "recipes/examine.vegetables.leeks.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Identify as Onions",
+  "dove": "recipes/examine.vegetables.onions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Identify as Potatoes",
+  "dove": "recipes/examine.vegetables.potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Identify as a Marrow",
+  "dove": "recipes/examine.vegetables.marrow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Identify as a Pumpkin",
+  "dove": "recipes/examine.vegetables.pumpkin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "These are leeks. Excellent.",
+  "dove": "recipes/examine.vegetables.leeks.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "These are onions. Wonderful.",
+  "dove": "recipes/examine.vegetables.onions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "These are potatoes. Spectacular.",
+  "dove": "recipes/examine.vegetables.potatoes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is a marrow. Promising.",
+  "dove": "recipes/examine.vegetables.marrow.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This is a pumpkin. Marvellous.",
+  "dove": "recipes/examine.vegetables.pumpkin.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A Beginning",
+  "dove": "recipes/lighthouse.basehint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Foundation",
+  "dove": "recipes/lighthouse.foundation.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Convene the Institute",
+  "dove": "recipes/lighthouse.convene.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Five notables are ready to establish the Lighthouse Institute, the successor to the Curia of the Isle. Since no replacement is available for Rowena, she will continue as Secretary Persistent. Perhaps this is evidence to support Clogg's Law: 'Over time, an occult organisation will prove increasingly unable to rid itself of its immortal members.' [Once you've taken this step, you'll no longer be able to change your preferences for candidates - and if any candidates die or disappear, the Lighthouse Institute will be stillborn. <b>If you've selected candidates with opposing Agendas, Fears or Sympathies, those inspirations will be deadlocked.</b>]",
+  "dove": "recipes/lighthouse.foundation.rowena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Flushing!",
+  "dove": "recipes/lighthouse.flush.label",
+  "ricorre": 1
+ },
+ {
+  "en": "For some reason, not everyone can attend. Travelling? Lost? If I repeat the agreed signal, will it work this time?",
+  "dove": "recipes/lighthouse.convene.failed.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "From across the Wake they come, by land and sea and sky, like birds at sunset...",
+  "dove": "recipes/lighthouse.convene.grab.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'll need six suitable candidates - enough to reconstitute the old structure of the Curia of the Isle, with a new Secretary Persistent to replace Rowena.",
+  "dove": "recipes/lighthouse.basehint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Six notables are ready to establish the Lighthouse Institute, the successor to the Curia of the Isle. [Once you've taken this step, you'll no longer be able to change your preferences for candidates - and if any candidates die or disappear, the Lighthouse Institute will be stillborn. <b>If you've selected candidates with opposing Agendas, Fears or Sympathies, those inspirations will be deadlocked.</b>]",
+  "dove": "recipes/lighthouse.foundation.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The founders of the Lighthouse Institute have returned to Brancrug. [To continue, place your journal in a Hush House room with all six founders.]",
+  "dove": "recipes/lighthouse.convene.succeeded.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "These are the six founders; they are almost ready to inaugurate their Institute. The seventh, unacknowledged, is the Librarian. [To continue, place your journal in a Hush House room with all six founders. Place your journal in the Lighthouse to summon them quickly.]",
+  "dove": "recipes/lighthouse.foundation.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "This is not a step to take lightly. I should convene the Institute only when I'm ready to host a meeting that makes the final decisions: including appropriate tea and cake, or suitable alternatives. [The founders will come to Hush House unless they're travelling home or otherwise unavailable.]",
+  "dove": "recipes/lighthouse.convene.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Approaching the End",
+  "dove": "recipes/meddle.consultation.catch.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Combine two Inklings",
+  "dove": "recipes/meddle.combine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Consider an Inkling",
+  "dove": "recipes/meddle.avoid.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Investigate insight from an incident. [This will give you a Persistent Memory. Alternatively, combine two Inklings if you'd like to try something unwise.]",
+  "dove": "recipes/meddle.avoid.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It is not the Librarian's business to meddle in the world beyond Hush House. But sometimes the Librarian gets curious. [This will create an Avenue of Enquiry.]",
+  "dove": "recipes/meddle.combine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It is not the Librarian's business to meddle in the world beyond Hush House. But sometimes the Librarian gets curious; sometimes the Librarian misuses their prerogatives because they grow restless. [This will precipitate an Incident, if any yet remain undrawn. If there's already an Incident, Visitors might not initially interact with the one you intend. Instigate informedly, Ys-incipient.]",
+  "dove": "recipes/meddle.summon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Meddle",
+  "dove": "recipes/meddle.summon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[No Incident has occurred, this time. Perhaps some kind of ending approaches. We might even say <i>immanesces</i>, if we were those sort of people.]",
+  "dove": "recipes/meddle.consultation.catch.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations. The founders never could agree on a clear mission, besides 'to keep us all from the rocks'; but it's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.uncertain.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of creating alternatives to the Hours. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.better.gods.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of disseminating occult knowledge. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.revelation.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of exploiting the remnants of the gods-from-stone. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.stone.consumed.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of mortal self-sufficiency. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.autarchy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of perpetuating creative conflict. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.corrivality.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of preserving peace. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.peace.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of preserving the remnants of the gods-from-stone. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.stone.remembered.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've laid the Institute's foundations; steered the negotiations; overseen the early operations; helped establish its mission of protecting occult knowledge from unwise attention. It's up to them now. \n \n [This will complete the game.]",
+  "dove": "recipes/lighthouse.end.secrecy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My Work is Complete",
+  "dove": "recipes/lighthouse.end.autarchy.label",
+  "ricorre": 9
+ },
+ {
+  "en": "<i>One founder insisted we should ally with Ys; another refused, warning of Ys' legendary and fundamental treachery.</i>",
+  "dove": "recipes/salon.ys.deadlock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>One founder insisted we should ally with the Chandler; another was horrified at any dealings with that rising power.</i>",
+  "dove": "recipes/salon.chandler.deadlock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>One founder insisted we should embrace our kinship with the Carapace Cross; another refused to countenance any loss of our truer humanity.</i>",
+  "dove": "recipes/salon.carapace.deadlock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ally: None",
+  "dove": "recipes/salon.alliance.none.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ally: Ys",
+  "dove": "recipes/salon.alliance.ys.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ally: the Carapace Cross",
+  "dove": "recipes/salon.alliance.carapace.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ally: the Chandler",
+  "dove": "recipes/salon.alliance.chandler.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ally: the Reckoner Lords",
+  "dove": "recipes/salon.alliance.reckoners.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Deadlock",
+  "dove": "recipes/salon.carapace.deadlock.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Foe: Devourers",
+  "dove": "recipes/salon.foe.devourers.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Foe: None",
+  "dove": "recipes/salon.foe.none.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Foe: Ys",
+  "dove": "recipes/salon.foe.ys.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Foe: the Carapace Cross",
+  "dove": "recipes/salon.foe.carapace.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Foe: the Chandler",
+  "dove": "recipes/salon.foe.chandler.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Foe: the Nowhere Hours",
+  "dove": "recipes/salon.foe.nowhere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved that Ys, the city beyond the wave, has been left unchallenged too long: its seductions might capsize the waking world.",
+  "dove": "recipes/salon.foe.ys.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved that the all-consuming horror of the gods-from-Nowhere is the greatest threat mortalkind ever need fear.",
+  "dove": "recipes/salon.foe.nowhere.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved that the benefits of working with Ys greatly outweigh its dangers.",
+  "dove": "recipes/salon.alliance.ys.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved that the coming Hour called Chandler is the most serious occult threat to mortalkind.",
+  "dove": "recipes/salon.foe.chandler.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved that the returning Carapace Cross, and the changes that might come, are the most significant occult threat to mortalkind.",
+  "dove": "recipes/salon.foe.carapace.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved to forge alliances with the Carapace Cross, as their return begins.",
+  "dove": "recipes/salon.alliance.carapace.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved to guard mortalkind first against the perils of the hidden world: alukites, Mansus-spirits, hungry ghosts...",
+  "dove": "recipes/salon.foe.devourers.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute has resolved to make a mutually beneficial arrangement with the merchants of years.",
+  "dove": "recipes/salon.alliance.reckoners.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The institute has resolved to work with the Chandler... when the Chandler finally becomes manifest.",
+  "dove": "recipes/salon.alliance.chandler.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Deadlock: founders have opposing Fear/Sympathy. We can't inaugurate the Institute with Ys as either an Ally or a Foe]",
+  "dove": "recipes/salon.ys.deadlock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Deadlock: founders have opposing Fear/Sympathy. We can't inaugurate the Institute with the Carapace Cross as either an Ally or a Foe.]",
+  "dove": "recipes/salon.carapace.deadlock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Deadlock: founders have opposing Fear/Sympathy. We can't inaugurate the Institute with the Chandler as either an Ally or a Foe]",
+  "dove": "recipes/salon.chandler.deadlock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>After hours of argument, we were unable to settle to a specific mission, beyond 'to keep all mortalkind from the rocks of eternal night.'</i>",
+  "dove": "recipes/salon.mission.uncertain.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>One founder argued for the benefits of conflict. Another insisted on its futility...</i>",
+  "dove": "recipes/salon.mission.corrivality.peace.deadlock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>One founder argued that Calyptra protected us - another, that it burdened us intolerably...</i>",
+  "dove": "recipes/salon.mission.revelation.secrecy.deadlock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>One founder argued that we should honour the gods of the redder sun - another, that they were both a danger and a resource to be consumed...</i>",
+  "dove": "recipes/salon.mission.consumed.remembered.deadlock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mission: Autarchy",
+  "dove": "recipes/salon.mission.autarchy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mission: Better Gods",
+  "dove": "recipes/salon.mission.better.gods.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mission: Corrivality",
+  "dove": "recipes/salon.mission.corrivality.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mission: Peace",
+  "dove": "recipes/salon.mission.peace.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mission: Revelation",
+  "dove": "recipes/salon.mission.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mission: Secrecy",
+  "dove": "recipes/salon.mission.secrecy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mission: Stone Remembered",
+  "dove": "recipes/salon.mission.stone.remembered.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ready for the Institute's Inaugural Meeting?",
+  "dove": "recipes/salon.institute.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Institute will unrearth, preserve, honour, recall something of the gods-from-stone, who came before the Hours we know.",
+  "dove": "recipes/salon.mission.stone.remembered.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Deadlock: founders have opposing Agendas. We can't inaugurate the Institute with  Mission: Stone Remembered or Consumed.]",
+  "dove": "recipes/salon.mission.consumed.remembered.deadlock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Deadlock: founders have opposing Agendas. We can't inaugurate the Institute with either Mission: Peace or Mission: Corrivality.]",
+  "dove": "recipes/salon.mission.corrivality.peace.deadlock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Deadlock: founders have opposing Agendas. We can't inaugurate the Institute with either Mission: Secrecy or Mission: Revelation.]",
+  "dove": "recipes/salon.mission.revelation.secrecy.deadlock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[Once you've assembled all the Founders, ensure the room contains refreshments - to eat and to drink - as well as your Journal.]",
+  "dove": "recipes/salon.institute.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A First Course?",
+  "dove": "recipes/salon.hint.course.first.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Little Chilly?",
+  "dove": "recipes/salon.hint.picnicking.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Little Early?",
+  "dove": "recipes/salon.hint.formal.early.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Little Late?",
+  "dove": "recipes/salon.hint.picnic.late.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Little Much?",
+  "dove": "recipes/salon.hint.informal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Main Course?",
+  "dove": "recipes/salon.hint.course.main.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Salon?",
+  "dove": "recipes/salon.hint.guests.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Side Course?",
+  "dove": "recipes/salon.hint.course.side.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Unsociable Visitor?",
+  "dove": "recipes/salon.hint.unsociable.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Drinks?",
+  "dove": "recipes/salon.hint.beverage.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Food?",
+  "dove": "recipes/salon.hint.sustenance.label",
+  "ricorre": 1
+ },
+ {
+  "en": "For Lunch or Supper, you'll always need at least one First Course dish.",
+  "dove": "recipes/salon.hint.course.first.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "For Lunch or Supper, you'll always need at least one Main Course dish.",
+  "dove": "recipes/salon.hint.course.main.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "For Lunch or Supper, you'll always need at least one Side Dish.",
+  "dove": "recipes/salon.hint.course.side.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In this part of the world, we picnic only in Spring and Summer.",
+  "dove": "recipes/salon.hint.picnicking.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Make sure there's at least one thing in the room for every visitor to eat.",
+  "dove": "recipes/salon.hint.sustenance.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Make sure there's one thing in the room for every visitor to drink.",
+  "dove": "recipes/salon.hint.beverage.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Never in Numa",
+  "dove": "recipes/salon.hint.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Not How It's Done",
+  "dove": "recipes/salon.hint.informal.timing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "One does not picnic when it's too dark to apply jam without peril of jam-related accidents.",
+  "dove": "recipes/salon.hint.picnic.late.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "One might only have Elevenses in the morning; and Afternoon Tea only at the appropriate time for afternoon tea.",
+  "dove": "recipes/salon.hint.informal.timing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "One might only have Lunch or Supper after midday.",
+  "dove": "recipes/salon.hint.formal.early.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "One really shouldn't serve Intoxicating drinks with Elevenses or with Afternoon Tea.",
+  "dove": "recipes/salon.hint.informal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps someone has tried to hold a Salon in Numa at some point. Perhaps at several points. We'll never know, because no records of an attempt have survived. [No Salons in Numa.]",
+  "dove": "recipes/salon.hint.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Raw Food?",
+  "dove": "recipes/salon.hint.raw.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Raw meat and vegetables might be suitable as gifts to assistants, but not as meals for guests. Make sure there's nothing Raw in the room.",
+  "dove": "recipes/salon.hint.raw.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitors marked as Unsociable are wary of other Visitors. They won't attend the usual kind of Salon - although they will attend a final Salon to inaugurate the Institute.",
+  "dove": "recipes/salon.hint.unsociable.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[Salons here must be in Morning or Afternoon, with at least two guests. The more guests, the more successful, but you'll need enough food and drink in the room for everyone - and since this will be Elevenses or Afternoon Tea, nothing Intoxicating.]",
+  "dove": "recipes/salon.hint.guests.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis will only attend if there's at least one <sprite name=heart> drink.",
+  "dove": "recipes/salon.pref.bev.block.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur Moore will only attend if there's at least one <sprite name=lantern> drink.",
+  "dove": "recipes/salon.pref.bev.block.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur Moore's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.arthur.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita will only attend if there's at least one <sprite name=edge> drink.",
+  "dove": "recipes/salon.pref.bev.block.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima will only attend if there's at least one <sprite name=edge> drink.",
+  "dove": "recipes/salon.pref.bev.block.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie will only attend if there's at least one <sprite name=sky> drink.",
+  "dove": "recipes/salon.pref.bev.block.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.connie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille will only attend if there's at least one <sprite name=grail> drink.",
+  "dove": "recipes/salon.pref.bev.block.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso will only attend if there's at least one <sprite name=grail> drink.",
+  "dove": "recipes/salon.pref.bev.block.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.corso.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daymare will only attend if there's at least one <sprite name=knock> drink.",
+  "dove": "recipes/salon.pref.bev.block.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Daymare's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas Moore will only attend if there's at least one <sprite name=lantern> drink.",
+  "dove": "recipes/salon.pref.bev.block.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas Moore's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.douglas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan will only attend if there's at least one <sprite name=sky> drink.",
+  "dove": "recipes/salon.pref.bev.block.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Stanislav will only attend if there's at least one <sprite name=heart> drink.",
+  "dove": "recipes/salon.pref.bev.block.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Stanislav's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.stanislav.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald will only attend if there's at least one <sprite name=forge> drink.",
+  "dove": "recipes/salon.pref.bev.block.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.hokobald.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen will only attend if there's at least one <sprite name=sky> drink.",
+  "dove": "recipes/salon.pref.bev.block.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe will only attend if there's at least one <sprite name=forge> drink.",
+  "dove": "recipes/salon.pref.bev.block.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.olympe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Peel will only attend if there's at least one <sprite name=moon> drink.",
+  "dove": "recipes/salon.pref.bev.block.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Peel's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.arun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena will only attend if there's at least one <sprite name=forge> drink.",
+  "dove": "recipes/salon.pref.bev.block.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Strathcoyne will only attend if there's at least one <sprite name=scale> drink.",
+  "dove": "recipes/salon.pref.bev.block.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Strathcoyne's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary will only attend if there's at least one <sprite name=winter> drink.",
+  "dove": "recipes/salon.pref.bev.block.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "al-Adim will only attend if there's at least one non-Intoxicating drink.",
+  "dove": "recipes/salon.pref.bev.block.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "al-Adim's Beverage Preferences",
+  "dove": "recipes/salon.pref.bev.block.aladim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis will only attend if there's something to eat with <sprite name=heart>.",
+  "dove": "recipes/salon.pref.rep.block.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur Moore will only attend if there's something to eat with <sprite name=lantern>.",
+  "dove": "recipes/salon.pref.rep.block.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur Moore's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.arthur.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita will only attend if there's something to eat with <sprite name=edge>.",
+  "dove": "recipes/salon.pref.rep.block.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima will only attend if there's something to eat with <sprite name=edge>.",
+  "dove": "recipes/salon.pref.rep.block.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie will only attend if there's something to eat with <sprite name=sky>.",
+  "dove": "recipes/salon.pref.rep.block.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.connie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille will only attend if there's something to eat with <sprite name=grail>.",
+  "dove": "recipes/salon.pref.rep.block.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso will only attend if there's something to eat with <sprite name=grail>.",
+  "dove": "recipes/salon.pref.rep.block.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.corso.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daymare will only attend if there's something to eat with <sprite name=knock>.",
+  "dove": "recipes/salon.pref.rep.block.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Daymare's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas Moore will only attend if there's something to eat with <sprite name=lantern>.",
+  "dove": "recipes/salon.pref.rep.block.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas Moore's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.douglas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan will only attend if there's something to eat with <sprite name=moon>.",
+  "dove": "recipes/salon.pref.rep.block.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Stanislav will only attend if there's something to eat with <sprite name=heart>.",
+  "dove": "recipes/salon.pref.rep.block.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Stanislav's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.stanislav.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald will only attend if there's something to eat with <sprite name=forge>.",
+  "dove": "recipes/salon.pref.rep.block.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.hokobald.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen will only attend if there's something to eat with <sprite name=sky>.",
+  "dove": "recipes/salon.pref.rep.block.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe will only attend if there's something to eat with <sprite name=forge>.",
+  "dove": "recipes/salon.pref.rep.block.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.olympe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Peel will only attend if there's something to eat with <sprite name=moon>.",
+  "dove": "recipes/salon.pref.rep.block.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Peel's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.arun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena will only attend if there's something to eat with <sprite name=forge>.",
+  "dove": "recipes/salon.pref.rep.block.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Strathcoyne will only attend if there's something to eat with <sprite name=scale>.",
+  "dove": "recipes/salon.pref.rep.block.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Strathcoyne's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary will only attend if there's something to eat with <sprite name=winter>.",
+  "dove": "recipes/salon.pref.rep.block.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "al-Adim will only attend if there's something to eat with <sprite name=scale>.",
+  "dove": "recipes/salon.pref.rep.block.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "al-Adim's Meal Preferences",
+  "dove": "recipes/salon.pref.rep.block.aladim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Formal Meal",
+  "dove": "recipes/salon.setup.formal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Lively Chat Concludes",
+  "dove": "recipes/salon.end.lively.informal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Lively Meal Concludes",
+  "dove": "recipes/salon.end.lively.formal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Lively Picnic Concludes",
+  "dove": "recipes/salon.end.lively.picnic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Quiet Chat Concludes",
+  "dove": "recipes/salon.end.quiet.informal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Quiet Meal Concludes",
+  "dove": "recipes/salon.end.quiet.formal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Quiet Picnic Concludes",
+  "dove": "recipes/salon.end.quiet.picnic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Sombre Chat Concludes",
+  "dove": "recipes/salon.end.sombre.informal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Sombre Meal Concludes",
+  "dove": "recipes/salon.end.sombre.formal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Sombre Picnic Concludes",
+  "dove": "recipes/salon.end.sombre.picnic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A more sober tone... [Add a Phost card.]",
+  "dove": "recipes/slnch.needs.ability.phost.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Afternoon Tea",
+  "dove": "recipes/salon.begin.afternoon.tea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask about dreams... [Add a Fet card.]",
+  "dove": "recipes/slnch.needs.ability.fet.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conversation ebbs and flows...",
+  "dove": "recipes/salon.router.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conversation rises, falls, ebbs, flows.",
+  "dove": "recipes/lastresortfallthroughslnev.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Elevenses",
+  "dove": "recipes/salon.begin.elevenses.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Energetic Exchanges",
+  "dove": "recipes/slnch.needs.ability.ereb.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Exalted Debates",
+  "dove": "recipes/slnch.needs.ability.phost.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inject a little gaiety... [Add a Chor card.]",
+  "dove": "recipes/slnch.needs.ability.chor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Instinct and emotion... [Add a Trist card.]",
+  "dove": "recipes/slnch.needs.ability.trist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invite a challenge. [Add a Mettle card.]",
+  "dove": "recipes/slnch.needs.ability.mettle.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Lively Chatter",
+  "dove": "recipes/slnch.needs.ability.chor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lively Conversation",
+  "dove": "recipes/slnch.needs.ability.shapt.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Lunch",
+  "dove": "recipes/salon.begin.lunch.afternoon.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Mansus Tales",
+  "dove": "recipes/slnch.needs.ability.fet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests leave content. [For a more successful salon, add more guests, ensure you have the right Soul cards, or both].",
+  "dove": "recipes/salon.end.quiet.formal.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "My guests leave happy. [You've gained an additional potent Memory.]",
+  "dove": "recipes/salon.end.lively.formal.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "My guests leave in silence.  [For a more successful salon, add more guests, ensure you have the right Soul cards, or both].",
+  "dove": "recipes/salon.end.sombre.formal.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "My guests leave in silence. [For a more successful salon, add more guests, ensure you have the right Soul cards, or both].",
+  "dove": "recipes/salon.end.sombre.informal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests settle down to a Picnic. [Keep an eye on the Salon as it progresses - you'll need to add Soul cards to encourage the conversation to flow. Different guests will need different Soul cards. The more guests, the longer the Salon will last.]",
+  "dove": "recipes/salon.begin.picnic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests take their places for Afternoon Tea. [Keep an eye on the Salon as it progresses - you'll need to add Soul cards to encourage the conversation to flow. Different guests will need different Soul cards. The more guests, the longer the Salon will last.]",
+  "dove": "recipes/salon.begin.afternoon.tea.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests take their places for Elevenses. [Keep an eye on the Salon as it progresses - you'll need to add Soul cards to encourage the conversation to flow. Different guests will need different Soul cards. The more guests, the longer the Salon will last.]",
+  "dove": "recipes/salon.begin.elevenses.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests take their places for Lunch. [Keep an eye on the Salon as it progresses - you'll need to add Soul cards to encourage the conversation to flow. Different guests will need different Soul cards. The more guests, the longer the Salon will last.]",
+  "dove": "recipes/salon.begin.lunch.noon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests take their places for Supper. [Keep an eye on the Salon as it progresses - you'll need to add Soul cards to encourage the conversation to flow. Different guests will need different Soul cards. The more guests, the longer the Salon will last.]",
+  "dove": "recipes/salon.begin.supper.dusk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests take their places for a late Lunch. [Keep an eye on the Salon as it progresses - you'll need to add Soul cards to encourage the conversation to flow. Different guests will need different Soul cards. The more guests, the longer the Salon will last.]",
+  "dove": "recipes/salon.begin.lunch.afternoon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My guests take their places for a late Supper. [Keep an eye on the Salon as it progresses - you'll need to add Soul cards to encourage the conversation to flow. Different guests will need different Soul cards. The more guests, the longer the Salon will last.]",
+  "dove": "recipes/salon.begin.supper.night.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Not Just Now -",
+  "dove": "recipes/salon.recent.hint.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Picnic",
+  "dove": "recipes/salon.begin.picnic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Raise a complex question... [Add a Wist card.]",
+  "dove": "recipes/slnch.needs.ability.wist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reasoned Discussion",
+  "dove": "recipes/slnch.needs.ability.wist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Salon: What Next?",
+  "dove": "recipes/salon.router.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Say something witty... [Add a Shapt card.]",
+  "dove": "recipes/slnch.needs.ability.shapt.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Serious Discussions",
+  "dove": "recipes/slnch.needs.ability.mettle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Spice up the conversation... [Add an Ereb card.]",
+  "dove": "recipes/slnch.needs.ability.ereb.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Supper",
+  "dove": "recipes/salon.begin.supper.dusk.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Wistful Asides",
+  "dove": "recipes/slnch.needs.ability.trist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[Lunch and Supper last longer than less formal salons - allowing an extra interaction between your guests. [+ Time Remaining]",
+  "dove": "recipes/salon.setup.formal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[You can only hold one Salon each season.]",
+  "dove": "recipes/salon.recent.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=scale>.",
+  "dove": "recipes/cook.beef.marinated.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=grail> <sprite name=heart>.",
+  "dove": "recipes/cook.potatoes.dripping.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=knock> <sprite name=moth> <sprite name=nectar> <sprite name=scale>.",
+  "dove": "recipes/cook.spicing.pumpkin.amber.x.dough.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=knock>.",
+  "dove": "recipes/cook.knife.potatoes.dripping.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.dough.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=scale>.",
+  "dove": "recipes/cook.beef.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart> <sprite name=winter>.",
+  "dove": "recipes/cook.potatoes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=forge> <sprite name=heart>.",
+  "dove": "recipes/cook.knife.bread.veg.basket.leeks.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=grail> <sprite name=heart> <sprite name=lantern> <sprite name=moth> <sprite name=nectar> <sprite name=scale>.",
+  "dove": "recipes/cook.dough.cake.honey.cuckoo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=grail> <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.knife.batter.veg.basket.onions.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=grail> <sprite name=heart> <sprite name=rose> <sprite name=scale> <sprite name=sky>.",
+  "dove": "recipes/cook.pheasant.butter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=heart> <sprite name=knock> <sprite name=moon> <sprite name=moth> <sprite name=nectar> <sprite name=scale>.",
+  "dove": "recipes/cook.pumpkin.amber.x.dripping.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=heart> <sprite name=moon> <sprite name=nectar>.",
+  "dove": "recipes/cook.mushrooms.intoxicating.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=heart> <sprite name=moon> <sprite name=scale>.",
+  "dove": "recipes/cook.mackerel.intoxicating.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.knife.veg.marrow.acrid.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=edge> <sprite name=moon> <sprite name=nectar>.",
+  "dove": "recipes/cook.veg.basket.leeks.dripping.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=knock> <sprite name=lantern> <sprite name=moth> <sprite name=nectar> <sprite name=scale>.",
+  "dove": "recipes/cook.pie.pears.beef.roast.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=lantern>.",
+  "dove": "recipes/cook.spicing.almonds.sugar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=grail> <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.spicing.dough.fruit.bowl.pears.startdescription",
+  "ricorre": 4
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=grail> <sprite name=heart>.",
+  "dove": "recipes/cook.knife.ham.canned.bread.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=grail> <sprite name=knock> <sprite name=nectar> <sprite name=winter>.",
+  "dove": "recipes/cook.spicing.meringue.pyrus.auricalcinus.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=grail> <sprite name=moon> <sprite name=nectar> <sprite name=winter>.",
+  "dove": "recipes/cook.spicing.meringue.fruit.bowl.pears.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=grail> <sprite name=nectar> <sprite name=winter>.",
+  "dove": "recipes/cook.spicing.meringue.veg.basket.apples.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=knock> <sprite name=moth> <sprite name=rose> <sprite name=scale> <sprite name=sky>.",
+  "dove": "recipes/cook.pheasant.dough.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=lantern> <sprite name=nectar>.",
+  "dove": "recipes/cook.pumpkin.amber.dough.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=moon> <sprite name=nectar> <sprite name=rose> <sprite name=scale> <sprite name=winter>.",
+  "dove": "recipes/cook.pilchards.dough.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=moon>.",
+  "dove": "recipes/cook.egg.mackerel.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=moth> <sprite name=scale> <sprite name=sky>.",
+  "dove": "recipes/cook.ham.canned.egg.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=nectar> <sprite name=rose>.",
+  "dove": "recipes/cook.dough.sack.vegetables.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=nectar>.",
+  "dove": "recipes/cook.ham.canned.potatoes.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A dish with <sprite name=forge> <sprite name=heart> <sprite name=rose> <sprite name=scale> <sprite name=sky>.",
+  "dove": "recipes/cook.pheasant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=forge>.",
+  "dove": "recipes/cook.dough.beef.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart> <sprite name=lantern> <sprite name=moth>.",
+  "dove": "recipes/cook.spicing.dough.cake.almonds.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A dish with <sprite name=grail> <sprite name=heart> <sprite name=moon> <sprite name=nectar>.",
+  "dove": "recipes/cook.fruit.bowl.pears.startdescription",
+  "ricorre": 1
+ }
+]

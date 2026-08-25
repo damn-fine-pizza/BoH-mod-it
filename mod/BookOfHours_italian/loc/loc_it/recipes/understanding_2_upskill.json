@@ -1,0 +1,502 @@
+{
+ "recipes": [
+  {
+   "id": "u.skill.max.hint",
+   "startdescription": "C’è sempre altro da imparare. ... ma è tempo per me di fermarmi, di riposare dopo la lunga scalata, e di godermi il panorama. [Questo è il massimo che un’Abilità può raggiungere... per ora.]"
+  },
+  {
+   "id": "u.skill.hint.needability",
+   "startdescription": "[Per migliorare un’abilità, ti servirà un Elemento dell’Anima con aspetti di Potere corrispondenti.]"
+  },
+  {
+   "id": "u.skill.hint.needmemory",
+   "startdescription": "[Per migliorare un’abilità, ti serviranno Memorie con aspetti di Potere corrispondenti – inclusa almeno una Lezione con aspetti di Potere corrispondenti.]"
+  },
+  {
+   "id": "u.skill.lesson.hint",
+   "startdescription": "[Per migliorare un’abilità, almeno una delle Memorie che usi deve essere una Lezione – di questa Abilità, o di un’altra che condivide un aspetto di Potere.]"
+  },
+  {
+   "id": "u.skill.hint.needmore",
+   "startdescription": "[Dovrai riempire ogni slot con Memorie che corrispondano a un aspetto di Potere – inclusa almeno una Lezione.]"
+  },
+  {
+   "id": "u.skill.to9",
+   "startdescription": "C’è sempre altro da imparare. [Migliora questa Abilità al livello 9.]",
+   "desc": "[Questa abilità è ora di livello 9. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.to8",
+   "startdescription": "Finalmente, mi avvicino alla maestria... [Migliora questa abilità al livello 8.]",
+   "desc": "[Questa abilità è ora di livello 8. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.to7",
+   "startdescription": "Quando credevo di aver capito, avevo solo cominciato. [Migliora questa abilità al livello 7.]",
+   "desc": "[Questa abilità è ora di livello 7. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.to6",
+   "startdescription": "Finalmente, in questo campo ho una certa autorità. [Migliora questa abilità al livello 6.]",
+   "desc": "[Questa abilità è ora di livello 6. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.to5",
+   "startdescription": "Che soddisfazione, il cammino percorso fin qui. [Migliora questa abilità al livello 5.]",
+   "desc": "[Questa abilità è ora di livello 5. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.to4",
+   "startdescription": "Un altro frutto colto dall’albero della conoscenza. [Migliora questa abilità al livello 4.]",
+   "desc": "[Questa abilità è ora di livello 4. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.to3",
+   "startdescription": "Non ne so tutto... ma nemmeno poco. [Migliora questa abilità al livello 3.]",
+   "desc": "[Questa abilità è ora di livello 3. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.to2",
+   "startdescription": "C’è sempre altro da imparare. [Migliora questa Abilità al livello 2. Questo ne aumenterà gli Aspetti, che aiuteranno nella creazione; e la renderà adatta a rami più alti dell’Albero delle Sapienze, se non l’hai già assegnata.]",
+   "desc": "[Questa abilità è ora di livello 2. Anche i suoi aspetti di Potere sono aumentati.]"
+  },
+  {
+   "id": "u.skill.preliminalmeter.learn",
+   "label": "Acquisire Metro Preliminale",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.pyroglyphics.learn",
+   "label": "Acquisire Piroglifici",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.inks.containment.learn",
+   "label": "Acquisire Inchiostri di Contenimento",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.inks.revelation.learn",
+   "label": "Acquisire Inchiostri di Rivelazione",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.inks.power.learn",
+   "label": "Acquisire Inchiostri di Potere",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.drums.dances.learn",
+   "label": "Acquisire Tamburi & Danze",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.strings.songs.learn",
+   "label": "Acquisire Corde & Canti",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.bells.brazieries.learn",
+   "label": "Acquisire Campane & Bracieri",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.horns.ivories.learn",
+   "label": "Acquisire Corna & Avori",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.surgeries.exsanguinations.learn",
+   "label": "Acquisire Chirurgie & Dissanguamenti",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.stitching.binding.learn",
+   "label": "Acquisire Cucitura & Rilegatura",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.furs.feathers.learn",
+   "label": "Acquisire Pellicce & Piume",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.pearl.tide.learn",
+   "label": "Acquisire Perla & Marea",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.insects.nectars.learn",
+   "label": "Acquisire Insetti & Nettari",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.herbs.infusions.learn",
+   "label": "Acquisire Erbe & Infusi",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.spices.savours.learn",
+   "label": "Acquisire Spezie & Sapori",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.leaves.thorns.learn",
+   "label": "Acquisire Foglie & Spine",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.orchids.narcotics.learn",
+   "label": "Acquisire Orchidee & Narcotici",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.serpents.venoms.learn",
+   "label": "Acquisire Serpenti & Veleni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.sights.sensations.learn",
+   "label": "Acquisire Visioni & Sensazioni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.desires.dissolutions.learn",
+   "label": "Acquisire Desideri & Dissoluzioni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.resurgences.emergences.learn",
+   "label": "Acquisire Risorgenze & Emersioni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.rhyme.remembrance.learn",
+   "label": "Acquisire Rima & Rimembranza",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.disciplines.thehammer.learn",
+   "label": "Acquisire Discipline del Martello",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.disciplines.thescar.learn",
+   "label": "Acquisire Discipline della Cicatrice",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.auroralcontemplations.learn",
+   "label": "Acquisire Contemplazioni Aurorali",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.applebrighteuphonies.learn",
+   "label": "Acquisire Eufonie di Applebright",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.watchmansparadoxes.learn",
+   "label": "Acquisire Paradossi del Guardiano",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.raggedcrossroads.learn",
+   "label": "Acquisire Crocevia Logoro",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.meniscatereflections.learn",
+   "label": "Acquisire Riflessi Meniscati",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.putrefactions.calcinations.learn",
+   "label": "Acquisire Putrefazioni & Calcinazioni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.solutions.separations.learn",
+   "label": "Acquisire Soluzioni & Separazioni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.path.pilgrim.learn",
+   "label": "Acquisire Cammino & Pellegrino",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.purifications.exaltations.learn",
+   "label": "Acquisire Purificazioni & Esaltazioni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.transformations.liberations.learn",
+   "label": "Acquisire Trasformazioni & Liberazioni",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.lockworks.clockworks.learn",
+   "label": "Acquisire Serrature & Orologi",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.seastories.learn",
+   "label": "Acquisire Storie di Mare",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.wolfstories.learn",
+   "label": "Acquisire Storie di Lupo",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.sandstories.learn",
+   "label": "Acquisire Storie di Sabbia",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.skystories.learn",
+   "label": "Acquisire Storie di Cielo",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.snowstories.learn",
+   "label": "Acquisire Storie di Neve",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.stonestories.learn",
+   "label": "Acquisire Storie di Pietra",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.vak.learn",
+   "label": "Acquisire Vak",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.mandaic.learn",
+   "label": "Acquisire Mandaico",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.killasimi.learn",
+   "label": "Acquisire Killasimi",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.fucine.learn",
+   "label": "Acquisire Fucine",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.sabazine.learn",
+   "label": "Acquisire Sabazine",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.cracktrack.learn",
+   "label": "Acquisire Cracktrack",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.hyksos.learn",
+   "label": "Acquisire Hyksos",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.ericapaean.learn",
+   "label": "Acquisire Ericapaean",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.ramsund.learn",
+   "label": "Acquisire Ramsund",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.sacrasolisinvicti.learn",
+   "label": "Acquisire Sacra Solis Invicti",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.tridesmahiera.learn",
+   "label": "Acquisire Tridesma Hiera",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.sacralimiae.learn",
+   "label": "Acquisire Sacra Limiae",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.sickle.eclipse.learn",
+   "label": "Acquisire Falce & Eclissi",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.hill.hollow.learn",
+   "label": "Acquisire Colle & Valle",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.pentiments.precursors.learn",
+   "label": "Acquisire Pentimenti & Precursori",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.coil.chasm.learn",
+   "label": "Acquisire Spira & Baratro",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.rites.theroots.learn",
+   "label": "Acquisire Riti delle Radici",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.door.wall.learn",
+   "label": "Acquisire Porta & Muro",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.edictsliminal.learn",
+   "label": "Acquisire Editti Liminali",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.edictsmartial.learn",
+   "label": "Acquisire Editti Marziali",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.edictsinviolable.learn",
+   "label": "Acquisire Editti Inviolabili",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.thegreatsignsandthegreatscars.learn",
+   "label": "Acquisire I Grandi Segni e le Grandi Cicatrici",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.maggephenemysteries.learn",
+   "label": "Acquisire Misteri Maggephene",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.weaving.knotworking.learn",
+   "label": "Acquisire Tessitura & Annodatura",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.anbary.lapidary.learn",
+   "label": "Acquisire Ambreria & Lapidario",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.quenchings.quellings.learn",
+   "label": "Acquisire Spegnimenti & Placamenti",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.glassblowing.vesselcrafting.learn",
+   "label": "Acquisire Vetro Soffiato & Vasellame",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.glaziery.lightsmithing.learn",
+   "label": "Acquisire Vetreria & Lucefabbro",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.sharps.learn",
+   "label": "Acquisire Taglienti",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.ouranoscopy.learn",
+   "label": "Acquisire Uranoscopia",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  },
+  {
+   "id": "u.skill.henavek.learn",
+   "label": "Acquisire Henavek",
+   "startdescription": "Usa questa Lezione per acquisire una nuova Abilità.",
+   "desc": "Un’altra foglia sull’Albero delle Sapienze."
+  }
+ ]
+}

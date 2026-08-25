@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "Memory: Fear",
+  "dove": "elements/mem.fear.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Foresight",
+  "dove": "elements/mem.foresight.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Gossip",
+  "dove": "elements/mem.gossip.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Hindsight",
+  "dove": "elements/mem.hindsight.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Impulse",
+  "dove": "elements/mem.impulse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Intuition",
+  "dove": "elements/mem.intuition.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Loss",
+  "dove": "elements/mem.loss.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Pattern",
+  "dove": "elements/mem.pattern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Regret",
+  "dove": "elements/mem.regret.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Revelation",
+  "dove": "elements/mem.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Salt",
+  "dove": "elements/mem.salt.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Satisfaction",
+  "dove": "elements/mem.satisfaction.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Scent",
+  "dove": "elements/mem.scent.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Sight",
+  "dove": "elements/mem.sight.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Solace",
+  "dove": "elements/mem.solace.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Sound",
+  "dove": "elements/mem.sound.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Storm",
+  "dove": "elements/mem.storm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Taste",
+  "dove": "elements/mem.taste.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Touch",
+  "dove": "elements/mem.touch.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Meringue",
+  "dove": "elements/meringue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Meteoric Iron Candelabra",
+  "dove": "elements/candelabra.meteoric.iron.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Meteoric iron is an unusual choice for a candelabra; but it has certain uses in exorcism…",
+  "dove": "elements/candelabra.meteoric.iron.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Midnight Mark",
+  "dove": "elements/midnight.mark.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mihail in Chains",
+  "dove": "elements/painting.mihail.sarcophagus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mihail in Glory",
+  "dove": "elements/painting.mihail.altar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mihail, Messenger to Darkness, depicted after his defeat.",
+  "dove": "elements/painting.mihail.sarcophagus.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mihail, Messenger to Darkness, depicted in the fullness of his power.",
+  "dove": "elements/painting.mihail.altar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mirrorscope",
+  "dove": "elements/mirrorscope.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Misshapen Fruit",
+  "dove": "elements/fruit.misshapen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mist-Kissed Water (Glass)",
+  "dove": "elements/glass.water.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mist-Kissed Water (Half-Pitcher)",
+  "dove": "elements/pitcher.water.numa.h.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mist-Kissed Water (Pitcher)",
+  "dove": "elements/pitcher.water.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moly",
+  "dove": "elements/moly.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moly au Jus",
+  "dove": "elements/moly.aujus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Monogrammed 'D.G.'",
+  "dove": "elements/typewriter.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Moon Footstool",
+  "dove": "elements/footstool.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moon Stool",
+  "dove": "elements/stool.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mop and Bucket",
+  "dove": "elements/bucket.mop.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Morbid Casket",
+  "dove": "elements/casket.morbid.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgue Boots",
+  "dove": "elements/boots.morgue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mortar & Pestle",
+  "dove": "elements/mortar.pestle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Most suitable, according to Mrs Arabella Boxer, for a light supper, or a ladies' lunch.",
+  "dove": "elements/mackerel.montecarlo.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth Orchid",
+  "dove": "elements/moth.orchid.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth's gift to the devotees of the Old Form, so they could shed their skins and don the skins of beasts. After a few gulps, my skin will begin to peel as if I had spent too long in the sun. [With the great arts of Moth-aspect, perhaps this could be brewed from honey.]",
+  "dove": "elements/skinshuck.mead.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Moth-Orchid-Scented Candle",
+  "dove": "elements/candle.mothorchid.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Moths are seldom this colour.",
+  "dove": "elements/paint.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Moths circle it like maypole dancers.",
+  "dove": "elements/lamp.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mottled Casket",
+  "dove": "elements/casket.mottled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Much older than much of the House, but still remarkably sharp.",
+  "dove": "elements/shears.sisterhood.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Much, much tastier than it sounds.",
+  "dove": "elements/whip.prune.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Musgrave Dewulf, who was mocked as 'the Bleating Baron' even while Brancrug prospered quietly, who was renowned for his piety but who won praise from the magus Julian Coseley. A quiet contradiction of a man.",
+  "dove": "elements/bust.musgrave.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Mushroom & Potato Bake",
+  "dove": "elements/bake.mushroom.potato.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mushroom Meringue",
+  "dove": "elements/meringue.mushroom.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mushrooms",
+  "dove": "elements/mushrooms.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Named for Lady Eva, who drowned herself with her grandchildren after the death of Sebastian her nephew. Her motives were never clear; her body, and the bodies of her grandchildren, were never found.",
+  "dove": "elements/evas.locks.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Named for an enigmatic minor deity whose charge is the healing of burns.",
+  "dove": "elements/cup.tea.lapsang.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Nameday Riddle",
+  "dove": "elements/riddle.nameday.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nasty little things, but almost safe when they're this dead.",
+  "dove": "elements/witchworms.desiccated.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Natalia Brulleau, fifth Librarian - duellist, mystic, traveller.",
+  "dove": "elements/bust.natalia.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Natalia's Practice Sword",
+  "dove": "elements/weapon.practice.natalia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Neatly packaged nutrition, pale as a December dawn.",
+  "dove": "elements/egg.boiled.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Nestle grandly.",
+  "dove": "elements/armchair.moon.a.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Nestle imposingly.",
+  "dove": "elements/armchair.moon.b.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Never, never, never call it 'whale vomit'.",
+  "dove": "elements/ambergris.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Night Mirror",
+  "dove": "elements/mirror.night.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nighted Chair",
+  "dove": "elements/armchair.moon.c.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nightsky Chair",
+  "dove": "elements/chair.moon.a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nillycant",
+  "dove": "elements/nillycant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ninewink Clock",
+  "dove": "elements/clock.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nivine Parchment",
+  "dove": "elements/parchment.nivine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "No Librarian washes their own laundry. Perhaps I can find help in the village.",
+  "dove": "elements/basket.laundry.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "No dawn knows only a single colour. No sky knows only a single dawn.",
+  "dove": "elements/ichor.auroral.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "No-one is in the picture - only an empty garden.",
+  "dove": "elements/painting.serena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Not <i>exactly</i> edible.",
+  "dove": "elements/packet.cocoa.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Not a knot… [There are Prentice-level Moth recipes - and one Lantern recipe - that can craft this.]",
+  "dove": "elements/tanglebrag.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Not bad… for a raw pumpkin.",
+  "dove": "elements/pumpkin.amber.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "Not everything needs eyes.",
+  "dove": "elements/pot.watchful.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Not quite hair, not quite teeth, but proof that someone killed something.",
+  "dove": "elements/trophy.deer.red.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing's history when first it happens…",
+  "dove": "elements/newspaper.yellowing.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Notoriously hard to take just one bite.",
+  "dove": "elements/veg.basket.apples.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Now powder.",
+  "dove": "elements/curious.seashell.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Now they call it unromantic. In fifty years it'll be the most romantic thing in the room.",
+  "dove": "elements/typewriter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Noxious.",
+  "dove": "elements/liquid.sample.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Numen: Back Into Balance",
+  "dove": "elements/numen.bala.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Numen: Merciless Alteration",
+  "dove": "elements/numen.alte.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Numen: a Final Understanding",
+  "dove": "elements/numen.unde.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Numen: the Sun's Weakness",
+  "dove": "elements/numen.desc.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Occult Scrap",
+  "dove": "elements/occult.scrap.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Occult treasures are purchased with occult coin: spintriae. Bronze spintriae usually display the act of shaping on their reverse side.",
+  "dove": "elements/spintria.bronze.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Occult treasures are purchased with occult coin: spintriae. Gold spintriae display scenes that are not visible to mortal eyes on their reverse side.",
+  "dove": "elements/spintria.gold.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Occult treasures are purchased with occult coin: spintriae. Iron spintriae are the lowest denomination, and display scenes of murder on their reverse side.",
+  "dove": "elements/spintria.iron.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Occult treasures are purchased with occult coin: spintriae. Silver spintriae are more valuable, and usually display scenes of debauchery on their reverse side.",
+  "dove": "elements/spintria.silver.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Occult treasures are purchased with occult coin: spintriae. Tin spintriae usually display a wild face on their reverse side: shouting, screaming, or singing?",
+  "dove": "elements/spintria.tin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Of interest to wig-makers, cushion-stuffers, and crude sorcerers.",
+  "dove": "elements/human.hair.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Of much more recent manufacture than they might appear. Possibly one of Gervinus van Lauren's little jokes.",
+  "dove": "elements/glasses.librarian.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Oh.",
+  "dove": "elements/meringue.mushroom.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Oh? Were you hoping to <i>work</i> on that desk?",
+  "dove": "elements/cat.tame.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Old Moment",
+  "dove": "elements/old.moment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Old Wound",
+  "dove": "elements/old.wound.label",
+  "ricorre": 1
+ },
+ {
+  "en": "On a clear late evening in July, look west from the Gullscry Tower and the sky will be this colour exactly.",
+  "dove": "elements/chair.moon.c.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "On close exposure, the smell tends to put off humans, too. [There are Prentice-level Moon recipes that can craft this.]",
+  "dove": "elements/catwink.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "On closer inspection, these are more like bees, but they seem to have adopted the wings and limbs of other insects, rather like hermit crabs. A typed card reads PROPINOMANIDAE.",
+  "dove": "elements/wings.grail.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "On closer inspection, this is a reliquary bust; which is to say, if I cracked it open, I could retrieve St Melancthe's actual skull. That would be uncouth.",
+  "dove": "elements/bust.melancthe.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "On numerous occasions, this wonderful bird has remained almost entirely inaudible.",
+  "dove": "elements/cockatoo.green.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "On the base is scratched SERENA. FOR THE BAY AT SUNSET. XX",
+  "dove": "elements/lamp.table.grail.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "On the continent, they call it 'pain perdu': sounds like damnation but tastes like sin.",
+  "dove": "elements/bread.eggy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "On this southern tip of Britain, grapes do grow. They might even make creditable wine.",
+  "dove": "elements/grapes.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Once a favoured chair of the Treasurer of the Curia - an office that Fraser Strathcoyne often held, and much preferred to the post of Librarian.",
+  "dove": "elements/armchair.moon.a.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Once a treat for sailors, hence the name. [With the Spices and Savours skill, and pears, you might recreate a legendary dish.]",
+  "dove": "elements/pie.sea.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Once spilt, nothing remains.  [There are Keeper-level Forge recipes that can create this with the assistance of Orichalcum, among other things.]",
+  "dove": "elements/azoth.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Once this shepherd's crook represented the authority of the Church. Perhaps the Suppression Bureau kept it here because they liked the idea of authority, in general.",
+  "dove": "elements/statue.crozier.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Once used to map journeys across secret charts…",
+  "dove": "elements/lamp.table.rose.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Once washed, it'll be suitable again.",
+  "dove": "elements/basket.laundry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Once, these grew only on one tiny island on the other side of the world. That's empire for you.",
+  "dove": "elements/pot.bigken.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "One of Ambrose Westcott's appalling roccoco enthusiasms. This one, less ugly than some, was suffered to remain by his sentimental successors.",
+  "dove": "elements/clock.librarian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One of Dr Levinsen's 'prefigures', a close (and impossible) copy of a painting made twenty years later by Kirchner, whose work Levinsen often anticipated in his mirror-dreams.",
+  "dove": "elements/painting.coupleinthelibrary.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "One of Dr Levinsen's 'prefigures', an impossible copy of a painting that the real artist hadn't yet executed. He's signed it with the Illumination mark, and dated it '1958'.",
+  "dove": "elements/painting.thecalm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One of the crueller aspects of the Red Grail: Lagiah, the Queen Unsated, devouring mother, sister-lover of Antaios. One tradition has it that Lagiah took animal form so that she could satisfy her craving to devour her own children, and go unpunished - another that the animal form was the punishment for her incest. The Grail has often been tolerant of contradictions. Perhaps her part in the Intercalate really was, after all, a long and subtle move to undermine Eternity. Or perhaps she's just not to be trusted.",
+  "dove": "elements/grail.aspect.lagiah.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One of the kinder aspects of the Malachite: Mylissa, both Queen and Palace, who feeds all comers, whose body is the house in which her children dwell. Mylissa was not always a Name of the Malachite. She may have been a Name of another Hour - she may even have begun among the Carapace Cross, before she chose Eternity over History.",
+  "dove": "elements/malachite.aspect.mylissa.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One of the more enigmatic aspects of the Horned-Axe: Xenodice Half-Faced, who welcomes or slays strangers at the threshold. Xenodice is sister sometimes to owl and cat, sometimes to bull and butterfly, sometimes to dove and serpent. This hybrid nature suggests a link with the prehuman Carapace Cross - but that's not so surprising in a Name of the Axe.",
+  "dove": "elements/axe.aspect.xenodice.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One of the most deliciously melting incarnations of occult power ever contrived.",
+  "dove": "elements/souffle.aglaophotis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One should never make this with plums that are not ripe enough to eat. One is quite serious.",
+  "dove": "elements/croutons.plum.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One very final beat.",
+  "dove": "elements/jar.heart.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "One, two, three…",
+  "dove": "elements/candle.holderthree.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Onion Gratin",
+  "dove": "elements/onion.gratin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Onion Rings",
+  "dove": "elements/onion.rings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Onion Soup",
+  "dove": "elements/soup.onion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Oooops.",
+  "dove": "elements/flour.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "Orange Jumble",
+  "dove": "elements/orange.jumble.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Originally a product of Lord Berners' kitchens at Faringdon House; favoured by Heber-Percy, 'the Mad Boy', Berners' companion, who inlaid the floor of his changing room with pennies and built steps up to his swimming pool…",
+  "dove": "elements/pie.vegetable.spring.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ornamented with the circled sun-cross of the Church.",
+  "dove": "elements/chair.church.knock.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Orphaned Chick",
+  "dove": "elements/gull.wild.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Orpiment Exultant",
+  "dove": "elements/orpiment.exultant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Oscillate Oil",
+  "dove": "elements/oil.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Our fathers of old were robust, stout, and strong,\nAnd kept open house, with good cheer all day long,\nWhich made their plump tenants rejoice in this song—\nOh! The Roast Beef of old England,\nAnd old English Roast Beef!\n\n- Henry Fielding, <i>The Grub Street Opera</i>",
+  "dove": "elements/beef.roast.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Outsized Egg",
+  "dove": "elements/egg.relic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Owl of Spirals",
+  "dove": "elements/statuette.owl.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Owls, of course, are associated with the Horned-Axe; but only one with one of her blades.",
+  "dove": "elements/painting.owl.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Blue",
+  "dove": "elements/paint.blue.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Bosk-Green",
+  "dove": "elements/paint.bosk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Dusk-Blue",
+  "dove": "elements/paint.blue.dark.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Green",
+  "dove": "elements/paint.green.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Moth-Gold",
+  "dove": "elements/paint.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Palest Blue",
+  "dove": "elements/paint.blue.pale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Pink",
+  "dove": "elements/paint.pink.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Red",
+  "dove": "elements/paint.red.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paint: Yellow",
+  "dove": "elements/paint.yellow.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Painted leather, riveted to heavy iron.",
+  "dove": "elements/shield.drake.red.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Painter's Stool",
+  "dove": "elements/stool.gullscry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pale Bust",
+  "dove": "elements/bust.abra.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pale Marrow",
+  "dove": "elements/veg.marrow.pale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pale Mommet",
+  "dove": "elements/pale.mommet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pale Stool",
+  "dove": "elements/stool.pale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pale as the first wisp of mountain-cloud.",
+  "dove": "elements/parchment.nivine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Paradise Palm",
+  "dove": "elements/pot.bigken.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Paraffin",
+  "dove": "elements/jerry.paraffin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Patisserie's precursor.",
+  "dove": "elements/sugar.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Peace after trouble.",
+  "dove": "elements/mem.solace.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Pear Pie",
+  "dove": "elements/pie.pears.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pear-Scented Candle",
+  "dove": "elements/candle.pyrus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Peaty as a heathered serpent.",
+  "dove": "elements/bottle.strathcoyne.xexts.scrutiny",
+  "ricorre": 4
+ },
+ {
+  "en": "People are never this colour.",
+  "dove": "elements/paint.pink.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Perch here to meditate on the mysteries of dawn.",
+  "dove": "elements/chair.church.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps the faintest, driest voice murmured: 'Who will see the Second Dawn?' Or perhaps that was only something that once I read.",
+  "dove": "elements/chair.knock.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhibiate",
+  "dove": "elements/perhibiate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Perilous Imago",
+  "dove": "elements/imago.perilous.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Perilous indeed. [There are Scholar-level Edge recipes that can craft this from leaves.]",
+  "dove": "elements/perinculate.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Perinculate",
+  "dove": "elements/perinculate.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Persian Candelabra",
+  "dove": "elements/candle.holderthree.persian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pet Cat",
+  "dove": "elements/cat.tame.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pet Gull",
+  "dove": "elements/gull.tame.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Petrol",
+  "dove": "elements/jerry.petrol.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pheasant",
+  "dove": "elements/pheasant.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pheasant or snipe or woodcock or rabbit, and tasty pastry.",
+  "dove": "elements/pie.game.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Philemon",
+  "dove": "elements/stag.philemon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Philemon was the <i>nom de plume</i> of a poet who satirically christened Westcott 'the Magus of the Silver'd Smoke'. Whatever this meant exactly, it clearly enraged Westcott.",
+  "dove": "elements/stag.philemon.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Phosphorescent Scrapings",
+  "dove": "elements/scrapings.phosphorescent.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pickled Mackerel",
+  "dove": "elements/mackerel.pickled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pickled Mushrooms",
+  "dove": "elements/mushrooms.pickled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pickled Pilchards",
+  "dove": "elements/pilchards.pickled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pickling is a kind of afterlife. What comes after afterlife?",
+  "dove": "elements/mackerel.pickled.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Pigeon Statuette",
+  "dove": "elements/statuette.pigeon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pilchards",
+  "dove": "elements/pilchards.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pilchards on Toast",
+  "dove": "elements/toastie.pilchards.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pillas-Oat Bread",
+  "dove": "elements/bread.pillas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Placed by the Curia of the Isle to allow a rest before an ascent. Or after a descent.",
+  "dove": "elements/sofa.grail.b.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Plain Stool",
+  "dove": "elements/stool.plain.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pleading Tuppence",
+  "dove": "elements/chicken.tuppence.hungry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Plucked from hedgerows.",
+  "dove": "elements/jam.blackberry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Plucked from wild roses.",
+  "dove": "elements/jam.rosehip.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Plum Croutons",
+  "dove": "elements/croutons.plum.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Plummy; almost meaty.",
+  "dove": "elements/bottle.raveline.xexts.scrutiny",
+  "ricorre": 4
+ },
+ {
+  "en": "Plums",
+  "dove": "elements/plums.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Poached Mackerel",
+  "dove": "elements/mackerel.poached.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Poacher's Bow",
+  "dove": "elements/weapon.bow.poacher.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Poire Belle Hélène",
+  "dove": "elements/pear.belle.helene.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Poires Ys",
+  "dove": "elements/pears.ys.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Polished by the posteriors of dozens of loafing prison guards.",
+  "dove": "elements/armchair.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Polished to pallor by the posteriors of past Librarians.",
+  "dove": "elements/stool.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Poor thing: coiled like a forbidden thought, never to see day.",
+  "dove": "elements/egg.viper.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Porphyrine",
+  "dove": "elements/porphyrine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pot of Malachite Daisies",
+  "dove": "elements/pot.daisies.malachite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potatoes",
+  "dove": "elements/potatoes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potent.",
+  "dove": "elements/skaptodon.fang.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted Avidity",
+  "dove": "elements/pot.venus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted Bamboo",
+  "dove": "elements/pot.bamboo.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted Dragon Tree",
+  "dove": "elements/pot.dragon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted Fern",
+  "dove": "elements/pot.fern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted Monstera",
+  "dove": "elements/pot.swiss.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted Pink Orchid",
+  "dove": "elements/pot.orchid.pink.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted Snake Plant",
+  "dove": "elements/pot.snake.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Potted White Orchid",
+  "dove": "elements/pot.orchid.white.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Powdered.",
+  "dove": "elements/quartz.chunk.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Pretty; poisonous; no true rose.",
+  "dove": "elements/lenten.rose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Priestess? Oracle? Queen? A very old image from the Dawn Period with a simple inscription.",
+  "dove": "elements/bust.knotabbess.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Prison Stool",
+  "dove": "elements/stool.lavender.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Proof against storm-wind and moth-swoop alike.",
+  "dove": "elements/lamp.hurricane.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Provided to the occupants of the cell, who clearly disdained and never used them.",
+  "dove": "elements/weapons.td.wasters.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Prune Whip",
+  "dove": "elements/whip.prune.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pulverised grains, bread's precursor. [Mix with Butter or Milk for Dough; mix with Water for Batter.]",
+  "dove": "elements/flour.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Pumpkin",
+  "dove": "elements/pumpkin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pumpkin Pie",
+  "dove": "elements/pie.pumpkin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pumpkin Soup",
+  "dove": "elements/soup.pumpkin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Purchased by Governor Collers from a complicated general after the Great War.",
+  "dove": "elements/lamp.table.edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Purchased the second time that the morgue was ever used.",
+  "dove": "elements/boots.morgue.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Put your feet up. The House is yours. Your work might not be done, but you've earned a rest.",
+  "dove": "elements/footstool.librarian.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Pyrus Auricalcinus",
+  "dove": "elements/pyrus.auricalcinus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Quarrelsome, until it feeds again.",
+  "dove": "elements/relic.hungry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Quartz Chunk",
+  "dove": "elements/quartz.chunk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Quire of Paper",
+  "dove": "elements/quire.paper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "RECENTLY THERE HAS BEEN A DEARTH OF FOOD. YOU WILL UNDERSTAND THE GRAVITY OF THE SITUATION. NO DOUBT YOU ARE EAGER TO RECTIFY IT.",
+  "dove": "elements/cat.hungry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rags",
+  "dove": "elements/rags.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reading Lamp",
+  "dove": "elements/lamp.revelation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reagents and activants to enhance alchemical operations, or the flavour of one's pipe tobacco.",
+  "dove": "elements/material.westcott.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Records Box",
+  "dove": "elements/box.records.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Red Deer Antlers",
+  "dove": "elements/trophy.deer.red.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Red Drake Shield",
+  "dove": "elements/shield.drake.red.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Red Lotus Vase",
+  "dove": "elements/vase.redlotus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Red Practice Sword",
+  "dove": "elements/weapon.leaf.grail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Red Quarterstaff",
+  "dove": "elements/weapon.practice.grail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Redder than sunset. [A range of Forge recipes can be used to create Iotic Essence from a range of precursors.]",
+  "dove": "elements/essence.iotic.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Redolent of decades of piquant pesage.",
+  "dove": "elements/scales.spice.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reeking.",
+  "dove": "elements/jerry.kerosene.xexts.scrutiny",
+  "ricorre": 3
+ },
+ {
+  "en": "Reference Image",
+  "dove": "elements/bust.medical.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Refine what is; recall what remains.",
+  "dove": "elements/enduring.reflection.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Refulgin",
+  "dove": "elements/pigment.refulgin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Regensburg Balm",
+  "dove": "elements/liquid.regensburg.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Regensburg Menorah",
+  "dove": "elements/menorah.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Relax on it just <i>so</i>, and you can almost make out the first notes of Kitty Mazarine's fuging-tune, 'Thirty Birds'.",
+  "dove": "elements/chair.sky.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Reliable rubber.",
+  "dove": "elements/boots.morgue.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rendered inert, but still luminous.",
+  "dove": "elements/scrapings.phosphorescent.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reputedly crafted for the Masque of Masques during the Great Writhing.",
+  "dove": "elements/clock.lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Resentful Terrence",
+  "dove": "elements/chicken.terrence.hungry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reserved for latecomers, non-believers, and the pensive.",
+  "dove": "elements/chair.church.atrium.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Restful Garden Chair",
+  "dove": "elements/chair.garden2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Restful Seat",
+  "dove": "elements/chair.church.heart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Restorative.",
+  "dove": "elements/healing.herbs.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Retrieved from Gladwyn Lake and returned to the cell's occupants as a reward for good behaviour.",
+  "dove": "elements/weapons.td.cudgels.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolting.",
+  "dove": "elements/pumpkin.wormy.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Rich fruity flavours.",
+  "dove": "elements/cup.coffee.dawnlion.xexts.scrutiny",
+  "ricorre": 3
+ },
+ {
+  "en": "Rinse them carefully away.",
+  "dove": "elements/witchworms.desiccated.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Roast Beef",
+  "dove": "elements/beef.roast.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roast Pheasant",
+  "dove": "elements/pheasant.roast.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roast Potatoes",
+  "dove": "elements/potatoes.roast.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Roscraggan Whisky (Bottle)",
+  "dove": "elements/bottle.roscraggan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roscraggan Whisky (Glass)",
+  "dove": "elements/glass.roscraggan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roscraggan Whisky (Mostly Empty)",
+  "dove": "elements/bottle.roscraggan.me.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Roscraggan Whisky (Mostly Full)",
+  "dove": "elements/bottle.roscraggan.mf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rose-Pearl",
+  "dove": "elements/pearl.rose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rosehip Jam",
+  "dove": "elements/jam.rosehip.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rosehip Sponge Cake",
+  "dove": "elements/cake.rosehip.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rosehips",
+  "dove": "elements/rosehips.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rough and dark to the touch.",
+  "dove": "elements/candelabra.meteoric.iron.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena, Eva, Hafren… How many pale ladies have passed the doors of the House?",
+  "dove": "elements/pot.orchid.white.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Royal Casket",
+  "dove": "elements/casket.royal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rubywise Ruin",
+  "dove": "elements/rubywise.ruin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Russet Couch",
+  "dove": "elements/sofa.russet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sack of Vegetables",
+  "dove": "elements/sack.vegetables.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sacrament Ascite",
+  "dove": "elements/sacrament.ascite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sacrament Calicite",
+  "dove": "elements/sacrament.calicite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sacrament Calicite [Collector's Edition]",
+  "dove": "elements/sacrament.chalicite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sacrament Malachite",
+  "dove": "elements/sacrament.malachite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Salt-Sign",
+  "dove": "elements/sign.salt.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Salt-stained and wave-wracked.",
+  "dove": "elements/contraband.flotsam.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Salty and savoury.",
+  "dove": "elements/ham.canned.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Salvaged windfalls, lumpy but tasty.",
+  "dove": "elements/fruit.misshapen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sample Jar",
+  "dove": "elements/liquid.sample.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sand",
+  "dove": "elements/sand.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Savage Hymn",
+  "dove": "elements/music.savage.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Savage Relic",
+  "dove": "elements/savage.relic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Saw",
+  "dove": "elements/saw.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scaled Casket",
+  "dove": "elements/casket.scaled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scarred Casket",
+  "dove": "elements/casket.scarred.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scattered. [There are Prentice-level Edge recipes which can be used to create more.]",
+  "dove": "elements/tincture.labhitic.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Scattered. [There are Prentice-level Forge and Moth recipes which can be used to create more.]",
+  "dove": "elements/material.westcott.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Schloss Jannings (Bottle)",
+  "dove": "elements/bottle.jannings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Schloss Jannings (Glass)",
+  "dove": "elements/glass.jannings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Schloss Jannings (Mostly Empty)",
+  "dove": "elements/bottle.jannings.me.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Schloss Jannings (Mostly Full)",
+  "dove": "elements/bottle.jannings.mf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scintillate Oil",
+  "dove": "elements/oil.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scorched by fires lit before even the Romans came.",
+  "dove": "elements/brazier.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Scrambled Egg",
+  "dove": "elements/egg.scrambled.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scraps of fabric. Possibly useful as fuel.",
+  "dove": "elements/rags.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Scraps of wood. Possibly useful as fuel.",
+  "dove": "elements/scraps.wood.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Scrumpy",
+  "dove": "elements/pottery.scrumpy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scrumpy (Cup)",
+  "dove": "elements/cup.scrumpy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Scrumpy (Half-Finished)",
+  "dove": "elements/pottery.scrumpy.h.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sea Holly",
+  "dove": "elements/sea.holly.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sea-Glass",
+  "dove": "elements/seaglass.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sea-Green Sofa",
+  "dove": "elements/sofa.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sea-Pie",
+  "dove": "elements/pie.sea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sea-spray, depth-sorrow.",
+  "dove": "elements/mem.salt.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Sebastian's Swords",
+  "dove": "elements/weapon.swords.sebastian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Secret Threshold",
+  "dove": "elements/secret.threshold.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Secret histories are layered beneath the one we know, like the notes in rare wine. The Librarian knows this well.",
+  "dove": "elements/occult.scrap.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sentry's Bow",
+  "dove": "elements/weapon.bow.sentry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Separately, each is undrinkable. But mix them, and they're only undrinkable after fifteen minutes.",
+  "dove": "elements/liquid.thirza.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena Blackwood brought this chair up the church tower stairs to sit and read by candle-light. The stairs were tough on her knees, but she learnt that Governor Collers was unlikely to bother her here.",
+  "dove": "elements/chair.bells.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena Blackwood herself forged this key. 'I'm tired of losing it,' she said.",
+  "dove": "elements/key.hush.house.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena Blackwood, tenth Librarian, a redoubtable scholar and administrator who quarrelled with the prison governor and never completed her term.",
+  "dove": "elements/bust.serena.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Serpent-Milk",
+  "dove": "elements/serpentmilk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serpent-Styled Glass",
+  "dove": "elements/hourglass.scale.g.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Serpentinite Slab",
+  "dove": "elements/slab.serpentinite.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Severe Chair",
+  "dove": "elements/chair.severe1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shadowless Silk",
+  "dove": "elements/pot.shadowless.silk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shadows shift, sun-bars follow.",
+  "dove": "elements/chair.garden1.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Shaped to assure the attention of the faithful.",
+  "dove": "elements/chair.church.knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Shattered.",
+  "dove": "elements/hawthorn.blank.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Shaving Mirror",
+  "dove": "elements/mirror.shaving.label",
+  "ricorre": 1
+ },
+ {
+  "en": "She's wearing a little silver brooch fashioned in the shape of a cat's head.",
+  "dove": "elements/motley1.portrait2.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Shears of the Sisterhood",
+  "dove": "elements/shears.sisterhood.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shiny! Ish. [There are Prentice-level Lantern recipes which can craft this.]",
+  "dove": "elements/pigment.refulgin.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Signed 'CI'.",
+  "dove": "elements/painting.sacrifice.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Signed 'CS'.",
+  "dove": "elements/painting.annointing.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Signed 'Nina Lagasse'.",
+  "dove": "elements/painting.bridge.ortucchio.xexts.scrutiny",
+  "ricorre": 14
+ },
+ {
+  "en": "Silent Typewriter",
+  "dove": "elements/typewriter.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Silver Spintria",
+  "dove": "elements/spintria.silver.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Silvery Mirror",
+  "dove": "elements/mirror.silver.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Simple and bright.",
+  "dove": "elements/candle.beeswax.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Simple elegance.",
+  "dove": "elements/candle.holdersmall.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Since the Reformation, one quarter is assigned to each of the orthodox Hours - Madrugad, Watchman, Wolf, Meniscate - and the junction at the wheel's heart to the Sun in Rags or Splendour. A less orthodox tradition assigns the rim to the enigmatic St Januarius.",
+  "dove": "elements/symbol.solinvictis.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Sir David Greene, eighth Librarian - a former Nocturnal Branch superintendent, better known for rooting out mysteries than illuminating them.",
+  "dove": "elements/bust.david.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Sit here and listen to the trees grow. Or the leaves fall. Preferences differ.",
+  "dove": "elements/chair.garden2.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sit in serenity.",
+  "dove": "elements/chair.church.heart.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Six years ago, King George's heir Edward killed him in a quarrel over Edward's womanising. The kingdom was saved from constitutional collapse by  Henry Huddleston Abney-Hastings, 13th Count of Loudoun - who claimed descent through the Plantagenet line. Heaven lift the New King!",
+  "dove": "elements/chart.genealogical.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Skaptodon Fang",
+  "dove": "elements/skaptodon.fang.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Skinshuck Mead",
+  "dove": "elements/skinshuck.mead.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Slim Parcel",
+  "dove": "elements/parcel.slim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sloe Gin (Bottle)",
+  "dove": "elements/bottle.sloegin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sloe Gin (Glass)",
+  "dove": "elements/glass.sloegin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sloe Gin (Mostly Empty)",
+  "dove": "elements/bottle.sloegin.me.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sloe Gin (Mostly Full)",
+  "dove": "elements/bottle.sloegin.mf.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sly Alembic",
+  "dove": "elements/alembic.sly.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Small Candlestick",
+  "dove": "elements/candle.holdersmall.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Smoky and astringent, like pine-scented dragon's breath.",
+  "dove": "elements/cup.tea.lapsang.xexts.scrutiny",
+  "ricorre": 4
+ },
+ {
+  "en": "Smooth as an egg, frosted like a winter window.",
+  "dove": "elements/seaglass.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Smooth as butter and wonderfully juicy.",
+  "dove": "elements/fruit.bowl.pears.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Smooth on the fingers.",
+  "dove": "elements/beeswax.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Snootle Jar",
+  "dove": "elements/jar.snootle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Snow is not quite this colour.",
+  "dove": "elements/paint.blue.pale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Snowflake Candelabrum",
+  "dove": "elements/candelabrum.snowflake.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Snowflake Candle",
+  "dove": "elements/candle.holder.snowflake.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Snug Chair",
+  "dove": "elements/chair.gullscry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Soaked with the sun of forgotten evenings, in the times when Kitty Mazarine was contracted to another, but knew too the contracted number of his days…",
+  "dove": "elements/table.cypress.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Soft Amber Pumpkin",
+  "dove": "elements/pumpkin.amber.x.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Soft Blue Sofa",
+  "dove": "elements/sofa.gullscry.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sol Invictis Symbol",
+  "dove": "elements/symbol.solinvictis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Solid workmanship, but not obviously remarkable.",
+  "dove": "elements/mirror.storm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Solid, comfortable, oddly unobtrusive.",
+  "dove": "elements/armchair.moon.c.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Solomon Husher often used this in his preparations.",
+  "dove": "elements/blue.crown.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Solomon Husher would take this every night without fail before sleep, to close his ears to the sound of the waves. But on the 9th of January 1838, a heavy snow fell on Hush House. When the other residents dug themselves out, Husher was nowhere to be found. He had left a resignation letter, and an undrunk measure of his Preparation.",
+  "dove": "elements/liquid.solomon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Solomon's Preparation",
+  "dove": "elements/liquid.solomon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Some appetites are easier to satisfy than others.",
+  "dove": "elements/mem.satisfaction.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Some poor soul who probably won't mind if they're repurposed for a worthy experiment. I probably wouldn't.",
+  "dove": "elements/urn.ashes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Some things we can only really understand when they're gone.",
+  "dove": "elements/mem.hindsight.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Some truths come to us from outside, or above.",
+  "dove": "elements/mem.revelation.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Someone appears to have tuned the squeaks.",
+  "dove": "elements/chair.sky.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Someone has absent-mindedly carved symbols down one leg. From top to bottom: a cup; a winged insect; an axe; a candle.",
+  "dove": "elements/chair.grail.a.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone has deliberately sanded down the end of each leg to a different angle.",
+  "dove": "elements/stool.iron.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone has doggedly cleaned bird droppings and paint from this, not once but many times. The fabric is splotched and discoloured - the varnish of the wood is streaked like rain.",
+  "dove": "elements/stool.gullscry.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone has scratched a series of tally marks down one leg. Seventy-seven days.",
+  "dove": "elements/stool.lavender.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Someone has scratched derisively on one horn 'Pray Thou Upon This!'",
+  "dove": "elements/trophy.yeth.hound.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Something I overheard in dreams?",
+  "dove": "elements/mem.dreamt.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Something fits just right.",
+  "dove": "elements/mem.pattern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something from one of Collers' experiments, no doubt…",
+  "dove": "elements/burette.cucurbit.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Something like pine, something like vanilla. [There are Prentice-level recipes that use the aspect Nectar to craft this.]",
+  "dove": "elements/liquid.thirza.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Something noble in its ancestry; and something else.",
+  "dove": "elements/dog.hungry.xexts.scrutiny",
+  "ricorre": 3
+ },
+ {
+  "en": "Something on the wind… [There are Prentice-level Sky recipes which can create one of these.]",
+  "dove": "elements/awakened.feather.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Something set helpfully aside.",
+  "dove": "elements/crate.supplies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Something uncomfortable.",
+  "dove": "elements/mem.contradiction.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Sometimes known affectionately as 'the first Eva'. Lady de Braose never visited the Isle, but it was her generous endowment that allowed the Abbey to thrive and grow in the thirteenth century.",
+  "dove": "elements/statue.debraose.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Somewhat pocked with cigar-burns.",
+  "dove": "elements/armchair.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Somewhere, perhaps, someone has won an extra year. [Certain Keeper-level Winter recipes can be used to craft this from Essential Periost.]",
+  "dove": "elements/yeartally.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Soothing to the senses.",
+  "dove": "elements/tea.honeyscar.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Soothing. [There are Prentice-level Heart recipes which can be used to craft this.]",
+  "dove": "elements/liquid.regensburg.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "Sort through the scraps… nothing of use.",
+  "dove": "elements/rags.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "Soused Mackerel",
+  "dove": "elements/mackerel.soused.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Souvenir Cache",
+  "dove": "elements/chest.souvenirs.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Souvenirs from the East, heavily padded.",
+  "dove": "elements/weapons.td.bokken.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Spanners",
+  "dove": "elements/spanners.label",
+  "ricorre": 1
+ }
+]

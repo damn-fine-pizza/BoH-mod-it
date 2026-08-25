@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "A Taenite Revolution?",
+  "dove": "recipes/nxs.n.revolution.hokobald.a.taenite.revolution.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Abandon an Oracle?",
+  "dove": "recipes/nxi.n.rising.interpreted.connie.abandon.an.oracle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Acknowledge Spencer's passing.",
+  "dove": "recipes/nxs.n.guest.hobson.spencer.trace.bid.farewell.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis attempted to arrange protection for a friend who'd brought a Grunewald curio. How did it end?",
+  "dove": "recipes/nxs.n.grunewald.agdistis.speak.to.agdistis.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Another Way",
+  "dove": "recipes/nxc.n.revolution.failing.hokobald.another.way.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Answer: Eternity?",
+  "dove": "recipes/nxc.n.absent.aladim.answer.eternity.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Answer: Light?",
+  "dove": "recipes/nxc.n.absent.arthur.answer.light.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Answer: Medusa's Death?",
+  "dove": "recipes/nxc.n.absent.aladim.answer.medusas.death.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Answer: The Carapace Cross?",
+  "dove": "recipes/nxc.n.absent.aladim.answer.the.carapace.cross.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Answer: The Seven-Coils?",
+  "dove": "recipes/nxc.n.absent.aladim.answer.the.seven-coils.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Any more news from Messana?",
+  "dove": "recipes/nxs.n.eye.corso.ask.corso.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Arun - for once -  is taking sides. He hopes to challenge the predominance of the Calyptra, by distracting or even weakening the Madrugad.\n\n''Where these flowers grow, the world grows - how can I put this? - tolerant. I am an advocate for tolerance, Librarian... and I have an idea. I think the key to this matter may be found here, at Brancrug. Do you have anything on the Winter Tower?'",
+  "dove": "recipes/nxc.n.invisible.salvaged.arun.assist.arun.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Kaunas?",
+  "dove": "recipes/nxi.n.debt.arun.arun.and.kaunas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun spoke of a coming time 'when flowers find moths, and not the other way round.' Is he ready to make any more sense?",
+  "dove": "recipes/nxs.n.rose.arun.ask.arun.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Arun",
+  "dove": "recipes/nxs.n.invisible.arun.ask.arun.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Ask Connie",
+  "dove": "recipes/nxs.n.tapestry.connie.ask.connie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Coquille",
+  "dove": "recipes/nxc.n.heist.coquille.ask.coquille.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ask Corso",
+  "dove": "recipes/nxs.n.eye.corso.ask.corso.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Dagmar",
+  "dove": "recipes/nxi.n.heist.dagmar.ask.dagmar.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Ask Douglas",
+  "dove": "recipes/nxs.n.mystique.douglas.ask.douglas.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ask Ehsan",
+  "dove": "recipes/nxs.n.reverend.ehsan.ask.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Fraser",
+  "dove": "recipes/nxs.n.mystique.fraser.ask.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Fraser what happened",
+  "dove": "recipes/nxs.n.saint.fraser.ask.fraser.what.happened.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Hokobald",
+  "dove": "recipes/nxc.n.heist.hokobald.ask.hokobald.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ask Olympe",
+  "dove": "recipes/nxc.n.heist.olympe.ask.olympe.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Ask Serena",
+  "dove": "recipes/nxs.n.eye.serena.ask.serena.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Ask Stanislav",
+  "dove": "recipes/nxs.n.tapestry.stanislav.ask.stanislav.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Stanislav what happened",
+  "dove": "recipes/nxs.n.saint.stanislav.ask.stanislav.what.happened.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Yvette",
+  "dove": "recipes/nxs.n.mystique.yvette.ask.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Zachary",
+  "dove": "recipes/nxc.n.heist.zachary.ask.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask al-Adim",
+  "dove": "recipes/nxs.n.rose.aladim.ask.al-adim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assist Arun",
+  "dove": "recipes/nxc.n.invisible.salvaged.arun.assist.arun.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Assist Azita with Zuthi's Secrets",
+  "dove": "recipes/nxc.n.lark.azita.assist.azita.with.zuthis.secrets.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assist Dagmar",
+  "dove": "recipes/nxc.n.rose.revealed.dagmar.assist.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assist Morgen with Zuthi's Secrets",
+  "dove": "recipes/nxc.n.lark.morgen.assist.morgen.with.zuthis.secrets.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assist Olympe",
+  "dove": "recipes/nxc.n.invisible.salvaged.olympe.assist.olympe.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Assist Serena with Zuthi's Secrets",
+  "dove": "recipes/nxc.n.lark.serena.assist.serena.with.zuthis.secrets.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assist al-Adim",
+  "dove": "recipes/nxc.n.rose.revealed.aladim.assist.al-adim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assist the Legion",
+  "dove": "recipes/nxc.n.revolution.failing.azita.assist.the.legion.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Assist the Revolution",
+  "dove": "recipes/nxc.n.revolution.surging.arthur.assist.the.revolution.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Kaunas?",
+  "dove": "recipes/nxi.n.debt.azita.azita.and.kaunas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bid Farewell",
+  "dove": "recipes/nxs.n.guest.hobson.spencer.trace.bid.farewell.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Bid Liselotte Farewell",
+  "dove": "recipes/nxc.n.wood.assisted.stanislav.bid.liselotte.farewell.label",
+  "ricorre": 1
+ },
+ {
+  "en": "But Yvette… Yvette is gone. [Concludes]",
+  "dove": "recipes/nxi.n.mystique.revealed.recall.yvette.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Catch up with Ehsan",
+  "dove": "recipes/nxs.n.claw.ehsan.catch.up.with.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Clouds at Daybreak",
+  "dove": "recipes/nxs.n.debt.inconclusive.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Conclude",
+  "dove": "recipes/nxs.n.invisible.conclude.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Confinement",
+  "dove": "recipes/nxs.n.casket.dagmar.confinement.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Confront and Expose Dagmar",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.confront.and.expose.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Congratulate Arun",
+  "dove": "recipes/nxi.n.invisible.salvaged.arun.congratulate.arun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Congratulate Olympe",
+  "dove": "recipes/nxi.n.invisible.salvaged.olympe.congratulate.olympe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie Intervenes",
+  "dove": "recipes/nxc.n.reverend.success.two.connie.connie.intervenes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Kaunas?",
+  "dove": "recipes/nxi.n.debt.connie.connie.and.kaunas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie is gone. [Concludes]",
+  "dove": "recipes/nxs.n.rising.forget.the.matter.preface",
+  "ricorre": 3
+ },
+ {
+  "en": "Convince Yvette",
+  "dove": "recipes/nxc.n.mystique.revealed.yvette.convince.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dagmar spoke of her inclination to seek the dappled rose in Miah. Did she go?",
+  "dove": "recipes/nxs.n.rose.dagmar.ask.dagmar.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Dappled roses are a weapon against Calyptra - a weapon made for the Vagabond and her allies among the Hours. Now the Vagabond is calling on old alliances to strengthen her hand. Arun is clearly enjoying the excitement.",
+  "dove": "recipes/nxc.n.rose.revealed.arun.assist.arun.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Dappled roses are a weapon against Calyptra - a weapon made for the Vagabond and her allies among the Hours. Now the Vagabond is calling on old alliances to strengthen her hand. Dagmar finds it all 'rather smashing.'\n\n'Between you and me, Libsy, I've always <i>admired</i> the Vagabond. Doesn't take no for an answer, makes her own way wherever she wants to be. Well, the Carapace Cross out in the ruins in Miah aren't signed up to the Vagabond's plan just yet. I'm hoping I can nudge 'em. Just need to gen up a bit on Miah first. What d'you have?'",
+  "dove": "recipes/nxc.n.rose.revealed.dagmar.assist.dagmar.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Dappled roses are a weapon against Calyptra - a weapon made for the Vagabond and her allies among the Hours. Now the Vagabond is calling on old alliances to strengthen her hand. Olympe would happily see Calyptra weakened - but the alliance with the Carapace Cross has her worried.\n\n''The Vagabond is one of the Hours friendliest to humankind. If she recruits the Cross to tend her weapons… if she has less use for us… I fear she might become less kindly inclined to us. I would like to discourage this alliance, Librarian. Please: give me anything you have on Miah.'",
+  "dove": "recipes/nxc.n.rose.revealed.olympe.assist.olympe.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Dappled roses are a weapon against Calyptra - a weapon made for the Vagabond and her allies among the Hours. Now the Vagabond is calling on old alliances to strengthen her hand. Where his patroness goes, al-Adim must follow.\n\n''It worries me greatly, Librarian - dissent among the Hours - alliances with those who came before us... but she has been good to me, and I am loyal. I will help her recruit the Glaeterfleoge-kind to tend her gardens. Please: share with me whatever material you might have concerning Miah.'",
+  "dove": "recipes/nxc.n.rose.revealed.aladim.assist.al-adim.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Death?",
+  "dove": "recipes/nxs.n.skin.azita.death.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Deceive Yvette",
+  "dove": "recipes/nxc.n.mystique.revealed.fraser.deceive.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Decide not to get involved. [Concludes]",
+  "dove": "recipes/nxc.n.lark.forget.the.matter.preface",
+  "ricorre": 4
+ },
+ {
+  "en": "Decline further involvement in the Venice business. [Concludes]",
+  "dove": "recipes/nxs.n.invisible.conclude.preface",
+  "ricorre": 3
+ },
+ {
+  "en": "Defy an Oracle?",
+  "dove": "recipes/nxc.n.rising.interpreted.connie.defy.an.oracle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Democratise the 'Wangle'",
+  "dove": "recipes/nxc.n.debt.arun.democratise.the.wangle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Determine that the Ysien is no business of the Librarian. [Concludes]",
+  "dove": "recipes/nxs.n.horizon.ignore.the.ysien.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Determine that the oracles of the Rising While are no business of the Librarian. [Concludes]",
+  "dove": "recipes/nxc.n.rising.heard.refuse.involvement.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Determine that this is no longer relevant. [Concludes]",
+  "dove": "recipes/nxc.n.apollo.set.the.matter.aside.preface",
+  "ricorre": 8
+ },
+ {
+  "en": "Did Agdistis go West?",
+  "dove": "recipes/nxs.n.claw.agdistis.talk.to.agdistis.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Arun manage to create 'peace through confusion'?",
+  "dove": "recipes/nxi.n.debt.arun.arun.and.kaunas.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Arun really manage to meet Ferezeref the Magpie, Name of the Moth, backstage at the opera house?",
+  "dove": "recipes/nxs.n.invisible.arun.ask.arun.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Azita get the Legion the taenite substitute its quartermasters needed? I could ask her.",
+  "dove": "recipes/nxs.n.revolution.azita.legion.supplies.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Azita get the Legion the taenite substitute its quartermasters needed? If she's not around, I could ask Hokobald.",
+  "dove": "recipes/nxs.n.revolution.hokobald.a.taenite.revolution.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Azita manage to 'knock heads together'?",
+  "dove": "recipes/nxi.n.debt.azita.azita.and.kaunas.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Chaima accept a contract to fight with the Legion? I could ask her.",
+  "dove": "recipes/nxs.n.revolution.chaima.a.contract.officer.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Chaima accept a contract to fight with the Legion? If she's not around, I could ask Hokobald.",
+  "dove": "recipes/nxs.n.revolution.hokobald.a.mercenary.act.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Connie find out what was happening in Kaunas?",
+  "dove": "recipes/nxi.n.debt.connie.connie.and.kaunas.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Coquille follow through on her  desire to open the Casket? I could ask her.",
+  "dove": "recipes/nxs.n.casket.coquille.escape.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Coquille follow through on her desire to open the Casket? I could ask her.",
+  "dove": "recipes/nxs.n.casket.coquille.thwarted.by.dagmar.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Dagmar succeed in her design to seal the Casket? I could ask her.",
+  "dove": "recipes/nxs.n.casket.dagmar.confinement.preface",
+  "ricorre": 3
+ },
+ {
+  "en": "Did Hokobald manage to 'take full advantage' of the oncoming operatic disaster?",
+  "dove": "recipes/nxs.n.invisible.hokobald.hokobalds.exploits.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Did I need Zachary for my own purposes? Did I enoy his company? Or did I fear what he might become? No-one ever knows the heart of the Librarian of the House.",
+  "dove": "recipes/nxc.n.skin.free.refuse.zachary.and.forget.abecassis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Lalla Chaima end Abecassis' suffering? I could ask her.",
+  "dove": "recipes/nxs.n.skin.chaima.death.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Lt Moore deliver Abecassis successfully into the custody of the Labyrinth? I could ask him.",
+  "dove": "recipes/nxs.n.skin.arthur.imprisonment.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Morgen enjoy her hoped-for opening night catastrophe in Venice?",
+  "dove": "recipes/nxs.n.invisible.morgen.morgens.exploits.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Did Olympe learn anything more of the Vagabond's garden in Miah, where once the Moth came at night?",
+  "dove": "recipes/nxs.n.rose.olympe.ask.olympe.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Zachary succeed in his hinted plan to open the Casket? I could ask him.",
+  "dove": "recipes/nxs.n.casket.zachary.escape.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Did al-Adim find the piebald garden in the ruins of Miah?",
+  "dove": "recipes/nxs.n.rose.aladim.ask.al-adim.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Did anyone ever get to the bottom of that Kaunas business? I could ask around. [Concludes]",
+  "dove": "recipes/nxs.n.debt.inconclusive.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Dismiss the matter of the Dappled Rose. [Concludes]",
+  "dove": "recipes/nxs.n.rose.conclude.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Douglas Intervenes",
+  "dove": "recipes/nxc.n.reverend.success.two.douglas.douglas.intervenes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas Investigates",
+  "dove": "recipes/nxc.n.reverend.success.one.douglas.douglas.investigates.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Down?",
+  "dove": "recipes/nxs.n.guest.zachary.down.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan Investigates",
+  "dove": "recipes/nxc.n.reverend.success.one.ehsan.ehsan.investigates.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan attempted an exorcism of sorts to deal with Grunewald influences. How did it end?",
+  "dove": "recipes/nxs.n.grunewald.ehsan.speak.to.ehsan.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Elie's plans will be stillborn - or must alter in the womb to something even chancier. In any case, they will no longer trouble the Librarian of Hush House.",
+  "dove": "recipes/nxi.n.mystique.revealed.recall.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Escape",
+  "dove": "recipes/nxs.n.casket.coquille.escape.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Forget the Matter",
+  "dove": "recipes/nxc.n.lark.forget.the.matter.label",
+  "ricorre": 15
+ },
+ {
+  "en": "Fraser supports Elie's plan to protect the Bounds. He insists that Yvette's heritage will draw her to Ys sooner or later, and without Elie's bargain, Yvette might become a danger. All we need to do is arrange a meeting between her and Fraser; he'll take care of the rest.",
+  "dove": "recipes/nxc.n.mystique.revealed.fraser.deceive.yvette.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser suspected that one of the new religions was influenced by the Obliviates. Has he learnt anything more?",
+  "dove": "recipes/nxs.n.mystique.fraser.ask.fraser.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Freedom?",
+  "dove": "recipes/nxs.n.skin.aladim.freedom.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Hear Connie's Trouble",
+  "dove": "recipes/nxs.n.rising.connie.hear.connies.trouble.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Connie Decide",
+  "dove": "recipes/nxc.n.tapestry.investigated.connie.help.connie.decide.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Coquille",
+  "dove": "recipes/nxc.n.casket.cracked.coquille.help.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Dagmar",
+  "dove": "recipes/nxc.n.casket.cracked.dagmar.help.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Dagmar deal with the Ysien",
+  "dove": "recipes/nxc.n.horizon.dagmar.help.dagmar.deal.with.the.ysien.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Dagmar deport the Ysien",
+  "dove": "recipes/nxc.n.horizon.dagmar.help.dagmar.deport.the.ysien.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Douglas close the Lyterion",
+  "dove": "recipes/nxc.n.wood.investigated.douglas.help.douglas.close.the.lyterion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Stanislav continue the Lyterion project",
+  "dove": "recipes/nxc.n.wood.investigated.stanislav.help.stanislav.continue.the.lyterion.project.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Stanislav end the Lyterion permanently",
+  "dove": "recipes/nxc.n.wood.investigated.stanislav.help.stanislav.end.the.lyterion.permanently.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Stanislav resolve the Lyterion business",
+  "dove": "recipes/nxc.n.wood.investigated.stanislav.help.stanislav.resolve.the.lyterion.business.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Stanislav resolve the saint-dreams",
+  "dove": "recipes/nxc.n.saint.buried.stanislav.help.stanislav.resolve.the.saint-dreams.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Help Zachary",
+  "dove": "recipes/nxc.n.casket.cracked.zachary.help.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help Zachary Change",
+  "dove": "recipes/nxc.n.skin.free.zachary.help.zachary.change.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help al-Adim deport the Ysien",
+  "dove": "recipes/nxc.n.horizon.aladim.help.al-adim.deport.the.ysien.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help al-Adim resolve the matter of the Croix-de-Feu",
+  "dove": "recipes/nxc.n.saint.burnt.aladim.help.al-adim.resolve.the.matter.of.the.croix-de-feu.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Help the soprano ascend via a Heart path",
+  "dove": "recipes/nxc.n.apollo.agdistis.help.the.soprano.ascend.via.a.heart.path.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Help the soprano ascend via a Sky path",
+  "dove": "recipes/nxc.n.apollo.corso.help.the.soprano.ascend.via.a.sky.path.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Hokobald hadn't shown any interest in Messana before, but now…",
+  "dove": "recipes/nxs.n.eye.hokobald.ask.hokobald.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald is offended by the Moth's challenge to Calyptra.\n\n'Certainly the Mansus needs shaking up, but Moth is too grubby and indignified a power to be allowed more latitude. I will shut down this business in Venice before these wretched flowers spread any further in the Wake. Bring me something on Edicts Inviolable [12]. Or better yet, if you have it, on the Madrugad's White Ceremony.'",
+  "dove": "recipes/nxc.n.invisible.failed.hokobald.hushman.hokobald.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald's Exploits",
+  "dove": "recipes/nxs.n.invisible.hokobald.hokobalds.exploits.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald's Frustrations",
+  "dove": "recipes/nxs.n.invisible.hokobald.hokobalds.frustrations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Honour an Oracle?",
+  "dove": "recipes/nxc.n.rising.interpreted.connie.honour.an.oracle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "How goes the revolution in the Bounds near Meshad? Hokobald apparently had an interest.",
+  "dove": "recipes/nxs.n.revolution.hokobald.revolution.in.the.bounds.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "How goes the revolution in the Bounds near Meshad? I could ask Arthur.",
+  "dove": "recipes/nxs.n.revolution.arthur.the.revolution.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Hushman Hokobald",
+  "dove": "recipes/nxc.n.invisible.failed.hokobald.hushman.hokobald.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I could ask Azita what became of Abecassis.",
+  "dove": "recipes/nxs.n.skin.azita.death.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "I could ask Fraser Strathcoyne what became of Abecassis.",
+  "dove": "recipes/nxs.n.skin.fraser.freedom.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "I could ask the Aleppine what became of Abecassis.",
+  "dove": "recipes/nxs.n.skin.aladim.freedom.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "I need help, Librarian. Coils & Chasms [12] may be enough. Or - it is whispered - there is a secret Mek knew, about the Mother of Monsters. If you can find it, perhaps I can use it.' [Give Chaima the information she needs - or enable Echidna's revenge by bringing Echidna to meet with Chaima, retiring Chaima permanently.]",
+  "dove": "recipes/nxc.n.skin.slain.chaima.chaima.resolve.chaimas.predicament.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "If I help Zachary change, he'll leave. I might not want that. [Concludes]",
+  "dove": "recipes/nxc.n.skin.free.refuse.zachary.and.forget.abecassis.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Ignore the Ysien",
+  "dove": "recipes/nxs.n.horizon.ignore.the.ysien.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Imprisonment?",
+  "dove": "recipes/nxs.n.skin.arthur.imprisonment.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Inform Yvette",
+  "dove": "recipes/nxc.n.mystique.revealed.yvette.inform.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Insects & Nectars [6] should do the job.'",
+  "dove": "recipes/nxc.n.wood.investigated.douglas.help.douglas.close.the.lyterion.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Interpret an Oracle",
+  "dove": "recipes/nxc.n.rising.heard.connie.interpret.an.oracle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Legion Supplies?",
+  "dove": "recipes/nxs.n.revolution.azita.legion.supplies.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Let Connie make up her own mind. The Librarian probably shouldn't get involved with the inner workings of the Suppression Bureau. [Concludes]",
+  "dove": "recipes/nxs.n.tapestry.investigated.forget.the.matter.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Liselotte means well. But you will remember that I have regretfully set my face against the Cross. We must put a firm end to this. There is a Name of the Velvet who can be employed to consume the larvae... do you have anything on the means by which we might attract Kitling Ripe - including Horns & Ivories [10]? '",
+  "dove": "recipes/nxc.n.wood.investigated.stanislav.help.stanislav.end.the.lyterion.permanently.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen is eager to seize this opportunity to stir up trouble among the Hours.\n\n'Why? I always have my reasons, Librarian. But since it is you, I will say that I have been wounded by Calyptra, and also wounded by the cabal which opposes them. Will you help me? With something on Sickle & Eclipse [12]? Or if you have that battle-book of Juceh's, it will be an inspiration to wayward Names...'",
+  "dove": "recipes/nxc.n.invisible.failed.morgen.troublemaker.morgen.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen's Exploits",
+  "dove": "recipes/nxs.n.invisible.morgen.morgens.exploits.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Morgen's Frustrations",
+  "dove": "recipes/nxs.n.invisible.morgen.morgens.frustrations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "No Escape?",
+  "dove": "recipes/nxs.n.casket.coquille.no.escape.label",
+  "ricorre": 1
+ },
+ {
+  "en": "No Safety?",
+  "dove": "recipes/nxs.n.casket.dagmar.no.safety.label",
+  "ricorre": 1
+ },
+ {
+  "en": "No Surcease?",
+  "dove": "recipes/nxs.n.casket.zachary.no.surcease.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Nothing. The Reckoners in Kaunas continue their war, sporadically, for their own knifely reasons. [The Affair of the Forgivable Debt came and went without any Visitors making progress.]",
+  "dove": "recipes/nxs.n.debt.inconclusive.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe dares to distract the Madrugad from the Moth's ploy in Venice…\n\n'I've always been intrigued by the stories of the Winter Tower here at Brancrug, Librarian. I know it sounds irrelevant, but bear with me.'",
+  "dove": "recipes/nxc.n.invisible.salvaged.olympe.assist.olympe.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe's friend was the impresario of the Invisible Opera. She had hoped to help him succeed in the daunting task of staging a performance. Did she?",
+  "dove": "recipes/nxs.n.invisible.olympe.ask.olympe.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Out?",
+  "dove": "recipes/nxs.n.guest.zachary.out.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Perhaps it is best to end the matter. There is a Name of the Velvet who can be employed to consume the larvae, and put a stop to Liselotte's scheme. But also she has approached me for help. She insists this will build a bridge between the Cross and other thinking kinds...  If I am to take the first course, I could use anything on the means by which we might attract Kitling Ripe - including Horns & Ivories [10]. But for the other path - I am considering it - if you have Milagro on bees or Hattington on honey…'",
+  "dove": "recipes/nxc.n.wood.investigated.stanislav.help.stanislav.resolve.the.lyterion.business.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Profit from the 'Wangle'",
+  "dove": "recipes/nxc.n.debt.azita.profit.from.the.wangle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Promise Silence; Mention Nowhere",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.nowhere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Promise Silence; Mention Ys",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.ys.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Promise Silence; Mention the Chandler",
+  "dove": "recipes/nxi.n.heist.investigated.dagmar.promise.silence;.mention.the.chandler.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Protect",
+  "dove": "recipes/nxc.n.endeavour.hokobald.protect.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reaffirm Lucia's Loyalty",
+  "dove": "recipes/nxc.n.eye.revealed.corso.reaffirm.lucias.loyalty.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall Yvette",
+  "dove": "recipes/nxi.n.mystique.revealed.recall.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Refuse Entry",
+  "dove": "recipes/nxs.n.guest.hobson.spencer.down.refuse.entry.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Refuse Involvement",
+  "dove": "recipes/nxc.n.rising.heard.refuse.involvement.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Refuse Zachary and Forget Abecassis",
+  "dove": "recipes/nxc.n.skin.free.refuse.zachary.and.forget.abecassis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Refuse, and return the offering; or make it, and surrender what remains.",
+  "dove": "recipes/nxc.n.claw.agdistis.west.agdistis.speak.with.agdistis.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Renew Devotion",
+  "dove": "recipes/nxc.n.revolution.failing.arthur.renew.devotion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Resolve Arthur's Predicament",
+  "dove": "recipes/nxc.n.skin.captured.arthur.resolve.arthurs.predicament.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Resolve Azita's Predicament",
+  "dove": "recipes/nxc.n.skin.slain.azita.azita.resolve.azitas.predicament.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Resolve Chaima's Predicament",
+  "dove": "recipes/nxc.n.skin.slain.chaima.chaima.resolve.chaimas.predicament.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Return to Agdistis",
+  "dove": "recipes/nxc.n.grunewald.wisp.agdistis.return.to.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Return to Ehsan",
+  "dove": "recipes/nxc.n.grunewald.wisp.ehsan.return.to.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reveal",
+  "dove": "recipes/nxc.n.endeavour.serena.reveal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Revolution in the Bounds?",
+  "dove": "recipes/nxs.n.revolution.hokobald.revolution.in.the.bounds.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sabotage",
+  "dove": "recipes/nxc.n.endeavour.corso.sabotage.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Set the Matter Aside",
+  "dove": "recipes/nxc.n.apollo.set.the.matter.aside.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Show Agdistis what became of the Wisp.",
+  "dove": "recipes/nxc.n.grunewald.wisp.agdistis.return.to.agdistis.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Show Ehsan what became of the Wisp.",
+  "dove": "recipes/nxc.n.grunewald.wisp.ehsan.return.to.ehsan.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Shut down the 'Wangle'",
+  "dove": "recipes/nxc.n.debt.connie.shut.down.the.wangle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak to Agdistis",
+  "dove": "recipes/nxs.n.grunewald.agdistis.speak.to.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak to Agdistis about the Lyterion",
+  "dove": "recipes/nxs.n.wood.agdistis.speak.to.agdistis.about.the.lyterion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak to Douglas about his investigation of the Lyterion",
+  "dove": "recipes/nxs.n.wood.douglas.speak.to.douglas.about.his.investigation.of.the.lyterion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak to Ehsan",
+  "dove": "recipes/nxs.n.grunewald.ehsan.speak.to.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak to Ehsan about the Lyterion",
+  "dove": "recipes/nxs.n.wood.ehsan.speak.to.ehsan.about.the.lyterion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak to Stanislav about the Lyterion",
+  "dove": "recipes/nxs.n.wood.stanislav.speak.to.stanislav.about.the.lyterion.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Speak to al-Adim",
+  "dove": "recipes/nxs.n.saint.aladim.speak.to.al-adim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak with Agdistis",
+  "dove": "recipes/nxc.n.claw.agdistis.west.agdistis.speak.with.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak with Ehsan",
+  "dove": "recipes/nxc.n.claw.patient.unquelled.ehsan.speak.with.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Spencer Hobson - or whatever wears his shape - will not be permitted entry to Hush House.",
+  "dove": "recipes/nxs.n.guest.hobson.spencer.down.refuse.entry.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "Stanislav is ready to take her somewhere safe. The Librarian may allow her access to the beehive at Hush House first…or may just send her on her way.",
+  "dove": "recipes/nxc.n.wood.assisted.stanislav.bid.liselotte.farewell.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Stay or go: it's her decision.",
+  "dove": "recipes/nxs.n.tapestry.investigated.forget.the.matter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Talk to Agdistis",
+  "dove": "recipes/nxs.n.claw.agdistis.talk.to.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Talk to Ehsan",
+  "dove": "recipes/nxs.n.claw.ehsan.talk.to.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Librarian can't get involved in everything.",
+  "dove": "recipes/nxc.n.apollo.set.the.matter.aside.desc",
+  "ricorre": 18
+ },
+ {
+  "en": "The Revolution?",
+  "dove": "recipes/nxs.n.revolution.arthur.the.revolution.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The dissemination of the Reckoners' Wangle has already distracted the Madrugad from her work with the Calyptra. Now, it will be much easier to distract her further.",
+  "dove": "recipes/nxi.n.invisible.salvaged.arun.congratulate.arun.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "The offering is complete.",
+  "dove": "recipes/nxh.n.claw.patient.unquelled.ehsan.offering.tentreto.made.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "The towers...the morning...' was the last thing Yvette said before her departure - the only thing. And now she's gone.\n<i>Ys behind the wave, city of coral and ice… Yvette's blood knows it, and she has passed behind the wave in furtherance of Elie's bargain to protect the Bounds. Some day, we might know if that was a good idea. But today, Elie is pleased, and if we want to recruit her for our Institute, she's willing. </i>",
+  "dove": "recipes/nxh.n.mystique.revealed.yvette.acted.yvette.mystical.winter.horizonsight.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "There are matters it is unwise for the Librarian to touch.",
+  "dove": "recipes/nxs.n.guest.forget.the.matter.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "This is a golden opportunity to build a bridge between us and the Cross. Do you have Milagro on bees or Hattington on honey?'",
+  "dove": "recipes/nxc.n.wood.investigated.stanislav.help.stanislav.continue.the.lyterion.project.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Thwart Elie",
+  "dove": "recipes/nxc.n.mystique.revealed.douglas.thwart.elie.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Thwarted by Coquille?",
+  "dove": "recipes/nxs.n.casket.dagmar.thwarted.by.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Thwarted by Dagmar?",
+  "dove": "recipes/nxs.n.casket.coquille.thwarted.by.dagmar.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Thwarted by Zachary?",
+  "dove": "recipes/nxs.n.casket.dagmar.thwarted.by.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "To Independence",
+  "dove": "recipes/nxc.n.eye.revealed.serena.to.independence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "To the Chandler",
+  "dove": "recipes/nxc.n.eye.revealed.hokobald.to.the.chandler.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Troublemaker Morgen",
+  "dove": "recipes/nxc.n.invisible.failed.morgen.troublemaker.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Unveil",
+  "dove": "recipes/nxc.n.endeavour.serena.unveil.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What came of the business at Gladwyn Lake? Arun went to watch.",
+  "dove": "recipes/nxs.n.tapestry.arun.ask.arun.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What caused the Reverend to Open? And what's happening to him now?",
+  "dove": "recipes/nxs.n.reverend.douglas.ask.douglas.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "What did he learn about the 'change in the world's pulse'?",
+  "dove": "recipes/nxs.n.wood.stanislav.speak.to.stanislav.about.the.lyterion.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What did he learn about the 'rebirth of something old'?",
+  "dove": "recipes/nxs.n.wood.stanislav.speak.to.stanislav.about.the.lyterion.bis.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What did he learn about the connection between the Lyterion and Thirza Blake?",
+  "dove": "recipes/nxs.n.wood.ehsan.speak.to.ehsan.about.the.lyterion.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What did he learn about the connection between the Lyterion and honey?",
+  "dove": "recipes/nxs.n.wood.agdistis.speak.to.agdistis.about.the.lyterion.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened to Ehsan's patient?",
+  "dove": "recipes/nxs.n.claw.ehsan.catch.up.with.ehsan.preface",
+  "ricorre": 2
+ },
+ {
+  "en": "What happened with Spencer Hobson and his 'inhabitation of Worms'?",
+  "dove": "recipes/nxs.n.guest.coquille.ask.coquille.preface",
+  "ricorre": 4
+ },
+ {
+  "en": "What happened with the Ivory Dawn? Follow up with Yvette.",
+  "dove": "recipes/nxs.n.mystique.yvette.ask.yvette.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened with the Messenger's Casket? I could ask Coquille.",
+  "dove": "recipes/nxs.n.casket.coquille.no.escape.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened with the Messenger's Casket? I could ask Dagmar.",
+  "dove": "recipes/nxs.n.casket.dagmar.no.safety.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened with the Messenger's Casket? I could ask Zachary.",
+  "dove": "recipes/nxs.n.casket.zachary.no.surcease.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened with the fad for religions? Follow up with Douglas",
+  "dove": "recipes/nxs.n.mystique.douglas.ask.douglas.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What happened with the sandalwood image in Strasbourg, in the end?",
+  "dove": "recipes/nxs.n.saint.aladim.speak.to.al-adim.preface",
+  "ricorre": 3
+ },
+ {
+  "en": "What has come of the business at Gladwyn Lake? Connie tried to deal with the consequences.",
+  "dove": "recipes/nxs.n.tapestry.connie.ask.connie.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What has come of the business at Gladwyn Lake? Stanislav looked into it for the Green Sages.",
+  "dove": "recipes/nxs.n.tapestry.stanislav.ask.stanislav.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "What's happening with the fad for solar cults? Does she still think it was nothing unusual?",
+  "dove": "recipes/nxs.n.mystique.serena.ask.serena.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Who knows what it might mean?",
+  "dove": "recipes/nxh.n.claw.patient.unquelled.ehsan.offering.tentreto.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Yes, Elie did good work in her time. But I don't think that helps us now. Anything else?'",
+  "dove": "recipes/nxh.n.mystique.revealed.serena.t.commandmentsforthepreservationofallthatexists.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Yvette is intrigued by Elie's offer, but understandably concerned. More information on Elie might help her make up her mind.",
+  "dove": "recipes/nxc.n.mystique.revealed.yvette.inform.yvette.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "Yvette is intrigued by Elie's offer. She might yet be tempted into going to Ys of her own free will… [Add a Horizon-Sight to convince Yvette]",
+  "dove": "recipes/nxc.n.mystique.revealed.yvette.convince.yvette.preface",
+  "ricorre": 1
+ },
+ {
+  "en": "'Breath is the temptation of the soul.' Azita and Coquille are discussing the ways in which beauty can be absorbed through the lungs; and Azita is angling for a connection to Coquille's friend Giorgiou, the cigarette smuggler… [Lesson: Applebright Euphonies]",
+  "dove": "recipes/slnev.azita.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hateful tongue,' Corso says gloomily. 'But it's hard to stop speaking it once you start, you know, Chaima? Even when you stumble into a sticky patch.' [Lesson: Hyksos]",
+  "dove": "recipes/slnev.corso.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have a name', Zachary says dispassionately, 'and another name. One of them is written only in Killasimi. I will speak of it, because you have invited me. But I will not speak it, because I am a guest.' [Lesson: Killasimi]",
+  "dove": "recipes/slnev.zachary.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is cold,' Zachary whispers to Yvette. He shivers. 'I must stay cold, mustn't I? If I thaw, I will come loose, won't I?' Yvette nods carefully. 'I think it's for the best that you don't thaw - not yet - ' she agrees. [Lesson: Snow Stories]",
+  "dove": "recipes/slnev.zachary.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Remember,' Arun tells Zachary, 'that it's always too late, eventually; but it never is until then.' Zachary lets out a long sigh. 'You always say that. It's less helpful than you think it is.' [Lesson: Putrefactions & Calcinations]",
+  "dove": "recipes/slnev.zachary.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Starygazy pie?' Ehsan exclaims. He snaffles a slice. 'Brancrug at its best. I've been going to the Sweet Bones for this since… well, longer than I care to remember. The stories the fishermen tell...' [Lesson: Sea Stories]",
+  "dove": "recipes/slnrsp.ehsan.pie.pilchards.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The language of the Four Quarters.' Connie shakes her head. 'I learnt it out there, before I joined the Bureau. If I talk too much about it, it'll spoil the mood. But here's some pointers.' [Lesson: Killasimi]",
+  "dove": "recipes/slnev.connie.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'We all loved Vak, back home,' Arun sighs. Coquille nods, her eyes glowing. 'You remember the poems we wrote for her? In other languages, of course. Except me; I wrote a poem to her, in her. I got in a great deal of trouble for that. Again.' He recites a few verses, and Coquille claps her hands in delight. [Lesson: Vak]",
+  "dove": "recipes/slnev.arun.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'You are Sogdian, are you not?' Agdistis asks Azita. 'I was born,' she agrees, 'in the Sogdian twilight, after the coming of ibn Asad, when our language was already passing from the world… but I still recall a few of our songs, if that is what you were going to ask me.' [Lesson: Strings & Songs]",
+  "dove": "recipes/slnev.agdistis.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "After their conversation on containment-in-glass last time, Morgen and Zachary have brought each other exhibits - or gifts. For her, a blued glass mirror that's always cold to the touch; for him, a glass key that she suggests he crush if things become 'too much what they are.' [Lesson: Glassblowing & Vesselcrafting]",
+  "dove": "recipes/slnev.morgen.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Arun are discussing the Thunderskin's rites in Phrygia, India, and Cyprus… [Lesson: Drums & Dances]",
+  "dove": "recipes/slnev.agdistis.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Coquille are chatting about opera. He prefers German; she, Italian. [Lesson: Strings & Songs]",
+  "dove": "recipes/slnev.agdistis.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Corso are chatting amicably about growing up in the ways of the Sun. Apparently they were both choirboys. ('I know, I know,' says Corso. 'Then I started smoking.) [Lesson: Sacra Solis Invicti]",
+  "dove": "recipes/slnev.corso.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Corso chat about Solar doctrine. Both of them, it seems, were raised in the Sun: both of them admit to an absurd degree of guilt about their absence from church on the Sun's Day. [Lesson: Sacra Solis Invicti]",
+  "dove": "recipes/slnev.agdistis.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Fraser have returned to their discussion of the prospective ballet for which Fraser wishes to act as impresario. Agdistis has finally agreed to act as choreographer, but only on condition that he can veto Fraser's initial choice of name, which he strongly dislikes: 'The Buzzing in the Skull.' [Lesson: Purifications & Exaltations]",
+  "dove": "recipes/slnev.fraser.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Hokobald have a scrupulously polite conversation about acoustics, resonance, and bellringing in the churches of London. [Lesson: Bells & Brazieries]",
+  "dove": "recipes/slnev.agdistis.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Morgen share news of his friend, and her un-sister, the Ligeian Sulochana (who, it seems, was at one point Morgen's dance-instructor). She is in Georgia now: Agdistis wonders why. 'Medea,' Morgen says, but she teasingly refuses to be drawn on what that might mean. [Lesson: Serpents & Venoms]",
+  "dove": "recipes/slnev.agdistis.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Olympe speak of the kind of wounds that words as weapons may cause - the big ones and the little ones. They speak also of the creation of stars - the big ones, and the little ones… [Lesson: Pyroglyphics]",
+  "dove": "recipes/slnev.agdistis.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Serena discuss a masked play - a sort of degenerate Sufic hybrid - that he saw in Alexandria some years ago. 'They would only perform it,' he says, 'in the hours before dawn.' Serena nods: 'I think that was wise.' [Lesson: Watchman's Paradoxes]",
+  "dove": "recipes/slnev.agdistis.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and Stanislav talk about gardening under glass in winter. Their tone is fatherly. [Lesson: Leaves & Thorns]",
+  "dove": "recipes/slnev.agdistis.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis and al-Adim have a lively chat about the uses of birdsong in the prediction of weather. [Lesson: Furs & Feathers]",
+  "dove": "recipes/slnev.agdistis.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis enumerates a number of 'smithing songs', tapping on the table as he does so. Denzil nods politely, but is clearly paying no attention. [Lesson: Drums & Dances]",
+  "dove": "recipes/slnev.agdistis.visiting.denzil.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis expresses an interest in Ericapaean. Reverend Timothy, who has not been initiated into the higher mysteries of the Church, professes himself 'very far from fluent' in it, but is happy to share a few pointers. [Lesson: Ericapaean]",
+  "dove": "recipes/slnev.visiting.timothy.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis invites Arthur to visit him in Berlin, but Arthur shakes his head. 'I can do without the temptation. The old ties would be too much for me. The War, I mean. We both know what's coming.' [Lesson: Auroral Contemplations]",
+  "dove": "recipes/slnev.arthur.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis is plainly delighted to see Chaima again, and she favours him with a rare smile, bright as mica in moonlight. Again they fall to discussing the dances of the Rif mountains - since they last met, he has travelled there himself to learn of them… [Lesson: Drums & Dances]",
+  "dove": "recipes/slnev.agdistis.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis listens as Yvette expounds her theories on the paintings of Nina Lagasse: how, Yvette believes, her choice of colours over the years shows that she knew when her time was coming to an end. [Lesson: Sights & Sensations]",
+  "dove": "recipes/slnev.agdistis.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis recites - with caution - some of the lake-songs of the witches of the Fucine marshes. 'I am more comfortable with the Phrygian tongue,' he says, 'but it is wise to pay the Sister her due.' [Lesson: Fucine]",
+  "dove": "recipes/slnev.agdistis.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis wants to hear about Cornish traditional songs. Denzil hums one, and Agdistis listens with care, repeating it back to him. Denzil is a little out of key, but Agdistis hums it back into shape. [Lesson: Strings & Songs]",
+  "dove": "recipes/slnev.visiting.denzil.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Agdistis are gossiping, quietly, about al-Adim's patroness. 'Not a hundred legs,' says al-Adim, 'but more than you'd think…' [Lesson: Sky Stories]",
+  "dove": "recipes/slnev.aladim.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Azita are reminiscing about the time of their first acquaintance in the city of Damascus, in the days before the coming of Timur. 'Good fighting!' she sighs. 'I preferred the hawking,' he says; and they spend some time discussing desert falconry. [Lesson: Furs & Feathers]",
+  "dove": "recipes/slnev.azita.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Coquille are fencing again. She asks him outright about the nature of his Longhood; he tells her he 'found his patron in the desert.' He asks her if she is 'Clogg-relevant'; she pretends outrage that he is asking about her age, and will say only that she is less than a century old. [Lesson: Pentiments & Precursors]",
+  "dove": "recipes/slnev.coquille.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Dagmar are engrossed in a deeply technical discussion about the accuracy - and possible transience - of Westergren's accounts of the Mansus. (Dagmar keeps deferentially reminding al-Adim that she's never passed the Stag Door.) [Lesson: Path & Pilgrim]",
+  "dove": "recipes/slnev.aladim.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Fraser are debating - very cautiously, even here in Hush House - the nature of the Red Flower of the Calyptra - to what extent it makes use of the cleansing fire, and to what extent it relies on illusion and deception. [Lesson: Inks of Power]",
+  "dove": "recipes/slnev.fraser.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Morgen discuss the meditations of Abbot Thomas of St Brandan's. Morgen asks if al-Adim ever met the Abbot. 'I acknowledge that I am rather older than you,' he replies, a little stiffly, 'but I am not <i>that</i> old.' [Lesson: Applebright Euphonies]",
+  "dove": "recipes/slnev.aladim.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Mr Kille discuss the birds of prey that haunt the moors. Mr Kille is intrigued to learn of al-Adim's interest in falconry, though he has never practised it himself. [Lesson: Furs & Feathers]",
+  "dove": "recipes/slnev.visiting.killes.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Olympe exchange stories of meetings with the prehuman dead: gentle things that yearn for a redder sun, and hungrier things that seek human blood to satisfy that yearning. [Lesson: Stone Stories]",
+  "dove": "recipes/slnev.aladim.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim and Serena discuss the Great Inks of Power and their personalities. Serena is concerned that the use of a particular ink might alter the meaning of a text. Al-Adim considers this a benefit; or a way to add meaning to the text; or at least something fundamental. [Lesson: Inks of Power]",
+  "dove": "recipes/slnev.aladim.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim asks Arthur if he ever thought to grow Long, but Arthur shakes his head. 'Too many sacrifices - too many more. I know your patroness is gentler. But I will not pay the price, nor have others pay it for me.' [Lesson: Auroral Contemplations]",
+  "dove": "recipes/slnev.aladim.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim describes his memories of Thirza Blake, and her work, in his time as Secretary Nunciant of the House. He is clearly caught between affection and annoyance. Stanislav shakes his head: 'I wish I had known her. I think we'd have got on.' [Lesson: Herbs & Infusions]",
+  "dove": "recipes/slnev.aladim.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim is asking Denzil technical questions about farriery. ('I have ridden many kinds of steed on many kinds of highway…') Denzil answers briefly and gravely, but his interest does seem piqued by al-Adim's hints about shoeing other steeds than horses… [Lesson: Furs & Feathers]",
+  "dove": "recipes/slnev.visiting.denzil.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim is chaffing Arun about the fading potency of 'your venoms'. Arun is clearly subsiding into a sulk. [Lesson: Serpents & Venoms]",
+  "dove": "recipes/slnev.aladim.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim is recently back from New York. Reverend Timothy is instantly and ferociously curious about New York. It transpires that al-Adim did not particularly like New York.",
+  "dove": "recipes/slnev.aladim.visiting.timothy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim is reminiscing to Corso about Yarden of Nishapur, who knew the 'songs that came before the sun'… [Lesson: Pentiments & Precursors]",
+  "dove": "recipes/slnev.aladim.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim is spinning tales of his travels, in the mountains of Persia, the taiga of the farthest East, the snows of Antarctica… Douglas listens, enraptured. 'Sometimes,' he says gruffly, 'I wish I'd done things different.' [Lesson: Path & Pilgrim]",
+  "dove": "recipes/slnev.aladim.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim politely interrogates Coquille about her family and nature. Yes, she is associated with the Tomb of Lies; no, she is no longer welcome there; yes, she is, she supposes, technically a pentiment… [Lesson: Pentiments & Precursors]",
+  "dove": "recipes/slnev.aladim.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Al-Adim, the historian, and Fraser, the collector, debate the longevity and the peril of their favourite Great Inks. [Lesson: Inks of Power]",
+  "dove": "recipes/slnev.aladim.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Agdistis are talking, softly and seriously, about those absences which scar. 'I still miss him,' Arthur says. Agdistis squeezes his hand and quotes in Greek: 'Roses by the head, jasmine at the feet…' [Lesson: Disciplines of the Scar]",
+  "dove": "recipes/slnev.agdistis.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Arun are discussing which forbidden weapons should be permitted, and which weapons have been permitted too long. Arthur is concerned by rumours of Dawnbreaker experiments in Britain; Arun is bragging, a little, about his experiences with the terrible feather called the Imhullune Tectrix. [Lesson: Sharps]",
+  "dove": "recipes/slnev.arthur.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Chaima are talking guns. Chaima is disparaging about the reliability of the Berthier rifles once issued to her Goumier unit, but she and Arthur are both keenly interested in recent work of the Manufacture d'Armes de Saint-Étienne company… and both concerned about where to commission 'noble ammunition' for the new weapons. [Lesson: Disciplines of the Hammer]",
+  "dove": "recipes/slnev.arthur.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Connie are rather stiffly discussing the New King's projects. Both of them seem wary of each other. [Lesson: Disciplines of the Hammer]",
+  "dove": "recipes/slnev.arthur.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Corso are discussing Ericapaean - a language that both of them are struggling to master. They agree to correspond in that language, although Corso points out that it'll probably get their post opened by the Suppression Bureau. [Lesson: Ericapaean]",
+  "dove": "recipes/slnev.arthur.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Denzil are having a stilted but friendly conversation about the local beer. [Lesson: Spices & Savours]",
+  "dove": "recipes/slnev.arthur.visiting.denzil.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Ehsan discuss Anaël Verdier's account of the ascent of the 'Unwise Mortal' to the heights of the Mansus - perhaps even to the Glory - and how he, perhaps, succeeded when so many others failed. 'I learnt in my time here' - Ehsan gestures to indicate the House - 'that it can be as important who witnesses a deed, as who performs it.' Arthur nods, slowly. [Lesson: Watchman's Paradoxes]",
+  "dove": "recipes/slnev.arthur.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Fraser are discussing the Althiban Abyss near Baghdad. Fraser hopes the power that stirs there might be connected to the Carapace Cross, but Arthur firmly dissuades him: if once it was Cross, he says, it belongs to something else now. [Lesson: Coil & Chasm]",
+  "dove": "recipes/slnev.fraser.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Mr Kille are exchanging stories about the wilder days of their childhood in Castleford and in Brancrug, the scrapes they got into; both are chuckling, but both grow quiet when they realise that Arthur's childhood was much, much longer ago.",
+  "dove": "recipes/slnev.arthur.visiting.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Mr Kille discuss some of the more ghastly wounds they have seen on corpses. Their various professional interests lead them astray, and they both go quiet after a sharp glance from Mrs Kille reminds them where they are. [Lesson: Surgeries & Exsanguinations]",
+  "dove": "recipes/slnev.visiting.killes.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Olympe debate the hypothetical City Unbuilt, the dwelling-place of perfect balance. Olympe suggests it might be achievable in the Moon-marches, or even the House of the Moon. Arthur believes it's better as an unachievable ideal - especially since the Meniscate, the Hour of perfect balance, is one of the trio of Chancel Hours, and the other two might prefer to limit her power by forbidding the City. [Lesson: Meniscate Reflections]",
+  "dove": "recipes/slnev.arthur.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and Zachary reminisce about London at night - how it has changed, and how they have changed. [Lesson: Ragged Crossroads]",
+  "dove": "recipes/slnev.arthur.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur and al-Adim are discussing the dyes and dyers of the city of Tyre. [Lesson: Inks of Power]",
+  "dove": "recipes/slnev.arthur.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur has been describing the mirror-mazes of the Labyrinth of Lions to a smiling Azita - but now he seems to grow suspicious of her motives in questioning him, and he withdraws. [Lesson: Glaziery & Lightsmithing]",
+  "dove": "recipes/slnev.arthur.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur is asking Denzil about his time in the War. Denzil replies in courteous monosyllables. [Lesson: Disciplines of the Hammer]",
+  "dove": "recipes/slnev.visiting.denzil.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur speaks of the light that supposedly dwelt in the Wood before the coming of the Gods-from-Light: he suggests it might be the redder Sun of the gods-who-were-stone. Serena thinks it is simply fire - 'if we can ever say 'simply' of the Wood.' [Lesson: Pyroglyphics]",
+  "dove": "recipes/slnev.arthur.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur speaks of the lightsmithing arts practised at the Labyrinth of Lions; Ehsan offers to show Arthur the stained glass windows in the chapel of Hush House after the meal ('with your permission, Librarian'?). [Lesson: Glaziery & Lightsmithing]",
+  "dove": "recipes/slnev.ehsan.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Agdistis are discussing the technical details of flensing, without any particular regard for the effect it might have on anyone's appetite. [Lesson: Stitching & Binding]",
+  "dove": "recipes/slnev.arun.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Arthur are reminiscing about the city of Pune, though Arun has not visited it, he confides, since the time of the Maratha Empire. 'One exile after another; the pentiment's fate. Exile is addictive. You'll learn that too.'  [Lesson: Sickle & Eclipse]",
+  "dove": "recipes/slnev.arun.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Azita speak of the Tragulari, the 'Dartsmen' who once used exotic poisons to hunt immortals. Arun expresses distaste for the Colonel's part in the Tragulari's creation, but Azita is unabashed: 'Good exercise. Honestly, I miss them.' Arun flatly refuses to believe her. [Lesson: Sharps]",
+  "dove": "recipes/slnev.arun.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Chaima are speaking of the 'Younger Sisters' of the Mother of Ants, whom Chaima has hunted in the past. 'There are not so many of them left in serpent-form,' Arun tells her. 'The world changes, and they take human form. As the dragons did.' [Lesson: Hill & Hollow]",
+  "dove": "recipes/slnev.arun.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Corso are discussing a scheme to track down valuable books by observing the effects of their ink on the dreams of those nearby, but Corso subsides into a sulk when it becomes apparent that Arun is not taking the idea seriously. [Lesson: Inks of Revelation]",
+  "dove": "recipes/slnev.arun.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Dagmar greet each other with delight and are soon engaged in another round of their perennial riddle-game. 'What is the difference,' Arun asks 'between a Twin?' Dagmar roars happily, 'One of its Names is both the same!' [Lesson: Edicts Liminal]",
+  "dove": "recipes/slnev.arun.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Dagmar greet each other with delight and are soon engaged in another round of their perennial riddle-game; but Arun becomes haughty when he realises that Dagmar has asked him about 'Sorrow's Solvent' just to see if she can make the ex-Hooded Prince's 'teeth stick out hissing.' [Lesson: Solutions & Separations]",
+  "dove": "recipes/slnev.dagmar.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Ehsan - the ex-skaptodon, the perhaps-ex-Knock-long - talk about how it is to have been something that one no longer is. Ehsan complains that he needs to employ both hammers and nutcrackers, also that his joints have begun to ache when the weather turns. Arun rubs at the bandages on his wrists, and says ruefully: 'But we endure; we endure.' [Lesson: Resurgences & Emergences]",
+  "dove": "recipes/slnev.arun.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Hokobald are debating the truth of a rumour about Winter-long: that they cannot sire or birth children, and so can safely lie together without fear of the Crime of the Sky. Hokobald insists that even were that true, the fruitfulness of Grail-long - or the vigour of Forge-long - would still allow conception. [Lesson: Desires & Dissolutions]",
+  "dove": "recipes/slnev.arun.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Serena discuss the contraband manual of inks called 'From History to Eternity', and speculate as to the identity of its author. Serena wonders if it might have been Edith Abney-Hastings, now the Nocturnal Secretary responsible for the entire Suppression Bureau, but Arun scoffs. [Lesson: Inks of Revelation]",
+  "dove": "recipes/slnev.arun.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Stanislav compare the sacred places where it is fitting to spill blood; those where the spilling of blood is welcome; and those where one may only spill one's own. [Lesson: Rites of the Roots]",
+  "dove": "recipes/slnev.arun.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun and Yvette began with a serious philological discussion - the similarities between Henavek and Vak - but the conversation has devolved into something more like gossip, comparing the virtues and charms of Vak and Henavek as if they were individuals. Arun mentions the tradition that the two languages are brother and sister. 'It would be a shame, wouldn't it, if they were?' Yvette responds archly. 'If they were brother and sister, nothing unsuitable could occur between them, surely?' Arun's whole face creases in an unusually fervent smile. [Lesson: Henavek]",
+  "dove": "recipes/slnev.yvette.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun begins an animated, if one-sided, conversation with Denzil, treating him to an impromptu translation of the Incandescent Tantra: 'a great change requires a melting dissolution.' Arun's tone becomes more sibilant, and he sits very close to Denzil, who begins, cautiously, to smile. [Lesson: Transformations & Liberations]",
+  "dove": "recipes/slnev.visiting.denzil.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun exercises his charm to overcome Mr Kille's wariness of foreigners. He describes his 'skin condition' in elliptical terms, and invites advice from Mr Kille on how it might be better concealed. Mr Kille insists that he is a coffinmaker, not an embalmer, but has a suggestion or two nevertheless... [Lesson: Surgeries & Exsanguinations]",
+  "dove": "recipes/slnev.visiting.killes.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun is brightly asking Connie detailed questions about the connections between the Bureau and the Calyptra. Connie, clearly struggling to suppress her outrage, is answering them as tactfully and evasively as she can. [Lesson: Edicts Inviolable]",
+  "dove": "recipes/slnev.arun.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun is concerned about the progress of a recent candidate for Lantern-longhood: he shares names and details with Douglas. 'Knife, noose, flame, word, hm? I don't like it; but I don't like this aspirant either.' [Lesson: Maggephene Mysteries]",
+  "dove": "recipes/slnev.douglas.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun is telling stories of the times when he was still numbered among the Great Hooded Princes - stories of the indirect wars they waged against the invaders of their adoptive country - the rivers they roused, the lions they made… [Lesson: Edicts Martial]",
+  "dove": "recipes/slnev.chaima.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun leans towards Mrs Kille. 'My family,' he says significantly,'perceives time as a flame: coolest at its heart, but wildest at its edge…' Mrs Kille shrugs, and says: 'Every flame has its fuel; every fuel fears its flame.'\nArun draws his head back to regard her, in a more than usually ophidian mode. 'Huh,' he suggests. [Lesson: Purifications & Exaltations]",
+  "dove": "recipes/slnev.arun.visiting.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun strokes Hokobald's arm and whispers about the 'pleasures of the Princes'. Hokobald's response can best be described as 'angry curiosity.' [Lesson: Desires & Dissolutions]",
+  "dove": "recipes/slnev.hokobald.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Arun, complacently: 'The traveller is always returning. One who does not is no traveller.' Al-Adim, waspishly: 'Tell that to my patroness.' [Lesson: Path & Pilgrim]",
+  "dove": "recipes/slnev.arun.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Agdistis are discussing the roles played in the world's sustention by the Thunderskin ('who does not permit conclusion') and the Corrivality (the eternal contest of the Edge-powers). They agree it's a business that could only be entrusted to Hours familiar with suffering... [Lesson: Edicts Martial]",
+  "dove": "recipes/slnev.azita.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Arun speak of conversations they both had long ago with the witch Ninegala of Lagash about Vak - identified with the Peacock Door - and Calyptra. 'The goddess! She was very bad for me,' Arun sighs, 'but much worse for poor Ghirbi. That's how he came about his interest in doors. And goddesses.' [Lesson: Sickle & Eclipse]",
+  "dove": "recipes/slnev.azita.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Connie are in unexpectedly business-like negotiations for the purchase of talismanic jewels, by the Suppression Bureau, from Azita's contacts… [Lesson: Anbary & Lapidary]",
+  "dove": "recipes/slnev.azita.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Douglas speculate as to the current location and disposition of Teresa Galmier, who has twice been mortal, and twice grown Long… [Lesson: Purifications & Exaltations]",
+  "dove": "recipes/slnev.douglas.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Morgen compare their hunts of 'upright prey.' Morgen observes disapprovingly that unlike Azita, she never hunts for pleasure. Azita raises her eyebrows and leaves them there until Morgen dissolves into silvery giggles. [Lesson: Horns & Ivories]",
+  "dove": "recipes/slnev.azita.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Mr Kille discuss the qualities of the timber of the great cedars of Lebanon. Azita offers to provide a quantity of cypress-wood at a very cheap price; Mr Kille, smiling as usual, refuses. Azita offers a free sample, and Mr Kille's smile vanishes. He apologises, he says, but in Brancrug they have been taught not to accept gifts from visitors to Hush House. [Lesson: Leaves & Thorns]",
+  "dove": "recipes/slnev.azita.visiting.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Mrs Kille exchange weather-lore. ('Plenty of babies shy of birth, can't wait to stick their heads out in a storm' opines Mrs Kille gloomily.) [Lesson: Sky Stories]",
+  "dove": "recipes/slnev.visiting.killes.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Reverend Timothy are discussing the churches of the East - variations on the Solar faith with other hours acknowledged, and hold-outs of the Crucian heresy. (Azita objects mildly to Timothy describing it as the 'Crucian heresy'.) [Lesson: Sacra Solis Invicti]",
+  "dove": "recipes/slnev.visiting.timothy.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Reverend Timothy are discussing the films of Ilse Bischoff. 'Horrible,' says Reverend Tim emphatically, of <i>The Open Head</i>. 'But I couldn't stop thinking about it. I wrote a piece for the diocese magazine. They didn't like it very much. Asked me to do another one of my Christmas puzzle columns instead.' [Lesson: Disciplines of the Scar]",
+  "dove": "recipes/slnev.azita.visiting.timothy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Serena discuss those who've made unexpected choices about how to grow Long. Azita asks Serena what she would consider, but Serena shakes her head: 'Not now the Obliviates have gone West. And even had they not, I doubt I would have been able to harden my heart quite enough.' [Lesson: Meniscate Reflections]",
+  "dove": "recipes/slnev.azita.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Stanislav discuss the Names of the Thunderskin - the seven Instruments whose musics support his rhythm. Azita repeats the tradition that a duendrazon which has known seven caesurae becomes eligible to replace an Instrument. Stanislav shakes his head. 'Duendrazones. An odd choice, I've always thought, to become eternally conscious, and then to pursue the caesura so...' [Lesson: Strings & Songs]",
+  "dove": "recipes/slnev.azita.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and Zachary discuss how to maintain a delicate balance, in the occult or the personal; and also how to dispose of corpses. [Lesson: Sickle & Eclipse]",
+  "dove": "recipes/slnev.azita.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita and al-Adim discuss the varieties of messenger-birds and courier-spirits that they have employed across the centuries of their acquaintance. [Lesson: Sky Stories]",
+  "dove": "recipes/slnev.aladim.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita asks Stanislav's opinion on the 'lignifying plague' she recently observed in Kabul and Samarkand, which only affects buildings - so far… [Lesson: Rites of the Roots]",
+  "dove": "recipes/slnev.stanislav.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita describes skirmishes with bandits and customs guards along the roads of the East. Denzil sits with his arms folded, nodding occasionally. [Lesson: Disciplines of the Scar]",
+  "dove": "recipes/slnev.visiting.denzil.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita is describing her experiences in the Mansus to Arthur - who, it seems, has never passed the Stag Door, though he speaks fondly of its watchman. [Lesson: Watchman's Paradoxes]",
+  "dove": "recipes/slnev.azita.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita is negotiating the use of Dagmar's estate to store a shipment of 'entertaining automata'; but Dagmar must satisfy herself first that they 'definitely can't kill anyone. Especially' (she adds) 'anyone important.' [Lesson: Lockworks & Clockworks]",
+  "dove": "recipes/slnev.azita.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita is trying to begin a conversation about infantry tactics; but Denzil doesn't seem interested. [Lesson: Disciplines of the Scar]",
+  "dove": "recipes/slnev.azita.visiting.denzil.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita, the Colonel-devotee, listens to Ehsan, who once served the Lionsmith, explain his conception of the Corrivality. 'The Histories are I think not braided, but woven. The Corrivality, back and forth between our masters' - he gestures - 'like a shuttle on a loom...' [Lesson: Stitching & Binding]",
+  "dove": "recipes/slnev.azita.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Arthur are discussing the difficulties of desert campaigns, in Algeria and in Persia; the clarity of the stars; the ubiquity of sand; the tales told at the water's edge. [Lesson: Sand Stories]",
+  "dove": "recipes/slnev.chaima.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Azita are discussing the darts of the Tragulari, the order who once hunted immortals - their forging, their shaping, and the nasty little curses placed upon them to strengthen the poisons they bore. [Lesson: Sharps]",
+  "dove": "recipes/slnev.chaima.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Connie are discussing - with sorrow - the 'khalvites', those labhites who have chosen to drink what Echidna offers… [Lesson: Wolf Stories]",
+  "dove": "recipes/slnev.chaima.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Connie are talking, very quietly, about the seven alukites who comprise the Ligeia Club…. [Lesson: Wolf Stories]",
+  "dove": "recipes/slnev.connie.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Connie are talking, very quietly, about the seven alukites who comprise the Ligeia Club….with frequent sideways glances at Morgen, who is smiling a Morgen smile. [Lesson: Wolf Stories]",
+  "dove": "recipes/slnev.connie.chaima.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Coquille are discussing 'the poetry of serpents' - the signs that can be read from their tracks, for hunting and for other purposes. Coquille seems unexpectedly knowledgeable about serpents… [Lesson: Preliminal Meter]",
+  "dove": "recipes/slnev.chaima.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Douglas are discussing Ilse Bischoff's experimental film <i>The Open Head</i>. 'I saw it in Alexandria,' Chaima offers. 'I think perhaps she was moved by a dream of the Chandler - that when it emerges, it will emerge from war - and from knowledge unwisely shared.' Douglas sucks on his pipe. 'Mrs M wanted to see it,' he says morosely. 'She likes that Buñuel too.' He sucks on his pipe again. 'I don't like that Buñuel.' [Lesson: Disciplines of the Scar]",
+  "dove": "recipes/slnev.chaima.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Mr Kille discuss funerary customs across Europe and beyond. [Lesson: Rhyme & Remembrance]",
+  "dove": "recipes/slnev.visiting.killes.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and Zachary discuss regrets, one hunter to another. [Lesson: Ragged Crossroads]",
+  "dove": "recipes/slnev.chaima.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima and al-Adim are comparing navigation techniques. [Lesson: Path & Pilgrim]",
+  "dove": "recipes/slnev.chaima.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima asks Yvette to interpret a dream - of a white waste west of the world where pale mutes redden the snow with the blood of a bull… [Lesson: Snow Stories]",
+  "dove": "recipes/slnev.chaima.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima describes her defeat in the Bounds at the hands of a 'door-watcher' she names Forculus. Serena, fascinated, tries to draw her out: is Forculus truly a Name of Janus? Is Janus, then, real? Chaima denies interest in either of these questions - and adds quietly that it is unwise of Serena to ask them. [Lesson: Auroral Contemplations]",
+  "dove": "recipes/slnev.chaima.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima intends to hunt one of the <i>striges</i>, the Many-Winged Ones, who sometimes serve the Colonel and sometimes the Lionsmith. She asks Ehsan what bait she should use, and he replies without hesitation: 'Gossip'. [Lesson: Sky Stories]",
+  "dove": "recipes/slnev.chaima.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima is commissioning 'noble ammunition' from Fraser, for prey which isn't so very bothered by the usual sort of bullet. [Lesson: Disciplines of the Hammer]",
+  "dove": "recipes/slnev.fraser.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima is describing for Agdistis one of the dances of the Rif Mountains, her home. Her shoulders twitch as if she might wish to show him, but her dignity keeps her in her seat. From his gentle smile, Agdistis has noticed. [Lesson: Drums & Dances]",
+  "dove": "recipes/slnev.chaima.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima listens as Azita discusses the death of the God-from-Stone called Seven-Coils, and the birth of the Mother of Ants. 'I don't think it was pretty,' she tells the younger woman. 'But I wonder if it might not have been beautiful.' [Lesson: Edicts Martial]",
+  "dove": "recipes/slnev.azita.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima listens intently while al-Adim describes the rare occasions on which labhites have been successfully brought to ground. Neither of them look happy. [Lesson: Horns & Ivories]",
+  "dove": "recipes/slnev.aladim.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima outright asks Morgen whether she - and the other Ligeians - are names of the Twins. Morgen responds with theatrical shock; she makes allusions that suggest it is so; she makes other allusions that imply she's associated with the Grail, the Meniscate, or the Blackbone. [Lesson: Sky Stories]",
+  "dove": "recipes/slnev.chaima.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima says: if I wished to enter the House of the Moon, would you open the door for me. Morgen responds, as if it were a ritual: why do you wish to enter the House of the Moon? Chaima says: if my prey entered the House of the Moon, and I claimed the rights of the hunter. Morgen responds: I will always honour the rights of the hunter. [Lesson: Sky Stories]",
+  "dove": "recipes/slnev.morgen.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima speculates about the manner in which she might hunt and defeat Hokobald. Hokobald describes the manner in which he might ensnare and devour her. It is difficult to be sure how much each of them is really enjoying the conversation. [Lesson: Disciplines of the Hammer]",
+  "dove": "recipes/slnev.chaima.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Agdistis, unexpectedly, are discussing ouranoscopy: she's intrigued by the ways in which the 'dance' of the Hours and of the heavenly bodies might serve as a source of horomachic information. Agdistis is nonplussed, but does his best to keep up. [Lesson: Ouranoscopy]",
+  "dove": "recipes/slnev.agdistis.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Arthur are discussing Teresa Galmier's work on the enigmatic power known as 'Janus', with slightly strained professional courtesy. [Lesson: Watchman's Paradoxes]",
+  "dove": "recipes/slnev.connie.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Coquille are discussing recent shipwrecks, and a possible connection to Ys… [Lesson: Sea Stories]",
+  "dove": "recipes/slnev.connie.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Dagmar are discussing a minor religious organisation, the Ivory Dawn, whose focus on Ys has Connie concerned. [Lesson: Pearl & Tide]",
+  "dove": "recipes/slnev.connie.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Fraser are arguing about the potential return of the Carapace Cross. Connie, of course, views it as a threat; Fraser, inevitably, sees it as an opportunity. [Lesson: Pentiments & Precursors]",
+  "dove": "recipes/slnev.connie.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Serena debate whether the gods-from-Nowhere habitually dwell Nowhere, are compelled to return Nowhere, or carry Nowhere with them. [Lesson: Maggephene Mysteries]",
+  "dove": "recipes/slnev.connie.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Serena worriedly discuss recent developments in Britain and the Continent where the restrictions of the Duties have been set aside by governments seeking ever more terrible weapons… [Lesson: Bells & Brazieries]",
+  "dove": "recipes/slnev.serena.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Yvette are discussing a patient of Yvette's who, it now appears, may have died before attending his first session. ('I had wondered,' Yvette says slowly, 'why my rooms were always so cold afterwards.') Connie is of the opinion that since the man is dead, no ethical considerations about confidentiality need apply. Yvette is not convinced. [Lesson: Rhyme & Remembrance]",
+  "dove": "recipes/slnev.yvette.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and Zachary are discussing the effects of his tattoos-of-containment plan to help with his condition. It's not promising. He shows Connie his forearm, on which the tattoos are already fading like flower-colours under frost. 'You must come in,' she tells him. 'To the Bureau. Before it's too late. It's getting hard to explain why I haven't brought you in already...' [Lesson: Inks of Containment]",
+  "dove": "recipes/slnev.zachary.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie and al-Adim are discussing the stories about Franklin Bancroft and Eva Dewulf - heads together - smiling. Evidently the location has inspired them. [Lesson: Pearl & Tide]",
+  "dove": "recipes/slnev.aladim.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie asks Morgen careful, neutral questions about her connection to the Red Grail, the Hour of Birth and appetite. Morgen carelessly shares her reminiscences, but she insists that of all her un-sisters, she is the 'least grailsome'. [Lesson: Tridesma Hiera]",
+  "dove": "recipes/slnev.connie.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie asks business-like questions about a didumos - the twin or reflection of a star - that she fears may have been employed to commit crimes-of-dream. She suspects it has taken refuge in the Mansus-shadow called the House of the Moon. Morgen, answering with surprising frankness, nevertheless makes it clear to Connie that the Suppression Bureau will never be able to follow it into the House of the Moon - and that she will under no circumstances help them try. [Lesson: Ouranoscopy]",
+  "dove": "recipes/slnev.morgen.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie is investigating stories of something described as 'Spinnennebel' - a kind of spider-vapour - which has begun to manifest in Germany and the Low Countries. Stanislav has heard nothing, but agrees it sounds nothing like Hive, nor Nest, nor Chrysalis… [Lesson: Insects & Nectars]",
+  "dove": "recipes/slnev.connie.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie is questioning Denzil, apparently casually, about recent dreams in which he has followed a great winged beast through a dark wood. Denzil replies concisely, but frankly. [Lesson: Horns & Ivories]",
+  "dove": "recipes/slnev.visiting.denzil.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie is quizzing a clearly nervous Corso about the contents and history of the book known as the 'Calicite Supplications'… and the recent disappearance of the Bureau's copy. [Lesson: Tridesma Hiera]",
+  "dove": "recipes/slnev.connie.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie questions Hokobald narrowly about recent mephitic manifestations on the Swiss-German border. Hokobald denies any involvement, and argues plausibly that these may be the first signs of the emergence of another Chandler-name… [Lesson: Pyroglyphics]",
+  "dove": "recipes/slnev.connie.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie questions Mrs Kille about stories of changelings in the remoter parts of the county. Mrs Kille insists that these are only stories… but admits she has been known to string windowsills with red thread, and place rowan twigs beneath the cradle, just in case. [Lesson: Quenchings & Quellings]",
+  "dove": "recipes/slnev.visiting.killes.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie reminds Denzil's description of certain recent dreams - the dark wood, the moth, the roots that tugged at his feet. She gives him advice in her most official voice: that he should not cut his hair after noon, and that he should place a coloured patchwork quilt on his bed. Denzil is clearly bemused, but listens politely and nods non-committally. [Lesson: Quenchings & Quellings]",
+  "dove": "recipes/slnev.connie.visiting.denzil.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie, recalling that Mrs Kille's maiden name was 'Raveline', questions her closely about whether she has had any dreams of wolves, or experienced any cravings for meat or for loam. Mrs Kille patiently, if wearily, answers no to each question. [Lesson: Stone Stories]",
+  "dove": "recipes/slnev.connie.visiting.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Agdistis are talking contemporary dance. [Lesson: Drums & Dances]",
+  "dove": "recipes/slnev.coquille.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Arthur are discussing the perils of family; the Crime of the Sky; the tragedy of Matthias and the Amethyst Imago. Coquille is at her most charming, and Arthur is at his most watchful. [Lesson: Desires & Dissolutions]",
+  "dove": "recipes/slnev.arthur.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Arun have discovered that they share family in the subcontinent from which they have both been exiled. They gossip eagerly about their cousins' expression of familial traits; their alterations and development; their new-hatched kin. [Lesson: Resurgences & Emergences]",
+  "dove": "recipes/slnev.coquille.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Connie are discussing the rumours about the liaison between Franklin Bancroft and Eva Dewulf, more than two hundred years ago; about Bancroft's departure and the child they might have had. 'It is good to be adopted into a loving family,' Coquille says smilingly, but she will not be drawn on what that means. [Lesson: Sea Stories]",
+  "dove": "recipes/slnev.coquille.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Fraser discuss the Great Hooded Princes' (and Princesses') transition between Histories. He asks whether there were Carapace Cross still active in the Fifth History, but she will not answer him. [Lesson: Pentiments & Precursors]",
+  "dove": "recipes/slnev.coquille.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Morgen are locked in an icy war of compliments. [Lesson: Sights & Sensations]",
+  "dove": "recipes/slnev.coquille.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Mrs Kille discuss means to ease childbirth, and to prevent it. [Lesson: Orchids & Narcotics]",
+  "dove": "recipes/slnev.visiting.killes.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Olympe are comparing restaurants in Tiflis. Coquille insists that the place has gone downhill since the establishment of the Socialist Republic; Olympe counters that you just need to know where to look. [Lesson: Spices & Savours]",
+  "dove": "recipes/slnev.coquille.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille and Serena discuss the fabled 'Paths of the Sun' through the Mansus which were reserved for the undivided Sun speculating whether the Sun's fission-selves - like the Wolf and the Madrugad - now walk them. Coquille speculates that if the Meniscate walks them, that may account for some of the stories about the shadow-Mansus sometimes called the House of the Moon... [Lesson: Door & Wall]",
+  "dove": "recipes/slnev.coquille.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille asks Yvette what she knows of the line of Kelemdu, the 'Black Dove'. Yvette describes a Henavek folk-tale in which the Black Dove is assigned the wardenship of the Moon-marches by Henavek himself - a folk-tale associated with Brancrug. [Lesson: Sea Stories]",
+  "dove": "recipes/slnev.coquille.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille brags to Stanislav about the child-eating topiary of her last father's palace. It's not clear whether or not he believes her. [Lesson: Leaves & Thorns]",
+  "dove": "recipes/slnev.coquille.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille is asking Denzil to describe the storms of the coast to her. She leans close and smiles at him from beneath her lashes. Denzil does not engage, except to complain about a recent storm that closed the Sweet Bones. Eventually he does speak of an incident of 'St Piran's candles' - a light that sometimes plays around the rectory weathercock in storms - but his detached, practical description plainly fails to satisfy Coquille. [Lesson: Anbary & Lapidary]",
+  "dove": "recipes/slnev.visiting.denzil.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille is describing 'the poetry of serpents' to a watchful, silent Chaima. Coquille's eyes glint like agate; her teeth seem more prominent than usual; even her speech has become more sibilant. [Lesson: Preliminal Meter]",
+  "dove": "recipes/slnev.coquille.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille is flirting outrageously with Hokobald. His head is tilted to one side and he is staring at her with a furnace gaze that might equally indicate lust or hunger. His mouth is stringed with saliva. [Lesson: Desires & Dissolutions]",
+  "dove": "recipes/slnev.coquille.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille is teasing Ehsan about the medical possibilities offered by the influence of the Applebright. He doesn't find it funny. [Lesson: Applebright Euphonies]",
+  "dove": "recipes/slnev.coquille.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille presses Yvette on her resemblance to Rowena Hengerst; she asks whether they have ever met. 'No,' says Yvette; 'she will never agree to an interview with me.' Coquille theorises eagerly about why; Yvette nods and smiles. [Lesson: Sea Stories]",
+  "dove": "recipes/slnev.yvette.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille smilingly asks Douglas to remind her if there is an arrest warrant out for her just now. 'Not just now,' he replies, 'but I'm sure we can sort something out.' Coquille spends much of the rest of the meal quoting from Zahra's 'Time of Division', and asking which bits would get her arrested if she recited them at a cocktail party. [Lesson: Surgeries & Exsanguinations]",
+  "dove": "recipes/slnev.douglas.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille smilingly samples the cuckoo-honey-dosed pumpkin pie. '<i>Coucou</i>,' she coos, eyes half-closed. 'I have always enjoyed the work of the Blomberende-kind.' Sleepily, she tells the startling story of her seduction of a scion of the House of Scudamore - 'one toothsome enough that I enjoyed his company, but not so tempting that I might regret it when the time came to press him out of their lovely nest...' [Lesson: Desires & Dissolutions]",
+  "dove": "recipes/slnrsp.coquille.pie.pumpkin.honey.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille smilingly samples the cuckoo-honey-dosed pumpkin soup. '<i>Coucou</i>,' she coos, eyes half-closed. 'I have always enjoyed the work of the Blomberende-kind.' Sleepily, she tells the startling story of her seduction of a scion of the House of Scudamore - 'one toothsome enough that I enjoyed his company, but not so tempting that I might regret it when the time came to press him out of their lovely nest...' [Lesson: Desires & Dissolutions]",
+  "dove": "recipes/slnrsp.coquille.soup.pumpkin.honey.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille tugs at Denzil's hair and asks him playfully when he will be shorn. He says only 'When it be needful', and moves irritably away from her. They do not speak again.",
+  "dove": "recipes/slnev.coquille.visiting.denzil.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille, it transpires, grows orchids. Mr Kille, a keen gardener, is very interested. Mrs Kille keeps a proprietary eye on them both to ensure that his interest is not unnecessarily inflamed. [Lesson: Orchids & Narcotics]",
+  "dove": "recipes/slnev.coquille.visiting.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso adroitly flatters Hokobald into an impromptu lesson in the sigillography of Deep Mandaic. [Lesson: Deep Mandaic]",
+  "dove": "recipes/slnev.corso.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso and Arthur have, it seems, been corresponding clumsily in half-learnt Ericapaean. Arthur has made more progress: he explains, very quietly, that he has had help from Julian Coseley. 'Is he actually alive?' Corso asks sceptically. 'Alive? What's alive?' responds Arthur. 'Is the Empire alive?' [Lesson: Ericapaean]",
+  "dove": "recipes/slnev.corso.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso and Arun are chuckling together about Musgrave Dewulf's theories on the Great Ink porphyrine. [Lesson: Inks of Revelation]",
+  "dove": "recipes/slnev.corso.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso and Azita are both intrigued by recent government interest in the alchemies of the Sunset Road (and in what that might mean for those who could, say, lay their hands on lost Sunset Road works, even works of uncertain provenance.) [Lesson: Purifications & Exaltations]",
+  "dove": "recipes/slnev.azita.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso and Azita are discussing recently discovered letters supposedly sent by the Abbess Melancthe to Gunnhild, daughter of Harold. Their musings on its contents are punctuated with bald estimates of their possible value. [Lesson: Purifications & Exaltations]",
+  "dove": "recipes/slnev.corso.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso and Dagmar are enjoying an <i>entirely theoretical</i> discussion of how locks might be subverted through vulgar nyctodromy. And whether Teresa Galmier was a nyctodromist (Dagmar) or a horomachist (Corso).  [Lesson: Lockworks & Clockworks]",
+  "dove": "recipes/slnev.corso.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso and Stanislav speak of the dreams that follow the consumption of the dark liquor called 'leathy', and their conversations with the Moth-name Knotwingnot. Both of them agree, almost convincingly, that they have always ignored its advice. [Lesson: Orchids & Narcotics]",
+  "dove": "recipes/slnev.corso.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso asks Denzil about the coastal paths, and those he's seen walking them. Smugglers? Pilgrims? Ghosts? Denzil shakes his head to all of those, but he does describe an encounter his great-grandfather supposedly had with a 'woman from behind the wave'... [Lesson: Path & Pilgrim]",
+  "dove": "recipes/slnev.visiting.denzil.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso banters with Morgen about the actual composition of her fabled 'key of black sapphire', which she insists is metaphorically glass, and which he suggests is a stained glass window 'somewhere quiet'… [Lesson: Glaziery & Lightsmithing]",
+  "dove": "recipes/slnev.corso.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso chaffs Olympe about her recent review of a performance of Menander's 'The Burning Woman', which she considers an outright manifesto for the creation of new Hours - 'Gods-from-Steel'. She acknowledges that it's an absurd idea… but disagrees that the director thought it was absurd. [Lesson: Transformations & Liberations]",
+  "dove": "recipes/slnev.corso.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso has an unusual Book of Suns for sale, 'collated' by a mysterious pilgrim of Antaian heritage. Fraser is interested, but wants to speak to its collator. Corso shakes his head: 'My clients pay for my discretion.' [Lesson: Pentiments & Precursors]",
+  "dove": "recipes/slnev.fraser.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso has bought a Deep Mandaic cylinder seal as a gift for Hokobald - 'because, Magister, there are so few who might appreciate it.' While Hokobald is thus gratified, he brings out a collection of similar cylinder seals, and secures Hokobald's opinion and advice on their authenticity... [Lesson: Deep Mandaic]",
+  "dove": "recipes/slnev.hokobald.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso has brought a volume of Franklin Bancroft's poetry for Mr Kille to read - he claims to see parallels with Kille's own work. Kille is grateful, but clearly cautious. He agrees at last to borrow it overnight on the promise that it is not a gift, and Corso will drop by to reclaim it before he leaves. (Mr Kille indicates that in Brancrug, they are wary of accepting gifts from visitors to the House.) [Lesson: Applebright Euphonies]",
+  "dove": "recipes/slnev.corso.visiting.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso has learnt that Reverend Timothy has a tiny library of theological texts inherited from a Welsh maiden aunt, and is manoeuvring to identify whether Timothy has anything of value while also trying to avoid coming across as overly predatory. Fortunately for Corso, Timothy remains oblivious; unfortunately for Timothy and Corso both, the library consists largely of Victorian reprints. [Lesson: Sacra Solis Invicti]",
+  "dove": "recipes/slnev.visiting.timothy.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso has read conflicting accounts of traditional means of mixing the Sacrament Calicite. He asks Morgen, as an 'ambassadress of the Grail', for her opinions. She objects to the characterisation - 'ambassadress of the Witch, perhaps, on a clear night at least' - but does share her clearly informed opinions. [Lesson: Applebright Euphonies]",
+  "dove": "recipes/slnev.morgen.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso hauls his notebook from his pocket and displays a magazine clipping: 'Subtle Earth', a poem he enjoyed, written by none other than Mr Kille. Mr Kille, embarrassed, leans in close to discuss it. He admits that conversations in the Sweet Bones with the more memorable visitors to Hush House provided inspiration... [Lesson: Applebright Euphonies]",
+  "dove": "recipes/slnev.visiting.killes.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso insists to Ehsan that Teresa Galmier visited his bookshop in Oxford, in person. 'She used a different name. So I didn't want to embarrass her. She's changed. But it's her. But she's changed. Taller. Well, something like taller, not taller exactly. Stop laughing, Ehsan - ' [Lesson: Purifications & Exaltations]",
+  "dove": "recipes/slnev.corso.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso is eager to hear more about Yarden of Nishapur, who al-Adim may have known long ago… although al-Adim grows chillier when Corso's interest crystallises into curiosity about the location of certain valuable texts. [Lesson: Pentiments & Precursors]",
+  "dove": "recipes/slnev.corso.aladim.startdescription",
+  "ricorre": 1
+ }
+]

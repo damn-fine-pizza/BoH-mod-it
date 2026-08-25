@@ -1,0 +1,36 @@
+{
+ "recipes": [
+  {
+   "id": "talk.handle.beast",
+   "label": "Tempo con la Bestiola",
+   "startdescription": "Offri a questa bestia la mia compagnia. Chissà? Forse offrirà qualcosa in cambio.",
+   "desc": "E ora, sembra suggerire, un pasto sarebbe gradito."
+  },
+  {
+   "id": "talk.feed.beast",
+   "label": "Nutrire la Bestiola",
+   "startdescription": "Soddisfa l’appetito di questa creatura. [Il cibo renderà collaborativa una bestia affamata, o una selvatica.]",
+   "desc": "Una pancia piena crea un amico disponibile. [Questa bestiola ora è incline a collaborare.]"
+  },
+  {
+   "id": "talk.feed.beast.hint",
+   "label": "Nutrire la Bestiola?",
+   "startdescription": "Usa una carta Anima e un Nutrimento adatto. [Il cibo renderà collaborativa una bestia affamata, o una selvatica.]"
+  },
+  {
+   "id": "talk.feed.beast.hint.ability",
+   "label": "Nutrire la Bestiola?",
+   "startdescription": "Usa una carta Anima e un Nutrimento adatto. [Il cibo renderà collaborativa una bestia affamata, o una selvatica.]"
+  },
+  {
+   "id": "talk.full.beast.hint",
+   "label": "Una Bestiola Ben Nutrita?",
+   "startdescription": "Al momento non ha alcun interesse per il cibo."
+  },
+  {
+   "id": "talk.handle.beast.hint",
+   "label": "Tempo con la Bestiola?",
+   "startdescription": "[Aggiungi una carta Anima per interagire con la bestia.]"
+  }
+ ]
+}

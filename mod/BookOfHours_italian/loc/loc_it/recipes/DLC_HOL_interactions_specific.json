@@ -1,0 +1,56 @@
+{
+ "recipes": [
+  {
+   "id": "open.delivery.reward.oriflammes",
+   "startdescription": "Avevo rivelato ciò che avevo appreso sul ruolo di Dagmar nel Colpo dell’Oriflamme. Ora la Casa d’Asta di Oriflamme mi ha inviato un segno della sua gratitudine."
+  },
+  {
+   "id": "upgrade.rowenarium.spencer.down",
+   "label": "Ammettere Spencer al Rowenarium",
+   "startdescription": "Spencer si erge davanti al centro-scheletro della stanza, piedi saldamente piantati, dita contorte in un nido inquieto. «La Baldomerian e io,» confida, «discutevamo di ciò che era reale e ciò che non lo era. Corpi. Ore. Anime. Il Mansus. Ys. Ho suggerito che la realtà» – le sue mani si contorcono – «fosse qualcosa di più simile alla vicinanza. Essere più reale potrebbe significare salire più in alto... ma quella sarebbe solo una realtà, come andare a nord avvicinerebbe a Svalbard, ma non a Grytviken... lei non era d’accordo. Ma poi, più tardi, divenne la Baldomerian... grazie, araldo. Mi lascerai qui? Per scendere?» [Ciò richiederà un’intera giornata e una notte.]",
+   "desc": "Spencer se n’è andato. Per fortuna, anche tutti i passeggeri che ancora portava. La sua assenza è una notevole gelidità. [Il Rowenarium ora ammette intenzioni di Battente. Fornisce anche aspetto Inverno.]"
+  },
+  {
+   "id": "upgrade.rowenarium.spencer.out",
+   "label": "Ammettere Spencer al Rowenarium",
+   "startdescription": "Spencer si erge davanti al centro-scheletro della stanza, piedi saldamente piantati, dita contorte in un nido inquieto. «La Baldomerian e io,» confida, «discutevamo di ciò che era reale e ciò che non lo era. Corpi. Ore. Anime. Il Mansus. Nessun Luogo. Ho suggerito che la realtà» – le sue mani si contorcono – «fosse qualcosa di più simile alla vicinanza. Essere più reale potrebbe significare progredire ulteriormente... ma progredire in una direzione significherebbe essere... più lontano... in un’altra. Più vicino a una realtà, più vicino a un’altra assenza. Lei non era d’accordo. Ma poi, più tardi, divenne la Baldomerian... grazie, araldo. Mi lascerai qui? Per uscire?» [Ciò richiederà un’intera giornata e una notte.]",
+   "desc": "Spencer se n’è andato. Per fortuna, anche tutti i passeggeri che ancora portava. La sua assenza è una notevole acutezza. [Il Rowenarium ora ammette intenzioni di Battente. Fornisce anche aspetto Battente.]"
+  },
+  {
+   "id": "upgrade.beehive.liselotte",
+   "label": "Installa le «Langravie in Esilio»",
+   "startdescription": "«Miei poveri cari», sussurra Liselotte. «Siate qui e state bene. Pensate ai troni che sorgeranno tra i vostri pinnacoli a venire. L’Archivista è gentile; dell’Archivista ci si può fidare.»",
+   "desc": "L’alveare è diventato più vivace. Liselotte sorride timidamente, pronta a partire."
+  },
+  {
+   "id": "upgrade.chrysalis.wisp.agdistis",
+   "label": "Incorporare lo Spiritello",
+   "startdescription": "Lo Spiritello anela verso la riga di luci che corre sotto la Crisalide, come un verme che cerca la luce – o come una falena malconcia e dalle ali spezzate. [Non è chiaro cosa potrebbe accadere. Ma se fosse qualcosa di sgradevole, la Crisalide è, dopotutto, legata e imprigionata in una cella sicura.]",
+   "desc": "Lo Spiritello si contorce nello spazio morbido sotto il labbro coriaceo della Crisalide; tremola; passa dentro. La Crisalide comincia a tremare. Il tremore continua per diversi minuti, finché tutta la massa si dondola da un lato all’altro e le corde scricchiolano. Poi è ferma, sebbene le sue luci tremolino, due volte, tre volte. [La Crisalide ora ammette intenzioni di Inverno. Fornisce anche aspetto Inverno.]"
+  },
+  {
+   "id": "upgrade.chrysalis.wisp.ehsan",
+   "label": "Incorporare lo Spiritello",
+   "startdescription": "Lo Spiritello anela verso la riga di luci che corre sotto la Crisalide, come un verme che cerca la luce – o come una falena malconcia e dalle ali spezzate. [Non è chiaro cosa potrebbe accadere. Ma se fosse qualcosa di sgradevole, la Crisalide è, dopotutto, legata e imprigionata in una cella sicura.]",
+   "desc": "Lo Spiritello si contorce nello spazio morbido sotto il labbro coriaceo della Crisalide; tremola; passa dentro. La Crisalide comincia a tremare. Il tremore continua per diversi minuti, finché tutta la massa si dondola da un lato all’altro e le corde scricchiolano. Poi è ferma, sebbene le sue luci tremolino, due volte, tre volte. [La Crisalide ora ammette intenzioni di Inverno. Fornisce anche aspetto Inverno.]"
+  },
+  {
+   "id": "dispose.foundry.wisp.agdistis",
+   "label": "Disfarsi dello Spiritello",
+   "startdescription": "Lo Spiritello comincia a contorcersi, allontanandosi dal calore, miagolando come un gabbiano dalle ali spezzate.",
+   "desc": "Le grida dello Spiritello cessano istantaneamente. Il suo residuo striscia attraverso il menisco fiammeggiante come un fungo veloce – ma poi quel movimento cessa, finché non si solidifica in schizzi di motivi con le qualità della scrittura o di geroglifici."
+  },
+  {
+   "id": "dispose.foundry.wisp.ehsan",
+   "label": "Disfarsi dello Spiritello",
+   "startdescription": "Lo Spiritello comincia a contorcersi, allontanandosi dal calore, miagolando come un gabbiano dalle ali spezzate.",
+   "desc": "Le grida dello Spiritello cessano istantaneamente. Il suo residuo striscia attraverso il menisco fiammeggiante come un fungo veloce – ma poi quel movimento cessa, finché non si solidifica in schizzi di motivi con le qualità della scrittura o di geroglifici."
+  },
+  {
+   "id": "upgrade.altar.tentreto.offering",
+   "label": "Fare l’Offerta",
+   "startdescription": "St Tentreto ha quattro ali. Quindi dovrei versare l’offerta nei suoi quattro fuochi. Sembra ovvio, ora che sono qui.",
+   "desc": "Un tempo i camminatori e i volatori e i nuotatori e i cercatori di fuoco davano un poco del loro sangue all’Ovest, ogni tramonto, e il Sé notturno del Sole li proteggeva fino all’alba. Ora sangue è stato inviato dall’Ovest al cuore dell’isola. Cosa significa? Non l’eternità; un cambiamento. [L’altare ora ammette intenzione di Cuore e fornisce aspetto Cuore.]"
+  }
+ ]
+}

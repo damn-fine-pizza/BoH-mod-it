@@ -1,0 +1,1 @@
+WEATHER FACTORY VOUS RECOMMANDE VIVEMENT DE RÉSISTER À LA TENTATION DE LIRE LE CONTENU BRUT, AU MOINS JUSQU'À CE QUE VOUS AYEZ TERMINÉ LE JEU. Cela réduirait considérablement votre plaisir de jouer. Mais c'est à vous de décider. MAIS SÉRIEUSEMENT.

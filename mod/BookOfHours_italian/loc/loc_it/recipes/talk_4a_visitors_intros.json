@@ -1,0 +1,132 @@
+{
+ "recipes": [
+  {
+   "id": "_talk.visitor.intro"
+  },
+  {
+   "id": "talk.visitor.agdistis.intro",
+   "label": "Una Conversazione con Mr Agdistis",
+   "startdescription": "«Come sta, Archivista. Ho gran bisogno del suo aiuto.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.aladim",
+   "label": "Una Conversazione con l’Aleppino",
+   "startdescription": "«La pace sia con te. Chiedo di entrare nella Casa.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.arthur",
+   "label": "Una Conversazione con il Tenente Moore",
+   "startdescription": "«Buongiorno a te. Posso entrare?» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.arun",
+   "label": "Una Conversazione con il Dr Peel",
+   "startdescription": "«Il giorno, la notte, ed eccoci di nuovo nel giorno. Meraviglioso.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.auntmopsy",
+   "label": "Una Conversazione con una Zia Amichevole",
+   "startdescription": "«Non hai bisogno di invitarmi a entrare, tesoro. Qualcun altro l’ha già fatto...» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.azita",
+   "label": "Una Conversazione con Azita Bukhara",
+   "startdescription": "«Salve, Archivista. Ho delle domande; pagherò per le risposte.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.chaima",
+   "label": "Una Conversazione con Lalla Chaima",
+   "startdescription": "«Ci sono cose che ho bisogno di sapere.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.connie",
+   "label": "Una Conversazione con MCO Connie Lee",
+   "startdescription": "«Archivista. Sono qui per affari del Bureau.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.coquille",
+   "label": "Una Conversazione con una Principessa",
+   "startdescription": "«Tesoro, ciao! Ho da chiederti un favorino piccolo piccolo...» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.corso",
+   "label": "Una Conversazione con Señor Corso",
+   "startdescription": "«Non ho bisogno di un appuntamento, vero?» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.dagmar",
+   "label": "Una Conversazione con Dagmar",
+   "startdescription": "«Ciao, tesoro. Sono solo io, temo!» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.douglas",
+   "label": "Una Conversazione con un Detective Molto Stanco",
+   "startdescription": "«Tutto bene?» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.ehsan",
+   "label": "Una Conversazione con Ehsan Fekri",
+   "startdescription": "«È bello essere di nuovo qui. Grazie per avermi ricevuto.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.franklin",
+   "label": "Una Conversazione con Lord Franklin Bancroft",
+   "startdescription": "«...un tempo scrupoloso per questa stagione. Un tempo inequivocabile...» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.fraser",
+   "label": "Una Conversazione con Fraser Strathcoyne",
+   "startdescription": "«Archivista. Ho una questione urgente da trattare con te.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.hokobald.summer",
+   "label": "Una Conversazione con Magister Hokobald",
+   "startdescription": "«E questo lo chiami estate?? Patetico. Non farmi restare qui fuori.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.hokobald",
+   "label": "Una Conversazione con Magister Hokobald",
+   "startdescription": "«Che paese piccolo, tetro e gelido. Spero che tu abbia preparato un’accoglienza adeguata.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.julian",
+   "label": "Una Conversazione con Julian Coseley",
+   "startdescription": "«...se Solomon se n’è andato...se Solomon rimane...» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.morgen",
+   "label": "Una Conversazione con Mlle Matutine",
+   "startdescription": "«Forse dovrei farmi chiamare “Saphir”, <i>hein?</i>» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.olympe",
+   "label": "Una Conversazione con Mme Bechet",
+   "startdescription": "«Il piacere è tutto mio, Archivista.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.rowena",
+   "label": "Una Conversazione con Rowena",
+   "startdescription": "«Sono qui... probabilmente.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.serena",
+   "label": "Una Conversazione con il Dr Blackwood",
+   "startdescription": "«È sempre così strano tornare. Grazie ancora per aver preso in mano questo posto.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.stanislav",
+   "label": "Una Conversazione con Padre Stanislav",
+   "startdescription": "«Che Dio ti benedica; e che benedica la Casa che servi.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.yvette",
+   "label": "Una Conversazione con Yvette",
+   "startdescription": "«Ciao. Hai un momento?» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  },
+  {
+   "id": "talk.visitor.zachary",
+   "label": "Una Conversazione con Wakefield",
+   "startdescription": "«Archivista. Ti vedo.» [Se c’è una carta Incidente attiva, puoi parlarne – oppure lasciare vuoto lo slot e offrire una Consultazione.]"
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "recipes": [
+  {
+   "id": "examine.vegetables.leeks",
+   "label": "Identifica come Porri",
+   "startdescription": "Sono porri. Eccellente."
+  },
+  {
+   "id": "examine.vegetables.onions",
+   "label": "Identifica come Cipolle",
+   "startdescription": "Sono cipolle. Meraviglioso."
+  },
+  {
+   "id": "examine.vegetables.pumpkin",
+   "label": "Identifica come una Zucca",
+   "startdescription": "È una zucca. Prodigioso."
+  },
+  {
+   "id": "examine.vegetables.potatoes",
+   "label": "Identifica come Patate",
+   "startdescription": "Sono patate. Spettacolare."
+  },
+  {
+   "id": "examine.vegetables.marrow",
+   "label": "Identifica come una Zucchina",
+   "startdescription": "È una zucchina. Promettente."
+  }
+ ]
+}

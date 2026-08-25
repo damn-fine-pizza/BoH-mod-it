@@ -1,0 +1,38 @@
+{"recipes": [
+
+
+{"id": "gather.garden.beehive.liselotte.spring",
+"actionid": "garden.beehive.liselotte",
+"startdescription": "Honey or beeswax, if I'm careful. Cuckoo-honey if the Blomberende have been by to visit their infant nobility.",
+"inherits":"_gather.spring",
+"deckeffects":{"beehive.liselotte.spring":1}},
+
+{"id": "gather.garden.beehive.liselotte.summer",
+"actionid": "garden.beehive.liselotte",
+"startdescription": "Honey or beeswax, if I'm careful. Cuckoo-honey if the Blomberende have been by to visit their infant nobility.",
+"inherits":"_gather.summer",
+"deckeffects":{"beehive.liselotte.summer":1}},
+
+{"id": "gather.garden.beehive.liselotte.autumn",
+"actionid": "garden.beehive.liselotte",
+"startdescription": "I'm unlikely to garner much from the hive at this time of year, but the Blomberende sometimes sing their laments louder than the wind can gainsay.",
+"inherits":"_gather.autumn",
+"deckeffects":{"beehive.liselotte.autumn":1}},
+
+{"id": "gather.garden.beehive.liselotte.winter",
+"actionid": "garden.beehive.liselotte",
+"startdescription": "I'm unlikely to garner much from the hive at this time of year, but the Blomberende sometimes sing their laments louder than the wind can gainsay.",
+"inherits":"_gather.winter",
+"deckeffects":{"beehive.liselotte.winter":1}},
+
+{"id": "gather.garden.beehive.liselotte.numa",
+"actionid": "garden.beehive.liselotte",
+"startdescription": "In Numa, I might gather honey, beeswax, or something unexpected. The Blomberende usually pass by to pay their respects to their infant nobility, and leave their cuckoo-gifts.",
+"inherits":"_gather.numa",
+"deckeffects":{"beehive.liselotte.numa":1}}
+
+
+  
+]
+}
+    

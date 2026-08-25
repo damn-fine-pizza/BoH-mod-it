@@ -1,0 +1,266 @@
+{
+    "elements": [
+        {
+            "id": "_reply",
+            "aspects":{"post.ready":1},
+            "icon":"reply",
+            "slots": [{"id": "postage","label": "Postage",
+            "required": {
+                "pence":1
+            },
+            "actionid":"village.postoffice.open",
+            "description":"The Postmistress will deign to pass your letter into the world, once it is sanctified with a postage stamp."}]
+        },
+        {
+            "id": "_reply.occult",
+            "aspects":{"post.ready":1},
+            "icon":"reply",
+            "slots": [{"id": "due","label": "Due",
+            "required": {
+                "tally": 3
+            },
+            "actionid":"village.postoffice.open",
+            "description":"The Postmistress might have a suitable seal to consign this to the Way of the Lower Skies. The cost is one Tin Spintria."}]
+        },
+        {
+            "id": "_request",
+            "aspects":{"post.ready":1,"invitation":1},
+            "icon":"letter.generic",
+            "slots": [{"id": "postage","label": "Postage",
+            "required": {
+                "pence": 1
+            },
+            "actionid":"village.postoffice.open",
+            "description":"The Postmistress will deign to pass your letter into the world, once it is sanctified with a postage stamp."}]
+        },
+        {
+            "id": "_invitation",
+            "aspects":{"post.ready":1,"invitation":1},
+            "slots": [{"id": "postage","label": "Postage",
+            "required": {
+                "pence": 1
+            },
+            "actionid":"village.postoffice.open",
+            "description":"The Postmistress will deign to pass your letter into the world, once it is sanctified with a postage stamp."}]
+        },
+        {
+            "id": "_order",
+            "icon":"letter.generic",
+            "aspects":{"readable":1,"form.order":1},
+            "slots": [{"id": "postage","label": "Monies",
+            "required": {
+                "pence": 1
+            },
+            "actionid":"village.postoffice.open",
+            "description":"I'll need to send a postal order with the goods."}]
+        },
+        {
+            "id": "_purchase.tally",
+            "slots": [
+                {
+                    "id": "payment",
+                    "label": "Payment",
+                    "actionid":"desk.*",                 
+                    "required": {
+                        "tally": 1
+                    }
+                },
+                {
+                    "id": "postage",
+                    "label": "Postage",
+                    "actionid":"village.postoffice",                 
+                    "required": {
+                        "pence": 1
+                    }
+                }
+            
+                ]
+ 
+        },
+        {
+            "id": "_purchase.pence",
+            "slots": [
+                {
+                    "id": "payment",
+                    "label": "Payment",
+                    "actionid":"desk.*",                   
+                    "required": {
+                        "tally": 1
+                    }
+                },
+                {
+                    "id": "postage",
+                    "label": "Postage",
+                    "actionid":"village.postoffice",                 
+                    "required": {
+                        "pence": 1
+                    }
+                }]
+            
+        },
+
+
+
+        {
+            "id": "letter.rhonwen.act1",
+            "label": "A Letter to the Librarian",
+            "desc": "A letter to me from St Rhonwen's Trust. The Trust's connection with Hush House is probably benevolent, but persistently obscure.",
+            "icon":"letter.generic",
+            "aspects":{"correspondence":1,"readable":1,"message.rhonwen.act1":1},
+            "xtriggers":{"replying":"reply.rhonwen.act1"},
+            "xexts":{"reading.correspondence":"St Rhonwen's Trust wishes to congratulate me on my appointment as Librarian of Hush House. The Trust assures me that it will provide the promised stipend each spring... but reminds me that its resources are limited, and suggests I seek local assistance in restoring the premises. 'Let us know when you're all set up and ready to receive visitors,' the letter concludes. It's signed simply 'the Trustees'."}
+        },
+        {
+            "id": "reminder.rhonwen.act1",
+            "label": "A Reminder to the Librarian",
+            "desc": "A reminder from St Rhonwen's Trust that I hadn't yet replied to them.",
+            "icon":"letter.generic",
+            "aspects":{"correspondence":1,"readable":1,"message.rhonwen.act1":1},
+            "xtriggers":{"replying":"reply.rhonwen.act1"},
+            "xexts":{"reading.correspondence":"The Trust hopes I've arrived safely, but wonders why, if so, I haven't yet replied. The letter is signed simply 'the Trustees'."}
+        },
+        {
+            "id": "message.numa.invocation",
+            "label": "Petition for a Labyrinth Season",
+            "desc": "If this ever reaches its destination, it might bring Numa.",
+            "icon":"next.numa",
+            "xtriggers":{"delivering":"next.numa"},
+            "inherits":"_reply.occult",
+            "aspects":{"readable":1},
+            "unique":"true",
+            "xexts":{"posting":"Numa cannot be bidden; but now and then, it has been successfully petitioned."}
+        },
+
+        {
+            "id": "reply.rhonwen.act1",
+            "label": "A Reply to the Trust",
+            "desc": "I can take this to the Post Office to be dispatched to St Rhonwen's Trust. Once they know I've arrived, they'll send more funds... I hope.",
+            "icon":"reply",
+            "xtriggers":{"delivering":"status.rhonwen.open"},
+            "inherits":"_reply",
+            "xexts":{"posting":"Now I can expect visitors, correspondence, and a stipend from the Trust every spring."}
+
+        },
+        {
+            "id": "status.rhonwen.open",
+            "label": "Trust Active!",
+            "desc": "Player has responded to Trust's initial letter.'"
+
+        },
+        {
+            "id": "request.catalogue.oriflammes",
+            "inherits":"_request",
+            "label": "A Request for a Catalogue",
+            "desc": "A brief but courteous letter requesting the latest catalogue from Oriflamme's Auction House.",
+            "xtriggers":{"delivering":"purchase.uncat"}            
+        },
+        {
+            "id": "purchase.uncat",
+            "label": "Purchase: Uncatalogued Bundle",
+            "desc": "ITEM: Three occult books of unknown origin and quality.",
+            "aspects": {"cost.tally":5},
+            "xtriggers":{"delivering":"uncatpile"},
+            "inherits":"_purchase.tally"
+            
+        },
+
+        {	"ID":"wc",	"Label": "Writing-Case",
+        "Desc": "A sturdy brass-cornered writing-case which has been of service to at least three Librarians of the House. [Use your Writing-Case in a Desk with Ink to invite Visitors to a Salon. To invite villagers, add your Writing-Case as a discussion subject when you visit them in Brancrug.]",
+        "reverseambittablesdisplay":false,
+        "ambits":{"address.agdistis":1,
+        "address.aladim":1,
+        "address.arthur":1,
+        "address.arun":1,
+        "address.azita":1,
+        "address.chaima":1,
+        "address.connie":1,
+        "address.coquille":1,
+        "address.corso":1,
+        "address.dagmar":1,
+        "address.douglas":1,
+        "address.ehsan":1,
+        "address.fraser":1,
+        "address.hokobald":1,
+        "address.morgen":1,
+        "address.olympe":1,
+        "address.serena":1,
+        "address.stanislav":1,
+        "address.yvette":1,
+        "address.zachary":1,
+        "ink":1,
+        "edge":7,
+        "forge":7,
+        "grail":7,
+        "heart":7,
+        "knock":7,    
+        "lantern":7,
+        "moon":7,
+        "moth":7,    
+        "nectar":7,
+        "rose":7,
+        "scale":7,
+        "sky":7,
+        "winter":7,
+        "orpiment.exultant":1
+},
+"comments":"Ambitting here depends on some semi-intentional behaviour - the wc occurs earlier than skills - and might break later.'",
+        "aspects":{"address.serena":1,"blank":1,"wc.markeraspect":1,"thing":1},
+        "audio":"Book",
+        "manifestationtype": "Book"},
+
+        {"id":"letter.summon.agdistis","label":"Invitation to Agdistis","desc":"Mr Agdistis...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.aladim","label":"Invitation to al-Adim","desc":"Dear Dr al-Adim...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.arthur","label":"Invitation to Arthur Moore","desc":"Dear Lieutenant Moore...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.arun","label":"Invitation to Peel","desc":"Dear Dr Peel...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.azita","label":"Invitation to Azita","desc":"Dear Ms Bukhara...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.chaima","label":"Invitation to Chaima","desc":"To the Esteemed Lalla Chaima...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.connie","label":"Invitation to Connie","desc":"For the Attention of MCO Constance Lee...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.coquille","label":"Invitation to Coquille","desc":"To her Highness Princess Coquille Amirejibi... ","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.corso","label":"Invitation to Corso","desc":"Dear Mr Reverte...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.dagmar","label":"Invitation to Dagmar","desc":"Dear Lady Dagmar...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.douglas","label":"Invitation to Douglas Moore","desc":"For the Attention of DI Douglas Moore... ","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.ehsan","label":"Invitation to Ehsan","desc":"Dear Mr Fekri...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.fraser","label":"Invitation to Fraser","desc":"Dear Mr Strathcoyne...","inherits":"_invitation","icon":"letter.generic"},
+         {"id":"letter.summon.hokobald","label":"Invitation to Hokobald","desc":"Dear Magister Hokobald...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.morgen","label":"Invitation to Morgen","desc":"Dear Mlle Matutine...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.olympe","label":"Invitation to Olympe","desc":"Dear Mme Bechet...","inherits":"_invitation","icon":"letter.generic"},
+         {"id":"letter.summon.serena","label":"Invitation to Serena","desc":"Dear Dr Blackwood...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.stanislav","label":"Invitation to Father Stanislav","desc":"Dear Father Schaller...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.yvette","label":"Invitation to Yvette","desc":"Dear Dr Southey...","inherits":"_invitation","icon":"letter.generic"},
+        {"id":"letter.summon.zachary","label":"Invitation to Zachary","desc":"Dear Mr Wakefield...","inherits":"_invitation","icon":"letter.generic"},
+        
+        
+
+    {"id":"form.order.ch",
+    "inherits":"_order",
+    "label":"Order Form: Cater & Hero",
+    "desc":"Cater & Hero has offices almost everywhere. Not in this misty limb of the kingdom - but they will, at least, deliver here. [Use Ink to order items of interest - a few lines on an order form won't consume the Ink. When your delivery arrives, it'll contain a new order form.]",
+    "ambits":{"form.order.ch":1,"ink":1},
+    "unique":true,
+    "xtriggers":{"wrapping":"delivery.ch"}},
+
+{"id":"delivery.ch",
+"label":"A Delivery from Cater & Hero",
+"desc":"Something useful has arrived!",
+"aspects":{"considerable":1,"delivery":1},
+"xtriggers":{"unwrapping":"form.order.ch"},
+"comments":"Effectively unique also, but leave the tag out to minimise the possibility of overwrites in testing"},
+
+{"id":"form.order.trn",
+"inherits":"_order",
+"label":"Order Form: T.R.N. Ltd",
+"desc":"T.R.N selects its clients carefully - one might say eccentrically. They rarely advertise. But in all their long history, they have never lacked for custom. [Use Ink to order items of interest - a few lines on an order form won't consume the Ink. When your delivery arrives, it'll contain a new order form.]",
+"ambits":{"form.order.trn":1,"ink":1},
+"unique":true,
+"xtriggers":{"wrapping":"delivery.trn"}},
+
+{"id":"delivery.trn",
+"label":"A Delivery from T.R.N. Limited",
+"desc":"Something delightful has arrived!",
+"aspects":{"considerable":1,"delivery":1},
+"xtriggers":{"unwrapping":"form.order.trn"},
+"comments":"Effectively unique also, but leave the tag out to minimise the possibility of overwrites in testing"}
+
+
+    ]
+}

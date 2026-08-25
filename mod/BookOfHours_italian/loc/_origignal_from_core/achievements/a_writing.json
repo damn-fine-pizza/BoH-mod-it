@@ -1,0 +1,23 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_WRITING", "label": "Writing Achievement", "iconUnlocked": "clue" },
+
+
+  { "id": "A_WRITE_MANUSCRIPT", "category": "A_CATEGORY_WRITING", "iconUnlocked": "clue",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Books Are The Memory That Does Not Die",
+    "descriptionunlocked": "I wrote an original Manuscript."
+  },
+
+  { "id": "A_WRITE_INVITATION", "category": "A_CATEGORY_WRITING", "iconUnlocked": "clue",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "The Last Homely House",
+  "descriptionunlocked": "I wrote an Invitation to a Visitor."
+}
+
+
+
+ 
+  
+
+]}

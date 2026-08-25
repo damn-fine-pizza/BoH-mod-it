@@ -1,0 +1,44 @@
+{
+ "elements": [
+  {
+   "id": "setup.cho",
+   "label": "Memoria: Chor?",
+   "desc": "Chor è esuberanza; istinto; ritmo. Significano qualcosa per me?"
+  },
+  {
+   "id": "setup.ere",
+   "label": "Memoria: Ereb?",
+   "desc": "Ereb è orgoglio, compassione; odio e paura. Quelle passioni ardono in me?"
+  },
+  {
+   "id": "setup.fet",
+   "label": "Memoria: Fet?",
+   "desc": "Fet è la parte di noi che sogna. I sogni sono importanti per me?"
+  },
+  {
+   "id": "setup.met",
+   "label": "Memoria: Mettle?",
+   "desc": "Mettle è la capacità di compiere una scelta significativa. Ho dimostrato il mio Mettle?"
+  },
+  {
+   "id": "setup.pho",
+   "label": "Memoria: Phost?",
+   "desc": "Phost è vista, percezione, ispirazione, tutti i doni della Gloria. La mia è un’anima luminosa?"
+  },
+  {
+   "id": "setup.sha",
+   "label": "Memoria: Shapt?",
+   "desc": "Shapt è eloquenza e anche comprensione: la porta si apre in entrambe le direzioni. La mia anima è aperta alla conoscenza?"
+  },
+  {
+   "id": "setup.tri",
+   "label": "Memoria: Trist?",
+   "desc": "Trist, si dice, è il mutamento e il desiderio. Mi manca qualcosa che non ho mai avuto?"
+  },
+  {
+   "id": "setup.wis",
+   "label": "Memoria: Wist?",
+   "desc": "Wist è il nome, la memoria – ciò che rimane. È importante per me che le cose durino?"
+  }
+ ]
+}

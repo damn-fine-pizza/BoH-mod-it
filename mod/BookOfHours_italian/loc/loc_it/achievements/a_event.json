@@ -1,0 +1,19 @@
+{
+ "achievements": [
+  {
+   "id": "A_EVENT_BUSTMASTER",
+   "label": "Molto è Perduto... Ma Noi Rimaniamo",
+   "descriptionunlocked": "Ho curato una mostra perfetta di ogni Archivista della Hush House."
+  },
+  {
+   "id": "A_EVENT_FIREFIGHTER",
+   "label": "Il Risveglio di Wicke",
+   "descriptionunlocked": "Ho scoperto l’origine dell’incendio che ha devastato la Hush House."
+  },
+  {
+   "id": "A_EVENT_PROSPERO",
+   "label": "Più a Fondo di Quanto Mai Scandaglio Abbia Toccato",
+   "descriptionunlocked": "Ho annegato il mio libro."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "recipes": [
+  {
+   "id": "examine.considerable.beverage",
+   "label": "Bevi",
+   "startdescription": "Bevi questa roba. [Questo consumerà la bevanda. Se è una bottiglia intera, valuta di Servirla prima, così da non berla tutta.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.candle",
+   "label": "Luce",
+   "startdescription": "Accendi la candela. [Questo la consumerà.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.device",
+   "label": "Attiva",
+   "startdescription": "Attiva questo. [Lo consumerà del tutto; non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.flower",
+   "label": "Seziona",
+   "startdescription": "Seziona il fiore. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.fruit",
+   "label": "Consuma",
+   "startdescription": "Consuma il frutto. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.leaf",
+   "label": "Seziona",
+   "startdescription": "Seziona la foglia. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.liquid",
+   "label": "Analizza",
+   "startdescription": "Analizza il liquido. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.mark",
+   "label": "Investiga",
+   "startdescription": "Investiga il segno. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.material",
+   "label": "Analizza",
+   "startdescription": "Analizza questa sostanza. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.remains",
+   "label": "Seziona",
+   "startdescription": "Seziona i resti. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.root",
+   "label": "Seziona",
+   "startdescription": "Seziona la radice. [Non resterà nulla.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.sustenance",
+   "label": "Consuma",
+   "startdescription": "Mangialo. [Non resterà nulla, ma potresti gradire il pasto.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.beast",
+   "label": "Ispeziona",
+   "startdescription": "Ispeziona questa bestia. [Può essere più gratificante Parlare con una bestia, tuttavia.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.generic",
+   "label": "Investiga",
+   "startdescription": "Investiga l’oggetto. [Non lo consumerai né lo userai facendo questo.]",
+   "desc": "Che cosa ho imparato?"
+  },
+  {
+   "id": "examine.considerable.consume"
+  },
+  {
+   "id": "examine.considerable.hint",
+   "label": "Investiga?",
+   "startdescription": "[Aggiungi una carta Anima.]"
+  }
+ ]
+}

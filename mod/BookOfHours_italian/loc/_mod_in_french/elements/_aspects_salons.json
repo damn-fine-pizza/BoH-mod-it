@@ -1,0 +1,195 @@
+{
+	"elements": [
+
+
+		{"id":"venue.formal",
+		"label":"Lieu de Réception",
+		"desc":"Un endroit approprié pour le Déjeuner ou le Souper.",
+		"isAspect":true},
+
+		{"id":"venue.informal",
+		"label":"Lieu de Rencontre Informelle",
+		"desc":"Un endroit approprié pour le Brunch ou le Thé de l'après-midi.",
+		"isAspect":true},
+
+		{"id":"venue.picnicking",
+		"label":"Lieu de Pique-nique",
+		"desc":"Un endroit approprié pour un Pique-nique.",
+		"isAspect":true},
+
+		{"id":"befriend.agdistis.chaima",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.aladim.connie",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.arthur.douglas",
+		"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"befriend.arun.coquille",
+		"icon":"befriend",
+		"isAspect":true},
+
+		
+		{"id":"befriend.arun.denzil",
+		"icon":"befriend",
+		"isAspect":true},
+
+
+		{"id":"befriend.arun.yvette",
+		"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"befriend.azita.yvette",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.chaima.zachary",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.coquille.douglas",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.douglas.hokobald",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"befriend.morgen.zachary",
+		"icon":"befriend",
+		"isAspect":true},
+
+		
+
+		{"id":"agdistis.likes.chaima",
+"desc":"Agdistis apprécie la compagnie de Chaima.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"aladim.likes.connie",
+"desc":"Al-Adim a invité Connie à dîner avec lui en privé.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"arthur.likes.douglas",
+"desc":"Arthur vient de faire la connaissance de son petit-neveu, Douglas, et l'aime beaucoup.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"arun.likes.coquille",
+"desc":"Arun a développé une prudente affection familiale pour Coquille.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"arun.likes.denzil",
+"desc":"Il semblerait que Arun serait rentré chez lui avec Denzil après un réception à la Hush House.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"arun.likes.yvette",
+"desc":"Il semblerait que Arun aurait raccompagné Yvette chez elle après une réception à la Hush House.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"azita.likes.yvette",
+"desc":"Il y a une sorte d'étincelle entre Azita et Yvette.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"chaima.likes.zachary",
+"desc":"Chaima a développé un étrange attachement envers Zachary.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"coquille.likes.douglas",
+"desc":"Coquille a un enthousiasme malicieux pour Douglas.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"douglas.likes.hokobald",
+"desc":"Douglas montre à contrecœur du respect à Hokobald",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"morgen.likes.zachary",
+"desc":"Morgen a une affection passagère - peut-être même un faible - pour Zachary.",
+"icon":"befriend",
+		"isAspect":true},
+
+
+
+
+		{"id":"chaima.likes.agdistis",
+"desc":"Chaima a appris à apprécier Agdistis.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"connie.likes.aladim",
+		"desc":"Connie a accepté une invitation d'Al-Adim à dîner avec lui en privé.",
+		"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"douglas.likes.arthur",
+"desc":"Douglas aime beaucoup son grand-oncle Arthur, qu'il vient de découvrir.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"coquille.likes.arun",
+"desc":"Coquille a développé une affection familiale méfiante pour Arun.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"yvette.likes.arun",
+"desc":"Yvette serait rentrée chez elle avec Arun après une réception à la Hush House.",
+"icon":"befriend",
+		"isAspect":true},
+		
+		{"id":"yvette.likes.azita",
+"desc":"Il y a une sorte d'étincelle entre Azita et Yvette.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"zachary.likes.chaima",
+"desc":"Zachary a manifesté à l'égard de Chaima des sentiments que l'on pourrait qualifier d'affection…",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"douglas.likes.coquille",
+"desc":"Douglas a un faible pour Coquille (qu'il ne manquera pas de mettre de côté s'il doit un jour l'arrêter).",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"hokobald.likes.douglas",
+"desc":"Hokobald a développé une sorte d'affection condescendante pour Douglas.",
+"icon":"befriend",
+		"isAspect":true},
+
+		{"id":"zachary.likes.morgen",
+"desc":"Les enthousiasmes froids de Zachary ont été initiés par Morgen.",
+"icon":"befriend",
+		"isAspect":true},
+
+
+
+
+		{"id":"mistrust.arthur.coquille",
+		"icon":"mistrust",
+		"isAspect":true},
+
+		{"id":"arthur.mistrusts.coquille",
+"desc":"Arthur garde un œil sur Coquille.",
+		"isAspect":true},
+
+		{"id":"coquille.mistrusts.arthur",
+"desc":"Coquille s'amuse de son inimitié avec Arthur.",
+		"isAspect":true}
+
+
+								
+
+	]
+}

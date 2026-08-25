@@ -1,0 +1,127 @@
+{"elements":
+[
+    {	"ID":"precursor.mem.storm",	"Label": "Acquiring a Memory: Storm",	"desc": "There are storms great enough to shake the moon from the sky, and one's thoughts from one's skull.",		"icon": "mem.storm", "decayto": "mem.storm", "lifetime":0.1,"aspects":{"memory":1,	"heart":1,"boost.heart":1}				},
+
+ {	"ID":"precursor.mem.dreamt",	"Label": "Acquiring a Memory: A Stolen Secret",	"desc": "Something I overheard in dreams?",	"icon": "mem.dreamt", "decayto": "mem.dreamt", "lifetime":0.1,	"aspects":{"memory":1}		},
+ 
+        {	"ID":"precursor.mem.gossip",	"Label": "Acquiring a Memory: Gossip",	"desc": "Frivolous, but tasty.",	"icon": "mem.gossip", "decayto": "mem.gossip", "lifetime":0.1,	"aspects":{"memory":1,	"grail":1,"boost.grail":1,"rose":1,"boost.rose":1	}	},
+        {	"ID":"precursor.mem.contradiction",	"Label": "Acquiring a Memory: Contradiction",	"desc": "Something uncomfortable.",	"icon": "mem.contradiction", "decayto": "mem.contradiction", "lifetime":0.1,	"aspects":{"memory":1	}			},
+
+        {	"ID":"precursor.mem.fear",	"Label": "Acquiring a Memory: Fear",	"desc": "'The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.' - Lovecraft",	"icon": "mem.fear", "decayto": "mem.fear", "lifetime":0.1,	"aspects":{"memory":1	}			},
+       
+        {	"ID":"precursor.mem.foresight",	"Label": "Acquiring a Memory: Foresight",	"desc": "'Wit's forge and fire-blast, meaning's press and screw.' - Coleridge, 'On Donne's Poetry'",	"icon": "mem.foresight", "decayto": "mem.foresight", "lifetime":0.1,	"aspects":{"memory":1	}			},
+        
+        {	"ID":"precursor.mem.impulse",	"Label": "Acquiring a Memory: Impulse",	"desc": "It doesn't exactly make sense - but I understand it anyway.",	"icon": "mem.impulse", "decayto": "mem.impulse", "lifetime":0.1,	"aspects":{"memory":1,	"moth":1,"boost.moth":1,"nectar":1,"boost.nectar":1	}			},
+       
+        {	"ID":"precursor.mem.intuition",	"Label": "Acquiring a Memory: Intuition",	"desc": "You just know, you know?",	"icon": "mem.intuition", "decayto": "mem.intuition", "lifetime":0.1,	"aspects":{"memory":1	}				},
+      
+        {	"ID":"precursor.mem.hindsight",	"Label": "Acquiring a Memory: Hindsight",	"desc": "Some things we can only really understand when they're gone.",	"icon": "mem.hindsight", "decayto": "mem.hindsight", "lifetime":0.1,	"aspects":{"memory":1	}			},
+       
+        {	"ID":"precursor.mem.loss",	"Label": "Acquiring a Memory: Loss",	"desc": "Whatever it was, now it isn't.",	"icon": "mem.loss", "decayto": "mem.loss", "lifetime":0.1,	"aspects":{"memory":1	}				},
+
+        {	"ID":"precursor.mem.revelation",	"Label": "Acquiring a Memory: Revelation",	"desc": "Some truths come to us from outside, or above.",	"icon": "mem.revelation", "decayto": "mem.revelation", "lifetime":0.1,	"aspects":{"memory":1	}				},
+      
+        {	"ID":"precursor.mem.regret",	"Label": "Acquiring a Memory: Regret",	"desc": "Every choice has its shadow.",	"icon": "mem.regret", "decayto": "mem.regret", "lifetime":0.1,	"aspects":{"memory":1	}				},
+      
+        {	"ID":"precursor.mem.salt",	"Label": "Acquiring a Memory: Salt",	"desc": "Sea-spray, depth-sorrow.",	"icon": "mem.salt", "decayto": "mem.salt", "lifetime":0.1,	"aspects":{"memory":1}					},
+      
+        {	"ID":"precursor.mem.satisfaction",	"Label": "Acquiring a Memory: Satisfaction",	"desc": "Some appetites are easier to satisfy than others.",	"icon": "mem.satisfaction", "decayto": "mem.satisfaction", "lifetime":0.1,	"aspects":{"memory":1}				},
+      
+        {	"ID":"precursor.mem.solace",	"Label": "Acquiring a Memory: Solace",	"desc": "Peace after trouble.",	"icon": "mem.solace", "decayto": "mem.solace", "lifetime":0.1,	"aspects":{"memory":1}				},
+       
+        {	"ID":"precursor.mem.scent",	"Label": "Acquiring a Memory: Scent",	"desc": "Green scents recall rain.",	"icon": "mem.scent", "decayto": "mem.scent", "lifetime":0.1,	"aspects":{"memory":1	}			},
+       
+        {	"ID":"precursor.mem.sight",	"Label": "Acquiring a Memory: Sight",	"desc": "'The eye sees more than the heart knows.' - Blake",	"icon": "mem.sight", "decayto": "mem.sight", "lifetime":0.1,	"aspects":{"memory":1}			},
+      
+        {	"ID":"precursor.mem.sound",	"Label": "Acquiring a Memory: Sound",	"desc": "A memory lasts longer than an echo. Of course when Speech came into the world, and we could cast echoes into words, things got more complicated.",	"icon": "mem.sound", "decayto": "mem.sound", "lifetime":0.1,	"aspects":{"memory":1	}				},
+        {	"ID":"precursor.mem.taste",	"Label": "Acquiring a Memory: Taste",	"desc": "'Every sweet has its sour.' - Emerson",	"icon": "mem.taste", "decayto": "mem.taste", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.mem.touch",	"Label": "Acquiring a Memory: Touch",	"desc": "Craft is learnt through the tips of the fingers.",	"icon": "mem.touch", "decayto": "mem.touch", "lifetime":0.1,	"aspects":{"memory":1}				},
+        
+        {	"ID":"precursor.windrumour",	"Label": "Acquiring a Wind-Rumour",	"desc": "",	"icon": "windrumour", "decayto": "windrumour", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.music.beguiling",	"Label": "Hearing a Beguiling Melody",	"desc": "",	"icon": "music.beguiling", "decayto": "music.beguiling", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.bittersweet.certainty",	"Label": "Realising a Bittersweet Certainty ",	"desc": "",	"icon": "bittersweet.certainty", "decayto": "bittersweet.certainty", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.music.cheerful",	"Label": "Hearing a Cheerful Ditty",	"desc": "",	"icon": "music.cheerful", "decayto": "music.cheerful", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.music.savage",	"Label": "Hearing a Savage Hymn",	"desc": "",	"icon": "music.savage", "decayto": "music.savage", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.music.thunderskin",	"Label": "Hearing a Thunderskin's Paean",	"desc": "",	"icon": "music.thunderskin", "decayto": "music.thunderskin", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.music.wistful",	"Label": "Hearing a Wistful Air",	"desc": "",	"icon": "music.wistful", "decayto": "music.wistful", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.confounding.parable",	"Label": "Acquiring a Confounding Parable",	"desc": "",	"icon": "confounding.parable", "decayto": "confounding.parable", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.riddle.nameday",	"Label": "Acquiring a Nameday Riddle",	"desc": "",	"icon": "riddle.nameday", "decayto": "riddle.nameday", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.old.moment",	"Label": "Realising an Old Moment",	"desc": "",	"icon": "old.moment", "decayto": "old.moment", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.secret.threshold",	"Label": "Acquiring a Secret Threshold ",	"desc": "",	"icon": "secret.threshold", "decayto": "secret.threshold", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.wild.surmise",	"Label": "Realising a Wild Surmise",	"desc": "",	"icon": "wild.surmise", "decayto": "wild.surmise", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.winning.move",	"Label": "Realising a Winning Move",	"desc": "",	"icon": "winning.move", "decayto": "winning.move", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.curious.hunch",	"Label": "Realising a Curious Hunch ",	"desc": "",	"icon": "curious.hunch", "decayto": "curious.hunch", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.name.earthquake",	"Label": "Acquiring an Earthquake Name",	"desc": "",	"icon": "name.earthquake", "decayto": "name.earthquake", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.earthsign",	"Label": "Acquiring an Earth-Sign",	"desc": "",	"icon": "earthsign", "decayto": "earthsign", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.occult.scrap",	"Label": "Acquiring an Occult Scrap",	"desc": "",	"icon": "occult.scrap", "decayto": "occult.scrap", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.wormwood.dream",	"Label": "Acquiring a Wormwood Dream",	"desc": "",	"icon": "wormwood.dream", "decayto": "wormwood.dream", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.ascendant.harmony",	"Label": "Hearing an Ascendant Harmony",	"desc": "",	"icon": "ascendant.harmony", "decayto": "ascendant.harmony", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.music.hive",	"Label": "Hearing a Hive's Lament",	"desc": "",	"icon": "music.hive", "decayto": "music.hive", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.didumos",	"Label": "Acquiring a Didumos",	"desc": "",	"icon": "didumos", "decayto": "didumos", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.enduring.reflection",	"Label": "Considering an Enduring Reflection",	"desc": "",	"icon": "enduring.reflection", "decayto": "enduring.reflection", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.forbidden.epic",	"Label": "Acquiring a Forbidden Epic",	"desc": "",	"icon": "forbidden.epic", "decayto": "forbidden.epic", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.horizonsight",	"Label": "Acquiring Horizon-Sight",	"desc": "",	"icon": "horizonsight", "decayto": "horizonsight", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.invincible.audacity",	"Label": "Acquiring an Invincible Audacity",	"desc": "",	"icon": "invincible.audacity", "decayto": "invincible.audacity", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.old.wound",	"Label": "Recalling an Old Wound",	"desc": "",	"icon": "old.wound", "decayto": "old.wound", "lifetime":0.1,	"aspects":{"memory":1}				},
+        {	"ID":"precursor.windinwaiting",	"Label": "Acquiring a Wind-in-Waiting",	"desc": "",	"icon": "windinwaiting", "decayto": "windinwaiting", "lifetime":0.1,	"aspects":{"memory":1}				},
+
+
+
+        {	"ID":"precursor.spintria.bronze.fromsofa",
+        	"Label": "A Bronze Spintria?",
+            "desc": "What's this down the back of the cushions? A small and unexpected treasure.",	
+            "xexts":{"scrutiny":"What's this down the back of the cushions? A small and unexpected treasure."},
+            "icon": "spintria.bronze", 
+            "decayto": "spintria.bronze",
+            "comments":"This was the best short-term way to resolve the xext:scrutiny tangle from found objects. lots of room for improvement",
+            "lifetime":0.1},
+
+            {	"ID":"precursor.gervinite.fromcandle",
+        	"Label": "?",
+            "desc": "The candle is much heavier than it should be. Something has been sealed into the wax…",	
+            "xexts":{"scrutiny":"The candle is much heavier than it should be. Something has been sealed into the wax…"},
+            "icon": "gervinite", 
+            "decayto": "gervinite",
+            "inherits":"_",
+            "lifetime":0.1},
+
+            {	"ID":"precursor.pale.mommet.fromchair",
+        	"Label": "?",
+            "desc": "Someone has tucked a sad little treasure beneath the seat cushion…",	
+            "xexts":{"scrutiny":"Someone has tucked a sad little treasure beneath the seat cushion…"},
+            "icon": "pale.mommet", 
+            "decayto": "pale.mommet",
+            "inherits":"_",
+            "lifetime":0.1},
+
+            {	"ID":"precursor.dearday.lens.fromskull",
+        	"Label": "?",
+            "desc": "Someone has tucked a glinting lens into one of its eye-sockets.",	
+            "xexts":{"scrutiny":"Someone has tucked a glinting lens into one of its eye-sockets."},
+            "icon": "dearday.lens", 
+            "decayto": "dearday.lens",
+            "inherits":"_",
+            "lifetime":0.1},
+
+            {	"ID":"precursor.spintria.iron.fromspanners",
+        	"Label": "?",
+            "desc": "A tiny treasure dropped carelessly into the tin!",	
+            "xexts":{"scrutiny":"A tiny treasure dropped carelessly into the tin!"},
+            "icon": "spintria.iron", 
+            "decayto": "spintria.iron",
+            "lifetime":0.1},
+
+            {	"ID":"precursor.honey.cuckoo.frompumpkin",
+        	"Label": "?",
+            "desc": "The pumpkin bears the marks of intrusion. It's been filled with something sticky and unexpected.",	
+            "xexts":{"scrutiny":"The pumpkin bears the marks of intrusion. It's been filled with something sticky and unexpected."},
+            "icon": "honey.cuckoo", 
+            "decayto": "honey.cuckoo",
+            "inherits":"_",
+            "lifetime":0.1}
+
+
+
+
+    ]
+}

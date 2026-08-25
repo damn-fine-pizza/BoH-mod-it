@@ -1,0 +1,189 @@
+{
+ "recipes": [
+  {
+   "id": "talk.visitor.intercept.tx.agdistis",
+   "startdescription": "Mr Agdistis ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.aladim",
+   "startdescription": "Il Dr Ibn al-Adim ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.arthur",
+   "startdescription": "Lt Moore ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.arun",
+   "startdescription": "Peel ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.auntmopsy",
+   "startdescription": "Zia Mopsy ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.azita",
+   "startdescription": "Azita ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.chaima",
+   "startdescription": "Lalla Chaima ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.connie",
+   "startdescription": "MCO Lee ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.coquille",
+   "startdescription": "La principessa Coquille ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.corso",
+   "startdescription": "Corso ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.dagmar",
+   "startdescription": "Dagmar ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.douglas",
+   "startdescription": "L’ispettore Moore ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.ehsan",
+   "startdescription": "Ehsan ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.franklin",
+   "startdescription": "Lord Bancroft ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.fraser",
+   "startdescription": "Fraser ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.hokobald",
+   "startdescription": "Magister Hokobald ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.julian",
+   "startdescription": "Coseley ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.morgen",
+   "startdescription": "Mlle Matutine ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.olympe",
+   "startdescription": "Olympe ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.rowena",
+   "startdescription": "Rowena ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.serena",
+   "startdescription": "La Dr Blackwood ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.stanislav",
+   "startdescription": "Padre Schaller ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.yvette",
+   "startdescription": "La Dr Southey ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.tx.zachary",
+   "startdescription": "Wakefield ha già consultato questo libro. [Un Visitatore può trarre beneficio da ogni libro una sola volta; prova con un altro.]",
+   "label": "Vecchio Materiale"
+  },
+  {
+   "id": "talk.visitor.intercept.hokobald.bighuff",
+   "label": "«È quello...?»",
+   "startdescription": "«Temevo che non ne restasse più copia! C’è così tanto disprezzo nel mondo – così tanta ingiuria gratuita – così tanto sdegno per la sapienza conquistata a fatica – perdonami. Acquisterò da te questo tesoro – se vorrai separartene. Una spintria d’oro?» [Hokobald prenderà il libro e se ne andrà, dimenticando qualsiasi Incidente in corso.]",
+   "desc": "Ho subito un torto grandissimo. Ma sono capace di infliggerne di ancora più grandi. Gentile Archivista, <i>bon appetit</i>"
+  },
+  {
+   "id": "talk.visitor.intercept.arthur.thesunsdesign",
+   "label": "«Un tesoro grandissimo, Archivista –»",
+   "startdescription": "«Non so leggere questa scrittura, Archivista, ma l’ho già vista, e mi fu tradotta – da qualcuno che mi era molto caro. Tempo fa, vedi, feci il mio pellegrinaggio al santuario di Eliogabalo... anche se in quel paese lo chiamano ancora Ilah al-Gabal. Posso esaminare la pietra?» [Moore esaminerà il libro e te lo restituirà. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Se la direzione della Morte è verso il basso, e quella dell’Eternità verso l’alto, quali direzioni assegniamo alla Vita e alla Storia? È un argomento di discussione frequente, nel Labirinto. Mi chiedo, a volte, se i miei maestri non abbiano niente di meglio da fare con tutti quegli anni di studio... ma nel Labirinto, più che in ogni altro luogo in cui sono stato, persino Emesa, il Sole e la Pietra e il Silenzio sono le prime costanti.»"
+  },
+  {
+   "id": "talk.visitor.intercept.arun.collectedhushhouselectures",
+   "label": "«Qualcosa, per così dire, sta arrivando.»",
+   "startdescription": "«Avevo dimenticato di aver scritto nella Terza Storia. Toh toh. Posso dare un’occhiata? Terrò i guanti.» [Peel esaminerà il libro e te lo restituirà. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Sai che Oriflamme’s fu fondato nello stesso anno della Mascherata delle Mascherate? Ma non nella stessa Storia. Quindi probabilmente è una coincidenza. Avvicinati, però, e ti sussurrerò una nota a piè di pagina.»"
+  },
+  {
+   "id": "talk.visitor.intercept.arun.theflayedtantra",
+   "label": "«Poca diplomazia, Archivista –»",
+   "startdescription": "«Ognuno di noi, tra i vivi, si spoglia delle storie come un serpente muta la pelle. E io mi sono spogliato di questa storia molto tempo fa. Non ho alcun desiderio – nessun desiderio – di rivisitarla.»"
+  },
+  {
+   "id": "talk.visitor.intercept.arun.theradicalmeasure",
+   "label": "«Non per tutti i gusti, lo so –»",
+   "startdescription": "«Nessuno è profeta in patria, come si suol dire; e ormai io vengo un po’ da ovunque, quindi immagino che nessuno mi prenderà mai più sul serio. Ti dispiace se do un’occhiata? Posso indicarti un paio dei pezzi migliori. E terrò i guanti.» [Peel esaminerà il libro e te lo restituirà. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Qui. E qui. E il redattore ha cercato di tagliare <i>quel</i> pezzo. Così ho organizzato una specie di sogno motivazionale. Ne è valsa la pena.»"
+  },
+  {
+   "id": "talk.visitor.intercept.arun.theradicalmeasureglossed",
+   "label": "«La versione glossata?»",
+   "startdescription": "«È da un bel po’ che cerco di mettere le mani su questa edizione. Una volta che l’avrò, potrò decidere se mi serve mettere le mani anche sul giovane Illopoly. Te la pago una spintria d’argento?» [Peel prenderà il libro, ma non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Capisco. Capisco. <i>Capisco</i>. Christopher. Christopher Christopher Christopher...»"
+  },
+  {
+   "id": "talk.visitor.intercept.arun.thevictoryofcrowns",
+   "label": "«La Vittoria delle Corone?»",
+   "startdescription": "«Sai, non riesco mai a ricordare con certezza se sia davvero uno dei miei. O uno di, ehm, un’altra miniera. Ti dispiace se lo porto via con me? Te lo scambierò con gli altri libri che mi capita di portare con me. No, non ti dirò cosa potrebbero essere. Le rocce non sono più affilate al buio.» [Peel prenderà «Corone» e ti darà due libri di natura e origine imprevedibili. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Ecco a te. E io vado.»"
+  },
+  {
+   "id": "talk.visitor.intercept.auntmopsy.snareofthetreecollectedproverbsofauntmopsy",
+   "label": "«Ooh!»",
+   "startdescription": "«Quell’editrice di Kerisham. Le promisi che se si fosse comportata bene con me, non mi avrebbe mai più rivista. Be’, tesoro, una promessa è una promessa, ma una storia è una storia. Se mi lasci toccare quel libro, prometto che te lo restituirò.» [Aunt Mopsy esaminerà il libro e te lo restituirà. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Eccoti qui, tesoro. Una piccola lezione per te. E un’altra piccola lezione più avanti.»"
+  },
+  {
+   "id": "talk.visitor.intercept.ehsan.theseadoesnotregret",
+   "label": "«Oh, cielo –»",
+   "startdescription": "«Vecchi ricordi, Archivista! Alcuni di essi – be’, alcuni di quei ricordi sono migliori di altri. Posso dare un’occhiata?» [Ehsan esaminerà il libro e te lo restituirà. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Il Sweet Bones prepara ancora quella torta starygazy...? Forse ci passerò tornando a casa. A pensarci bene, questo mi ricorda una ricetta. Devi sentire questa –»"
+  },
+  {
+   "id": "talk.visitor.intercept.ehsan.fekrisherbary",
+   "label": "«Non male, come tentativo –»",
+   "startdescription": "«Da allora ho appreso un po’ più di sapere, ma spero che tu lo trovi ancora utile. Posso dare un’occhiata?» [Ehsan esaminerà il libro e te lo restituirà. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Se c’è una cosa che avrei voluto sapere allora, è questa...»"
+  },
+  {
+   "id": "talk.visitor.intercept.stanislav.deathsandtheirevasions",
+   "label": "«Mi ricordo questo –»",
+   "startdescription": "«Sono sorpreso che sia finito qui... ma questa è Hush House, immagino. Posso rinfrescarmi la memoria? Ricordo di aver scritto della faccenda Galmier – non con tutta la cautela che avrei dovuto...» [Stanislav esaminerà il libro e te lo restituirà. Non se ne andrà finché la sua altra faccenda non sarà conclusa.]",
+   "desc": "«Quella legge che non nominerò ad alta voce – la legge del tre – può essere sfidata. Raramente è saggio tentare quella sfida. Il prezzo del fallimento lo paga uno solo – ma il prezzo del successo, in molti. Ti chiederei, Archivista, di ricordarlo, quando deciderai come rivolgerti all’Eternità. Ma ho già fiducia nel tuo giudizio. Grazie per il prestito del libro.»"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+	"elements": [
+
+				
+		{
+			"id": "group1_primary",
+			"label": "Pouvoirs",
+			"desc": "[Catégories fondamentales de pouvoir reconnues par les érudits des Arts Invisibles. Trouvez-les dans les Cartes d'Âme, Compétences, Mémoires et Objets ; utilisez-les pour réussir à étudier et à créer des défis.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group2_challenges",
+			"label": "Défis",
+			"desc": "[Difficultés ou prix que vous devez égaler]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group3_me",
+			"label": "Expérience",
+			"desc": "[Capacités, compétences et ressources personnelles]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group4_visitors",
+			"label": "Visiteurs",
+			"desc": "[La nature et les intérêts des visiteurs de la Hush House]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group6_exaltation",
+			"label": "Exaltations",
+			"desc": "[Comment vous travaillez avec cet assistant aujourd'hui]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+
+		{
+			"id": "group7_histories",
+			"label": "Histoires",
+			"desc": "[Lorsque qu'un Bibliothécaire de la Hush House envisage une nouvelle Histoire, même les Heures pourraient en prendre note.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "groupzzz",
+			"label": "Formes",
+			"desc": "[Les formes des natures des choses visibles et invisibles. Utilisez-les pour comprendre ce que vous pourriez faire avec.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "workstation",
+			"label": "Station de travail",
+			"desc": "['La récompense d'une chose bien faite - c'est de l'avoir faite.' - Emerson]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		}
+
+
+								
+
+	]
+}

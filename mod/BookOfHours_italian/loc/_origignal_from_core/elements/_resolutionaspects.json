@@ -1,0 +1,126 @@
+{
+	"elements": [
+
+		{
+			"id": "de.edge",
+			"label": "Speech, the Sword",
+			"desc": "Language is a weapon. With language, we breached the Mansus; without language, we could not have fought wars; without language, we would still be apes, beetles, stone. [This Determination is made with Edge; it provides Edge and Grail.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.forge",
+			"label": "Red, the First Flower",
+			"desc": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Red Flower of Calyptra -'the fire fuelled by truth' was its first defence. Fire consumes knowledge... but fire also gives light. The Tree is rooted in paradox. [This Determination is made with Forge; it provides Forge and Rose.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.grail",
+			"label": "Grail, the Oldest",
+			"desc": "The Red Grail gives life; the Grail takes life; the Grail is not sated. The Grail, who disdains contradiction, is the oldest Hour that persists. Any that seem older are subsumed, eventually, in the Grail's tides. [This Determination is made with Grail; it provides Grail and Nectar.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.heart",
+			"label": "Horned-Axe, the Oldest",
+			"desc": "The Horned-Axe bears two blades; permits passage when passage is to be permitted; waits at the threshold. The Horned-Axe, who forbids contradiction, is the oldest Hour. Other Hours might seem older. They are not older. [This Determination is made with Heart; it provides Heart and Knock.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.knock",
+			"label": "Speech, the Wound",
+			"desc": "Language is a scar. It was language that tore open the Mansus; without language, we could have had no wars; without language, we would still be fire, sky, earth. [This Determination is made with Knock; it provides Knock and Winter.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.lantern",
+			"label": "We Came From Glory",
+			"desc": "Our first sparks of self descended from the light above the world which we call the Glory. Without the Glory, we would be beasts in darkness, and the gifts of our past illuminate our future, which is Eternity. [This Determination is made with Lantern; it provides Lantern and Moth.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.moon",
+			"label": "Black, the First Flower",
+			"desc": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle.The Black Flower of Calyptra -'the night unwounded' - was its first defence. Forbidden knowledge must not be spoken; must not be written; must not be known. The Tree is rooted in night. [This Determination is made with Moon; it provides Moon and Scale.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{ 
+			"id": "de.moth",
+			"label": "Moth, the Oldest",
+			"desc": "The Moth beats within the skull; seeks among the trees of the Wood; is dappled. The Moth, who delights in contradiction, is the oldest Hour that remains. Any that seem older, the Moth once was, when once it was. [This Determination is made with Moth; it provides Moth and Lantern.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.nectar",
+			"label": "We Arose from the Filth of the Wood",
+			"desc": "Our ancestors were born naked in the roots of the Wood. All we ever were has risen from that darkness. With our hands and our mouths we shaped language from mud. With our mouths and our hands we will shape our future [This Determination is made with Nectar; it provides Nectar and Moon.].",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.rose",
+			"label": "Speech, the Key",
+			"desc": "Language is the key. It was language that opened the doors of the Mansus; without language, we could have had no peace; without language, we would still be beasts, worms, mud. [This Determination is made with Rose; it provides Rose and Sky.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.scale",
+			"label": "We Hatched from the Shell",
+			"desc": "The Carapace Cross are a hybrid race, and once we were the Carapace Cross. From the Seglaz-kind, we inherited what now we call language. We long for what we were; and History too is hybrid. [This Determination is made with Scale; it provides Scale and Heart.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.sky",
+			"label": "We Came From Nowhere",
+			"desc": "The Thritige-kind of the Carapace Cross dreamed themselves out of black glass, to be their own Monarch. If we inherit the empty throne, we dream ourselves into every night to come. [This Determination is made with Sky; it provides Sky and Forge.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+		{
+			"id": "de.winter",
+			"label": "White, the First Flower",
+			"desc": "The Watchman's Tree is the covenant that forbids knowledge to mortals, but permits it in the covenant-houses of the Tree... like Brancrug Isle. The White Flower of Calyptra - 'the silence that is given' was its first defence. When forbidden knowledge is known, it must be forgotten. But to be forgotten, it must first be known. The Tree is rooted in paradox. [This Determination is made with Winter; it provides Winter and Edge.]",
+			"isaspect":true,"noartneeded":true, "sort":"group7_histories.md"
+		},
+{"id":"h.sky.oldl",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which Noon is the site of the City Unbuilt, through the Numen <i>That Old Lost Music</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.sky.unde",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which Noon is the site of the City Unbuilt, through the Numen <i>A Final Understanding</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.sky.bala",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which Noon is the site of the City Unbuilt, through the Numen <i>Back Into Balance</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.moth.thre",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the City Unbuilt remains <i>in potentia</i>, through the Numen <i>Three Rules</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.moth.loop",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the City Unbuilt remains <i>in potentia</i>, through the Numen <i>Loopholes</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.moth.desc",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the City Unbuilt remains <i>in potentia</i>, through the Numen <i>The Sun's Weakness</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.rose.bell",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which Ys becomes the City Unbuilt, through the Numen <i>The Bells of Ys</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.rose.oldl",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which Ys becomes the City Unbuilt, through the Numen <i>That Old Lost Music</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.rose.unde",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which Ys becomes the City Unbuilt, through the Numen <i>A Final Understanding</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.moon.secr",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the City Unbuilt rises in the Mansus, through the Numen <i>The Great Counterfeit</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.moon.loop",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the City Unbuilt rises in the Mansus, through the Numen <i>Loopholes</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.moon.worl",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the City Unbuilt rises in the Mansus, through the Numen <i>Weaving the World</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.grail.feas",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are consumed, through the Numen <i>An Irresistible Feast</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.grail.alte",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are consumed, through the Numen <i>Merciless Alteration</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.grail.desc",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are consumed, through the Numen <i>The Sun's Weakness</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.heart.worl",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are remembered, through the Numen <i>Weaving the World</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.heart.bala",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are remembered, through the Numen <i>Back Into Balance</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.heart.thre",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are remembered, through the Numen <i>Three Rules</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.knock.conf",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone enact their revenge, through the Numen <i>Inescapable Confinement</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.knock.loop",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone enact their revenge, through the Numen <i>Loopholes</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.knock.asce",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone enact their revenge, through the Numen <i>The Paths of the Sun</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.nectar.feas",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are reborn, through the Numen <i>An Irresistible Feast</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.nectar.worl",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are reborn, through the Numen <i>Weaving the World</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.nectar.secr",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Stone are reborn, through the Numen <i>The Great Counterfeit</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.forge.asce",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Steel bring the Second Dawn, through the Numen <i>The Paths of the Sun</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.forge.alte",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Steel bring the Second Dawn, through the Numen <i>Merciless Alteration</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.forge.bell",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Gods-from-Steel bring the Second Dawn, through the Numen <i>The Bells of Ys</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.scale.oldl",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn is the dawn of an older, redder sun, through the Numen <i>That Old Lost Music</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.scale.conf",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn is the dawn of an older, redder sun, through the Numen <i>Inescapable Confinement</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.scale.thre",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn is the dawn of an older, redder sun, through the Numen <i>Three Rules</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.lantern.asce",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will come soon, through the Numen <i>The Paths of the Sun</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.lantern.desc",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will come soon, through the Numen <i>The Sun's Weakness</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.lantern.secr",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will come soon, through the Numen <i>The Great Counterfeit</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.edge.bell",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will come when all but one Hour has fallen, through the Numen <i>The Bells of Ys</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.edge.feas",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will come when all but one Hour has fallen, through the Numen <i>An Irresistible Feast</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.edge.alte",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will come when all but one Hour has fallen, through the Numen <i>Merciless Alteration</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.winter.unde",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will never come, through the Numen <i>A Final Understanding</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.winter.conf",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will never come, through the Numen <i>Inescapable Confinement</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	},
+{"id":"h.winter.bala",	"label":"My History",  "sort":"group7_histories.mh",	"desc":"I have recorded a History in which the Second Dawn will never come, through the Numen <i>Back Into Balance</i>.  [Take your Journal to the Tree in the season of Numa if you choose to end the game.]",	"icon":"h",	"isAspect":true	}
+
+
+
+
+	]
+}

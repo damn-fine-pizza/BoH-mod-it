@@ -1,0 +1,29 @@
+{
+ "elements": [
+  {
+   "id": "ally.chandler",
+   "label": "L’Alleato dell’Istituto: il Chandler",
+   "desc": "L’Istituto collaborerà con il Chandler... quando il Chandler infine si manifesterà."
+  },
+  {
+   "id": "ally.ys",
+   "label": "L’Alleato dell’Istituto: Ys",
+   "desc": "L’Istituto collaborerà con Ys... quando sarà utile."
+  },
+  {
+   "id": "ally.carapace",
+   "label": "L’Alleato dell’Istituto: la Croce del Carapace",
+   "desc": "L’Istituto collaborerà con la Croce del Carapace, mentre il loro ritorno ha inizio."
+  },
+  {
+   "id": "ally.reckoners",
+   "label": "L’Alleato dell’Istituto: i Signori Conteggiatori",
+   "desc": "L’Istituto collaborerà con i mercanti degli anni – con cautela, ma con profitto."
+  },
+  {
+   "id": "ally.none",
+   "label": "L’Alleato dell’Istituto: Nessuno",
+   "desc": "I fondatori dell’Istituto non riuscirono a concordare con chi collaborare."
+  }
+ ]
+}

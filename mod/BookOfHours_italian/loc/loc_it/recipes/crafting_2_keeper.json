@@ -1,0 +1,862 @@
+{
+ "recipes": [
+  {
+   "id": "craft.keeper.sickle.eclipse_edge_perinculate_serpent-milk",
+   "Label": "Crea: Latte di Serpente",
+   "StartDescription": "Arricchisci l’inchiostro fino a un fluido vibrante di potere di Lama.\n\n[Falce & Eclissi con <sprite name=edge> da Custode, più Perinculate, crea Latte di Serpente.]",
+   "Desc": "Nessun Archivista di Hush House è mai morto durante la preparazione del latte di serpente. Per fortuna, era vero ieri, ed è ancora vero oggi."
+  },
+  {
+   "id": "craft.keeper.edictsmartial_moon_confounding.parable_forbidden epic",
+   "Label": "Crea: Epica Proibita",
+   "StartDescription": "Sviluppa la parabola in una potente epica di Lama.\n\n[Editti Marziali con <sprite name=moon> da Custode, più Parabola Sconcertante, crea Epica Proibita.]",
+   "Desc": "Le lezioni del Colonnello, e le lezioni del Leonfabbro, sono state rese, in modo impietoso e riduttivo, come «pugnalata» contro «botta»."
+  },
+  {
+   "id": "craft.keeper.sharps_edge_perinculate_serpent-milk",
+   "Label": "Crea: Latte di Serpente",
+   "StartDescription": "Arricchisci l’inchiostro fino a un fluido vibrante di potere di Lama.\n\n[Taglienti con <sprite name=edge> da Custode, più Perinculate, crea Latte di Serpente.]",
+   "Desc": "Nessun Archivista di Hush House è mai morto durante la preparazione del latte di serpente. Per fortuna, era vero ieri, ed è ancora vero oggi."
+  },
+  {
+   "id": "craft.keeper.meniscatereflections_edge_perinculate_serpent-milk",
+   "Label": "Crea: Latte di Serpente",
+   "StartDescription": "Arricchisci l’inchiostro fino a un fluido vibrante di potere di Lama.\n\n[Riflessi Meniscati con <sprite name=edge> da Custode, più Perinculate, crea Latte di Serpente.]",
+   "Desc": "Nessun Archivista di Hush House è mai morto durante la preparazione del latte di serpente. Per fortuna, era vero ieri, ed è ancora vero oggi."
+  },
+  {
+   "id": "craft.keeper.disciplines.thescar_edge_perinculate_serpent-milk",
+   "Label": "Crea: Latte di Serpente",
+   "StartDescription": "Arricchisci l’inchiostro fino a un fluido vibrante di potere di Lama.\n\n[Discipline della Cicatrice con <sprite name=edge> da Custode, più Perinculate, crea Latte di Serpente.]",
+   "Desc": "Nessun Archivista di Hush House è mai morto durante la preparazione del latte di serpente. Per fortuna, era vero ieri, ed è ancora vero oggi."
+  },
+  {
+   "id": "craft.keeper.serpents.venoms_moon_toxin.glassfinger_sacrament ascite",
+   "Label": "Crea: Sacramento Ascite",
+   "StartDescription": "Induci un cambiamento nella tossina, per renderla più potente in Battente ma più sicura.\n\n[Serpenti & Veleni con <sprite name=moon> da Custode, più Tossina Ditovetro, crea Sacramento Ascite.]",
+   "Desc": "Nel nome delle due lame che sono una sola, della soglia che ha due lati…."
+  },
+  {
+   "id": "craft.keeper.disciplines.thehammer_edge_winning.move_invincible audacity",
+   "Label": "Crea: Audacia Invincibile",
+   "StartDescription": "Estendi la tua comprensione in una più potente lezione di Lama.\n\n[Discipline del Martello con <sprite name=edge> da Custode, più Mossa Vincente, crea Audacia Invincibile.]",
+   "Desc": "Le lezioni del Colonnello, e le lezioni del Leonfabbro, sono state rese, in modo impietoso e riduttivo, come «pugnalata» contro «botta»."
+  },
+  {
+   "id": "craft.keeper.edictsmartial_edge_winning.move_invincible audacity",
+   "Label": "Crea: Audacia Invincibile",
+   "StartDescription": "Estendi la tua comprensione in una più potente lezione di Lama.\n\n[Editti Marziali con <sprite name=edge> da Custode, più Mossa Vincente, crea Audacia Invincibile.]",
+   "Desc": "Le lezioni del Colonnello, e le lezioni del Leonfabbro, sono state rese, in modo impietoso e riduttivo, come «pugnalata» contro «botta»."
+  },
+  {
+   "id": "craft.keeper.auroralcontemplations_edge_winning.move_invincible audacity",
+   "Label": "Crea: Audacia Invincibile",
+   "StartDescription": "Estendi la tua comprensione in una più potente lezione di Lama.\n\n[Contemplazioni Aurorali con <sprite name=edge> da Custode, più Mossa Vincente, crea Audacia Invincibile.]",
+   "Desc": "Le lezioni del Colonnello, e le lezioni del Leonfabbro, sono state rese, in modo impietoso e riduttivo, come «pugnalata» contro «botta»."
+  },
+  {
+   "id": "craft.keeper.transformations.liberations_forge_essence.iotic_orpiment exultant",
+   "Label": "Crea: Orpimento Esultante",
+   "StartDescription": "Trasforma l’essenza nell’<i>encaustum terminale</i> Orpimento Esultante.\n\n[Trasformazioni & Liberazioni con <sprite name=forge> da Custode, più Essenza Iotica, crea Orpimento Esultante.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.inks.power_forge_essence.iotic_orpiment exultant",
+   "Label": "Crea: Orpimento Esultante",
+   "StartDescription": "Trasforma l’essenza nell’<i>encaustum terminale</i> Orpimento Esultante.\n\n[Inchiostri di Potere con <sprite name=forge> da Custode, più Essenza Iotica, crea Orpimento Esultante.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.anbary.lapidary_forge_essence.iotic_orpiment exultant",
+   "Label": "Crea: Orpimento Esultante",
+   "StartDescription": "Trasforma l’essenza nell’<i>encaustum terminale</i> Orpimento Esultante.\n\n[Ambreria & Lapidario con <sprite name=forge> da Custode, più Essenza Iotica, crea Orpimento Esultante.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.pyroglyphics_forge_wire.orichalcum_azoth",
+   "Label": "Crea: Azoth",
+   "StartDescription": "Usa l’oricalco per catalizzare il feroce solvente di Battente chiamato azoth.\n\n[Piroglifici con <sprite name=forge> da Custode, più Filo (Oricalco), crea Azoth.]",
+   "Desc": "L’oricalco va incorporato, con grandissima cura, nel recipiente, affinché l’azoth non fuoriesca. Gli alchimisti disattenti sono costretti a traslocare spesso."
+  },
+  {
+   "id": "craft.keeper.bells.brazieries_forge_wire.orichalcum_azoth",
+   "Label": "Crea: Azoth",
+   "StartDescription": "Usa l’oricalco per catalizzare il feroce solvente di Battente chiamato azoth.\n\n[Campane & Bracieri con <sprite name=forge> da Custode, più Filo (Oricalco), crea Azoth.]",
+   "Desc": "L’oricalco va incorporato, con grandissima cura, nel recipiente, affinché l’azoth non fuoriesca. Gli alchimisti disattenti sono costretti a traslocare spesso."
+  },
+  {
+   "id": "craft.keeper.meniscatereflections_forge_wire.orichalcum_azoth",
+   "Label": "Crea: Azoth",
+   "StartDescription": "Usa l’oricalco per catalizzare il feroce solvente di Battente chiamato azoth.\n\n[Riflessi Meniscati con <sprite name=forge> da Custode, più Filo (Oricalco), crea Azoth.]",
+   "Desc": "L’oricalco va incorporato, con grandissima cura, nel recipiente, affinché l’azoth non fuoriesca. Gli alchimisti disattenti sono costretti a traslocare spesso."
+  },
+  {
+   "id": "craft.keeper.purifications.exaltations_forge_wire.orichalcum_azoth",
+   "Label": "Crea: Azoth",
+   "StartDescription": "Usa l’oricalco per catalizzare il feroce solvente di Battente chiamato azoth.\n\n[Purificazioni & Esaltazioni con <sprite name=forge> da Custode, più Filo (Oricalco), crea Azoth.]",
+   "Desc": "L’oricalco va incorporato, con grandissima cura, nel recipiente, affinché l’azoth non fuoriesca. Gli alchimisti disattenti sono costretti a traslocare spesso."
+  },
+  {
+   "id": "craft.keeper.disciplines.thehammer_forge_wire.orichalcum_azoth",
+   "Label": "Crea: Azoth",
+   "StartDescription": "Usa l’oricalco per catalizzare il feroce solvente di Battente chiamato azoth.\n\n[Discipline del Martello con <sprite name=forge> da Custode, più Filo (Oricalco), crea Azoth.]",
+   "Desc": "L’oricalco va incorporato, con grandissima cura, nel recipiente, affinché l’azoth non fuoriesca. Gli alchimisti disattenti sono costretti a traslocare spesso."
+  },
+  {
+   "id": "craft.keeper.door.wall_forge_wire.orichalcum_azoth",
+   "Label": "Crea: Azoth",
+   "StartDescription": "Usa l’oricalco per catalizzare il feroce solvente di Battente chiamato azoth.\n\n[Porta & Muro con <sprite name=forge> da Custode, più Filo (Oricalco), crea Azoth.]",
+   "Desc": "L’oricalco va incorporato, con grandissima cura, nel recipiente, affinché l’azoth non fuoriesca. Gli alchimisti disattenti sono costretti a traslocare spesso."
+  },
+  {
+   "id": "craft.keeper.orchids.narcotics_grail_rubywise.ruin_sacrament calicite",
+   "Label": "Crea: Sacramento Calicite",
+   "StartDescription": "Usa questo liquore come base per un sacramento di Graal.\n\n[Orchidee & Narcotici con <sprite name=grail> da Custode, più Rovina Rubinosa, crea Sacramento Calicite.]",
+   "Desc": "Nel nome dell’Ora che dà la vita; dell’Ora che toglie la vita; dell’Ora che non è mai sazia…."
+  },
+  {
+   "id": "craft.keeper.applebrighteuphonies_grail_rubywise.ruin_sacrament calicite",
+   "Label": "Crea: Sacramento Calicite",
+   "StartDescription": "Usa questo liquore come base per un sacramento di Graal.\n\n[Eufonie di Applebright con <sprite name=grail> da Custode, più Rovina Rubinosa, crea Sacramento Calicite.]",
+   "Desc": "Nel nome dell’Ora che dà la vita; dell’Ora che toglie la vita; dell’Ora che non è mai sazia…."
+  },
+  {
+   "id": "craft.keeper.leaves.thorns_grail_rubywise.ruin_sacrament calicite",
+   "Label": "Crea: Sacramento Calicite",
+   "StartDescription": "Usa questo liquore come base per un sacramento di Graal.\n\n[Foglie & Spine con <sprite name=grail> da Custode, più Rovina Rubinosa, crea Sacramento Calicite.]",
+   "Desc": "Nel nome dell’Ora che dà la vita; dell’Ora che toglie la vita; dell’Ora che non è mai sazia…."
+  },
+  {
+   "id": "craft.keeper.seastories_grail_rubywise.ruin_sacrament calicite",
+   "Label": "Crea: Sacramento Calicite",
+   "StartDescription": "Usa questo liquore come base per un sacramento di Graal.\n\n[Storie di Mare con <sprite name=grail> da Custode, più Rovina Rubinosa, crea Sacramento Calicite.]",
+   "Desc": "Nel nome dell’Ora che dà la vita; dell’Ora che toglie la vita; dell’Ora che non è mai sazia…."
+  },
+  {
+   "id": "craft.keeper.tridesmahiera_grail_rubywise.ruin_sacrament calicite",
+   "Label": "Crea: Sacramento Calicite",
+   "StartDescription": "Usa questo liquore come base per un sacramento di Graal.\n\n[Tridesma Hiera con <sprite name=grail> da Custode, più Rovina Rubinosa, crea Sacramento Calicite.]",
+   "Desc": "Nel nome dell’Ora che dà la vita; dell’Ora che toglie la vita; dell’Ora che non è mai sazia…."
+  },
+  {
+   "id": "craft.keeper.resurgences.emergences_grail_pale.mommet_flushed mommet",
+   "Label": "Crea: Fantoccio Arrossato",
+   "StartDescription": "Con l’essenza di Graal, il fantoccio arrossirà in qualcosa di più potente.\n\n[Risorgenze & Emersioni con <sprite name=grail> da Custode, più Fantoccio Pallido, crea Fantoccio Arrossato.]",
+   "Desc": "Bevilo, piccolo mio. Bevilo…."
+  },
+  {
+   "id": "craft.keeper.furs.feathers_grail_pale.mommet_flushed mommet",
+   "Label": "Crea: Fantoccio Arrossato",
+   "StartDescription": "Con l’essenza di Graal, il fantoccio arrossirà in qualcosa di più potente.\n\n[Pellicce & Piume con <sprite name=grail> da Custode, più Fantoccio Pallido, crea Fantoccio Arrossato.]",
+   "Desc": "Bevilo, piccolo mio. Bevilo…."
+  },
+  {
+   "id": "craft.keeper.thegreatsignsandthegreatscars_grail_pale.mommet_flushed mommet",
+   "Label": "Crea: Fantoccio Arrossato",
+   "StartDescription": "Con l’essenza di Graal, il fantoccio arrossirà in qualcosa di più potente.\n\n[I Grandi Segni e le Grandi Cicatrici con <sprite name=grail> da Custode, più Fantoccio Pallido, crea Fantoccio Arrossato.]",
+   "Desc": "Bevilo, piccolo mio. Bevilo…."
+  },
+  {
+   "id": "craft.keeper.pentiments.precursors_grail_pale.mommet_flushed mommet",
+   "Label": "Crea: Fantoccio Arrossato",
+   "StartDescription": "Con l’essenza di Graal, il fantoccio arrossirà in qualcosa di più potente.\n\n[Pentimenti & Precursori con <sprite name=grail> da Custode, più Fantoccio Pallido, crea Fantoccio Arrossato.]",
+   "Desc": "Bevilo, piccolo mio. Bevilo…."
+  },
+  {
+   "id": "craft.keeper.desires.dissolutions_grail_pale.mommet_flushed mommet",
+   "Label": "Crea: Fantoccio Arrossato",
+   "StartDescription": "Con l’essenza di Graal, il fantoccio arrossirà in qualcosa di più potente.\n\n[Desideri & Dissoluzioni con <sprite name=grail> da Custode, più Fantoccio Pallido, crea Fantoccio Arrossato.]",
+   "Desc": "Bevilo, piccolo mio. Bevilo…."
+  },
+  {
+   "id": "craft.keeper.weaving.knotworking_heart_frithweft_swaddled thunder",
+   "Label": "Crea: Tuono Avvolto",
+   "StartDescription": "Attira il potenziale di tempesta nella trama, per catturare più aspetto di Cuore.\n\n[Tessitura & Annodatura con <sprite name=heart> da Custode, più Frith-Weft, crea Tuono Avvolto.]",
+   "Desc": "Dormi, o tempesta; china il capo, per ora…."
+  },
+  {
+   "id": "craft.keeper.stitching.binding_heart_frithweft_swaddled thunder",
+   "Label": "Crea: Tuono Avvolto",
+   "StartDescription": "Attira il potenziale di tempesta nella trama, per catturare più aspetto di Cuore.\n\n[Cucitura & Rilegatura con <sprite name=heart> da Custode, più Frith-Weft, crea Tuono Avvolto.]",
+   "Desc": "Dormi, o tempesta; china il capo, per ora…."
+  },
+  {
+   "id": "craft.keeper.quenchings.quellings_heart_frithweft_swaddled thunder",
+   "Label": "Crea: Tuono Avvolto",
+   "StartDescription": "Attira il potenziale di tempesta nella trama, per catturare più aspetto di Cuore.\n\n[Spegnimenti & Placamenti con <sprite name=heart> da Custode, più Frith-Weft, crea Tuono Avvolto.]",
+   "Desc": "Dormi, o tempesta; china il capo, per ora…."
+  },
+  {
+   "id": "craft.keeper.drums.dances_heart_music.thunderskin_swaddled thunder",
+   "Label": "Crea: Tuono Avvolto",
+   "StartDescription": "Batti a suon di tamburo il potenziale di tempesta nella trama, per catturare più aspetto di Cuore.\n\n[Tamburi & Danze con <sprite name=heart> da Custode, più Peana del Pelledituono, crea Tuono Avvolto.]",
+   "Desc": "Dormi, o tempesta; china il capo, per ora…."
+  },
+  {
+   "id": "craft.keeper.strings.songs_heart_music.thunderskin_swaddled thunder",
+   "Label": "Crea: Tuono Avvolto",
+   "StartDescription": "Canta il potenziale di tempesta nella trama, per catturare più aspetto di Cuore.\n\n[Corde & Canti con <sprite name=heart> da Custode, più Peana del Pelledituono, crea Tuono Avvolto.]",
+   "Desc": "Dormi, o tempesta; china il capo, per ora…."
+  },
+  {
+   "id": "craft.keeper.maggephenemysteries_heart_liquid.gideon_january sanguinary",
+   "Label": "Crea: Sanguinaria di Gennaio",
+   "StartDescription": "Ravviva i macerati in qualcosa con un aspetto di Cuore maggiore.\n\n[Misteri Maggephene con <sprite name=heart> da Custode, più Macerati di Gideon, crea Sanguinaria di Gennaio.]",
+   "Desc": "Tappalo in fretta. In fretta!."
+  },
+  {
+   "id": "craft.keeper.surgeries.exsanguinations_heart_liquid.gideon_january sanguinary",
+   "Label": "Crea: Sanguinaria di Gennaio",
+   "StartDescription": "Ravviva i macerati in qualcosa con un aspetto di Cuore maggiore.\n\n[Chirurgie & Dissanguamenti con <sprite name=heart> da Custode, più Macerati di Gideon, crea Sanguinaria di Gennaio.]",
+   "Desc": "Tappalo in fretta. In fretta!."
+  },
+  {
+   "id": "craft.keeper.herbs.infusions_heart_liquid.gideon_january sanguinary",
+   "Label": "Crea: Sanguinaria di Gennaio",
+   "StartDescription": "Ravviva i macerati in qualcosa con un aspetto di Cuore maggiore.\n\n[Erbe & Infusi con <sprite name=heart> da Custode, più Macerati di Gideon, crea Sanguinaria di Gennaio.]",
+   "Desc": "Tappalo in fretta. In fretta!."
+  },
+  {
+   "id": "craft.keeper.surgeries.exsanguinations_knock_toxin.glassfinger_january sanguinary",
+   "Label": "Crea: Sanguinaria di Gennaio",
+   "StartDescription": "Ravviva la tossina in qualcosa con un aspetto di Cuore maggiore.\n\n[Chirurgie & Dissanguamenti con <sprite name=knock> da Custode, più Tossina Ditovetro, crea Sanguinaria di Gennaio.]",
+   "Desc": "Tappalo in fretta. In fretta!."
+  },
+  {
+   "id": "craft.keeper.edictsinviolable_heart_liquid.gideon_january sanguinary",
+   "Label": "Crea: Sanguinaria di Gennaio",
+   "StartDescription": "Ravviva i macerati in qualcosa con un aspetto di Cuore maggiore.\n\n[Editti Inviolabili con <sprite name=heart> da Custode, più Macerati di Gideon, crea Sanguinaria di Gennaio.]",
+   "Desc": "Tappalo in fretta. In fretta!."
+  },
+  {
+   "id": "craft.keeper.glassblowing.vesselcrafting_knock_gervinite_chronsichord",
+   "Label": "Crea: Chronsichord",
+   "StartDescription": "Poni la gervinite al cuore di un congegno di Battente.\n\n[Vetro Soffiato & Vasellame con <sprite name=knock> da Custode, più Gervinite, crea Chronsichord.]",
+   "Desc": "Quando un chronsichord viene completato, è completamente carico, per la prima e unica volta."
+  },
+  {
+   "id": "craft.keeper.lockworks.clockworks_knock_gervinite_chronsichord",
+   "Label": "Crea: Chronsichord",
+   "StartDescription": "Poni la gervinite al cuore di un congegno di Battente.\n\n[Serrature & Orologi con <sprite name=knock> da Custode, più Gervinite, crea Chronsichord.]",
+   "Desc": "Quando un chronsichord viene completato, è completamente carico, per la prima e unica volta."
+  },
+  {
+   "id": "craft.keeper.preliminalmeter_knock_gervinite_chronsichord",
+   "Label": "Crea: Chronsichord",
+   "StartDescription": "Poni la gervinite al cuore di un congegno di Battente.\n\n[Metro Preliminale con <sprite name=knock> da Custode, più Gervinite, crea Chronsichord.]",
+   "Desc": "Quando un chronsichord viene completato, è completamente carico, per la prima e unica volta."
+  },
+  {
+   "id": "craft.keeper.thegreatsignsandthegreatscars_knock_gervinite_chronsichord",
+   "Label": "Crea: Chronsichord",
+   "StartDescription": "Poni la gervinite al cuore di un congegno di Battente.\n\n[I Grandi Segni e le Grandi Cicatrici con <sprite name=knock> da Custode, più Gervinite, crea Chronsichord.]",
+   "Desc": "Quando un chronsichord viene completato, è completamente carico, per la prima e unica volta."
+  },
+  {
+   "id": "craft.keeper.spices.savours_forge_honeyscar.jasmine_azoth",
+   "Label": "Crea: Azoth",
+   "StartDescription": "Un segreto poco noto: se preparato con cura straordinaria, il Gelsomino Honeyscar può catalizzare il feroce solvente di Battente chiamato l’Azoth.\n\n[Spezie & Sapori con <sprite name=forge> da Custode, più Gelsomino Honeyscar, crea Azoth.]",
+   "Desc": "I succhi di gelsomino vanno preparati con grandissima cura come rivestimento per il recipiente, affinché l’azoth non fuoriesca. Gli alchimisti disattenti sono costretti a traslocare spesso."
+  },
+  {
+   "id": "craft.keeper.glassblowing.vesselcrafting_knock_toxin.glassfinger_sacrament ascite",
+   "Label": "Crea: Sacramento Ascite",
+   "StartDescription": "Induci un cambiamento nella tossina, per renderla più potente in Battente ma più sicura.\n\n[Vetro Soffiato & Vasellame con <sprite name=knock> da Custode, più Tossina Ditovetro, crea Sacramento Ascite.]",
+   "Desc": "Nel nome delle due lame che sono una sola, della soglia che ha due lati…."
+  },
+  {
+   "id": "craft.keeper.door.wall_knock_toxin.glassfinger_sacrament ascite",
+   "Label": "Crea: Sacramento Ascite",
+   "StartDescription": "Induci un cambiamento nella tossina, per renderla più potente in Battente ma più sicura.\n\n[Porta & Muro con <sprite name=knock> da Custode, più Tossina Ditovetro, crea Sacramento Ascite.]",
+   "Desc": "Nel nome delle due lame che sono una sola, della soglia che ha due lati…."
+  },
+  {
+   "id": "craft.keeper.solutions.separations_knock_toxin.glassfinger_sacrament ascite",
+   "Label": "Crea: Sacramento Ascite",
+   "StartDescription": "Induci un cambiamento nella tossina, per renderla più potente in Battente ma più sicura.\n\n[Soluzioni & Separazioni con <sprite name=knock> da Custode, più Tossina Ditovetro, crea Sacramento Ascite.]",
+   "Desc": "Nel nome delle due lame che sono una sola, della soglia che ha due lati…."
+  },
+  {
+   "id": "craft.keeper.horns.ivories_knock_toxin.glassfinger_sacrament ascite",
+   "Label": "Crea: Sacramento Ascite",
+   "StartDescription": "Induci un cambiamento nella tossina, per renderla più potente in Battente ma più sicura.\n\n[Corna & Avori con <sprite name=knock> da Custode, più Tossina Ditovetro, crea Sacramento Ascite.]",
+   "Desc": "Nel nome delle due lame che sono una sola, della soglia che ha due lati…."
+  },
+  {
+   "id": "craft.keeper.edictsliminal_knock_toxin.glassfinger_sacrament ascite",
+   "Label": "Crea: Sacramento Ascite",
+   "StartDescription": "Induci un cambiamento nella tossina, per renderla più potente in Battente ma più sicura.\n\n[Editti Liminali con <sprite name=knock> da Custode, più Tossina Ditovetro, crea Sacramento Ascite.]",
+   "Desc": "Nel nome delle due lame che sono una sola, della soglia che ha due lati…."
+  },
+  {
+   "id": "craft.keeper.inks.revelation_lantern_essence.xanthotic_uzult",
+   "Label": "Crea: Uzult",
+   "StartDescription": "Rischiara l’essenza nell’<i>encaustum terminale</i> Uzult.\n\n[Inchiostri di Rivelazione con <sprite name=lantern> da Custode, più Essenza Xantotica, crea Uzult.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.sacrasolisinvicti_lantern_essence.xanthotic_uzult",
+   "Label": "Crea: Uzult",
+   "StartDescription": "Rischiara l’essenza nell’<i>encaustum terminale</i> Uzult.\n\n[Sacra Solis Invicti con <sprite name=lantern> da Custode, più Essenza Xantotica, crea Uzult.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.pyroglyphics_lantern_ichor.vitreous_ashartine",
+   "Label": "Crea: Ashartine",
+   "StartDescription": "Prepara il brillante inchiostro ashartine dall’icore.\n\n[Piroglifici con <sprite name=lantern> da Custode, più Icore Vitreo, crea Ashartine.]",
+   "Desc": "Finché i vapori della lavorazione dell’ashartine aleggiano nell’aria, è molto difficile pronunciare ad alta voce una bugia…."
+  },
+  {
+   "id": "craft.keeper.watchmansparadoxes_lantern_ichor.vitreous_ashartine",
+   "Label": "Crea: Ashartine",
+   "StartDescription": "Prepara il brillante inchiostro ashartine dall’icore.\n\n[Paradossi del Guardiano con <sprite name=lantern> da Custode, più Icore Vitreo, crea Ashartine.]",
+   "Desc": "Finché i vapori della lavorazione dell’ashartine aleggiano nell’aria, è molto difficile pronunciare ad alta voce una bugia…."
+  },
+  {
+   "id": "craft.keeper.glaziery.lightsmithing_lantern_ichor.vitreous_ashartine",
+   "Label": "Crea: Ashartine",
+   "StartDescription": "Prepara il brillante inchiostro ashartine dall’icore.\n\n[Vetreria & Lucefabbro con <sprite name=lantern> da Custode, più Icore Vitreo, crea Ashartine.]",
+   "Desc": "Finché i vapori della lavorazione dell’ashartine aleggiano nell’aria, è molto difficile pronunciare ad alta voce una bugia…."
+  },
+  {
+   "id": "craft.keeper.watchmansparadoxes_lantern_essence.xanthotic_uzult",
+   "Label": "Crea: Uzult",
+   "StartDescription": "Rischiara l’essenza nell’<i>encaustum terminale</i> Uzult.\n\n[Paradossi del Guardiano con <sprite name=lantern> da Custode, più Essenza Xantotica, crea Uzult.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.anbary.lapidary_sky_ichor.vitreous_ashartine",
+   "Label": "Crea: Ashartine",
+   "StartDescription": "Prepara il brillante inchiostro ashartine dall’icore.\n\n[Ambreria & Lapidario con <sprite name=sky> da Custode, più Icore Vitreo, crea Ashartine.]",
+   "Desc": "Finché i vapori della lavorazione dell’ashartine aleggiano nell’aria, è molto difficile pronunciare ad alta voce una bugia…."
+  },
+  {
+   "id": "craft.keeper.desires.dissolutions_moon_asimel_black sapphire wash",
+   "Label": "Crea: Velatura di Zaffiro Nero",
+   "StartDescription": "Scurisci l’asimel in un potente pigmento di Luna.\n\n[Desideri & Dissoluzioni con <sprite name=moon> da Custode, più Asimel, crea Velatura di Zaffiro Nero.]",
+   "Desc": "Da dove venne la luce nella Casa della Luna? Ancora non lo sappiamo; ma forse questo colore è la sua oscurità."
+  },
+  {
+   "id": "craft.keeper.putrefactions.calcinations_moon_asimel_black sapphire wash",
+   "Label": "Crea: Velatura di Zaffiro Nero",
+   "StartDescription": "Scurisci l’asimel in un potente pigmento di Luna.\n\n[Putrefazioni & Calcinazioni con <sprite name=moon> da Custode, più Asimel, crea Velatura di Zaffiro Nero.]",
+   "Desc": "Da dove venne la luce nella Casa della Luna? Ancora non lo sappiamo; ma forse questo colore è la sua oscurità."
+  },
+  {
+   "id": "craft.keeper.seastories_moon_asimel_black sapphire wash",
+   "Label": "Crea: Velatura di Zaffiro Nero",
+   "StartDescription": "Scurisci l’asimel in un potente pigmento di Luna.\n\n[Storie di Mare con <sprite name=moon> da Custode, più Asimel, crea Velatura di Zaffiro Nero.]",
+   "Desc": "Da dove venne la luce nella Casa della Luna? Ancora non lo sappiamo; ma forse questo colore è la sua oscurità."
+  },
+  {
+   "id": "craft.keeper.pearl.tide_moon_asimel_black sapphire wash",
+   "Label": "Crea: Velatura di Zaffiro Nero",
+   "StartDescription": "Scurisci l’asimel in un potente pigmento di Luna.\n\n[Perla & Marea con <sprite name=moon> da Custode, più Asimel, crea Velatura di Zaffiro Nero.]",
+   "Desc": "Da dove venne la luce nella Casa della Luna? Ancora non lo sappiamo; ma forse questo colore è la sua oscurità."
+  },
+  {
+   "id": "craft.keeper.tridesmahiera_moon_asimel_black sapphire wash",
+   "Label": "Crea: Velatura di Zaffiro Nero",
+   "StartDescription": "Scurisci l’asimel in un potente pigmento di Luna.\n\n[Tridesma Hiera con <sprite name=moon> da Custode, più Asimel, crea Velatura di Zaffiro Nero.]",
+   "Desc": "Da dove venne la luce nella Casa della Luna? Ancora non lo sappiamo; ma forse questo colore è la sua oscurità."
+  },
+  {
+   "id": "craft.keeper.wolfstories_moon_stymphling_wormwood dream",
+   "Label": "Crea: Sogno d’Assenzio",
+   "StartDescription": "Interpreta i sibili dello stymphling in una profezia di crimine di Luna e Inverno.\n\n[Storie di Lupo con <sprite name=moon> da Custode, più Stymphling, crea Sogno d’Assenzio.]",
+   "Desc": "Speriamo sia altrettanto possibile dimenticarlo di nuovo."
+  },
+  {
+   "id": "craft.keeper.edictsinviolable_moon_stymphling_wormwood dream",
+   "Label": "Crea: Sogno d’Assenzio",
+   "StartDescription": "Interpreta i sibili dello stymphling in una profezia di crimine di Luna e Inverno.\n\n[Editti Inviolabili con <sprite name=moon> da Custode, più Stymphling, crea Sogno d’Assenzio.]",
+   "Desc": "Speriamo sia altrettanto possibile dimenticarlo di nuovo."
+  },
+  {
+   "id": "craft.keeper.rhyme.remembrance_moon_stymphling_wormwood dream",
+   "Label": "Crea: Sogno d’Assenzio",
+   "StartDescription": "Interpreta i sibili dello stymphling in una profezia di crimine di Luna e Inverno.\n\n[Rima & Rimembranza con <sprite name=moon> da Custode, più Stymphling, crea Sogno d’Assenzio.]",
+   "Desc": "Speriamo sia altrettanto possibile dimenticarlo di nuovo."
+  },
+  {
+   "id": "craft.keeper.sickle.eclipse_moon_stymphling_wormwood dream",
+   "Label": "Crea: Sogno d’Assenzio",
+   "StartDescription": "Interpreta i sibili dello stymphling in una profezia di crimine di Luna e Inverno.\n\n[Falce & Eclissi con <sprite name=moon> da Custode, più Stymphling, crea Sogno d’Assenzio.]",
+   "Desc": "Speriamo sia altrettanto possibile dimenticarlo di nuovo."
+  },
+  {
+   "id": "craft.keeper.snowstories_moon_stymphling_wormwood dream",
+   "Label": "Crea: Sogno d’Assenzio",
+   "StartDescription": "Interpreta i sibili dello stymphling in una profezia di crimine di Luna e Inverno.\n\n[Storie di Neve con <sprite name=moon> da Custode, più Stymphling, crea Sogno d’Assenzio.]",
+   "Desc": "Speriamo sia altrettanto possibile dimenticarlo di nuovo."
+  },
+  {
+   "id": "craft.keeper.solutions.separations_moth_honey_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Soluzioni & Separazioni con <sprite name=moth> da Custode, più Miele, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.edictsliminal_moth_honey_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Editti Liminali con <sprite name=moth> da Custode, più Miele, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.sacralimiae_moth_honey_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Sacra Limiae con <sprite name=moth> da Custode, più Miele, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.rites.theroots_moth_honey_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Riti delle Radici con <sprite name=moth> da Custode, più Miele, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.pearl.tide_rose_lenten.rose_porphyrine",
+   "Label": "Crea: Porfirina",
+   "StartDescription": "Un segreto poco noto: usa i petali di rosa per preparare l’<i>encaustum terminale</i> chiamato Porphyrine.\n\n[Perla & Marea con <sprite name=rose> da Custode, più Rosa di Quaresima, crea Porphyrine.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.insects.nectars_moon_larva.chimeric_perilous imago",
+   "Label": "Crea: Imago Pericolosa",
+   "StartDescription": "Sotto gli auspici del crepuscolo, incoraggia la larva a svilupparsi in una Bestia-Falena maggiore.\n\n[Insetti & Nettari con <sprite name=moon> da Custode, più Larva Chimerica, crea Imago Pericolosa.]",
+   "Desc": "Un’ala bagnata, poi l’altra, e poi le scuote per asciugarle; e da quel momento, andrà sempre tenuta d’occhio."
+  },
+  {
+   "id": "craft.keeper.resurgences.emergences_moth_larva.chimeric_perilous imago",
+   "Label": "Crea: Imago Pericolosa",
+   "StartDescription": "Persuadi la larva a svilupparsi in una bestia di Falena maggiore.\n\n[Risorgenze & Emersioni con <sprite name=moth> da Custode, più Larva Chimerica, crea Imago Pericolosa.]",
+   "Desc": "Un’ala bagnata, poi l’altra, e poi le scuote per asciugarle; e da quel momento, andrà sempre tenuta d’occhio."
+  },
+  {
+   "id": "craft.keeper.transformations.liberations_moth_larva.chimeric_perilous imago",
+   "Label": "Crea: Imago Pericolosa",
+   "StartDescription": "Persuadi la larva a svilupparsi in una bestia di Falena maggiore.\n\n[Trasformazioni & Liberazioni con <sprite name=moth> da Custode, più Larva Chimerica, crea Imago Pericolosa.]",
+   "Desc": "Un’ala bagnata, poi l’altra, e poi le scuote per asciugarle; e da quel momento, andrà sempre tenuta d’occhio."
+  },
+  {
+   "id": "craft.keeper.drums.dances_nectar_pyrus.auricalcinus_sacrament malachite",
+   "Label": "Crea: Sacramento Malachite",
+   "StartDescription": "Questa pera può essere una base per un sacramento di Nettare del bosco profondo.\n\n[Tamburi & Danze con <sprite name=nectar> da Custode, più Pyrus Auricalcinus, crea Sacramento Malachite.]",
+   "Desc": "Nel nome delle radici, del sangue, del ronzio interiore…."
+  },
+  {
+   "id": "craft.keeper.insects.nectars_nectar_leathy_marakat",
+   "Label": "Crea: Marakat",
+   "StartDescription": "Prepara l’<i>encaustum terminale</i> chiamato Marakat.\n\n[Insetti & Nettari con <sprite name=nectar> da Custode, più Leathy, crea Marakat.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.inks.power_nectar_leathy_marakat",
+   "Label": "Crea: Marakat",
+   "StartDescription": "Prepara l’<i>encaustum terminale</i> chiamato Marakat.\n\n[Inchiostri di Potere con <sprite name=nectar> da Custode, più Leathy, crea Marakat.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.tridesmahiera_nectar_leathy_marakat",
+   "Label": "Crea: Marakat",
+   "StartDescription": "Prepara l’<i>encaustum terminale</i> chiamato Marakat.\n\n[Tridesma Hiera con <sprite name=nectar> da Custode, più Leathy, crea Marakat.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.spices.savours_nectar_pyrus.auricalcinus_sacrament malachite",
+   "Label": "Crea: Sacramento Malachite",
+   "StartDescription": "Questa pera può essere una base per un sacramento di Nettare del bosco profondo.\n\n[Spezie & Sapori con <sprite name=nectar> da Custode, più Pyrus Auricalcinus, crea Sacramento Malachite.]",
+   "Desc": "Nel nome delle radici, del sangue, del ronzio interiore…."
+  },
+  {
+   "id": "craft.keeper.leaves.thorns_nectar_pyrus.auricalcinus_sacrament malachite",
+   "Label": "Crea: Sacramento Malachite",
+   "StartDescription": "Questa pera può essere una base per un sacramento di Nettare del bosco profondo.\n\n[Foglie & Spine con <sprite name=nectar> da Custode, più Pyrus Auricalcinus, crea Sacramento Malachite.]",
+   "Desc": "Nel nome delle radici, del sangue, del ronzio interiore…."
+  },
+  {
+   "id": "craft.keeper.rites.theroots_nectar_pyrus.auricalcinus_sacrament malachite",
+   "Label": "Crea: Sacramento Malachite",
+   "StartDescription": "Questa pera può essere una base per un sacramento di Nettare del bosco profondo.\n\n[Riti delle Radici con <sprite name=nectar> da Custode, più Pyrus Auricalcinus, crea Sacramento Malachite.]",
+   "Desc": "Nel nome delle radici, del sangue, del ronzio interiore…."
+  },
+  {
+   "id": "craft.keeper.herbs.infusions_nectar_pyrus.auricalcinus_sacrament malachite",
+   "Label": "Crea: Sacramento Malachite",
+   "StartDescription": "Questa pera può essere una base per un sacramento di Nettare del bosco profondo.\n\n[Erbe & Infusi con <sprite name=nectar> da Custode, più Pyrus Auricalcinus, crea Sacramento Malachite.]",
+   "Desc": "Nel nome delle radici, del sangue, del ronzio interiore…."
+  },
+  {
+   "id": "craft.keeper.coil.chasm_nectar_pyrus.auricalcinus_sacrament malachite",
+   "Label": "Crea: Sacramento Malachite",
+   "StartDescription": "Questa pera può essere una base per un sacramento di Nettare del bosco profondo.\n\n[Spira & Baratro con <sprite name=nectar> da Custode, più Pyrus Auricalcinus, crea Sacramento Malachite.]",
+   "Desc": "Nel nome delle radici, del sangue, del ronzio interiore…."
+  },
+  {
+   "id": "craft.keeper.inks.revelation_rose_ichor.auroral_porphyrine",
+   "Label": "Crea: Porfirina",
+   "StartDescription": "Intensifica l’icore fino a farne l’<i>encaustum terminale</i> Porfirina.\n\n[Inchiostri di Rivelazione con <sprite name=rose> da Custode, più Icore Aurorale, crea Porfirina.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.auroralcontemplations_lantern_ichor.auroral_porphyrine",
+   "Label": "Crea: Porfirina",
+   "StartDescription": "Intensifica l’icore fino a farne l’<i>encaustum terminale</i> Porfirina.\n\n[Contemplazioni Aurorali con <sprite name=lantern> da Custode, più Icore Aurorale, crea Porfirina.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.preliminalmeter_rose_enduring.reflection_horizon-sight",
+   "Label": "Crea: Vista d’Orizzonte",
+   "StartDescription": "Trai una visione di Rosa da questa memoria.\n\n[Metro Preliminale con <sprite name=rose> da Custode, più Riflesso Duraturo, crea Vista d’Orizzonte.]",
+   "Desc": "Alza lo sguardo. È spesso un buon consiglio, ma quando siamo immersi in questo mestiere, è il migliore. Alza lo sguardo, e guardati intorno."
+  },
+  {
+   "id": "craft.keeper.sandstories_rose_enduring.reflection_horizon-sight",
+   "Label": "Crea: Vista d’Orizzonte",
+   "StartDescription": "Trai una visione di Rosa da questa memoria.\n\n[Storie di Sabbia con <sprite name=rose> da Custode, più Riflesso Duraturo, crea Vista d’Orizzonte.]",
+   "Desc": "Alza lo sguardo. È spesso un buon consiglio, ma quando siamo immersi in questo mestiere, è il migliore. Alza lo sguardo, e guardati intorno."
+  },
+  {
+   "id": "craft.keeper.skystories_rose_enduring.reflection_horizon-sight",
+   "Label": "Crea: Vista d’Orizzonte",
+   "StartDescription": "Trai una visione di Rosa da questa memoria.\n\n[Storie di Cielo con <sprite name=rose> da Custode, più Riflesso Duraturo, crea Vista d’Orizzonte.]",
+   "Desc": "Alza lo sguardo. È spesso un buon consiglio, ma quando siamo immersi in questo mestiere, è il migliore. Alza lo sguardo, e guardati intorno."
+  },
+  {
+   "id": "craft.keeper.path.pilgrim_rose_enduring.reflection_horizon-sight",
+   "Label": "Crea: Vista d’Orizzonte",
+   "StartDescription": "Trai una visione di Rosa da questa memoria.\n\n[Cammino & Pellegrino con <sprite name=rose> da Custode, più Riflesso Duraturo, crea Vista d’Orizzonte.]",
+   "Desc": "Alza lo sguardo. È spesso un buon consiglio, ma quando siamo immersi in questo mestiere, è il migliore. Alza lo sguardo, e guardati intorno."
+  },
+  {
+   "id": "craft.keeper.sandstories_rose_ichor.auroral_porphyrine",
+   "Label": "Crea: Porfirina",
+   "StartDescription": "Intensifica l’icore fino a farne l’<i>encaustum terminale</i> Porfirina.\n\n[Storie di Sabbia con <sprite name=rose> da Custode, più Icore Aurorale, crea Porfirina.]",
+   "Desc": "Alza lo sguardo. È spesso un buon consiglio, ma quando siamo immersi in questo mestiere, è il migliore. Alza lo sguardo, e guardati intorno."
+  },
+  {
+   "id": "craft.keeper.stonestories_scale_old.moment_earthquake name",
+   "Label": "Crea: Nome del Terremoto",
+   "StartDescription": "Discerni una potenza di Squama.\n\n[Storie di Pietra con <sprite name=scale> da Custode, più Vecchio Momento, crea Nome del Terremoto.]",
+   "Desc": "Pronuncia mezza sillaba, e senti la bestia agitare mezza spira...."
+  },
+  {
+   "id": "craft.keeper.coil.chasm_scale_old.moment_earthquake name",
+   "Label": "Crea: Nome del Terremoto",
+   "StartDescription": "Discerni una potenza di Squama.\n\n[Spira & Baratro con <sprite name=scale> da Custode, più Vecchio Momento, crea Nome del Terremoto.]",
+   "Desc": "Pronuncia mezza sillaba, e senti la bestia agitare mezza spira...."
+  },
+  {
+   "id": "craft.keeper.hill.hollow_scale_old.moment_earthquake name",
+   "Label": "Crea: Nome del Terremoto",
+   "StartDescription": "Discerni una potenza di Squama.\n\n[Colle & Valle con <sprite name=scale> da Custode, più Vecchio Momento, crea Nome del Terremoto.]",
+   "Desc": "Pronuncia mezza sillaba, e senti la bestia agitare mezza spira...."
+  },
+  {
+   "id": "craft.keeper.disciplines.thescar_lantern_old.moment_earthquake name",
+   "Label": "Crea: Nome del Terremoto",
+   "StartDescription": "Discerni una potenza di Squama.\n\n[Discipline della Cicatrice con <sprite name=lantern> da Custode, più Vecchio Momento, crea Nome del Terremoto.]",
+   "Desc": "Pronuncia mezza sillaba, e senti la bestia agitare mezza spira...."
+  },
+  {
+   "id": "craft.keeper.wolfstories_scale_old.moment_earthquake name",
+   "Label": "Crea: Nome del Terremoto",
+   "StartDescription": "Discerni una potenza di Squama.\n\n[Storie di Lupo con <sprite name=scale> da Custode, più Vecchio Momento, crea Nome del Terremoto.]",
+   "Desc": "Pronuncia mezza sillaba, e senti la bestia agitare mezza spira...."
+  },
+  {
+   "id": "craft.keeper.inks.containment_scale_relic.living_houndsgall",
+   "Label": "Crea: Houndsgall",
+   "StartDescription": "Certi… sottoprodotti… di Reliquia possono essere riadattati per distillare un inchiostro di Squama.\n\n[Inchiostri di Contenimento con <sprite name=scale> da Custode, più Reliquia Vivente, crea Houndsgall.]",
+   "Desc": "Vorrei non aver dovuto vedere esattamente cosa stavo facendo, lì…."
+  },
+  {
+   "id": "craft.keeper.horns.ivories_scale_relic.living_houndsgall",
+   "Label": "Crea: Houndsgall",
+   "StartDescription": "Certi… sottoprodotti… di Reliquia possono essere riadattati per distillare un inchiostro di Squama.\n\n[Corna & Avori con <sprite name=scale> da Custode, più Reliquia Vivente, crea Houndsgall.]",
+   "Desc": "Vorrei non aver dovuto vedere esattamente cosa stavo facendo, lì…."
+  },
+  {
+   "id": "craft.keeper.path.pilgrim_scale_relic.living_houndsgall",
+   "Label": "Crea: Houndsgall",
+   "StartDescription": "Certi… sottoprodotti… di Reliquia possono essere riadattati per distillare un inchiostro di Squama.\n\n[Cammino & Pellegrino con <sprite name=scale> da Custode, più Reliquia Vivente, crea Houndsgall.]",
+   "Desc": "Vorrei non aver dovuto vedere esattamente cosa stavo facendo, lì…."
+  },
+  {
+   "id": "craft.keeper.pentiments.precursors_scale_relic.living_houndsgall",
+   "Label": "Crea: Houndsgall",
+   "StartDescription": "Certi… sottoprodotti… di Reliquia possono essere riadattati per distillare un inchiostro di Squama.\n\n[Pentimenti & Precursori con <sprite name=scale> da Custode, più Reliquia Vivente, crea Houndsgall.]",
+   "Desc": "Vorrei non aver dovuto vedere esattamente cosa stavo facendo, lì…."
+  },
+  {
+   "id": "craft.keeper.serpents.venoms_scale_perinculate_serpent-milk",
+   "Label": "Crea: Latte di Serpente",
+   "StartDescription": "Arricchisci l’inchiostro fino a un fluido vibrante di potere di Lama.\n\n[Serpenti & Veleni con <sprite name=scale> da Custode, più Perinculate, crea Latte di Serpente.]",
+   "Desc": "Nessun Archivista di Hush House è mai morto durante la preparazione del latte di serpente. Per fortuna, era vero ieri, ed è ancora vero oggi."
+  },
+  {
+   "id": "craft.keeper.strings.songs_sky_mazarine.fife_wind-in-waiting",
+   "Label": "Crea: Vento in Attesa",
+   "StartDescription": "Assicurati la promessa di un vento dal Cielo.\n\n[Corde & Canti con <sprite name=sky> da Custode, più Piffero di Mazarine, crea Vento in Attesa.]",
+   "Desc": "Un ultimo strillo di piffero, e il vento tace."
+  },
+  {
+   "id": "craft.keeper.skystories_sky_mazarine.fife_wind-in-waiting",
+   "Label": "Crea: Vento in Attesa",
+   "StartDescription": "Assicurati la promessa di un vento dal Cielo.\n\n[Storie di Cielo con <sprite name=sky> da Custode, più Piffero di Mazarine, crea Vento in Attesa.]",
+   "Desc": "Un ultimo strillo di piffero, e il vento tace."
+  },
+  {
+   "id": "craft.keeper.sacrasolisinvicti_sky_mazarine.fife_wind-in-waiting",
+   "Label": "Crea: Vento in Attesa",
+   "StartDescription": "Assicurati la promessa di un vento dal Cielo.\n\n[Sacra Solis Invicti con <sprite name=sky> da Custode, più Piffero di Mazarine, crea Vento in Attesa.]",
+   "Desc": "Un ultimo strillo di piffero, e il vento tace."
+  },
+  {
+   "id": "craft.keeper.furs.feathers_sky_mazarine.fife_wind-in-waiting",
+   "Label": "Crea: Vento in Attesa",
+   "StartDescription": "Assicurati la promessa di un vento dal Cielo.\n\n[Pellicce & Piume con <sprite name=sky> da Custode, più Piffero di Mazarine, crea Vento in Attesa.]",
+   "Desc": "Un ultimo strillo di piffero, e il vento tace."
+  },
+  {
+   "id": "craft.keeper.lockworks.clockworks_sky_wire.silver_chronsichord",
+   "Label": "Crea: Chronsichord",
+   "StartDescription": "Usa una tecnica poco nota per creare un congegno di Battente a partire dall’argento.\n\n[Serrature & Orologi con <sprite name=sky> da Custode, più Filo (Argento), crea Chronsichord.]",
+   "Desc": "Quando un chronsichord viene completato, è completamente carico, per la prima e unica volta."
+  },
+  {
+   "id": "craft.keeper.ouranoscopy_sky_ascendant.harmony_didumos",
+   "Label": "Crea: Didumos",
+   "StartDescription": "Evoca un gelido influsso di Cielo.\n\n[Uranoscopia con <sprite name=sky> da Custode, più Armonia Ascendente, crea Didumos.]",
+   "Desc": "Il sogno di una stella non è visibile all’occhio umano; ma la sua presenza, una volta percepita, non potrebbe essere scambiata per nient’altro."
+  },
+  {
+   "id": "craft.keeper.sights.sensations_sky_ascendant.harmony_didumos",
+   "Label": "Crea: Didumos",
+   "StartDescription": "Evoca un gelido influsso di Cielo.\n\n[Visioni & Sensazioni con <sprite name=sky> da Custode, più Armonia Ascendente, crea Didumos.]",
+   "Desc": "Il sogno di una stella non è visibile all’occhio umano; ma la sua presenza, una volta percepita, non potrebbe essere scambiata per nient’altro."
+  },
+  {
+   "id": "craft.keeper.bells.brazieries_sky_ascendant.harmony_didumos",
+   "Label": "Crea: Didumos",
+   "StartDescription": "Evoca un gelido influsso di Cielo.\n\n[Campane & Bracieri con <sprite name=sky> da Custode, più Armonia Ascendente, crea Didumos.]",
+   "Desc": "Il sogno di una stella non è visibile all’occhio umano; ma la sua presenza, una volta percepita, non potrebbe essere scambiata per nient’altro."
+  },
+  {
+   "id": "craft.keeper.applebrighteuphonies_sky_ascendant.harmony_didumos",
+   "Label": "Crea: Didumos",
+   "StartDescription": "Evoca un gelido influsso di Cielo.\n\n[Eufonie di Applebright con <sprite name=sky> da Custode, più Armonia Ascendente, crea Didumos.]",
+   "Desc": "Il sogno di una stella non è visibile all’occhio umano; ma la sua presenza, una volta percepita, non potrebbe essere scambiata per nient’altro."
+  },
+  {
+   "id": "craft.keeper.sacralimiae_sky_ascendant.harmony_didumos",
+   "Label": "Crea: Didumos",
+   "StartDescription": "Evoca un gelido influsso di Cielo.\n\n[Sacra Limiae con <sprite name=sky> da Custode, più Armonia Ascendente, crea Didumos.]",
+   "Desc": "Il sogno di una stella non è visibile all’occhio umano; ma la sua presenza, una volta percepita, non potrebbe essere scambiata per nient’altro."
+  },
+  {
+   "id": "craft.keeper.inks.containment_winter_liquid.solomon_nillycant",
+   "Label": "Crea: Nillycant",
+   "StartDescription": "Chiarifica la preparazione nell’<i>encaustum terminale</i> Nillycant.\n\n[Inchiostri di Contenimento con <sprite name=winter> da Custode, più Preparazione di Solomon, crea Nillycant.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.sights.sensations_winter_liquid.solomon_nillycant",
+   "Label": "Crea: Nillycant",
+   "StartDescription": "Chiarifica la preparazione nell’<i>encaustum terminale</i> Nillycant.\n\n[Visioni & Sensazioni con <sprite name=winter> da Custode, più Preparazione di Solomon, crea Nillycant.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.snowstories_winter_essential.periost_year-tally",
+   "Label": "Crea: Conteggio Annuale",
+   "StartDescription": "Attingi, con grande cautela, a un antico privilegio della Casa per manifestare l’Inverno.\n\n[Storie di Neve con <sprite name=winter> da Custode, più Periostio Essenziale, crea Conteggio Annuale.]",
+   "Desc": "Usalo con cautela. La Madrugad, per ragioni sue, tollera la casa. Non mettiamo alla prova la sua tolleranza."
+  },
+  {
+   "id": "craft.keeper.raggedcrossroads_winter_essential.periost_year-tally",
+   "Label": "Crea: Conteggio Annuale",
+   "StartDescription": "Attingi, con grande cautela, a un antico privilegio della Casa per manifestare l’Inverno.\n\n[Crocevia Logoro con <sprite name=winter> da Custode, più Periostio Essenziale, crea Conteggio Annuale.]",
+   "Desc": "Usalo con cautela. La Madrugad, per ragioni sue, tollera la casa. Non mettiamo alla prova la sua tolleranza."
+  },
+  {
+   "id": "craft.keeper.rhyme.remembrance_winter_essential.periost_year-tally",
+   "Label": "Crea: Conteggio Annuale",
+   "StartDescription": "Attingi, con grande cautela, a un antico privilegio della Casa per manifestare l’Inverno.\n\n[Rima & Rimembranza con <sprite name=winter> da Custode, più Periostio Essenziale, crea Conteggio Annuale.]",
+   "Desc": "Usalo con cautela. La Madrugad, per ragioni sue, tollera la casa. Non mettiamo alla prova la sua tolleranza."
+  },
+  {
+   "id": "craft.keeper.ouranoscopy_moon_asimel_didumos",
+   "Label": "Crea: Didumos",
+   "StartDescription": "Traccia i sigilli d’inchiostro lunare che porteranno sulla terra il gelido sogno di una stella.\n\n[Uranoscopia con <sprite name=moon> da Custode, più Asimel, crea Didumos.]",
+   "Desc": "Il sogno di una stella non è visibile all’occhio umano; ma la sua presenza, una volta percepita, non potrebbe essere scambiata per nient’altro."
+  },
+  {
+   "id": "craft.keeper.putrefactions.calcinations_winter_essential.periost_year-tally",
+   "Label": "Crea: Conteggio Annuale",
+   "StartDescription": "Attingi, con grande cautela, a un antico privilegio della Casa per manifestare l’Inverno.\n\n[Putrefazioni & Calcinazioni con <sprite name=winter> da Custode, più Periostio Essenziale, crea Conteggio Annuale.]",
+   "Desc": "Usalo con cautela. La Madrugad, per ragioni sue, tollera la casa. Non mettiamo alla prova la sua tolleranza."
+  },
+  {
+   "id": "craft.keeper.raggedcrossroads_winter_toxin.glassfinger_nillycant",
+   "Label": "Crea: Nillycant",
+   "StartDescription": "Ammorbidisci la tossina nell’<i>encaustum terminale</i> Nillycant.\n\n[Crocevia Logoro con <sprite name=winter> da Custode, più Tossina Ditovetro, crea Nillycant.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.stitching.binding_winter_fabric_wyrd-weft",
+   "Label": "Crea: Wyrd-Weft",
+   "StartDescription": "Attira l’Inverno in una trama di piccoli destini.\n\n[Cucitura & Rilegatura con <sprite name=winter> da Custode, più tessuto, crea Wyrd-Weft.]",
+   "Desc": "Ogni filo un futuro, e ogni altro filo un passato."
+  },
+  {
+   "id": "craft.keeper.weaving.knotworking_winter_fabric_wyrd-weft",
+   "Label": "Crea: Wyrd-Weft",
+   "StartDescription": "Attira l’Inverno in una trama di piccoli destini.\n\n[Tessitura & Annodatura con <sprite name=winter> da Custode, più tessuto, crea Wyrd-Weft.]",
+   "Desc": "Ogni filo un futuro, e ogni altro filo un passato."
+  },
+  {
+   "id": "craft.keeper.glaziery.lightsmithing_lantern_essence.xanthotic_uzult",
+   "Label": "Crea: Uzult",
+   "StartDescription": "Rischiara l’essenza nell’<i>encaustum terminale</i> Uzult.\n\n[Vetreria & Lucefabbro con <sprite name=lantern> da Custode, più Essenza Xantotica, crea Uzult.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.transformations.liberations_forge_salts.bitterblack_iotic essence",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Trasforma questi sali in un’essenza ramata del potere della Forgia.\n\n[Trasformazioni & Liberazioni con <sprite name=forge> da Custode, più Sali Amaronero, crea Essenza Iotica.]",
+   "Desc": "Rosso come il tramonto…."
+  },
+  {
+   "id": "craft.keeper.meniscatereflections_forge_salts.bitterblack_iotic essence",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Trasforma questi sali in un’essenza ramata del potere della Forgia.\n\n[Riflessi Meniscati con <sprite name=forge> da Custode, più Sali Amaronero, crea Essenza Iotica.]",
+   "Desc": "Rosso come il tramonto…."
+  },
+  {
+   "id": "craft.keeper.disciplines.thehammer_forge_salts.bitterblack_iotic essence",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Trasforma questi sali in un’essenza ramata del potere della Forgia.\n\n[Discipline del Martello con <sprite name=forge> da Custode, più Sali Amaronero, crea Essenza Iotica.]",
+   "Desc": "Rosso come il tramonto…."
+  },
+  {
+   "id": "craft.keeper.purifications.exaltations_lantern_salts.bitterblack_xanthotic essence",
+   "Label": "Crea: Essenza Xantotica",
+   "StartDescription": "Esalta questi sali in un’essenza dorata del potere della Lanterna.\n\n[Purificazioni & Esaltazioni con <sprite name=lantern> da Custode, più Sali Amaronero, crea Essenza Xantotica.]",
+   "Desc": "Dorato come mezzogiorno…."
+  },
+  {
+   "id": "craft.keeper.transformations.liberations_forge_essence.xanthotic_iotic essence",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Trasforma questo in un’essenza ramata del potere della Forgia.\n\n[Trasformazioni & Liberazioni con <sprite name=forge> da Custode, più Essenza Xantotica, crea Essenza Iotica.]",
+   "Desc": "Rosso come il tramonto…."
+  },
+  {
+   "id": "craft.keeper.meniscatereflections_forge_essence.xanthotic_iotic essence",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Trasforma questo in un’essenza ramata del potere della Forgia.\n\n[Riflessi Meniscati con <sprite name=forge> da Custode, più Essenza Xantotica, crea Essenza Iotica.]",
+   "Desc": "Rosso come il tramonto…."
+  },
+  {
+   "id": "craft.keeper.disciplines.thehammer_forge_essence.xanthotic_iotic essence",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Trasforma questo in un’essenza ramata del potere della Forgia.\n\n[Discipline del Martello con <sprite name=forge> da Custode, più Essenza Xantotica, crea Essenza Iotica.]",
+   "Desc": "Rosso come il tramonto…."
+  },
+  {
+   "id": "craft.keeper.purifications.exaltations_lantern_essence.iotic_xanthotic essence",
+   "Label": "Crea: Essenza Xantotica",
+   "StartDescription": "Purifica questo in un’essenza dorata del potere della Lanterna.\n\n[Purificazioni & Esaltazioni con <sprite name=lantern> da Custode, più Essenza Iotica, crea Essenza Xantotica.]",
+   "Desc": "Dorato come mezzogiorno…."
+  },
+  {
+   "id": "craft.keeper.glassblowing.vesselcrafting_sky_ichor.vitreous_ashartine",
+   "Label": "Crea: Ashartine",
+   "StartDescription": "Prepara il brillante inchiostro ashartine dall’icore.\n\n[Vetro Soffiato & Vasellame con <sprite name=sky> da Custode, più Icore Vitreo, crea Ashartine.]",
+   "Desc": "Finché i vapori della lavorazione dell’ashartine aleggiano nell’aria, è molto difficile pronunciare ad alta voce una bugia…."
+  },
+  {
+   "id": "craft.keeper.glassblowing.vesselcrafting_lantern_ichor.vitreous_ashartine",
+   "Label": "Crea: Ashartine",
+   "StartDescription": "Prepara il brillante inchiostro ashartine dall’icore.\n\n[Vetro Soffiato & Vasellame con <sprite name=lantern> da Custode, più Icore Vitreo, crea Ashartine.]",
+   "Desc": "Finché i vapori della lavorazione dell’ashartine aleggiano nell’aria, è molto difficile pronunciare ad alta voce una bugia…."
+  },
+  {
+   "id": "craft.keeper.solutions.separations_moth_honey.cuckoo_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Soluzioni & Separazioni con <sprite name=moth> da Custode, più Miele di Cuculo, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.edictsliminal_moth_honey.cuckoo_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Editti Liminali con <sprite name=moth> da Custode, più Miele di Cuculo, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.sacralimiae_moth_honey.cuckoo_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Sacra Limiae con <sprite name=moth> da Custode, più Miele di Cuculo, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.rites.theroots_moth_honey.cuckoo_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Riti delle Radici con <sprite name=moth> da Custode, più Miele di Cuculo, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.insects.nectars_moon_honey.cuckoo_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Insetti & Nettari con <sprite name=moon> da Custode, più Miele di Cuculo, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.resurgences.emergences_moth_honey.cuckoo_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Risorgenze & Emersioni con <sprite name=moth> da Custode, più Miele di Cuculo, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.transformations.liberations_moth_honey.cuckoo_skinshuck mead",
+   "Label": "Crea: Idromele Skinshuck",
+   "StartDescription": "Prepara un liquore di Falena con il miele.\n\n[Trasformazioni & Liberazioni con <sprite name=moth> da Custode, più Miele di Cuculo, crea Idromele Skinshuck.]",
+   "Desc": "«Un sorso per dormire, due per svegliarsi, poiché cosa sono le palpebre se non la pelle degli occhi?»."
+  },
+  {
+   "id": "craft.keeper.glaziery.lightsmithing_knock_gervinite_chronsichord",
+   "Label": "Crea: Chronsichord",
+   "StartDescription": "Poni la gervinite al cuore di un congegno di Battente.\n\n[Vetreria & Lucefabbro con <sprite name=knock> da Custode, più Gervinite, crea Chronsichord.]",
+   "Desc": "Quando un chronsichord viene completato, è completamente carico, per la prima e unica volta."
+  },
+  {
+   "id": "craft.keeper.anbary.lapidary_lantern_essence.xanthotic_uzult",
+   "Label": "Crea: Uzult",
+   "StartDescription": "Purifica questo in un’essenza dorata del potere della Lanterna.\n\n[Ambreria & Lapidario con <sprite name=lantern> da Custode, più Essenza Xantotica, crea Uzult.]",
+   "Desc": "Dorato come mezzogiorno…."
+  },
+  {
+   "id": "craft.keeper.inks.power_rose_ichor.auroral_porphyrine",
+   "Label": "Crea: Porfirina",
+   "StartDescription": "Intensifica l’icore fino a farne l’<i>encaustum terminale</i> Porfirina.\n\n[Inchiostri di Potere con <sprite name=rose> da Custode, più Icore Aurorale, crea Porfirina.]",
+   "Desc": "[Questo è un <i>encaustum terminale</i>: uno dei Grandi Inchiostri. Usalo con il tuo diario per registrare una Storia e dare compimento alla ragione del tuo arrivo a Hush House… se lo desideri.]."
+  },
+  {
+   "id": "craft.keeper.ouranoscopy_sky_essential.periost_year-tally",
+   "Label": "Crea: Conteggio Annuale",
+   "StartDescription": "Ricava un rimedio contro l’età dalla traccia d’influsso celeste che stria questi resti.\n\n[Uranoscopia con <sprite name=sky> da Custode, più Periostio Essenziale, crea Conteggio Annuale.]",
+   "Desc": "Usalo con cautela. La Madrugad, per ragioni sue, tollera la casa. Non mettiamo alla prova la sua tolleranza."
+  },
+  {
+   "id": "craft.keeper.stonestories_nectar_essential.periost_sacrament malachite",
+   "Label": "Crea: Sacramento Malachite",
+   "StartDescription": "Da queste verdi e oscure memorie della terra, portate nelle ossa, da questi frammenti d’anima e sostanza, distilla il sacramento che la terra potrebbe reclamare di nuovo come sangue…\n\n[Storie di Pietra con <sprite name=nectar> da Custode, più Periostio Essenziale, crea Sacramento Malachite.]",
+   "Desc": "Nel nome delle radici, del sangue, del ronzio interiore…."
+  },
+  {
+   "id": "craft.keeper.insects.nectars_moth_larva.chimeric_perilous imago",
+   "Label": "Crea: Imago Pericolosa",
+   "StartDescription": "Persuadi la larva a svilupparsi in una bestia di Falena maggiore.\n\n[Insetti & Nettari con <sprite name=moth> da Custode, più Larva Chimerica, crea Imago Pericolosa.]",
+   "Desc": "Un’ala bagnata, poi l’altra, e poi le scuote per asciugarle; e da quel momento, andrà sempre tenuta d’occhio."
+  }
+ ]
+}

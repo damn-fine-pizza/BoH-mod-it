@@ -1,0 +1,1124 @@
+{"recipes": [
+ 
+{
+  "id":"talk.fisherman.intro",
+  "label": "Dissiper les Soupçons",
+  "actionid":"talk",
+  "reqs":{"assistance.fisherman.intro":1,"introduction":1,"sceptical":1},
+  "startdescription": "'Z'êtes quelqu'un qui parle pour lui?'\n\n(Bien sûr. Depuis 1930 et la Restauration, les habitants se méfient de plus en plus des étrangers, se demandant si ils parlent ou agissent pour une faction. Mais il y a quelqu'un à Brancrug que je connais, et qui peut prouver que je ne parle qu'en mon nom…)",
+  "desc":"'J'l'emmene près des falaises, alors.' [Le gentleman n'est plus sceptique. Utilisez-le pour déverrouiller Brancrug Village.]",
+  "warmup":"10",
+  "mutations":[{"mutate":"sceptical","filter":"assistance","level":-1,"additive":true}],
+  "craftable":true
+},
+{
+  "id":"talk.fisherman.intro.done.hint",
+  "label": "Les Soupçons sont déjà Apaisés",
+  "actionid":"talk",
+  "reqs":{"assistance.fisherman.intro":1,"sceptical":-1},
+  "startdescription": "'Ar?' [Le gentleman souhaite que vous compreniez qu'il a assez parlé et qu'il aimerait se mettre à l'abri de la pluie maintenant, s'il vous plaît, merci. Utilisez-le pour débloquer le chemin menant aux falaises.]",
+  "hintonly":true
+},
+
+{
+  "id":"talk.fisherman.intro.hint",
+  "label": "Dissiper les Soupçons?",
+  "actionid":"talk",
+  "reqs":{"assistance.fisherman.intro":1,"sceptical":1,"introduction":-1},
+  "startdescription": "'Approche pas plus! Ques'tu viens faire ici?'",
+  "hintonly":true
+},
+
+
+
+{
+  "id":"talk.attempt.night",
+  "label": "Une Heure Inopportune",
+  "actionid":"talk",
+  "extantreqs":{"sleepytime":1},
+  "reqs":{"assistance":1,"ability":-1,"reluctant":-1},
+  "startdescription": "Il est tard. Une autre heure? [On ne peut pas parler aux assistants la nuit. Utilisez-les rapidement ou laissez-les rentrer chez eux]",
+  "hintonly":true
+},
+{
+  "id":"talk.attempt.night.ability",
+  "label": "Une Heure Inopportune",
+  "actionid":"talk",
+  "extantreqs":{"sleepytime":1},
+  "reqs":{"assistance":1,"ability":1,"reluctant":-1},
+  "startdescription": "Un énorme bâillement… [On ne peut pas parler aux assistants la nuit. Utilisez-les rapidement ou laissez-les rentrer chez eux]",
+  "hintonly":true
+},
+{
+  "id": "collaborate.xhea",
+  "label": "Collaborer: Health",
+  "startdescription": "Je suis prêt à prêter mes bras. [Stimule Cœur, Écaille, Nectar]",
+  "desc":"Nous travaillerons côte à côte.",
+  "extantreqs":{"sleepytime":-1},
+  "reqs": {"assistance":1,"ability":1,".hea":1,
+  "exalted.collaboration":-1
+  },
+  "aspects": {
+  "fatiguing.ability": 1
+  },
+  "mutations": [
+  {
+    "filter": "assistance",
+    "mutate": "heart",
+    "level": "boost.heart",
+    "additive":true
+  },
+  {
+    "filter": "assistance",
+    "mutate": "scale",
+    "level": "boost.scale",
+    "additive":true
+  },
+  {
+    "filter": "assistance",
+    "mutate": "nectar",
+    "level": "boost.nectar",
+    "additive":true
+  },
+  {"filter":"assistance","mutate":"exalted.collaboration","level":1}
+  ],"actionid":"talk","warmup":30,"craftable":true
+  },
+{
+"id": "collaborate.xmet",
+"label": "Collaborer: Mettle",
+"startdescription": "Inspiration et détermination. [Stimule Forge et Lame]",
+"desc":"Notre chemin est réparé.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1,".met":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "forge",
+  "level": "boost.forge",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "edge",
+  "level": "boost.edge",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+{
+"id": "collaborate.xcho",
+"label": "Collaborer: Chor",
+"startdescription": "Tout devient plus facile avec une chanson. [Stimule Cœur et Graal]",
+"desc":"Mon assistant et moi sommes tous les deux un peu plus joyeux.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1,".cho":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "heart",
+  "level": "boost.heart",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "grail",
+  "level": "boost.grail",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+{
+"id": "collaborate.xere",
+"label": "Collaborer: Ereb",
+"startdescription": "Ma fierté trouvera un écho dans la leur. [Stimule Graal et Lame]",
+"desc":"Avec impatience, nous anticipons notre travail.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1, ".ere":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "grail",
+  "level": "boost.grail",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "edge",
+  "level": "boost.edge",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+
+{
+"id": "collaborate.xfet",
+"label": "Collaborer: Fet",
+"startdescription": "Peut-être que nous avons partagé un rêve. [Stimule Rose et Phalène]",
+"desc":"Mon assistant et moi avons une compréhension tacite.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1,".fet":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "rose",
+  "level": "boost.rose",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "moth",
+  "level": "boost.moth",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+
+{
+"id": "collaborate.xpho",
+"label": "Collaborer: Phost",
+"startdescription": "Ensemble, nous veillerons. [Stimule Lanterne et Ciel]",
+"desc":"Mon assistant et moi sommes vigilants.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1,".pho":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "lantern",
+  "level": "boost.lantern",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "sky",
+  "level": "boost.sky",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+{
+"id": "collaborate.xsha",
+"label": "Collaborer: Shapt",
+"startdescription": "Pédagogie ou séduction? [Stimule Heurtoir et Forge]",
+"desc":"Mon assistant et moi entamons facilement la conversation.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1,".sha":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "knock",
+  "level": "boost.knock",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "forge",
+  "level": "boost.forge",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+{
+"id": "collaborate.xtri",
+"label": "Collaborer: Trist",
+"startdescription": "Les chagrins secrets peuvent rejoindre nos forces. [Stimule Phalène et Lune]",
+"desc":"Qu'est-ce qui vient? Aucun de nous ne le sait encore, mais nous le ferons.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1,".tri":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "moth",
+  "level": "boost.moth",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "moon",
+  "level": "boost.moon",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+{
+"id": "collaborate.xwis",
+"label": "Collaborer: Wist",
+"startdescription": "Nous surveillerons ce qui nous attend. [Stimule Hiver et Lanterne]",
+"desc":"Mon assistant et moi serons prudents.",
+"extantreqs":{"sleepytime":-1},
+"reqs": {"assistance":1,"ability":1,".wis":1,
+"exalted.collaboration":-1
+},
+"aspects": {
+"fatiguing.ability": 1
+},
+"mutations": [
+{
+  "filter": "assistance",
+  "mutate": "winter",
+  "level": "boost.winter",
+  "additive":true
+},
+{
+  "filter": "assistance",
+  "mutate": "lantern",
+  "level": "boost.lantern",
+  "additive":true
+},
+{"filter":"assistance","mutate":"exalted.collaboration","level":1}
+],"actionid":"talk","warmup":30,"craftable":true
+},
+
+{
+  "id": "exalt.weather",
+  "actionid":"talk","warmup":30,"craftable":true,
+  "label": "Parlons de la météo",
+  "startdescription": "Plus utile que ce à quoi on pourrait s'attendre. Surtout en Grande-Bretagne. [Les influences d'un ciel changeant peuvent renforcer les capacités d'un assistant pour le reste de la journée]",
+  "desc":"Profitons du beau temps tant qu'il dure.",
+  "reqs": {"assistance":1,"weather":1,"exalted.memory":-1},
+  "extantreqs":{"sleepytime":-1},
+ "mutations":[
+  {"filter":"assistance","mutate":"edge","level":"boost.edge","additive":true},
+  {"filter":"assistance","mutate":"forge","level":"boost.forge","additive":true},
+{"filter":"assistance","mutate":"grail","level":"boost.grail","additive":true},
+{"filter":"assistance","mutate":"heart","level":"boost.heart","additive":true},
+{"filter":"assistance","mutate":"knock","level":"boost.knock","additive":true},
+{"filter":"assistance","mutate":"lantern","level":"boost.lantern","additive":true},
+{"filter":"assistance","mutate":"moon","level":"boost.moon","additive":true},
+{"filter":"assistance","mutate":"moth","level":"boost.moth","additive":true},
+{"filter":"assistance","mutate":"nectar","level":"boost.nectar","additive":true},
+{"filter":"assistance","mutate":"rose","level":"boost.rose","additive":true},
+{"filter":"assistance","mutate":"scale","level":"boost.scale","additive":true},
+{"filter":"assistance","mutate":"sky","level":"boost.sky","additive":true},
+{"filter":"assistance","mutate":"winter","level":"boost.winter","additive":true},
+  {"filter":"assistance","mutate":"exalted.memory","level":1}
+],
+"aspects":{"fatiguing.memory":1}
+  
+},
+
+
+
+
+
+{
+  "id": "exalt.omen",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Un auspice opportun",
+  "startdescription": "Je peux leur offrir un présage qui pourra leur fournir des conseils utiles. [Cela augmentera leurs Aspects]",
+  "desc":"'Avant la Lune, le Crépuscule ; avant le Crépuscule, l'Aube ; avant l'Aube, la Pierre.' [Cela a amélioré leurs Aspects de manière appropriée]",
+  "reqs": {"assistance.nun":1,"omen":1,"exalted.omen":-1},
+  "comments":"Si jamais des non-religieuses acceptent les présages, cela devra être peaufiné.",
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.memory":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.omen","level":1}
+   
+  ]
+},
+
+{"id": "exalt.omen.already",
+"label": "Un auspice opportun?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut en bénéficier qu'une seule fois par jour. Vous pourrez peut-être fournir un présage plus puissant une autre fois…]",
+"reqs": {"assistance":1,"omen":1,"exalted.omen":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+
+
+
+
+{
+  "id": "exalt.memory",
+  "actionid":"talk","warmup":30,"craftable":true,
+  "label": "Exaltez par votre Mémoire",
+  "startdescription": "Je peux discuter de ce que j'ai en Mémoire avec mon assistant. [Cela utilisera la Mémoire, mais augmentera les capacités de l'assistant pour le reste de la journée]",
+  "desc":"La Mémoire ne durent pas aussi longtemps en dehors des livres. Mais ça a fait une différence pour la journée.",
+  "reqs": {"assistance":1,"memory":1,"exalted.memory":-1},
+  "extantreqs":{"sleepytime":-1},
+ "mutations":[
+  {"filter":"assistance","mutate":"edge","level":"boost.edge","additive":true},
+  {"filter":"assistance","mutate":"forge","level":"boost.forge","additive":true},
+{"filter":"assistance","mutate":"grail","level":"boost.grail","additive":true},
+{"filter":"assistance","mutate":"heart","level":"boost.heart","additive":true},
+{"filter":"assistance","mutate":"knock","level":"boost.knock","additive":true},
+{"filter":"assistance","mutate":"lantern","level":"boost.lantern","additive":true},
+{"filter":"assistance","mutate":"moon","level":"boost.moon","additive":true},
+{"filter":"assistance","mutate":"moth","level":"boost.moth","additive":true},
+{"filter":"assistance","mutate":"nectar","level":"boost.nectar","additive":true},
+{"filter":"assistance","mutate":"rose","level":"boost.rose","additive":true},
+{"filter":"assistance","mutate":"scale","level":"boost.scale","additive":true},
+{"filter":"assistance","mutate":"sky","level":"boost.sky","additive":true},
+{"filter":"assistance","mutate":"winter","level":"boost.winter","additive":true},
+  {"filter":"assistance","mutate":"exalted.memory","level":1}
+],
+"aspects":{"fatiguing.memory":1}
+  
+},
+
+{"id": "exalt.memory.already",
+"label": "Exaltation: Trop de Souvenirs?",
+"actionid": "talk",
+"startdescription": "[Vous ne pouvez utiliser votre Mémoire pour exalter un assistant qu'une fois par jour]",
+"reqs": {"assistance":1,"memory":1,"exalted.memory":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1},
+
+
+{
+  "id": "exalt.fabric",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Les fils convergent",
+  "startdescription": "Cet assistant peut être capable d'utiliser des tissus et d'autres objets tissés. [Cela augmentera leurs Aspects. Ils garderont ce qui pourrait rester.]",
+  "desc":"Laissez-le encombrer <i>leurs</i> étagères. [Cela a amélioré leurs Aspects de manière appropriée]",
+  "reqs": {"assistance":1,"fabric":1,"exalted.fabric":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.fabric","level":1}
+   
+  ]
+},
+
+{"id": "exalt.fabric.already",
+"label": "Les fils convergent?",
+"actionid": "talk",
+"startdescription": "Chaque assistant ne peut en bénéficier que d'un par jour. Vous pourrez peut-être trouver ou fabriquer plus de tissus une autre fois…",
+"reqs": {"assistance":1,"fabric":1,"exalted.fabric":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+
+{
+  "id": "exalt.device",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Proposer un appareil",
+  "startdescription": "Je peux prêter quelque chose à mon assistant pour l'aider, augmentant ainsi ses capacités. [Il s'agit d'un Appareil, d'un Outil à usage unique, vous ne le récupérerez donc pas]",
+  "desc":"[L'appareil a amélioré ses Aspects de manière appropriée]",
+  "reqs": {"assistance":1,"device":1,"exalted.tool":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+  {"filter":"assistance","mutate":"edge","level":"boost.edge","additive":true},
+  {"filter":"assistance","mutate":"forge","level":"boost.forge","additive":true},
+{"filter":"assistance","mutate":"grail","level":"boost.grail","additive":true},
+{"filter":"assistance","mutate":"heart","level":"boost.heart","additive":true},
+{"filter":"assistance","mutate":"knock","level":"boost.knock","additive":true},
+{"filter":"assistance","mutate":"lantern","level":"boost.lantern","additive":true},
+{"filter":"assistance","mutate":"moon","level":"boost.moon","additive":true},
+{"filter":"assistance","mutate":"moth","level":"boost.moth","additive":true},
+{"filter":"assistance","mutate":"nectar","level":"boost.nectar","additive":true},
+{"filter":"assistance","mutate":"rose","level":"boost.rose","additive":true},
+{"filter":"assistance","mutate":"scale","level":"boost.scale","additive":true},
+{"filter":"assistance","mutate":"sky","level":"boost.sky","additive":true},
+{"filter":"assistance","mutate":"winter","level":"boost.winter","additive":true},
+    {"filter":"assistance","mutate":"exalted.tool","level":1}
+  ]
+    
+  },
+
+  
+
+{
+  "id": "exalt.tool",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Proposer un Outil",
+  "startdescription": "Je peux prêter quelque chose à mon assistant pour l'aider, augmentant ainsi ses capacités. [Vous pourrez toujours utiliser l'Outil]",
+  "desc":"[L'outil a amélioré leurs Aspects de manière appropriée]",
+  "reqs": {"assistance":1,"tool":1,"exalted.tool":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+  {"filter":"assistance","mutate":"edge","level":"boost.edge","additive":true},
+  {"filter":"assistance","mutate":"forge","level":"boost.forge","additive":true},
+{"filter":"assistance","mutate":"grail","level":"boost.grail","additive":true},
+{"filter":"assistance","mutate":"heart","level":"boost.heart","additive":true},
+{"filter":"assistance","mutate":"knock","level":"boost.knock","additive":true},
+{"filter":"assistance","mutate":"lantern","level":"boost.lantern","additive":true},
+{"filter":"assistance","mutate":"moon","level":"boost.moon","additive":true},
+{"filter":"assistance","mutate":"moth","level":"boost.moth","additive":true},
+{"filter":"assistance","mutate":"nectar","level":"boost.nectar","additive":true},
+{"filter":"assistance","mutate":"rose","level":"boost.rose","additive":true},
+{"filter":"assistance","mutate":"scale","level":"boost.scale","additive":true},
+{"filter":"assistance","mutate":"sky","level":"boost.sky","additive":true},
+{"filter":"assistance","mutate":"winter","level":"boost.winter","additive":true},
+    {"filter":"assistance","mutate":"exalted.tool","level":1}
+  ]
+    
+  },
+
+   {"id": "exalt.tool.already",
+"label": "Exalter: une chose à la fois?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut utiliser qu'un seul outil par jour]",
+"reqs": {"assistance":1,"tool":1,"exalted.tool":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1},
+  
+
+{
+  "id": "exalt.sustenance",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Offrez quelque chose à Manger",
+  "startdescription": "Je peux offrir à manger à mon assistant. Cela augmentera leurs Aspects. C'est aussi juste amical.",
+  "desc":"[La nourriture a amélioré leurs Aspects de manière appropriée]",
+  "reqs": {"assistance":1,"sustenance":1,"exalted.sustenance":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.sustenance","level":1}
+  ]
+},
+{"id": "exalt.collaboration.already",
+"label": "Collaboration?",
+"actionid": "talk",
+"startdescription": "Nous collaborons déjà. [Chaque assistant ne peut bénéficier que d'une seule Carte d'Âme par jour. Il existe des moyens de créer des Cartes d'Âme plus fortes…]",
+"reqs": {"assistance":1,"ability":1,"exalted.collaboration":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+{"id": "exalt.sustenance.already",
+"label": "Proposer de la Nourriture: un excès?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut bénéficier de Nourriture qu'une fois par jour]",
+"reqs": {"assistance":1,"sustenance":1,"exalted.sustenance":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+{
+  "id": "exalt.beverage",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Un Bon Verre",
+  "startdescription": "Je peux offrir quelque chose à boire à mon assistant. [Cela augmentera leurs Aspects. Ils seront également heureux du rafraîchissement.]",
+  "desc":"Descendre au Grushans (jusqu'à la lie en cornique) . [Cela a amélioré leurs Aspects de manière appropriée]",
+  "reqs": {"assistance":1,"beverage":1,"exalted.beverage":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.beverage","level":1}
+   
+  ]
+},
+{"id": "exalt.beverage.already",
+"label": "Un bon verre?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut en bénéficier que d'un seul par jour. Vous pourrez peut-être trouver ou fabriquer des boissons plus puissantes une autre fois…]",
+"reqs": {"assistance":1,"beverage":1,"exalted.beverage":1},
+"extantreqs":{"sleepytime":-1},
+"warmup":1,"craftable":true
+},
+
+{
+  "id": "exalt.candle",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Une Lumière pour les Endroits Sombres",
+  "startdescription": "Je peux offrir une bougie à mon assistant. [Cela augmentera leurs Aspects. Ils garderont les souches de bougies qui pourraient rester.]",
+  "desc":"'Chaque bougie a son ombre.' [Cela a amélioré leurs Aspects de manière appropriée]",
+  "reqs": {"assistance":1,"candle":1,"exalted.candle":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.candle","level":1}
+   
+  ]
+},
+
+{"id": "exalt.candle.already",
+"label": "Une Lumière pour les Endroits Sombres?",
+"actionid": "talk",
+"startdescription": "Chaque assistant ne peut en bénéficier que d'une par jour. Vous pourrez peut-être trouver ou fabriquer des bougies plus puissantes une autre fois…",
+"reqs": {"assistance":1,"candle":1,"exalted.candle":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+
+
+
+{
+  "id": "exalt.flower",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "'Pour mettre tes lys pâles et perdus hors de mon esprit'",
+  "startdescription": "Les fleurs fanées peuvent être une source d’inspiration. [Cela augmentera leurs Aspects]",
+  "desc":"'J'ai pleuré pour une musique plus folle et pour un vin plus fort…' [Cela a amélioré leurs Aspects de manière appropriée]",
+  "reqs": {"assistance":1,"flower":1,"exalted.flower":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.flower","level":1}
+   
+  ]
+},
+
+{"id": "exalt.flower.already",
+"label": "'Pour mettre tes lys pâles et perdus hors de mon esprit'?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut en bénéficier que d'une seul par jour. Vous pourrez peut-être trouver des fleurs plus utiles une autre fois…]",
+"reqs": {"assistance":1,"flower":1,"exalted.flower":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+
+
+
+
+
+
+
+{
+  "id": "exalt.fuel",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Alimenter leurs Efforts",
+  "startdescription": "Je peux proposer à mon assistant du combustible pour l'éclairage ou pour le chauffage. [Cela augmentera leurs Aspects. Ils garderont tout le carburant qui pourrait rester.]",
+  "desc":"'Chaque flamme a son combustible.' [Cela a amélioré leurs aspects de manière appropriée]",
+  "comments":"L'ingénieur-assistant interdit à quiconque d’utiliser du bois comme combustible.",
+  "reqs": {"assistance.engineer":1,"fuel":1,"exalted.fuel":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.fuel","level":1}
+   
+  ]
+},
+
+{"id": "exalt.fuel.already",
+"label": "Fournitures Supplémentaires?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut en bénéficier que d'un seul par jour. Vous pourrez peut-être trouver ou fabriquer du carburant plus puissant une autre fois…]",
+"reqs": {"assistance":1,"fuel":1,"exalted.fuel":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+{
+  "id": "exalt.metal",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Fournitures Supplémentaires",
+  "startdescription": "Je peux proposer à mon assistant des métaux - banals ou exotiques. [Cela augmentera leurs Aspects. Ils garderont le métal qui reste.]",
+  "desc":"Laissez-le encombrer <i>leurs</i> étagères. [Cela a amélioré leurs aspects de manière appropriée]",
+  "reqs": {"assistance":1,"metal":1,"exalted.metal":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.metal","level":1}
+   
+  ]
+},
+
+{"id": "exalt.metal.already",
+"label": "Fournitures supplémentaires?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut en bénéficier que d'un par jour. Vous pourrez peut-être trouver ou fabriquer des métaux plus puissants une autre fois…]",
+"reqs": {"assistance":1,"metal":1,"exalted.metal":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+
+
+
+
+
+
+
+
+{
+  "id": "exalt.pigment",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+  "label": "Pigments Exotiques",
+  "startdescription": "Je peux leur offrir quelque chose pour égayer leur toile. (Cela augmentera les Aspects de l'assistant. Et puis plus d'art, c'est toujours bien.)",
+  "desc":"Intéressant… [Cela a permis d'améliorer leurs aspects de manière appropriée]",
+  "reqs": {"assistance":1,"pigment":1,"exalted.pigment":-1},
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.pigment","level":1}
+   
+  ]
+},
+
+{"id": "exalt.pigment.already",
+"label": "Pigments Exotiques?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut bénéficier que d'un seul pigment par jour. Vous pourrez peut-être trouver ou fabriquer des pigments plus puissants une autre fois…]",
+"reqs": {"assistance":1,"pigment":1,"exalted.pigment":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+{
+  "id": "exalt.wood",
+  "actionid":"talk",
+  "warmup":30,
+  "craftable":true,
+    "label": "Fournitures supplémentaires",
+  "startdescription": "Je peux offrir à mon assistant tout bois de construction approprié que j'ai sous la main. [Cela augmentera leurs Aspects. Ils garderont le bois restant]",
+  "desc":"Qu'il encombre <i>ses</i> étagères.(Cela a amélioré leurs aspects de manière appropriée.)",
+  "reqs": {"assistance":1,"wood":1,"exalted.wood":-1},
+  "comments":"This appears above the Fuel one so it supersedes it for Wood-users like Mr K.",
+  "extantreqs":{"sleepytime":-1},
+  "aspects":{"fatiguing.ingredients":1},
+  "mutations":[
+    {"filter":"assistance","mutate":"edge","level":"boost.edge",
+    "additive":true},
+    {"filter":"assistance","mutate":"forge","level":"boost.forge",
+    "additive":true},
+    {"filter":"assistance","mutate":"grail","level":"boost.grail",
+    "additive":true},
+    {"filter":"assistance","mutate":"heart","level":"boost.heart",
+    "additive":true},
+    {"filter":"assistance","mutate":"knock","level":"boost.knock",
+    "additive":true},
+    {"filter":"assistance","mutate":"lantern","level":"boost.lantern",
+    "additive":true},
+    {"filter":"assistance","mutate":"moon","level":"boost.moon",
+    "additive":true},
+    {"filter":"assistance","mutate":"moth","level":"boost.moth",
+    "additive":true},
+    {"filter":"assistance","mutate":"nectar","level":"boost.nectar",
+    "additive":true},
+    {"filter":"assistance","mutate":"rose","level":"boost.rose",
+    "additive":true},
+    {"filter":"assistance","mutate":"scale","level":"boost.scale",
+    "additive":true},
+    {"filter":"assistance","mutate":"sky","level":"boost.sky",
+    "additive":true},
+    {"filter":"assistance","mutate":"winter","level":"boost.winter",
+    "additive":true},
+    {"filter":"assistance","mutate":"exalted.wood","level":1}
+   
+  ]
+},
+
+{"id": "exalt.wood.already",
+"label": "Fournitures supplémentaires?",
+"actionid": "talk",
+"startdescription": "[Chaque assistant ne peut bénéficier de cet objet qu'une seule fois par jour]",
+"reqs": {"assistance":1,"wood":1,"exalted.wood":1},
+"extantreqs":{"sleepytime":-1},
+"craftable":true,"warmup":1
+},
+
+
+{
+  "id":"talk.assistance.rector",
+  "label": "S'entretenir avec le Révérend Timothy",
+  "actionid":"talk",
+  "warmup":45,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.rector":1,"reluctant":-1},
+  "startdescription": "Le Révérend Timothy est toujours, toujours heureux de discuter. [Ajoutez un Élément de l'Âme pour améliorer l'efficacité du Révérend Timothy pour la journée, ou simplement pour parler. Contrairement à certains assistants, Timothy peut utiliser des Bougies]",
+  "desc":"Je n'ai pas besoin d'écouter tout ce que dit le Révérend Timothy. Il ne s'attend même pas à ce que je le fasse. Mais je suis souvent heureux de le faire.",
+  "deckeffects":{"d.chat.scholar":1},
+  "craftable":true
+},
+{
+  "id":"talk.assistance.blacksmith",
+  "label": "Parler à Denzil",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.blacksmith":1,"reluctant":-1},
+  "startdescription": "Il peut même répondre. [Ajoutez quelque chose pour améliorer l'efficacité de Denzil pour la journée, ou parlez simplement. Contrairement à certains assistants, Denzil peut utiliser le métal]",
+  "desc":"Il fait bien des choses en silence, cet homme.",
+  "deckeffects":{"d.chat.denzil":1},
+  "craftable":true
+},
+{
+  "id":"talk.assistance.coffinmaker",
+  "label": "Parler à Mr. Kille",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.coffinmaker":1,"reluctant":-1},
+  "startdescription": "Mr. Kille, qui a de l'esprit et du ressort, n'hésite pas à s'arrêter pour bavarder. [Ajoutez quelque chose pour améliorer l'efficacité de Mr. Kille pour la journée, ou parlez simplement. Contrairement à certains assistants, Mr. Kille peut utiliser du Bois]",
+  "desc":"'Les morts ne racontent pas d'histoires. Qui les écouterait?'",
+  "deckeffects":{"d.chat.craftsman":1},
+  "craftable":true
+},
+{
+  "id":"talk.assistance.midwife",
+  "label": "Parler à Mme Kille",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.midwife":1,"reluctant":-1},
+  "startdescription": "Mme Kille a vu plus de choses dans le monde qu'elle ne le laisse entendre. Les conversations avec elle réservent parfois des surprises. [Ajoutez quelque chose pour améliorer l'efficacité de Mme Kille pour la journée, ou parlez simplement. Contrairement à certains assistants, Mme Kille peut utiliser le Tissu]",
+  "desc":"'There tis, and can't be no tizzer.' Mme Kille, comme le savent toutes les commères locales, est venue de France pour épouser Mr. Kille. Mais il n'y a plus guère de traces du Continent dans son accent.",
+  "deckeffects":{"d.chat.traveller":1},
+  "craftable":true
+},
+{
+  "id":"talk.assistance.painter",
+  "label": "Parler à un Artiste",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.painter":1,"reluctant":-1},
+  "startdescription": "Je pourrais encourager mon assistant, travailler avec lui, l'exalter pendant un certain temps. Ou je pourrais simplement écouter ce qu'il a à dire. [Ajoutez quelque chose pour améliorer l'efficacité de votre assistant pour la journée, ou parlez simplement.  Contrairement à la plupart des assistants, un Peintre peut utiliser des Pigments]",
+  "desc":"J'ai appris quelque chose - ou peut-être que je me suis simplement souvenu.",
+  "deckeffects":{"d.chat.generic":1},
+  "craftable":true
+},
+{
+  "id":"talk.assistance.engineer",
+  "label": "S'adresser à un Ingénieur",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.engineer":1,"reluctant":-1},
+  "startdescription": "Je pourrais encourager mon assistant, travailler avec lui, l'exalter pendant un certain temps. Ou je pourrais simplement écouter ce qu'il a à dire. [Ajoutez quelque chose pour améliorer l'efficacité de votre assistant pour la journée, ou simplement parlez.  Contrairement à certains assistants, un Ingénieur peut utiliser des Combustibles]",
+  "desc":"J'ai appris quelque chose - ou peut-être que je me suis simplement souvenu.",
+  "deckeffects":{"d.chat.generic":1},
+  "craftable":true
+},
+
+{
+  "id":"talk.assistance.nun",
+  "label": "Parler à une Nonne",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.nun":1,"reluctant":-1},
+  "startdescription": "Je pourrais encourager mon assistant, travailler avec lui, l'exalter pendant un certain temps. Ou je pourrais simplement écouter ce qu'il a à dire. [Ajoutez quelque chose pour améliorer l'efficacité de votre assistant pour la journée, ou simplement parler. Une Nonne peut avoir un intérêt particulier pour les Augures]",
+  "desc":"J'ai appris quelque chose - ou peut-être que je me suis simplement souvenu.",
+  "deckeffects":{"d.chat.generic":1},
+  "craftable":true
+},
+
+{
+  "id":"talk.assistance.poet",
+  "label": "Parler à un Poète",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance.poet":1,"reluctant":-1},
+  "startdescription": "Je pourrais encourager mon assistant, travailler avec lui, l'exalter pendant un certain temps. Ou je pourrais simplement écouter ce qu'il a à dire. [Ajoutez quelque chose pour améliorer l'efficacité de votre assistant pour la journée, ou parlez tout simplement.  Contrairement à certains assistants, un Poète a besoin de Fleurs]",
+  "desc":"J'ai appris quelque chose - ou peut-être que je me suis simplement souvenu.",
+  "deckeffects":{"d.chat.generic":1},
+  "craftable":true
+},
+
+{
+  "id":"talk.assistance",
+  "label": "Parler à un Assistant",
+  "actionid":"talk",
+  "warmup":30,
+  "extantreqs":{"sleepytime":-1},
+  "reqs":{"assistance":1,"reluctant":-1},
+  "startdescription": "Je pourrais encourager mon assistant, travailler avec lui, l'exalter pendant un certain temps. Ou je pourrais simplement écouter ce qu'il a à dire. (Ajoutez quelque chose pour améliorer l'efficacité de votre assistant pour la journée, ou simplement parlez)",
+  "desc":"J'ai appris quelque chose - ou peut-être que je me suis simplement souvenu.",
+  "deckeffects":{"d.chat.generic":1},
+  "craftable":true
+}
+
+
+
+
+
+
+]
+}

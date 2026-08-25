@@ -1,0 +1,93 @@
+{"recipes": [
+
+
+
+  {"id":"lighthouse.basehint",
+  "actionid":"lighthouse",
+    "label":"A Beginning",
+    "startdescription":"I'll need six suitable candidates - enough to reconstitute the old structure of the Curia of the Isle, with a new Secretary Persistent to replace Rowena.",
+    "reqs":{"inspired":1,"journal":-1},
+    "craftable":false
+    },
+
+    {"id":"lighthouse.flush",
+    "actionid":"lighthouse",
+     "label":"Flushing!",
+     "startdescription":"!",
+ "reqs":{"inspired":7},
+     "warmup":1,
+     "craftable":true
+     },
+
+    {"id":"lighthouse.foundation",
+    "actionid":"lighthouse",
+    "label":"A Foundation",
+    "startdescription":"Six notables are ready to establish the Lighthouse Institute, the successor to the Curia of the Isle. [Once you've taken this step, you'll no longer be able to change your preferences for candidates - and if any candidates die or disappear, the Lighthouse Institute will be stillborn. <b>If you've selected candidates with opposing Agendas, Fears or Sympathies, those inspirations will be deadlocked.</b>]",
+    "desc":"These are the six founders; they are almost ready to inaugurate their Institute. The seventh, unacknowledged, is the Librarian. [To continue, place your journal in a Hush House room with all six founders. Place your journal in the Lighthouse to summon them quickly.]",
+    "reqs":{"inspired":6,"journal":1},
+    "warmup":30,
+    "aspects":{"advancing":1,"appointing":1},
+    "craftable":true
+    },
+
+    {"id":"lighthouse.foundation.rowena",
+    "actionid":"lighthouse",
+    "label":"A Foundation",
+    "startdescription":"Five notables are ready to establish the Lighthouse Institute, the successor to the Curia of the Isle. Since no replacement is available for Rowena, she will continue as Secretary Persistent. Perhaps this is evidence to support Clogg's Law: 'Over time, an occult organisation will prove increasingly unable to rid itself of its immortal members.' [Once you've taken this step, you'll no longer be able to change your preferences for candidates - and if any candidates die or disappear, the Lighthouse Institute will be stillborn. <b>If you've selected candidates with opposing Agendas, Fears or Sympathies, those inspirations will be deadlocked.</b>]",
+    "desc":"These are the six founders; they are almost ready to inaugurate their Institute. The seventh, unacknowledged, is the Librarian. [To continue, place your journal in a Hush House room with all six founders. Place your journal in the Lighthouse to summon them quickly.]",
+    "reqs":{"inspired":5,"journal":1,"echidna.persistent":-1,"morgen":-1},
+    "warmup":30,
+    "aspects":{"advancing":1,"appointing":1},
+    "effects":{"rowena.persistent":1},
+    "craftable":true
+    },
+
+
+    {"id":"lighthouse.convene",
+   "actionid":"lighthouse.convene",
+    "label":"Convene the Institute",
+    "startdescription":"This is not a step to take lightly. I should convene the Institute only when I'm ready to host a meeting that makes the final decisions: including appropriate tea and cake, or suitable alternatives. [The founders will come to Hush House unless they're travelling home or otherwise unavailable.]",
+    "reqs":{"journal":1},
+    "warmup":5,
+    "craftable":true,
+    "linked":"lighthouse.convene.grab"
+    },
+
+    {"id":"lighthouse.convene.grab",
+    "actionid":"lighthouse.convene",
+    "reqs":{"inspired":-6,"advancing":-10},
+    "comments":"These reqs are belt-and-braces - they're repeated below but we really don't want a loop.",
+    "slots":[{"id":"founder","required":{"appointment.enigmatic":1,
+"appointment.nunciant":1,
+"appointment.salvant":1,
+"appointment.treasurer":1,
+"appointment.vigilant":1,
+"appointment.persistent":1},"greedy":true}],
+    "startdescription":"From across the Wake they come, by land and sea and sky, like birds at sunset...",
+    "effects":{"advancing":1},
+    
+    "warmup":30,
+    "linked":[
+    "lighthouse.convene.succeeded",
+    "lighthouse.convene.failed",
+    "lighthouse.convene.grab"]
+    },
+    {"id": "lighthouse.convene.succeeded",
+    "actionid":"lighthouse.convene",
+"reqs":{"inspired":6},
+"effects":{"advancing":-99},
+"startdescription":"The founders of the Lighthouse Institute have returned to Brancrug. [To continue, place your journal in a Hush House room with all six founders.]"},
+
+{"id": "lighthouse.convene.failed",
+  "actionid":"salon.*",
+"reqs":{"advancing":10},
+"effects":{"advancing":-99},
+"startdescription":"For some reason, not everyone can attend. Travelling? Lost? If I repeat the agreed signal, will it work this time?"}
+
+
+
+
+
+
+]
+}

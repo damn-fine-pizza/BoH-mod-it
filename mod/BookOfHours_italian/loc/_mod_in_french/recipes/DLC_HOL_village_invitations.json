@@ -1,0 +1,119 @@
+{"recipes": [
+
+
+    {
+        "id":"village.invite.timothy",
+         "label": "Inviter le Révérend à une Réception",
+         "actionid": "village.rectory.open*",
+         "startdescription":"Invitez le Révérend Timothy à la Hush House.",
+         "desc": "Le Révérend Timothy est presque muet d'excitation… presque. [Timothy a envoyé un cadeau en avance]",
+         "reqs":{"wc":1},
+         "extantreqs":{"salon.past":-1,"visitor.villager":-1},
+         "effects":{"visiting.timothy":1},
+         "internaldeck": {
+            "spec": [
+                  "plums",
+                  "plums",
+                  "veg.basket.apples",
+                  "veg.basket.apples",
+                  "fruit.bowl.pears",
+                  "fruit.bowl.pears",
+                  "jam.blackberry"
+            ],
+            "draws": 1,
+            "defaultcard": "jam.blackberry",
+            "resetonexhaustion": true
+                        },   
+         "aspects":{"fatiguing.ability":1},
+               "warmup": 7
+     },
+     {
+        "id":"village.invite.denzil",
+         "label": "Inviter le Forgeron à la Hush House",
+         "actionid": "village.smithy.open*",
+         "startdescription":"Invitez Denzil à la Hush House.",
+         "desc": "Denzil incline la tête en signe de remerciement. [Denzil a envoyé un cadeau en avance]",
+         "reqs":{"wc":1},
+         "extantreqs":{"salon.past":-1,"visitor.villager":-1},
+         "effects":{"visiting.denzil":1},
+         "internaldeck": {
+            "spec": [
+                  "butter",
+                  "pheasant",
+                  "pheasant",
+                  "potatoes",
+                  "milk",
+                  "mushrooms"
+            ],
+            "draws": 1,
+            "defaultcard": "mushrooms",
+            "resetonexhaustion": true
+                        },   
+         "aspects":{"fatiguing.ability":1},
+               "warmup": 5
+     },
+     {
+        "id":"village.invite.killes",
+         "label": "Inviter les Kille à la Hush House",
+         "actionid": "village.killes.open*",
+         "startdescription": "Inviter les Kille à venir à Hush House.",
+         "desc": "Mr. Kille est manifestement excité et reste courtois. Mme Kille est courtoise et peut-être excitée: comme toujours, c'est difficile à dire. [Les Kille ont envoyé un cadeau en avant]",
+         "reqs":{"wc":1},
+         "extantreqs":{"salon.past":-1,"visitor.villager":-1},
+         "effects":{"visiting.killes":1},
+         "internaldeck": {
+            "spec": [
+                  "veg.marrow.acrid",
+                  "veg.marrow.dark",
+                  "veg.marrow.golden",
+                  "veg.marrow.pale",
+                  "pheasant",
+                  "pumpkin",
+                  "pumpkin.amber",
+                  "bottle.dandelionwine"
+            ],
+            "draws": 1,
+            "defaultcard": "pumpkin",
+            "resetonexhaustion": true
+                        },   
+         "aspects":{"fatiguing.ability":1},
+               "warmup": 5
+     },
+
+
+
+     {
+      "id":"village.invite.timothy.block.hint",
+       "label": "Pas Tout de Suite - ",
+       "actionid": "village.rectory.open*",
+       "startdescription":"[Vous ne pouvez pas inviter Timothy à une Réception si vous avez déjà invité un villageois ou si vous avez déjà organisé une Réception cette Saison]",
+      "hintonly":true,
+       "reqs":{"wc":1}
+   },
+
+   {
+      "id":"village.invite.killes.block.hint",
+       "label": "Pas Tout de Suite - ",
+       "actionid": "village.killes.open*",
+       "startdescription":"[Vous ne pouvez pas inviter les Kille à une Réception si vous avez déjà invité un villageois ou si vous avez déjà organisé une Réception cette Saison]",
+      "hintonly":true,
+       "reqs":{"wc":1}
+   },
+
+   {
+      "id":"village.invite.denzil.block.hint",
+       "label": "Pas Tout de Suite - ",
+       "actionid": "village.smithy.open*",
+       "startdescription":"[Vous ne pouvez pas inviter Denzil à une Réception si vous avez déjà invité un villageois ou si vous avez déjà organisé une Réception cette Saison]",
+      "hintonly":true,
+       "reqs":{"wc":1}
+   }
+    
+
+    
+
+    
+    
+    ]
+    }
+    

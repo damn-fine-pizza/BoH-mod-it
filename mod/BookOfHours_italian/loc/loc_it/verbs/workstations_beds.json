@@ -1,0 +1,184 @@
+{
+ "verbs": [
+  {
+   "id": "library.bed.guest.cell.adept",
+   "label": "Letto per Ospiti: Cella dell’Adepto",
+   "desc": "Un letto contrassegnato con sigilli per scoraggiare l’accesso al Mansus in sogno. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.cell.long",
+   "label": "Letto per Ospiti: Cella dei Lunghi",
+   "desc": "Un letto a castello costruito per due immortali che non potevano né stare insieme, né separati. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.hermit",
+   "label": "Letto per Ospiti: Eremita",
+   "desc": "Un angolo accogliente dove assolutamente nessuno disturberà l’occupante. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarlo a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.infirmary",
+   "label": "Letto per Ospiti: Infermeria",
+   "desc": "Lenzuola bianche pulite e il caratteristico <i>tintinnio</i> militare di un telaio di letto in acciaio. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.librarian",
+   "label": "Letto per Ospiti: Alloggi dell’Archivista",
+   "desc": "Gli archivisti sono inclini al mal di schiena, e il materasso qui è sempre stato duro, anche ai tempi di Westcott. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per prolungarne la permanenza.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.lodge",
+   "label": "Letto per Ospiti: Casa del Custode",
+   "desc": "Robusto, rustico, accogliente. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.motley",
+   "label": "Letto per Ospiti: Variopinto",
+   "desc": "Un esule ha dormito qui, molto tempo fa. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarlo a restare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.pale",
+   "label": "Letto per Ospiti: Pallido",
+   "desc": "Sette generazioni di Dewulf dormirono qui… come pure Kitty Mazarine, a cui non è mai importato molto della tradizione. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.servants1",
+   "label": "Letto per Ospiti: Alloggi dei Servitori",
+   "desc": "Stretto, ma accogliente. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarlo a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.servants2",
+   "label": "Letto per Ospiti: Alloggi dei Servitori",
+   "desc": "Stretto, ma accogliente. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.servants3",
+   "label": "Letto per Ospiti: Alloggi dei Servitori",
+   "desc": "Stretto, ma accogliente. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.servants4",
+   "label": "Letto per Ospiti: Alloggi dei Servitori",
+   "desc": "Stretto, ma accogliente. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.severn",
+   "label": "Letto per Ospiti: Camera del Severn",
+   "desc": "Per coloro che preferiscono i materassi morbidi. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.solomon",
+   "label": "Letto per Ospiti: Solomon",
+   "desc": "Julian Coseley e Solomon Husher – entrambi grandi saggi di Inverno – hanno dormito in questo letto. Anche se non contemporaneamente. Nessuno, si racconta, è mai riuscito a dormirvi una notte serena da allora. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  },
+  {
+   "id": "library.bed.guest.violet",
+   "label": "Letto per Ospiti: Camera Violetta",
+   "desc": "Sei generazioni di eredi Dewulf nacquero in questa stanza. Sarebbero state sette, ma Hafren Waters ebbe la scortesia di partorire il Barone Walter in (la leggenda familiare vuole) una stalla di mucche fuori Kerisham. [Usa una carta Anima corrispondente per traslocare le tue cose e fare di questo il tuo letto; oppure colloca una carta Visitatore corrispondente per incoraggiarli a stare un po’ più a lungo.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Occupante",
+     "description": "Aggiungi una carta Anima corrispondente per dormire qui, o aggiungi un Visitatore per offrirgli un letto per la notte."
+    }
+   ]
+  }
+ ]
+}

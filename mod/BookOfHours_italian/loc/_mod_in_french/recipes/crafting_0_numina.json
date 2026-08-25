@@ -1,0 +1,150 @@
+{"recipes": [
+
+  {"id":"unveil.altar.lady.serpentroot.hillhollow",
+  "actionid":"library.altar.lady",
+  "label":"Révéler un Trésor de la Hush House",
+  "startdescription":"Faites les invocations appropriées aux puissances souterraines pour révéler un trésor de la Hush House.",
+  "desc":"Là, dans un creux aplani au pied de l'autel - quelque chose enroulé comme un serpent, mais de loin plus immobile.",
+  "extantreqs":{"t.serpentroot":-1},
+  "reqs":{"s.hill.hollow":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.serpentroot":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.altar.lady.serpentroot.tridesmahiera",
+  "actionid":"library.altar.lady",
+  "label":"Révéler un Trésor de la Hush House",
+  "startdescription":"Faites les invocations appropriées aux Trois, pour révéler un trésor de la Hush House.",
+  "desc":"Là, dans un creux aplani au pied de l'autel - quelque chose enroulé comme un serpent, mais de loin plus immobile.",
+  "extantreqs":{"t.serpentroot":-1},
+  "reqs":{"s.tridesmahiera":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.serpentroot":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.oubliette.thesunsdesign.scar",
+  "actionid":"library.oubliette",
+  "label":"Dévoilez un Trésor de la Hush House",
+  "startdescription":"Nommez les cicatrices dans le fer et la nuit, pour dévoiler un trésor de la Hush House.",
+  "desc":"Ici, incroyablement préservé, enveloppé dans les cicatrices infligées par les énergies de l'ancien prisonnier.",
+  "extantreqs":{"t.thesunsdesign":-1},
+  "reqs":{"s.disciplines.thescar":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesunsdesign":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.oubliette.thesunsdesign.hammer",
+  "actionid":"library.oubliette",
+  "label":"Dévoilez un Trésor de la Hush House",
+  "startdescription":"Alignez les surfaces du feu et de l'air, pour dévoiler un trésor de la Hush House.",
+  "desc":"Ici, incroyablement préservé, enfermé dans la cage conçue pour contenir les énergies de l'ancien prisonnier.",
+  "extantreqs":{"t.thesunsdesign":-1},
+  "reqs":{"s.disciplines.thehammer":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesunsdesign":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.altar.chancel.thesundisfigured.sacralimiae",
+  "actionid":"library.altar.chancel*",
+  "label":"Révéler un Trésor de la Hush House",
+  "startdescription":"Faites les invocations nécessaires aux Trois, pour révéler un trésor de la Hush House.",
+  "desc":"Là, dans une étroite obscurité, sous le rebord du sommet de l'autel, quelque chose m'attend.",
+  "extantreqs":{"t.thesundisfigured":-1},
+  "reqs":{"s.sacralimiae":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesundisfigured":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  
+  {"id":"unveil.altar.chancel.thesundisfigured.sickle.eclipse",
+  "actionid":"library.altar.chancel*",
+  "label":"Révéler un Trésor de la Hush House",
+  "startdescription":"Faites les invocations longtemps interdites aux Trois, pour révéler un trésor de la Hush House.",
+  "desc":"Là, dans une étroite obscurité, sous le rebord du sommet de l'autel, quelque chose m'attend.",
+  "extantreqs":{"t.thesundisfigured":-1},
+  "reqs":{"s.sickle.eclipse":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesundisfigured":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.rowenarium.towardsafundamentalaestheticsecondedition",
+  "actionid":"library.rowenarium*",
+  "label":"Révéler un Trésor de la Hush House",
+  "startdescription":"Si j'insère une clé approprié…",
+  "desc":"Il est très difficile, parmi les reflets du Rowenarium, de comprendre exactement ce qui, ou qui, vient d'ouvrir - mais je vois très clairement ce qui vient d'être révélé.",
+  "extantreqs":{"t.towardsafundamentalaestheticsecondedition":-1},
+  "reqs":{"knock":3,"winter":3,"key":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.towardsafundamentalaestheticsecondedition":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.altar.tentreto.thewritingonthewall.preliminal",
+  "actionid":"library.altar.tentreto*",
+  "label":"Élucider les Lumières d’une Époque Antérieure",
+  "startdescription":"Si je sais ce que je fais - ou si je reconnais que je n'ai aucune idée de ce que je fais - je pourrais me blottir dans le froid, sous l'ombre de la statue silencieuse, et voir ce qui fait surface dans le sommeil.",
+  "desc":"Je me souviens comment, dans mon sommeil, j'entendais les murmures sculptés du changeling. Je me souviens comment, pendant mon sommeil, j'enroulais mes doigts dans les formes que je trouvais. Je me souviens comment, dans mon sommeil, j'ai gratté les signes des secrets racontés à mon autre moi. Ici, je les tiens dans mes mains.",
+  "extantreqs":{"t.thewritingonthewall":-1},
+  "reqs":{"s.preliminalmeter":1,"ability":1,"ink":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thewritingonthewall":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+  {"id":"unveil.altar.tentreto.resurgences",
+  "actionid":"library.altar.tentreto*",
+  "label":"Élucider les Lumières d’une Époque Antérieure",
+  "startdescription":"Si je sais ce que je fais - ou si je reconnais que je n'ai aucune idée de ce que je fais - je pourrais me blottir dans le froid sous l'ombre de la statue silencieuse et voir ce qui fait surface dans le sommeil.",
+  "desc":"Je me souviens comment, dans mon sommeil, j'entendais les murmures sculptés du changeling. Je me souviens comment, pendant mon sommeil, j'enroulais mes doigts dans les formes que je trouvais. Je me souviens comment, dans mon sommeil, j'ai gratté les signes des secrets racontés à mon autre moi. Ici, je les tiens dans mes mains.",
+  "extantreqs":{"t.thewritingonthewall":-1},
+  "reqs":{"s.resurgences.emergences":1,"ability":1,"ink":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thewritingonthewall":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+
+  {"id":"unveil.bed.stone.threeandthethreestchiavi.inviolable",
+  "actionid":"library.bed.*",
+  "label":"Localisez un Trésor Perdu de la Hush House",
+  "startdescription":"Dormez avec la pierre comme oreiller. Je ne sais pas pourquoi, mais je sais un peu ce que la Calyptre a décrété et ce qu'elle a permis.",
+  "desc":"Quatre-vingt-dix-neuf clignements. Et je me réveille avec un livre dans les bras.",
+  "extantreqs":{"t.thethreeandthethreestchiavimanuscript":-1},
+  "reqs":{"s.edictsinviolable":1,"ability":1,"stone.indecipherable":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thethreeandthethreestchiavimanuscript":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.bed.stone.threeandthethreestchiavi.liminal",
+  "actionid":"library.bed.*",
+  "label":"Localisez un Trésor Perdu de la Hush House",
+  "startdescription":"Dormez avec la pierre comme oreiller. Je ne sais pas pourquoi, mais je sais un peu ce que la Calyptre a décrété et ce qu'elle a permis.",
+  "desc":"Quatre-vingt-dix-neuf clignements. Et je me réveille avec un livre dans les bras.",
+  "extantreqs":{"t.thethreeandthethreestchiavimanuscript":-1},
+  "reqs":{"s.edictsliminal":1,"ability":1,"stone.indecipherable":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thethreeandthethreestchiavimanuscript":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  }
+
+
+
+]
+}

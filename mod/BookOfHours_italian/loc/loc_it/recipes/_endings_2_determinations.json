@@ -1,0 +1,82 @@
+{
+ "recipes": [
+  {
+   "id": "do.record.scale",
+   "label": "Prendere una Determinazione: Origine del Guscio",
+   "startdescription": "La Croce del Carapace è una razza ibrida, e un tempo eravamo la Croce del Carapace. Dalla stirpe Seglaz ereditammo ciò che oggi chiamiamo la Lingua. Bramiamo ciò che eravamo; e anche la Storia è ibrida. [Aggiunge Squama e Cuore al tuo diario; sostituisce qualsiasi altra Determinazione dell’Origine. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Squama, è pertinente la Determinazione Nero, il Primo Fiore; oppure se stai considerando una Storia di Cuore, è pertinente Ascia Cornuta, la Più Antica.]"
+  },
+  {
+   "id": "do.record.lantern",
+   "label": "Prendere una Determinazione: Origine Gloriosa",
+   "startdescription": "Le prime scintille del nostro io discesero dalla luce sopra il mondo che chiamiamo la Gloria. Senza la Gloria, saremmo bestie nel buio, e i doni del nostro passato illuminano il nostro futuro, che è l’Eternità. [Aggiunge Falena e Lanterna al tuo diario; sostituisce qualsiasi altra Determinazione dell’Origine. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Falena o di Lanterna, sono entrambe pertinenti le Determinazioni Origine Gloriosa e Falena, la Più Antica.]"
+  },
+  {
+   "id": "do.record.nectar",
+   "label": "Prendere una Determinazione: Origine delle Radici",
+   "startdescription": "I nostri antenati nacquero nudi tra le radici del Bosco. Tutto ciò che siamo mai stati è sorto da quel buio. Con le nostre mani e le nostre bocche plasmammo il linguaggio dal fango. Con le nostre bocche e le nostre mani plasmeremo il nostro futuro. [Aggiunge Nettare e Luna al tuo diario; sostituisce qualsiasi altra Determinazione dell’Origine. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Nettare, è pertinente la Determinazione Graal, il Più Antico; oppure se stai considerando una Storia di Luna, è pertinente Nero, il Primo Fiore.]"
+  },
+  {
+   "id": "do.record.sky",
+   "label": "Prendere una Determinazione: Origine dal Nessun Luogo",
+   "startdescription": "La stirpe Thritige della Croce del Carapace sognò se stessa fuori dal vetro nero, per essere il proprio Monarca. Se ereditiamo il trono vuoto, sogniamo noi stessi in ogni notte a venire. [Aggiunge Cielo e Forgia al tuo diario; sostituisce qualsiasi altra Determinazione dell’Origine. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Cielo, è pertinente Parola, la Chiave; oppure se stai considerando una Storia di Forgia, è pertinente Rosso, il Primo Fiore.]"
+  },
+  {
+   "id": "do.record.edge",
+   "label": "Prendere una Determinazione: Parola, la Spada",
+   "startdescription": "La Lingua è un’arma. Con la Lingua abbiamo aperto una breccia nel Mansus; senza la Lingua, non avremmo potuto combattere guerre; senza la Lingua, saremmo ancora scimmie, scarabei, pietra. [Aggiunge Lama e Graal al tuo diario; sostituisce qualsiasi altra Determinazione della Parola. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Lama, è pertinente la Determinazione Bianco, il Primo Fiore; oppure se stai considerando una Storia di Graal, è pertinente Graal, il Più Antico.]"
+  },
+  {
+   "id": "do.record.rose",
+   "label": "Prendere una Determinazione: Parola, la Chiave",
+   "startdescription": "La Lingua è la chiave. Fu la Lingua ad aprire le porte del Mansus; senza la Lingua, non avremmo potuto avere pace; senza la Lingua, saremmo ancora bestie, vermi, fango. [Aggiunge Rosa e Cielo al tuo diario; sostituisce qualsiasi altra Determinazione della Parola. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Rosa, è pertinente la Determinazione Rosso, il Primo Fiore; oppure se stai considerando una Storia di Cielo, è pertinente l’Origine dal Nessun Luogo.]"
+  },
+  {
+   "id": "do.record.knock",
+   "label": "Prendere una Determinazione: Parola, la Ferita",
+   "startdescription": "La Lingua è una cicatrice. Fu la Lingua a squarciare il Mansus; senza la Lingua, non avremmo potuto avere guerre; senza la Lingua, saremmo ancora fuoco, cielo, terra. [Aggiunge Battente e Inverno al tuo diario; sostituisce qualsiasi altra Determinazione della Parola. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Battente, è pertinente la Determinazione Ascia Cornuta, la Più Antica; oppure se stai considerando una Storia di Inverno, è pertinente Bianco, il Primo Fiore.]"
+  },
+  {
+   "id": "do.record.heart",
+   "label": "Prendere una Determinazione: Ascia Cornuta, la Più Antica",
+   "startdescription": "L’Ascia Cornuta porta due lame; permette il passaggio quando il passaggio dev’essere permesso; attende sulla soglia. L’Ascia Cornuta, che vieta la contraddizione, è l’Ora più antica. Altre Ore potrebbero sembrare più antiche. Non lo sono. [Aggiunge Cuore e Battente al tuo diario; sostituisce qualsiasi altra Determinazione del Più Antico. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Cuore, è pertinente la Determinazione Origine del Guscio; oppure se stai considerando una Storia di Battente, è pertinente Parola, la Ferita.]"
+  },
+  {
+   "id": "do.record.grail",
+   "label": "Prendere una Determinazione: Graal, il Più Antico",
+   "startdescription": "Il Graal Rosso dà la vita; il Graal toglie la vita; il Graal non è mai sazio. Il Graal, che disdegna la contraddizione, è l’Ora più antica che persista. Qualunque cosa sembri più antica viene, alla fine, sommersa nelle maree del Graal. [Aggiunge Graal e Nettare al tuo diario; sostituisce qualsiasi altra Determinazione del Più Antico. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Graal, è pertinente Parola, la Spada; oppure se stai considerando una Storia di Nettare, è pertinente l’Origine delle Radici.]"
+  },
+  {
+   "id": "do.record.moth",
+   "label": "Prendere una Determinazione: Falena, la Più Antica",
+   "startdescription": "La Falena batte dentro il cranio; cerca fra gli alberi del Bosco; è screziata. La Falena, che si diletta nella contraddizione, è l’Ora più antica che resti. Qualunque cosa sembri più antica, un tempo lo fu la Falena, quando anche quella cosa era. [Aggiunge Falena e Lanterna al tuo diario; sostituisce qualsiasi altra Determinazione del Più Antico. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Falena o di Lanterna, sono entrambe pertinenti le Determinazioni Origine Gloriosa e Falena, la Più Antica.]"
+  },
+  {
+   "id": "do.record.moon",
+   "label": "Prendere una Determinazione: Nero, il Primo Fiore",
+   "startdescription": "L’Albero del Guardiano è il patto che vieta la conoscenza ai mortali, ma la permette nelle case del patto dell’Albero... come l’Isola di Brancrug. Il Fiore Nero della Calyptra – «la notte non ferita» – fu la sua prima difesa. La conoscenza proibita non dev’essere pronunciata; non dev’essere scritta; non dev’essere conosciuta. L’Albero affonda le radici nella notte. [Aggiunge Luna e Squama al tuo diario; sostituisce qualsiasi altra Determinazione del Primo Fiore. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Luna, è pertinente la Determinazione Origine delle Radici; oppure se stai considerando una Storia di Squama, è pertinente l’Origine del Guscio.]"
+  },
+  {
+   "id": "do.record.forge",
+   "label": "Prendere una Determinazione: Rosso, il Primo Fiore",
+   "startdescription": "L’Albero del Guardiano è il patto che vieta la conoscenza ai mortali, ma la permette nelle case del patto dell’Albero... come l’Isola di Brancrug. Il Fiore Rosso della Calyptra – «il fuoco alimentato dalla verità» – fu la sua prima difesa. Il fuoco consuma la conoscenza... ma il fuoco dà anche luce. L’Albero affonda le radici nel paradosso. [Aggiunge Forgia e Rosa al tuo diario; sostituisce qualsiasi altra Determinazione del Primo Fiore. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Forgia, è pertinente l’Origine dal Nessun Luogo; oppure se stai considerando una Storia di Rosa, è pertinente Parola, la Chiave.]"
+  },
+  {
+   "id": "do.record.winter",
+   "label": "Prendere una Determinazione: Bianco, il Primo Fiore",
+   "startdescription": "L’Albero del Guardiano è il patto che vieta la conoscenza ai mortali, ma la permette nelle case del patto dell’Albero... come l’Isola di Brancrug. Il Fiore Bianco della Calyptra – «il silenzio che è dato» – fu la sua prima difesa. Quando una conoscenza proibita è conosciuta, dev’essere dimenticata. Ma per essere dimenticata, dev’essere prima conosciuta. L’Albero affonda le radici nel paradosso. [Aggiunge Inverno e Lama al tuo diario; sostituisce qualsiasi altra Determinazione del Primo Fiore. Aggiungere Determinazioni al tuo diario rende dapprima possibile, poi più facile, scrivere una Storia corrispondente.]",
+   "desc": "Io sono l’Archivista della Hush House, e ho preso la mia Determinazione. [Se stai considerando una Storia di Inverno, è pertinente Parola, la Ferita; oppure se stai considerando una Storia di Lama, è pertinente Parola, la Spada.]"
+  }
+ ]
+}

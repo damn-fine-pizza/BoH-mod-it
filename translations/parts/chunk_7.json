@@ -1,0 +1,2002 @@
+[
+ {
+  "en": "Visitor: the Affair of the Unfettered Eye",
+  "dove": "elements/v.omen.dawn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor: the Affair of the Unfinished Lark",
+  "dove": "elements/v.project.ingenious.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[v. mutations can be acquired in two ways: (1) visitor is magneted to House because they fit interests and/or (2) visitor successfully interacts with incident. This allows players to use WC to accelerate interaction]",
+  "dove": "elements/v.comment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Daymare' came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.dagmar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Aunt Mopsy came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.auntmopsy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita Bukhara came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.azita.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Consulted By...",
+  "dove": "elements/tx.agdistis.label",
+  "ricorre": 24
+ },
+ {
+  "en": "Corso Reverte came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.corso.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "DI Douglas Moore came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.douglas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Arun Peel came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.arun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Ibn al-Adim came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.aladim.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Serena Blackwood came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.serena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Dr Southey came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.yvette.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan Fekri came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.ehsan.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Schaller came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.stanislav.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fraser Strathcoyne came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.fraser.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Julian Coseley came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.julian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lalla Chaima came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.chaima.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lord Bancroft came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.franklin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Lt Arthur Thomas Moore came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.arthur.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "MCO Constance Lee came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.connie.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Magister Hokobald came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.hokobald.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mlle Matutine came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.morgen.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Peter Agdistis came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.agdistis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe Bechet came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.olympe.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Princess Coquille Amirejibi came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.coquille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Rowena came to the House seeking my help; so I let her consult this.",
+  "dove": "elements/tx.rowena.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Wakefield came to the House seeking my help; so I let him consult this.",
+  "dove": "elements/tx.zachary.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A chilly nimbus numbs my hands - a theoplasmic contamination. [Your Health, and this item, are both contaminated.]",
+  "dove": "elements/mhea.xexts.contamination.chionic",
+  "ricorre": 1
+ },
+ {
+  "en": "A chilly nimbus numbs my hands - a theoplasmic contamination. [Your Trist, and this item, are contaminated.]",
+  "dove": "elements/mtri.xexts.contamination.chionic",
+  "ricorre": 1
+ },
+ {
+  "en": "A prickly brightness haloes this - theoplasmic contamination. [Your Phost has a Malady; this item is contaminated.]",
+  "dove": "elements/mpho.xexts.contamination.actinic",
+  "ricorre": 1
+ },
+ {
+  "en": "A prickly brightness haloes this - theoplasmic contamination. [Your Trist, and this item, are contaminated.]",
+  "dove": "elements/mtri.xexts.contamination.actinic",
+  "ricorre": 1
+ },
+ {
+  "en": "As my concentration fails, a part of my soul flutters away, drawn by a distant half-imaginary light. [Your Fet has a Malady.]",
+  "dove": "elements/mfet.xexts.malady.inflicting",
+  "ricorre": 4
+ },
+ {
+  "en": "As my concentration lapses, I begin to hear a distant music, like the tapping of a drum. [Your Chor has a Malady.]",
+  "dove": "elements/mcho.xexts.malady.inflicting",
+  "ricorre": 4
+ },
+ {
+  "en": "As my spirits sink lower, a creaking fear passes softly into me, like something crawling through a window left carelessly open. [Your Ereb has a Malady.]",
+  "dove": "elements/mere.xexts.malady.inflicting",
+  "ricorre": 4
+ },
+ {
+  "en": "Chor",
+  "dove": "elements/xcho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chor [fatigued]",
+  "dove": "elements/zcho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chor: Duendratic",
+  "dove": "elements/mcho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Duendracy is a kind of distraction or of inspiration, or of possession. In the wind, in the sea, in the crackle of flames, there's a music only I can hear, and when I give it too much attention, the world grows red as a rose...",
+  "dove": "elements/mcho.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Eloquence and understanding. The door opens both ways.",
+  "dove": "elements/zsha.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Eloquence and understanding. The door opens both ways. [One of the nine parts of the human soul.]",
+  "dove": "elements/xsha.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Ereb",
+  "dove": "elements/xere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ereb [fatigued]",
+  "dove": "elements/zere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ereb: Westengryred",
+  "dove": "elements/mere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Exuberance; instinct; rhythm.",
+  "dove": "elements/zcho.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Exuberance; instinct; rhythm. [One of the nine parts of the human soul.]",
+  "dove": "elements/xcho.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Fet",
+  "dove": "elements/xfet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fet [fatigued]",
+  "dove": "elements/zfet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fet: Gisting",
+  "dove": "elements/mfet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Health",
+  "dove": "elements/xhea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Health [Freezing]",
+  "dove": "elements/xhea.freezing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Health [Half-Drowned]",
+  "dove": "elements/xhea.halfdrowned.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Health [fatigued]",
+  "dove": "elements/zhea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Health: Sick",
+  "dove": "elements/mhea.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I prickle with a dozen sharp little pains, as if needles had been driven into my hands. This is contaminated - the poison or curse called sthenic taint. [Your Health has a Malady.]",
+  "dove": "elements/mhea.xexts.contamination.sthenic.taint",
+  "ricorre": 4
+ },
+ {
+  "en": "I prickle with a dozen sharp little pains, as if needles had been driven into my hands. This is contaminated - the poison or curse called sthenic taint. [Your Shapt has a Malady.]",
+  "dove": "elements/msha.xexts.contamination.sthenic.taint",
+  "ricorre": 4
+ },
+ {
+  "en": "I've become unwell.",
+  "dove": "elements/mhea.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "I've exhausted my strength. [Your Health has a Malady.]",
+  "dove": "elements/mhea.xexts.malady.inflicting",
+  "ricorre": 1
+ },
+ {
+  "en": "I've over-tired myself. My thoughts are crabbed and strange. [Your Wist has a Malady.]",
+  "dove": "elements/mwis.xexts.malady.inflicting",
+  "ricorre": 4
+ },
+ {
+  "en": "I've placed too heavy a strain on my soul. [Your Trist has a Malady.]",
+  "dove": "elements/mtri.xexts.malady.inflicting",
+  "ricorre": 4
+ },
+ {
+  "en": "In dreams I have visited the House behind the world... and some part of me is trapped there now, even when I wake.",
+  "dove": "elements/mfet.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "It's not even cold any more. I could just lie down right here. I could sleep right here. [You really need to find shelter.]",
+  "dove": "elements/xhea.freezing.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Luminous splotches of fungus mark this thing. A keeperskin infection. I can see their sickly light even when I close my eyes. Something musty and woodsy has touched into my soul. [Your Ereb has a Malady; this item is corrupted.]",
+  "dove": "elements/mere.xexts.contamination.keeperskin",
+  "ricorre": 4
+ },
+ {
+  "en": "Melancholy is the mist on the soul's waters. Despair is the wolf that prowls the water's edge.",
+  "dove": "elements/mtri.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Mettle",
+  "dove": "elements/xmet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mettle [fatigued]",
+  "dove": "elements/zmet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "My fingers are itching. Now they are tapping. This book is infected with bloodlines, and where they've weakened the skin of my soul, a duendrazon has attached itself.  [Your Chor has a Malady; this item is infested.]",
+  "dove": "elements/mcho.xexts.contamination.bloodlines",
+  "ricorre": 4
+ },
+ {
+  "en": "My fingertips are puffy and discoloured. Now my fingers are tapping. This book is infected with keeperskin, and where it's weakened the skin of my soul, a duendrazon has attached itself.  [Your Chor has a Malady; this item is corrupted.]",
+  "dove": "elements/mcho.xexts.contamination.keeperskin",
+  "ricorre": 4
+ },
+ {
+  "en": "My inner light gutters, then flares - I am snared in a dangerous fascination.  [Your Phost has a Malady.]",
+  "dove": "elements/mpho.xexts.malady.inflicting",
+  "ricorre": 4
+ },
+ {
+  "en": "My thoughts are tangled and unfamiliar to me. Something of those who came before - the Carapace Cross - has always lingered in humankind. It's risen now in me.",
+  "dove": "elements/mwis.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Name, memory, that part which remains. (Most librarians know that books have souls; most librarians hope for books with simple souls of wist and nothing else.)",
+  "dove": "elements/zwis.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Name, memory, that part which remains. Most librarians know that books have souls; most librarians hope for books with simple souls of wist and nothing else. [One of the nine parts of the human soul.]",
+  "dove": "elements/xwis.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Phost",
+  "dove": "elements/xpho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Phost [fatigued]",
+  "dove": "elements/zpho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Phost: Fascinated",
+  "dove": "elements/mpho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Pride, compassion; hatred and fear.",
+  "dove": "elements/zere.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Pride, compassion; hatred and fear. [One of the nine parts of the human soul.]",
+  "dove": "elements/xere.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Shapt",
+  "dove": "elements/xsha.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shapt [fatigued]",
+  "dove": "elements/zsha.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shapt: Acusis",
+  "dove": "elements/msha.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shivers wrack my soaked body. [Your health is failing. Find somewhere to warm up.]",
+  "dove": "elements/xhea.halfdrowned.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Sight, perception, inspiration, all the Glory's gifts.",
+  "dove": "elements/zpho.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Sight, perception, inspiration, all the Glory's gifts. [One of the nine parts of the human soul.]",
+  "dove": "elements/xpho.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "That part of us which dreams.",
+  "dove": "elements/zfet.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "That part of us which walks in dreams. [One of the nine parts of the human soul.]",
+  "dove": "elements/xfet.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The HIGHER I RISE the MORE I SEE",
+  "dove": "elements/mpho.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The capacity for meaningful choice.",
+  "dove": "elements/zmet.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The change and the longing.",
+  "dove": "elements/ztri.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The change and the longing. [One of the nine parts of the human soul.]",
+  "dove": "elements/xtri.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The doors of my soul have opened too wide. Every sound rings like a bell - every word scratches at my eyes or skin -",
+  "dove": "elements/msha.desc",
+  "ricorre": 8
+ },
+ {
+  "en": "The dwelling-place of the soul.",
+  "dove": "elements/zhea.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The dwelling-place of the soul. [The ninth of the nine parts of the soul; the only one that can be touched.]",
+  "dove": "elements/xhea.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "There are eyes here, half-visible, winking coyly at me. A winkwell infection. I keep thinking of those eyes when I close my own. [Your Fet has a Malady; this item is corrupted.]",
+  "dove": "elements/mfet.xexts.contamination.winkwell",
+  "ricorre": 4
+ },
+ {
+  "en": "There are eyes here, half-visible, winking coyly at me. A winkwell infection. I keep thinking of those eyes when I close my own. [Your Wist has a Malady; this item is corrupted.]",
+  "dove": "elements/mwis.xexts.contamination.winkwell",
+  "ricorre": 4
+ },
+ {
+  "en": "There are words here which ooze blood - a bloodlines infection. As I wipe the drops carefully away, a fear steals into my soul, like a fear of the dark, but stronger and mustier. [Your Ereb has a Malady; this item is infested.]",
+  "dove": "elements/mere.xexts.contamination.bloodlines",
+  "ricorre": 4
+ },
+ {
+  "en": "This is cursed! The signs are unmistakable - a Fifth Eye curse which has wrenched open the unwilling eye of my soul. [Your Fet has a Malady; this item is cursed.]",
+  "dove": "elements/mfet.xexts.contamination.curse.fifth.eye",
+  "ricorre": 4
+ },
+ {
+  "en": "This is cursed! The signs are unmistakable - a Fifth Eye curse which has wrenched open the unwilling eye of my soul. [Your Phost has a Malady.]",
+  "dove": "elements/mpho.xexts.contamination.curse.fifth.eye",
+  "ricorre": 4
+ },
+ {
+  "en": "Trist",
+  "dove": "elements/xtri.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Trist [fatigued]",
+  "dove": "elements/ztri.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Trist: Despairing",
+  "dove": "elements/mtri.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Westengryre is what the early monks of St Brandan's called it; that old green-sickness, the raptness of desolation, the terror of the wastes, and it is upon me now. The Wood. The Wood. The Wood...!",
+  "dove": "elements/mere.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "When I bend too close to this, I hear a faint whispering. An infestation: witchworms! [Your Shapt has suffered from the whispering of worms; this item is infested.]",
+  "dove": "elements/msha.xexts.contamination.witchworms",
+  "ricorre": 4
+ },
+ {
+  "en": "When I bend too close to this, I hear a faint whispering. An infestation: witchworms! [Your Wist has suffered from the whispering of worms; this item is infested.]",
+  "dove": "elements/mwis.xexts.contamination.witchworms",
+  "ricorre": 1
+ },
+ {
+  "en": "Will; self-discipline; that part of us which makes the right choice. [One of the nine parts of the human soul.]",
+  "dove": "elements/xmet.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Wist",
+  "dove": "elements/xwis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Wist [fatigued]",
+  "dove": "elements/zwis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Wist: Shell-Crossed",
+  "dove": "elements/mwis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Chor",
+  "dove": "elements/xcho2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Chor [fatigued]",
+  "dove": "elements/zcho2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Chor: Duendratic",
+  "dove": "elements/mcho2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Ereb",
+  "dove": "elements/xere2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Ereb [fatigued]",
+  "dove": "elements/zere2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Ereb: Westengryred",
+  "dove": "elements/mere2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Fet",
+  "dove": "elements/xfet2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Fet [fatigued]",
+  "dove": "elements/zfet2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Fet: Gisting",
+  "dove": "elements/mfet2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Health",
+  "dove": "elements/xhea2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Health [fatigued]",
+  "dove": "elements/zhea2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Health: Sick",
+  "dove": "elements/mhea2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Mettle",
+  "dove": "elements/xmet2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Mettle [fatigued]",
+  "dove": "elements/zmet2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Phost",
+  "dove": "elements/xpho2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Phost [fatigued]",
+  "dove": "elements/zpho2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Phost: Fascinated",
+  "dove": "elements/mpho2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Shapt",
+  "dove": "elements/xsha2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Shapt [fatigued]",
+  "dove": "elements/zsha2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Shapt: Acusis",
+  "dove": "elements/msha2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Trist",
+  "dove": "elements/xtri2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Trist [fatigued]",
+  "dove": "elements/ztri2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Trist: Despairing",
+  "dove": "elements/mtri2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Wist",
+  "dove": "elements/xwis2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Wist [fatigued]",
+  "dove": "elements/zwis2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+Wist: Shell-Crossed",
+  "dove": "elements/mwis2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A chilly nimbus numbs my hands - a theoplasmic contamination. [My Health, and this item, are both contaminated.]",
+  "dove": "elements/mhea2.xexts.contamination.chionic",
+  "ricorre": 3
+ },
+ {
+  "en": "A chilly nimbus numbs my hands - a theoplasmic contamination. [My Trist, and this item, are contminated.]",
+  "dove": "elements/mtri2.xexts.contamination.chionic",
+  "ricorre": 3
+ },
+ {
+  "en": "A prickly brightness haloes this - theoplasmic contamination. [My Phost has a Malady; this item is contaminated.]",
+  "dove": "elements/mpho2.xexts.contamination.actinic",
+  "ricorre": 3
+ },
+ {
+  "en": "A prickly brightness haloes this - theoplasmic contamination. [My Trist, and this item, are contminated.]",
+  "dove": "elements/mtri2.xexts.contamination.actinic",
+  "ricorre": 3
+ },
+ {
+  "en": "I've exhausted my strength. [My Health has a Malady.]",
+  "dove": "elements/mhea2.xexts.malady.inflicting",
+  "ricorre": 3
+ },
+ {
+  "en": "When I bend too close to this, I hear a faint whispering. An infestation: witchworms! [[Your Wist has suffered from the whispering of worms; this item is infested.]",
+  "dove": "elements/mwis2.xexts.contamination.witchworms",
+  "ricorre": 3
+ },
+ {
+  "en": "++Chor",
+  "dove": "elements/xcho3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Chor [fatigued]",
+  "dove": "elements/zcho3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Chor: Duendratic",
+  "dove": "elements/mcho3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Ereb",
+  "dove": "elements/xere3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Ereb [fatigued]",
+  "dove": "elements/zere3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Ereb: Westengryred",
+  "dove": "elements/mere3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Fet",
+  "dove": "elements/xfet3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Fet [fatigued]",
+  "dove": "elements/zfet3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Fet: Gisting",
+  "dove": "elements/mfet3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Health",
+  "dove": "elements/xhea3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Health [fatigued]",
+  "dove": "elements/zhea3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Health: Sick",
+  "dove": "elements/mhea3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Mettle",
+  "dove": "elements/xmet3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Mettle [fatigued]",
+  "dove": "elements/zmet3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Phost",
+  "dove": "elements/xpho3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Phost [fatigued]",
+  "dove": "elements/zpho3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Phost: Fascinated",
+  "dove": "elements/mpho3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Shapt",
+  "dove": "elements/xsha3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Shapt [fatigued]",
+  "dove": "elements/zsha3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Shapt: Acusis",
+  "dove": "elements/msha3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Trist",
+  "dove": "elements/xtri3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Trist [fatigued]",
+  "dove": "elements/ztri3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Trist: Despairing",
+  "dove": "elements/mtri3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Wist",
+  "dove": "elements/xwis3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Wist [fatigued]",
+  "dove": "elements/zwis3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "++Wist: Shell-Crossed",
+  "dove": "elements/mwis3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Chor",
+  "dove": "elements/xcho4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Chor [fatigued]",
+  "dove": "elements/zcho4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Chor: Duendratic",
+  "dove": "elements/mcho4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Ereb",
+  "dove": "elements/xere4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Ereb [fatigued]",
+  "dove": "elements/zere4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Ereb: Westengryred",
+  "dove": "elements/mere4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Fet",
+  "dove": "elements/xfet4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Fet [fatigued]",
+  "dove": "elements/zfet4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Fet: Gisting",
+  "dove": "elements/mfet4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Health",
+  "dove": "elements/xhea4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Health [fatigued]",
+  "dove": "elements/zhea4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Health: Sick",
+  "dove": "elements/mhea4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Mettle",
+  "dove": "elements/xmet4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Mettle [fatigued]",
+  "dove": "elements/zmet4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Phost",
+  "dove": "elements/xpho4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Phost [fatigued]",
+  "dove": "elements/zpho4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Phost: Fascinated",
+  "dove": "elements/mpho4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Shapt",
+  "dove": "elements/xsha4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Shapt [fatigued]",
+  "dove": "elements/zsha4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Shapt: Acusis",
+  "dove": "elements/msha4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Trist",
+  "dove": "elements/xtri4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Trist [fatigued]",
+  "dove": "elements/ztri4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Trist: Despairing",
+  "dove": "elements/mtri4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Wist",
+  "dove": "elements/xwis4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Wist [fatigued]",
+  "dove": "elements/zwis4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "+++Wist: Shell-Crossed",
+  "dove": "elements/mwis4.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chor is exuberance; instinct; rhythm. Do those mean something to me?",
+  "dove": "elements/setup.cho.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Ereb is pride, compassion; hatred and fear. Do those passions burn in me?",
+  "dove": "elements/setup.ere.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fet is that part of us which dreams. Are dreams important to me?",
+  "dove": "elements/setup.fet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Chor?",
+  "dove": "elements/setup.cho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Ereb?",
+  "dove": "elements/setup.ere.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Fet?",
+  "dove": "elements/setup.fet.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Mettle?",
+  "dove": "elements/setup.met.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Phost?",
+  "dove": "elements/setup.pho.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Shapt?",
+  "dove": "elements/setup.sha.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Trist?",
+  "dove": "elements/setup.tri.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Memory: Wist?",
+  "dove": "elements/setup.wis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mettle is the capacity for meaningful choice. Did I prove my mettle?",
+  "dove": "elements/setup.met.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Phost is sight, perception, inspiration, all the Glory's gifts. Is my soul a bright soul?",
+  "dove": "elements/setup.pho.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Shapt is eloquence and also understanding: the door opens both ways. Is my soul open to knowledge?",
+  "dove": "elements/setup.sha.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Trist, they say, is the change and the longing. Do I miss something I never had?",
+  "dove": "elements/setup.tri.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Wist is the name, the memory - that part which remains. Is it important to me that things endure?",
+  "dove": "elements/setup.wis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'<i>Lambig</i> and <i>alembic</i>,' Thirza Blake once observed, 'arise from the same root. As do <i>alchemy</i>, and <i>khemia</i>, which is the land of the black earth. When you plant an apple-seed, speak these sounds to the soil.'",
+  "dove": "elements/bottle.lambig.xexts.scrutiny",
+  "ricorre": 4
+ },
+ {
+  "en": "'A Bargain'",
+  "dove": "elements/painting.knock.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'A Sacrifice'",
+  "dove": "elements/painting.sacrifice.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'A general says: when I make the right choice, I win. An Illuminate says: when I win, I determine which choice was the right one.' - Natalia Brulleau",
+  "dove": "elements/invincible.audacity.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'A.M.F. SORRY ABOUT THE MIRRORS. - D.G.'",
+  "dove": "elements/clock.servants.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Abbot Geffrey'",
+  "dove": "elements/bust.abbot.geffrey.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Abbot Thomas'",
+  "dove": "elements/bust.abbot.thomas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Abduction, Salvation'",
+  "dove": "elements/bust.abduction.salvation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Again, at Night'",
+  "dove": "elements/painting.thekiss.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Ambrose Westcott'",
+  "dove": "elements/bust.ambrose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'An Anointing'",
+  "dove": "elements/painting.annointing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'And so it will not, will not, will not stop dancing.' [With Keeper-level Heart recipes, this can be crafted from Gideon's Soaks.]",
+  "dove": "elements/january.sanguinary.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'As Above, So Below'",
+  "dove": "elements/painting.sky.b.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'At Brancrug, even the Hours are kind, and the years are kinder.' This egg might stay viable quite a while yet.",
+  "dove": "elements/egg.gull.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Authority'",
+  "dove": "elements/statue.crozier.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Beneath the skin of the world we find the Mansus, also called the World-Spine, also called the House of the Sun. The Mansus is the home of the Hours, on which the world depends, and a sojourning-place for certain departed souls. Above the House is the Glory, the origin of light, to which souls aspire. At the foot of the House, and around its walls - though it has no walls - is the Wood. Beneath the House is Nowhere…'",
+  "dove": "elements/painting.mansus.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Brian Levinsen'",
+  "dove": "elements/bust.brian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Chac'",
+  "dove": "elements/painting.cockatoo.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Crowcross Sands at High Tide'",
+  "dove": "elements/painting.teeny2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Departure'",
+  "dove": "elements/painting.birds.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Dr Serena Blackwood'",
+  "dove": "elements/painting.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Eva Dewulf'",
+  "dove": "elements/bust.eva.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Eva and Abraham, 1724'",
+  "dove": "elements/painting.dontmesswithladyeva.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Every key has its lock,' Serena Blackwood once said, 'sounds much grander than when we say that every spanner has its nut. But both remain true.'",
+  "dove": "elements/spanners.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Every sweet has its sour.' - Emerson",
+  "dove": "elements/mem.taste.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'Eyes open, skies open!'",
+  "dove": "elements/wild.surmise.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Fraser Strathcoyne'",
+  "dove": "elements/bust.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Gervinus van Lauren'",
+  "dove": "elements/bust.gervinus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Gideon Dewulf'",
+  "dove": "elements/bust.gideon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Glory's Gift'",
+  "dove": "elements/painting.lantern.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Gods Return'",
+  "dove": "elements/painting.nectar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'He cannot be stilled; he demands the dance; he is beaten, like a drum. He is heard in the Wood below the world.'",
+  "dove": "elements/hours.thunderskin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hendrik Dewulf'",
+  "dove": "elements/bust.hendrik.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'If Greydawn Oil were drinkable…'",
+  "dove": "elements/eigengrau.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'If the cloud were a canvas, who spread it? If the sky were a sheet, who knotted it?' A Wind-Rumour is an auspice found in the sky by those who look too long, interpretable only by the wise.",
+  "dove": "elements/windrumour.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'In the Tracks of Beasts, in the Convolutions of his own Carapace, in Egg-vein and Shell-shadow, the Many-Eyed One found the Signs which can be History.' An Earth-Sign is an auspice traced on the cloaked shape of the earth, perceptible to the sensitive, interpreted only by the wise.",
+  "dove": "elements/earthsign.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'In the later operations of the Forge, the Madrugad yields to the true Forge of Days, and the essence begins to redden.' The bit about the 'true Forge of Days' nearly got St Melancthe burned for heresy, but no-one ever said she was wrong about the second part.",
+  "dove": "elements/essence.iotic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Julian Coseley'",
+  "dove": "elements/painting.julian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Kitty Mazarine'",
+  "dove": "elements/bust.kitty.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lady Rowena'",
+  "dove": "elements/statue.rowena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lady Tryphon'",
+  "dove": "elements/painting.tryphon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lady de Braose'",
+  "dove": "elements/statue.debraose.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Leaves in the Wind'",
+  "dove": "elements/painting.tree.teeny.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Light like the ever-burning Wheel rolls all our sins away / they fly forgotten as a dream dies at the opening day.'",
+  "dove": "elements/chair.church.lantern.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Long ago in this country, one did not build a church without first sacrificing a white bull to the Sun-in-Rags…' Solomon Husher brought this tapestry with him from - well, wherever it was that Solomon came from.",
+  "dove": "elements/tapestry.thefoundationofthesun.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lord Munday'",
+  "dove": "elements/painting.munday.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Love in a Quiet Place'",
+  "dove": "elements/painting.coupleinthelibrary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mihail serves one who carries fire in darkness.' [You were asked to place this in the Columbine Sarcophagus beneath the House.]",
+  "dove": "elements/painting.mihail.sarcophagus.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mihail serves one who will profit by their endeavours.' [You were asked to place this on the Chancel altar behind the church.]",
+  "dove": "elements/painting.mihail.altar.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mlle Matutine'",
+  "dove": "elements/painting.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Moly the gods call it, and it is hard for mortal men to dig; but with the gods all things are possible.' - Homer",
+  "dove": "elements/moly.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Musgrave Dewulf'",
+  "dove": "elements/bust.musgrave.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Natalia Brulleau'",
+  "dove": "elements/bust.natalia.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'No Star 'is permitted upon Earth, but we may cozen them to dream of us, and the Dream of a Star may take a kind of form, which we call <i>didumos</i>.' - Thomas Dewulf",
+  "dove": "elements/didumos.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'On a clear autumn day, the story goes, you can see Ys from the Watchman's Tower. I don't know whether that's true. But on a clear day in Numa… you would see the City Unbuilt.' - Dr Brian Levinsen",
+  "dove": "elements/horizonsight.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Our Benefactor'",
+  "dove": "elements/motley1.portrait1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Our Benefactress'",
+  "dove": "elements/motley1.portrait2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perhaps the faintest, driest voice murmured: 'The Librarian that comes after is not the Librarian.' Or perhaps that was only something that once we read.",
+  "dove": "elements/sofa.knock.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Portrait of a Behatted Lady'",
+  "dove": "elements/painting.behatted.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Raveline Summer'",
+  "dove": "elements/painting.poplars.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Red, Blue'",
+  "dove": "elements/painting.picasso1.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'SISTER'",
+  "dove": "elements/bust.knotabbess.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sedona, Not Yet'",
+  "dove": "elements/painting.thecalm.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Self-Born'",
+  "dove": "elements/painting.sky.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Serena Blackwood'",
+  "dove": "elements/bust.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Should this fair rose offend thine eye/Raised to the troubled air/'Twill blush to find itself less white/And turn Lancastrian there.' - Somerville, approximately",
+  "dove": "elements/vase.roses.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sir David Greene'",
+  "dove": "elements/bust.david.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Solomon Husher'",
+  "dove": "elements/bust.solomon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Someone died in this chair,' I find myself thinking. There are no stains or remains; there is nothing at all to suggest that this might be true.",
+  "dove": "elements/armchair.moon.c.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'St Melancthe'",
+  "dove": "elements/bust.melancthe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Supplication'",
+  "dove": "elements/painting.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Boy Prays'",
+  "dove": "elements/painting.teeny3.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Bridge at Ortucchio'",
+  "dove": "elements/painting.bridge.ortucchio.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The First Answer'",
+  "dove": "elements/painting.moth.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The First Birth'",
+  "dove": "elements/painting.grail.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The First End'",
+  "dove": "elements/painting.forge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The First Threshold'",
+  "dove": "elements/painting.edge.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Foundation of the Sun'",
+  "dove": "elements/tapestry.thefoundationofthesun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Foundlings'",
+  "dove": "elements/painting.heart.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Glory is a question, and the Moth always answers Yes. The Velvet's answer is No, and that is always her answer.'",
+  "dove": "elements/hours.velvet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Hatching'",
+  "dove": "elements/painting.scale.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Mansus'",
+  "dove": "elements/painting.mansus.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The More Prominent the Headgear, the Closer to the Glory'",
+  "dove": "elements/painting.behatted.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Moth, the Grail, and the Egg Unhatching all tell different stories of the world's beginning. One of those stories is the oldest, but it may not be the first.' - Abbess Nonna",
+  "dove": "elements/confounding.parable.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Sister-and-Witch brings together what cannot be apart. She is sought beneath the moon and at the water's edge. She is pearl, amber, coral; she cannot be touched; she cannot be separated.'",
+  "dove": "elements/hours.sister.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Sister-and-Witch'",
+  "dove": "elements/hours.sister.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Tattered Outlaw'",
+  "dove": "elements/painting.donkey.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Thunderskin'",
+  "dove": "elements/hours.thunderskin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Velvet'",
+  "dove": "elements/hours.velvet.label",
+  "ricorre": 2
+ },
+ {
+  "en": "'The Watcher'",
+  "dove": "elements/painting.owl.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Wheel Still Turns'",
+  "dove": "elements/painting.moon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Witch-and-Sister unites what is at rest. She is sought at the water's edge and beneath the moon. She cannot be separated; she cannot be touched; she is coral, amber, pearl'",
+  "dove": "elements/hours.witch.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Witch-and-Sister'",
+  "dove": "elements/hours.witch.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'The attention of the Hours is drawn to the bloodiest wars. Afterwards, the Histories are braided like hair.'",
+  "dove": "elements/forbidden.epic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'The eye sees more than the heart knows.' - Blake",
+  "dove": "elements/mem.sight.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The oldest and strongest emotion of mankind is fear, and the oldest and strongest kind of fear is fear of the unknown.' - Lovecraft",
+  "dove": "elements/mem.fear.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "'The tongue and the eye, and now we begin! Forget your name, forget your skin.' [There are Scholar-level Nectar - occasionally, Moon - recipes that will create this from another beverage.]",
+  "dove": "elements/leathy.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'They should be the size of teacup rims, and should curl their crisp edges, faintly pink as the underneath of a young mushroom.' - Lady Jekyll, <i>Kitchen Essays</i>",
+  "dove": "elements/orange.jumble.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thirza Blake'",
+  "dove": "elements/bust.thirza.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'This', Thirza Blake once declared, 'is the colour of my heart.'",
+  "dove": "elements/tea.fragrant.chalice.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "'Thomas Dewulf'",
+  "dove": "elements/bust.thomas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'To Be Fruitful'",
+  "dove": "elements/painting.picasso2.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'To Hear Those Voices'",
+  "dove": "elements/painting.mountainlake.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'To every cry its beginning.'",
+  "dove": "elements/statuette.owl.moth.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'To every god her skin.'",
+  "dove": "elements/bust.knot.moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'To every shadow her name.'",
+  "dove": "elements/bust.knot.moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'To mend a broken heart, to colour a pale soul.'",
+  "dove": "elements/witching.tisane.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'To us it is permitted; to you it is not permitted.' The motto of the Suppression Bureau.",
+  "dove": "elements/motto.bureau.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Useful': a treacherously subjective term. Does this contain anything useful?",
+  "dove": "elements/bag.tricks.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Valentine Dewulf'",
+  "dove": "elements/bust.valentine.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Walter Dewulf'",
+  "dove": "elements/bust.walter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'What is within, without; what is without, within.' A poison sacred to the votaries of the Meniscate.",
+  "dove": "elements/toxin.glassfinger.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'When the light is extinguished, the shadow persists. After the House of the Sun, the House of the Moon.'",
+  "dove": "elements/brazier.moon.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'When the light is extinguished, the shadow persists. After the House of the Sun, the House of the Moon.' [There are Keeper-level Moon recipes which can create this from Asimel.]",
+  "dove": "elements/black.sapphire.wash.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'When the moon rises, the stars watch.'",
+  "dove": "elements/mirror.silver.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "'When the sun was redder, when the world was softer, and the Thirty ruled the sky… the winds were better neighbours.'",
+  "dove": "elements/windinwaiting.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Willem Harries'",
+  "dove": "elements/bust.willem.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'Wit's forge and fire-blast, meaning's press and screw.' - Coleridge, 'On Donne's Poetry'",
+  "dove": "elements/mem.foresight.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "(Look within)",
+  "dove": "elements/box.records.xexts.scrutiny",
+  "ricorre": 9
+ },
+ {
+  "en": "(Look within.)",
+  "dove": "elements/abandoned.luggage.xexts.scrutiny",
+  "ricorre": 17
+ },
+ {
+  "en": "(Ow.)",
+  "dove": "elements/pot.dragon.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "(YOUR PICTURE HERE)",
+  "dove": "elements/canvas.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "--",
+  "dove": "elements/ship.model.kerisham.xexts.scrutiny",
+  "ricorre": 5
+ },
+ {
+  "en": "<i>Aguamiel</i> sweet as nostalgia's dawn. [A previous librarian was said to sweeten lapsang tea with historied honey from this plant.]",
+  "dove": "elements/agave.aeterna.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Rosa rugosa</i>, the beach rose, is often regarded as a foreign interloper on European shores, but this cake is a strong argument for our hospitality.",
+  "dove": "elements/cake.rosehip.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>Snip snip!</i>",
+  "dove": "elements/mirror.shaving.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "<i>agave aeterna</i>, the 'history plant', unlike its cousin the century plant, blooms every year. Perhaps it will do so forever.",
+  "dove": "elements/agave.aeterna.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Henry Moore piece - perhaps a genuine one. Moore did speak, very cautiously, of an 'encounter with a pale commission.'",
+  "dove": "elements/statue.rowena.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A Levinsen 'prefigure' - a copy of a painting that would not be committed to canvas by the <i>real</i> artist for twenty years.",
+  "dove": "elements/painting.mountainlake.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bath-time luxury (but soggy from use, now.)",
+  "dove": "elements/basket.towels.damp.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A beautifully enamelled little image. The maker's mark is 'AW'.",
+  "dove": "elements/statuette.pigeon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bitter but heady liquor. Drink it, and vision persists even after you close your eyes. [There are Prentice-level recipes to craft this with Winter - or, occasionally, Lantern.]",
+  "dove": "elements/eigengrau.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A blemish left on a page (or a skin) by a careful incision (or a judicious sting) to preserve a little of the power of night.",
+  "dove": "elements/midnight.mark.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A blessed warming broth.",
+  "dove": "elements/soup.pumpkin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A blurred, menacing depiction of a vast, flabby carcass the colour of dirty sulphur, patched with brighter yellow. Signed 'Brulleau, 1861'.",
+  "dove": "elements/painting.chiliarch.victory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A blushing nest of possibilities.",
+  "dove": "elements/yarns.warm.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bottle of extraordinary age; a modest slosh of dark, heavily sedimented liquid behind the grimy glass. Just how old is this? Might it still be drinkable? [This wine cannot be served into glasses; drink it, gift it, or keep it.]",
+  "dove": "elements/bottle.blackdove.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bottomless and reproachful appetite! But <i>such a good</i> bottomless appetite!",
+  "dove": "elements/dog.hungry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bright and ringing music which evokes the blue sweep of the lower heavens.",
+  "dove": "elements/ascendant.harmony.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bright clear light.",
+  "dove": "elements/candle.holdergold.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A bright scarlet powder with a silvery brilliance locked within.",
+  "dove": "elements/cinnabar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bright tree of brass.",
+  "dove": "elements/lamp.artdeco.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A bright-flowered ornament.",
+  "dove": "elements/vase.carnations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A candle made with the oils of the 'history plant', <i>agave aeterna</i>.",
+  "dove": "elements/candle.historywax.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A candle scented with <i>pyrus auricalcinus</i>.",
+  "dove": "elements/candle.pyrus.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A candle scented with aglaophotis.",
+  "dove": "elements/candle.aglaophotis.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A candle scented with fragrant chalice.",
+  "dove": "elements/candle.fragrant.chalice.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A candle scented with honeyscar jasmine.",
+  "dove": "elements/candle.honeyscar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A candle scented with moth orchid.",
+  "dove": "elements/candle.mothorchid.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A cheeky decanter of wine fortified with unusual influences.",
+  "dove": "elements/alembic.sly.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A cheerful lavender colour, possibly to encourage rehabilitative enthusiasm.",
+  "dove": "elements/stool.lavender.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A chilly light.",
+  "dove": "elements/candelabrum.snowflake.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "A chitty worth an additional year of life, scrupulously obtained through carefully balanced thaumaturgic attention to the Cindered Tally of the Madrugad.",
+  "dove": "elements/yeartally.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A classic English pudding of apples stewed with cinnamon and layered with crisp golden bread.",
+  "dove": "elements/apple.charlotte.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A clear and fragrant light.",
+  "dove": "elements/candle.beeswax.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A clear and gentle light.",
+  "dove": "elements/candle.bedside.xexts.scrutiny",
+  "ricorre": 2
+ },
+ {
+  "en": "A clot of wood, leaves and feathers that might draw the attention of the entity called Knotwingknot.",
+  "dove": "elements/tanglebrag.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A collection of lepidopteran insects with unusual characteristics.",
+  "dove": "elements/wings.grail.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "A comfortable enough perch.",
+  "dove": "elements/stool.gullscry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A cosy little night light.",
+  "dove": "elements/lamp.fringed.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A creaking cane back generates the occasional spiteful splinter.",
+  "dove": "elements/chair.wicker.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A crimson-stained little cloth doll with merry button eyes and a frill of twitching ribbons.",
+  "dove": "elements/flushed.mommet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A curio brought back from one of Serena Blackwood's trips to Greece.",
+  "dove": "elements/lamp.table.grail.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A dark and syrupy liquor favoured in unnamed forest villages.",
+  "dove": "elements/leathy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A dark fruitwood - cherry? with very nicely executed joinery at the top.",
+  "dove": "elements/stool.moon.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A dawn-coloured seat for a solar congregation.",
+  "dove": "elements/chair.church.heart.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A deceptively intricate riddle that might just teach us who we really are. Gervinus van Lauren was notoriously fond of these.",
+  "dove": "elements/riddle.nameday.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A defiant plant.",
+  "dove": "elements/pot.swiss.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A delicate-featured young (?) woman. An inscription reads ABRA SOUTHEY.",
+  "dove": "elements/bust.abra.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A determined, spiky little survivor.",
+  "dove": "elements/pot.dragon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A distant cousin of salamanders, and of moonlight.",
+  "dove": "elements/stymphling.hungry.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A distant cousin of salamanders, and of moonlight. [Certain Scholar-level recipes will hatch this from an egg in the presence of sufficient Moon.]",
+  "dove": "elements/stymphling.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A dry spell in a still place.",
+  "dove": "elements/painting.poplars.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A dry, aromatic white wine.",
+  "dove": "elements/bottle.jannings.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "A faint mist of spores rises…",
+  "dove": "elements/pot.fern.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A favourite of Kitty Mazarine's second son. Of course she had to leave them behind in the place of her birth, but she brought the recipe to Brancrug. Did she remember him each time she baked it? Even until the very end?",
+  "dove": "elements/pie.pumpkin.amber.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fearsome weapon.",
+  "dove": "elements/weapon.bow.sentry.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fiendishly simple - and wretchedly fragile - optical device.",
+  "dove": "elements/dearday.lens.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A fleetingly familiar taste, and a prickling in the skull…  not surprising, perhaps, that it can be brewed into Skinshuck Mead with the great arts of Moth.",
+  "dove": "elements/honey.cuckoo.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A fluttering in the skull…",
+  "dove": "elements/moly.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A forgotten Name of the Moth?",
+  "dove": "elements/bust.knot.moth.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A forgotten Name of the Velvet?",
+  "dove": "elements/bust.knot.moon.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A fourth-rate ship of the line captained by Sebastian Dewulf in the Battle of Quiberon Bay. Lost with all hands.",
+  "dove": "elements/ship.model.kerisham.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A framed page of illustrated vellum. Up close, the colours dazzle and puzzle.",
+  "dove": "elements/painting.sky.b.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A frankly insensitive name that commemorates the inundation of that fabled city.",
+  "dove": "elements/meringue.ys.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A furry, cloven-looking foot reaches towards a mirror: its reflection is a bird's claw.",
+  "dove": "elements/painting.sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A gently twitching little cloth doll with melancholy button eyes and a frill of coloured ribbons.",
+  "dove": "elements/pale.mommet.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A gift from Governor Collers - apparently, for once, without any ulterior motive.",
+  "dove": "elements/lamp.revelation.xexts.scrutiny",
+  "ricorre": 1
+ },
+ {
+  "en": "A gift from Sir David Greene to a favoured retainer.",
+  "dove": "elements/clock.servants.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A gift long ago from the Labyrinth of Lions.",
+  "dove": "elements/candle.holderthree.persian.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A gloomy study of the sea in gloomy weather.",
+  "dove": "elements/painting.teeny2.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A glorious efflorescence of sunset orange.",
+  "dove": "elements/trumpeters.lily.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A glorious globe of wine-coloured flowers.",
+  "dove": "elements/fragrant.chalice.desc",
+  "ricorre": 1
+ }
+]

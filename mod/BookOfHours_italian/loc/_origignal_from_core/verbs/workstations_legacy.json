@@ -1,0 +1,10 @@
+{
+    "verbs": [
+
+        {	       "id": "world.corals.deeplight",	"label": "Deeplight Corals",	"desc": "Where the wild few traffic with the tides.",	"hints": ["nectar","rose","scale","moon"],	"audio":"WaterDroplet",	"slots": [{	"id": "a","label": "Soul", "essential":{"ability": 1} ,"required":{"nectar":1,"rose":1,"scale":1,"moon":1}	},{	"id": "s","label": "Skill", "essential":{"skill": 1} ,"required":{"nectar":1,"rose":1,"scale":1,"moon":1}	},{	"id": "m","label": "Memory", "essential":{"memory": 1} ,"required":{"nectar":1,"rose":1,"scale":1,"moon":1}	},{	"id": "i1","label": "+" ,"required":{"ability":1},"forbidden":{"fatigued":1}	},{	"id": "i2","label": "+" ,"required":{"memory":1},"forbidden":{"fatigued":1}	}],	 "aspects":{"difficulty.prentice":5,"difficulty.scholar":10,"difficulty.keeper":15 ,"e.bosk":1	},
+        "xtriggers":{"delegacizing":"library.corals.deeplight"},
+        
+        "category": "Workstation"	}
+     
+    ]
+}

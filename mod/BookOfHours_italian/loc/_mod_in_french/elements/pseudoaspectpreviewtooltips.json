@@ -1,0 +1,24 @@
+{
+    "elements": [
+
+        {"id":"hint.workstation","label":"Conseils sur le poste de travail",
+        "desc":"Aspects les plus susceptibles d'être utiles ici: \n\n[plus loin]"},
+
+        {"id":"hint.tothethresholdofthehouse","label":"JUSQU'AU SEUIL DE LA MAISON",
+        "icon":"button_overflow",
+        "desc":"[Vous ne pouvez garder que cinq objets parmi vos effets personnels. Le sixième objet sera abandonné, sauf s'il a déjà une place attitrée. Les objets abandonnés vous attendront à l'extérieur de la Hush House.]"},
+
+        {"id":"hint.essential","label":"ESSENTIEL",
+        "desc":"Pour pouvoir être inséré dans cet emplacement, un objet doit répondre à tous ces critères.", "icon":"slotessential"},
+
+        {"id":"hint.required","label":"OBLIGATOIRE",
+        "desc":"Pour pouvoir être inséré dans cet emplacement, un objet doit correspondre à au moins l'un de ces critères.", "icon":"slotyes"},
+
+        {"id":"hint.forbidden","label":"INTERDIT",
+        "desc":"Si un objet correspond à l'un de ces critères, il ne peut pas être placé dans cet emplacement.", "icon":"slotno"}
+
+
+
+
+    ]
+}

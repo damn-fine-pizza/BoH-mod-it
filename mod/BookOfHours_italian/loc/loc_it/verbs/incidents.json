@@ -1,0 +1,21 @@
+{
+ "verbs": [
+  {
+   "id": "visits",
+   "label": "Visite",
+   "desc": "I Visitatori vanno e vengono."
+  },
+  {
+   "id": "postoffice.delivery",
+   "label": "Messaggio inviato dall’Ufficio Postale"
+  },
+  {
+   "id": "postoffice.invitation",
+   "label": "Visitatore che arriva dopo che un invito è stato spedito dall’Ufficio Postale. Ora usiamo quelli spontanei specifici per ogni visitatore, quindi questo non è usato, ma lo manteniamo perché la molteplicità è importante se ne abbiamo bisogno di uno generico di nuovo."
+  },
+  {
+   "id": "visit.return",
+   "label": "Ora che un visitatore se ne vada"
+  }
+ ]
+}

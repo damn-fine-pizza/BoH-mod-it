@@ -1,0 +1,214 @@
+{
+    "elements": [
+        {
+            "id": "journal.generic.start",
+            "label": "A Drowned Book",
+            "desc": "The one possession I kept from the shipwreck. It must be important to me. [The Aspects below tell you more about how and where you can use this item. Hover over them to learn more.]",
+            "manifestationtype": "Book",
+            "aspects": {"soaked":1,"readable":1,"journal":1,"thing":1},
+            "xtriggers":{"memories.revolutionary":"journal.revolutionary.unc",
+            "memories.executioner":"journal.executioner.unc",
+            "memories.archaeologist":"journal.archaeologist.unc",
+            "memories.cartographer":"journal.cartographer.unc",
+            "memories.prodigal":"journal.prodigal.unc",
+            "memories.twiceborn":"journal.twiceborn.unc",
+        "memories.magnate":"journal.magnate.unc",
+        "memories.symurgist":"journal.symurgist.unc",
+        "memories.artist":"journal.artist.unc"},
+        "audio":"Book",
+            "slots":[     {
+                "id": "memory",
+                "label": "What's left?",
+                "description": "The storm didn't take everything.",
+                "actionid":"consider.setup",                 
+                "required": {"memory": 1,"ability":1}
+            }]
+        },
+        {
+            "id": "journal.revolutionary.unc",
+            "label": "Gunmetal Book",
+            "desc": "The heavy metal cover nearly took me down with it. But I survived, and so will this.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.revolutionary"}
+        },
+        
+        {
+            "id": "journal.executioner.unc",
+            "label": "Mottled Book",
+            "desc": "The cover is unusual. Horn? Bakelite? Chitin? I should be able to remember.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.executioner"}
+        },
+
+              {
+            "id": "journal.archaeologist.unc",
+            "label": "Scarred Book",
+            "desc": "Goatskin? Antelope? Some scarred leather that catches at my memory. I should know.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.archaeologist"}
+        },
+ 
+
+        {
+            "id": "journal.cartographer.unc",
+            "label": "Scaled Book",
+            "desc": "The scaled binding has survived the soaking well enough.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.cartographer"}
+        },
+
+
+        {
+            "id": "journal.prodigal.unc",
+            "label": "Coppery Book",
+            "desc": "The unusual metal binding is untouched by the sea.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.prodigal"}
+        },
+        {
+            "id": "journal.twiceborn.unc",
+            "label": "Stone-Studded Book",
+            "desc": "Dull-gleaming yellowish stones. Amber? I feel that I should know...",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.twiceborn"}
+        },
+        {
+            "id": "journal.magnate.unc",
+            "label": "Silvery Book",
+            "desc": "Is that real silver? I feel that it should be. I should remember.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.magnate"}
+        },
+        {
+            "id": "journal.symurgist.unc",
+            "label": "Feathered Book",
+            "desc": "The feathers that adorn its cover are bedraggled from its time in the sea.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.symurgist"}
+        },
+        {
+            "id": "journal.artist.unc",
+            "label": "Silken Book",
+            "desc": "The binding is unusual - and half-familiar - some kind of silk? It's survived its soaking remarkably well.",
+            "inherits" : "_book.unc",
+            "aspects": {"journal":1},
+            "audio":"Book",
+            "xtriggers":{"scrutiny":"journal.artist"}
+        },
+
+        {
+            "id": "journal.revolutionary",
+            "label": "Ironclad Journal",
+            "desc": "I have striven to be the last Librarian of Hush House. This journal records my strivings. [The Revolutionary's dearest wish, when they came to the House, was to carve out a new History where the most fundamental law would be overthrown; but you can complete the game by recording any History. You might wish to begin your studies with the Horomachistry Wisdom.]",
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.revolutionary":1},
+             "xtriggers":{"qf": "casket.ironclad","mastering.edge":[	{"id":"x.edictsmartial","morpheffect":"spawn","level":3},{"id":"x.skystories","morpheffect":"spawn","level":1}	]}
+        },
+        {
+            "id": "journal.executioner",
+            "label": "Horned Journal",
+            "desc": "I laid so many of those uncanny things to rest. I thought it was right. I fear now it was not. I am the Librarian of Hush House, and here I will ensure they will be remembered. [The Executioner's dearest wish, when they came to the House, was to record a new History which will atone for their crimes; but you can complete the game by recording any History. You might wish to begin your studies with the Preservation Wisdom.]",
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.executioner":1},
+            "xtriggers":{"qf": "casket.mottled","mastering.edge":[	{"id":"x.sickle.eclipse","morpheffect":"spawn","level":3},{"id":"x.surgeries.exsanguinations","morpheffect":"spawn","level":1}]	}
+        },
+
+        {
+            "id": "journal.archaeologist",
+            "label": "Sand-Scarred Journal",
+            "desc": "I am the Librarian of Hush House, and this journal will record what arose from my Crime and my Curse. [The Archaeologist's dearest wish, when they came to the House, was to record a History where their crime could be forgiven... or redefined. But you can complete the game by recording any History. You might wish to begin your studies with the Skolekosophy Wisdom.]",
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.archaeologist":1},
+            "xtriggers":{"qf": "casket.scarred","mastering.edge":[	{"id":"x.raggedcrossroads","morpheffect":"spawn","level":3},{"id":"x.wolfstories","morpheffect":"spawn","level":1}],
+            "mastering.winter":[	{"id":"x.inks.containment","morpheffect":"spawn","level":3},{"id":"x.wolfstories","morpheffect":"spawn","level":1}]	}
+        },
+        {
+            "id": "journal.cartographer",
+            "label": "Serpentskin Journal",
+            "desc": "I am the Librarian of Hush House, and this journal will be my Perpetual Map. [The Cartographer's dearest wish, when they came to the House, was to chart a new History in which their impossible map would be possible; but you can complete the game by recording any History. You might wish to begin your studies with the Nyctodromy Wisdom.]",
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.cartographer":1},
+            "xtriggers":{"qf": "casket.scaled","mastering.lantern":[	{"id":"x.inks.revelation","morpheffect":"spawn","level":3},{"id":"x.path.pilgrim","morpheffect":"spawn","level":1}]	}
+        },
+
+        {
+            "id": "journal.prodigal",
+            "label": "Hammered Copper Journal",
+            "desc": "I've crossed three oceans and almost drowned in one. Now I am the Librarian of Hush House. Perhaps here I will be safe from my parents; but I can't take that for granted. [The Prodigal's dearest wish is sanctuary - as Librarian, or in a History where things are different;but you can complete the game by recording any History. You might wish to begin your studies with the Ithastry Wisdom.]",
+
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.prodigal":1},
+            "xtriggers":{"qf": "casket.coppery","mastering.lantern":[	{"id":"x.pyroglyphics","morpheffect":"spawn","level":3},{"id":"x.bells.brazieries","morpheffect":"spawn","level":1}]	}
+        },
+
+
+        {
+            "id": "journal.twiceborn",
+            "label": "Amber-Flecked Journal",
+            "desc": "I am the Twice-Born Librarian of Hush House, and this is the journal in which I keep my remaining memories. [The Twiceborn's 'third choice' might be life as the Librarian, or it might be something more radical. But you can complete the game by recording any History. You might wish to begin your studies with the Illumination Wisdom.]",
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.twiceborn":1},
+            "xtriggers":{"qf": "casket.ambered","mastering.lantern":[	{"id":"x.auroralcontemplations","morpheffect":"spawn","level":3},{"id":"x.glaziery.lightsmithing","morpheffect":"spawn","level":1}]	}
+                
+
+        },
+        {
+            "id": "journal.magnate",
+            "label": "Silver-Bound Journal",
+            "desc": "I was rich; but something was missing. I am no longer rich... and still, something is missing. Hush House is a place of conclusions, and here, as Librarian, I may find mine. [The Magnate came to the House to conclude a History where they will find peace; but you can complete the game by recording any History. You might wish to begin your studies with the Hushery Wisdom.]",
+
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.magnate":1},
+            "xtriggers":{"qf": "casket.morbid","mastering.winter":[	{"id":"x.quenchings.quellings","morpheffect":"spawn","level":3},{"id":"x.sacralimiae","morpheffect":"spawn","level":1}]	}
+        },
+        {
+            "id": "journal.symurgist",
+            "label": "Feather-Decked Journal",
+            "desc": "In Caer Adar I heard the secret gods speak one to another. I thought that would be the end of my journey, but the more I heard, the more I knew must be missing. I am the Librarian of Hush House, and I will find what has been lost. [The Symurgist came to Hush House to find a History with the songs that have fallen to silence; but you can complete the game by recording any History. You might wish to begin your studies with the Birdsong Wisdom.]",
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.symurgist":1},
+            "xtriggers":{"qf": "case.attache","mastering.winter":[	{"id":"x.rhyme.remembrance","morpheffect":"spawn","level":3},{"id":"x.skystories","morpheffect":"spawn","level":1}]	}
+        },
+        {
+            "id": "journal.artist",
+
+            "label": "Bee-Silk Journal",
+
+            "desc": "'Picasso? I'll give you Picasso.' [The Artist came to Hush House to shape and share a History of primal, ultimate, unprecedented experience; but you can complete the game by recording any History. You might wish to begin your studies with the Bosk Wisdom.]",
+            "inherits" : "_book",
+            "audio":"Book",
+            "aspects": {"journal":1,"memories.artist":1},
+            "xtriggers":{"qf": "casket.hive","mastering.grail":[	{"id":"x.desires.dissolutions","morpheffect":"spawn","level":3},{"id":"x.rites.theroots","morpheffect":"spawn","level":1}]	}
+        }
+
+
+
+      
+       
+
+    ]
+}

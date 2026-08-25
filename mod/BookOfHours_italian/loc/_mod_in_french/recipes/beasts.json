@@ -1,0 +1,61 @@
+{"recipes": [
+ 
+    {"id": "talk.handle.beast",
+    "label": "Passer du temps avec la Bestiole",
+    "actionid": "talk",
+    "reqs":{"beast":1,"ability":1,"sustenance":-1,"cooperative":1},
+    "startdescription": "Offrez à cette bête ma compagnie. Qui sait? Peut-être offrira-t-il quelque chose en retour.",
+    "desc": "Et maintenant, suggère-t-il, un repas serait le bienvenu.",
+    "warmup":60,
+    "aspects":{"fatiguing.ability":1,"dist":1},
+    "craftable":true
+    },
+
+{"id": "talk.feed.beast",
+"label": "Nourrir la Bestiole",
+"actionid": "talk",
+"reqs":{"beast":1,"sustenance":1,"ability":1,"cooperative":-1},
+"startdescription": "Satisfaire l'appétit de cette créature. [La nourriture rendra une bête affamée ou sauvage, coopérative]",
+"desc": "Un ventre plein fait un ami utile. [Cette bestiole est maintenant encline à coopérer]",
+"warmup":60,
+"aspects":{"fatiguing.ability":1,"fatiguing.ingredients":1, "recovering":1},
+"craftable":true
+},
+
+
+{"id": "talk.feed.beast.hint",
+"label": "Nourrir la Bestiole?",
+"actionid": "talk",
+"reqs":{"beast":1,"sustenance":-1,"cooperative":-1},
+"startdescription": "Utilisez une Carte d'Âme et un Aliment approprié. [La nourriture rendra une bête affamée ou sauvage, coopérative]",
+"hintonly":true
+},
+
+{"id": "talk.feed.beast.hint.ability",
+"label": "Nourrir la Bestiole?",
+"actionid": "talk",
+"reqs":{"beast":1,"sustenance":1,"ability":-1,"cooperative":-1},
+"startdescription": "Utilisez une Carte d'Âme et un Aliment approprié. [La nourriture rendra une bête affamée ou sauvage, coopérative]",
+"hintonly":true
+},
+
+
+
+{"id": "talk.full.beast.hint",
+"label": "Une Bestiole bien nourrie?",
+"actionid": "talk",
+"reqs":{"beast":1,"cooperative":1,"sustenance":1},
+"startdescription": "Elle ne s'intéresse pas à la nourriture pour l'instant.",
+"hintonly":true
+},
+
+{"id": "talk.handle.beast.hint",
+"label": "Passer du temps avec la Bestiole?",
+"actionid": "talk",
+"reqs":{"beast":1,"cooperative":1,"ability":-1},
+"startdescription": "[Ajoutez une Carte d'Âme pour interagir avec la bête]",
+"hintonly":true
+}
+
+]
+}

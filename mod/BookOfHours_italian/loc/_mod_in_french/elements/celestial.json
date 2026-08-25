@@ -1,0 +1,157 @@
+{
+    "elements": [
+        {
+            "id": "time.daybreak",
+          "label": "Aube",
+          "aspects":{"sleepytime":1},
+            "desc": "[Aube]",
+            "noartneeded":true,
+            "verbicon":"time.daybreak"
+        },
+        {
+            "id": "time.dawn",
+          "label": "Aurore",
+            "desc": "'L'heure où les rêves sont plus lumineux et le vent plus froid.' - Flecker",
+            "noartneeded":true,
+            "verbicon":"time.dawn"
+        },
+        {
+            "id": "time.morning",
+          "label": "Matin",
+            "desc": "Terce",
+            "noartneeded":true,
+            "verbicon":"time.morning"
+        },
+        {
+            "id": "time.midday",
+          "label": "Midi",
+            "desc": "Sext",
+            "noartneeded":true,
+            "verbicon":"time.midday"
+        },
+        {
+            "id": "time.afternoon",
+          "label": "Après-midi",
+            "desc": "Nones",
+            "noartneeded":true,
+            "verbicon":"time.afternoon"
+        },
+        {
+            "id": "time.dusk",
+          "label": "Crépuscule",
+            "desc": "Vêpres",
+            "noartneeded":true,
+            "verbicon":"time.dusk"
+        },
+        {
+            "id": "time.night",
+          "label": "Nuit",
+            "desc": "Vigile",
+            "aspects":{"sleepytime":1},
+            "noartneeded":true,
+            "verbicon":"time.night"
+        },
+		{
+            "id": "season.spring",
+            "label": "Printemps",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.spring",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.spring.paused"}
+        },
+						{
+            "id": "season.summer",
+            "label": "Été",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.summer",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.summer.paused"}
+        },
+						{
+            "id": "season.autumn",
+            "label": "Automne",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.autumn",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.autumn.paused"}
+        },
+						{
+            "id": "season.winter",
+            "label": "Hiver",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.winter",
+            "noartneeded":true,
+            "ishidden":"true",
+            "xtriggers":{"season.pausing":"season.winter.paused"}
+        },
+        
+						{
+            "id": "season.numa",
+            "label": "Numa",
+			"aspects": {"season":1},
+            "desc": "..",
+            "verbicon":"season.numa",
+            "noartneeded":true,
+            "ishidden":"true"
+        },
+
+        {
+          "id": "season.spring.paused",
+          "label": "Printemps [En pause]",
+
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.spring"}
+      },
+          {
+          "id": "season.summer.paused",
+          "label": "Été [En pause]",
+
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.summer"}
+      },
+          {
+          "id": "season.autumn.paused",
+          "label": "Automne [En pause]",
+
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.autumn"}
+      },
+          {
+          "id": "season.winter.paused",
+          "label": "Hiver [En pause]",
+          "desc": "..",
+          "noartneeded":true,
+          "ishidden":"true",
+          "xtriggers":{"season.unpausing":"season.winter"}
+      },
+
+								{
+            "id": "towards.numa",
+            "label": "Vers Numa",
+            "desc": "La saison appelée Numa visite Brancrug une fois toutes les neuf saisons ; mais Numa est capricieuse comme la brume. Quand exactement au cours de ces neuf saisons il tomberal - c'est très difficile à savoir. Mais plus ce nombre se rapproche de neuf, plus vite Numa arrivera."
+        },
+        {
+          "id": "next.numa",
+          "label": "Numa suivant",
+          "desc": "La prochaine saison sera Numa."
+      },
+      {
+        "id": "block.numa",
+        "label": "Pas encore Numa",
+        "desc": "Empêche l'arrivée du Numa pendant un certain temps - l'un d'entre eux doit être purgé à chaque arrivée de Numa."
+    }
+    ]
+}

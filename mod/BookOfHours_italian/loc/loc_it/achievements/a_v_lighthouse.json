@@ -1,0 +1,58 @@
+{
+ "achievements": [
+  {
+   "id": "A_CATEGORY_LIGHTHOUSE_VICTORY",
+   "label": "Vittoria del Faro"
+  },
+  {
+   "id": "A_LV_GENERIC",
+   "label": "Attraverso la Veglia Essi Vengono",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro, con un percorso incerto attraverso il mondo."
+  },
+  {
+   "id": "A_LV_AUTARCHY",
+   "label": "Ogni Scogliera una Fortezza",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione dell’autosufficienza mortale."
+  },
+  {
+   "id": "A_LV_CORRIVALITY",
+   "label": "Solo i Gemelli Annegano Due Volte",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione della forza attraverso il conflitto."
+  },
+  {
+   "id": "A_LV_PEACE",
+   "label": "Silenzio Dopo il Fulmine",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione di sostenere la pace."
+  },
+  {
+   "id": "A_LV_REVELATION",
+   "label": "Lampada Sopra, Rocce Sotto",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione della rivelazione occulta."
+  },
+  {
+   "id": "A_LV_SECRECY",
+   "label": "Niente di più Affilato nel Buio",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione del segreto occulto."
+  },
+  {
+   "id": "A_LV_BETTER_GODS",
+   "label": "Ogni Fiamma ha il Suo Combustibile",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione di promuovere la creazione di Ore migliori."
+  },
+  {
+   "id": "A_LV_STONE_CONSUMED",
+   "label": "Molti Ciottoli, Una Spiaggia",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione di sfruttare ciò che rimane dei dèi-dalla-pietra."
+  },
+  {
+   "id": "A_LV_STONE_REMEMBERED",
+   "label": "Ciò che il Mondo Ha Perduto",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con la missione di onorare ciò che rimane dei dèi-dalla-pietra."
+  },
+  {
+   "id": "A_LV_UNCERTAIN",
+   "label": "La Hush House Resiste",
+   "descriptionunlocked": "Ho fondato l’Istituto del Faro con una missione torbida di tornaconto personale."
+  }
+ ]
+}

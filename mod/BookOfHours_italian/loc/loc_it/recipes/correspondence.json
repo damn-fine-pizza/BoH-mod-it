@@ -1,0 +1,63 @@
+{
+ "recipes": [
+  {
+   "id": "letter.read",
+   "label": "Leggere una Lettera",
+   "startdescription": "Un messaggio per me... [Leggi la lettera; per rispondere invece, aggiungi Inchiostro a una scrivania.]",
+   "desc": "Ho finito di leggere..."
+  },
+  {
+   "id": "letter.rhonwen.reply.pragmatic",
+   "label": "Una Risposta Pragmatica al Trust di St Rhonwen",
+   "startdescription": "«Il viaggio non è stato semplice, ma eccomi qui. Hush House è vuota e tranquilla. Nulla cammina per questi corridoi. Se qualcosa lo faceva, un tempo, sette anni fa... l’incendio deve averlo purgato.»"
+  },
+  {
+   "id": "letter.rhonwen.reply.charming",
+   "label": "Una Risposta Affascinante al Trust di St Rhonwen",
+   "startdescription": "«Il viaggio è stato difficile, ma nulla avrebbe potuto impedirmi di raggiungere la Casa, e il luogo è tutto ciò che avevo immaginato! – o lo sarà, una volta che l’avrò riportato al suo antico splendore...»"
+  },
+  {
+   "id": "letter.rhonwen.reply.inquisitive",
+   "label": "Una Risposta Curiosa al Trust di St Rhonwen",
+   "startdescription": "«Sono qui, ma la mia situazione è precaria, e c’è ancora tanto che non so. C’è altro che potete dirmi? Sulla Casa, sulla gente del posto, sul loro passato? ..."
+  },
+  {
+   "id": "letter.rhonwen.reply.enigmatic",
+   "label": "Una Risposta Enigmatica al Trust di St Rhonwen",
+   "startdescription": "«Il mare resta; la Casa resta; cos’altro resti, lo scopriremo col tempo. Sono qualcosa di nuovo, e col tempo imparerò cosa significhi...»"
+  },
+  {
+   "id": "letter.rhonwen.reply.straightforward",
+   "label": "Una Risposta Diretta al Trust di St Rhonwen",
+   "startdescription": "«Cari Fiduciari; eccomi.»"
+  },
+  {
+   "id": "letter.numa.invocation.porphyrine.knock",
+   "label": "Comporre una Petizione al Corvo-di-Spiaggia",
+   "startdescription": "Con le arti e i segni appropriati – e il giusto <i>encaustum</i> – un Archivista della Casa potrebbe trovare un modo per attirare l’attenzione diretta di un’Ora. Il Corvo-di-Spiaggia non ha dominio su Numa – nessuna Ora ce l’ha – ma la conosce meglio di alcuni. Forse sarà lui a trovare la stagione.",
+   "desc": "Il disegno è completo. Per viaggiare attraverso la Via dei Cieli Inferiori, deve essere santificato con il sigillo appropriato, da chi è incaricato della consegna di messaggi importanti..."
+  },
+  {
+   "id": "letter.numa.invocation.porphyrine.moon",
+   "label": "Comporre una Petizione alla Sorella-e-Strega",
+   "startdescription": "Con le arti e i segni appropriati – e il giusto <i>encaustum terminale</i> – un Archivista della Casa potrebbe trovare un modo per attirare l’attenzione diretta di un’Ora. La Sorella non ha dominio su Numa – nessuna Ora ce l’ha – ma la conosce meglio di molte altre. Forse porterà lei la stagione.",
+   "desc": "Il disegno è completo. Per viaggiare attraverso la Via dei Cieli Inferiori, deve essere santificato con il sigillo appropriato, da chi è incaricato della consegna di messaggi importanti..."
+  },
+  {
+   "id": "letter.numa.invocation.porphyrine.rose",
+   "label": "Comporre una Petizione alla Vagabonda",
+   "startdescription": "Con le arti e i segni appropriati – e il giusto <i>encaustum terminale</i> – un Archivista della Casa potrebbe trovare un modo per attirare l’attenzione diretta di un’Ora. La Vagabonda non ha dominio su Numa – nessuna Ora ce l’ha – ma la conosce meglio di chiunque altro. Forse la stagione la seguirà fin qui.",
+   "desc": "Il disegno è completo. Per viaggiare attraverso la Via dei Cieli Inferiori, deve essere santificato con il sigillo appropriato, da chi è incaricato della consegna di messaggi importanti..."
+  },
+  {
+   "id": "letter.rhonwen.reply.again.hint",
+   "label": "Una Seconda Risposta?",
+   "startdescription": "Ho già risposto alla Fondazione di St Rhonwen. Posso gettare via quest’altro messaggio... oppure conservarlo per i posteri."
+  },
+  {
+   "id": "letter.rhonwen.reply.hint",
+   "label": "Rispondere al Trust di St Rhonwen?",
+   "startdescription": "[Aggiungi una carta Anima per determinare il tono della lettera. Non tutti gli scrittoi permettono ogni carta Anima...]"
+  }
+ ]
+}

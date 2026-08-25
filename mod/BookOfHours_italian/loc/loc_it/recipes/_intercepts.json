@@ -1,0 +1,21 @@
+{
+ "recipes": [
+  {
+   "id": "upgrade.altar.chancel.mihail",
+   "label": "Rappresenta Mihail sull’altare del Chancel",
+   "startdescription": "Gli occhi si scuriscono al lume di candela.",
+   "desc": "Forse Mihail il Messaggero sarà colui che porterà una candela accesa alla Città Non Costruita. Di certo, non è stato ancora spento. [L’Altare del Chancel ora ammette intenzioni di Forgia e Lanterna.]"
+  },
+  {
+   "id": "upgrade.sarcophagus.columbic.mihail",
+   "label": "Rappresenta Mihail nel Sarcofago",
+   "startdescription": "Gli occhi luccicano nell’oscurità.",
+   "desc": "Forse Mihail il Messaggero non porterà mai fuoco alla Città Non Costruita – ma non è stato ancora spento. [Il Sarcofago ora ammette intenzioni di Forgia e Lanterna.]"
+  },
+  {
+   "id": "manuscript.intercept",
+   "label": "La Mia Opera!",
+   "startdescription": "Posso trarne orgoglio, ma non riesco davvero a studiarlo."
+  }
+ ]
+}

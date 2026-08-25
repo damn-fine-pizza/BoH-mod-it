@@ -1,0 +1,156 @@
+{"recipes": [
+ 
+
+{"id": "talk.visitor.payment.language.cracktrack.tutor",
+"label": "Tutoring: Cracktrack",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of the primal language that we rather underwhelmingly call 'Cracktrack' - because there is no name for that language in that language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.cracktrack":1},
+"extantreqs":{"s.cracktrack":-1},
+"effects":{"s.cracktrack":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+
+{"id": "talk.visitor.payment.language.ericapaean.tutor",
+"label": "Tutoring: Ericapaean",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this elegant language - with its name so notoriously difficult to spell in any language, including itself. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.ericapaean":1},
+"extantreqs":{"s.ericapaean":-1},
+"effects":{"s.ericapaean":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.fucine.tutor",
+"label": "Tutoring: Fucine",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this dry language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.fucine":1},
+"extantreqs":{"s.fucine":-1},
+"effects":{"s.fucine":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.henavek.tutor",
+"label": "Tutoring: Kernewek Henavek",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this forgotten language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.henavek":1},
+"extantreqs":{"s.henavek":-1},
+"effects":{"s.henavek":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.hyksos.tutor",
+"label": "Tutoring: Hyksos",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this sly language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.hyksos":1},
+"extantreqs":{"s.hyksos":-1},
+"effects":{"s.hyksos":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.killasimi.tutor",
+"label": "Tutoring: Killasimi",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this woven language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.killasimi":1},
+"extantreqs":{"s.killasimi":-1},
+"effects":{"s.killasimi":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.mandaic.tutor",
+"label": "Tutoring: Deep Mandaic",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this resonant language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.mandaic":1},
+"extantreqs":{"s.mandaic":-1},
+"effects":{"s.mandaic":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.ramsund.tutor",
+"label": "Tutoring: Ramsund",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this lively language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.ramsund":1},
+"extantreqs":{"s.ramsund":-1},
+"effects":{"s.ramsund":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.sabazine.tutor",
+"label": "Tutoring: Sabazine",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this enigmatic language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.sabazine":1},
+"extantreqs":{"s.sabazine":-1},
+"effects":{"s.sabazine":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+{"id": "talk.visitor.payment.language.vak.tutor",
+"label": "Tutoring: Vak",
+"actionid": "talk",
+"startdescription": "My visitor can teach me the rudiments of this bold language. [After tutoring you, the visitor will leave, even if they arrived on other business.]",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"u.vak":1},
+"extantreqs":{"s.vak":-1},
+"effects":{"s.vak":1,"tally":-1},
+"aspects":{"satisfying":1},
+"warmup":180,
+"craftable":true
+},
+
+
+{"id": "talk.visitor.payment.nothing",
+"label": "Payment for...?",
+"actionid": "talk",
+"startdescription": "My visitor has nothing to offer me just now.",
+"desc":"I've learnt enough to puzzle out books in this language, though it might be slow going. [You can also use and improve this like any other skill.]",
+"reqs": {"tally":1,"visitor":1},
+"hintonly":true
+},
+{"id": "talk.visitor.what",
+"label": "About...?",
+"actionid": "talk",
+"startdescription": "[Pick an Incident that will interest them; or offer them spintriae for tuition.]",
+"reqs": {"visitor":1},
+"hintonly":true
+}
+
+
+
+
+]
+}

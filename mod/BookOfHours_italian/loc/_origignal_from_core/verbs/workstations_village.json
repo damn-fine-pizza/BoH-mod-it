@@ -1,0 +1,224 @@
+{
+    "verbs": [
+
+        {
+            "id": "village.rectory.closed",
+            "label": "The Rectory [Locked]",
+            "desc": "Reverend Timothy is a hospitable soul, but Terrence, his housekeeper, guards her employer fiercely. She doesn't want his innocent theological enthusiasms getting him in trouble with the New King's men.\n [You need an Introduction, or a mutual acquaintance marked with Lantern, Knock, or Sky -  perhaps someone who shares his interests in theology or poetry.]",
+            "category": "Workstation",
+            "audio":"Locked",
+            "slot": {
+                "id": "w",
+                "label": "Front Steps",
+                "description":"I need a mutual acquaintance to introduce me to Reverend Timothy - perhaps someone who shares his interests in theology or poetry.",
+                "essential": {"introduction":1},
+                "required": {"lantern":1,"knock":1,"sky":1},
+                "forbidden":{"introduction.blacksmith.start":1,"introduction.coffinmaker.start":1,"introduction.midwife.start":1}
+            },
+            "xtriggers":{"unlocking":"village.rectory.open","befriending":"village.rectory.open.friend"},
+            "hints":["lantern","knock","sky"]
+        },
+        {
+            "id": "village.smithy.closed",
+            "label": "The Smithy [Locked]",
+            "desc": "Denzil Smith has more work than he needs, and he rarely opens his door to strangers.\n[You need an Introduction, or a mutual acquaintance marked with Edge, Forge, or Heart - someone in a similar trade, or someone who can appeal to his secret passion for saffron cake.]",
+            "category": "Workstation",
+            "audio":"Locked",
+            "slot": {
+                "id": "w",
+                "label": "A Smoky Room",
+                "description":"I need a mutual acquaintance to introduce me to Denzil - someone in a similar trade, or someone who can appeal to his secret passion for saffron cake.",
+                "essential": {"introduction":1},
+                "required": {"edge":1,"forge":1,"heart":1},
+                "forbidden":{"introduction.rector.start":1,"introduction.coffinmaker.start":1,"introduction.midwife.start":1,"reluctant":1}
+                },
+                "xtriggers":{"unlocking":"village.smithy.open","befriending":"village.smithy.open.friend"},
+            "hints":["edge","forge","heart"]
+         },
+        
+        {
+            "id": "village.killes.closed",
+            "label": "Mrs and Mr Kille [Locked]",
+            "desc": "Mrs Kille the midwife is tall and gloomy. Mr Kille the undertaker is slight and wry. In these troubled times, both are wary of strangers. [You need a suitably marked Introduction; check the slot.]",
+            "category": "Workstation",
+            "audio":"Locked",
+            "slot": {
+                "id": "w",
+                "label": "The Front Room",
+                "description":"I need a mutual acquaintance to introduce me to the Killes - someone of stature, or someone who shares their interests.",
+                "essential": {"introduction":1},
+                "required": {"winter":1,"grail":1,"heart":1,"sky":1,"lantern":1,"moon":1},
+                "forbidden":{"introduction.rector.start":1,"introduction.blacksmith.start":1,"reluctant":1}
+            },
+            "xtriggers":{"unlocking":"village.killes.open","befriending":"village.killes.open.friend"},
+            "hints":["winter","grail","heart","sky","lantern","moon"]
+        },
+        {
+            "id": "village.sweetbones.closed",
+            "label": "The Sweet Bones [Locked]",
+            "desc": "After the Restoration of 1930, the New King's agents came looking for his enemies in these parts... and they weren't gentle about it. Since those days, the locals are suspicious of foreigners. No-one in the Sweet Bones will talk to me.",
+            "category": "Workstation",
+            "audio":"Locked",
+            "slot": {
+                "id": "w",
+                "label": "A Sea of Hostile Faces",
+                "description":"Diplomacy? Or bribery?",
+                "required": {"pence":1,"assistance":1,"xcho":1,"xsha":1,"xmet":1},
+                "forbidden":{"reluctant":1}
+            },
+            "xtriggers":{"unlocking":"village.sweetbones.open"}
+        },
+        {
+            "id": "village.postoffice.closed",
+            "label": "The Post Office [Locked]",
+            "desc": "The postmistress may have something for me - once I know what to ask for.",
+            "category": "Workstation",
+            "audio":"Locked",
+            "slot": {
+                "id": "w",
+                "label": "Post Office Counter",
+                "description":"A place of power, a place of knowledge, beneath the sheltering hand of his Majesty the King.",
+                "required": {"journal":1,"readable":1},
+                "forbidden": {"soaked":1,"reluctant":1}
+            },
+            "xtriggers":{"unlocking":"village.postoffice.open"}
+        },
+        {
+            "id": "village.rectory.open",
+            "label": "The Rectory",
+            "desc": "Reverend Timothy's words always run ahead of him, but his thoughts always catch up in the end.",
+            "category": "Workstation",
+            "icon":"village.rectory",
+            "audio":"Rectory",
+            "slot": {
+                "id": "w",
+                "label": "The Study",
+                "description": "Matters of faith?",
+                "essential":{"ability":1},
+                "required": {"lantern":1,"knock":1},
+                "forbidden":{"fatigued":1,"malady":1}
+            },
+            "hints":["lantern","knock"]
+        },
+        {
+            "id": "village.smithy.open",
+            "label": "The Smithy",
+            "desc": "Denzil Smith, strong as oak, blackened by smoke. He will never surpass his father, and he is no longer a soldier. But he still has his craft.",
+            "category": "Workstation",
+            "icon":"village.smithy",
+            "audio":"Smithy",
+            "slot": {
+                "id": "w",
+                "label": "A Smoky Room",
+                "description": "Practical matters?",
+                "essential":{"ability":1},
+                "required": {"edge":1,"forge":1,"heart":1},
+                "forbidden":{"fatigued":1,"malady":1}
+                },
+                "hints":["edge","forge","heart"]
+         },
+        
+        {
+            "id": "village.killes.open",
+            "label": "Mrs and Mr Kille",
+            "desc": "Mrs Kille the midwife is tall and gloomy. Mr Kille the undertaker is slight and wry. For ten years she has drawn villagers into the world and he has shaped cradles for their departure. But she can also whittle, and he can also paint.",
+            "category": "Workstation",
+            "icon":"village.killes",
+            "audio":"Killes",
+            "slot": {
+                "id": "w",
+                "label": "The Front Room",
+                "description": "Matters of life and death?",
+                "essential":{"ability":1},
+                "required": {"winter":1,"grail":1},
+                "forbidden":{"fatigued":1,"malady":1}
+            },
+            "hints":["winter","grail"]
+        },
+        {
+            "id": "village.sweetbones.open",
+            "label": "The 'Sweet Bones'",
+            "desc": "The 'Sweet Bones' has been the public house in Brancrug since Cromwell's time. Its history is notable; its beer is not. Guests looking for discreet employment, or for discreet assistance, congregate in the snug.",
+            "category": "Workstation",
+            "icon":"village.sweetbones",
+            "audio":"SweetBones",
+            "slots": [{
+                "id": "ability",
+                "label": "Me",
+                "required": {"ability":1},
+                "forbidden":{"malady":1}
+            },
+            {
+              "id": "money",
+              "label": "Mine",
+              "required": {"pence":1,"soaked":1,"soiled":1}
+          }]
+        },
+        {
+            "id": "village.postoffice.open",
+            "label": "Post Office",
+            "desc": "The Postmistress keeps the gate to the wider world. In her left hand is the lightning (which is to say, the telegraph) and in her right, the thunder (which is to say, the only telephone in Brancrug). Before her lies the cash-register, which accepteth the greater currency and returneth its lesser children.",
+            "category": "Workstation",
+            "audio":"PostOffice",
+            "icon":"village.postoffice",
+            "slots": [{"id": "l","label": "Offering","description":"What have you brought the Postmistress?","required": {"post.ready":1,"pence":1,"tally":1}}
+            ]
+        },
+
+
+        {
+          "id": "village.rectory.open.friend",
+          "label": "The Rectory",
+          "desc": "Reverend Timothy's words always run ahead of him, but his thoughts always catch up.",
+          "category": "Workstation",
+          "icon":"village.rectory",
+          "audio":"Rectory",
+          "slot": {
+              "id": "w",
+              "label": "The Study",
+              "description": "Reverend Timothy is always pleased to see you.",
+              "essential":{"ability":1},
+              "required": {"lantern":1,"knock":1},
+              "forbidden":{"fatigued":1,"malady":1}
+          },          
+          "hints":["lantern","knock"]
+      },
+      {
+          "id": "village.smithy.open.friend",
+          "label": "The Smithy",
+          "desc": "Denzil Smith, strong as oak, blackened by smoke. He will never surpass his father, and he is no longer a soldier. But he still has his craft.",
+          "category": "Workstation",
+          "icon":"village.smithy",
+          "audio":"Smithy",
+          "slot": {
+              "id": "w",
+              "label": "A Smoky Room",
+              "description": "Denzil doesn't smile when he welcomes you in, but that's only because he's Denzil.",
+              "essential":{"ability":1},
+              "required": {"edge":1,"forge":1,"heart":1},
+              "forbidden":{"fatigued":1,"malady":1}
+              },
+              "hints":["edge","forge","heart"]
+       },
+      
+      {
+          "id": "village.killes.open.friend",
+          "label": "Mrs and Mr Kille",
+          "desc": "Mrs Kille the midwife is tall and gloomy. Mr Kille the undertaker is slight and wry. For ten years she has drawn villagers into the world and he has shaped cradles for their departure. But she can also whittle, and he can also paint.",
+          "category": "Workstation",
+          "icon":"village.killes",
+          "audio":"Killes",
+          "slot": {
+              "id": "w",
+              "label": "The Front Room",
+              "description": "The Killes put the kettle on when they see you coming down the street.",
+              "essential":{"ability":1},
+              "required": {"winter":1,"grail":1},              
+              "forbidden":{"fatigued":1,"malady":1}
+          },
+          "hints":["winter","grail"]
+      }
+
+
+    ]
+}

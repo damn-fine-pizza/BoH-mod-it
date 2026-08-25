@@ -1,0 +1,52 @@
+{
+ "recipes": [
+  {
+   "id": "lighthouse.end.autarchy",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di autosufficienza mortale. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.corrivality",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di perpetuare un conflitto creativo. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.peace",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di preservare la pace. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.revelation",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di diffondere il sapere occulto. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.secrecy",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di proteggere il sapere occulto da attenzioni sconsiderate. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.better.gods",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di creare alternative alle Ore. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.stone.consumed",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di sfruttare i resti degli dèi-dalla-pietra. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.stone.remembered",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni; contribuito a stabilirne la missione di preservare i resti degli dèi-dalla-pietra. Ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.uncertain",
+   "label": "Il Mio Lavoro è Compiuto",
+   "startdescription": "Ho posto le fondamenta dell’Istituto; guidato le trattative; sovrinteso alle prime operazioni. I fondatori non sono mai riusciti a concordare una missione precisa, a parte «tenerci tutti lontani dagli scogli»; ma ora tocca a loro. \n \n [Questo completerà il gioco.]"
+  },
+  {
+   "id": "lighthouse.end.loop"
+  }
+ ]
+}

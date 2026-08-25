@@ -1,0 +1,40 @@
+{
+ "elements": [
+  {
+   "id": "nx.opening",
+   "label": "Apertura"
+  },
+  {
+   "id": "nx.sealing",
+   "label": "Sigillatura"
+  },
+  {
+   "id": "nx.harming",
+   "label": "danneggiare"
+  },
+  {
+   "id": "nx.healing",
+   "label": "guarire"
+  },
+  {
+   "id": "nx.revealing",
+   "label": "rivelare"
+  },
+  {
+   "id": "nx.obscuring",
+   "label": "occultare"
+  },
+  {
+   "id": "nx.helping",
+   "label": "aiutare"
+  },
+  {
+   "id": "nx.thwarting",
+   "label": "contrastare"
+  },
+  {
+   "id": "nx.concluding",
+   "label": "contrastare"
+  }
+ ]
+}

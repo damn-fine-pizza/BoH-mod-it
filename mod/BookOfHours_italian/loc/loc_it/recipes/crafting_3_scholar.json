@@ -1,0 +1,778 @@
+{
+ "recipes": [
+  {
+   "id": "craft.scholar.disciplines.thescar_leaf_perinculate_edge",
+   "Label": "Crea: Perinculate",
+   "StartDescription": "Distilla un Inchiostro di Potere di famigerata letalità. \n\n[Discipline della Cicatrice con <sprite name=edge> da Studioso, più Foglia, crea Perinculate.]",
+   "Desc": "[Con Lama da Custode, il Perinculate è il precursore del Latte di Serpente.]"
+  },
+  {
+   "id": "craft.scholar.edictsmartial_leaf_perinculate_edge",
+   "Label": "Crea: Perinculate",
+   "StartDescription": "Distilla un Inchiostro di Potere di famigerata letalità. \n\n[Editti Marziali con <sprite name=edge> da Studioso, più Foglia, crea Perinculate.]",
+   "Desc": "[Con Lama da Custode, il Perinculate è il precursore del Latte di Serpente.]"
+  },
+  {
+   "id": "craft.scholar.inks.power_leaf_perinculate_scale",
+   "Label": "Crea: Perinculate",
+   "StartDescription": "Distilla un Inchiostro di Potere di famigerata letalità. \n\n[Inchiostri di Potere con <sprite name=scale> da Studioso, più Foglia, crea Perinculate.]",
+   "Desc": "[Con Lama da Custode, il Perinculate è il precursore del Latte di Serpente.]"
+  },
+  {
+   "id": "craft.scholar.sickle.eclipse_leaf_perinculate_edge",
+   "Label": "Crea: Perinculate",
+   "StartDescription": "Distilla un Inchiostro di Potere di famigerata letalità. \n\n[Falce & Eclissi con <sprite name=edge> da Studioso, più Foglia, crea Perinculate.]",
+   "Desc": "[Con Lama da Custode, il Perinculate è il precursore del Latte di Serpente.]"
+  },
+  {
+   "id": "craft.scholar.putrefactions.calcinations_leaf_perinculate_winter",
+   "Label": "Crea: Perinculate",
+   "StartDescription": "Distilla un Inchiostro di Potere di famigerata letalità. \n\n[Putrefazioni & Calcinazioni con <sprite name=winter> da Studioso, più Foglia, crea Perinculate.]",
+   "Desc": "[Con Lama da Custode, il Perinculate è il precursore del Latte di Serpente.]"
+  },
+  {
+   "id": "craft.scholar.disciplines.thehammer_memory_winning.move_edge",
+   "Label": "Crea: Mossa Vincente",
+   "StartDescription": "Stabilisci una sintesi di alternative. \n\n[Discipline del Martello con <sprite name=edge> da Studioso, più Memoria, crea Mossa Vincente.]",
+   "Desc": "[Con Lama da Custode, una Mossa Vincente è il precursore dell’Audacia Invincibile.]"
+  },
+  {
+   "id": "craft.scholar.auroralcontemplations_memory_winning.move_edge",
+   "Label": "Crea: Mossa Vincente",
+   "StartDescription": "Stabilisci una sintesi di alternative. \n\n[Contemplazioni Aurorali con <sprite name=edge> da Studioso, più Memoria, crea Mossa Vincente.]",
+   "Desc": "[Con Lama da Custode, una Mossa Vincente è il precursore dell’Audacia Invincibile.]"
+  },
+  {
+   "id": "craft.scholar.meniscatereflections_memory_winning.move_edge",
+   "Label": "Crea: Mossa Vincente",
+   "StartDescription": "Stabilisci una sintesi di alternative. \n\n[Riflessi Meniscati con <sprite name=edge> da Studioso, più Memoria, crea Mossa Vincente.]",
+   "Desc": "[Con Lama da Custode, una Mossa Vincente è il precursore dell’Audacia Invincibile.]"
+  },
+  {
+   "id": "craft.scholar.sharps_memory_winning.move_edge",
+   "Label": "Crea: Mossa Vincente",
+   "StartDescription": "Stabilisci una sintesi di alternative. \n\n[Taglienti con <sprite name=edge> da Studioso, più Memoria, crea Mossa Vincente.]",
+   "Desc": "[Con Lama da Custode, una Mossa Vincente è il precursore dell’Audacia Invincibile.]"
+  },
+  {
+   "id": "craft.scholar.raggedcrossroads_memory_winning.move_edge",
+   "Label": "Crea: Mossa Vincente",
+   "StartDescription": "Stabilisci una sintesi di alternative. \n\n[Crocevia Logoro con <sprite name=edge> da Studioso, più Memoria, crea Mossa Vincente.]",
+   "Desc": "[Con Lama da Custode, una Mossa Vincente è il precursore dell’Audacia Invincibile.]"
+  },
+  {
+   "id": "craft.scholar.transformations.liberations_liquid_essence.iotic_forge",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Trasforma questo liquido in un’essenza ramata del potere della Forgia. \n\n[Trasformazioni & Liberazioni con <sprite name=forge> da Studioso, più Liquido, crea Essenza Iotica.]",
+   "Desc": "[Con Forgia da Custode, l’Essenza Iotica è il precursore del Grande Inchiostro chiamato Orpimento Esultante; con Lanterna da Custode, può invece diventare Essenza Xantotica.]"
+  },
+  {
+   "id": "craft.scholar.anbary.lapidary_liquid_essence.iotic_forge",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Dai energia a questo liquido, fino a renderlo un’essenza ramata del potere della Forgia. \n\n[Ambreria & Lapidario con <sprite name=forge> da Studioso, più Liquido, crea Essenza Iotica.]",
+   "Desc": "[Con Forgia da Custode, l’Essenza Iotica è il precursore del Grande Inchiostro chiamato Orpimento Esultante; con Lanterna da Custode, può invece diventare Essenza Xantotica.]"
+  },
+  {
+   "id": "craft.scholar.pyroglyphics_liquid_essence.iotic_forge",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Incandesci questo liquido in un’essenza rossastra del potere della Forgia. \n\n[Piroglifici con <sprite name=forge> da Studioso, più Liquido, crea Essenza Iotica.]",
+   "Desc": "[Con Forgia da Custode, l’Essenza Iotica è il precursore del Grande Inchiostro chiamato Orpimento Esultante; con Lanterna da Custode, può invece diventare Essenza Xantotica.]"
+  },
+  {
+   "id": "craft.scholar.spices.savours_liquid_essence.iotic_forge",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Insaporisci questo liquido, fino a farne un’essenza rossastra del potere della Forgia. \n\n[Spezie & Sapori con <sprite name=forge> da Studioso, più Liquido, crea Essenza Iotica.]",
+   "Desc": "[Con Forgia da Custode, l’Essenza Iotica è il precursore del Grande Inchiostro chiamato Orpimento Esultante; con Lanterna da Custode, può invece diventare Essenza Xantotica.]"
+  },
+  {
+   "id": "craft.scholar.meniscatereflections_liquid_essence.iotic_forge",
+   "Label": "Crea: Essenza Iotica",
+   "StartDescription": "Riequilibra questo liquido in un’essenza ramata del potere della Forgia. \n\n[Riflessi Meniscati con <sprite name=forge> da Studioso, più Liquido, crea Essenza Iotica.]",
+   "Desc": "[Con Forgia da Custode, l’Essenza Iotica è il precursore del Grande Inchiostro chiamato Orpimento Esultante; con Lanterna da Custode, può invece diventare Essenza Xantotica.]"
+  },
+  {
+   "id": "craft.scholar.bells.brazieries_metal_wire.orichalcum_forge",
+   "Label": "Crea: Filo (Oricalco)",
+   "StartDescription": "Usa questo metallo come base per la leggendaria lega di Forgia chiamata oricalco. \n\n[Campane & Bracieri con <sprite name=forge> da Studioso, più Metallo, crea Filo (Oricalco).]",
+   "Desc": "[Con Forgia da Custode, l’oricalco può catalizzare e contenere l’Azoth.]"
+  },
+  {
+   "id": "craft.scholar.door.wall_metal_wire.orichalcum_forge",
+   "Label": "Crea: Filo (Oricalco)",
+   "StartDescription": "Usa questo metallo come base per la leggendaria lega di Forgia chiamata oricalco. \n\n[Porta & Muro con <sprite name=forge> da Studioso, più Metallo, crea Filo (Oricalco).]",
+   "Desc": "[Con Forgia da Custode, l’oricalco può catalizzare e contenere l’Azoth.]"
+  },
+  {
+   "id": "craft.scholar.disciplines.thehammer_metal_wire.orichalcum_forge",
+   "Label": "Crea: Filo (Oricalco)",
+   "StartDescription": "Usa questo metallo come base per la leggendaria lega di Forgia chiamata oricalco. \n\n[Discipline del Martello con <sprite name=forge> da Studioso, più Metallo, crea Filo (Oricalco).]",
+   "Desc": "[Con Forgia da Custode, l’oricalco può catalizzare e contenere l’Azoth.]"
+  },
+  {
+   "id": "craft.scholar.glassblowing.vesselcrafting_metal_wire.orichalcum_knock",
+   "Label": "Crea: Filo (Oricalco)",
+   "StartDescription": "Usa questo metallo come base per la leggendaria lega di Forgia chiamata oricalco. \n\n[Vetro Soffiato & Vasellame con <sprite name=knock> da Studioso, più Metallo, crea Filo (Oricalco).]",
+   "Desc": "[Con Forgia da Custode, l’oricalco può catalizzare e contenere l’Azoth.]"
+  },
+  {
+   "id": "craft.scholar.lockworks.clockworks_metal_wire.orichalcum_sky",
+   "Label": "Crea: Filo (Oricalco)",
+   "StartDescription": "Usa questo metallo come base per la leggendaria lega di Forgia chiamata oricalco. \n\n[Serrature & Orologi con <sprite name=sky> da Studioso, più Metallo, crea Filo (Oricalco).]",
+   "Desc": "[Con Forgia da Custode, l’oricalco può catalizzare e contenere l’Azoth.]"
+  },
+  {
+   "id": "craft.scholar.desires.dissolutions_flower_rubywise.ruin_grail",
+   "Label": "Crea: Rovina Rubinosa",
+   "StartDescription": "Distilla un liquore di Graal. \n\n[Desideri & Dissoluzioni con <sprite name=grail> da Studioso, più Fiore, crea Rovina Rubinosa.]",
+   "Desc": "[Con Graal da Custode, la Rovina Rubinosa è un precursore del Sacramento Calicite.]"
+  },
+  {
+   "id": "craft.scholar.orchids.narcotics_flower_rubywise.ruin_grail",
+   "Label": "Crea: Rovina Rubinosa",
+   "StartDescription": "Distilla un liquore di Graal. \n\n[Orchidee & Narcotici con <sprite name=grail> da Studioso, più Fiore, crea Rovina Rubinosa.]",
+   "Desc": "[Con Graal da Custode, la Rovina Rubinosa è un precursore del Sacramento Calicite.]"
+  },
+  {
+   "id": "craft.scholar.applebrighteuphonies_flower_rubywise.ruin_grail",
+   "Label": "Crea: Rovina Rubinosa",
+   "StartDescription": "Distilla un liquore di Graal. \n\n[Eufonie di Applebright con <sprite name=grail> da Studioso, più Fiore, crea Rovina Rubinosa.]",
+   "Desc": "[Con Graal da Custode, la Rovina Rubinosa è un precursore del Sacramento Calicite.]"
+  },
+  {
+   "id": "craft.scholar.leaves.thorns_flower_rubywise.ruin_grail",
+   "Label": "Crea: Rovina Rubinosa",
+   "StartDescription": "Distilla un liquore di Graal. \n\n[Foglie & Spine con <sprite name=grail> da Studioso, più Fiore, crea Rovina Rubinosa.]",
+   "Desc": "[Con Graal da Custode, la Rovina Rubinosa è un precursore del Sacramento Calicite.]"
+  },
+  {
+   "id": "craft.scholar.seastories_fabric_pale.mommet_grail",
+   "Label": "Crea: Fantoccio Pallido",
+   "StartDescription": "Investi potere di Graal in una bambola quasi viva. \n\n[Storie di Mare con <sprite name=grail> da Studioso, più Tessuto, crea Fantoccio Pallido.]",
+   "Desc": "[Con Graal da Custode, un Fantoccio Pallido è un precursore di un Fantoccio Arrossato.]"
+  },
+  {
+   "id": "craft.scholar.pentiments.precursors_fabric_pale.mommet_grail",
+   "Label": "Crea: Fantoccio Pallido",
+   "StartDescription": "Investi potere di Graal in una bambola quasi viva. \n\n[Pentimenti & Precursori con <sprite name=grail> da Studioso, più Tessuto, crea Fantoccio Pallido.]",
+   "Desc": "[Con Graal da Custode, un Fantoccio Pallido è un precursore di un Fantoccio Arrossato.]"
+  },
+  {
+   "id": "craft.scholar.resurgences.emergences_fabric_pale.mommet_grail",
+   "Label": "Crea: Fantoccio Pallido",
+   "StartDescription": "Investi potere di Graal in una bambola quasi viva. \n\n[Risorgenze & Emersioni con <sprite name=grail> da Studioso, più Tessuto, crea Fantoccio Pallido.]",
+   "Desc": "[Con Graal da Custode, un Fantoccio Pallido è un precursore di un Fantoccio Arrossato.]"
+  },
+  {
+   "id": "craft.scholar.thegreatsignsandthegreatscars_fabric_pale.mommet_grail",
+   "Label": "Crea: Fantoccio Pallido",
+   "StartDescription": "Investi potere di Graal in una bambola quasi viva. \n\n[I Grandi Segni e le Grandi Cicatrici con <sprite name=grail> da Studioso, più Tessuto, crea Fantoccio Pallido.]",
+   "Desc": "[Con Graal da Custode, un Fantoccio Pallido è un precursore di un Fantoccio Arrossato.]"
+  },
+  {
+   "id": "craft.scholar.tridesmahiera_fabric_pale.mommet_grail",
+   "Label": "Crea: Fantoccio Pallido",
+   "StartDescription": "Investi potere di Graal in una bambola quasi viva. \n\n[Tridesma Hiera con <sprite name=grail> da Studioso, più Tessuto, crea Fantoccio Pallido.]",
+   "Desc": "[Con Graal da Custode, un Fantoccio Pallido è un precursore di un Fantoccio Arrossato.]"
+  },
+  {
+   "id": "craft.scholar.weaving.knotworking_fabric_frithweft_heart",
+   "Label": "Crea: Frith-Weft",
+   "StartDescription": "Compi una tessitura di pace per manifestare l’aspetto di Cuore. \n\n[Tessitura & Annodatura con <sprite name=heart> da Studioso, più Tessuto, crea Frith-Weft.]",
+   "Desc": "[Con Cuore da Custode, una Frith-Weft è un precursore del Tuono Avvolto.]"
+  },
+  {
+   "id": "craft.scholar.stitching.binding_fabric_frithweft_heart",
+   "Label": "Crea: Frith-Weft",
+   "StartDescription": "Compi una tessitura di pace per manifestare l’aspetto di Cuore. \n\n[Cucitura & Rilegatura con <sprite name=heart> da Studioso, più Tessuto, crea Frith-Weft.]",
+   "Desc": "[Con Cuore da Custode, una Frith-Weft è un precursore del Tuono Avvolto.]"
+  },
+  {
+   "id": "craft.scholar.quenchings.quellings_liquid_liquid.gideon_heart",
+   "Label": "Crea: Macerati di Gideon",
+   "StartDescription": "Prepara macerati curativi di Cuore. \n\n[Spegnimenti & Placamenti con <sprite name=heart> da Studioso, più Liquido, crea Macerati di Gideon.]",
+   "Desc": "[Con Cuore da Custode, i Macerati sono il precursore della Sanguinaria di Gennaio.]"
+  },
+  {
+   "id": "craft.scholar.edictsinviolable_liquid_liquid.gideon_heart",
+   "Label": "Crea: Macerati di Gideon",
+   "StartDescription": "Prepara macerati curativi di Cuore. \n\n[Editti Inviolabili con <sprite name=heart> da Studioso, più Liquido, crea Macerati di Gideon.]",
+   "Desc": "[Con Cuore da Custode, i Macerati sono il precursore della Sanguinaria di Gennaio.]"
+  },
+  {
+   "id": "craft.scholar.drums.dances_instrument_music.thunderskin_heart",
+   "Label": "Crea: Peana del Pelledituono",
+   "StartDescription": "Suscita a suon di tamburo una musica di Cuore. \n\n[Tamburi & Danze con <sprite name=heart> da Studioso, più Strumento, crea Peana del Pelledituono.]",
+   "Desc": "[Con Cuore da Custode, il Paean è il precursore del Tuono Avvolto.]"
+  },
+  {
+   "id": "craft.scholar.surgeries.exsanguinations_liquid_liquid.gideon_heart",
+   "Label": "Crea: Macerati di Gideon",
+   "StartDescription": "Prepara macerati curativi di Cuore. \n\n[Chirurgie & Dissanguamenti con <sprite name=heart> da Studioso, più Liquido, crea Macerati di Gideon.]",
+   "Desc": "[Con Cuore da Custode, i Macerati sono il precursore della Sanguinaria di Gennaio.]"
+  },
+  {
+   "id": "craft.scholar.maggephenemysteries_liquid_liquid.gideon_heart",
+   "Label": "Crea: Macerati di Gideon",
+   "StartDescription": "Prepara macerati curativi di Cuore. \n\n[Misteri Maggephene con <sprite name=heart> da Studioso, più Liquido, crea Macerati di Gideon.]",
+   "Desc": "[Con Cuore da Custode, i Macerati sono il precursore della Sanguinaria di Gennaio.]"
+  },
+  {
+   "id": "craft.scholar.herbs.infusions_liquid_liquid.gideon_heart",
+   "Label": "Crea: Macerati di Gideon",
+   "StartDescription": "Prepara macerati curativi di Cuore. \n\n[Erbe & Infusi con <sprite name=heart> da Studioso, più Liquido, crea Macerati di Gideon.]",
+   "Desc": "[Con Cuore da Custode, i Macerati sono il precursore della Sanguinaria di Gennaio.]"
+  },
+  {
+   "id": "craft.scholar.lockworks.clockworks_glass_gervinite_knock",
+   "Label": "Crea: Gervinite",
+   "StartDescription": "Risolvi una lega di Battente. \n\n[Serrature & Orologi con <sprite name=knock> da Studioso, più Vetro, crea Gervinite.]",
+   "Desc": "[Con Battente da Custode, la gervinite è l’ingrediente essenziale di un Chronsichord.]"
+  },
+  {
+   "id": "craft.scholar.thegreatsignsandthegreatscars_memory_curious.hunch_knock",
+   "Label": "Crea: Curioso Presentimento",
+   "StartDescription": "Intreccia le memorie in una certezza. \n\n[I Grandi Segni e le Grandi Cicatrici con <sprite name=knock> da Studioso, più Memoria, crea Curioso Presentimento.]",
+   "Desc": "Il dono della Falena? O il mio?"
+  },
+  {
+   "id": "craft.scholar.edictsliminal_liquid_toxin.glassfinger_knock",
+   "Label": "Crea: Tossina Ditovetro",
+   "StartDescription": "Distilla una tossina di Battente, luminosa e letale. \n\n[Editti Liminali con <sprite name=knock> da Studioso, più Liquido, crea Tossina Ditovetro.]",
+   "Desc": "[Con Battente da Custode, la Tossina Ditovetro è il precursore del Sacramento Ascite.]"
+  },
+  {
+   "id": "craft.scholar.preliminalmeter_memory_curious.hunch_knock",
+   "Label": "Crea: Curioso Presentimento",
+   "StartDescription": "Intreccia le memorie in una certezza. \n\n[Metro Preliminale con <sprite name=knock> da Studioso, più Memoria, crea Curioso Presentimento.]",
+   "Desc": "Il dono della Falena? O il mio?"
+  },
+  {
+   "id": "craft.scholar.glaziery.lightsmithing_metal_gervinite_sky",
+   "Label": "Crea: Gervinite",
+   "StartDescription": "Risolvi una lega di Battente. \n\n[Vetreria & Lucefabbro con <sprite name=sky> da Studioso, più Metallo, crea Gervinite.]",
+   "Desc": "[Con Battente da Custode, la gervinite è l’ingrediente essenziale di un Chronsichord.]"
+  },
+  {
+   "id": "craft.scholar.solutions.separations_liquid_toxin.glassfinger_knock",
+   "Label": "Crea: Tossina Ditovetro",
+   "StartDescription": "Distilla una tossina di Battente, luminosa e letale. \n\n[Soluzioni & Separazioni con <sprite name=knock> da Studioso, più Liquido, crea Tossina Ditovetro.]",
+   "Desc": "[Con Battente da Custode, e questa abilità, la Tossina Ditovetro è il precursore del Sacramento Ascite.]"
+  },
+  {
+   "id": "craft.scholar.serpents.venoms_liquid_toxin.glassfinger_scale",
+   "Label": "Crea: Tossina Ditovetro",
+   "StartDescription": "Distilla una tossina di Battente, luminosa e letale. \n\n[Serpenti & Veleni con <sprite name=scale> da Studioso, più Liquido, crea Tossina Ditovetro.]",
+   "Desc": "[Con Serpenti & Veleni, e Luna da Custode – non Squama – la Tossina Ditovetro è il precursore del Sacramento Ascite.]"
+  },
+  {
+   "id": "craft.scholar.surgeries.exsanguinations_liquid_toxin.glassfinger_knock",
+   "Label": "Crea: Tossina Ditovetro",
+   "StartDescription": "Distilla una tossina di Battente, luminosa e letale. \n\n[Chirurgie & Dissanguamenti con <sprite name=knock> da Studioso, più Liquido, crea Tossina Ditovetro.]",
+   "Desc": "[Con Battente da Custode, e questa abilità, la Tossina Ditovetro è il precursore del Sacramento Ascite.]"
+  },
+  {
+   "id": "craft.scholar.stonestories_remains_essential.periost_nectar",
+   "Label": "Crea: Periostio Essenziale",
+   "StartDescription": "Risveglia le verdi e oscure memorie della terra, portate nelle ossa. \n\n[Storie di Pietra con <sprite name=nectar> da Studioso, più Resti, crea Periostio Essenziale.]",
+   "Desc": "[Con Nettare da Custode, e questa abilità, il Periostio Essenziale può essere usato per distillare il Sacramento Malachite.]"
+  },
+  {
+   "id": "craft.scholar.door.wall_liquid_toxin.glassfinger_knock",
+   "Label": "Crea: Tossina Ditovetro",
+   "StartDescription": "Distilla una tossina di Battente, luminosa e letale. \n\n[Porta & Muro con <sprite name=knock> da Studioso, più Liquido, crea Tossina Ditovetro.]",
+   "Desc": "[Con Battente da Custode, la Tossina Ditovetro è il precursore del Sacramento Ascite.]"
+  },
+  {
+   "id": "craft.scholar.purifications.exaltations_liquid_essence.xanthotic_lantern",
+   "Label": "Crea: Essenza Xantotica",
+   "StartDescription": "Esalta questo liquido in un’essenza dorata del potere della Lanterna. \n\n[Purificazioni & Esaltazioni con <sprite name=lantern> da Studioso, più Liquido, crea Essenza Xantotica.]",
+   "Desc": "[Con Lanterna da Custode, l’Essenza Xantotica è il precursore del Grande Inchiostro Uzult.]"
+  },
+  {
+   "id": "craft.scholar.transformations.liberations_liquid_essence.xanthotic_lantern",
+   "Label": "Crea: Essenza Xantotica",
+   "StartDescription": "Trasforma questo liquido in un’essenza dorata del potere della Lanterna. \n\n[Trasformazioni & Liberazioni con <sprite name=lantern> da Studioso, più Liquido, crea Essenza Xantotica.]",
+   "Desc": "[Con Lanterna da Custode, l’Essenza Xantotica è il precursore del Grande Inchiostro Uzult.]"
+  },
+  {
+   "id": "craft.scholar.auroralcontemplations_liquid_essence.xanthotic_lantern",
+   "Label": "Crea: Essenza Xantotica",
+   "StartDescription": "Schiarisci questo liquido in un’essenza dorata del potere della Lanterna. \n\n[Contemplazioni Aurorali con <sprite name=lantern> da Studioso, più Liquido, crea Essenza Xantotica.]",
+   "Desc": "[Con Lanterna da Custode, l’Essenza Xantotica è il precursore del Grande Inchiostro Uzult.]"
+  },
+  {
+   "id": "craft.scholar.pyroglyphics_liquid_essence.xanthotic_lantern",
+   "Label": "Crea: Essenza Xantotica",
+   "StartDescription": "Incandesci questo liquido in un’essenza dorata del potere della Lanterna. \n\n[Piroglifici con <sprite name=lantern> da Studioso, più Liquido, crea Essenza Xantotica.]",
+   "Desc": "[Con Lanterna da Custode, l’Essenza Xantotica è il precursore del Grande Inchiostro Uzult.]"
+  },
+  {
+   "id": "craft.scholar.anbary.lapidary_liquid_essence.xanthotic_sky",
+   "Label": "Crea: Essenza Xantotica",
+   "StartDescription": "Dai energia a questo liquido, fino a renderlo un’essenza dorata del potere della Lanterna. \n\n[Ambreria & Lapidario con <sprite name=sky> da Studioso, più Liquido, crea Essenza Xantotica.]",
+   "Desc": "[Con Lanterna da Custode – non Cielo – l’Essenza Xantotica è il precursore del Grande Inchiostro Uzult.]"
+  },
+  {
+   "id": "craft.scholar.glassblowing.vesselcrafting_glass_ichor.vitreous_lantern",
+   "Label": "Crea: Icore Vitreo",
+   "StartDescription": "Distilla un fluido di Lanterna, pallido e vigile. \n\n[Vetro Soffiato & Vasellame con <sprite name=lantern> da Studioso, più Vetro, crea Icore Vitreo.]",
+   "Desc": "[Con Lanterna da Custode, l’Icore Vitreo è il precursore dell’inchiostro ashartine.]"
+  },
+  {
+   "id": "craft.scholar.watchmansparadoxes_glass_ichor.vitreous_lantern",
+   "Label": "Crea: Icore Vitreo",
+   "StartDescription": "Distilla un fluido di Lanterna, pallido e vigile. \n\n[Paradossi del Guardiano con <sprite name=lantern> da Studioso, più Vetro, crea Icore Vitreo.]",
+   "Desc": "[Con Lanterna da Custode, l’Icore Vitreo è il precursore dell’inchiostro ashartine.]"
+  },
+  {
+   "id": "craft.scholar.glaziery.lightsmithing_glass_ichor.vitreous_lantern",
+   "Label": "Crea: Icore Vitreo",
+   "StartDescription": "Distilla un fluido di Lanterna, pallido e vigile. \n\n[Vetreria & Lucefabbro con <sprite name=lantern> da Studioso, più Vetro, crea Icore Vitreo.]",
+   "Desc": "[Con Lanterna da Custode, l’Icore Vitreo è il precursore dell’inchiostro ashartine.]"
+  },
+  {
+   "id": "craft.scholar.sacrasolisinvicti_glass_ichor.vitreous_lantern",
+   "Label": "Crea: Icore Vitreo",
+   "StartDescription": "Distilla un fluido di Lanterna, pallido e vigile. \n\n[Sacra Solis Invicti con <sprite name=lantern> da Studioso, più Vetro, crea Icore Vitreo.]",
+   "Desc": "[Con Lanterna da Custode, l’Icore Vitreo è il precursore dell’inchiostro ashartine.]"
+  },
+  {
+   "id": "craft.scholar.inks.revelation_glass_ichor.vitreous_lantern",
+   "Label": "Crea: Icore Vitreo",
+   "StartDescription": "Distilla un fluido di Lanterna, pallido e vigile. \n\n[Inchiostri di Rivelazione con <sprite name=lantern> da Studioso, più Vetro, crea Icore Vitreo.]",
+   "Desc": "[Con Lanterna da Custode, l’Icore Vitreo è il precursore dell’inchiostro ashartine.]"
+  },
+  {
+   "id": "craft.scholar.rhyme.remembrance_egg_stymphling_moon",
+   "Label": "Crea: Stymphling",
+   "StartDescription": "Fai schiudere dall’uovo una cosa maliziosa di Luna. \n\n[Rima & Rimembranza con <sprite name=moon> da Studioso, più Uovo, crea Stymphling.]",
+   "Desc": "[Con Luna da Custode, gli stymphling possono produrre Sogni d’Assenzio.]"
+  },
+  {
+   "id": "craft.scholar.sandstories_egg_stymphling_moon",
+   "Label": "Crea: Stymphling",
+   "StartDescription": "Fai schiudere dall’uovo una cosa maliziosa di Luna. \n\n[Storie di Sabbia con <sprite name=moon> da Studioso, più Uovo, crea Stymphling.]",
+   "Desc": "[Con Luna da Custode, gli stymphling possono produrre Sogni d’Assenzio.]"
+  },
+  {
+   "id": "craft.scholar.tridesmahiera_egg_stymphling_moon",
+   "Label": "Crea: Stymphling",
+   "StartDescription": "Fai schiudere dall’uovo una cosa maliziosa di Luna. \n\n[Tridesma Hiera con <sprite name=moon> da Studioso, più Uovo, crea Stymphling.]",
+   "Desc": "[Con Luna da Custode, gli stymphling possono produrre Sogni d’Assenzio.]"
+  },
+  {
+   "id": "craft.scholar.snowstories_egg_stymphling_moon",
+   "Label": "Crea: Stymphling",
+   "StartDescription": "Fai schiudere dall’uovo una cosa maliziosa di Luna. \n\n[Storie di Neve con <sprite name=moon> da Studioso, più Uovo, crea Stymphling.]",
+   "Desc": "[Con Luna da Custode, gli stymphling possono produrre Sogni d’Assenzio.]"
+  },
+  {
+   "id": "craft.scholar.serpents.venoms_egg_stymphling_moon",
+   "Label": "Crea: Stymphling",
+   "StartDescription": "Fai schiudere dall’uovo una cosa maliziosa di Luna. \n\n[Serpenti & Veleni con <sprite name=moon> da Studioso, più Uovo, crea Stymphling.]",
+   "Desc": "[Con Luna da Custode, gli stymphling possono produrre Sogni d’Assenzio.]"
+  },
+  {
+   "id": "craft.scholar.inks.revelation_liquid_asimel_moth",
+   "Label": "Crea: Asimel",
+   "StartDescription": "Distilla un inchiostro argenteo di Luna. \n\n[Inchiostri di Rivelazione con <sprite name=moth> da Studioso, più Liquido, crea Asimel.]",
+   "Desc": "[Con Luna da Custode – non Falena – l’asimel può scurirsi fino allo zaffiro nero.]"
+  },
+  {
+   "id": "craft.scholar.putrefactions.calcinations_liquid_asimel_moon",
+   "Label": "Crea: Asimel",
+   "StartDescription": "Distilla un inchiostro argenteo di Luna. \n\n[Putrefazioni & Calcinazioni con <sprite name=moon> da Studioso, più Liquido, crea Asimel.]",
+   "Desc": "[Con Luna da Custode, l’asimel può approfondirsi fino allo zaffiro nero.]"
+  },
+  {
+   "id": "craft.scholar.seastories_liquid_asimel_moon",
+   "Label": "Crea: Asimel",
+   "StartDescription": "Distilla un inchiostro argenteo di Luna. \n\n[Storie di Mare con <sprite name=moon> da Studioso, più Liquido, crea Asimel.]",
+   "Desc": "[Con Luna da Custode, l’asimel può approfondirsi fino allo zaffiro nero.]"
+  },
+  {
+   "id": "craft.scholar.ouranoscopy_lens_asimel_moon",
+   "Label": "Crea: Asimel",
+   "StartDescription": "Concentra la luce dei cieli per ravvivare un inchiostro argenteo di Luna. \n\n[Uranoscopia con <sprite name=moon> da Studioso, più Lente, crea Asimel.]",
+   "Desc": "[Con Luna da Custode, i sigilli d’asimel possono evocare un influsso celeste.]"
+  },
+  {
+   "id": "craft.scholar.pearl.tide_liquid_asimel_moon",
+   "Label": "Crea: Asimel",
+   "StartDescription": "Distilla un inchiostro argenteo di Luna. \n\n[Perla & Marea con <sprite name=moon> da Studioso, più Liquido, crea Asimel.]",
+   "Desc": "[Con Luna da Custode, l’asimel può approfondirsi fino allo zaffiro nero.]"
+  },
+  {
+   "id": "craft.scholar.sacralimiae_memory_riddle.nameday_moth",
+   "Label": "Crea: Enigma dell’Onomastico",
+   "StartDescription": "Concepisci un enigma di Falena. \n\n[Sacra Limiae con <sprite name=moth> da Studioso, più Memoria, crea Enigma dell’Onomastico.]",
+   "Desc": "È questa una via per il Bosco? Ma forse il Bosco non è un luogo adatto a un Archivista."
+  },
+  {
+   "id": "craft.scholar.edictsliminal_memory_riddle.nameday_moth",
+   "Label": "Crea: Enigma dell’Onomastico",
+   "StartDescription": "Concepisci un enigma di Falena. \n\n[Editti Liminali con <sprite name=moth> da Studioso, più Memoria, crea Enigma dell’Onomastico.]",
+   "Desc": "È questa una via per il Bosco? Ma forse il Bosco non è un luogo adatto a un Archivista."
+  },
+  {
+   "id": "craft.scholar.solutions.separations_memory_riddle.nameday_moth",
+   "Label": "Crea: Enigma dell’Onomastico",
+   "StartDescription": "Concepisci un enigma di Falena. \n\n[Soluzioni & Separazioni con <sprite name=moth> da Studioso, più Memoria, crea Enigma dell’Onomastico.]",
+   "Desc": "È questa una via per il Bosco? Ma forse il Bosco non è un luogo adatto a un Archivista."
+  },
+  {
+   "id": "craft.scholar.rites.theroots_memory_riddle.nameday_moth",
+   "Label": "Crea: Enigma dell’Onomastico",
+   "StartDescription": "Concepisci un enigma di Falena. \n\n[Riti delle Radici con <sprite name=moth> da Studioso, più Memoria, crea Enigma dell’Onomastico.]",
+   "Desc": "È questa una via per il Bosco? Ma forse il Bosco non è un luogo adatto a un Archivista."
+  },
+  {
+   "id": "craft.scholar.weaving.knotworking_memory_riddle.nameday_moth",
+   "Label": "Crea: Enigma dell’Onomastico",
+   "StartDescription": "Concepisci un enigma di Falena. \n\n[Tessitura & Annodatura con <sprite name=moth> da Studioso, più Memoria, crea Enigma dell’Onomastico.]",
+   "Desc": "È questa una via per il Bosco? Ma forse il Bosco non è un luogo adatto a un Archivista."
+  },
+  {
+   "id": "craft.scholar.insects.nectars_egg_larva.chimeric_moon",
+   "Label": "Crea: Larva Chimerica",
+   "StartDescription": "Sotto gli auspici del crepuscolo, fai schiudere una larva priva di occhi che pulsa di potenziale di Falena. \n\n[Insetti & Nettari con <sprite name=moon> da Studioso, più Uovo, crea Larva Chimerica.]",
+   "Desc": "[Con Luna da Custode, forse potrei indurlo a svilupparsi ulteriormente – purché sia ben nutrito.]"
+  },
+  {
+   "id": "craft.scholar.resurgences.emergences_egg_larva.chimeric_moth",
+   "Label": "Crea: Larva Chimerica",
+   "StartDescription": "Fai schiudere una larva priva di occhi che pulsa di potenziale di Falena. \n\n[Risorgenze & Emersioni con <sprite name=moth> da Studioso, più Uovo, crea Larva Chimerica.]",
+   "Desc": "[Con Falena da Custode, forse potrei indurlo a svilupparsi ulteriormente – purché sia ben nutrito.]"
+  },
+  {
+   "id": "craft.scholar.transformations.liberations_egg_larva.chimeric_moth",
+   "Label": "Crea: Larva Chimerica",
+   "StartDescription": "Fai schiudere una larva priva di occhi che pulsa di potenziale di Falena. \n\n[Trasformazioni & Liberazioni con <sprite name=moth> da Studioso, più Uovo, crea Larva Chimerica.]",
+   "Desc": "[Con Falena da Custode, forse potrei indurlo a svilupparsi ulteriormente – purché sia ben nutrito.]"
+  },
+  {
+   "id": "craft.scholar.horns.ivories_egg_larva.chimeric_knock",
+   "Label": "Crea: Larva Chimerica",
+   "StartDescription": "Fai schiudere una larva priva di occhi che pulsa di potenziale di Falena. \n\n[Corna & Avori con <sprite name=knock> da Studioso, più Uovo, crea Larva Chimerica.]",
+   "Desc": "[Con Falena da Custode – non Battente – e un’abilità più adatta, forse potrei indurlo a svilupparsi ulteriormente – purché sia ben nutrito.]"
+  },
+  {
+   "id": "craft.scholar.hill.hollow_egg_larva.chimeric_moon",
+   "Label": "Crea: Larva Chimerica",
+   "StartDescription": "Fai schiudere una larva priva di occhi che pulsa di potenziale di Falena. \n\n[Colle & Valle con <sprite name=moon> da Studioso, più Uovo, crea Larva Chimerica.]",
+   "Desc": "[Con Falena da Custode – non Luna – e un’abilità più adatta, forse potrei indurlo a svilupparsi ulteriormente – purché sia ben nutrito.]"
+  },
+  {
+   "id": "craft.scholar.leaves.thorns_wood_pyrus.auricalcinus_nectar",
+   "Label": "Crea: Pyrus Auricalcinus",
+   "StartDescription": "Ridesta uno strano frutto, maturo di aspetto sia di Forgia che di Nettare, perché sbocci dal legno. \n\n[Foglie & Spine con <sprite name=nectar> da Studioso, più Legno, crea Pyrus Auricalcinus.]",
+   "Desc": "[Con Nettare da Custode, il Pyrus Auricalcinus è un precursore del Sacramento Malachite.]"
+  },
+  {
+   "id": "craft.scholar.spices.savours_wood_pyrus.auricalcinus_nectar",
+   "Label": "Crea: Pyrus Auricalcinus",
+   "StartDescription": "Ridesta uno strano frutto, maturo di aspetto sia di Forgia che di Nettare, perché sbocci dal legno. \n\n[Spezie & Sapori con <sprite name=nectar> da Studioso, più Legno, crea Pyrus Auricalcinus.]",
+   "Desc": "[Con Nettare da Custode, il Pyrus Auricalcinus è un precursore del Sacramento Malachite.]"
+  },
+  {
+   "id": "craft.scholar.drums.dances_instrument_music.hive_nectar",
+   "Label": "Crea: Lamento dell’Alveare",
+   "StartDescription": "Un battito nel cuore… \n\n[Tamburi & Danze con <sprite name=nectar> da Studioso, più Strumento, crea Lamento dell’Alveare.]",
+   "Desc": "Un ronzio nel cranio…"
+  },
+  {
+   "id": "craft.scholar.coil.chasm_wood_pyrus.auricalcinus_nectar",
+   "Label": "Crea: Pyrus Auricalcinus",
+   "StartDescription": "Ridesta uno strano frutto, maturo di aspetto sia di Forgia che di Nettare, perché sbocci dal legno. \n\n[Spira & Baratro con <sprite name=nectar> da Studioso, più Legno, crea Pyrus Auricalcinus.]",
+   "Desc": "[Con Nettare da Custode, il Pyrus Auricalcinus è un precursore del Sacramento Malachite.]"
+  },
+  {
+   "id": "craft.scholar.desires.dissolutions_wood_pyrus.auricalcinus_moon",
+   "Label": "Crea: Pyrus Auricalcinus",
+   "StartDescription": "Ridesta uno strano frutto, maturo di aspetto sia di Forgia che di Nettare, perché sbocci dal legno. \n\n[Desideri & Dissoluzioni con <sprite name=moon> da Studioso, più Legno, crea Pyrus Auricalcinus.]",
+   "Desc": "[Con Nettare da Custode – non Luna – il Pyrus Auricalcinus è un precursore del Sacramento Malachite.]"
+  },
+  {
+   "id": "craft.scholar.inks.containment_beverage_leathy_moon",
+   "Label": "Crea: Leathy",
+   "StartDescription": "Distilla un liquore di Falena. \n\n[Inchiostri di Contenimento con <sprite name=moon> da Studioso, più Bevanda, crea Leathy.]",
+   "Desc": "[Con Nettare da Custode – non Luna – il Leathy è un precursore del Grande Inchiostro Marakat.]"
+  },
+  {
+   "id": "craft.scholar.rites.theroots_beverage_leathy_nectar",
+   "Label": "Crea: Leathy",
+   "StartDescription": "Distilla un liquore di Falena. \n\n[Riti delle Radici con <sprite name=nectar> da Studioso, più Bevanda, crea Leathy.]",
+   "Desc": "[Con Nettare da Custode – non Luna – il Leathy è un precursore del Grande Inchiostro Marakat.]"
+  },
+  {
+   "id": "craft.scholar.orchids.narcotics_beverage_leathy_nectar",
+   "Label": "Crea: Leathy",
+   "StartDescription": "Distilla un liquore di Falena. \n\n[Orchidee & Narcotici con <sprite name=nectar> da Studioso, più Bevanda, crea Leathy.]",
+   "Desc": "[Con Nettare da Custode – non Luna – il Leathy è un precursore del Grande Inchiostro Marakat.]"
+  },
+  {
+   "id": "craft.scholar.herbs.infusions_beverage_leathy_nectar",
+   "Label": "Crea: Leathy",
+   "StartDescription": "Distilla un liquore di Falena. \n\n[Erbe & Infusi con <sprite name=nectar> da Studioso, più Bevanda, crea Leathy.]",
+   "Desc": "[Con Nettare da Custode – non Luna – il Leathy è un precursore del Grande Inchiostro Marakat.]"
+  },
+  {
+   "id": "craft.scholar.insects.nectars_beverage_leathy_nectar",
+   "Label": "Crea: Leathy",
+   "StartDescription": "Distilla un liquore di Falena. \n\n[Insetti & Nettari con <sprite name=nectar> da Studioso, più Bevanda, crea Leathy.]",
+   "Desc": "[Con Nettare da Custode – non Luna – il Leathy è un precursore del Grande Inchiostro Marakat.]"
+  },
+  {
+   "id": "craft.scholar.auroralcontemplations_light_ichor.auroral_rose",
+   "Label": "Crea: Icore Aurorale",
+   "StartDescription": "Condensa la luce in un fluido di Rosa. \n\n[Contemplazioni Aurorali con <sprite name=rose> da Studioso, più Luce, crea Icore Aurorale.]",
+   "Desc": "[Con Rosa da Custode, l’Icore Aurorale è un precursore del Grande Inchiostro Porfirina.]"
+  },
+  {
+   "id": "craft.scholar.sandstories_light_ichor.auroral_rose",
+   "Label": "Crea: Icore Aurorale",
+   "StartDescription": "Condensa la luce in un fluido di Rosa. \n\n[Storie di Sabbia con <sprite name=rose> da Studioso, più Luce, crea Icore Aurorale.]",
+   "Desc": "[Con Rosa da Custode, l’Icore Aurorale è un precursore del Grande Inchiostro Porfirina.]"
+  },
+  {
+   "id": "craft.scholar.sights.sensations_light_ichor.auroral_sky",
+   "Label": "Crea: Icore Aurorale",
+   "StartDescription": "Condensa la luce in un fluido di Rosa. \n\n[Visioni & Sensazioni con <sprite name=sky> da Studioso, più Luce, crea Icore Aurorale.]",
+   "Desc": "[Con Rosa da Custode – non Cielo – l’Icore Aurorale è un precursore del Grande Inchiostro Porfirina.]"
+  },
+  {
+   "id": "craft.scholar.watchmansparadoxes_light_ichor.auroral_sky",
+   "Label": "Crea: Icore Aurorale",
+   "StartDescription": "Condensa la luce in un fluido di Rosa. \n\n[Paradossi del Guardiano con <sprite name=sky> da Studioso, più Luce, crea Icore Aurorale.]",
+   "Desc": "[Con Rosa da Custode – non Cielo – l’Icore Aurorale è un precursore del Grande Inchiostro Porfirina.]"
+  },
+  {
+   "id": "craft.scholar.inks.power_light_ichor.auroral_rose",
+   "Label": "Crea: Icore Aurorale",
+   "StartDescription": "Condensa la luce in un fluido di Rosa. \n\n[Inchiostri di Potere con <sprite name=rose> da Studioso, più Luce, crea Icore Aurorale.]",
+   "Desc": "[Con Rosa da Custode, l’Icore Aurorale è un precursore del Grande Inchiostro Porfirina.]"
+  },
+  {
+   "id": "craft.scholar.preliminalmeter_memory_enduring.reflection_rose",
+   "Label": "Crea: Riflesso Duraturo",
+   "StartDescription": "Raffina la memoria in qualcosa di Rosa. \n\n[Metro Preliminale con <sprite name=rose> da Studioso, più Memoria, crea Riflesso Duraturo.]",
+   "Desc": "[Con Rosa da Custode, un Riflesso Duraturo può dare origine a visioni di possibilità più selvagge...]"
+  },
+  {
+   "id": "craft.scholar.pearl.tide_memory_enduring.reflection_rose",
+   "Label": "Crea: Riflesso Duraturo",
+   "StartDescription": "Raffina la memoria in qualcosa di Rosa. \n\n[Perla & Marea con <sprite name=rose> da Studioso, più Memoria, crea Riflesso Duraturo.]",
+   "Desc": "[Con Rosa da Custode, un Riflesso Duraturo può dare origine a visioni di possibilità più selvagge...]"
+  },
+  {
+   "id": "craft.scholar.path.pilgrim_memory_enduring.reflection_rose",
+   "Label": "Crea: Riflesso Duraturo",
+   "StartDescription": "Raffina la memoria in qualcosa di Rosa. \n\n[Cammino & Pellegrino con <sprite name=rose> da Studioso, più Memoria, crea Riflesso Duraturo.]",
+   "Desc": "[Con Rosa da Custode, un Riflesso Duraturo può dare origine a visioni di possibilità più selvagge...]"
+  },
+  {
+   "id": "craft.scholar.skystories_memory_enduring.reflection_rose",
+   "Label": "Crea: Riflesso Duraturo",
+   "StartDescription": "Raffina la memoria in qualcosa di Rosa. \n\n[Storie di Cielo con <sprite name=rose> da Studioso, più Memoria, crea Riflesso Duraturo.]",
+   "Desc": "[Con Rosa da Custode, un Riflesso Duraturo può dare origine a visioni di possibilità più selvagge...]"
+  },
+  {
+   "id": "craft.scholar.strings.songs_instrument_music.thunderskin_heart",
+   "Label": "Crea: Peana del Pelledituono",
+   "StartDescription": "Pizzica una musica di Cuore. \n\n[Corde & Canti con <sprite name=heart> da Studioso, più Strumento, crea Peana del Pelledituono.]",
+   "Desc": "[Con Cuore da Custode, il Paean è il precursore del Tuono Avvolto.]"
+  },
+  {
+   "id": "craft.scholar.hill.hollow_egg_relic.living_scale",
+   "Label": "Crea: Reliquia Vivente",
+   "StartDescription": "Fai schiudere dall’uovo una reliquia di Squama. \n\n[Colle & Valle con <sprite name=scale> da Studioso, più Uovo, crea Reliquia Vivente.]",
+   "Desc": "[Con Squama da Custode, una Reliquia Vivente può essere indotta ad aiutare nella produzione di Houndsgall.]"
+  },
+  {
+   "id": "craft.scholar.furs.feathers_egg_relic.living_scale",
+   "Label": "Crea: Reliquia Vivente",
+   "StartDescription": "Fai schiudere dall’uovo una reliquia di Squama. \n\n[Pellicce & Piume con <sprite name=scale> da Studioso, più Uovo, crea Reliquia Vivente.]",
+   "Desc": "[Con Squama da Custode, una Reliquia Vivente può essere indotta ad aiutare nella produzione di Houndsgall.]"
+  },
+  {
+   "id": "craft.scholar.stonestories_egg_relic.living_scale",
+   "Label": "Crea: Reliquia Vivente",
+   "StartDescription": "Fai schiudere dall’uovo una reliquia di Squama. \n\n[Storie di Pietra con <sprite name=scale> da Studioso, più Uovo, crea Reliquia Vivente.]",
+   "Desc": "[Con Squama da Custode, una Reliquia Vivente può essere indotta ad aiutare nella produzione di Houndsgall.]"
+  },
+  {
+   "id": "craft.scholar.pentiments.precursors_egg_relic.living_scale",
+   "Label": "Crea: Reliquia Vivente",
+   "StartDescription": "Fai schiudere dall’uovo una reliquia di Squama. \n\n[Pentimenti & Precursori con <sprite name=scale> da Studioso, più Uovo, crea Reliquia Vivente.]",
+   "Desc": "[Con Squama da Custode, una Reliquia Vivente può essere indotta ad aiutare nella produzione di Houndsgall.]"
+  },
+  {
+   "id": "craft.scholar.stitching.binding_egg_relic.living_sky",
+   "Label": "Crea: Reliquia Vivente",
+   "StartDescription": "Fai schiudere dall’uovo una reliquia di Squama. \n\n[Cucitura & Rilegatura con <sprite name=sky> da Studioso, più Uovo, crea Reliquia Vivente.]",
+   "Desc": "[Con Squama da Custode – non Cielo – una Reliquia Vivente può essere indotta ad aiutare nella produzione di Houndsgall.]"
+  },
+  {
+   "id": "craft.scholar.horns.ivories_memory_old.moment_scale",
+   "Label": "Crea: Vecchio Momento",
+   "StartDescription": "Richiama qualcosa di perduto, qualcosa dall’aspetto di Squama… \n\n[Corna & Avori con <sprite name=scale> da Studioso, più Memoria, crea Vecchio Momento.]",
+   "Desc": "[Con Squama da Custode, un Vecchio Momento può condurre a un Nome del Terremoto.]"
+  },
+  {
+   "id": "craft.scholar.path.pilgrim_memory_old.moment_scale",
+   "Label": "Crea: Vecchio Momento",
+   "StartDescription": "Richiama qualcosa di perduto, qualcosa dall’aspetto di Squama… \n\n[Cammino & Pellegrino con <sprite name=scale> da Studioso, più Memoria, crea Vecchio Momento.]",
+   "Desc": "[Con Squama da Custode, un Vecchio Momento può condurre a un Nome del Terremoto.]"
+  },
+  {
+   "id": "craft.scholar.coil.chasm_memory_old.moment_scale",
+   "Label": "Crea: Vecchio Momento",
+   "StartDescription": "Richiama qualcosa di perduto, qualcosa dall’aspetto di Squama… \n\n[Spira & Baratro con <sprite name=scale> da Studioso, più Memoria, crea Vecchio Momento.]",
+   "Desc": "[Con Squama da Custode, un Vecchio Momento può condurre a un Nome del Terremoto.]"
+  },
+  {
+   "id": "craft.scholar.disciplines.thescar_memory_old.moment_lantern",
+   "Label": "Crea: Vecchio Momento",
+   "StartDescription": "Richiama qualcosa di perduto, qualcosa dall’aspetto di Squama… \n\n[Discipline della Cicatrice con <sprite name=lantern> da Studioso, più Memoria, crea Vecchio Momento.]",
+   "Desc": "[Con Squama da Custode – non Lanterna – un Vecchio Momento può condurre a un Nome del Terremoto.]"
+  },
+  {
+   "id": "craft.scholar.wolfstories_memory_old.moment_scale",
+   "Label": "Crea: Vecchio Momento",
+   "StartDescription": "Richiama qualcosa di perduto, qualcosa dall’aspetto di Squama… \n\n[Storie di Lupo con <sprite name=scale> da Studioso, più Memoria, crea Vecchio Momento.]",
+   "Desc": "[Con Squama da Custode – non Lanterna – un Vecchio Momento può condurre a un Nome del Terremoto.]"
+  },
+  {
+   "id": "craft.scholar.ouranoscopy_wood_mazarine.fife_sky",
+   "Label": "Crea: Piffero di Mazarine",
+   "StartDescription": "Intaglia uno strumento dall’aspetto di Cielo. \n\n[Uranoscopia con <sprite name=sky> da Studioso, più Legno, crea Piffero di Mazarine.]",
+   "Desc": "[Con Cielo da Custode, un Piffero di Mazarine è uno strumento essenziale per evocare un Vento-in-Attesa.]"
+  },
+  {
+   "id": "craft.scholar.sacralimiae_wood_mazarine.fife_sky",
+   "Label": "Crea: Piffero di Mazarine",
+   "StartDescription": "Intaglia uno strumento dall’aspetto di Cielo. \n\n[Sacra Limiae con <sprite name=sky> da Studioso, più Legno, crea Piffero di Mazarine.]",
+   "Desc": "[Con Cielo da Custode, un Piffero di Mazarine è uno strumento essenziale per evocare un Vento-in-Attesa.]"
+  },
+  {
+   "id": "craft.scholar.sacrasolisinvicti_wood_mazarine.fife_sky",
+   "Label": "Crea: Piffero di Mazarine",
+   "StartDescription": "Intaglia uno strumento dall’aspetto di Cielo. \n\n[Sacra Solis Invicti con <sprite name=sky> da Studioso, più Legno, crea Piffero di Mazarine.]",
+   "Desc": "[Con Cielo da Custode, un Piffero di Mazarine è uno strumento essenziale per evocare un Vento-in-Attesa.]"
+  },
+  {
+   "id": "craft.scholar.applebrighteuphonies_instrument_ascendant.harmony_sky",
+   "Label": "Crea: Armonia Ascendente",
+   "StartDescription": "Evoca una musica luminosa di Cielo. \n\n[Eufonie di Applebright con <sprite name=sky> da Studioso, più Strumento, crea Armonia Ascendente.]",
+   "Desc": "[Con Cielo da Custode, un’Armonia Ascendente potrebbe evocare un Didumos.]"
+  },
+  {
+   "id": "craft.scholar.skystories_instrument_ascendant.harmony_sky",
+   "Label": "Crea: Armonia Ascendente",
+   "StartDescription": "Evoca una musica luminosa di Cielo. \n\n[Storie di Cielo con <sprite name=sky> da Studioso, più Strumento, crea Armonia Ascendente.]",
+   "Desc": "[Con Cielo da Custode, un’Armonia Ascendente potrebbe evocare un Didumos.]"
+  },
+  {
+   "id": "craft.scholar.furs.feathers_instrument_ascendant.harmony_sky",
+   "Label": "Crea: Armonia Ascendente",
+   "StartDescription": "Evoca una musica luminosa di Cielo. \n\n[Pellicce & Piume con <sprite name=sky> da Studioso, più Strumento, crea Armonia Ascendente.]",
+   "Desc": "[Con Cielo da Custode, un’Armonia Ascendente potrebbe evocare un Didumos.]"
+  },
+  {
+   "id": "craft.scholar.strings.songs_instrument_ascendant.harmony_sky",
+   "Label": "Crea: Armonia Ascendente",
+   "StartDescription": "Evoca una musica luminosa di Cielo. \n\n[Corde & Canti con <sprite name=sky> da Studioso, più Strumento, crea Armonia Ascendente.]",
+   "Desc": "[Con Cielo da Custode, un’Armonia Ascendente potrebbe evocare un Didumos.]"
+  },
+  {
+   "id": "craft.scholar.bells.brazieries_instrument_ascendant.harmony_sky",
+   "Label": "Crea: Armonia Ascendente",
+   "StartDescription": "Evoca una musica luminosa di Cielo. \n\n[Campane & Bracieri con <sprite name=sky> da Studioso, più Strumento, crea Armonia Ascendente.]",
+   "Desc": "[Con Cielo da Custode, un’Armonia Ascendente potrebbe evocare un Didumos.]"
+  },
+  {
+   "id": "craft.scholar.maggephenemysteries_flower_liquid.solomon_moon",
+   "Label": "Crea: Preparazione di Solomon",
+   "StartDescription": "Pesta e mescola una preparazione invernale. \n\n[Misteri Maggephene con <sprite name=moon> da Studioso, più Fiore, crea Preparazione di Solomon.]",
+   "Desc": "[Con Inverno da Custode – non Luna – le Preparazioni di Solomon sono un precursore del Grande Inchiostro Nillycant.]"
+  },
+  {
+   "id": "craft.scholar.sights.sensations_flower_liquid.solomon_winter",
+   "Label": "Crea: Preparazione di Solomon",
+   "StartDescription": "Pesta e mescola una preparazione invernale. \n\n[Visioni & Sensazioni con <sprite name=winter> da Studioso, più Fiore, crea Preparazione di Solomon.]",
+   "Desc": "[Con Inverno da Custode, le Preparazioni di Solomon sono precursori del Grande Inchiostro Nillycant.]"
+  },
+  {
+   "id": "craft.scholar.raggedcrossroads_flower_liquid.solomon_winter",
+   "Label": "Crea: Preparazione di Solomon",
+   "StartDescription": "Pesta e mescola una preparazione invernale. \n\n[Crocevia Logoro con <sprite name=winter> da Studioso, più Fiore, crea Preparazione di Solomon.]",
+   "Desc": "[Con Inverno da Custode, le Preparazioni di Solomon sono precursori del Grande Inchiostro Nillycant.]"
+  },
+  {
+   "id": "craft.scholar.edictsinviolable_flower_liquid.solomon_moon",
+   "Label": "Crea: Preparazione di Solomon",
+   "StartDescription": "Pesta e mescola una preparazione invernale. \n\n[Editti Inviolabili con <sprite name=moon> da Studioso, più Fiore, crea Preparazione di Solomon.]",
+   "Desc": "[Con Inverno da Custode – non Luna – le Preparazioni di Solomon sono un precursore del Grande Inchiostro Nillycant.]"
+  },
+  {
+   "id": "craft.scholar.quenchings.quellings_flower_liquid.solomon_winter",
+   "Label": "Crea: Preparazione di Solomon",
+   "StartDescription": "Pesta e mescola una preparazione invernale. \n\n[Spegnimenti & Placamenti con <sprite name=winter> da Studioso, più Fiore, crea Preparazione di Solomon.]",
+   "Desc": "[Con Inverno da Custode, le Preparazioni di Solomon sono precursori del Grande Inchiostro Nillycant.]"
+  },
+  {
+   "id": "craft.scholar.inks.containment_flower_liquid.solomon_winter",
+   "Label": "Crea: Preparazione di Solomon",
+   "StartDescription": "Pesta e mescola una preparazione invernale. \n\n[Inchiostri di Contenimento con <sprite name=winter> da Studioso, più Fiore, crea Preparazione di Solomon.]",
+   "Desc": "[Con Inverno da Custode, le Preparazioni di Solomon sono precursori del Grande Inchiostro Nillycant.]"
+  },
+  {
+   "id": "craft.scholar.rhyme.remembrance_remains_essential.periost_winter",
+   "Label": "Crea: Periostio Essenziale",
+   "StartDescription": "Riduci un resto dall’aspetto di Inverno. \n\n[Rima & Rimembranza con <sprite name=winter> da Studioso, più Resti, crea Periostio Essenziale.]",
+   "Desc": "[Con Inverno da Custode, questo è un precursore di un Conteggio Annuale.]"
+  },
+  {
+   "id": "craft.scholar.snowstories_remains_essential.periost_winter",
+   "Label": "Crea: Periostio Essenziale",
+   "StartDescription": "Riduci un resto dall’aspetto di Inverno. \n\n[Storie di Neve con <sprite name=winter> da Studioso, più Resti, crea Periostio Essenziale.]",
+   "Desc": "[Con Inverno da Custode, questo è un precursore di un Conteggio Annuale.]"
+  },
+  {
+   "id": "craft.scholar.sickle.eclipse_remains_essential.periost_moon",
+   "Label": "Crea: Periostio Essenziale",
+   "StartDescription": "Riduci un resto dall’aspetto di Inverno. \n\n[Falce & Eclissi con <sprite name=moon> da Studioso, più Resti, crea Periostio Essenziale.]",
+   "Desc": "[Con Inverno da Custode – non Luna – questo è un precursore di un Conteggio Annuale.]"
+  },
+  {
+   "id": "craft.scholar.sharps_remains_essential.periost_moon",
+   "Label": "Crea: Periostio Essenziale",
+   "StartDescription": "Riduci un resto dall’aspetto di Inverno. \n\n[Taglienti con <sprite name=moon> da Studioso, più Resti, crea Periostio Essenziale.]",
+   "Desc": "[Con Inverno da Custode – non Luna – questo è un precursore di un Conteggio Annuale.]"
+  },
+  {
+   "id": "craft.scholar.wolfstories_remains_essential.periost_moon",
+   "Label": "Crea: Periostio Essenziale",
+   "StartDescription": "Riduci un resto dall’aspetto di Inverno. \n\n[Storie di Lupo con <sprite name=moon> da Studioso, più Resti, crea Periostio Essenziale.]",
+   "Desc": "[Con Inverno da Custode – non Luna – questo è un precursore di un Conteggio Annuale.]"
+  },
+  {
+   "id": "craft.scholar.purifications.exaltations_instrument_ascendant.harmony_sky",
+   "Label": "Crea: Armonia Ascendente",
+   "StartDescription": "Evoca una musica luminosa di Cielo. \n\n[Purificazioni & Esaltazioni con <sprite name=sky> da Studioso, più Strumento, crea Armonia Ascendente.]",
+   "Desc": "[Con Cielo da Custode, un’Armonia Ascendente potrebbe evocare un Didumos.]"
+  },
+  {
+   "id": "craft.scholar.edictsmartial_memory_wormwood.dream_moon",
+   "Label": "Crea: Sogno d’Assenzio",
+   "StartDescription": "Richiama alla mente un crimine dimenticato di Luna e Inverno. \n\n[Editti Marziali con <sprite name=moon> da Studioso, più Memoria, crea Sogno d’Assenzio.]",
+   "Desc": "Speriamo sia altrettanto possibile dimenticarlo di nuovo."
+  },
+  {
+   "id": "craft.scholar.glassblowing.vesselcrafting_glass_ichor.vitreous_sky",
+   "Label": "Crea: Icore Vitreo",
+   "StartDescription": "Distilla un fluido di Lanterna, pallido e vigile. \n\n[Vetro Soffiato & Vasellame con <sprite name=sky> da Studioso, più Vetro, crea Icore Vitreo.]",
+   "Desc": "[Con Cielo da Custode, l’Icore Vitreo è il precursore dell’inchiostro ashartine.]"
+  }
+ ]
+}

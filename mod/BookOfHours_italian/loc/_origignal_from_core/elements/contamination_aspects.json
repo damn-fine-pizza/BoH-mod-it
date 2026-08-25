@@ -1,0 +1,149 @@
+{
+	"elements": [
+
+		{
+			"id": "contamination.actinic",
+			"label": "Actinic Theoplasma",
+			"desc": "This book has suffered the attention of one of the bright Names or Hours, the gods-from-Light. [This contamination can affect your Phost and Trist, and spread to nearby objects. You can remove it with a skill that's effective against Theoplasmic Contamination, if you provide at least 7 Forge.]",
+			"isAspect": true
+		},		
+		{
+			"id": "contamination.bloodlines",
+			"label": "Bloodlines",
+			"desc": "If I open this book at the right page, I'll find words that slowly ooze blood. Over time, those words increase in number. [This Infestation can affect your Ereb and Chor, and spread to nearby objects. You can remove it with a skill that's effective against Infestations, and at least 7 Moth.]",
+			"isAspect": true
+		},
+		
+		{
+			"id": "contamination.chionic",
+			"label": "Chionic Theoplasma",
+			"desc": "This book suffered the attention of one of the chilly Names or Hours, perhaps even a god-from-Nowhere. [This contamination can affect your Trist and Health, and spread to nearby objects. You can remove it with a skill that's effective against Theoplasmic Contamination, and at least 7 Heart.]",
+			"isAspect": true
+		},
+		
+		{
+			"id": "contamination.curse.fifth.eye",
+			"label": "Fifth Eye Curse",
+			"desc": "Someone has unhelpfully placed a curse which may tear open the unwilling eye of the soul. [This contamination can affect your Fet and Phost. You can remove it with a skill that's effective against Curses, and at least 7 Heart.]",
+			"isAspect": true
+		},
+		{
+			"id": "contamination.keeperskin",
+			"label": "Keeperskin",
+			"desc": "This book is blotched with keeperskin, a luminous fungus that grows in the Wood we see in sleep, and enters the world when a dreamer inhales its spores. [Keeperskin contamination can affect your Ereb and Chor, and spread to nearby objects. You can remove it with a skill that's effective against Corruptions, if you provide at least 7 Nectar.]",
+			"isAspect": true
+		},
+		{
+			"id": "contamination.sthenic.taint",
+			"label": "Sthenic Taint",
+			"desc": "A poison? A curse? Probably both. Be careful handling this book. [This contamination can affect your Shapt and Health. You can remove it with a skill that's effective against Curses, and at least 7 Knock.]",
+			"isAspect": true
+		},
+		{
+			"id": "contamination.winkwell",
+			"label": "Winkwell",
+			"desc": "Sometimes when I turn this book to the right angle, I see an eye peering at me from its pages or covers. They close and fade when I leave them in the dark... but light will always bring them out eventually. [This can affect your Fet and Wist, and spread to nearby objects. You can remove it with a skill that's effective against Corruption, and at least 7 Moon.]",
+			"isAspect": true
+		},
+		{
+			"id": "contamination.witchworms",
+			"label": "Witchworms",
+			"desc": "Tiny larvae with half-human faces. Fortunately, they rarely develop into their imago stage; but even as larvae, their whispering can torment senses and distort thoughts. [These can affect your Shapt and Wist, and spread to nearby objects. You can remove them with a skill that's effective against Infestations, and at least 7 Winter.]",
+			"isAspect": true
+		},
+		{
+			"id": "effective.contamination.corruption",
+			"label": "Effective Against Corruption",
+			"desc": "This skill can be used to remove Corruptions from books.",
+			"isAspect": true
+		},
+		{
+			"id": "effective.contamination.curse",
+			"label": "Effective Against Curses",
+			"desc": "This skill can be used to remove Curses from books.",
+			"isAspect": true
+		},
+		{
+			"id": "effective.contamination.infestation",
+			"label": "Effective Against Infestations",
+			"desc": "This skill can be used to remove Infestations from books.",
+			"isAspect": true
+		},
+		{
+			"id": "effective.contamination.theoplasma",
+			"label": "Effective Against Theoplasmic Contamination",
+			"desc": "This skill can be used to remove Theoplasmic Contamination from books.",
+			"isAspect": true
+		},
+		{
+			"id":"ability.exposed.actinic",
+					"icon": "contamination.actinic",
+					"label": "Affected by Actinic Theoplasma",
+					"desc": "[You've suffered from theoplasmic exposure. If you use this card with a book before curing your Malady, the book might be affected...]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.actinic","morpheffect":"mutate","level":-1}]}
+				},		
+				{
+					"id":"ability.exposed.bloodlines",
+					"icon": "contamination.bloodlines",
+					"label": "Affected by Bloodlines",
+					"desc": "[This condition was caused by exposure to Bloodlines. If you use this card with a book before curing your Malady, the book might be affected...]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.bloodlines","morpheffect":"mutate","level":-1}]}
+				},
+				
+				{
+					"id":"ability.exposed.chionic",
+					"icon": "contamination.chionic",
+					"label": "Affected by Chionic Theoplasma",
+					"desc": "[You've suffered from theoplasmic exposure. If you use this card with a book before curing your Malady, the book might be affected...]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.chionic","morpheffect":"mutate","level":-1}]}
+				},
+
+				{
+					"id":"ability.exposed.keeperskin",
+					"icon": "contamination.keeperskin",
+					"label": "Affected by Keeperskin",
+					"desc": "[You were exposed to Keeperskin. If you use this card with a book before curing your Malady, the book might be affected...]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.keeperskin","morpheffect":"mutate","level":-1}]}
+				},
+
+				{
+					"id":"ability.exposed.winkwell",
+					"icon": "contamination.winkwell",
+					"label": "Affected by Winkwell",
+					"desc": "[You've been exposed to Winkwell. If you use this card with a book before curing your Malady, the book might be affected...]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.winkwell","morpheffect":"mutate","level":-1}]}
+				},
+				{
+					"id":"ability.exposed.witchworms",
+					"icon": "contamination.witchworms",
+					"label": "Affected by Witchworms",
+					"desc": "[You've been exposed to Witchworms. If you use this card with a book before curing your Malady, the book might be affected...]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.witchworms","morpheffect":"mutate","level":-1}]}
+				},
+				{
+					"id":"ability.exposed.curse.fifth.eye",
+					"icon": "contamination.curse.fifth.eye",
+					"label": "Affected by the Fifth Eye Curse",
+					"desc": "[You've been exposed to the Fifth Eye Curse. Fortunately, this isn't something that can be passed on to another book.]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.curse.fifth.eye","morpheffect":"mutate","level":-1}]}
+				},
+				{
+					"id":"ability.exposed.sthenic.taint",
+					"icon": "contamination.sthenic.taint",
+					"label": "Affected by the Sthenic Taint",
+					"desc": "[You've been exposed to the Sthenic Taint. Fortunately, this isn't something that can be passed on to another book.]",
+					"isAspect": true,
+					"xtriggers":{"malady.curing":[{"id":"ability.exposed.sthenic.taint","morpheffect":"mutate","level":-1}]}
+				}
+
+				
+
+	]
+}

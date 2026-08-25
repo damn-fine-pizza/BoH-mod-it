@@ -1,0 +1,40 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_SALON", "label": "Salon Achievement", "iconUnlocked": "history" },
+
+
+  { "id": "A_SALON_ELEVENSES", "category": "A_CATEGORY_SALON", "iconUnlocked": "salon.past.lively",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Second Breakfast",
+    "descriptionunlocked": "I hosted guests for elevenses."
+  },
+  { "id": "A_SALON_AFTERNOON_TEA", "category": "A_CATEGORY_SALON", "iconUnlocked": "salon.past.lively",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "I Am Particularly Fond Of Muffins",
+  "descriptionunlocked": "I hosted guests for afternoon tea."
+  },
+
+
+  { "id": "A_SALON_LUNCH", "category": "A_CATEGORY_SALON", "iconUnlocked": "salon.past.lively",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Stress Cannot Exist In The Presence Of A Pie",
+  "descriptionunlocked": "I hosted guests for luncheon."
+},
+
+{ "id": "A_SALON_SUPPER", "category": "A_CATEGORY_SALON", "iconUnlocked": "salon.past.lively",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Food And Cheer And Song",
+"descriptionunlocked": "I hosted guests for supper."
+},
+
+{ "id": "A_SALON_PICNIC", "category": "A_CATEGORY_SALON", "iconUnlocked": "salon.past.lively",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Hot Ice Creams For Cold Days",
+"descriptionunlocked": "I hosted guests for a picnic."
+}
+
+
+ 
+  
+
+]}

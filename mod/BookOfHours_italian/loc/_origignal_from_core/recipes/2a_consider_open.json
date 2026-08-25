@@ -1,0 +1,238 @@
+{"recipes": [
+
+   {"id":"open.cache.bright.rarities",
+   "actionid": "*consider",
+   "reqs": {"ability":1, "cache.bright.rarities":1},
+   "label":"Something Bright",
+   "startdescription":"What bright treasure?",
+   "desc":".", "aspects":{"fatiguing.ability":1},
+   "effects":{"cache.bright.rarities":-1},
+   "deckeffects": {"bright.rarities":1},
+   "warmup":60,
+   "craftable":true
+},
+
+{"id":"open.cache.night.rarities",
+"actionid": "*consider",
+"reqs": {"ability":1, "cache.night.rarities":1},
+"label":"Something Dark",
+"startdescription":"What midnight gift?",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"cache.night.rarities":-1},
+"deckeffects": {"night.rarities":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.cache.unregarded.rarities",
+"actionid": "*consider",
+"reqs": {"ability":1, "cache.unregarded.rarities":1},
+"label":"Something Unregarded",
+"startdescription":"What overlooked delight?",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"cache.unregarded.rarities":-1},
+"deckeffects": {"unregarded.rarities":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.cache.sovereign.rarities",
+"actionid": "*consider",
+"reqs": {"ability":1, "cache.sovereign.rarities":1},
+"label":"Something Exalted",
+"startdescription":"What sovereign wonder?",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"cache.sovereign.rarities":-1},
+"deckeffects": {"sovereign.rarities":1},
+"warmup":60,
+"craftable":true
+},
+
+
+
+   {"id":"open.cache.flotsam",
+   "actionid": "*consider",
+   "reqs": {"ability":1, "contraband.flotsam":1},
+   "label":"Something Shipwrecked",
+   "startdescription":"What ship lost this?",
+   "desc":".", "aspects":{"fatiguing.ability":1},
+   "effects":{"contraband.flotsam":-1},
+   "deckeffects": {"beach.oddity":1},
+   "warmup":60,
+   "craftable":true
+},
+
+{"id":"open.cache.jetsam",
+"actionid": "*consider",
+"reqs": {"ability":1, "contraband.jetsam":1},
+"label":"Something Renounced",
+"startdescription":"Who threw this overboard?",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"contraband.jetsam":-1},
+"deckeffects": {"beach.rarity":1},
+"warmup":60,
+"craftable":true
+},
+
+
+    {"id":"open.cache.bureau",
+    "actionid": "*consider",
+    "reqs": {"ability":1, "suitcase.sb":1},
+    "label":"Something Confiscated",
+    "startdescription":"Crack open the container, delight in your discovery.",
+    "desc":".", "aspects":{"fatiguing.ability":1},
+    "effects":{"suitcase.sb":-1},
+    "deckeffects": {"cache.bureau":1},
+    "warmup":60,
+    "craftable":true
+ },
+
+    {"id":"open.cache.hardware",
+    "actionid": "*consider",
+    "reqs": {"ability":1, "crate.supplies":1},
+    "label":"Something Handy",
+    "startdescription":"Crack open the container, delight in your discovery.",
+    "desc":".", "aspects":{"fatiguing.ability":1},
+    "effects":{"crate.supplies":-1},
+    "deckeffects": {"cache.hardware":1},
+    "warmup":60,
+    "craftable":true
+ },
+
+ {"id":"open.cache.household",
+ "actionid": "*consider",
+ "reqs": {"ability":1, "packages.abandoned":1},
+ "label":"Something Abandoned",
+ "startdescription":"Crack open the container, delight in your discovery.",
+ "desc":".", "aspects":{"fatiguing.ability":1},
+ "effects":{"packages.abandoned":-1},
+ "deckeffects": {"cache.household":1},
+ "warmup":60,
+ "craftable":true
+},
+
+{"id":"open.cache.provisions",
+"actionid": "*consider",
+"reqs": {"ability":1, "parcel.tall":1},
+"label":"Something Tasty",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"parcel.tall":-1},
+"deckeffects": {"cache.provisions":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.cache.provisions.oddity",
+"actionid": "*consider",
+"reqs": {"ability":1, "parcel.slim":1},
+"label":"Something Especially Tasty",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"parcel.slim":-1},
+"deckeffects": {"cache.provisions.oddity":1},
+"warmup":60,
+"craftable":true
+},
+
+
+{"id":"open.cache.oddity",
+"actionid": "*consider",
+"reqs": {"ability":1, "bag.tricks":1},
+"label":"Something Tricksy",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"bag.tricks":-1},
+"deckeffects": {"cache.oddity":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.cache.large",
+"actionid": "*consider",
+"reqs": {"ability":1, "packages.lost":1},
+"label":"Something Lost",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"packages.lost":-1},
+"deckeffects": {"cache.large":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.cache.large.oddity",
+"actionid": "*consider",
+"reqs": {"ability":1, "packages.forsaken":1},
+"label":"Something Odd",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"packages.forsaken":-1},
+"deckeffects": {"cache.large.oddity":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.cache.souvenirs",
+"actionid": "*consider",
+"reqs": {"ability":1, "chest.souvenirs":1},
+"label":"Something Memorable",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"chest.souvenirs":-1},
+"deckeffects": {"cache.large.oddity":1},
+"warmup":60,
+"craftable":true
+},
+
+
+{"id":"open.cache.large.rarity",
+"actionid": "*consider",
+"reqs": {"ability":1, "abandoned.luggage":1},
+"label":"Something Rare",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"abandoned.luggage":-1},
+"deckeffects": {"cache.large.rarity":1},
+"warmup":60,
+"craftable":true
+},
+
+	
+{"id":"open.cache.small.oddity",
+"actionid": "*consider",
+"reqs": {"ability":1, "box.oddities":1},
+"label":"Something Small and Curious",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"box.oddities":-1},
+"deckeffects": {"cache.small.oddity":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.cache.small.rarity",
+"actionid": "*consider",
+"reqs": {"ability":1, "box.rarities":1},
+"label":"Something Small and Rare",
+"startdescription":"Crack open the container, delight in your discovery.",
+"desc":".", "aspects":{"fatiguing.ability":1},
+"effects":{"box.rarities":-1},
+"deckeffects": {"cache.small.rarity":1},
+"warmup":60,
+"craftable":true
+},
+
+{"id":"open.delivery",
+"actionid": "*consider",
+"reqs": {"delivery":1},
+"label":"Open a Package",
+"startdescription":"Unwrap, unbox, unleash.",
+"desc":".", "aspects":{"unwrapping":1},
+"warmup":30,
+"craftable":true
+}
+
+
+
+ ]
+}

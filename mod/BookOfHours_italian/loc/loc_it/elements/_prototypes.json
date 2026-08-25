@@ -1,0 +1,398 @@
+{
+ "elements": [
+  {
+   "id": "_",
+   "label": "Prima Materia",
+   "desc": "FNOR_, come si suol dire, non è più quel che era.",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    }
+   ]
+  },
+  {
+   "id": "_ability.fatigued"
+  },
+  {
+   "id": "_ability.setup"
+  },
+  {
+   "id": "_assistance",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare."
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usescandles",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Candele.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usescooperative",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di una bestia cooperativa – che, con un po’ di fortuna, ti sarà restituita illesa.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usesfabric",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Tessuto.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usesflower",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Fiori.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usesfuel",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Combustibile.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usesmetal",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Metalli.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usessound",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Suono – cioè, può usare una carta Suono e un’altra carta Memoria nello stesso giorno.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usesomen",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di un Presagio – cioè, può usare una carta Presagio e un’altra carta Memoria nello stesso giorno.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.usespigment",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Pigmenti.]"
+    }
+   ]
+  },
+  {
+   "id": "_assistance.useswood",
+   "slots": [
+    {
+     "id": "collaborate",
+     "label": "Collabora",
+     "description": "Lavora al loro fianco, o fornisci qualcosa che possano usare. [Questo assistente può anche fare uso di Legno.]"
+    }
+   ]
+  },
+  {
+   "id": "_beast.herbivore",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    },
+    {
+     "id": "handle",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    },
+    {
+     "id": "feed",
+     "label": "Cibo",
+     "description": "[Aggiungi una carta Nutrimento appropriata.]"
+    }
+   ]
+  },
+  {
+   "id": "_beast.carnivore",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    },
+    {
+     "id": "handle",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    },
+    {
+     "id": "feed",
+     "label": "Cibo",
+     "description": "[Aggiungi una carta Nutrimento appropriata.]"
+    }
+   ]
+  },
+  {
+   "id": "_beast.carnivore.plusmilk",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    },
+    {
+     "id": "handle",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    },
+    {
+     "id": "feed",
+     "label": "Cibo",
+     "description": "[Aggiungi una carta Nutrimento appropriata.]"
+    }
+   ]
+  },
+  {
+   "id": "_beverage"
+  },
+  {
+   "id": "_beverage.raveline"
+  },
+  {
+   "id": "_blank"
+  },
+  {
+   "id": "_book.unc",
+   "label": "_book.unc",
+   "desc": "[Catalogalo per saperne di più]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "_book",
+   "label": "_book",
+   "slots": [
+    {
+     "id": "ability1",
+     "label": "Anima",
+     "description": "Dovrò impegnarmi."
+    },
+    {
+     "id": "skill",
+     "label": "Abilità?",
+     "description": "Facoltativo: usa un’Abilità."
+    },
+    {
+     "id": "memory",
+     "label": "Memoria?",
+     "description": "Facoltativo: usa una Memoria."
+    }
+   ]
+  },
+  {
+   "id": "_bust.collectible"
+  },
+  {
+   "id": "_cache"
+  },
+  {
+   "id": "_callingcard"
+  },
+  {
+   "id": "_circumstance"
+  },
+  {
+   "id": "_comfort",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    }
+   ]
+  },
+  {
+   "id": "_candle",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    }
+   ]
+  },
+  {
+   "id": "_candlecomfort",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    }
+   ]
+  },
+  {
+   "id": "_device"
+  },
+  {
+   "id": "_flower"
+  },
+  {
+   "id": "_egg"
+  },
+  {
+   "id": "_employable",
+   "slots": [
+    {
+     "id": "p",
+     "label": "Paga"
+    }
+   ]
+  },
+  {
+   "id": "_fabric"
+  },
+  {
+   "id": "_hanging"
+  },
+  {
+   "id": "_incident",
+   "label": "."
+  },
+  {
+   "id": "_incident.numa",
+   "label": "."
+  },
+  {
+   "id": "_ingredient"
+  },
+  {
+   "id": "_inspiration",
+   "desc": "Un Visitatore è stato toccato da eventi recenti... e potrebbe ora essere più incline a unirsi all’Istituto del Faro."
+  },
+  {
+   "id": "_key"
+  },
+  {
+   "id": "_leaf"
+  },
+  {
+   "id": "_liquid"
+  },
+  {
+   "id": "_manuscript"
+  },
+  {
+   "id": "_mark"
+  },
+  {
+   "id": "_material"
+  },
+  {
+   "id": "_memory"
+  },
+  {
+   "id": "_memory.persistent"
+  },
+  {
+   "id": "_n"
+  },
+  {
+   "id": "_n.complete"
+  },
+  {
+   "id": "_numen"
+  },
+  {
+   "id": "_remains"
+  },
+  {
+   "id": "_root"
+  },
+  {
+   "id": "_spintria"
+  },
+  {
+   "id": "_sustenance"
+  },
+  {
+   "id": "_wallart",
+   "slots": [
+    {
+     "id": "examine",
+     "label": "Impegno",
+     "description": "[Aggiungi una qualsiasi carta Anima.]"
+    }
+   ]
+  },
+  {
+   "id": "_wallartfixed"
+  },
+  {
+   "id": "_weather.memory"
+  },
+  {
+   "id": "_visitor",
+   "slots": [
+    {
+     "id": "subject",
+     "label": "Argomento?",
+     "description": "[Aggiungi un Incidente di cui questo visitatore potrebbe parlare.]"
+    }
+   ]
+  },
+  {
+   "id": "_visitor.numa",
+   "slots": [
+    {
+     "id": "subject",
+     "label": "Argomento?",
+     "description": "[Aggiungi un Incidente legato a Numa di cui questo visitatore potrebbe parlare.]"
+    }
+   ]
+  },
+  {
+   "id": "_visitor.embarking"
+  }
+ ]
+}

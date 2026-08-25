@@ -1,0 +1,319 @@
+{
+ "recipes": [
+  {
+   "id": "slnbk.preliminalmeter",
+   "label": "Conoscenza: Metro Preliminale",
+   "startdescription": "La conversazione si è soffermata su Metro Preliminale..."
+  },
+  {
+   "id": "slnbk.pyroglyphics",
+   "label": "Conoscenza: Piroglifici",
+   "startdescription": "La conversazione si è soffermata su Piroglifici..."
+  },
+  {
+   "id": "slnbk.inks.containment",
+   "label": "Conoscenza: Inchiostri di Contenimento",
+   "startdescription": "La conversazione si è soffermata su Inchiostri di Contenimento..."
+  },
+  {
+   "id": "slnbk.inks.revelation",
+   "label": "Conoscenza: Inchiostri di Rivelazione",
+   "startdescription": "La conversazione si è soffermata su Inchiostri di Rivelazione..."
+  },
+  {
+   "id": "slnbk.inks.power",
+   "label": "Conoscenza: Inchiostri di Potere",
+   "startdescription": "La conversazione si è soffermata su Inchiostri di Potere..."
+  },
+  {
+   "id": "slnbk.drums.dances",
+   "label": "Conoscenza: Tamburi & Danze",
+   "startdescription": "La conversazione si è soffermata su Tamburi & Danze..."
+  },
+  {
+   "id": "slnbk.strings.songs",
+   "label": "Conoscenza: Corde & Canti",
+   "startdescription": "La conversazione si è soffermata su Corde & Canti..."
+  },
+  {
+   "id": "slnbk.bells.brazieries",
+   "label": "Conoscenza: Campane & Bracieri",
+   "startdescription": "La conversazione si è soffermata su Campane & Bracieri..."
+  },
+  {
+   "id": "slnbk.horns.ivories",
+   "label": "Conoscenza: Corna & Avori",
+   "startdescription": "La conversazione si è soffermata su Corna & Avori..."
+  },
+  {
+   "id": "slnbk.surgeries.exsanguinations",
+   "label": "Conoscenza: Chirurgie & Dissanguamenti",
+   "startdescription": "La conversazione si è soffermata su Chirurgie & Dissanguamenti..."
+  },
+  {
+   "id": "slnbk.stitching.binding",
+   "label": "Conoscenza: Cucitura & Rilegatura",
+   "startdescription": "La conversazione si è soffermata su Cucitura & Rilegatura..."
+  },
+  {
+   "id": "slnbk.furs.feathers",
+   "label": "Conoscenza: Pellicce & Piume",
+   "startdescription": "La conversazione si è soffermata su Pellicce & Piume..."
+  },
+  {
+   "id": "slnbk.pearl.tide",
+   "label": "Conoscenza: Perla & Marea",
+   "startdescription": "La conversazione si è soffermata su Perla & Marea..."
+  },
+  {
+   "id": "slnbk.insects.nectars",
+   "label": "Conoscenza: Insetti & Nettari",
+   "startdescription": "La conversazione si è soffermata su Insetti & Nettari..."
+  },
+  {
+   "id": "slnbk.herbs.infusions",
+   "label": "Conoscenza: Erbe & Infusi",
+   "startdescription": "La conversazione si è soffermata su Erbe & Infusi..."
+  },
+  {
+   "id": "slnbk.spices.savours",
+   "label": "Conoscenza: Spezie & Sapori",
+   "startdescription": "La conversazione si è soffermata su Spezie & Sapori..."
+  },
+  {
+   "id": "slnbk.leaves.thorns",
+   "label": "Conoscenza: Foglie & Spine",
+   "startdescription": "La conversazione si è soffermata su Foglie & Spine..."
+  },
+  {
+   "id": "slnbk.orchids.narcotics",
+   "label": "Conoscenza: Orchidee & Narcotici",
+   "startdescription": "La conversazione si è soffermata su Orchidee & Narcotici..."
+  },
+  {
+   "id": "slnbk.serpents.venoms",
+   "label": "Conoscenza: Serpenti & Veleni",
+   "startdescription": "La conversazione si è soffermata su Serpenti & Veleni..."
+  },
+  {
+   "id": "slnbk.sights.sensations",
+   "label": "Conoscenza: Visioni & Sensazioni",
+   "startdescription": "La conversazione si è soffermata su Visioni & Sensazioni..."
+  },
+  {
+   "id": "slnbk.desires.dissolutions",
+   "label": "Conoscenza: Desideri & Dissoluzioni",
+   "startdescription": "La conversazione si è soffermata su Desideri & Dissoluzioni..."
+  },
+  {
+   "id": "slnbk.resurgences.emergences",
+   "label": "Conoscenza: Risorgenze & Emersioni",
+   "startdescription": "La conversazione si è soffermata su Risorgenze & Emersioni..."
+  },
+  {
+   "id": "slnbk.rhyme.remembrance",
+   "label": "Conoscenza: Rima & Rimembranza",
+   "startdescription": "La conversazione si è soffermata su Rima & Rimembranza..."
+  },
+  {
+   "id": "slnbk.disciplines.thehammer",
+   "label": "Conoscenza: Discipline del Martello",
+   "startdescription": "La conversazione si è soffermata su Discipline del Martello..."
+  },
+  {
+   "id": "slnbk.disciplines.thescar",
+   "label": "Conoscenza: Discipline della Cicatrice",
+   "startdescription": "La conversazione si è soffermata su Discipline della Cicatrice..."
+  },
+  {
+   "id": "slnbk.auroralcontemplations",
+   "label": "Conoscenza: Contemplazioni Aurorali",
+   "startdescription": "La conversazione si è soffermata su Contemplazioni Aurorali..."
+  },
+  {
+   "id": "slnbk.applebrighteuphonies",
+   "label": "Conoscenza: Eufonie di Applebright",
+   "startdescription": "La conversazione si è soffermata su Eufonie di Applebright..."
+  },
+  {
+   "id": "slnbk.watchmansparadoxes",
+   "label": "Conoscenza: Paradossi del Guardiano",
+   "startdescription": "La conversazione si è soffermata su Paradossi del Guardiano..."
+  },
+  {
+   "id": "slnbk.raggedcrossroads",
+   "label": "Conoscenza: Crocevia Logoro",
+   "startdescription": "La conversazione si è soffermata su Crocevia Logoro..."
+  },
+  {
+   "id": "slnbk.meniscatereflections",
+   "label": "Conoscenza: Riflessi Meniscati",
+   "startdescription": "La conversazione si è soffermata su Riflessi Meniscati..."
+  },
+  {
+   "id": "slnbk.putrefactions.calcinations",
+   "label": "Conoscenza: Putrefazioni & Calcinazioni",
+   "startdescription": "La conversazione si è soffermata su Putrefazioni & Calcinazioni..."
+  },
+  {
+   "id": "slnbk.solutions.separations",
+   "label": "Conoscenza: Soluzioni & Separazioni",
+   "startdescription": "La conversazione si è soffermata su Soluzioni & Separazioni..."
+  },
+  {
+   "id": "slnbk.path.pilgrim",
+   "label": "Conoscenza: Cammino & Pellegrino",
+   "startdescription": "La conversazione si è soffermata su Cammino & Pellegrino..."
+  },
+  {
+   "id": "slnbk.purifications.exaltations",
+   "label": "Conoscenza: Purificazioni & Esaltazioni",
+   "startdescription": "La conversazione si è soffermata su Purificazioni & Esaltazioni..."
+  },
+  {
+   "id": "slnbk.transformations.liberations",
+   "label": "Conoscenza: Trasformazioni & Liberazioni",
+   "startdescription": "La conversazione si è soffermata su Trasformazioni & Liberazioni..."
+  },
+  {
+   "id": "slnbk.lockworks.clockworks",
+   "label": "Conoscenza: Serrature & Orologi",
+   "startdescription": "La conversazione si è soffermata su Serrature & Orologi..."
+  },
+  {
+   "id": "slnbk.seastories",
+   "label": "Conoscenza: Storie di Mare",
+   "startdescription": "La conversazione si è soffermata su Storie di Mare..."
+  },
+  {
+   "id": "slnbk.wolfstories",
+   "label": "Conoscenza: Storie di Lupo",
+   "startdescription": "La conversazione si è soffermata su Storie di Lupo..."
+  },
+  {
+   "id": "slnbk.sandstories",
+   "label": "Conoscenza: Storie di Sabbia",
+   "startdescription": "La conversazione si è soffermata su Storie di Sabbia..."
+  },
+  {
+   "id": "slnbk.skystories",
+   "label": "Conoscenza: Storie di Cielo",
+   "startdescription": "La conversazione si è soffermata su Storie di Cielo..."
+  },
+  {
+   "id": "slnbk.snowstories",
+   "label": "Conoscenza: Storie di Neve",
+   "startdescription": "La conversazione si è soffermata su Storie di Neve..."
+  },
+  {
+   "id": "slnbk.stonestories",
+   "label": "Conoscenza: Storie di Pietra",
+   "startdescription": "La conversazione si è soffermata su Storie di Pietra..."
+  },
+  {
+   "id": "slnbk.sacrasolisinvicti",
+   "label": "Conoscenza: Sacra Solis Invicti",
+   "startdescription": "La conversazione si è soffermata su Sacra Solis Invicti..."
+  },
+  {
+   "id": "slnbk.tridesmahiera",
+   "label": "Conoscenza: Tridesma Hiera",
+   "startdescription": "La conversazione si è soffermata su Tridesma Hiera..."
+  },
+  {
+   "id": "slnbk.sacralimiae",
+   "label": "Conoscenza: Sacra Limiae",
+   "startdescription": "La conversazione si è soffermata su Sacra Limiae..."
+  },
+  {
+   "id": "slnbk.sickle.eclipse",
+   "label": "Conoscenza: Falce & Eclissi",
+   "startdescription": "La conversazione si è soffermata su Falce & Eclissi..."
+  },
+  {
+   "id": "slnbk.hill.hollow",
+   "label": "Conoscenza: Colle & Valle",
+   "startdescription": "La conversazione si è soffermata su Colle & Valle..."
+  },
+  {
+   "id": "slnbk.pentiments.precursors",
+   "label": "Conoscenza: Pentimenti & Precursori",
+   "startdescription": "La conversazione si è soffermata su Pentimenti & Precursori..."
+  },
+  {
+   "id": "slnbk.coil.chasm",
+   "label": "Conoscenza: Spira & Baratro",
+   "startdescription": "La conversazione si è soffermata su Spira & Baratro..."
+  },
+  {
+   "id": "slnbk.rites.theroots",
+   "label": "Conoscenza: Riti delle Radici",
+   "startdescription": "La conversazione si è soffermata su Riti delle Radici..."
+  },
+  {
+   "id": "slnbk.door.wall",
+   "label": "Conoscenza: Porta & Muro",
+   "startdescription": "La conversazione si è soffermata su Porta & Muro..."
+  },
+  {
+   "id": "slnbk.edictsliminal",
+   "label": "Conoscenza: Editti Liminali",
+   "startdescription": "La conversazione si è soffermata su Editti Liminali..."
+  },
+  {
+   "id": "slnbk.edictsmartial",
+   "label": "Conoscenza: Editti Marziali",
+   "startdescription": "La conversazione si è soffermata su Editti Marziali..."
+  },
+  {
+   "id": "slnbk.edictsinviolable",
+   "label": "Conoscenza: Editti Inviolabili",
+   "startdescription": "La conversazione si è soffermata su Editti Inviolabili..."
+  },
+  {
+   "id": "slnbk.thegreatsignsandthegreatscars",
+   "label": "Conoscenza: I Grandi Segni e le Grandi Cicatrici",
+   "startdescription": "La conversazione si è soffermata su I Grandi Segni e le Grandi Cicatrici..."
+  },
+  {
+   "id": "slnbk.maggephenemysteries",
+   "label": "Conoscenza: Misteri Maggephene",
+   "startdescription": "La conversazione si è soffermata su Misteri Maggephene..."
+  },
+  {
+   "id": "slnbk.weaving.knotworking",
+   "label": "Conoscenza: Tessitura & Annodatura",
+   "startdescription": "La conversazione si è soffermata su Tessitura & Annodatura..."
+  },
+  {
+   "id": "slnbk.anbary.lapidary",
+   "label": "Conoscenza: Ambreria & Lapidario",
+   "startdescription": "La conversazione si è soffermata su Ambreria & Lapidario..."
+  },
+  {
+   "id": "slnbk.quenchings.quellings",
+   "label": "Conoscenza: Spegnimenti & Placamenti",
+   "startdescription": "La conversazione si è soffermata su Spegnimenti & Placamenti..."
+  },
+  {
+   "id": "slnbk.glassblowing.vesselcrafting",
+   "label": "Conoscenza: Vetro Soffiato & Vasellame",
+   "startdescription": "La conversazione si è soffermata su Vetro Soffiato & Vasellame..."
+  },
+  {
+   "id": "slnbk.glaziery.lightsmithing",
+   "label": "Conoscenza: Vetreria & Lucefabbro",
+   "startdescription": "La conversazione si è soffermata su Vetreria & Lucefabbro..."
+  },
+  {
+   "id": "slnbk.sharps",
+   "label": "Conoscenza: Taglienti",
+   "startdescription": "La conversazione si è soffermata su Taglienti..."
+  },
+  {
+   "id": "slnbk.ouranoscopy",
+   "label": "Conoscenza: Uranoscopia",
+   "startdescription": "La conversazione si è soffermata su Uranoscopia..."
+  }
+ ]
+}

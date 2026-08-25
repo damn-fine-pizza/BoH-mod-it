@@ -1,0 +1,84 @@
+{
+ "recipes": [
+  {
+   "id": "salon.hint.numa",
+   "label": "Mai a Numa",
+   "startdescription": "Forse qualcuno ha provato a tenere un Salotto a Numa, in qualche momento. Forse in più di uno. Non lo sapremo mai, perché non è sopravvissuta alcuna documentazione di un simile tentativo. [Nessun Salotto a Numa.]"
+  },
+  {
+   "id": "salon.hint.unsociable",
+   "label": "Un Visitatore Insocievole?",
+   "startdescription": "I Visitatori segnati come Insocievoli diffidano degli altri Visitatori. Non parteciperanno ai Salotti consueti – anche se parteciperanno al Salotto finale per inaugurare l’Istituto."
+  },
+  {
+   "id": "salon.hint.raw",
+   "label": "Cibo Crudo?",
+   "startdescription": "Carne e verdure crude potrebbero essere doni adatti per gli assistenti, ma non pasti per gli ospiti. Assicurati che non ci sia nulla di Crudo nella stanza."
+  },
+  {
+   "id": "salon.hint.beverage",
+   "label": "Da bere?",
+   "startdescription": "Assicurati che nella stanza ci sia qualcosa da bere per ogni Visitatore."
+  },
+  {
+   "id": "salon.hint.sustenance",
+   "label": "Da mangiare?",
+   "startdescription": "Assicurati che nella stanza ci sia almeno qualcosa da mangiare per ogni Visitatore."
+  },
+  {
+   "id": "salon.hint.course.first",
+   "label": "Un Primo Piatto?",
+   "startdescription": "Per il Pranzo o la Cena, avrai sempre bisogno di almeno un Primo Piatto."
+  },
+  {
+   "id": "salon.hint.course.main",
+   "label": "Un Piatto Principale?",
+   "startdescription": "Per il Pranzo o la Cena, avrai sempre bisogno di almeno un Piatto Principale."
+  },
+  {
+   "id": "salon.hint.course.side",
+   "label": "Un Contorno?",
+   "startdescription": "Per il Pranzo o la Cena, avrai sempre bisogno di almeno un Contorno."
+  },
+  {
+   "id": "salon.hint.informal",
+   "label": "Un Po’ Troppo?",
+   "startdescription": "Non si dovrebbero davvero servire bevande Inebrianti con la Merenda Mattutina o con il Tè del Pomeriggio."
+  },
+  {
+   "id": "salon.hint.picnicking",
+   "label": "Un Po’ Freddo?",
+   "startdescription": "In questa parte del mondo, si fa il picnic solo in Primavera e in Estate."
+  },
+  {
+   "id": "salon.hint.formal.early",
+   "label": "Un Po’ Presto?",
+   "startdescription": "Si può fare Pranzo o Cena solo dopo mezzogiorno."
+  },
+  {
+   "id": "salon.hint.informal.timing",
+   "label": "Non Si Fa Così",
+   "startdescription": "Si può fare Merenda Mattutina solo al mattino; e Tè del Pomeriggio solo all’ora adatta per il tè del pomeriggio."
+  },
+  {
+   "id": "salon.hint.picnic.late",
+   "label": "Un Po’ Tardi?",
+   "startdescription": "Non si fa un picnic quando è troppo buio per spalmare la marmellata senza rischio di incidenti legati alla marmellata."
+  },
+  {
+   "id": "salon.hint.guests",
+   "label": "Un Salotto?",
+   "startdescription": "[Picnics must take place before dusk in Spring or Summer, with at least two guests. The more guests, the more successful the Salon, but you'll need enough food and drink in the room for everyone.]"
+  },
+  {
+   "id": "salon.hint.guests",
+   "label": "Un Salotto?",
+   "startdescription": "[Salons here must be after midday, with at least two guests. The more guests, the more successful the Salon, but you'll need enough food and drink in the room for everyone. Since this is a formal venue, this must include at least one first course, one main course and one side dish.]"
+  },
+  {
+   "id": "salon.hint.guests",
+   "label": "Un Salotto?",
+   "startdescription": "[I Salotti qui devono svolgersi al Mattino o al Pomeriggio, con almeno due ospiti. Più ospiti ci sono, maggiore sarà il successo, ma dovrai avere cibo e bevande a sufficienza nella stanza per tutti – e poiché si tratterà di Merenda Mattutina o Tè del Pomeriggio, niente di Inebriante.]"
+  }
+ ]
+}

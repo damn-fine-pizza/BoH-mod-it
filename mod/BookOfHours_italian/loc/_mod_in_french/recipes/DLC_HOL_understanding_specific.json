@@ -1,0 +1,17 @@
+ {"recipes": [
+
+   {"id":"technique.summon.echidna.learn",
+"actionid": "consider",
+"reqs": {"host.technique.summon.echidna":1,"x.summon.echidna":1,"technique.summon.echidna":-1},
+"startdescription":"J'en sais un peu plus sur Échidna la Ligeienne. Si je médite sur le sujet, je trouverai peut-être un moyen de l'inviter ici.",
+"desc":"Dans les landes, je pourrais peut-être invoquer Échidna… [Votre Compétence a un nouvel Aspect]",
+"mutations":{"mutate":"technique.summon.echidna","filter":"host.technique.summon.echidna","level":1},
+"effects":{"x.summon.echidna":-1},
+"craftable":true,
+"warmup":60
+}
+
+ 
+
+ ]
+}

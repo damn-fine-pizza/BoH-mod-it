@@ -1,0 +1,17 @@
+ {"recipes": [
+
+   {"id":"technique.summon.echidna.learn",
+"actionid": "consider",
+"reqs": {"host.technique.summon.echidna":1,"x.summon.echidna":1,"technique.summon.echidna":-1},
+"startdescription":"I know a little more about the Ligeian Echidna. If I meditate on the matter, I might find a way to invite her here.",
+"desc":"Out on the moors, I might be able to summon Echidna... [Your Skill has a new Aspect.]",
+"mutations":{"mutate":"technique.summon.echidna","filter":"host.technique.summon.echidna","level":1},
+"effects":{"x.summon.echidna":-1},
+"craftable":true,
+"warmup":60
+}
+
+ 
+
+ ]
+}

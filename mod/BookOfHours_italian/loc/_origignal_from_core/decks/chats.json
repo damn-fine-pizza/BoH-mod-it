@@ -1,0 +1,166 @@
+{"decks": [
+ 
+    {
+       "id": "d.chat.generic",
+       "label": "Chance Conversation",
+       "desc": "Well, what do you know?",
+       "spec": [
+        "precursor.mem.dreamt",
+        "precursor.mem.storm",
+        "precursor.mem.gossip",
+        "precursor.mem.gossip",
+        "precursor.mem.gossip",
+        "precursor.mem.gossip",
+        "precursor.mem.fear",
+        "precursor.mem.foresight",
+        "precursor.mem.impulse",
+        "precursor.mem.intuition",
+        "precursor.mem.hindsight",
+        "precursor.mem.revelation",
+        "precursor.mem.regret",
+        "precursor.mem.satisfaction",
+        "precursor.mem.solace",
+        "precursor.mem.solace",
+        "precursor.mem.solace"
+       ],
+      "resetonexhaustion": true
+   },
+   {
+      "id": "d.chat.scholar",
+      "label": "A Conversation with a Scholar",
+      "desc": "Well, what do you know?",
+      "spec": [
+       "precursor.mem.dreamt",
+       "precursor.mem.storm",
+       "precursor.mem.gossip",
+       "precursor.mem.gossip",
+       "precursor.mem.gossip",
+       "precursor.mem.gossip",
+      "precursor.mem.fear",
+      "precursor.mem.foresight",
+       "precursor.mem.impulse",
+       "precursor.mem.intuition",
+       "precursor.mem.hindsight",
+       "precursor.mem.hindsight",
+       "precursor.mem.hindsight",
+       "precursor.mem.hindsight",
+       "precursor.mem.revelation",
+       "precursor.mem.revelation",
+       "precursor.mem.revelation",
+       "precursor.mem.revelation",
+       "precursor.mem.regret",
+       "precursor.mem.solace",
+       "precursor.mem.solace",
+       "precursor.mem.solace",
+       "precursor.mem.solace"
+      ],
+     "resetonexhaustion": true
+  },
+  {
+   "id": "d.chat.craftsman",
+   "label": "A Conversation with a Craftsman",
+   "desc": "Well, what do you know?",
+   "spec": [
+    "precursor.mem.dreamt",
+    "precursor.mem.storm",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+   "precursor.mem.fear",
+   "precursor.mem.foresight",
+   "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.impulse",
+    "precursor.mem.intuition",
+    "precursor.mem.hindsight",
+    "precursor.mem.revelation",
+    "precursor.mem.regret",
+    "precursor.mem.solace"
+   ],
+  "resetonexhaustion": true
+},
+{
+   "id": "d.chat.traveller",
+   "label": "A Conversation with a Traveller",
+   "desc": "Well, what do you know?",
+   "spec": [
+    "precursor.mem.dreamt",
+    "precursor.mem.storm",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+    "precursor.mem.gossip",
+   "precursor.mem.fear",
+   "precursor.mem.foresight",
+    "precursor.mem.impulse",
+    "precursor.mem.intuition",
+    "precursor.mem.hindsight",
+    "precursor.mem.revelation",
+    "precursor.mem.regret",
+    "precursor.mem.regret",
+    "precursor.mem.regret",
+    "precursor.mem.regret",
+    "precursor.mem.solace",
+    "precursor.mem.solace",
+    "precursor.mem.solace",
+    "precursor.mem.solace",
+    "precursor.mem.satisfaction",
+    "precursor.mem.satisfaction",
+    "precursor.mem.satisfaction",
+    "precursor.mem.satisfaction"
+   ],
+  "resetonexhaustion": true
+},
+{
+   "id": "d.chat.denzil",
+   "label": "A Conversation with Denzil",
+   "desc": "Well, what do you know?",
+   "spec": [
+    "precursor.mem.dreamt",
+    "precursor.mem.storm",
+    "precursor.mem.fear",
+    "precursor.mem.fear",
+    "precursor.mem.fear",
+   "precursor.mem.fear",
+   "precursor.mem.foresight",
+   "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.foresight",
+    "precursor.mem.impulse",
+    "precursor.mem.intuition",
+    "precursor.mem.hindsight",
+    "precursor.mem.hindsight",
+    "precursor.mem.hindsight",
+    "precursor.mem.hindsight",
+    "precursor.mem.revelation",
+    "precursor.mem.regret",
+    "precursor.mem.solace"
+   ],
+  "resetonexhaustion": true
+},
+{
+   "id": "d.chat.sweetbones",
+   "label": "Searching Conversations at the Sweet Bones",
+   "desc": "I will question the villagers of Brancrug...",
+   "spec": [
+      "precursor.mem.gossip",
+      "precursor.mem.gossip",
+      "precursor.mem.gossip",
+      "precursor.mem.fear",
+      "precursor.mem.fear",
+      "precursor.mem.foresight",
+      "precursor.mem.foresight",
+      "precursor.mem.hindsight",
+      "precursor.mem.hindsight",
+      "precursor.mem.regret",
+      "precursor.mem.regret"
+   ],
+  "resetonexhaustion": true
+}
+
+
+      
+]
+}

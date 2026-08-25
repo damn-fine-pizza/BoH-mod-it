@@ -1,0 +1,287 @@
+{
+ "recipes": [
+  {
+   "id": "talk.fisherman.intro",
+   "label": "Dissipare i Sospetti",
+   "startdescription": "«C’è qualcuno che parlerà per te?»\n\n(Naturalmente. Dal 1930 e dalla Restaurazione, i locali sono diventati sempre più diffidenti verso gli stranieri. Ma c’è qualcuno a Brancrug che conosco...)",
+   "desc": "«Allora ti porterò per le scogliere.» [Questo gentiluomo non è più Scettico. Usalo per sbloccare il Villaggio di Brancrug.]"
+  },
+  {
+   "id": "talk.fisherman.intro.done.hint",
+   "label": "Sospetti Già Dissipati",
+   "startdescription": "«Eh?» [Il gentiluomo desidera farti capire che ha parlato abbastanza e che vorrebbe uscire dalla pioggia ora, per favore e grazie. Usalo per sbloccare il sentiero sulle scogliere.]"
+  },
+  {
+   "id": "talk.fisherman.intro.hint",
+   "label": "Dissipare i Sospetti?",
+   "startdescription": "«Non ti avvicinare! Che vuoi da queste parti?»"
+  },
+  {
+   "id": "talk.attempt.night",
+   "label": "Un’Ora Poco Socievole",
+   "startdescription": "«È tardi. Un’altra volta?» [Non puoi parlare con gli assistenti di notte. Usali in fretta, o lasciali tornare a casa.]"
+  },
+  {
+   "id": "talk.attempt.night.ability",
+   "label": "Un’Ora Poco Socievole",
+   "startdescription": "Uno sbadiglio poderoso... [Non puoi parlare con gli assistenti di notte. Usali in fretta, o lasciali tornare a casa.]"
+  },
+  {
+   "id": "collaborate.xhea",
+   "label": "Collaborare: Salute",
+   "startdescription": "Sono pronto a prestare le mie membra. [Aumenta Cuore, Squama, Nettare]",
+   "desc": "Lavoreremo fianco a fianco."
+  },
+  {
+   "id": "collaborate.xmet",
+   "label": "Collaborare: Mettle",
+   "startdescription": "Ispirazione e determinazione. [Aumenta Forgia e Lama]",
+   "desc": "La nostra rotta è già tracciata."
+  },
+  {
+   "id": "collaborate.xcho",
+   "label": "Collaborare: Chor",
+   "startdescription": "Tutto va più liscio con una canzone. [Aumenta Cuore e Graal]",
+   "desc": "Il mio assistente e io siamo entrambi un po’ più allegri."
+  },
+  {
+   "id": "collaborate.xere",
+   "label": "Collaborare: Ereb",
+   "startdescription": "Il mio orgoglio troverà un’eco nel loro. [Aumenta Graal e Lama]",
+   "desc": "Con impazienza, pregustiamo il nostro lavoro."
+  },
+  {
+   "id": "collaborate.xfet",
+   "label": "Collaborare: Fet",
+   "startdescription": "Forse abbiamo condiviso un sogno. [Aumenta Rosa e Falena]",
+   "desc": "Il mio assistente e io condividiamo un’intesa non detta."
+  },
+  {
+   "id": "collaborate.xpho",
+   "label": "Collaborare: Phost",
+   "startdescription": "Insieme, saremo vigili. [Aumenta Lanterna e Cielo]",
+   "desc": "Il mio assistente e io siamo vigili."
+  },
+  {
+   "id": "collaborate.xsha",
+   "label": "Collaborare: Shapt",
+   "startdescription": "Istruzione, o incantamento? [Aumenta Battente e Forgia]",
+   "desc": "Il mio assistente e io scivoliamo con naturalezza nella conversazione."
+  },
+  {
+   "id": "collaborate.xtri",
+   "label": "Collaborare: Trist",
+   "startdescription": "Segrete afflizioni potrebbero unire le nostre forze. [Aumenta Falena e Luna]",
+   "desc": "Cosa verrà? Nessuno dei due lo sa ancora, ma lo sapremo."
+  },
+  {
+   "id": "collaborate.xwis",
+   "label": "Collaborare: Wist",
+   "startdescription": "Vigileremo su ciò che ci attende. [Aumenta Inverno e Lanterna]",
+   "desc": "Il mio assistente e io saremo prudenti."
+  },
+  {
+   "id": "exalt.weather",
+   "label": "Parla del Meteo",
+   "startdescription": "Più utile di quanto si potrebbe pensare. Specialmente in Gran Bretagna. [Le influenze dei cieli che mutano possono aumentare le abilità di un assistente per il resto della giornata.]",
+   "desc": "Approfittiamo del Meteo finché dura."
+  },
+  {
+   "id": "exalt.omen",
+   "label": "Un Auspicio Appropriato",
+   "startdescription": "Posso offrirgli un presagio che potrebbe fornire una guida utile. [Questo aumenterà i suoi Aspetti.]",
+   "desc": "«Prima della Luna, il Crepuscolo; prima del Crepuscolo, l’Alba; prima dell’Alba, la Pietra.» [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.omen.already",
+   "label": "Un Auspicio Appropriato?",
+   "startdescription": "[Ogni assistente può beneficiare di uno solo al giorno. Potresti procurare un presagio più potente un’altra volta...]"
+  },
+  {
+   "id": "exalt.memory",
+   "label": "Esaltare con una Memoria",
+   "startdescription": "Posso discutere una Memoria con il mio assistente. [Questo consumerà la Memoria, ma aumenterà le abilità dell’assistente per il resto della giornata.]",
+   "desc": "Le Memorie non durano altrettanto a lungo fuori dai libri. Ma per oggi hanno fatto la differenza."
+  },
+  {
+   "id": "exalt.memory.already",
+   "label": "Esaltare: Troppe Memorie?",
+   "startdescription": "[Puoi usare una Memoria per esaltare un assistente una sola volta al giorno.]"
+  },
+  {
+   "id": "exalt.fabric",
+   "label": "I Fili Convergono",
+   "startdescription": "Questo assistente potrebbe essere in grado di fare uso di tessuti e altri manufatti intrecciati. [Questo aumenterà i suoi Aspetti. Terrà per sé quel che dovesse avanzare.]",
+   "desc": "Che ingombri i <i>loro</i> scaffali. [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.fabric.already",
+   "label": "I Fili Convergono?",
+   "startdescription": "[Ogni assistente può beneficiare di uno solo al giorno. Potresti trovare o creare più tessuti un’altra volta...]"
+  },
+  {
+   "id": "exalt.device",
+   "label": "Offrire un Dispositivo",
+   "startdescription": "Posso prestare al mio assistente qualcosa di utile, aumentandone le abilità. [Questo è un Dispositivo, uno Strumento monouso: non lo riavrai indietro.]",
+   "desc": "[Il dispositivo ha aumentato i suoi Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.tool",
+   "label": "Offrire uno Strumento",
+   "startdescription": "Posso prestare al mio assistente qualcosa di utile, aumentandone le abilità. [Potrai comunque continuare a usare lo Strumento.]",
+   "desc": "[Lo strumento ha aumentato i suoi Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.tool.already",
+   "label": "Esaltare: Una Cosa alla Volta?",
+   "startdescription": "[Ogni assistente può usare un solo strumento al giorno.]"
+  },
+  {
+   "id": "exalt.sustenance",
+   "label": "Offrire Qualcosa da Mangiare",
+   "startdescription": "Posso offrire al mio assistente qualcosa da mangiare. Questo aumenterà i suoi Aspetti. Ed è comunque un gesto di cortesia.",
+   "desc": "[Il nutrimento ha aumentato i suoi Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.collaboration.already",
+   "label": "Collaborazione?",
+   "startdescription": "Stiamo già collaborando. [Ogni assistente può beneficiare di una sola carta Anima al giorno. Esistono modi per creare carte Anima più potenti...]"
+  },
+  {
+   "id": "exalt.sustenance.already",
+   "label": "Offrire Nutrimento: Un Eccesso?",
+   "startdescription": "[Ogni assistente può beneficiare del Nutrimento una sola volta al giorno.]"
+  },
+  {
+   "id": "exalt.beverage",
+   "label": "Un Buon Sorso",
+   "startdescription": "Posso offrire al mio assistente qualcosa da bere. [Questo aumenterà i suoi Aspetti. Gradirà anche il ristoro.]",
+   "desc": "Fino all’ultima goccia. [Questo ha aumentato i suoi Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.beverage.already",
+   "label": "Un Buon Sorso?",
+   "startdescription": "[Ogni assistente può beneficiare di una sola al giorno. Potresti trovare o creare bevande più potenti un’altra volta...]"
+  },
+  {
+   "id": "exalt.candle",
+   "label": "Una Luce per i Luoghi Bui",
+   "startdescription": "Posso offrire una candela al mio assistente. [Questo aumenterà i suoi Aspetti. Terrà per sé eventuali mozziconi di candela avanzati.]",
+   "desc": "«Ogni candela ha la sua ombra.» [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.candle.already",
+   "label": "Una Luce per i Luoghi Bui?",
+   "startdescription": "[Ogni assistente può beneficiare di una sola al giorno. Potresti trovare o creare candele più potenti un’altra volta...]"
+  },
+  {
+   "id": "exalt.flower",
+   "label": "«Per bandire dalla mente i tuoi pallidi, perduti gigli»",
+   "startdescription": "Fiori appassiti possono offrire ispirazione. [Questo aumenterà i loro Aspetti.]",
+   "desc": "«Invocai musiche più forsennate e vini più forti...» [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.flower.already",
+   "label": "«Per bandire dalla mente i tuoi pallidi, perduti gigli»?",
+   "startdescription": "[Ogni assistente può beneficiare di uno solo al giorno. Potresti trovare fiori più utili un’altra volta...]"
+  },
+  {
+   "id": "exalt.fuel",
+   "label": "Alimentare il loro Impegno",
+   "startdescription": "Posso offrire al mio assistente combustibile per la luce, o per il calore. [Questo aumenterà i suoi Aspetti. Terrà per sé il combustibile eventualmente avanzato.]",
+   "desc": "«Ogni fiamma ha il suo combustibile.» [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.fuel.already",
+   "label": "Rifornimenti Aggiuntivi?",
+   "startdescription": "[Ogni assistente può beneficiare di uno solo al giorno. Potresti trovare o creare combustibile più potente un’altra volta...]"
+  },
+  {
+   "id": "exalt.metal",
+   "label": "Rifornimenti Aggiuntivi",
+   "startdescription": "Posso offrire al mio assistente dei metalli – comuni, o esotici. [Questo aumenterà i suoi Aspetti. Terrà per sé il metallo eventualmente avanzato.]",
+   "desc": "Che ingombri i <i>loro</i> scaffali. [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.metal.already",
+   "label": "Rifornimenti Aggiuntivi?",
+   "startdescription": "[Ogni assistente può beneficiare di uno solo al giorno. Potresti trovare o creare metalli più potenti un’altra volta...]"
+  },
+  {
+   "id": "exalt.pigment",
+   "label": "Pigmenti Esotici",
+   "startdescription": "Posso offrirgli qualcosa per ravvivare la sua tela. [Questo aumenterà gli Aspetti dell’assistente. E più arte è sempre un bene.]",
+   "desc": "«Interessante...» [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.pigment.already",
+   "label": "Pigmenti Esotici?",
+   "startdescription": "[Ogni assistente può beneficiare di uno solo al giorno. Potresti trovare o creare pigmenti più potenti un’altra volta...]"
+  },
+  {
+   "id": "exalt.wood",
+   "label": "Rifornimenti Aggiuntivi",
+   "startdescription": "Posso offrire al mio assistente qualsiasi legname adatto abbia a disposizione. [Questo aumenterà i suoi Aspetti. Terrà per sé il legno eventualmente avanzato.]",
+   "desc": "Che ingombri i <i>loro</i> scaffali. [Questo ha migliorato i loro Aspetti in modo appropriato.]"
+  },
+  {
+   "id": "exalt.wood.already",
+   "label": "Rifornimenti Aggiuntivi?",
+   "startdescription": "[Ogni assistente può beneficiare di questo oggetto una sola volta al giorno.]"
+  },
+  {
+   "id": "talk.assistance.rector",
+   "label": "Parla con il Reverendo Timothy",
+   "startdescription": "Il Reverendo Timothy è sempre, sempre felice di fare due chiacchiere. [Aggiungi un Elemento dell’Anima per aumentare l’efficacia del Reverendo Timothy per la giornata, o limitati a parlare. A differenza di altri assistenti, Timothy può fare uso di Candele.]",
+   "desc": "Non ho bisogno di ascoltare tutto quel che dice il Reverendo Timothy. Lui, in realtà, non se lo aspetta nemmeno. Ma spesso mi fa piacere averlo fatto."
+  },
+  {
+   "id": "talk.assistance.blacksmith",
+   "label": "Parla con Denzil",
+   "startdescription": "Potrebbe anche rispondere. [Aggiungi qualcosa per aumentare l’efficacia di Denzil per la giornata, o limitati a parlare. A differenza di altri assistenti, Denzil può fare uso di Metallo.]",
+   "desc": "Fa molto con il silenzio, quest’uomo."
+  },
+  {
+   "id": "talk.assistance.coffinmaker",
+   "label": "Parla con Mr Kille",
+   "startdescription": "Mr Kille, arguto e arzillo, non ha nulla in contrario a fermarsi per due chiacchiere. [Aggiungi qualcosa per aumentare l’efficacia di Mr Kille per la giornata, o limitati a parlare. A differenza di altri assistenti, Mr Kille può fare uso di Legno.]",
+   "desc": "«I morti non raccontano un cavolo di storie. Be’, chi starebbe a sentirle?»"
+  },
+  {
+   "id": "talk.assistance.midwife",
+   "label": "Parla con Mrs Kille",
+   "startdescription": "Mrs Kille ha visto più mondo di quanto lasci solitamente intendere. Le conversazioni con lei regalano ogni tanto qualche sorpresa. [Aggiungi qualcosa per aumentare l’efficacia di Mrs Kille per la giornata, o limitati a parlare. A differenza di altri assistenti, Mrs Kille può fare uso di Tessuto.]",
+   "desc": "«Così è, e non c’è verso.» Mrs Kille, come ogni pettegolo del posto sa, venne dalla Francia per sposare Mr Kille. Ma ormai nel suo accento resta ben poca traccia del Continente."
+  },
+  {
+   "id": "talk.assistance.painter",
+   "label": "Parla con un Artista",
+   "startdescription": "Potrei incoraggiare il mio assistente, lavorare al suo fianco, dedicarmi per un poco alla sua esaltazione. Oppure potrei semplicemente ascoltare quel che ha da dire. [Aggiungi qualcosa per aumentare l’efficacia del tuo assistente per la giornata, o limitati a parlare. A differenza della maggior parte degli assistenti, un Pittore può fare uso di Pigmenti.]",
+   "desc": "Ho imparato qualcosa – o forse l’ho soltanto ricordato."
+  },
+  {
+   "id": "talk.assistance.engineer",
+   "label": "Parla con un Ingegnere",
+   "startdescription": "Potrei incoraggiare il mio assistente, lavorare al suo fianco, dedicarmi per un poco alla sua esaltazione. Oppure potrei semplicemente ascoltare quel che ha da dire. [Aggiungi qualcosa per aumentare l’efficacia del tuo assistente per la giornata, o limitati a parlare. A differenza di alcuni assistenti, un Ingegnere può fare uso di Combustibili.]",
+   "desc": "Ho imparato qualcosa – o forse l’ho soltanto ricordato."
+  },
+  {
+   "id": "talk.assistance.nun",
+   "label": "Parla con una Suora",
+   "startdescription": "Potrei incoraggiare il mio assistente, lavorare al suo fianco, dedicarmi per un poco alla sua esaltazione. Oppure potrei semplicemente ascoltare quel che ha da dire. [Aggiungi qualcosa per aumentare l’efficacia del tuo assistente per la giornata, o limitati a parlare. Una Suora potrebbe avere un interesse particolare per i Presagi.]",
+   "desc": "Ho imparato qualcosa – o forse l’ho soltanto ricordato."
+  },
+  {
+   "id": "talk.assistance.poet",
+   "label": "Parla con un Poeta",
+   "startdescription": "Potrei incoraggiare il mio assistente, lavorare al suo fianco, dedicarmi per un poco alla sua esaltazione. Oppure potrei semplicemente ascoltare quel che ha da dire. [Aggiungi qualcosa per aumentare l’efficacia del tuo assistente per la giornata, o limitati a parlare. A differenza di alcuni assistenti, un Poeta trova un impiego per i Fiori.]",
+   "desc": "Ho imparato qualcosa – o forse l’ho soltanto ricordato."
+  },
+  {
+   "id": "talk.assistance",
+   "label": "Parla con un Assistente",
+   "startdescription": "Potrei incoraggiare il mio assistente, lavorare al suo fianco, dedicarmi per un poco alla sua esaltazione. Oppure potrei semplicemente ascoltare quel che ha da dire. [Aggiungi qualcosa per aumentare l’efficacia del tuo assistente per la giornata, o limitati a parlare.]",
+   "desc": "Ho imparato qualcosa – o forse l’ho soltanto ricordato."
+  }
+ ]
+}

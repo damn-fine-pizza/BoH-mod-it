@@ -1,0 +1,39 @@
+{
+ "elements": [
+  {
+   "id": "houseoflight.menu.intro",
+   "label": "NELLA HOUSE OF LIGHT",
+   "desc": "<i>HOUSE OF LIGHT</i> è una grande espansione, intessuta in profondità nel gioco. Ecco una guida quasi priva di spoiler su come trovare le novità. \nNOTA: HOUSE OF LIGHT è compatibile con i salvataggi esistenti, anche se una volta che HOUSE OF LIGHT avrà toccato un salvataggio, quel salvataggio non funzionerà più se rimuovi il DLC."
+  },
+  {
+   "id": "houseoflight.menu.food",
+   "label": "CIBO",
+   "desc": "Combina gli ingredienti alle tre postazioni di lavoro della Cucina per creare dozzine di nuovi piatti. Ti serviranno Utensili da Cucina per trovare tutte le ricette. \nSUGGERIMENTO: la Bilancia delle Spezie e l’abilità Spezie & Sapori si sostituiscono a vicenda."
+  },
+  {
+   "id": "houseoflight.menu.writingcase",
+   "label": "UN ASTUCCIO DA SCRITTURA",
+   "desc": "Aspettati un dono alla fine della prima Primavera dopo aver risposto al Trust di St Rhonwen. Una volta ricevuto questo dono, potrai registrare gli indirizzi dai biglietti da visita lasciati dai visitatori soddisfatti (eccetto quelli che vengono solo durante Numa); e scrivere a questi visitatori per invitarli a tornare alla Casa.\nSUGGERIMENTO: i visitatori non arrivano all’istante; i visitatori non lasciano biglietti da visita finché non li hai aiutati; e alcuni visitatori sono più facili da convocare di altri.\nNOTA: l’inchiostro Perinculate è terribilmente velenoso e non si può usare per gli inviti. Se un invito uccide il destinatario, è improbabile che risponda in modo costruttivo."
+  },
+  {
+   "id": "houseoflight.menu.salons",
+   "label": "SALOTTI",
+   "desc": "Metti cibo e bevande in una delle sei stanze del Salotto, poi usa la campanella per dare inizio a un Salotto. Fallo nel modo giusto e avrai in cambio una conversazione scintillante... e Lezioni.\nSUGGERIMENTO: i Visitatori di solito preferiscono cibo e bevande che corrispondono al loro Interesse primario, ma alcuni hanno requisiti aggiuntivi.\nCONSIGLIO: fai attenzione a lasciare libri nelle stanze del Salotto, se non vuoi che gli ospiti li tocchino."
+  },
+  {
+   "id": "houseoflight.menu.manuscripts",
+   "label": "MANOSCRITTI",
+   "desc": "Usa Carta, Inchiostro e un’Abilità per scrivere un Manoscritto basato su quell’abilità. Questi Manoscritti possono essere necessari per soddisfare seti di conoscenza <i>specifica</i> nelle ULTERIORI STORIE. Le Lezioni dei Salotti ti aiuteranno a migliorare quelle Abilità e a scrivere Manoscritti più utili.\nSUGGERIMENTO: non puoi controllare con certezza ciò di cui parleranno i Visitatori – è un ricevimento, non un interrogatorio – ma di solito forniranno lezioni legate ai loro Interessi condivisi.\nNOTA: il Perinculate non si può usare per scrivere Manoscritti. Sarebbe scortese scrivere un manoscritto capace di uccidere i visitatori. (E comunque Hokobald è probabilmente immune.)"
+  },
+  {
+   "id": "houseoflight.menu.furtherstories",
+   "label": "ULTERIORI STORIE",
+   "desc": "Una volta completato un Incidente, seguine gli sviluppi nell’Albero delle Sapienze. Qui i Visitatori avranno bisogno di aiuto più specifico – forse un libro su un argomento preciso, o un libro preciso. \nSUGGERIMENTO: una Vicenda si apre alle Ulteriori Storie una volta che tutti i Visitatori interessati hanno avuto l’opportunità di chiederti aiuto in merito. Tieni presente che in alcune Ulteriori Storie può fare la differenza chi hai aiutato in origine. <b>Attenzione. Questa è l’unica parte del gioco in cui le scelte possono talvolta avere conseguenze permanenti</b>."
+  },
+  {
+   "id": "houseoflight.menu.institute",
+   "label": "L’ISTITUTO",
+   "desc": "Cerca il faro, al largo. Quando i tuoi Visitatori saranno pronti, usalo per stabilire i veri eredi della Curia dell’Isola. \nSUGGERIMENTO: gli esiti delle Ulteriori Storie possono ispirare i tuoi Visitatori a sostenere l’Istituto – per ragioni proprie. La loro natura resta costante, ma alcuni esiti narrativi possono spingerli a privilegiare un obiettivo rispetto a un altro."
+  }
+ ]
+}

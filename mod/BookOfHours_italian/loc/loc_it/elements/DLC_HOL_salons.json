@@ -1,0 +1,45 @@
+{
+ "elements": [
+  {
+   "id": "salon.time.remaining",
+   "label": "Salotto: Tempo Rimanente",
+   "desc": "[I tuoi ospiti resteranno finché questo non sarà esaurito.]"
+  },
+  {
+   "id": "_visiting"
+  },
+  {
+   "id": "visiting.killes",
+   "label": "I Kille: In Visita",
+   "desc": "I Kille parteciperanno al prossimo Salotto nei loro abiti della domenica. [I Kille sono una compagnia piacevole, ma non sono eruditi quanto altri visitatori, e potrebbero essere leggermente meno produttivi di Lezioni. Questa carta resterà disponibile finché i Kille non avranno partecipato a un Salotto.]"
+  },
+  {
+   "id": "visiting.timothy",
+   "label": "Il Reverendo Timothy: In Visita",
+   "desc": "Il Reverendo Timothy parteciperà al prossimo Salotto con un colletto clericale fresco d’amido."
+  },
+  {
+   "id": "visiting.denzil",
+   "label": "Denzil: In Visita",
+   "desc": "Denzil parteciperà al prossimo Salotto nei suoi abiti più puliti. [Denzil conosce più stranezze del comune fabbro di campagna, ma essendo sia più taciturno sia meno erudito di altri visitatori, potrebbe essere leggermente meno produttivo di Lezioni.]"
+  },
+  {
+   "id": "salon.past"
+  },
+  {
+   "id": "salon.past.lively",
+   "label": "Un Salotto Vivace",
+   "desc": "Hai tenuto un Salotto vivace. [Un promemoria: non puoi tenere un altro Salotto fino alla prossima Stagione.]"
+  },
+  {
+   "id": "salon.past.quiet",
+   "label": "Un Salotto Tranquillo",
+   "desc": "Hai tenuto un Salotto tranquillo – forse non c’erano molti ospiti, o non avevano molto da dire. [Un promemoria: non puoi tenere un altro Salotto fino alla prossima Stagione.]"
+  },
+  {
+   "id": "salon.past.sombre",
+   "label": "Un Salotto Cupo",
+   "desc": "Hai tenuto un Salotto cupo in cui nessuno aveva molto da dire su nulla. [Un promemoria: non puoi tenere un altro Salotto fino alla prossima Stagione.]"
+  }
+ ]
+}

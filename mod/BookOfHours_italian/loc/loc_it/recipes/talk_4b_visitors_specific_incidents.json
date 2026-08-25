@@ -1,0 +1,2069 @@
+{
+ "recipes": [
+  {
+   "id": "talk.visitor.intro.arthur.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Una rivolta nei Confini – forse ne hai sentito parlare. Si sono rivolti a me per aiuto…» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arthur.revolution.mystery.edge",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«I miei amici nei Confini non sono stati del tutto onesti con me… ma non hanno nemmeno mentito, esattamente. Grazie, Archivista. Ho molto su cui riflettere.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arthur.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Non sono un grande estimatore dei ribelli – ma con questi ho un’affinità particolare. Devo sapere quanto di ciò che dicono sia vero.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.azita.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«La Legione è di nuovo in marcia. Mi hanno contattata per le forniture…» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.azita.revolution.mystery.edge",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Sì; credo di aver trovato un sostituto accettabile. Prevedo un ottimo profitto. Lascia che ti offra una parte…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.azita.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Hanno bisogno di fucili, hanno bisogno di stivali, e vogliono coltelli di taenite… non proiettili. Non ho coltelli di taenite. Ma ho un’idea.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.chaima.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Guai nei Confini. La Legione mi ha offerto un contratto.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.chaima.revolution.mystery.edge",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Utile. Grazie, Archivista. Questo è per il disturbo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.chaima.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Mi piace la Legione. La paga è buona. Ma conosco molto poco del loro nemico, e non mi piace entrare in battaglia da ignorante.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.coquille.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Conosci la Légion du Seuil, naturalmente? I guardiani della Soglia? Partono di nuovo per la guerra –» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.coquille.revolution.mystery.grail",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Ho l’idea più <i>squisita</i>! Ecco – qualcosa per il tuo disturbo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.coquille.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«C’è un ufficiale nella Legione – un amico <i>molto speciale</i>. Voglio che abbia qualcosa per ricordarmi. Ma ha anche gusti <i>molto speciali</i>.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.corso.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Ero sulle tracce di un libro – un Hattington sconosciuto – nei Confini – e, guarda un po’, proprio dove penso si trovi il mio Hattington, è la parte che sta andando a fuoco…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.corso.revolution.mystery.grail",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Penso che questo risolva tutto. Grazie, Archivista. Allo zoo, immagino…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.corso.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Posso ancora arrivare al mio Hattington, ma mi serviranno delle bustarelle. E la signora che devo corrompere – be’, ha un sacco di soldi, ma è, diciamo, una buongustaia…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.hokobald.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Altre sciocchezze nei Confini con la Legione. Sempre altre sciocchezze. Ma fiuto un’opportunità.» "
+  },
+  {
+   "id": "talk.visitor.incident.success.hokobald.revolution.mystery.grail",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Avevo ragione – di nuovo. Devo muovermi in fretta… oh, suppongo che vorrai il tuo compenso…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.hokobald.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Mi occorrono informazioni sulle genealogie. O sulla cucina. O su argomenti affini…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.morgen.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Di nuovo guerra nei Confini. Oh, Archivista… posso già fiutare il sangue.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.morgen.revolution.mystery.grail",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«Archivista – tesoro mio – devo ringraziarti. Moltissimo. So esattamente chi cercare. Ti prego, prendi questo! Meriteresti di più. Ma ti risparmierò il mio bacio, eh?» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.morgen.revolution",
+   "label": "Sulla Rivoluzione della Soglia",
+   "startdescription": "«I miei interessi particolari sono coinvolti qui… sai? Non so esattamente come. Ma lo scoprirò.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.coquille.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Una volta mi hanno fatto fare un giro dei caveau da Oriflamme’s, sai. Non credo davvero che qualcuno sia potuto entrare. Non senza un bel po’ più di trambusto, non senza un bel po’ più di disordine.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.coquille.heist.mystery.knock",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Mi chiedo… sai, credo di essere appena inciampata in qualcosa di piuttosto strepitoso, qui. Grazie così tanto, tesoro, un tanto grazie!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.coquille.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Ma se dovesse rivelarsi vero, be’, una ragazza potrebbe ritrovarsi curiosa di sapere esattamente come sia stato portato a termine il colpo…» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.dagmar.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Un colpo? Da Oriflamme’s? Fandonie. Falsi? Fandonie. Il Bureau in giro dappertutto ad arrestare chiunque, però. Peggio di Ortucchio. Maledetto, scusa il francesismo, mal di, maledette, scusa il francesismo, parti posteriori, scusa.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.dagmar.heist.mystery.knock",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Grazie, tesoro. Mi ha tirato su un po’ il morale. Il lato positivo, diciamo. Pip pip.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.dagmar.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Suppongo che se uno fosse il tipo che sa qualcosa di Nittodromia o, sai, di qualunque cosa, potrebbe chiedersi della faccenda di finire rinchiuso, potrebbe chiedersi che genere di informazioni potrebbero... sviare le autorità. Non sviare. Scoraggiare. Depistare le tracce. Non che ci sia una traccia da depistare. Quel genere di cosa. Meglio prevenire.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.hokobald.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Sì, questa faccenda da Oriflamme. Non ammettono nulla. Ma mi hanno incaricato di migliorare il loro caveau.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.hokobald.heist.mystery.forge",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Suppongo che dovrà bastare. Ecco. È fin troppo generoso, ma d’altronde sono una persona fin troppo generosa. Forse è la mia unica debolezza rimasta.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.hokobald.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Ho moltissimi pensieri su questa faccenda della cassaforte. Moltissimi. Non mi sono ancora deciso su una linea d’azione particolare. Sono qui per compiere un’indagine preliminare della letteratura pertinente.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.olympe.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Sto indagando sulla storia di Oriflamme’s – il furto, i falsi.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.olympe.heist.mystery.forge",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Curioso davvero. Questo mi dà più che abbastanza materiale su cui lavorare, Archivista. Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.olympe.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Non pretendo di essere un’esperta di alcun tipo. Ma alcuni dettagli riguardo alle loro protezioni sembrano curiosi. Spero che la tua collezione mi aiuti a indagare.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.serena.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Sono molto interessata a questo “furto” da Oriflamme’s. Spero di poter contare sulla tua discrezione?» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.serena.heist.mystery.forge",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Grazie. Ho un incontro lì la prossima settimana, con qualcuno di cui credo di potermi fidare. E ora, spero, ho abbastanza materiale perché mi prenda sul serio.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.serena.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Il mio sospetto, francamente, è che sia stata Oriflamme’s a inventare e diffondere questa storia. Non riesco a immaginare perché. Devo indagare sulla provenienza e la fattura di alcuni di questi presunti “falsi”.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.zachary.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Non mi piace quello che dicono sia successo. Non mi piace per niente.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.zachary.heist.mystery.knock",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Archivista… una porta si chiude, un’altra si apre. E un’altra ancora.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.zachary.heist",
+   "label": "Sul Colpo all’Oriflamme",
+   "startdescription": "«Riesco quasi a vedere cosa è successo. Cosa è successo davvero, davvero. Mi serve solo un po’ di più.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.aladim.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«“È la più antica della sua specie ancora in vita; ed è morta.” Così siamo soliti parlare della Medusa Ligeiana, che infesta le notti di Budapest… ma ora sembra abbia iniziato a infestare anche i giorni.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.aladim.stalk.mystery.rose",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Alcune autorità propendono per “Eternità”. Altre per “la Croce”, ma temo che questo potrebbe irritarla… forse la scelta più sicura è stabilire che la risposta sia “Io”. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.aladim.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«L’Enigma di Medusa è “Cosa Non è Visto?” Raramente un enigma Ligeiano ha una sola risposta. Se devo andare a Budapest, preferirei andarci preparato.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.chaima.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Mi hanno offerto un contratto – per pedinare Medusa, a Budapest. Pedinare, non cacciare! Non sono una sciocca.» [Prova un libro con tanto Mistero: <sprite name=edge> o Mistero: <sprite name=rose> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.chaima.stalk.mystery.edge",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Grazie. Ora so come proteggermi. Purché non mi avvicini troppo.» "
+  },
+  {
+   "id": "talk.visitor.incident.success.chaima.stalk.mystery.rose",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Grazie. Ora so come placarla. Purché mostri sufficiente rispetto.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.chaima.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Un alukite è una preda difficile – e Medusa non è come nessun alukite di cui abbia mai sentito parlare. Devo sapere come proteggermi – o, forse, come placarla.» [Prova un libro con tanto Mistero: <sprite name=edge> o Mistero: <sprite name=rose> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.intro.arthur.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Ricorderai, forse, che sono uno studente di Illuminazione. I miei maestri al Labirinto dei Leoni mi hanno posto una sfida che devo completare prima di poter passare a un livello superiore di iniziazione.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arthur.stalk.mystery.edge",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«“Cosa Non Si Vede?” Ho creduto a lungo che la risposta migliore fosse “Luce”. Ma non ne sono più certo. Grazie, Archivista. Ho di che riflettere.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arthur.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Per prima cosa, devo affrontare Medusa e rispondere al suo enigma. Lo conosci, Archivista? “Cosa non si vede?” In secondo luogo, devo sopravvivere all’incontro. Spero che nella tua collezione ci sia qualcosa per aiutarmi a prepararmi.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.azita.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Il mio nemico più caro – Mehrad – mi ha invitata a una sfida a Budapest…» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.azita.stalk.mystery.edge",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Di grande aiuto, Archivista. Grazie per aver assecondato i nostri sciocchi giochi.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.azita.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Mehrad mi dice che Medusa ha cominciato a camminare più apertamente per Budapest. La cercheremo entrambi. Il primo che riuscirà a tagliare un lembo della sua veste vincerà la sfida. Potrebbe esserci una zuffa, certo. Con Mehrad me la so vedere, ma Medusa è un’altra faccenda.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.dagmar.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Medusa, eh? Che storia è mai questa? Che mi venga un colpo se lo so. Magari tu puoi aiutarmi. Spero tu possa aiutarmi.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.dagmar.stalk.mystery.rose",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Cose strane all’orizzonte. Ricordati le mie parole. Cose piuttosto strane. Be’, ti ringrazio davvero, tesoro. Ecco un piccolo pensiero.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.dagmar.stalk",
+   "label": "Sull’Amica Assente",
+   "startdescription": "«Ci darò un’occhiatina per un’amica, chiamiamola K, no non chiamiamola K, dimentica l’amica. Seguo nuove piste, diciamo così.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.agdistis.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Siamo in molti, sai, ad avere quelle che potresti chiamare ferite non guarite… e molti di noi non sceglierebbero di guarirle.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.agdistis.wound.mystery.heart",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Non è una faccenda per me, credo. Il potere che servo non è gentile. Ha perso la sua pelle, e accetta i doni delle scorticature altrui… ma qui è all’opera un’Ora più crudele. Mi ritirerò. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.agdistis.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Vorrei capire cosa sia successo a questo “O.R.”, così da poter capire cosa potrebbe voler che gli accada.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.douglas.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Mi dispiace per quel tizio. Davvero. Ma non è più solo un tizio, ormai.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.douglas.wound.mystery.heart",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Lo pensavo. “O.R.” è un pericolo onirico ambulante. Be’, non proprio “ambulante”, poveraccio. Dovrò raccomandare qualcosa di piuttosto permanente. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.douglas.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«“Aperto”. È solo, sai, aperto? O forse si sta aprendo verso qualcos’altro?» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.ehsan.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Quando ero Segretario Salvante, il mio primo dovere era alleviare la sofferenza. Ora, è soltanto la mia prima inclinazione…» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.ehsan.wound.mystery.heart",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Temo che questo “O.R.” abbia attirato le attenzioni della Madre delle Formiche. Se è così, posso fare ben poco per lui. Ma posso provarci. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.ehsan.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Pensano sempre che tutti noi sappiamo tutto. Che un Lungo della Lanterna capisca i duendrazones, che un labhite capisca i figli della collina… ma per tutti noi, tutti noi siamo un mistero. E questo qui è un mistero per me.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.stanislav.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Quella povera anima era mio amico. Non so con certezza cosa sia adesso.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.stanislav.wound.mystery.heart",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Ognuno sceglie il proprio cammino… ma temo che il mio amico abbia scelto di <i>essere</i> un cammino… be’, se è così, non lo percorrerò. Ma ora so abbastanza per capire cosa potrebbe volere. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.stanislav.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Sono giardiniere prima ancora che sacerdote, e sacerdote prima ancora che guaritore. Conosco i miei limiti. Forse puoi aiutarmi.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«“O.R.” – lo sapevo che era turbato. Era un mio paziente, prima di quello che gli è successo. Qualunque cosa sia esattamente!» "
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.wound.mystery.winter",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Non riesco a immaginare come si possa anche solo cominciare a guarirgli la carne. Ma se decidesse di voler parlare con me, ora ho qualche indizio su cosa potrei aver bisogno di capire. Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Sono una novizia in queste faccende – ma sto iniziando a capire che la maggior parte di noi è novizia la maggior parte del tempo. Quindi spero che tu abbia qualcosa di adatto nella tua collezione.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.intro.zachary.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Se si è scelto di essere aperti, perché si vorrebbe essere richiusi?» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.zachary.wound.mystery.winter",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Il prete si aprirà solo verso l’esterno: un modo deludente. Ma almeno la sua sofferenza non dovrà protrarsi ancora a lungo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.zachary.wound",
+   "label": "Sul Reverendo Aperto",
+   "startdescription": "«Il prete ha ricevuto la grazia dei cancelli. Qui imparerò cosa può passare attraverso quel cancello.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.intro.coquille.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«<i>Il</i> caso più <i>ripugnante</i> di Vermi che io abbia <i>mai</i>. Che io abbia mai.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.coquille.intrusion.mystery.knock",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Sai, tutte le storie sembrano collocare la spada Ebrehel a Cracovia… e ora comincio a pensare che abbia un suo senso. Grazie, tesoro!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.coquille.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«I Doveri locali ce l’hanno in una scatola. Quindi sappiamo dove sono le cose. Ma quello che mi interessa, tesoro, è da dove <i>vengono</i>. Non pensavo ci fosse niente del genere a Cracovia – non dalla Guerra, comunque.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.dagmar.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Brutta faccenda, quella dei Vermi. Brutta. Hai mai incontrato Hobson? Ometto orribile. Comunque. Brutta.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.dagmar.intrusion.mystery.knock",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Le sigillerò come si sigilla un dono di Natale, altroché. Pip pip. Pip pip! Ha ha! Scatolone!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.dagmar.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Dicono che il Bureau abbia Hobson in una scatola. Il Bureau non saprebbe distinguere una scatola da uno scatolone, dico io. Ha ha! Scatolone! Scatolone. Come non detto. Pensavo di fare un salto a Cracovia, per assicurarmi che sia tutto sigillato a dovere. Voglio solo prima mettere in ordine i miei introrcismi. (Scatolone!)» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Sono qui per Hobson. Il Bureau mi ha invitata a intervistarlo – a valutarlo. Non credo di volerlo fare, ma non credo di potermi lasciar sfuggire l’occasione…» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.intrusion.mystery.winter",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Ora ho qualche idea sulle precauzioni che potrei prendere. Spero che basti. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«È abitato dai Vermi, dicono. Capisco solo a metà cosa significhi. E temo che nemmeno il Bureau lo capisca. Non mi aspetto di poter aiutare lui, o loro; onestamente, voglio soprattutto garantire la mia sicurezza.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.intro.zachary.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Hobson. Era mio amico. (Ora, potrebbe essere i miei amici.) Devo sapere cosa fare.» [Prova un libro con tanto Mistero: <sprite name=knock> o Mistero: <sprite name=winter> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.zachary.intrusion.mystery.knock",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Fuori, dunque. Addio, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.success.zachary.intrusion.mystery.winter",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«Giù, allora. Addio, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.zachary.intrusion",
+   "label": "Sull’Ospite Infinito",
+   "startdescription": "«C’è sempre un fuori, e c’è sempre un giù.» [Prova un libro con tanto Mistero: <sprite name=knock> o Mistero: <sprite name=winter> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.intro.agdistis.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Ho sentito di quest’impresa in Germania, dove i clienti entrano come banchieri ed escono come pittori. Di solito non m’interessano né i banchieri né la pittura, ma questo…» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.agdistis.pan.mystery.heart",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Avevo letto che il miele fa parte della dieta che offrono in questo posto. Penso di capirne ora il significato. Forse lo proverò anch’io! Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.agdistis.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«“Lyterios” è il dio Pan – il suo aspetto di Liberatore. Perché allora “Lyterion”? Pubblicità, o religione? Qualcuno direbbe che non c’è, ha ha, alcuna differenza! Vorrei saperne di più.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.douglas.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Devo andare a occuparmi di tutti questi dannati pittori. Ti dirò francamente che avrei di meglio da fare. Ma il capo fa quel che fa il capo.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.douglas.pan.mystery.heart",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Niente di troppo sinistro qui. Be’, più artisti nel mondo. Di per sé mi pare già un fenomeno piuttosto sinistro. Ma niente per il Bureau, credo. Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.douglas.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Il capo mi ha fatto sedere e mi ha spiegato “Lyterion”. E “Pan”. Lo sai che sono entrato al liceo classico grazie alla mia dannata bravura in dannato greco? Dannata borsa di studio. Lascia perdere. Vediamo cosa hai su tutto questo.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.ehsan.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Questa curiosa faccenda nella Foresta Nera. Spero di poter trovare qualcosa nella collezione qui per capirla meglio…» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.ehsan.pan.mystery.heart",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Il testo è utile – grazie! – ma ora che ho fatto ritorno a Brancrug, ho notato la cosa più strana. Il lavoro che esce da questo posto – è molto simile al lavoro che faceva Thirza Blake. Saprai di certo che era archivista qui prima di te… forse una coincidenza. Forse no.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.ehsan.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Sono più interessato all’aspetto terapeutico che a quello artistico. Sebbene ci sia qualcosa qui che, diciamo così, tira per la falda dei miei pensieri.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.stanislav.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Questi pazienti; questi ex-allievi; dovrei dire, questi iniziati? Il mio interesse è doppiamente professionale; come sacerdote, e come giardiniere.» [Prova un libro con tanto Mistero: <sprite name=heart> o Mistero: <sprite name=nectar> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.stanislav.pan.mystery.heart",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Andrò a parlare con alcune di queste persone. Sento da un po’ che qualcosa sta cambiando nel ritmo del battito del mondo. Penso che questa possa essere un’occasione per capire cosa. Potrei sbagliarmi. È già successo. Ma grazie, Archivista, accetta la mia benedizione; e questo.» "
+  },
+  {
+   "id": "talk.visitor.incident.success.stanislav.pan.mystery.nectar",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Andrò nella Foresta Nera. Penso che sia qualcosa che dovrò seguire fin dentro le radici. Penso che qui ci sia un’occasione, perché qualcosa di antico rinasca nel modo giusto o in quello sbagliato. Potrei sbagliarmi. È già successo. Ma grazie, Archivista, accetta la mia benedizione; e questo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.stanislav.pan",
+   "label": "Sul Dio nel Bosco",
+   "startdescription": "«Vorrei capire: perché lì? E vorrei anche capire: perché ora?» [Prova un libro con tanto Mistero: <sprite name=heart> o Mistero: <sprite name=nectar> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.intro.agdistis.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Un mio amico – colleziona curiosità. Ora c’è qualcosa che vorrebbe non aver mai collezionato. Ma – come dire? Quella cosa non vuole farsi scollezionare.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.agdistis.curse.mystery.heart",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Grazie, amico mio. La mia preoccupazione ora è che, se questa protezione è sufficiente, lui deciderà di non disfarsi affatto della cosa – sperando di tenerla. E contro il Nessun Luogo, la miglior protezione è effimera. Userò tutta la mia arte di persuasione! Grazie!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.agdistis.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Il suo nuovo tesoro è posseduto da una malignità del Nessun Luogo – penso forse l’Ora che chiamano il Ragno Ascendente. Se è così, le mie protezioni abituali non serviranno contro di essa. Spero che tu possa aiutarmi?» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.douglas.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«L’abbiamo combinata grossa, e adesso tocca a me rimediare. Questo non l’hai sentito da me.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.douglas.curse.mystery.heart",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Bene. Grazie. Ora forse ho qualche discreta possibilità di non finire divorato dall’interno. Molto obbligato.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.douglas.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Per questa faccenda dello svuotamento, dovrò documentarmi sulle protezioni.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.ehsan.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Ho avuto le mie divergenze col Bureau… ma in generale, sono contento che i Doveri li abbiano… ma questo… questo è andato molto, molto male.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.ehsan.curse.mystery.heart",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Niente è a prova di Niente, eh, Archivista? Ma spero di sapere ora come proteggermi.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.ehsan.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Mi è stato chiesto di condurre… potrebbe essere un esorcismo, potrebbe essere di più. Devo assicurarmi di fare le cose per bene, questa volta.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.stanislav.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Anch’io ho acquistato uno di quei pezzi di Grunewald, sai... una scultura di cera. Un po’ più irrequieta della maggior parte delle sculture di cera, a quanto pare. Per mia fortuna, ho imparato a non fidarmi del Bureau per fare il mio lavoro.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.stanislav.curse.mystery.heart",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Grazie, Archivista. Ora dovrei riuscire a dissuadere l’affare dal fare le sue passeggiate di mezzanotte. È già abbastanza sgradevole quando lo fa nelle mie stanze. Sarebbe davvero scortese incomodare gli altri passeggeri, se dovessi viaggiare in treno.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.stanislav.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Una mia vecchia conoscenza al Frutteto degli Immortali Verdi sarebbe molto grata per questa… scultura di cera irrequieta. Ma se devo trasportarla per tutta l’Asia, devo assicurarmi che resti nella sua cassa.» [Prova un libro con tanto Mistero: <sprite name=heart> quanto il suo Interesse per <sprite name=heart>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Questi cimeli di Grunewald… ne ho acquisito uno anch’io. Un congegno. Il Bureau mi aveva assicurato che era sicuro… avevo commissionato delle riparazioni… ma ora, come puoi immaginare, ho dei dubbi.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.curse.mystery.winter",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Be’, che delusione. Suppongo che ora dovrò smontare l’aggeggio. Magari farlo gettare in un pozzo minerario. Sono molto contenta di essere venuta a trovarti, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Spero ancora che sarà sicuro mettere in moto il dispositivo. Ma vorrei esserne assolutamente certa.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.intro.zachary.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Mi dispiace per quello che è successo. Con il Circo.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.zachary.curse.mystery.winter",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Penso che ne avrò abbastanza. Credo. Grazie…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.zachary.curse",
+   "label": "Sulla Fornitura di Grunewald",
+   "startdescription": "«Parte di ciò potrebbe essere stata chiarità. Forme ovitiche. Propizie. Potrebbe essere stato. Devo capire cosa.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arthur.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Ci sono profezie della Seconda Alba, sai; della rinascita del Sole. Una di quelle profezie è quella dell’“Occhio Senza Catene”.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arthur.omen.dawn.mystery.lantern",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Sono incline a credere che questo possa configurarsi come l’adempimento della profezia. Avevo quasi sperato che non lo fosse, Archivista. Quando il mondo cambierà, cambierà tutto in una volta.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arthur.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«L’“Occhio Senza Catene”. Potrebbe voler dire un’infinità di cose. Gli Illuminati del Labirinto mi hanno chiesto di cercare sapienza nelle altre grandi biblioteche. Spero che tu possa aiutarmi.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.corso.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Lavoro per la Chiesa, questa volta. Ho un lasciapassare e tutto quanto.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.corso.omen.dawn.mystery.lantern",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Questo chiude la questione. Gli hanno rifilato una fregatura. Il loro manoscritto non può essere più vecchio del diciottesimo secolo. Forse non glielo dirò, eh, Archivista? Ai clienti non piace pagare per le cattive notizie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.corso.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Hanno bisogno che autentichi un manoscritto. Illustrazioni mistiche dell’“Occhio Senza Catene”. Devo fare qualche controllo incrociato.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.douglas.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Il capo è preoccupato che questa storia della vista di Messana si stia diffondendo. Io non ci vedo nulla di preoccupante. Non è una battuta. Non faccio molte battute. Se lo faccio, te lo farò sapere.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.douglas.omen.dawn.mystery.lantern",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Be’, senti, non posso far finta di sapere cosa sta succedendo là, ma dirò al capo che hai aiutato a fare un po’ di luce sulla situazione. Questa è una battuta. Uomo di parola, io.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.douglas.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Spero di trovare qualcosa di pertinente nella collezione. Certo, un sacco di cose potrebbero essere pertinenti.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.fraser.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Ti dirò una cosa in confidenza, Archivista. Da tempo mi perseguita un certo sogno di occhi.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.fraser.omen.dawn.mystery.lantern",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«No; è qualcos’altro. I miei sogni non vedranno la luce del giorno, non ancora. Forse non la vedranno mai. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.fraser.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Questa cecità, queste rivelazioni, a Messana… c’è qualcosa di familiare in esse. Ho la sensazione di una risoluzione imminente.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.serena.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Messana. La cecità? La vista lunga? Sento odore di un Nome del Guardiano.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.serena.omen.dawn.mystery.lantern",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Dovrei aver imparato ormai a non trarre conclusioni affrettate. Non è affatto un nome del Guardiano. Penso che <i>potrebbe proprio essere</i> un Nome del Chandler. Avevo sentito che ce n’era uno in giro per il mondo a combinare guai… naturalmente dovrò accertarmene. Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.serena.omen.dawn",
+   "label": "Sull’Occhio Senza Catene",
+   "startdescription": "«Ho conosciuto adepti che non credono che il Guardiano abbia alcun Nome – a parte Celia del Tramonto, ovviamente. Si sbagliano. Ma in questo caso può essere molto difficile distinguere i Nomi dall’Ora stessa. Dovrò documentarmi.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.chaima.omen.horizon",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Ys giace oltre l’onda. Questo lo sappiamo entrambi. Ma il mio committente sospetta che i loro emissari abbiano attraversato l’onda per venire qui, su queste coste...» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.chaima.omen.horizon.mystery.rose",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Solo indizi e racconti da focolare. Ma abbastanza per orientare la mia ricerca. Non troverò nulla. Ma non mi piace lasciare un compito a metà.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.chaima.omen.horizon",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Sto sprecando il mio tempo – è certo. Gli emissari di Ys non oltrepassano i Confini. Ma sono stata pagata per sprecare il mio tempo, quindi devo esserne assolutamente certa.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.dagmar.omen.horizon",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Mai stata a Ys. Sempre voluto andarci. Probabilmente non dovrei. Ne ho una voglia terribile. Probabilmente non dovrei.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.dagmar.omen.horizon.mystery.rose",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Ho trovato qualcosa. Potrebbe essere altro. Potrebbe essere qualcosa di cui mi pentirò. Acqua in bocca, eh? A buon intenditor. Pip pip, tesoro, pip pip.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.dagmar.omen.horizon",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Discreta nittodromista, sai. Discreta, diciamo nella media. Conosco i Confini in lungo e in largo. Ys è un’altra cosa. Serve un buon libro su quell’altra cosa.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.aladim.omen.horizon",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Il passaggio per Ys è proibito… così profondamente proibito che perfino le leggi che lo vietano non sono generalmente note. Ma ci sono sempre delle eccezioni. Immagino che un archivista dell’Albero del Guardiano sappia capire le eccezioni.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.aladim.omen.horizon.mystery.rose",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Quando Hendrik Dewulf era ancora un capitano mercenario, la sua compagnia fu impiegata per pattugliare i Confini. Sospetto sia per questo che il Re lo nominò signore di questo luogo. Non direi, esattamente, che si possa viaggiare fino a Ys da Brancrug... ma credo che Brancrug sarebbe un buon punto di partenza per quel viaggio. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.aladim.omen.horizon",
+   "label": "Sull’Altro Orizzonte",
+   "startdescription": "«Ys stessa è un luogo di eccezioni. Mi chiedo se la risposta stia in questo, o in qualcosa più vicino a casa…» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arthur.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Ho un contratto a Kaunas, Archivista. Per la guerra dei Conteggiatori. Quale schieramento? Ha importanza?» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arthur.mob.mystery.edge",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Francamente, Archivista, spero di non dover sparare a nessuno. Ma se dovrò, ora so con cosa farlo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arthur.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Conteggiatori. Gli spari addosso, cadono, si rialzano. Gli anni rubati assorbono una pallottola o due. Ma non è un problema nuovo. Ci saranno modi per aggirarlo.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arun.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Questo secolo, Archivista, questo secolo. Un coltello sotto ogni cuscino. Sono intenzionato, questa stagione, a farmi collezionista di coltelli.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arun.mob.mystery.moon",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«A volte, Archivista, dev’essere frustrante non vedere mai come vanno a finire queste faccende. Ma ti invidio. Una volta che ci si è invischiati, non se ne esce mai del tutto.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arun.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«I savi della Corrivalità ci dicono che la comprensione conduce al conflitto. Mi chiedo, allora, se la pace potrebbe nascere dalla confusione?» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.azita.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Questo stupido conflitto minaccia i miei interessi a Kaunas…» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.azita.mob.mystery.edge",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Grazie, Archivista. Non temere: non spargo sangue se non è necessario. Una severa ramanzina può bastare. Ma la ramanzina dovrà essere davvero molto severa.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.azita.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«È molto frustrante. Dovrò sbattere insieme qualche testa. E i Conteggiatori hanno la testa dura. Per una volta, dovrò occuparmene di persona.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.chaima.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Conteggiatori. Non sono stupidi. Ma quanti bastano – quanti bastano sono <i>molto</i> stupidi.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.chaima.mob.mystery.edge",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Ho quel che mi serve. (Solo che avrò bisogno anche di un bagno.) Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.chaima.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Uno dei signori Conteggiatori ora a Kaunas si crede un adepto. E così, naturalmente, ha pasticciato un’evocazione, e naturalmente ora l’evocazione si è annidata nelle fogne. Sempre, queste cose finiscono nelle fogne. Sempre.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.connie.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Il Bureau non ha motivo di occuparsene, così lontano da casa. Ma i Doveri locali hanno chiesto il nostro aiuto.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.connie.mob.mystery.moon",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Archivista... questo commercio di anni. È la Madrugad a tenere il conto, ed è la Madrugad a essere invocata quando i Conteggiatori fanno lo scambio. Penso, forse, che il Conteggiatore più stupido nella storia della stupidità abbia tratto profitto imbrogliando la Madrugad. Non so chi se ne pentirà di più. Farò meglio ad andare a Kaunas.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.connie.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Ho una teoria su come sia iniziato questo litigio… vorrei indagare, Archivista.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Non sarei qui se non avessi sentito parlare della guerra dei Conteggiatori… ma non è la guerra dei Conteggiatori a interessarmi. È il commercio di anni.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.mob.mystery.moon",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«I registri <i>tornano</i> se una certa residente di Brancrug ha partorito un figlio all’età cronologica di quarantanove anni. Il che potrebbe essere possibile, se avesse scambiato anni extra di vita con i Conteggiatori! Questo ha sollevato più domande di quante ne abbia risolte... ma penso di avere ora mezza risposta.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.mob",
+   "label": "Sul Debito Perdonabile",
+   "startdescription": "«Ho indagato di nuovo sulla storia della mia famiglia – e non riesco a far quadrare i documenti. Non so esattamente cosa sto cercando, ma spero di trovarlo qui.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.aladim.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Ho letto di oracoli come questo “Tempo dell’Ascesa”, Archivista. Lascia che ti dica questo: di solito non offrono i loro servigi in tempi di pace e calma.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.aladim.rising.mystery.scale",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Sai, Archivista, che l’Ora chiamata il Sette-Spire era un dio-dalla-pietra. Cadde sotto le lame del Colonnello… ma una tradizione narra che “annegò nel proprio sangue”. E un’altra tradizione narra che il suo sangue sia dorato… come è dorato il Sole. Riesco quasi a darne un senso, ma solo quasi... Non credo che visiterò quest’oracolo. Ho paura di ciò che potrei scoprire.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.aladim.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Ho intenzione di chiederle del mio “quasi adesso”. Ma prima voglio capire, per quanto possibile, perché ha scelto di manifestarsi nel Tempio delle Sette Spire.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arun.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«L’“Oracolo del Tempo dell’Ascesa”. Le ho posto un indovinello; ha avuto l’audacia di pormene uno a sua volta. Ed eccomi qui.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arun.rising.mystery.moon",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Non avevo del tutto ragione né del tutto torto. Conosciamo l’“adesso” soprattutto di giorno, meno di notte, ma <i>più di tutto</i> al tramonto… quando il Sole condivide con noi il suo sangue. Se potessimo condividere il nostro sangue col Sole all’alba, conosceremmo l’“adesso” più di ogni altra cosa. Buona giornata, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arun.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Come conosciamo l’“adesso”? Dall’angolo del sole. Conosciamo l’“adesso” di notte? Crediamo di sì; ma non possiamo. Ti stai chiedendo se sto dicendo sciocchezze. Scopriamolo.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.connie.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Sono qui nella massima riservatezza, Archivista. Spero di poter contare sulla tua discrezione.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.connie.rising.mystery.moon",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«D’accordo; ti dirò l’oracolo. “La Grande Svalutazione non è una Grande Contraffazione.” Quando l’ho sentito ho pensato che non fosse niente – uno scherzo, un trucco – ma più scavo, meno mi piace. Il Bureau ha sempre cercato di restare al di fuori degli affari di stato... ma non so per quanto ancora sarà possibile.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.connie.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Il mio superiore al Bureau si è procurato un oracolo dal Tempo dell’Ascesa. Non mi convince. E mi ha chiesto di indagare su cosa significhi. Anche questo non mi convince.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.fraser.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Ho un mio oracolo del Tempo dell’Ascesa. Credo di averne una comprensione perfetta. Sono qui per accertarmene.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.fraser.rising.mystery.scale",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«E ora ne sono certo. La stirpe più nobile della Croce del Carapace era la stirpe Scīmafectra… gli Alati della Gloria. È una stirpe con cui ho sempre sentito una particolare affinità. Un grande giorno, Archivista; un grande giorno sta arrivando.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.fraser.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«“Le ali che salgono alla Gloria ora ritornano; le visioni che riceviamo sono le visioni che abbiamo meritato.” Spero di averne compreso il significato correttamente. Ma devo averne conferma io stesso.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Sono qui per un sogno. Lo so; medico, interpreta te stesso, e tutto il resto. Concedimi questo capriccio.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.rising.mystery.moon",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Sai che un numero insolito di membri della mia famiglia è annegato. Mia madre scherzava sulla maledizione di famiglia; diceva che ci avrebbe cresciuti nel deserto. Anch’io ridevo, un tempo. Non più, ormai. Ma grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.rising",
+   "label": "Sul Tempo dell’Ascesa",
+   "startdescription": "«Sogno da tempo un tempio nel deserto al chiaro di luna… non credo di volerti raccontare il resto. Nemmeno di giorno. Mi dispiace. Posso vedere la collezione?» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.aladim.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Sì, sono annoverato tra i Lunghi. “Immortale” è una parola fin troppo ottimistica. Tutti noi abbiamo i nostri patroni. Se siamo fortunati, non attiriamo mai la loro attenzione diretta...» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.aladim.lost.find.mystery.rose",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Molto tempo fa, sai, non c’erano tanti colori nel mondo… suppongo che la vita fosse più semplice allora. Ma preferisco il lusso di sfumature che abbiamo ora. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.aladim.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Mi è stato affidato il compito di trovare questo giardino screziato fra le rovine di Miah, e di coglierne lì una rosa screziata… come ricordo, mi è stato detto. La mia patrona è stata generosa, ma non è misericordiosa. Eppure questa faccenda del “ricordo” mi preoccupa. Vorrei studiare la questione un po’ di più.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arun.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Mi chiedo quanti di noi ti dicano la verità. Mi chiedo se qualcuno lo faccia. Mi chiedo se ti venga mai la tentazione di riempire <i>i nostri</i> occhi di sciocchezze. Mi dispiace. Non è d’aiuto da parte mia. Parliamo di petali.» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arun.lost.find.mystery.moth",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Penso, Archivista, che ci stiamo avvicinando a una svolta della Storia in cui saranno i fiori a cercare le falene, e non tanto il contrario. Mi dispiace. Per me è molto difficile non parlare per enigmi. Lascia che provi così. Sii molto prudente quando verrà il momento di stare sotto l’albero. La scelta è sempre tua.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arun.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«I petali, diceva un amico, sono la pelle dei fiori; e i fiori sono i capelli di una pianta. Mi chiedo cosa significhi, questa rosa screziata? Mi piacerebbe dare un’occhiata alla tua collezione.» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.intro.chaima.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Miah, nel deserto. Vengono sempre da me per il lavoro nel deserto.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.chaima.lost.find.mystery.rose",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Penso che questo basterà. Parto ora per Miah. Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.chaima.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«I deserti… non sono tutti così simili come crede il Bureau. I deserti con infestazioni e con maledizioni, ancora meno simili.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.dagmar.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Sono stata a Miah, sai. Quel che ne resta. Non ci tornerei.» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.dagmar.lost.find.mystery.rose",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Rosa Screziata. Ancora non lo so. Ma alla Vagabonda piacevano i giardini, si sa. E la Falena. Forse tornerò a Miah dopo tutto. Chissà…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.dagmar.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Non tornerò a Miah. L’ho già detto. Ma quella rosa per cui quel poveretto è morto. Bianca e nera, capisci? Mi dice qualcosa, mi pizzica un nervo, bussa alla vecchia zucca…» [Prova un libro con tanto Mistero: <sprite name=rose> quanto il suo Interesse per <sprite name=rose>.]"
+  },
+  {
+   "id": "talk.visitor.intro.olympe.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Questa storia da Miah – mi interessa. Ho idea che la Casa possa aiutarmi ad approfondire.» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.olympe.lost.find.mystery.moth",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«Grazie. Ho abbastanza per iniziare. Non ho davvero voglia di fare tutta quella strada fino a Miah di persona – non è poi una storia così eccezionale! – ma credo di conoscere qualcuno che può aiutare. Ancora grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.olympe.lost.find",
+   "label": "Sulla Rosa Screziata",
+   "startdescription": "«C’è una storia secondo cui la Vagabonda piantò un giardino bianco e nero a Miah, prima della maledizione, dove la Falena veniva di notte. Ci sono sempre storie…» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.intro.agdistis.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Non conoscevo Zuthimalim Zidane. Ma conosco abbastanza persone che lo piangono.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.agdistis.project.ingenious.mystery.sky",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Penso che questo sarà sufficiente. Almeno, forse non farò una brutta figura!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.agdistis.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Mi è stato commissionato un pezzo, come commemorazione… i temi sono complessi.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.azita.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«C’è qualcosa di sconveniente all’opera qui, Archivista.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.azita.project.ingenious.mystery.sky",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Penso, Archivista, che Zidane origliasse ai buchi delle serrature del cielo. Almeno il movente è più nobile della gelosia artistica. Ma non credo che sarà fattibile vendicarlo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.azita.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Non ho alcun dubbio che Zidane sia stato assassinato. Ma il movente mi confonde. Aveva a che fare con il suo lavoro… o con la musica che cercava di insegnargli.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.connie.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Hai sentito della morte dello scultore? Non è di nostra competenza… ma sembra essere arrivata fino alla nostra porta.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.connie.project.ingenious.mystery.sky",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Tecnicamente parlando, sai, non è stato assassinato. Solo un essere umano può commettere un omicidio. La situazione legale è più o meno la stessa che se Zidane fosse stato colpito da un fulmine. In tutt’altro paese. Per fortuna il Bureau non si preoccupa dei tecnicismi, no?» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.connie.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Chi ha ucciso Zidane indossa una forma umana… ma è uno spirito rinnegato dei cieli inferiori. Ha trovato rifugio a Londra. Non sarà facile da trovare, ma queste cose hanno sempre i loro punti deboli.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.ehsan.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Avevo in programma di andarci il prossimo autunno, per rivedere Zuthi un’ultima volta… e ora non ne avrò mai più l’occasione. Per quanto a lungo si viva, non ci si abitua mai del tutto alla repentinità della morte.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.ehsan.project.ingenious.mystery.sky",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Oh, Zuthi. Era un artigiano molto più grande di quanto avessi capito… e penso che questo potrebbe essere stato la sua morte. Forse questa Allodola Incompiuta dovrebbe restare Incompiuta. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.ehsan.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Ho già perso il suo funerale, ma ho commissionato una composizione commemorativa per lui. Spero che possa essere suonata su questo suo dispositivo… ma ci sono ramificazioni nell’invocare i poteri dei cieli inferiori che devo prima capire.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.hokobald.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Allora, questa faccenda dell’Allodola. I doni di Zidane erano mediocri nella migliore delle ipotesi, ma credo di poter salvare qualcosa dal suo lavoro.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.hokobald.project.ingenious.mystery.forge",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Sì; sì, sarà sufficiente. Non preoccuparti, Archivista, ecco la tua piccola mancia.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.hokobald.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Zidane ha fatto uso di alcuni materiali insoliti. Se devo salvare l’opera, devo capire meglio le loro proprietà.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.morgen.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Salve, mio Archivista. Sono diventata mecenate di un progetto così delizioso…» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.morgen.project.ingenious.mystery.sky",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Questo è ciò che mi serve. È sempre un tale peccato, la fine di un artista. Speriamo che non sia morto invano.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.morgen.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Hai saputo la notizia su Zidane, no? Che tristezza. Ma per fortuna, la sua opera resta intatta. Vorrei vederla completata. Ed è per questo che vengo a imparare…» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.olympe.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Hai saputo della morte del povero Zuthi? Lo conoscevo ad Algeri tanto tempo fa. Era così dolce. E già allora sapevo che sarebbe stato un grandissimo talento...» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.olympe.project.ingenious.mystery.forge",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Questo potrebbe bastare. Spero che basterà. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.olympe.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Il governo venderà quella meravigliosa opera di Zuthi come rottame. Lo so. Ma ho in mente una collezionista – una donna molto ricca. Spero di convincerla a investirci. Ma devo capire meglio le proprietà dell’opera…» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.serena.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Zidane è morto. È un peccato: l’uomo era un artista. Ed è preoccupante: mi chiedo se la morte non abbia qualcosa a che fare con la sua ultima opera.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.serena.project.ingenious.mystery.forge",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Penso – penso – che Zidane potesse usare metallo di Ys nel suo lavoro. Ciò turberebbe non poche persone, dal Bureau in giù…. grazie, Archivista. Spero di poter sempre contare sulla tua discrezione riguardo alle nostre conversazioni.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.serena.project.ingenious",
+   "label": "Sull’Allodola Incompiuta",
+   "startdescription": "«Faceva già uso di leghe molto insolite – tecniche molto insolite. Vorrei usare la collezione per sviluppare ulteriormente alcune teorie…» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arthur.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Ho abbandonato il servizio dell’Impero molto tempo fa. Non fu una scelta facile. Ma certi legami trovo ancora più difficili da sciogliere.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arthur.project.solar.mystery.lantern",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Quel che accade qui – credo non sia più pericoloso di qualunque riga nel Piano del Sole. Ed è molto più grandioso. Tutti facciamo le nostre scelte – la mia scelta, ora, è essere orgoglioso del mio congiunto e della sua parte nell’opera. Grazie, Archivista. Spero che vorrai tenere la questione soltanto fra noi.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arthur.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Il mio sangue – il figlio di mio nipote – è legato in qualche modo all’Impresa del Nuovo Re. La mia famiglia e io abbiamo preso strade diverse, e non ricorderò loro la vergogna della mia diserzione. Ma non posso avere pace finché non comprendo meglio questa faccenda.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.corso.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Il Nuovo Re ha messo in agitazione parecchie potenze continentali, Archivista. Così un amico di un amico mi ha chiesto di passare a fare qualche ricerca rassicurante.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.corso.project.solar.mystery.lantern",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Sarò onesto, Archivista, non credo che nulla di ciò che ho trovato rassicurerà i nostri amici stranieri. Be’, se loro non cominciano una guerra, non la comincerò nemmeno io. Buona fortuna col vostro Nuovo Re.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.corso.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Non sono una <i>spia</i>. Le spie non vanno nelle biblioteche. Solo un ricercatore pagato. Faccio la mia parte per la pace nel mondo. Ti spiace se do un’occhiata in giro?» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.douglas.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Detective-Illuminato Douglas Moore, in missione speciale per l’Alto Esecutivo dell’Impresa Reale. Guardami. Spero che tu sia colpito.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.douglas.project.solar.mystery.lantern",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Grazie per questo. Mi sono fatto un’idea molto più chiara di chi potrebbe aver bisogno di essere arrestato. Alla sig.ra M piacerà. Non la sopporta, la Chiesa, la sig.ra M. Una vera libera pensatrice. “Lasciate perdere tutti quei poveri medium,” dice lei, “rinchiudete un vescovo o due, risparmiate tutti quei soldi sui cappellini stupidi.” Le dissi una volta che se rinchiudessimo la gente per aver speso troppo in cappelleria, dovrebbe stare attenta anche lei. Ho dovuto mangiare la cena nel capanno degli attrezzi quella sera. Comunque, ta ta.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.douglas.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Chiunque costruisca qualcosa di importante, c’è sempre qualcuno che cerca di entrarci con la forza o di farlo saltare in aria. È il mestiere. Buffo vedere un branco di <i>curati</i> immischiarsi in una faccenda del genere, però. Suppongo sia quel che chiamano “divergenze dottrinali”. Sono qui per indagare su questo.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.fraser.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«L’Alto Esecutivo dell’Impresa Reale si è rivolto a me per assistenza su alcune delle loro esigenze più esoteriche…» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.fraser.project.solar.mystery.lantern",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Corazzate; aerostati; locomotive. Cos’hanno in comune tutte queste cose, Archivista? Te lo dico io: i nomi. Grazie. Buona giornata.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.fraser.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Posso fornire ciò di cui hanno bisogno. Ma alcune delle loro richieste hanno stuzzicato la mia curiosità. Vorrei rinfrescarmi la memoria sul, ehm, “contesto solare”.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.hokobald.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Sei al corrente di cosa trami il Re? Suppongo che basterà.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.hokobald.project.solar.mystery.forge",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Sì, questo è stato assai soddisfacente, specialmente considerando il triste stato delle cose che persiste in questa Casa. Non ho lamentele; buona giornata.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.hokobald.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Ho un’idea generale di cosa comporti l’Impresa Reale, naturalmente, ma vorrei rinfrescare la mia comprensione di alcuni dettagli minori.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.olympe.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Questa Impresa Reale. Mi chiedo cosa ne pensi tu. No, non dirmelo! Non voglio metterci nei guai – né l’uno né l’altro.» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.olympe.project.solar.mystery.forge",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Potrebbe davvero significare una Seconda Alba. O una guerra. Preferirei l’Alba. Ma potrebbe anche essere entrambe… grazie, Archivista. Tieni la mia visita solo fra noi due, per ora, se non ti dispiace.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.olympe.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«No, io non sono credente. Ma mia madre, lei ci credeva; e parlava spesso della Seconda Alba. Naturalmente non l’ho mai presa sul serio. Ma ora questo progetto del Re. Così strano. Vorrei vedere cosa riesco a trovare nella tua collezione...» [Prova un libro con tanto Mistero: <sprite name=forge> quanto il suo Interesse per <sprite name=forge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.serena.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Il Nuovo Re… ho qualche preoccupazione. Sono certa che sia una coincidenza che sia salito al trono così poco dopo l’incendio qui alla Casa. Un momento sfortunato. Ma è una coincidenza che non mi è mai piaciuta.» [Prova un libro con tanto Mistero: <sprite name=forge> o Mistero: <sprite name=lantern> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.serena.project.solar.mystery.forge",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Le mie preoccupazioni restano. Hai sentito parlare della Strada del Tramonto? Delle alchimie della Casa di Lancaster? Trovo somiglianze in questa Impresa del Re. Non vogliamo altri Sovrani della Fiamma Incatenata, vero? Lasciamo tutte quelle sciocchezze medievali nel Medioevo. Grazie del tuo aiuto.» "
+  },
+  {
+   "id": "talk.visitor.incident.success.serena.project.solar.mystery.lantern",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Le mie preoccupazioni restano. Questo è un progetto Solare, non c’è dubbio. Tutto è dottrinalmente accettabile… tutto riconduce alla Luce… ma questa faccenda del tramonto. Sai, ho sempre creduto che il Chandler appartenesse a Celia del Tramonto. No, non dovrebbe essere possibile, ma nemmeno il Chandler dovrebbe esserlo. Tienilo per te. Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.serena.project.solar",
+   "label": "Sull’Impresa Reale",
+   "startdescription": "«Spero di trovare qualcosa nella collezione qui che plachi le mie preoccupazioni. O che le cristallizzi.» [Prova un libro con tanto Mistero: <sprite name=forge> o Mistero: <sprite name=lantern> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.intro.arthur.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Profezia, Archivista; questo è un tempo di profezie.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arthur.mystical.mystery.lantern",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Il Piano del Sole… è un labirinto, proprio come lo è il Labirinto dei Leoni stesso. Per quasi ottant’anni ho tentato di indovinarne gli incroci e le svolte. Molto tempo, anche con le misure che ho preso per tenere a bada quegli anni. Comincio ora a sperare di vederne il cuore prima di morire.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arthur.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«L’Inghilterra quest’anno è tutta siepi e spine di profezie. Alcune mi fanno paura. Di altre dubito. Spero di trovare una guida qui alla Hush House.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.corso.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«“Un’ombra proiettata da due candele, che trapassa con l’Alba.” La conosce, Archivista? Proviene da una versione non autorizzata della Preghiera Celiana. Molto non autorizzata.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.corso.mystical.mystery.lantern",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Ho trovato qualcosa, Archivista. Hai sentito parlare del Chandler? Potrebbe essere un’Ora, potrebbe essere un mito. La Chiesa non lo riconosce, in ogni caso. Non avevo mai fatto il collegamento con Celia del Tramonto. Mi chiedo se l’Arcivescovo mi pagherà per spiegarglielo… o se mi pagherà per non farlo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.corso.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Un bel po’ di iconografia dell’Alba in giro per questi nuovi culti. Alcuni hanno una piccola cotta per figure come Celia del Tramonto, che come forse sai è, ehm, teologicamente interessante. L’Arcivescovo mi ha pagato per indagare sulle origini della Preghiera Celiana, per vedere se salta fuori qualcosa di imbarazzante.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.douglas.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Un bel po’ di nuove chiese e strane sette in giro in questo periodo, Archivista. Non ci dispiace quando predicano la virtù. Prestiamo particolare attenzione quando promettono verità nascoste. E se qualcuno comincia a parlare di immortalità, be’, quello non possiamo permetterlo, no?» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.douglas.mystical.mystery.lantern",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Già, tutto questo sa un po’ troppo di Lunghi. Più Lunghi significa più pericolo onirico, più spiriti divoratori in giro, e prima o poi più Crimine del Cielo. Non so se sai cosa sia. Vorrei non saperlo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.douglas.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Ci sono leggi e leggi e Leggi. Una delle Leggi è che nel mondo può esserci solo un certo numero di Lunghi. A far rispettare quella sono per lo più ranghi molto più alti del mio. <i>Molto</i> più alti. Ma mi è stato chiesto di dare un’occhiata.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.fraser.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Forse sai qualcosa degli Obliviat, Archivista – un ordine di Lunghi che hanno rinunciato ai rapporti con le Ore…» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.fraser.mystical.mystery.lantern",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Non riesco a credere che sia una coincidenza. Gli Obliviat sono tornati nel mondo… e gli Obliviat non tornano mai nel mondo. Qualcosa si sta muovendo a Port Noon.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.fraser.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Gli Obliviat si ritirarono molto tempo fa a Port Noon, oltre il Mare Occidentale. Ma sento dire che alcuni di questi nuovi culti giurano un “Giuramento d’Avorio” – molto simile alla “Catena d’Avorio” degli Obliviat. Vorrei indagare su altre somiglianze. Illuminazione, riferimenti al Mansus, dottrine solari.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.serena.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Mi è stato chiesto di indagare su questi movimenti solari. Non immagino ci sia nulla sotto. Ma non guasterebbe accertarsene.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.serena.mystical.mystery.lantern",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Non credo ci sia niente qui. Quando i tempi si fanno strani, la gente si rivolge alla religione. Penso che sia proprio tutto qui. Grazie per avermi tranquillizzata.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.serena.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Queste manie sono già successe in passato, sai – questi entusiasmi. Nelle Guerre delle Strade, nelle Guerre dei Vermi, nell’Intercalato… mi chiedo quanti tratti condividano con i culti di altri tempi.» [Prova un libro con tanto Mistero: <sprite name=lantern> quanto il suo Interesse per <sprite name=lantern>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Cosa buffissima. Continuo a ricevere inviti a parlare da questo strano gruppetto: la “Chiesa dell’Alba d’Avorio”. E, be’, riderai, Archivista…» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.mystical.mystery.winter",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Sai che gli immortali – i Lunghi – non possono avere figli. Succedono cose brutte se ci provano. E se un, ehm, pre-immortale avesse dei figli? Ci sarebbe qualcosa di speciale in loro? L’Alba d’Avorio ama pensare di sì. Io preferisco pensare di no. E se dico altro in proposito, comincerò a sentirmi una sciocca. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Si sono messi in testa che io sia la loro guida designata. Io mi sono messa in testa di non esserlo, ma insistono parecchio. Si sono fissati sul folclore della mia famiglia...» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.intro.zachary.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Tutti guardano, sempre.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.zachary.mystical.mystery.winter",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Così sarà. Così, in parte, dev’essere.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.zachary.mystical",
+   "label": "Sulla Mistica Particolare",
+   "startdescription": "«Se scopro come finiranno… posso offrirgli questo.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.intro.agdistis.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«“Apollo e Marsia”. Si credeva perduta la partitura… e sono lieto di dire che ho avuto una piccola parte nel suo ritrovamento. È piuttosto antica. Mi è stato chiesto di aiutare ad arrangiarla per adattarla, ehm, alle aspettative contemporanee.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.agdistis.opera.apollo.mystery.sky",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Sapevo che non mi sarei pentito di essere venuto qui. E non solo per la conoscenza che hai condiviso… potrei arrivare ad amare questo posto, Archivista, persino nei suoi momenti più grigi. Forse comincio a capire perché tu abbia messo da parte il mondo, e fatto di Brancrug la tua casa.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.agdistis.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Quest’opera è molto speciale per me, Archivista – molto speciale anche per l’Ora che servo. Voglio essere certo che l’opera sia degna di lui. E che io non disonori l’orchestra né deluda il pubblico! Quello sempre.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.azita.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Stanno mettendo in scena una certa opera a Parigi. Un mio caro vecchio nemico ama molto l’opera, e spero che possa assistervi.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.azita.opera.apollo.mystery.sky",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Proprio così. A Mehrad piacerà moltissimo! Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.azita.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Devo assicurarmi che la produzione abbia tutti i dettagli esatti al millimetro – che sia l’esca più allettante per il mio avversario…» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.coquille.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Apollo e Marsia. Storia orribile. Mi ricorda sempre lo zio più <i>irritante</i> che si possa immaginare…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.coquille.opera.apollo.mystery.grail",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«C’è una linea sottile e sfumata tra l’orrendo e l’elettrizzante, tesoro, non trovi? Ma credo proprio che questo sia dalla parte giusta della linea.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.coquille.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«È <i>certo</i> che sarà la cosa più <i>mortalmente</i> noiosa che ci sia, ma se <i>dovessi</i> andarci, ho già qualche idea piuttosto <i>vivida</i> per la mia mise. Devo solo, sai, svilupparle un po’.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.connie.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Quest’opera a Parigi. Fiuto guai.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.connie.opera.apollo.mystery.sky",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Parlerò con i nostri cugini dei Doveri a Parigi. Forse non è così brutto come pensavo…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.connie.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Sono preoccupata per il pubblico, sono preoccupata per i finanziatori, sono molto preoccupata per il tenore, e sono molto molto preoccupata per quelli del rinfresco. Lo so, sono un’ansiosa. Ma non capisco abbastanza dell’opera e delle sue conseguenze. Mi dai una mano?» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.corso.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«No, non vado alla rappresentazione. Non è male, suppongo, insomma puoi canticchiare l’ouverture, ma non è esattamente Mozart, capisci cosa intendo? No, sono in missione.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.corso.opera.apollo.mystery.grail",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Grazie, Archivista. Ora saprò cosa cercare. Resti tra noi, va bene? Spero di poter semplicemente comprare il libro, ma la reputazione del suo proprietario è, ehm, non è sempre disposto a collaborare, capisci?» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.corso.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Qualcuno <i>ci va</i> davvero, ma nemmeno lui è un vero appassionato d’opera, più interessato, ehm, alla ristorazione. Porta con sé un libro di ricette. Una specie di libro di ricette. Arti del sapore Carapace. Mi hanno chiesto di procurarmelo, ma non me la cavo con le lingue Carapace. Perciò eccomi qui, pronto a studiarmi... le macchie.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.ehsan.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«“Apollo e Marsia” sarà rappresentata di nuovo a Parigi. È una grande opera, Archivista… in più di un senso.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.ehsan.opera.apollo.mystery.sky",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Sono rassicurato. Forse, dopotutto, nessuna tempesta si scatenerà; forse tutti trascorreranno solo una bella serata fuori. Prima o poi deve pur succedere.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.ehsan.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«“Il tocco della Legge è più lieve di quanto crediamo.” Quando invochiamo il Pelledituono, possono esserci conseguenze inattese nei regni dei cieli inferiori…» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.hokobald.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Ci sarà una rappresentazione a Parigi di un’opera che celebra il Graal. Ho deciso di offrire doni adeguati agli interpreti.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.hokobald.opera.apollo.mystery.grail",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Delizioso. Posso ora essere certo di un banchetto generoso e memorabile. Potresti ancora rivelarti più utile dei tuoi predecessori.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.hokobald.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Vorrei stabilire quali doni saranno più <i>in linea</i> con il tema dell’opera…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.morgen.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Desidero assistere alla prima di un’opera – una che mi è sempre piaciuta moltissimo…» [Prova un libro con tanto Mistero: <sprite name=grail> o Mistero: <sprite name=sky> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.morgen.opera.apollo.mystery.sky",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Non è quello che mi aspettavo, ma se lo fosse stato, non sarebbe ispirazione, no? Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.success.morgen.opera.apollo.mystery.grail",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Pregiato, e raro! Oh ho ho, speravo esattamente in questo. Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.morgen.opera.apollo",
+   "label": "Su «Apollo e Marsia»",
+   "startdescription": "«Ci saranno anche persone di un certo interesse per me. È importante che io sia vista al mio meglio. Sto cercando un’ispirazione molto particolare…» [Prova un libro con tanto Mistero: <sprite name=grail> o Mistero: <sprite name=sky> quanto il suo Interesse corrispondente.]"
+  },
+  {
+   "id": "talk.visitor.intro.arun.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«“L’Opera Invisibile”. Ho suggerito di rappresentarla al buio. Troppo raramente qualcuno ascolta quello che dico. Troppo spesso pensano che stia scherzando.» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arun.opera.wings.mystery.moth",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Di solito la Gazza incarica un potere minore di organizzare un disastro adatto all’Opera. Ma si sa che talvolta assiste di persona alle rappresentazioni… e ora ho un’idea di come potrei incoraggiarlo a farlo. Grazie, Archivista. Avevo bisogno di una chiacchierata con Ferezeref da davvero molto tempo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arun.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«L’Opera è dedicata a Ferezeref la Gazza, Nome della Falena. Ferezeref è un attaccabrighe – forse il più grande di tutti. (Suppongo di avere anch’io un certo talento per i guai, ma riconosco il maestro.) Quindi ci saranno allarmi, scorribande, forse pure dissanguamenti. Ma anche dalla fenice più irresponsabile, possiamo sperare di salvare un uovo...» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.intro.coquille.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Sai che stanno facendo un altro tentativo con l’Opera Invisibile? E sai cosa significa sempre? Lutti.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.coquille.opera.wings.mystery.grail",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Si seguono certi sentierini bizzarri, no? Forse c’è qualcosa sotto. Vedremo. Si va a Venezia!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.coquille.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Quelli della mia famiglia-del-momento sono tutti tesori, <i>certo</i> che lo sono, ma sono solo un pochino irrequieta… e, be’, se qualcuno a Venezia si ritrovasse all’improvviso senza una figlia, mi piacerebbe aver già fatto le mie ricerche.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.corso.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Un mio cliente ha qualcosa che potrebbe essere una versione del libretto dell’Opera Invisibile. Mi paga per assistere alla rappresentazione, per cogliere le differenze…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.corso.opera.wings.mystery.grail",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Ho quel che mi serve. Esco da solo. Ciao, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.corso.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Probabilmente sarei al sicuro se mi sedessi in fondo. Solo probabilmente. Quindi darò l’incarico in subappalto a qualcuno più coraggioso. Ho qualcuno in mente: qualcuno coraggioso, perspicace, ma purtroppo, non stupido. Si aspetta una bustarella molto speciale. Perciò eccomi qui in cerca d’ispirazione.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.hokobald.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Qualche cretino sta tentando di mettere in scena l’Opera Invisibile a Venezia. Be’, suppongo che se qualcosa prende fuoco, Venezia sia meno incline della maggior parte delle città a bruciare.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.hokobald.opera.wings.mystery.grail",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Adeguato. Spero che questa non sia la tua ultima adeguatezza. Non vorremmo mica che un Archivista restasse senza compenso, non è vero?» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.hokobald.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Quando la produzione fallirà – e fallirà – intendo trarne il massimo vantaggio. Non preoccuparti dei dettagli. Ho tutti i dettagli a mia disposizione.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.morgen.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Ancora qualche imbecille tenta di far rivivere <i>l’opéra invisible</i>. Tanto peggio per lui.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.morgen.opera.wings.mystery.grail",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«La terra è più densa del sangue – non è forse quel che dice la nostra piccola Thérèse? Bene, mio Archivista, vedremo. <i>À bientôt.</i>» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.morgen.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«La prima sera, ci sarà una qualche catastrofe. Voglio prepararmi in modo perfetto per quella catastrofe. E, nel caso non dovesse accadere, be’, desidero essere preparata alla perfezione anche per quella possibilità.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.intro.olympe.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Hai sentito che stanno tentando l’Opera Invisibile? A Venezia? L’impresario – è un mio amico. Vorrei che mi avesse ascoltato.» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.olympe.opera.wings.mystery.moth",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Ho trovato alcune cose. Forse basteranno. Tutto fallisce finché non riesce, non è vero, Archivista? Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.olympe.opera.wings",
+   "label": "Sull’«Opera Invisibile»",
+   "startdescription": "«Il mio amico conosce le storie sulla rovina che l’Opera porta con sé, eppure è determinato. Be’, se non posso dissuaderlo, forse posso aiutarlo. Spero che qualcosa nella tua collezione possa aiutarlo a trovare una via…» [Prova un libro con tanto Mistero: <sprite name=moth> quanto il suo Interesse per <sprite name=moth>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arun.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«“Chi era il Guardiano quando si spense la luce?” “Al buio.” No; funziona solo in Vak.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arun.box.mystery.moon",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«“Inevitabile come la colazione”… mi attengo alla massima. Dopo aver dormito, si mangia, oppure si viene mangiati. E naturalmente è piacevole dormire dopo aver mangiato, ed è molto piacevole dormire dopo essere stati mangiati. Non si sa mai esattamente come andrà a finire, eh, Archivista? Solo cosa è già accaduto prima.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arun.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Questa cosa nella Bara di St Mihail. Uscirà; non c’è dubbio; è nella sua natura. Inevitabile come la colazione. Ma quello che mi interessa è dove potrebbe scegliere di nascondersi, una volta fuori.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.connie.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«<i>Perché</i> <i>tutti</i> vogliono sempre aprire <i>tutto</i>?» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.connie.box.mystery.moon",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Qualcosa che porta il fuoco nel buio; qualcosa che può lasciare un luogo in cui non è mai entrato; qualcosa che nessuno lascia in pace. Sembra un Nome del Chandler. Queste cose non dovrebbero nemmeno esistere – e ora, quest’anno, ne ho sentite almeno due… tienilo tra noi, Archivista. Grazie.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.connie.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Il Bureau non può intervenire così a Est, e la gente del posto non ha richiesto il nostro aiuto. Ma qualcosa in questa faccenda mi sa di familiare. Voglio essere pronta se arriva a Ovest.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.coquille.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«La Bara di St Mihail. Spero che non sia <i>davvero</i> una bara. Sarebbe un vero peccato entrarci e trovarla piena di santo scaduto.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.coquille.box.mystery.knock",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Idea meravigliosa. Puoi dirmi quanto sono brillante, se ti va. La gente lo fa. Grazie, tesoro!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.coquille.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Ho un discreto talento per intrufolarmi nelle cose – devo solo vedere se qualcosa del genere è già stato tentato prima –» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.dagmar.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Conoscevo una ragazza a Cluj-Napoca, ai vecchi tempi. Giardini stupendi.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.dagmar.box.mystery.knock",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Ottimo, ottimo. Abbastanza Nomi a bruciacchiare in giro, eh? Anche più che abbastanza. Pip pip.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.dagmar.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«La Bara di St Mihail. Ho un’idea di cosa possa essere “St Mihail”. Non credo che vogliamo farlo uscire. Non lo credo affatto. Devo consultare qualcosa su sigilli e simili.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«La Bara di St Mihail è sulla bocca di tutti… ma io sono qui per un altro santo.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.box.mystery.moon",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Sempre la marea. Lo sentivo spesso, da piccola, quando mia madre pensava che non stessi ascoltando. “Sempre la marea…” Grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«St Columba della Colomba. C’è una storia secondo cui la sua bara si trova qui a Brancrug – uno dei tesori della Casa. Non preoccuparti, non te lo chiederò. Rispetto i segreti della Casa. Ma mi piacerebbe saperne di più su <I>perché</i> potrebbe essere stato portato qui…» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.zachary.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Era già stato aperto, una volta. Quando lo rinchiusero…» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.zachary.box.mystery.knock",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Questa è un’altra volta. Quella era la prima volta…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.zachary.box",
+   "label": "Sullo Scrigno del Messaggero",
+   "startdescription": "«Conosco la chiave. Mi serve solo il suo nome.» [Prova un libro con tanto Mistero: <sprite name=knock> quanto il suo Interesse per <sprite name=knock>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arun.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Qualcosa di spiacevole sta per accadere al Lago Gladwyn, spiacevolmente presto.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arun.rite.renewal.mystery.moon",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Robigo, il Generoso con gli Ospiti, il Piccolo Viandante. È un Nome del Germoglio Incoronato; è un amico particolare dell’Haustorium; e se qualcuno porta la colpa dell’Incidente di Ortucchio, è lui. Nessuna di queste frasi mi fa particolare piacere pronunciare. Fatti coraggio, Archivista! Una volta che avrò lasciato questo luogo per il mondo, potresti non doverle sentire mai più.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arun.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Se non posso impedire ciò che sta arrivando, dovrò guardare. Potrei persino imparare qualcosa. Ma prima di tutto sono venuto qui per imparare. Se imparo abbastanza, non avrò bisogno di guardare; se non guardo, forse non mi preoccuperò.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.connie.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Hai sentito di questa storia di Gladwyn? Non mentre sono di turno io.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.connie.rite.renewal.mystery.moon",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«“Dall’oscurità, oscurità.” Augurami buona fortuna.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.connie.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Adepti idioti che corrono a nord per provare un rito Killasimi digerito a metà, tirato fuori da un branco di maghi-fungo. Qualunque cosa succeda, non mi piacerà. Quindi sono qui per studiare le contromisure.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.stanislav.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Il Frutteto degli Immortali Verdi mi ha chiesto di indagare su questo…» [Prova un libro con tanto Mistero: <sprite name=nectar> quanto il suo Interesse per <sprite name=nectar>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.stanislav.rite.renewal.mystery.nectar",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Sai che ho dovuto occuparmi della reincorporazione di Galmier, lassù tra le montagne vicino al Frutteto? Vorrei aver conosciuto queste tecniche già allora. È stata la cosa più difficile che abbia mai fatto. E credo che comunque lei tornerà quasi certamente al Mansus. (Anche se, almeno, posso prenderla in giro perché ha odore di humus.)» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.stanislav.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«I Savi Verdi si interessano da tempo a queste dottrine, e l’Haustorium è da tempo restio a condividerle. I Savi temono che possa trattarsi di una trappola dell’Haustorium. Sospetto che siano eccessivamente cauti; ma negli anni ho imparato a prendere sul serio il loro istinto.» [Prova un libro con tanto Mistero: <sprite name=nectar> quanto il suo Interesse per <sprite name=nectar>.]"
+  },
+  {
+   "id": "talk.visitor.intro.yvette.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Un mio paziente è turbato da un sogno su un lago. Nuota al largo, si immerge, rinasce sotto la luna… lo abbiamo identificato solo il mese scorso come il Lago Gladwyn. Non ci è mai stato. Vuole andarci. E ora, proprio ora, sento parlare di questa faccenda dell’Arazzo, e del rito.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.yvette.rite.renewal.mystery.moon",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Questo mi ha aiutata un po’. Non ho ancora idea di cosa dire al mio paziente… ma penso ora che andrà, qualunque cosa accada. Sembra essere questa la forma di queste cose. “Sempre la marea.”» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.yvette.rite.renewal",
+   "label": "Sull’Arazzo del Frate",
+   "startdescription": "«Il miglior esito, Archivista, sembra essere che il rito coinvolga l’Ora chiamata Applebright. Il peggiore, che coinvolga il Germoglio Incoronato. Ed entrambe sono Ore del Nessun Luogo. Nessuno è mai stato disposto a dirmi cosa significhi davvero, ma ne so abbastanza da non volerci rotolare dentro.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.aladim.rite.awakening",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«Questa statuetta a Strasburgo. Ho miei contatti nella gerarchia della Chiesa, e non mi piace quello che mi stanno dicendo…» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.aladim.rite.awakening.mystery.scale",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«La cosa più saggia, credo, è bruciarlo. I giorni della Croce sono ormai lontani. Va benissimo essere sentimentali. Ma non credo che saremo mai amici di coloro che vennero prima. E, naturalmente, possiamo essere certi di un profumo gradevole!» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.aladim.rite.awakening",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«Gli scarabei, si dice, hanno fatto la loro casa fra le volte del soffitto, in gran numero. Prestano il loro ronzio agli inni. Il diacono ha lodato il loro entusiasmo, ma la sua non è un’opinione condivisa dalla maggioranza. C’è qualche timore, credo, che possa lui stesso cominciare a ronzare. Mi chiedo se non dovrei intervenire.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.fraser.rite.awakening",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«C’è un’immagine in una chiesa di Strasburgo che ispira sogni di volo – sogni di benedetta alterazione. Questo, lo chiamerei progresso spirituale. Temo che la Chiesa possa non essere d’accordo.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.fraser.rite.awakening.mystery.scale",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«Esorterò la Chiesa ad affogarlo. I chierici conservatori saranno soddisfatti di questo esito. E quei chierici che condividono le mie simpatie segrete… spereranno, come me, che nell’oscurità e nel silenzio possa svilupparsi ulteriormente.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.fraser.rite.awakening",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«Ho una certa influenza a Strasburgo – grazie ai miei interessi commerciali, sai. Posso far valere quell’influenza qui – ma a quale scopo, non ne sono sicuro.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.stanislav.rite.awakening",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«Questa icona di santo a Strasburgo. A quanto pare le candele mettono gemme, e la sagrestia è infestata dai pini. Mi hanno chiesto un parere.» [Prova un libro con tanto Mistero: <sprite name=nectar> quanto il suo Interesse per <sprite name=nectar>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.stanislav.rite.awakening.mystery.nectar",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«Meglio seppellirlo. Sospetto possa essere una sorta di seme. Se è così, lascialo crescere. Ci vorrà il suo tempo. “C’è un tempo per ogni cosa, un tempo per ogni proposito sotto la terra.” Farò avere le mie raccomandazioni.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.stanislav.rite.awakening",
+   "label": "Sul Santo di Sandalo",
+   "startdescription": "«No, Archivista, il mio ordine – quel che ne resta! – non è riconosciuto dalla Chiesa. Ma le persone di buon senso, su entrambi i lati della frattura dottrinale, sanno come tenere aperte le comunicazioni… scusa, ogni volta che si fa ecumenico mi ritrovo a parlare così. Conosco qualcuno che conosce qualcun altro più importante.» [Prova un libro con tanto Mistero: <sprite name=nectar> quanto il suo Interesse per <sprite name=nectar>.]"
+  },
+  {
+   "id": "talk.visitor.intro.aladim.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Il labhite Abecassis di Marrakech ha cominciato a – diciamo con tatto – comportarsi senza decoro. Desidero capire perché.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.aladim.hunt.changing.mystery.scale",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Echidna, la Ligeiana, colei che allatta i serpenti… sì, sono consapevole che i serpenti di norma non si allattano. Credo ormai che Abecassis abbia scelto di bere ciò che lei offre. Non so se ci sia qualcosa da fare al riguardo. Ma grazie, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.aladim.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«I labhite possono nutrirsi solo di ciò che si trova nel cielo. Abecassis sembra aver alterato la propria dieta. È importante che io capisca come…» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.arthur.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«I labhite sono molto ben visti al Labirinto dei Leoni. Lo stesso Abecassis vi fece un pellegrinaggio non molto tempo fa. Quando vengono meno alla fede nel Leonfabbro, il compito ricade spesso su di me e i miei compagni – il compito di condurli al Labirinto per la punizione.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.arthur.hunt.changing.mystery.edge",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Sono risoluto a non fallire in questa faccenda. Ma cosa sarà di Abecassis fra le spire del Labirinto – questo non posso dirlo.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.arthur.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Uccidere un labhite – è difficile. Catturare un labhite vivo – è abbastanza difficile da portarmi qui, da te, in cerca di aiuto.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.azita.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Il Leonfabbro è il patrono dei labhite; e di Mehrad, che è il mio nemico più caro. Il Colonnello è il mio patrono, e il Leonfabbro sta al Colonnello come Mehrad sta a me. Farà piacere al Colonnello vedere questo labhite morire senza onore. E ora conosci i pezzi, e il gioco.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.azita.hunt.changing.mystery.edge",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Sono armata, sono pronta, sono risoluta. Questa parte del gioco non mi dà alcun piacere. Ma non mi aspettavo che l’Eternità fosse mai gentile. Ho fatto la mia scelta, e così ha fatto Abecassis. Addio, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.azita.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Mehrad cercherà di dare ad Abecassis l’opportunità di morire con onore. Io cercherò di impedirlo. Ci saranno senza dubbio altri pezzi sulla scacchiera, che cercheranno di salvare Abecassis, o di prenderlo come un altro tipo di trofeo. E dunque devo essere pronta.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.chaima.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Sì, sono qui per questo guaio a Marrakech. Nessuno mi sta pagando, non questa volta. Ho conosciuto Abecassis un tempo. Lo aiuterò se potrò. Porrò fine alle sue sofferenze se dovrò farlo.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.chaima.hunt.changing.mystery.edge",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Augurami buona fortuna, Archivista. Ma non troppa. Questa caccia, questa volta – forse preferirei che fallisse.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.chaima.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Spero che con Abecassis si possa ancora ragionare. In caso contrario, devo essere pronta.» [Prova un libro con tanto Mistero: <sprite name=edge> quanto il suo Interesse per <sprite name=edge>.]"
+  },
+  {
+   "id": "talk.visitor.intro.fraser.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«Avrai senza dubbio sentito le voci su di me. Capirai che sono solidale con chiunque intraprenda un pellegrinaggio di carne.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.fraser.hunt.changing.mystery.scale",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«“La Storia è ibrida; l’Eternità pura.” Vorrei poter proteggere Abecassis. Mi sarebbe piaciuto parlare con lui…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.fraser.hunt.changing",
+   "label": "Sulla Seconda Pelle",
+   "startdescription": "«I labhite sono rari. I labhite caduti, ancora più rari. Se Abecassis continua a cambiare – cosa diventerà?» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.aladim.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Cosa sta accadendo a Ovest, mi chiedo? Se è qualcosa di antico, potrei desiderare di assistervi. Se è qualcosa di nuovo, potrei desiderare di narrarlo. Se è entrambe le cose... allora dovrei fare progetti per recarmi laggiù immediatamente.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.aladim.observe.scaly.mystery.scale",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Ogni volta che i cieli si allineano, le stirpi erranti della Croce del Carapace visitano la loro vecchia dimora. Sono caute – non restano mai a lungo. Accade di rado, ma è già successo in passato. Ogni volta, i nostri pari più facili all’entusiasmo si convincono che siano tornate per restare, che tutto cambierà, che la Croce interiore si manifesterà. Non accade mai. Ma non do per scontato che non accada mai. Credo che sarà necessario per me attraversare l’oceano...» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.aladim.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Ci avviciniamo alla stagione dei cambiamenti. Mi sono allungato nella storia, ma resto stretto, dal punto di vista cartografico. Attraversare l’oceano mi porterebbe lontano da altre questioni di interesse. Non andrò a Ovest per assistere a questa cosa, a meno che non sia certo che sia degna della mia attenzione...» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.azita.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Il mio nemico più caro – Mehrad – è andato a Ovest, verso le Isole della Sera. Prima di seguirlo, devo sapere perché.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.azita.observe.scaly.mystery.sky",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«La Croce, dunque? Dopo tutti questi anni, trovo un’altra cosa che io e Mehrad non abbiamo in comune. È quasi romantico! E tutto grazie a te, Archivista.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.azita.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Mehrad mi ha mandato la Provocazione che il protocollo richiede – è sempre cortese – niente di insolito in questo – ma descrive una forma che ha visto tra le nuvole. Mi turba.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.agdistis.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Le nuvole sono state chiamate “le danzatrici dei cieli bassi”. Al tramonto, io sono il loro pubblico. Conosco molto bene i loro umori e i loro modi. Ma ultimamente c’è stato un cambiamento. Le danzatrici dei cieli bassi sono diventate prima civettuole – ora insistenti.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.agdistis.observe.scaly.mystery.sky",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Mutamento, Archivista. Noi che ci dedichiamo a Marsia, alla danza che non ha fine – abbiamo un rapporto contraddittorio col mutamento. Se vado a Ovest, mi si promette che diventerò qualcosa di più… ma non lo farò; sono felice di ciò che sono; quasi felice.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.agdistis.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Sono convocato a Ovest. Capisco dove mi si chiede di andare. Non capisco perché.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.connie.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Ci sono casi su e giù per le coste occidentali, di Gran Bretagna, Irlanda, Francia… persone che nuotano al largo. Non sappiamo nemmeno se siano annegate. Non abbiamo trovato nessun corpo.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.connie.observe.scaly.mystery.sky",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Capisco dove stanno andando, anche se non so perché. Vorrei fare un sopralluogo… ma non sono sicura di voler viaggiare in aeroplano, non finché questa storia è in corso. Sai, se fossi in te, eviterei le passeggiate in spiaggia al tramonto, almeno finché tutto questo non si sarà calmato. Non si sa mai.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.connie.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Ho testimoni di un paio delle scomparse. Dicono che i nuotatori “hanno visto qualcosa nelle nuvole”. Piuttosto vago, no? Ma ho scoperto che quando non so da dove cominciare con qualcosa, il posto da cui cominciare è qui, alla Hush House.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.ehsan.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Mi è stato chiesto di aiutare chi soffre di una nuova mania. Vedono forme nelle nuvole – forme che li spaventano e li deliziano. Vogliono viaggiare a Ovest. Insistono. Diventano violenti…» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.ehsan.observe.scaly.mystery.sky",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Capisco ora come potrei chiudere i loro occhi ai cieli. Non tutti gli appetiti vanno assecondati, Archivista. Saranno molto grati quando la mania sarà passata. E le loro famiglie ne saranno grate fin d’ora. Non possiamo essere due cose contemporaneamente… no, questo non mi mette a mio agio. Ma scelgo il male minore. Grazie del tuo aiuto.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.ehsan.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«C’è qualcosa dentro di loro che apre i loro occhi al richiamo dei cieli bassi – qualcosa che cerca di cambiarli. Devo sapere come placarlo.» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.intro.fraser.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Sai bene, naturalmente, che Saint Tentreto non fu mai riconosciuto dalla Chiesa. Ma le tradizioni risalgono ai Romani e a prima ancora, nelle isole e lungo le coste di ogni oceano…» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.fraser.observe.scaly.mystery.scale",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Abbiamo aspettato così a lungo, Archivista. Così a lungo che nessuna memoria risale fino a quel punto; nemmeno le memorie sotto la pelle.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.fraser.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Le forme avvistate tra le nuvole dell’Ovest – ne ho sentito parlare – o le ho viste nei miei sogni – o entrambe le cose. Devo essere certo di dove finiscono i miei sogni e dove comincia la Storia.» [Prova un libro con tanto Mistero: <sprite name=scale> quanto il suo Interesse per <sprite name=scale>.]"
+  },
+  {
+   "id": "talk.visitor.intro.morgen.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Qualcosa tra le nuvole sopra le Isole della Sera, dicono...» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.morgen.observe.scaly.mystery.sky",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Comincio a farmi un’idea… vedremo. E forse, Archivista, dovresti osservare anche le nuvole sopra Brancrug.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.morgen.observe.scaly",
+   "label": "Sull’Artiglio e le Nuvole",
+   "startdescription": "«Ho delle sorelle fra le nuvole sopra le Isole della Sera. Penso che i monaci di St Tentreto saprebbero come evitare le loro attenzioni. E quindi penso che ci debba essere qualcos’altro lassù – qualcosa di nuovo, o di antico. Dovrei informarmi prima di recarmi alle Isole...» [Prova un libro con tanto Mistero: <sprite name=sky> quanto il suo Interesse per <sprite name=sky>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.franklin.numa.grail.a",
+   "label": "Sulla Pozione del Santuario",
+   "startdescription": "«…la gioia che condivisi con Lady Eva. Le delizie del nostro…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.franklin.numa.grail.a.mystery.grail",
+   "label": "Sulla Pozione del Santuario",
+   "startdescription": "«…fare affidamento su un poeta per…ciarlatano. Nostra figlia…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.franklin.numa.grail.a",
+   "label": "Sulla Pozione del Santuario",
+   "startdescription": "«…finito nell’oceano. Un ultimo brindisi, il Principe dei Vini e la… non che Lord Bancroft abbia mai avuto bisogno di ispirazione. Ma vuoi…?» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.rowena.numa.grail.a",
+   "label": "Sulla Pozione del Santuario",
+   "startdescription": "«Se fossi qui, sarebbe solo perché non avrei saputo tenermene lontana.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.rowena.numa.grail.a.mystery.grail",
+   "label": "Sulla Pozione del Santuario",
+   "startdescription": "«Se fossi qui, questo mi conforterebbe; se fossi qui, ti ricompenserei meglio di quanto faccia ora.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.rowena.numa.grail.a",
+   "label": "Sulla Pozione del Santuario",
+   "startdescription": "«Ci sono cari ricordi qui. Temo che sbiadiranno prima di me. Sono troppo vicina all’eternità. Dammi richiami, Archivista; diversivi; indizi di sangue…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.franklin.numa.grail.b",
+   "label": "Sui Pochi del Banchetto",
+   "startdescription": "«…cospirazione di rose. Ci sono altri appetiti oltre all’amore…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.franklin.numa.grail.b.mystery.grail",
+   "label": "Sui Pochi del Banchetto",
+   "startdescription": "«…una volta iniziato, non ha fine. Senza il Graal, nessun Intercalato; senza l’Intercalato, come farebbero le Ore a non…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.franklin.numa.grail.b",
+   "label": "Sui Pochi del Banchetto",
+   "startdescription": "«…comprendere gli appetiti che condivisero. Il dono dell’Eternità, e l’Eternità è generosa quando…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.rowena.numa.grail.b",
+   "label": "Sui Pochi del Banchetto",
+   "startdescription": "«Se fossi qui… forse sarebbero stati i Gemelli a portarmi. Sono i Gemelli a unire ciò che non dev’essere separato. E così condivido il loro patrocinio con le mie sorelle-di-sangue. Come diceva Bancroft, esistono altri appetiti oltre all’amore.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.rowena.numa.grail.b.mystery.grail",
+   "label": "Sui Pochi del Banchetto",
+   "startdescription": "«Il sangue conta; le scelte, infinitamente di più. La mia discendente-figlia ha le sue scelte da fare. Se fossi qui, ti chiederei di darle il mio consiglio… ma non posso essere qui.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.rowena.numa.grail.b",
+   "label": "Sui Pochi del Banchetto",
+   "startdescription": "«Se fossi qui, riconoscerei i miei crimini. Ti chiederei di porre davanti a me qualcosa che mi ricordi perché avevo scelto di commetterli.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.auntmopsy.numa.moon.a",
+   "label": "Sulla Memoria Contraffatta",
+   "startdescription": "«Non mi serve ciò per cui sono qui… ma ho bisogno che tu mi aiuti a trovarlo.» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.auntmopsy.numa.moon.a.mystery.moon",
+   "label": "Sulla Memoria Contraffatta",
+   "startdescription": "«Sì, tesoro. Se non sappiamo cosa abbiamo perso quando lo seppelliamo, non lo sapremo finché non avranno seppellito noi. Io, al tuo posto, penserei a cosa sono disposta a seppellire. Dormi placidamente.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.auntmopsy.numa.moon.a",
+   "label": "Sulla Memoria Contraffatta",
+   "startdescription": "«Se i libri sono la memoria che non muore… dove si seppelliscono dunque le memorie?» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.julian.numa.moon.a",
+   "label": "Sulla Memoria Contraffatta",
+   "startdescription": "«…il Re, o la Campana, o la Città. Senza la Storia, nessuno di loro…» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.julian.numa.moon.a.mystery.moon",
+   "label": "Sulla Memoria Contraffatta",
+   "startdescription": "«…Ys, l’eccezione, ma nessuna eccezione all’Eternità può durare per sempre. Ecco, è proprio questo il punto! Solo quando l’ho accettato…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.julian.numa.moon.a",
+   "label": "Sulla Memoria Contraffatta",
+   "startdescription": "«…ciò che leggo, ma sarà significativo che l’abbia letto. Se fosse soltanto scritto, allora solo il Fiore Nero…» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.auntmopsy.numa.moon.b",
+   "label": "Sul Gemello di Mezzanotte",
+   "startdescription": "«Quando saprò cosa stiamo cercando, saprò cosa ho visto. Potresti aiutarmi con questo, tesoro?» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.auntmopsy.numa.moon.b.mystery.moon",
+   "label": "Sul Gemello di Mezzanotte",
+   "startdescription": "«Sì, tesoro. Senza tutti quegli dèi nel buio, non credo che vedremmo molto Sole al di sotto dell’Eternità. Dormi placidamente.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.auntmopsy.numa.moon.b",
+   "label": "Sul Gemello di Mezzanotte",
+   "startdescription": "«I semi crescono meglio al buio. I fiori crescono meglio alla luce del sole. Se la luna è il frutto della notte, perché appassisce sempre?» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.julian.numa.moon.b",
+   "label": "Sul Gemello di Mezzanotte",
+   "startdescription": "«…chiacchiere facili su equilibrio e armonia. Non c’è tempo per quello, proprio per niente. Ma come disse l’altro mago, quando una cosa viene tenuta troppo a lungo lontana dal suo opposto…» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.julian.numa.moon.b.mystery.moon",
+   "label": "Sul Gemello di Mezzanotte",
+   "startdescription": "«…la mia arroganza, lottai per rovesciare la Necessità. Non dirò che il mio tempo fu sprecato – nessun colpo inferto contro la tirannia è sprecato. Ma solo quando vidi…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.julian.numa.moon.b",
+   "label": "Sul Gemello di Mezzanotte",
+   "startdescription": "«…ci saranno sempre vuoti nella mia comprensione. Cercare di colmarli tutti – significherebbe sottomettersi all’Eternità. Ma io infesto le domande che restano, come un fantasma infesta un amatissimo…» [Prova un libro con tanto Mistero: <sprite name=moon> quanto il suo Interesse per <sprite name=moon>.]"
+  },
+  {
+   "id": "talk.visitor.intro.julian.numa.winter.a",
+   "label": "Sul Gelo più Tenero",
+   "startdescription": "«…un’altra eco. Thomas, Eva, Matilda, Brian. Ogni nome... » [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.julian.numa.winter.a.mystery.winter",
+   "label": "Sul Gelo più Tenero",
+   "startdescription": "«...finali come la luce pallida prima di un’alba pallida. Di una prima volta possiamo sempre essere certi – non possiamo mai essere certi di quando sia l’ultima…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.julian.numa.winter.a",
+   "label": "Sul Gelo più Tenero",
+   "startdescription": "«…le parole che scrissi saranno sempre quelle parole, che scrissi, allora. Scrivere la mia edizione finale – ha cambiato moltissimo, ma non quello. Così è per le parole degli altri. Ma se le leggo – persino se le rileggo…» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.rowena.numa.winter.a",
+   "label": "Sul Gelo più Tenero",
+   "startdescription": "«Hush House; Brancrug; la roccia grigia nel mare. Ci sarà un’ultima volta in cui verrò qui. Ma non ancora.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.rowena.numa.winter.a.mystery.winter",
+   "label": "Sul Gelo più Tenero",
+   "startdescription": "«Quando ero qui – quando arrivai qui, la prima volta – che rabbia provavo. Essere stata scartata dopo aver aperto la via – quello era il meno. Aver aperto la via – quello era il peggio. Sebbene, un tempo, pensassi fosse il contrario.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.rowena.numa.winter.a",
+   "label": "Sul Gelo più Tenero",
+   "startdescription": "«Ricordami, Archivista, la finitezza delle cose.» [Prova un libro con tanto Mistero: <sprite name=winter> quanto il suo Interesse per <sprite name=winter>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.auntmopsy.numa.wood",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«Se fossi qui solo per combinare guai, tesoro, e te lo dicessi apertamente, non vorrebbe dire anche che sono qui per portarti un messaggio?» [Prova un libro con tanto Mistero: <sprite name=nectar> quanto il suo Interesse per <sprite name=nectar>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.auntmopsy.numa.wood.mystery.nectar",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«Sì, tesoro. Niente carta senza alberi; niente foresta senza l’ascia; nessuna perdita senza memoria. Dormi placidamente.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.auntmopsy.numa.wood",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«I pesci nuotano nell’acqua, le radici nuotano nella terra. Cosa nuota sia nel sangue che nel miele?» [Prova un libro con tanto Mistero: <sprite name=nectar> quanto il suo Interesse per <sprite name=nectar>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.franklin.numa.wood",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«…non deve fermarsi. Nessuna danza senza un compagno, nessun tamburo senza una pelle…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.franklin.numa.wood.mystery.grail",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«…ottimismo? Se così vuoi chiamarlo! Non nego le Ore. Ma chi altri se non noi scriverebbe queste Storie, di fronte a tutte le luci della Gloria, se…» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.franklin.numa.wood",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«…mi rammentano la questione del sangue, che non verserò mai più da questa parte del mare, né sotto il governo del vento…» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.numa.intro.rowena.numa.wood",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«Senza il Graal Rosso, non sarei mai venuta qui. Senza il Graal Rosso, sarei morta felice. Ma sarei morta.» [Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]"
+  },
+  {
+   "id": "talk.visitor.incident.success.numa.rowena.numa.wood.mystery.grail",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«Quando ero qui – la prima volta – il primo sacrificio che feci fu al Graal. Senza quello, non ci sarebbe affatto la Hush House. Oh, la pietra del patto, l’albero, tutto quanto, forse. Ma ricorda che tutto comincia con una nascita.» "
+  },
+  {
+   "id": "talk.visitor.incident.failure.rowena.numa.wood",
+   "label": "Su Nodo e Groviglio",
+   "startdescription": "«È fraintesa, il Graal, più di ogni altra Ora. Senza di lei, la deriva verso l’Eternità non sarebbe mai durata così a lungo… mostrami qualcosa, Archivista, per allungare un po’ quella deriva.» [[Prova un libro con tanto Mistero: <sprite name=grail> quanto il suo Interesse per <sprite name=grail>.]]"
+  }
+ ]
+}

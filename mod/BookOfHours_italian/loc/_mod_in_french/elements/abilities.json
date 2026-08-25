@@ -1,0 +1,258 @@
+{
+    "elements": [
+        {
+            "id": "_ability.fatigued",
+			"aspects": {"ability":1,"fatigued":1},
+            "noartneeded":true
+        },
+
+        {
+            "ID": "xcho",
+            "label": "Chor",
+            "desc": "Exubérance ; instinct ; rythme. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"heart":2,"grail":1,"boost.heart":2,"boost.grail":1,".cho":1},
+            "xtriggers":{"fatiguing":"zcho","fatiguing.ability":"zcho","malady.inflicting":"mcho","contamination.bloodlines":"mcho","contamination.keeperskin":"mcho"}
+            
+        },
+        {
+            "id": "xere",
+            "label": "Ereb",
+            "desc": "Fierté, compassion ; la haine et la peur. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"grail":2,"edge":1,"boost.grail":2,"boost.edge":1,".ere":1},
+            "xtriggers":{"fatiguing":"zere","fatiguing.ability":"zere","malady.inflicting":"mere","contamination.bloodlines":"mere","contamination.keeperskin":"mere"}
+        
+        },
+        {
+            "id": "xfet",
+            "label": "Fet",
+            "desc": "Cette partie de nous qui marche dans les rêves. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"rose":2,"moth":1,"boost.rose":2,"boost.moth":1,".fet":1},
+            "xtriggers":{"fatiguing":"zfet","fatiguing.ability":"zfet","malady.inflicting":"mfet","contamination.winkwell":"mfet","contamination.curse.fifth.eye":"mfet"}
+        },
+        {
+            "id": "xhea",
+            "label": "Health",
+            "desc": "La demeure de l'âme. [La neuvième des neuf parties de l'âme ; la seule qui puisse être touchée.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"heart":1,"scale":1,"nectar":1,"boost.heart":1,"boost.scale":1,"boost.nectar":1,".hea":1},
+            "xtriggers":{"fatiguing":"zhea","fatiguing.ability":"zhea","malady.inflicting":"mhea","contamination.chionic":"mhea","contamination.sthenic.taint":"mhea"}
+        },
+        {
+            "id": "xhea.halfdrowned",
+            "label": "Health [À moitié noyé]",
+            "desc": "Des frissons ravagent mon corps trempé. [Votre santé est défaillante. Trouvez un endroit pour vous réchauffer.]",
+			"aspects": {"rank":12,"soaked":1,"heart":1,"winter":1,"ability":1,"malady":1},
+            "xtriggers":{"drying":"xhea"},
+            "lifetime":360,
+            "icon":"xhea",
+            "decayto": "xhea.freezing"
+        },
+        {
+            "id": "xhea.freezing",
+            "label": "Health [Gelé]",
+            "desc": "Il ne fait même plus froid. Je pourrais juste m'allonger ici. Je pourrais dormir ici. [Il faut vraiment trouver un abri!]",
+            "aspects": {"rank":12,"soaked":1,"winter":1,"ability":1,"malady":1},
+            "xtriggers":{"drying":"xhea"},
+            "icon":"xhea",
+            "lifetime":360,
+            "decayto": "xhea.freezing"
+        },
+        {
+            "id": "xmet",
+            "label": "Mettle",
+            "desc": "Volonté ; autodiscipline ; cette partie de nous qui fait le bon choix. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"forge":2,"edge":1,"boost.forge":2,"boost.edge":1,".met":1},
+            "xtriggers":{"fatiguing":"zmet","fatiguing.ability":"zmet"}
+        },
+        {
+            "id": "xpho",
+            "label": "Phost",
+            "desc": "Vue, perception, inspiration, tous les dons de la Gloire. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"lantern":2,"sky":1,"boost.lantern":2,"boost.sky":1,".pho":1},
+            "xtriggers":{"fatiguing":"zpho","fatiguing.ability":"zpho","malady.inflicting":"mpho","contamination.curse.fifth.eye":"mpho","contamination.actinic":"mpho"}
+        },
+        {
+            "id": "xsha",
+            "label": "Shapt",
+            "desc": "Éloquence et compréhension. La porte s'ouvre dans les deux sens. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"knock":2,"forge":1,"boost.knock":2,"boost.forge":1,".sha":1},
+            "xtriggers":{"fatiguing":"zsha","fatiguing.ability":"zsha","malady.inflicting":"msha","contamination.sthenic.taint":"msha","contamination.witchworms":"msha"}
+
+        },
+        {
+            "id": "xtri",
+            "label": "Trist",
+            "desc": "Le changement et le désir. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"moth":2,"moon":1,"boost.moth":2,"boost.moon":1,".tri":1},
+            "xtriggers":{"fatiguing":"ztri","fatiguing.ability":"ztri","malady.inflicting":"mtri","contamination.chionic":"mtri","contamination.actinic":"mtri"}
+        },
+        {
+            "id": "xwis",
+            "label": "Wist",
+            "desc": "Nom, mémoire, cette part qui reste. La plupart des bibliothécaires savent que les livres ont une âme ; la plupart des bibliothécaires espèrent des livres avec une âme simple et rien d'autre. [L'une des neuf parties de l'âme humaine.]",
+			"aspects": {"rank":12,"campable":1,"ability":1,"winter":2,"lantern":1,"boost.winter":2,"boost.lantern":1,".wis":1},
+            "xtriggers":{"fatiguing":"zwis","fatiguing.ability":"zwis","malady.inflicting":"mwis","contamination.witchworms":"mwis","contamination.winkwell":"mwis"}
+        },
+        {
+            "id": "zcho",
+            "label": "Chor [épuisé]",
+            "desc": "Exubérance ; instinct ; rythme.",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zheart":2,"zgrail":1},
+            "xtriggers":{"recovering":"xcho","recovering.ability":"xcho","malady.inflicting":"mcho","contamination.bloodlines":"mcho","contamination.keeperskin":"mcho"},
+            "resaturate": true
+        },
+        {
+            "id": "zere",
+            "label": "Ereb [épuisé]",
+            "desc": "Fierté, compassion ; la haine et la peur.",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zgrail":2,"zedge":1},
+            "xtriggers":{"recovering":"xere","recovering.ability":"xere","malady.inflicting":"mere","contamination.bloodlines":"mere","contamination.keeperskin":"mere"},
+            "resaturate": true
+        },
+        {
+            "id": "zfet",
+            "label": "Fet [épuisé]",
+            "desc": "Cette partie de nous qui rêve.",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zrose":2,"zmoth":1},
+            "xtriggers":{"recovering":"xfet","recovering.ability":"xfet","malady.inflicting":"mfet","contamination.winkwell":"mfet","contamination.curse.fifth.eye":"mfet"},
+            "resaturate": true
+        },
+        {
+            "id": "zhea",
+            "label": "Health [épuisé]",
+            "desc": "La demeure de l'âme.",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zheart":1,"znectar":1,"zscale":1},
+            "xtriggers":{"recovering":"xhea","recovering.ability":"xhea","malady.inflicting":"mhea","contamination.chionic":"mhea","contamination.sthenic.taint":"mhea"},
+            "resaturate": true
+        },
+        {
+            "id": "zmet",
+            "label": "Mettle [épuisé]",
+            "desc": "La capacité de faire des choix significatifs.",
+    		"inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zforge":2,"zedge":1},
+            "xtriggers":{"recovering":"xmet","recovering.ability":"xmet"},
+            "resaturate": true
+        },
+        {
+            "id": "zpho",
+            "label": "Phost [épuisé]",
+            "desc": "Vue, perception, inspiration, tous les dons de la Gloire.",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zlantern":2,"zsky":1},
+            "xtriggers":{"recovering":"xpho","recovering.ability":"xpho","malady.inflicting":"mpho","contamination.curse.fifth.eye":"mpho","contamination.actinic":"mpho"},
+            "resaturate": true
+        },
+        {
+            "id": "zsha",
+            "label": "Shapt [épuisé]",
+            "desc": "Éloquence et compréhension. La porte s'ouvre dans les deux sens.",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zknock":2,"zforge":1},
+            "xtriggers":{"recovering":"xsha","recovering.ability":"xsha","malady.inflicting":"msha","contamination.sthenic.taint":"msha"},
+            "resaturate": true
+        },
+        {
+            "id": "ztri",
+            "label": "Trist [épuisé]",
+            "desc": "Le changement et le désir.",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zmoth":2,"zmoon":1},
+            "xtriggers":{"recovering":"xtri","recovering.ability":"xtri","malady.inflicting":"mtri","contamination.chionic":"mtri","contamination.actinic":"mtri"},
+            "resaturate": true
+        },
+        {
+            "id": "zwis", 
+            "label": "Wist [épuisé]",
+            "desc": "Nom, mémoire, cette part qui reste. (La plupart des bibliothécaires savent que les livres ont une âme; la plupart des bibliothécaires espèrent des livres avec une âme simple et rien d'autre.)",
+            "inherits": "_ability.fatigued",
+            "aspects":{"rank":1,"zwinter":2,"zlantern":1},
+            "xtriggers":{"recovering":"xwis","recovering.ability":"xwis","malady.inflicting":"mwis","contamination.witchworms":"mwis","contamination.winkwell":"mwis"},
+            "resaturate": true
+        },
+        {
+            "id": "mcho",
+            "label": "Chor: Duendémie",
+            "desc": "Le duende est une sorte de distraction, d'inspiration, ou de possession. Dans le vent, dans la mer, dans le crépitement des flammes, il y a une musique que moi seul peux entendre, et quand j'y prête trop d'attention, le monde devient rouge comme une rose…",
+            "xtriggers":{"malady.curing":"zcho","contamination.bloodlines":[{"id":"ability.exposed.bloodlines","morpheffect":"mutate","level":1}],"contamination.keeperskin":[{"id":"ability.exposed.keeperskin","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"Alors que ma concentration diminue, je commence à entendre une musique lointaine, comme le battement d'un tambour. [Votre Chor a une Maladie]",
+            "contamination.bloodlines":"Mes doigts me démangent. Maintenant, ils tapent. Ce livre est infecté par des Lignes-sanguines, et là où elles ont affaibli la peau de mon âme, un duendrazon s'y est attaché.  [Votre Chor a une Maladie ; cet objet est infesté]",
+            "contamination.keeperskin":"Mes doigts sont gonflés et décolorés. Maintenant mes doigts tapent. Ce livre est infecté par la Peau-du-gardien, et là où il a affaibli la peau de mon âme, un duendrazon s'y est attaché.  [Votre Chor a une Maladie ; cet objet est corrompu]"},
+            "aspects":{"rank":11,"heart":1,"ability":1,"malady":1,"malady.cure.moth":5}
+        },
+        {
+            "id": "mere",
+            "label": "Ereb: Westengryred",
+            "desc": "Westengryre ('wilderness terrors' en vieille anglais, 'terreurs des étendues sauvage' en français), c'est ainsi que l'appelaient les premiers moines de St Brandan ; cette vieille maladie verte, le ravissement de la désolation, la terreur des déserts, et c'est sur moi maintenant. Le Bois. Le Bois. Le Bois…!",
+            "xtriggers":{"malady.curing":"zere","contamination.bloodlines":[{"id":"ability.exposed.bloodlines","morpheffect":"mutate","level":1}],"contamination.keeperskin":[{"id":"ability.exposed.keeperskin","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"Alors que mon moral baisse, une peur grinçante m'envahit doucement, comme si quelque chose rampait à travers une fenêtre laissée négligemment ouverte. [Votre Ereb a une Maladie]",
+            "contamination.bloodlines":"Il y a des mots ici qui suintent du sang - une infection des Lignes-sanguines. Alors que j'essuie soigneusement les gouttes, une peur s'infiltre dans mon âme, comme une peur du noir, mais plus forte et plus moisie. [Votre Ereb a une Maladie ; cet objet est infesté]",
+            "contamination.keeperskin":"Des taches lumineuses de champignons marquent cette chose. Une infection de la Peau-du-gardien. Je peux voir leur lumière maladive même lorsque je ferme les yeux. Quelque chose de moisi et boiseux a touché mon âme. [Votre Ereb a une Maladie ; cet objet est corrompu]"},
+            "aspects":{"rank":11,"nectar":1,"ability":1,"malady":1,"malady.cure.forge":5}
+        },
+        {
+            "id": "mfet",
+            "label": "Fet: Restreint",
+            "desc": "Dans mes rêves, j'ai visité la Maison derrière le monde… et une partie de moi y est coincée maintenant, même lorsque je me réveille.",
+            "xtriggers":{"malady.curing":"zfet","contamination.winkwell":[{"id":"ability.exposed.winkwell","morpheffect":"mutate","level":1}],"contamination.curse.fifth.eye":[{"id":"ability.exposed.curse.fifth.eye","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"Alors que ma concentration échoue, une partie de mon âme s'envole, attirée par une lointaine lumière à moitié imaginaire. [Votre Fet a une Maladie]",
+            "contamination.winkwell":"Il y a des yeux ici, à moitié visibles, qui me font un clin d'œil timide. Une infection au Clignement-Abyssal. Je n'arrête pas de penser à ces yeux quand je ferme les miens. [Votre Fet a une Maladie ; cet objet est corrompu]",
+            "contamination.curse.fifth.eye":"C'est maudit! Les signes sont indubitables - une Malédiction du Cinquième Œil a contraint l'œil de mon âme à rester involontairement ouvert. [Votre Fet a une Maladie ; cet objet est maudit]"},
+            "aspects":{"rank":11,"rose":1,"ability":1,"malady":1,"malady.cure.grail":5}
+        },
+        {
+            "id": "mhea",
+            "label": "Health: Malade",
+            "desc": "Je suis tombé malade.",
+            "xtriggers":{"malady.curing":"zhea","contamination.chionic":[{"id":"ability.exposed.chionic","morpheffect":"mutate","level":1}],"contamination.sthenic.taint":[{"id":"ability.exposed.sthenic.taint","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"J'ai épuisé mes forces. [Votre Health a une Maladie]",
+            "contamination.chionic":"Un froid nimbe mes mains qui s'engourdissent - une contamination théoplasmique. [Mon Health, et cet objet sont tous deux contaminés]",
+            "contamination.sthenic.taint":"J'ai un picotement d'une douzaine de petites douleurs aiguës, comme si des aiguilles m'avaient été enfoncées dans les mains. C'est une contamination - le poison ou la malédiction s'appelle souillure sthénique. [Votre Health a une Maladie]"},
+            "aspects":{"rank":11,"winter":1,"ability":1,"malady":1,"malady.cure.heart":5}
+        },
+        {
+            "id": "mpho",
+            "label": "Phost: Fasciné",
+            "desc": "PLUS JE M'ÉLÈVE, PLUS JE VOIS",
+            "xtriggers":{"malady.curing":"zpho","contamination.actinic":[{"id":"ability.exposed.actinic","morpheffect":"mutate","level":1}],"contamination.curse.fifth.eye":[{"id":"ability.exposed.curse.fifth.eye","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"Ma lumière intérieure s'écoule, puis s'enflamme - je suis pris au piège dans une dangereuse fascination.  [Votre Phost a une Maladie]",
+            "contamination.curse.fifth.eye":"C'est maudit! Les signes sont indubitables - une malédiction du Cinquième Œil qui a ouvert l'œil involontaire de mon âme. [Votre Phost a une Maladie]",
+            "contamination.actinic":"Un halo épineux entoure la luminosité - contamination théoplasmique. [Mon Phost a une Maladie ; cet objet est contaminé]"},
+            "aspects":{"rank":11,"lantern":1,"ability":1,"malady":1,"malady.cure.nectar":5}
+        },
+        {
+            "id": "msha",
+            "label": "Shapt: Acousie",
+            "desc": "Les portes de mon âme se sont trop ouvertes. Chaque son sonne est comme une cloche - chaque mot me gratte les yeux ou la peau -",
+            "xtriggers":{"malady.curing":"zsha","contamination.witchworms":[{"id":"ability.exposed.witchworms","morpheffect":"mutate","level":1}],"contamination.sthenic.taint":[{"id":"ability.exposed.sthenic.taint","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"Les portes de mon âme se sont trop ouvertes. Chaque son sonne comme une cloche - chaque mot me gratte les yeux ou la peau -",
+            "contamination.sthenic.taint":"J'ai un picotement d'une douzaine de petites douleurs aiguës, comme si des aiguilles m'avaient été enfoncées dans les mains. C'est une contamination - le poison ou la malédiction s'appelle souillure sthénique. [Votre Shapt a une Maladie]",
+            "contamination.witchworms":"Quand je me penche trop près de ça, j'entends un léger murmure. Une infestation: les Vers-Sorciers! [Votre Shapt a souffert du murmure des vers ; cet objet est infesté]"},
+            "aspects":{"rank":11,"knock":1,"ability":1,"malady":1,"malady.cure.winter":5}
+        },
+        {
+            "id": "mtri",
+            "label": "Trist: Désespéré",
+            "desc": "La mélancolie est la brume sur les eaux de l'âme. Le désespoir est le loup qui rôde au bord de l'eau.",
+            "xtriggers":{"malady.curing":"ztri","contamination.actinic":[{"id":"ability.exposed.actinic","morpheffect":"mutate","level":1}],"contamination.chionic":[{"id":"ability.exposed.chionic","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"J'ai mis un poids trop lourd sur mon âme. [Votre Trist a une Maladie]",
+            "contamination.chionic":"Un froid nimbe mes mains qui s'engourdissent - une contamination théoplasmique. [Mon Trist et cet objet sont contaminés]",
+            "contamination.actinic":"Un halo épineux entoure la luminosité - contamination théoplasmique. [Mon Trist et cet objet sont contaminés]"},
+ 
+            "aspects":{"rank":11,"edge":1,"ability":1,"malady":1,"malady.cure.sky":5}
+        },
+        {
+            "id": "mwis",
+            "label": "Wist: enveloppe-Croisée",
+            "desc": "Mes pensées sont emmêlées et ne me sont pas familières. Quelque chose de ceux qui sont venus avant - les Croix de Carapace - a toujours persisté dans l'humanité. Cela c'est ressuscité maintenant en moi.",
+            "xtriggers":{"malady.curing":"zwis","contamination.winkwell":[{"id":"ability.exposed.winkwell","morpheffect":"mutate","level":1}],"contamination.witchworms":[{"id":"ability.exposed.witchworms","morpheffect":"mutate","level":1}]},
+            "xexts":{"malady.inflicting":"Je me suis trop fatigué, je suis complétement épuisé. J'ai des pensées grincheuses et étranges. [Votre Wist a une Maladie]",
+            "contamination.witchworms":"Quand je me penche trop près de ça, j'entends un léger murmure. Une infestation: les Vers-Sorciers! [Votre Wist a souffert du murmure des vers ; cet objet est infesté]",
+            "contamination.winkwell":"Il y a des yeux ici, à moitié visibles, qui me font un clin d'œil timide. Une infection au Clignement-Abyssal. Je n'arrête pas de penser à ces yeux quand je ferme les miens. [Votre Wist a une Maladie ; cet objet est corrompu]"},
+            "aspects":{"rank":11,"scale":1,"ability":1,"malady":1,"malady.cure.lantern":5}
+        }
+    ]
+}

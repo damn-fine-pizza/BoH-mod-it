@@ -1,0 +1,42 @@
+{"recipes": [
+
+    {"id":"upgrade.altar.chancel.mihail",
+    "actionid": "library.altar.chancel",
+    "reqs": {"painting.mihail.altar":1},
+    "label":"Represent Mihail on the Chancel altar",
+    "startdescription":"The eyes darken in candle-light.",
+    "comments":"Specifically so this will intercept crafting attempts. A better approach would be not to rely on naming conventions for both DLC assignment _and_ priority.",
+    "desc":"Perhaps Mihail the Messenger will be the one to carry a kindling candle to the City Unbuilt. Certainly, he has not yet been extinguished. [The Chancel Altar now admits Forge and Lantern intentions.]",
+    "aspects":{"upgrading":1},
+    "effects":{"painting.mihail.altar":-1},
+    "craftable":true,
+    "warmup":60
+    },
+    
+    {"id":"upgrade.sarcophagus.columbic.mihail",
+    "actionid": "library.sarcophagus.columbic",
+    "reqs": {"painting.mihail.sarcophagus":1},
+   "label":"Represent Mihail in the Sarcophagus",
+    "startdescription":"The eyes glint in darkness.",
+    "desc":"Perhaps Mihail the Messenger will never carry fire to the City Unbuilt - but he has not yet been extinguished. [The Sarcophagus now admits Forge and Lantern intentions.]",
+    "comments":"Specifically so this will intercept crafting attempts. A better approach would be not to rely on naming conventions for both DLC assignment _and_ priority.",
+    "aspects":{"upgrading":1},
+    "effects":{"painting.mihail.sarcophagus":-1},
+    "craftable":true,
+    "warmup":60
+    },
+    {
+        "id":"manuscript.intercept",
+        "actionid":"*consider",
+        "hintonly":true,
+        "craftable":true,
+        "reqs":{"manuscript":1},
+        "label":"My Work!",
+        "startdescription":"I can take pride in it, but I can't really study it."
+        }
+    
+
+
+
+]
+}

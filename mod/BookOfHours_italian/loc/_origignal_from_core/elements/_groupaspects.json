@@ -1,0 +1,67 @@
+{
+	"elements": [
+
+				
+		{
+			"id": "group1_primary",
+			"label": "Powers",
+			"desc": "[Fundamental categories of power recognised by scholars of the Invisible Arts. Find these in soul cards, skills, memories, items; use them to succeed in studying and crafting challenges.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group2_challenges",
+			"label": "Challenges",
+			"desc": "[Difficulties or prices that you need to match.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group3_me",
+			"label": "Expertise",
+			"desc": "[Abilities, skills, and personal resources.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group4_visitors",
+			"label": "Visitors",
+			"desc": "[The natures and interests of visitors to Hush House.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "group6_exaltation",
+			"label": "Exaltations",
+			"desc": "[Ways you're working with this assistant today.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+
+		{
+			"id": "group7_histories",
+			"label": "Histories",
+			"desc": "[When the Librarian of Hush House considers a new History, even the Hours might take note.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "groupzzz",
+			"label": "Forms",
+			"desc": "[The forms of natures of visible and invisible things. Use these to understand what you might be able to do with them.]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		},
+		{
+			"id": "workstation",
+			"label": "Workstation",
+			"desc": "['The reward of a thing well done - is to have done it.' - Emerson]",
+			"isAspect": true,
+			"icon":"sortgroup"
+		}
+
+
+								
+
+	]
+}

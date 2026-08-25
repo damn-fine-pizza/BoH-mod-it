@@ -1,0 +1,56 @@
+{
+ "recipes": [
+  {
+   "id": "wildreqtest",
+   "label": "wild!",
+   "startdescription": "!"
+  },
+  {
+   "id": "d_cons_imp",
+   "label": "Consider: impromptu",
+   "startdescription": "This should only ever occur on alternate executions (when marked craftable)",
+   "desc": "Added aspect"
+  },
+  {
+   "id": "d_cons_setup_imp",
+   "label": "Consider (Setup): impromptu",
+   "startdescription": "This should only ever occur on alternate executions (when marked craftable)",
+   "desc": "Added aspect"
+  },
+  {
+   "id": "d_cons_imp2",
+   "label": "Consider: impromptu done",
+   "startdescription": "Track-marked",
+   "desc": "that's it"
+  },
+  {
+   "id": "d_dawn",
+   "label": "DAWN!",
+   "startdescription": "Instant recovery, just add dawn"
+  },
+  {
+   "id": "d_go",
+   "label": "go!"
+  },
+  {
+   "id": "d_pack",
+   "label": "go!"
+  },
+  {
+   "id": "inspire_a",
+   "label": "Inspire a"
+  },
+  {
+   "id": "inspire_b",
+   "label": "Inspire b"
+  },
+  {
+   "id": "av",
+   "label": "AV"
+  },
+  {
+   "id": "av2",
+   "label": "AV"
+  }
+ ]
+}

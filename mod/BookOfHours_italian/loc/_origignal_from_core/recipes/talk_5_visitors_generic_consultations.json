@@ -1,0 +1,162 @@
+{"recipes": [
+ 
+
+{"id": "talk.visitor.consultation.edge.reading.success",
+"label": "Edge: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has an interest in violence. My collection can help.",
+"desc": "'How invigorating.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.edge":1,"mystery.edge":"interest.edge"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.edge","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+
+{"id": "talk.visitor.consultation.forge.reading.success",
+"label": "Forge: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has questions about matters of shaping and change. My collection has answers.",
+"desc": "'How... consuming.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.forge":1,"mystery.forge":"interest.forge"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.forge","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.grail.reading.success",
+"label": "Grail: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has questions about blood, or birth, or both. My collection has answers.",
+"desc": "'How visceral.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.grail":1,"mystery.grail":"interest.grail"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.grail","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+
+{"id": "talk.visitor.consultation.heart.reading.success",
+"label": "Heart: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has questions about blessings, or wardings, or life. My collection has answers.",
+"desc": "'How encouraging.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.heart":1,"mystery.heart":"interest.heart"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.heart","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.knock.reading.success",
+"label": "Knock: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor needs something sealed... or unsealed. My collection can help.",
+"desc": "'How promising.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.knock":1,"mystery.knock":"interest.knock"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.knock","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.lantern.reading.success",
+"label": "Lantern: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor is in search of revelations. The answers can be found in my collection.",
+"desc": "'How enlightening.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.lantern":1,"mystery.lantern":"interest.lantern"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.lantern","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.moon.reading.success",
+"label": "Moon: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has questions about hidden things. The answers can be found in my collection.",
+"desc": "'How unexpected.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.moon":1,"mystery.moon":"interest.moon"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.moon","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.moth.reading.success",
+"label": "Moth: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor's questions are unconventional. But so is my collection.",
+"desc": "'How compelling.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.moth":1,"mystery.moth":"interest.moth"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.moth","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.nectar.reading.success",
+"label": "Nectar: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has horticultural interests. The answers can be found in my collection.",
+"desc": "'How fruitful.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.nectar":1,"mystery.nectar":"interest.nectar"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.nectar","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.rose.reading.success",
+"label": "Rose: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor wants to talk about horizons and hope. The answers can be found in my collection.",
+"desc": "'How curious!' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.rose":1,"mystery.rose":"interest.rose"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.rose","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.scale.reading.success",
+"label": "Scale: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has questions about matters generally left buried. The answers can be found in my collection.",
+"desc": "'How... profound.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.scale":1,"mystery.scale":"interest.scale"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.scale","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.sky.reading.success",
+"label": "Sky: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor has questions about the matters of the lower heavens. My collection has answers.",
+"desc": "'How promising.' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.sky":1,"mystery.sky":"interest.sky"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.sky","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+{"id": "talk.visitor.consultation.winter.reading.success",
+"label": "Winter: Suitable Reading",
+"actionid": "talk",
+"startdescription": "My visitor is wondering how something will end. My collection has answers.",
+"desc": "'...' [You've satisfied your visitor and earnt a reward. But the more they learn, the harder they'll be to satisfy in future.]",
+"reqs": {"interest.winter":1,"mystery.winter":"interest.winter"},
+"effects":{"spintria.iron":1},"aspects":{"satisfying":1},
+"mutations":[{"filter":"visitor","mutate":"interest.winter","level":1}],
+"linked":[{"id":"talk.visitor.offer.callingcard.*"}]
+},
+
+
+
+{"id": "talk.visitor.reading.failure",
+"label": "Not Recommended Reading",
+"actionid": "talk",
+"startdescription": "'I don't think...' [You need reading material with a Mystery aspect that satisfies your visitor's Interest.]",
+"desc": "[You couldn't find anything suitable in your collection - or you decided not to help.] ",
+"aspects":{"dissatisfying":1}
+}
+
+
+
+]
+}

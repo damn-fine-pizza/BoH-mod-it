@@ -1,0 +1,43 @@
+{
+  
+    "elements": [
+
+        {	"id":"technique.summon.echidna",	"Label": "Technique: Echidna's Prowlings",
+        "desc": "The Ligeian Echidna prowls the empty places. [Walk on the Moor and invoke Echidna with sufficient authority to be credible. You'll need this Skill, a Soul card, an offering of Serpent-Milk (which can be crafted from Perinculate with Keeper-level <sprite name=edge> and some <sprite name=scale> recipes) and a total of 7 <sprite name=scale>].",
+        "isaspect":true},
+      
+        {	"id":"x.summon.echidna",	"Label": "Lesson: Echidna's Prowlings",
+        "desc": "I know that the Ligeian Echidna prowls the empty places. [Consider this with the strongest of your Coil & Chasm, Pentiments & Precursors, Serpents & Venoms or Wolf Stories skills. You'll learn how to invite Echidna to Brancrug. ]",
+        "aspects":{"lesson":1,"scale":1}	},
+
+        {	"id":"echidna.enroute",	"Label": "Echidna is Coming",
+        "icon":"x.summon.echidna",
+        "desc": "War-wound and serpent-scar, by sky-street and desert-deep. Be ready.",
+    "lifetime":360,
+    "decayto":"echidna"
+    },
+
+    
+    {	"id":"echidna.enroute.persistent",	"Label": "Echidna is Coming",
+    "icon":"x.summon.echidna",
+    "desc": "War-wound and serpent-scar, by sky-street and desert-deep. Be ready.",
+"lifetime":360,
+"decayto":"echidna.persistent"
+}
+
+
+
+    
+    
+    
+
+
+
+
+
+      
+     
+
+
+    ]
+}

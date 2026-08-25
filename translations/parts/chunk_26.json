@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "My visitor can't read Hyksos. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.hyksos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Kernewek Henavek. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.henavek.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Killasimi. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.killasimi.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Latin. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.latin.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Mandaic. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.mandaic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Phrygian. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.phrygian.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Ramsund. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.ramsund.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Sabazine. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.sabazine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Sanskrit. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.sanskrit.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "My visitor can't read Vak. This text is of no use to them.",
+  "dove": "recipes/talk.visitor.cantread.vak.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'...if Solomon is gone...if Solomon remains...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.julian.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'...thorough weather for this time of year. Definite weather...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.franklin.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'All right?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'And this is what you call summer?? Pathetic. Don't make me stand around out here.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.hokobald.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Bless you; and bless the House you serve.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Darling, hello! I have the teeniest favour to ask...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Good day to you. May I come in?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hello there. Got a moment?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hello, Librarian. I have questions; I'll pay for answers.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hello, dear. Only me, I'm afraid!' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'How do you do, Librarian. I crave your assistance.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.agdistis.intro.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am here... probably.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.rowena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't need an appointment, do I?' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'It's always so very strange to be back. Thank you again for taking on the place.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'It's good to be back. Thank you for seeing me.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Librarian. I can see you.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Librarian. I have urgent business with you.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Librarian. I'm here on Bureau business.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Peace be with you. I ask entry to the House.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perhaps I should call myself 'Saphir', <i>hein?</i>' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The day, the night, and here we are again in the day. Marvellous.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The pleasure is all mine, Librarian.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are things I need to know.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'What a grim and chilly little country. I hope you've prepared a suitable welcome.' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'You don't need to invite me in, dear. Someone else already has...' [If there's an Incident card active, you can discuss it - or just leave the slot empty and offer a Consultation.]",
+  "dove": "recipes/talk.visitor.auntmopsy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Azita Bukhara",
+  "dove": "recipes/talk.visitor.azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Dagmar",
+  "dove": "recipes/talk.visitor.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Dr Blackwood",
+  "dove": "recipes/talk.visitor.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Dr Peel",
+  "dove": "recipes/talk.visitor.arun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Ehsan Fekri",
+  "dove": "recipes/talk.visitor.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Father Stanislav",
+  "dove": "recipes/talk.visitor.stanislav.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Fraser Strathcoyne",
+  "dove": "recipes/talk.visitor.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Julian Coseley",
+  "dove": "recipes/talk.visitor.julian.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Lalla Chaima",
+  "dove": "recipes/talk.visitor.chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Lieutenant Moore",
+  "dove": "recipes/talk.visitor.arthur.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Lord Franklin Bancroft",
+  "dove": "recipes/talk.visitor.franklin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with MCO Connie Lee",
+  "dove": "recipes/talk.visitor.connie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Magister Hokobald",
+  "dove": "recipes/talk.visitor.hokobald.label",
+  "ricorre": 2
+ },
+ {
+  "en": "A Conversation with Mlle Matutine",
+  "dove": "recipes/talk.visitor.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Mme Bechet",
+  "dove": "recipes/talk.visitor.olympe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Mr Agdistis",
+  "dove": "recipes/talk.visitor.agdistis.intro.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Rowena",
+  "dove": "recipes/talk.visitor.rowena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Señor Corso",
+  "dove": "recipes/talk.visitor.corso.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Wakefield",
+  "dove": "recipes/talk.visitor.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with Yvette",
+  "dove": "recipes/talk.visitor.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with a Friendly Aunt",
+  "dove": "recipes/talk.visitor.auntmopsy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with a Princess",
+  "dove": "recipes/talk.visitor.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with a Very Tired Detective",
+  "dove": "recipes/talk.visitor.douglas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Conversation with the Aleppine",
+  "dove": "recipes/talk.visitor.aladim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "' I'll talk to our cousins of the Duties in Paris. Perhaps it's not as bad as I'd thought…'",
+  "dove": "recipes/talk.visitor.incident.success.connie.opera.apollo.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''A shadow cast by two candles, who passeth with the Dawn.' You know that one, Librarian? From an unauthorised version of the Celian Prayer. Very unauthorised.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.corso.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''Apollo and Marsyas' is to be performed again in Paris. It is a great work, Librarian… in more than one sense.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.ehsan.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''Apollo and Marsyas'. The score had been thought lost… and I am pleased to say I played my small part in its recovery. It is rather old. I have been asked to help arrange it to suit, ah, contemporary expectations.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.agdistis.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''From darkness, darkness.' Wish me luck.'",
+  "dove": "recipes/talk.visitor.incident.success.connie.rite.renewal.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''History is hybrid; Eternity pure.' I wish I could protect Abecassis. I would have liked to speak with him…'",
+  "dove": "recipes/talk.visitor.incident.success.fraser.hunt.changing.mystery.scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''Inevitable as breakfast'… I stand by the maxim. After one sleeps, one eats, or one is eaten. And of course it is pleasant to sleep after eating, and very pleasant to sleep after being eaten. One never knows exactly what will happen in the end, eh, Librarian? Only what has happened before.'",
+  "dove": "recipes/talk.visitor.incident.success.arun.box.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''Law's touch is lighter than we know'. When we invoke the Thunderskin, there can be unexpected consequences in the kingdoms of the lower skies…' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.ehsan.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''Lyterios' is the god Pan - his aspect as Deliverer. Why then 'Lyterion'? Advertising, or religion? Some would say there is, ha ha, no distinction! I would like to know more.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.agdistis.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''O.R.' - I knew he was troubled. He was a patient of mine, before what happened to him. Whatever exactly that is!'",
+  "dove": "recipes/talk.visitor.intro.yvette.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''Open'. Is he just, y'know, opened up? Or is he likely to be opening on to something else? ' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.douglas.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''She is the oldest of her kind still living; and she is dead.' That is how we are accustomed to speak of the Ligeian Medusa, who haunts the nights in Budapest… but now it seems she has begun to haunt the days.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.intro.aladim.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''The Invisible Opera'. I've suggested they perform it in the dark. Too rarely does anyone listen to what I am saying. Too often they think I'm joking.' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arun.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''The wings to Glory rising now return; the sights we're given are the sights we've earned'. I hope I understand its meaning correctly. But I must confirm for myself.' [Try a book with as much Mystery: <sprite name=scale>  as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.fraser.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''What Is Not Seen?' I had long believed the best answer is 'Light'. But I am no longer certain. Thank you, Librarian. I have some thinking to do.'",
+  "dove": "recipes/talk.visitor.incident.success.arthur.stalk.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "''Who was the Watchman when the light went out?' 'In the dark.' No; It only works in Vak.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arun.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'...endings like the pale light before a pale dawn. We can always be certain of a first time - we can never be certain when it is the last…'",
+  "dove": "recipes/talk.visitor.incident.success.numa.julian.numa.winter.a.mystery.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'<i>The</i> most <i>revolting</i> case of Worms I have <i>ever</i>. That I have ever.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.coquille.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'<i>Why</i> does <i>everyone</i> always want to open <i>everything</i>?'' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.connie.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'A client of mine has something that might be a version of the Invisible Opera's libretto. He's paying me to attend the performance, to listen out for differences…' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.intro.corso.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'A friend of mine - he collects curios. Now there is something he wishes he had not collected. But - how should I put this? It does not wish him to uncollect it.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.agdistis.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'A patient of mine is troubled by a dream of a lake. He swims out, he dives, he is reborn beneath the moon… we identified it just last month as Gladwyn Lake. He has never been there. He wants to go. And now, just now, I hear about this business of the Tapestry, and the rite.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.yvette.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Adequate. I hope this will not be your last adequacy. We wouldn't want a Librarian to go unpaid, now, would we?'",
+  "dove": "recipes/talk.visitor.incident.success.hokobald.opera.wings.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Again some imbecile attempts to revive <i>l'opéra invisible</i>. So much the worse for him.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.intro.morgen.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'All right; I'll tell you the oracle. 'The Great Debasement is no Great Counterfeit'. I thought it was nothing when I heard it - a joke, a trick - but the deeper I dig, the less I like it. The Bureau has always tried to stand apart from the affairs of state... but I don't know how much longer that will be possible.'",
+  "dove": "recipes/talk.visitor.incident.success.connie.rising.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Always the tide. I used to hear that, growing up, when my mother thought I wasn't listening. 'Always the tide…' Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.yvette.box.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'An alukite is a difficult quarry - and Medusa is not like any alukite I have ever heard of. I must know how I can protect myself - or, perhaps, how I can appease her.' [Try a book with as much Mystery: <sprite name=edge> or Mystery: <sprite name=rose> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.chaima.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'An old acquaintance of mine at the Grove of Green Immortals would be very grateful for this… restless waxwork. But if I'm going to transport it all the way across Asia, I need to make sure it stays in its box.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.stanislav.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'An uprising in the Bounds - perhaps you've heard. They've sent to me for help…' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arthur.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'And now I'm certain. The most noble lineage of the Carapace Cross was the Scīmafectra-kind… the Glory-winged. It is a lineage I have always felt a particular affinity with. A great day, Librarian; a great day is coming.'",
+  "dove": "recipes/talk.visitor.incident.success.fraser.rising.mystery.scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Anyone builds something important, there's always someone trying to break into it or blow it up. That's the job. Funny to see a pack of <i>vicars</i> getting involved with something like that, though. Spose it's what they call 'doctrinal differences'. Here to look into that.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.douglas.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Apollo and Marsyas. Horrid story. Always puts me in mind of the most <i>aggravating</i> uncle…' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.intro.coquille.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Battleships; aerostats; locomotives. What do all these things have in common, Librarian? I'll tell you: names. Thank you. Good day.'",
+  "dove": "recipes/talk.visitor.incident.success.fraser.project.solar.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Been to Miah, you know. What there's left of it. Wouldn't go back.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.intro.dagmar.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Beetles, they say, make their home in the ceiling vaults above, in great numbers. They lend their buzzings to the hymns. The deacon has commended their enthusiasm, but his view is not the majority one. There is some concern, I think, that he might himself begin to buzz. I am wondering if I should take a hand.' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.aladim.rite.awakening.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Best to bury it. I suspect it may be a seed of sorts. If so, let it grow. It will take its time. 'To every thing there is a season, and a time to every purpose under the earth.' I'll pass on my recommendations.'",
+  "dove": "recipes/talk.visitor.incident.success.stanislav.rite.awakening.mystery.nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Blood is significant; choices, infinitely more so. My descendant-child has her own choices to make. If I were here, I would ask you to give her my counsel… but I cannot be here.'",
+  "dove": "recipes/talk.visitor.incident.success.numa.rowena.numa.grail.b.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Boss is worried about this Messana sight business spreading. I don't see it. That's not a joke. I don't make a lot of jokes. If I do, I'll let you know.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.douglas.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Boss sat me down and explained 'Lyterion' to me. And 'Pan'. You know I got into bleeding grammar school on the bleeding strength of my bleeding Greek? Bleeding scholarship. Never mind. Let's see what you've got on all this.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.douglas.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Bureau's got Hobson in a box, they say. Bureau wouldn't know a box from a box-room, say I. Ha ha! Box-room! Box-room. As you were. Thought I'd pop over to Kraków, make sure everything's properly sealed. Just want to get my introrcisms straight first. (Box-room!)' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.dagmar.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'But if it might turn out that it were true, well, a girl might find herself curious about exactly how the thing might have been carried off…' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.coquille.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Change, Librarian. We who dedicate ourselves to Marsyas, to the dance that does not end - we have a contradictory relationship with change. If I go West, I am promised that I will become something more… but I will not; I am happy with what I am; almost happy.'",
+  "dove": "recipes/talk.visitor.incident.success.agdistis.observe.scaly.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Choice, and rare! Oh ho ho, I had hoped for this exactly. Thank you, my Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.morgen.opera.apollo.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Curious indeed. This has given me more than enough to work with, Librarian. Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.olympe.heist.mystery.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Dappled rose. Still don't know. But the Vagabond liked gardens, don't you know. And Moth. Might go back to Miah after all. I wonder…'",
+  "dove": "recipes/talk.visitor.incident.success.dagmar.lost.find.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Delicious. I can be certain now of a generous and memorable feast. You might yet prove more useful than your predecessors.'",
+  "dove": "recipes/talk.visitor.incident.success.hokobald.opera.apollo.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Deserts… they are not all so alike as the Bureau thinks. Deserts with hauntings and with curses, even less alike.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.chaima.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Detective-Illuminate Douglas Moore, on special assignment to the High Executive for the Royal Endeavour. Get me. 'Ope you're impressed.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.douglas.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Do you know, all the stories do seem to put the sword Ebrehel in Kraków… and now I'm beginning to think that makes a sort of sense. Thank you, darling!'",
+  "dove": "recipes/talk.visitor.incident.success.coquille.intrusion.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Down it is, then. Goodbye, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.zachary.intrusion.mystery.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Earth is thicker than blood - isn't that what our little Thérèse says? Well, my Librarian, we shall see. <i>À bientôt.</i>'",
+  "dove": "recipes/talk.visitor.incident.success.morgen.opera.wings.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Echidna, the Ligeian, she who suckles serpents… yes, I am aware that serpents do not generally suckle. I believe now that Abecassis has chosen to drink of what she provides. I do not know if there is anything to be done about that. But thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.aladim.hunt.changing.mystery.scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'England is hedged and prickled with prophecies this year. Some of them, I fear. Some of them, I doubt. I hope to find guidance here in Hush House.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arthur.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Everyone chooses their path… but I fear that my friend may have chosen to <i>be</i> a path… well, if so, I will not walk him. But I know enough now to understand what he might want. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.stanislav.wound.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Everyone's always looking.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.intro.zachary.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Fair nyctodromist, don't you know? Fair to middling. Know my way up and down the Bounds. Ys is something else. Need a good book on something else.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.dagmar.omen.horizon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'First, I am to face Medusa and answer her riddle. Do you know it, Librarian? 'What is not seen?'  Secondly, I must survive the encounter. I hope that there is something in your collection to help me prepare.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arthur.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Fish swim in water, roots swim in earth. What swims in blood and honey both?' [Try a book with as much Mystery: <sprite name=nectar> as their <sprite name=nectar> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.auntmopsy.numa.wood.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'For the un-stuffing effort, I'm going to have to read up on protections.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.douglas.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Found something, Librarian. You heard of the Chandler? Might be an Hour, might be a myth. Not recognised by the Church, either way. I'd never made the connection with Sunset Celia. I wonder if the Archbishop will pay me to explain it to him… or if he'll pay me not to.'",
+  "dove": "recipes/talk.visitor.incident.success.corso.mystical.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Found something. Might be something else. Might be something I'll regret.  Mum's the word, hm? Word to the wise. Pip pip, dear, pip pip.'",
+  "dove": "recipes/talk.visitor.incident.success.dagmar.omen.horizon.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Frankly, Librarian, I'm hoping I don't have to shoot anyone. But if I do, I know now what to shoot 'em with.'",
+  "dove": "recipes/talk.visitor.incident.success.arthur.mob.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Funniest thing. I keep getting speaking invitations from this odd little outfit: 'Church of the Ivory Dawn'. And, well, you'll laugh, Librarian…' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.intro.yvette.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Funny things on the horizon. Mark my words. Funny sort of things. Well, I do thank you, dear. Here's a little something.'",
+  "dove": "recipes/talk.visitor.incident.success.dagmar.stalk.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Going to have a little look into it for a friend, call her K, don't call her K, forget about the friend. Follow new avenues, sort of thing.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.dagmar.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Got to go see about all these bleeding painters. Don't mind telling you I've better things to do. But boss is as boss does.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.douglas.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Have you heard about this Gladwyn thing? Not on my watch.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.connie.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'He is Worm-inhabited, they say. I only half-understand what that means. I rather fear the Bureau doesn't either. I don't expect to be able to help him, or them; honestly, I want chiefly to assure my own safety.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'He was already making use of some very unusual alloys - very unusual techniques. I'd like to use the collection to develop some theories further…' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.serena.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Heist? Oriflamme's? Poppycock. Forgeries? Poppycock. Bureau all over the place arresting everyone though. Worse than Ortucchio. Bloody pardon me pain in my bloody pardon me hinder parts pardon me.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.dagmar.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hello, my Librarian. I have become a patron of a project so delightful…' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.morgen.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hints and fireside tales only. But enough to direct my search. I will find nothing. But I do not like to leave a task half-finished.'",
+  "dove": "recipes/talk.visitor.incident.success.chaima.omen.horizon.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'His new treasure is possessed by a malignity of Nowhere - I think perhaps the Hour they call the Rising Spider. If it is so, my usual protections will not serve against it. I hope that you can help me?' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.agdistis.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hobson. He was my friend. (Now, he might be my friends.) I have to know what to do.' [Try a book with as much Mystery: <sprite name=knock> or Mystery: <sprite name=winter> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.intro.zachary.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hoping I can find something relevant in the collection. Course, a lot of things might be relevant.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.douglas.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'How do we know 'now'? By the angle of the sun. Do we know 'now' at night? We think we do; but we cannot. You are wondering if I am talking nonsense. Let us find out.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arun.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Hush House; Brancrug; the grey rock in the sea. There will be a last time that I come here. But not yet.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.numa.intro.rowena.numa.winter.a.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I abandoned the Empire's service long ago. That was not an easy choice. But some ties, I find even harder to loose.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arthur.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am a gardener before I am a priest, and a priest before I am a healer. I know my limits. Perhaps you can help.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.stanislav.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am armed, I am prepared, I am resolved. This part of the game gives me no pleasure at all. But I did not expect Eternity ever to be gentle. I made my choice, and so did Abecassis. Goodbye, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.azita.hunt.changing.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am inclined to believe that this might qualify as a fulfilment of the prophecy. I had almost hoped it was not, Librarian. When the world changes, it will change all at once.'",
+  "dove": "recipes/talk.visitor.incident.success.arthur.omen.dawn.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am reassured. Perhaps, after all, no storm will stir; perhaps everyone will just have a good night out. It surely must happen sooner or later. '",
+  "dove": "recipes/talk.visitor.incident.success.ehsan.opera.apollo.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am resolved not to fail in this matter. But what will become of Abecassis in the coils of the Labyrinth - that I cannot say.'",
+  "dove": "recipes/talk.visitor.incident.success.arthur.hunt.changing.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am summoned West. I understand where I am being asked to go. I do not understand why.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.agdistis.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am very interested in this 'theft' at Oriflamme's. I hope I can rely on you to be discreet?' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.serena.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I am wasting my time - it is certain. The emissaries of Ys do not pass beyond the Bounds. But I have been paid to waste my time, and so I must make absolutely certain.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.chaima.omen.horizon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I begin to form a conception… we will see. And perhaps, my Librarian, you should observe also the clouds above Brancrug.'",
+  "dove": "recipes/talk.visitor.incident.success.morgen.observe.scaly.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I can almost see what happened. What really, really happened. I just need a little more.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.zachary.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I can provide what they need. But some of their requests have piqued my curiosity. I would like to refresh my memory on the, hm, 'solar context'.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.fraser.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I can still get to my Hattington, but I'll need bribes. And the lady I need to bribe - well, she has plenty of money, but she's, let's say, a gourmet…' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.corso.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I can't believe this is a coincidence. The Obliviates are back in the world… and the Obliviates never come back to the world. Something is afoot in Port Noon.'",
+  "dove": "recipes/talk.visitor.incident.success.fraser.mystical.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I can't imagine how anyone might begin to heal his flesh. But if he decided he wants to speak with me, I have some inkling now of what I might need to understand. Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.yvette.wound.mystery.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I did not know Zuthimalim Zidane. But I know enough who mourn for him. ' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.agdistis.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't believe there's anything here. When times grow strange, people turn to religion. I think that's really all it is. Thank you for setting my mind at ease.'",
+  "dove": "recipes/talk.visitor.incident.success.serena.mystical.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't like what they say happened. I don't like it at all.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.zachary.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't need what I'm here for… but I do need you to help me find it.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.numa.intro.auntmopsy.numa.moon.a.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I don't pretend to be any kind of expert. But some of the details about their safeguards seem curious. I'm hoping your collection will help me look into that.' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.olympe.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I fear this 'O.R.' has invited the attentions of the Mother of Ants. If so there is little I can do for him. But I can try. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.ehsan.wound.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I feel for the bloke. I do. But he's not just a bloke any more.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.douglas.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had been planning to visit next autumn, to see Zuthi one more time… and now I'll never have the chance. However long one lives, one does not grow entirely accustomed to the suddenness of death.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.ehsan.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I had read that honey is a part of the diet they offer in this place. I think now I understand the significance of this. Perhaps I will try it myself! Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.agdistis.pan.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have a contract in Kaunas, Librarian. For the Reckoner war. Which side? Does it matter?' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arthur.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have a general idea of what the Royal Endeavour entails, of course, but I would like to refresh my understanding of a few minor details.' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.hokobald.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have a great many thoughts on this vault matter. A great many. I have not yet resolved upon a particular course. I am here to make a preliminary survey of the relevant literature.' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.hokobald.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have a theory about how this quarrel began… I'd like to look into it, Librarian.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.connie.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have been asked to help the sufferers of a novel mania. They see shapes in the clouds - shapes that frighten and delight them. They wish to travel into the West. They insist. They grow violent…' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.ehsan.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have been charged to find this piebald garden in the ruins of Miah, and to pluck there a piebald rose… as a keepsake, I am told. My patron has been generous, but she is not merciful. Still this 'keepsake' business worries me. I would like to study the matter a little more.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.aladim.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have been commissioned to write a piece, as a memorial… the themes are complex.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.agdistis.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have been offered a contract - to stalk Medusa, in Budapest. To stalk, not to hunt! I am not a fool.' [Try a book with as much Mystery: <sprite name=edge> or Mystery: <sprite name=rose> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.intro.chaima.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have heard of this venture in Germany, where the customers go in as bankers and come out as painters. I am not interested in bankers or in painting usually, but this…' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.agdistis.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have my own oracle from the Rising While. I believe I have a perfect understanding. I am here to make sure.' [Try a book with as much Mystery: <sprite name=scale>  as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.intro.fraser.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have no doubt at all that Zidane was murdered. But the motive confounds me. It was something to do with his work… or with the music he tried to teach it.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.azita.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have rather a knack for getting into things - I just need to see if any of this has been tried before -' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.coquille.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have read of oracles like this 'Rising While', Librarian. Let me say this: they do not usually offer their services in times of peace and calm.' [Try a book with as much Mystery: <sprite name=scale>  as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.intro.aladim.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have sisters in the clouds above the Evening Isles. I think the monks of St Tentreto would know to avoid their attentions. And so I think there must be something else up there - something new, or old. I should inform myself before I travel to the Isles...' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.morgen.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have some idea now of what precautions I might take. I hope it'll be enough. Thanks, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.yvette.intrusion.mystery.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have some influence in Strasbourg - through my business interests, you know. I can apply that influence here - but to what end, I am not sure.' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.fraser.rite.awakening.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have the most <i>exquisite</i> idea! Here - something for your trouble.'",
+  "dove": "recipes/talk.visitor.incident.success.coquille.revolution.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have what I need. (Except that I will also need a bath.) Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.chaima.mob.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have what I need. I'll see myself out. Bye, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.corso.opera.wings.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I have witnesses from a couple of the disappearances. They say the swimmers 'saw something in the clouds.' It's pretty vague, no? But I've found that when I don't know where to start with something, where to start is here, at Hush House.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.connie.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I hope Abecassis can still be reasoned with. If not, I must be ready.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.chaima.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I hope I might find something in the collection here to allay my concerns. Or to crystallise them.' [Try a book with as much Mystery: <sprite name=forge> or Mystery: <sprite name=lantern> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.serena.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I intend to ask her of my own 'nearly now'. But before I do, I wish to understand as best I can why she has chosen to manifest in the Temple of Seven Coils.' [Try a book with as much Mystery: <sprite name=scale>  as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.aladim.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I knew that I would not regret coming here. And not only for the knowledge you have shared… I could grow to love this place, Librarian, even at its greyest. Perhaps I am coming to understand why you have set aside the world, and made Brancrug your home.'",
+  "dove": "recipes/talk.visitor.incident.success.agdistis.opera.apollo.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I know the key. I only need its name.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.zachary.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I like the Legion. The pay is good. But I know very little of their enemy, and I do not like to go ignorant into battle.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.chaima.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I need to make sure the production gets all the details just right - that it's temptingest bait for my adversary…' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.azita.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I picked up one of those Grunewald pieces myself, you know... a waxwork. A little more restless than most waxworks, it turns out. Luckily for me, I've learnt not to trust the Bureau to do my job.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.stanislav.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I require information on genealogies. Or cuisine. Or related subjects…' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.hokobald.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I shall enjoin the Church to drown it. The conservative clerics will be satisfied with this outcome. And those clerics who share my secret sympathies… they will hope, as I do, that in darkness and in quiet, it might develop further.'",
+  "dove": "recipes/talk.visitor.incident.success.fraser.rite.awakening.mystery.scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I shall tell you something in confidence, Librarian. I have long been haunted by a certain dream of eyes.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.fraser.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I should have learned by now not to jump to conclusions. It's not a Watchman-name at all. I think it <i>just might be</i> a Name of the Chandler. I had heard there was one out in the world causing mischief… of course I'll have to make sure. Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.serena.omen.dawn.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I suppose that will have to do. Here. It is over-generous, but then I am an over-generous person. It may perhaps be my only remaining weakness.'",
+  "dove": "recipes/talk.visitor.incident.success.hokobald.heist.mystery.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think - I think - Zidane might have been using Ys-metal in his work. That would upset quite a number of people, from the Bureau on down…. thank you, Librarian. I hope I can always trust you to keep our conversations confidential.'",
+  "dove": "recipes/talk.visitor.incident.success.serena.project.ingenious.mystery.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think I'll have enough. I think. Thank you…'",
+  "dove": "recipes/talk.visitor.incident.success.zachary.curse.mystery.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think that this will be enough. I leave now for Miah. Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.chaima.lost.find.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think that'll do it. Thanks, Librarian. Off to the zoo, I suppose…'",
+  "dove": "recipes/talk.visitor.incident.success.corso.revolution.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think this will suffice. At least, I may not disgrace myself!'",
+  "dove": "recipes/talk.visitor.incident.success.agdistis.project.ingenious.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think, Librarian, that Zidane had been eavesdropping at the keyholes of heaven. At least the motive is grander than artistic jealousy. But I do not think it will be practical to avenge him.'",
+  "dove": "recipes/talk.visitor.incident.success.azita.project.ingenious.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I think, Librarian, we may be approaching a turn in history when flowers seek moths, and not so much the other way around. I'm sorry. It's very hard for me not to speak in riddles. Let me try this. Be very careful when the time comes to stand beneath the tree. The choice is always yours.'",
+  "dove": "recipes/talk.visitor.incident.success.arun.lost.find.mystery.moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I understand now how I might close their eyes to the skies. Not every appetite should be fed, Librarian. They will be very grateful when the mania has passed. And their families will be grateful now. We cannot be two things at once… no, I am not easy with this. But I choose the lesser harm. Thank you for your help.'",
+  "dove": "recipes/talk.visitor.incident.success.ehsan.observe.scaly.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I understand where they're going, even if I don't know why. I'd like to make a field trip… but I'm not certain I want to travel by aeroplane, not while this is going on. You know, if I were you, I wouldn't take any beach walks at sunset, not until all this settles down. Just in case.'",
+  "dove": "recipes/talk.visitor.incident.success.connie.observe.scaly.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was neither entirely right nor entirely wrong. We know 'now' most during the day, less at night, but <i>most of all</i> at sunset… when the Sun shares his blood with us. If we could share our blood with the Sun at dawn, we would know the most 'now' of all. Good day, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.arun.rising.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was on the trail of a book - an unknown Hattington - in the Bounds - and, wouldn't you know it, where I think my Hattington is, that's the part that's going up in flames…' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.intro.corso.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I was right - again. I must move quickly… oh, I suppose you'll want paying…'",
+  "dove": "recipes/talk.visitor.incident.success.hokobald.revolution.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I wish to attend the première of an opera - one I have always very much enjoyed…' [Try a book with as much Mystery: <sprite name=grail> or Mystery: <sprite name=sky> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.intro.morgen.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I wonder how many of us tell you the truth? I wonder if any of us do? I wonder if you are ever tempted to stuff <i>our</i> eyes with nonsense? I am sorry. This is unhelpful of me. Let's talk about petals.' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arun.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I wonder… do you know, I think I might just have tripped over something rather smashing, here. Thank you so very, darling, a very thank you!'",
+  "dove": "recipes/talk.visitor.incident.success.coquille.heist.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I would like to determine which gifts will be most <i>in keeping</i> with the opera's subject matter…' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.hokobald.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I would understand what has happened to this 'O.R', so that I can understand what he might want to happen to him.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.agdistis.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I wouldn't be here if I hadn't heard about the Reckoner war… but it's not the Reckoner war that interests me. It's the trade in years.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.yvette.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'd like to understand: why there? And I'd also like to understand: why now?' [Try a book with as much Mystery: <sprite name=heart> or Mystery: <sprite name=nectar> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.stanislav.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'd probably be safe if I sit at the back. Only probably. So I'm going to sub-contract to someone braver. I have someone in mind: someone brave, perceptive, but unfortunately, not stupid. They're expecting a very special bribe. So here I am looking for inspiration.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.corso.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'll be honest, Librarian, I don’t think anything I've found will reassure our foreign friends. Well, if they don't start a war, I won't either. Good luck with your New King.'",
+  "dove": "recipes/talk.visitor.incident.success.corso.project.solar.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm a novice in these matters - but I am coming to realise that most of us are novices most of the time. So I hope you have something suitable in your collection.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm going to speak to some of these people. I have felt for a while that something is changing in the tempo of the world's pulse.  I think this may be an opportunity for me to understand what.  I might be wrong. It's been known. But thank you, Librarian, please take my blessing; and this.'",
+  "dove": "recipes/talk.visitor.incident.success.stanislav.pan.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm going to the Black Forest. I think this is something I'll need to follow down into the roots. I think there is an opportunity here, for something old to be reborn in the right way or the wrong one.  I might be wrong. It's been known. But thank you, Librarian, please take my blessing; and this.'",
+  "dove": "recipes/talk.visitor.incident.success.stanislav.pan.mystery.nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm here about Hobson. The Bureau's invited me to interview him - assess him. I don't think I want to, but I don't think I can pass up the opportunity…' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.intro.yvette.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm here about a dream. I know; physician, interpret thyself, all that. Indulge me.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.yvette.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm here in deepest confidence, Librarian. I hope I can rely on your discretion.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.connie.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm looking into the Oriflamme's story - the theft, the forgeries.' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.olympe.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm more interested in the therapeutic angle than the artistic one. Although there is something here that, shall we say, tugs at the coat-tail of my thoughts.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.ehsan.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm not a <i>spy</i>. Spies don't go to libraries. Just a paid researcher. Doing my bit for world peace. Mind if I take a look around?' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.corso.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm not over-fond of rebels - but I have an affinity with these ones. I need to know how much of what they say is true.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arthur.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm sorry for what happened. With the Circus.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.intro.zachary.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm still hoping it'll be safe to set the device in motion. But I'd like to be absolutely certain.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm working for the Church, this time. I've got a pass and everything.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.corso.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I'm worried about the audience, I'm worried about the backers, I'm very worried about the tenor, and I'm very very worried about the caterers. I know, I'm a worrier. But I don't understand enough about the work and its consequences. Help me out?' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.connie.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've already missed his funeral, but I've commissioned a memorial composition for him. I'm hoping that it can be played on this device of his… but there are ramifications to invoking the powers of the lower skies that I must understand first. ' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.ehsan.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've been asked to conduct… might be an exorcism, might be more. I need to make sure I get this one right.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.ehsan.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've been asked to look into these solar movements. I don't imagine there's anything to it. But it would do to be sure.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.serena.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've been dreaming of a desert temple in moonlight… I don't think I want to tell you the rest. Not even by day. I'm sorry. May I see the collection?' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've been looking into family history - again - and I can't make the records line up. I don't know exactly what I'm looking for, but I hope I'll find it here.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've found a few things. Perhaps they'll be enough. Everything fails until it succeeds, does it not, Librarian? Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.olympe.opera.wings.mystery.moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've had my differences with the Bureau… but in general, I'm glad the Duties have them… but this… this has gone very, very badly.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.ehsan.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'I've known adepts who don't believe the Watchman has any Names at all - besides Sunset Celia, of course. They're wrong. But it can be very difficult to distinguish the Names from the Hour itself in this case. I'll need to read up.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.serena.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Idiot adepts rushing up north to try some half-digested Killasimi rite they've got out of a pack of fungus-wizards. Whatever happens, I won't like it. So I'm here to look into countermeasures.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.connie.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If I can't prevent what's coming, I'll have to watch. I might even learn. But I've come here to learn first. If I learn enough, I won't need to watch; if I don't watch, I might not worry.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arun.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If I find how they're going to end… I can offer them that.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.zachary.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If I were here, I would acknowledge my crimes. I would ask you to set before me something to remind me why I had chosen to commit them.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.rowena.numa.grail.b.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If I were here, it would be only because I could not stay away.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.numa.intro.rowena.numa.grail.a.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If I were here… perhaps it is the Twins that would have brought me. It is the Twins who unite what must not be apart. And so I share their patronage with my sisters-in-blood. As Bancroft used to say, there are other appetites than love.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.numa.intro.rowena.numa.grail.b.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If I were only here to cause mischief, dear, and I told you as much, wouldn't that also mean I was here to bring you a message?' [Try a book with as much Mystery: <sprite name=nectar> as their <sprite name=nectar> Interest.]",
+  "dove": "recipes/talk.visitor.numa.intro.auntmopsy.numa.wood.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If books are the memory that does not die… where then are memories buried?' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.auntmopsy.numa.moon.a.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'If one has chosen to be opened, why would one wish to be closed?' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.intro.zachary.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'It is very frustrating. I will have to knock some heads together. And Reckoners have hard heads. For once, I may have to get involved personally.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.azita.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'It was open once before. When they locked him away…' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.zachary.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'It's <i>certain</i> to be quite the most <i>crushing</i> bore, but if I <i>happen</i> to go, I have some rather <i>vivid</i> ideas for my look. I just need to, you know, flesh them out.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.coquille.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Jolly good. Enough Names scorching up the place, what? More than enough. Pip pip.'",
+  "dove": "recipes/talk.visitor.incident.success.dagmar.box.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Just so. Mehrad will love this! Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.azita.opera.apollo.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Knew a gal in Cluj-Napoca, back in the day. Lovely gardens.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.dagmar.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Labhites are much favoured at the Labyrinth of Lions. Abecassis himself made a pilgrimage there not so long ago. When they break faith with the Lionsmith, the duty often falls to me and my companions - the duty to bring them to the Labyrinth for punishment.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arthur.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Labhites are rare. Fallen labhites, rarer still. If Abecassis continues to change - what will he become?' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.fraser.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Labhites may consume only what is found in the sky. Abecassis seems to have altered his diet. It is important that I understand how…' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.aladim.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Librarian - my little Librarian - I must thank you. So much. I know exactly who to find. Please, take this! You deserve more. But I shall spare you my kiss, hey?'",
+  "dove": "recipes/talk.visitor.incident.success.morgen.revolution.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Librarian... this trade of years. It's the Madrugad who keeps the tally, and the Madrugad who is invoked when Reckoners make the trade. I think, just possibly, the stupidest Reckoner in the history of stupidity has turned a profit by cheating the Madrugad. I don't know who's going to regret that most. I'd better get to Kaunas.'",
+  "dove": "recipes/talk.visitor.incident.success.connie.mob.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Librarian… one door closes, another door opens. And another.'",
+  "dove": "recipes/talk.visitor.incident.success.zachary.heist.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Long ago, you know, there were not so many colours in the world… I suppose life was simpler then. But I prefer the luxury we have of hues. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.aladim.lost.find.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lot of Dawn iconography around these new cults. Some of them have a little pash for figures like Sunset Celia, who you might know is, hm, theologically interesting. Archbishop's paid me to look into the origins of the Celian Prayer, see if anything embarrassing might come up.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.corso.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Lot of new churches and funny little sects out there at the moment, Librarian. We don't mind when they preach virtue. Take a sharp interest when they promise hidden truth. And anyone starts talking about immortality, well, can't have that, can we.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.douglas.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Medusa's riddle is 'What Is Not Seen?'  There is rarely only one answer to a Ligeian riddle. If I am to go to Budapest, I would go prepared.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.aladim.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Medusa, hey? What's all that about? Dashed if I know. P'raps you can help. Hope you can help.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.intro.dagmar.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mehrad sent me the Taunt that protocol requires - he is always courteous - nothing unusual in that - but he describes a shape he saw in the clouds. It troubles me.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.azita.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mehrad tells me that Medusa has begun to walk more openly in Budapest. We will both seek her out. The first to cut a scrap from her robe will win the challenge. There may be a tussle, of course. I can handle Mehrad, but Medusa is another matter.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.azita.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Mehrad will seek to give Abecassis his opportunity to die with honour. I will seek to prevent it. There will be other pieces on the board, no doubt, seeking to save Abecassis, or to take him as another kind of trophy. And so I must be prepared.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.azita.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Messana. The blindness? The farsight? I smell a Watchman's Name.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.serena.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Miah, in the desert. Always they come to me for the desert work.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.intro.chaima.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'More nonsense in the Bounds with the Legion. Always more nonsense. But I smell opportunity.'",
+  "dove": "recipes/talk.visitor.intro.hokobald.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Most helpful, Librarian. Thank you for indulging our silly games.'",
+  "dove": "recipes/talk.visitor.incident.success.azita.stalk.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My blood - the son of my nephew - is bound up somehow with the New King's Endeavour. My family and I have parted ways and I will not remind them of the shame of my desertion. But I cannot rest until I understand this business better.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arthur.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My concerns remain. This is a Solar project, no doubt of it. Everything is doctrinally acceptable… everything goes back to Light… but this sunset business. You know, I have always believed the Chandler to be Sunset Celia's. No, it shouldn't be possible, but the Chandler shouldn't be possible either. Keep this to yourself. Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.serena.project.solar.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My concerns remain. You've heard of the Sunset Road? The alchemies of the House of Lancaster? I find similarities in this Endeavour of the King's. We don't want any more Sovereigns of the Leashed Flame, do we? Let's leave all that medieval nonsense in the Middle Ages. Thank you for your help.'",
+  "dove": "recipes/talk.visitor.incident.success.serena.project.solar.mystery.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My dearest enemy - Mehrad - has gone West to the Evening Isles. Before I follow him, I must know why.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.azita.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My dearest enemy - Mehrad - has invited me to a challenge in Budapest…' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.azita.stalk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My family-of-the-moment are total sweethearts, of <i>course</i> they are, but I am just the tiniest bit restless… and, well, if anyone in Venice might find themselves suddenly down a daughter, I'd like to have done my research.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.coquille.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My friend knows the stories of the ruin the Opera brings, and still he is determined. Well, if I cannot dissuade him, perhaps I can help him. I hope that something in your collection might help him find a way…' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.olympe.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My friends in the Bounds have not been altogether honest with me… but neither have they lied, exactly. Thank you, Librarian. I have a great deal to think about.'",
+  "dove": "recipes/talk.visitor.incident.success.arthur.revolution.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My particular interests are engaged here… you know? I don't know exactly. But I will.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.morgen.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My superior in the Bureau has secured an oracle from the Rising While. It doesn't sit right with me. And he's asked me to investigate what it means. That doesn't sit right with me either.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.connie.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'My suspicion, candidly, is that Oriflamme's has invented and spread the story. I can't fathom why. I need to look into the provenance and manufacture of some of these so-called 'fakes'.' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.serena.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Nasty business with the Worms. Nasty. D'you ever run across Hobson? Horrible little man. Still. Nasty.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.dagmar.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Never been to Ys. Always wanted to. Probably shouldn't. Terribly want to. Probably shouldn't.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.intro.dagmar.omen.horizon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'No, I am no believer. But my mother, she believed; and she used to talk of the Second Dawn. Of course I did not take it seriously. But now the King's project. So strange. I would like to see what I can find in your collection...' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.olympe.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'No, I'm not going to the performance. It's not bad, I spose, I mean you can hum the overture, but it's not exactly Mozart, if you know what I mean? No, I'm on a mission.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.intro.corso.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'No, Librarian, my order - what's left of it! - is not recognised by the Church. But persons of good sense on either side of the doctrinal divide know how to keep communications open… sorry, every time it gets ecumenical I find myself talking like this. I know someone who knows a more important someone.' [Try a book with as much Mystery: <sprite name=nectar> as their <sprite name=nectar> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.stanislav.rite.awakening.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'No; it is something else. My dreams will not see daylight yet. Perhaps they never will. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.fraser.omen.dawn.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Not going back to Miah. Said that already. But that rose that poor feller died for. Black and white one, you see? Rings a bell, tickles a nerve, taps on the old brain-pan…' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.dagmar.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Nothing too sinister here. Well, more artists in the world. Strikes me as a sinister sort of phenomenon all by its own self. But nothing for the Bureau, I reckon. Thanks.'",
+  "dove": "recipes/talk.visitor.incident.success.douglas.pan.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Nothing's Nothing-proof, eh, Librarian? But I hope I know now how I might protect myself.'",
+  "dove": "recipes/talk.visitor.incident.success.ehsan.curse.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Now then, this Lark business. Zidane's gifts were mediocre at best, but I think I might salvage something from his work.' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.hokobald.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oh, Zuthi. He was a much greater craftsman than I had realised… and I think it might have been the death of him. Perhaps this Unfinished Lark should remain Unfinished. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.ehsan.project.ingenious.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'On the first night, there will be some catastrophe. I want to prepare so perfectly for that catastrophe. And, in the event it might not occur, well, I wish to be prepared perfectly for that possibility also.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.morgen.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'One does follow some odd little byways, doesn't one? Perhaps there's something in it. We'll see. Off to Venice!'",
+  "dove": "recipes/talk.visitor.incident.success.coquille.opera.wings.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'One of the Reckoner lords now in Kaunas fancies himself an adept. So of course he has botched a conjuring, and of course now the conjuring has made its nest in the sewers. Always, these things take to the sewers. Always.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.chaima.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Out it is, then. Goodbye, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.zachary.intrusion.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Passage to Ys is forbidden… so thoroughly forbidden that even the laws against it are not generally known. But there are always exceptions. I imagine a librarian of the Watchman's Tree will understand exceptions.' [Try a book with as much Mystery: <sprite name=rose> as their <sprite name=rose> Interest.]",
+  "dove": "recipes/talk.visitor.intro.aladim.omen.horizon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Perhaps you know something of the Obliviates, Librarian - an order of Long who have forsworn traffic with the Hours…' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.fraser.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Persons of some interest to me will attend also. It is important that I be seen at my best. I am looking for a very particular inspiration…' [Try a book with as much Mystery: <sprite name=grail> or Mystery: <sprite name=sky> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.morgen.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Petals, a friend used to say, are the skin of flowers; and flowers are the hair of a plant. I wonder what it means, this dappled rose? I'd like to look in your collection.' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arun.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Prophecy, Librarian; this is a time of prophecy.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arthur.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Recall to me, Librarian, the endingess of things.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.rowena.numa.winter.a.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Reckoners. They are not stupid. But enough of them - enough of them are <i>very</i> stupid.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.chaima.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Reckoners. You shoot 'em, they go down, they get up. Stolen years soak up a bullet or two. But it's not a new problem. There'll be ways round it.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arthur.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Right. Thanks. Might have a sporting chance of not getting et from the inside out, now. Much obliged.'",
+  "dove": "recipes/talk.visitor.incident.success.douglas.curse.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Robigo, the Generous with Hosts, the Little Travelling. He's a Name of the Crowned Growth; he's an especial friend of the Haustorium; and if anyone bears the blame for the Ortucchio Incident, it's him. None of these phrases give me any particular pleasure to say. Be of good cheer, Librarian! Once I go out into the world, you may never have to hear any of them ever again.'",
+  "dove": "recipes/talk.visitor.incident.success.arun.rite.renewal.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Seal 'em up like Christmas, see if I won't. Pip pip. Pip pip! Ha ha! Box-room!'",
+  "dove": "recipes/talk.visitor.incident.success.dagmar.intrusion.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Seeds grow best in darkness. Flowers grow best in sunlight. If the moon's the fruit of night, why does it always wither?' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.auntmopsy.numa.moon.b.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'She's misunderstood, the Grail, more than any other Hour. Without her, the drift to Eternity would never have lasted this long… show me, something, Librarian, to make that drift a little longer.' [[Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]]",
+  "dove": "recipes/talk.visitor.incident.failure.rowena.numa.wood.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Smudgy little line between ghastly and thrilling, darling, isn't there? But I rather think this is on the right side of the line.'",
+  "dove": "recipes/talk.visitor.incident.success.coquille.opera.apollo.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Some authorities favour 'Eternity'. Others 'the Cross', but I fear that might irritate her… perhaps it would be safest to resolve that the answer is 'Me'. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.aladim.stalk.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Some cretin is attempting to stage the Invisible Opera in Venice. Well, I suppose if anything catches fire, Venice is less inclined than most cities to burn.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.intro.hokobald.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Some of it might have been clarities. Ovitic forms. Conducive. Could have been. I need to understand what.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.zachary.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Someone <i>is</i> going, but he's not really an opera aficionado either, more interested in, eh, catering. He's bringing a recipe book with him. Sort of a recipe book. Carapace savour-arts. I've been asked to acquire it, but I'm no good with Carapace languages. So here I am, ready to read up on... stains.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.corso.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Something in the clouds above the Evening Isles, they say...' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.morgen.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Something regrettable is due to occur at Gladwyn Lake, regrettably soon.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arun.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Something that carries fire in darkness; something that can leave a place it never entered; something that no-one will let alone. That sounds like a Name of the Chandler. These things shouldn't even exist - and now, this year, I've heard of two at least… keep this between us, Librarian. Thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.connie.box.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Sometimes, Librarian, it must be frustrating never to see how these matters come out. But I envy you. Once one is wound in, one is never quite wound out.'",
+  "dove": "recipes/talk.visitor.incident.success.arun.mob.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Spose if one happened to be the sort who happened to know anything about nyctodromy or, you know, anything, might wonder about being locked up, might wonder what sort of information might… mislead the authorities. Not mislead. Discourage. Put off the scent. Not that there's a scent to put. Sort of thing. Safe side.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.dagmar.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'St Columba of the Dove. There is a story that his coffin is here at Brancrug - one of the treasures of the House. Don't worry, I'm not going to ask about that. I respect the House's secrets. But I would like to know more about <I>why</i> he might have been brought here…' [Try a book with as much Mystery: <sprite name=moon>  as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'St Mihail's Coffin is all the gossip… but I'm here about a different saint.' [Try a book with as much Mystery: <sprite name=moon>  as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.yvette.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'St Mihail's Coffin. Got an idea what 'St Mihail' might be. Don't think we want him gettin out. Don't think so at all. Need to look up some seals and things.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.dagmar.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'St Mihail's Coffin. I hope It's not <i>actually</i> a coffin. It'd be a terrible shame to get in there and find it full of expired saint.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.coquille.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Technically speaking, you know, he wasn't murdered. Only a human being can commit murder. The legal situation is much the same as if Zidane had been struck by lightning. In another country entirely. Lucky the Bureau doesn't worry about technicalities, isn't it?'",
+  "dove": "recipes/talk.visitor.incident.success.connie.project.ingenious.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you, Librarian. I should be able now to discourage the thing from taking midnight constitutionals. It's bad enough when it does that in my rooms. It would be very rude so to inconvenience other passengers if I have to travel by train.'",
+  "dove": "recipes/talk.visitor.incident.success.stanislav.curse.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you, Librarian. Rest assured: I do not shed blood unless I must. A stern lecture may suffice. But the lecture must be very stern indeed.'",
+  "dove": "recipes/talk.visitor.incident.success.azita.mob.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you, dear. Cheered me up a bit. Bright side, sort of thing. Pip pip.'",
+  "dove": "recipes/talk.visitor.incident.success.dagmar.heist.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you, my friend. My worry now is that if this protection is sufficient, he will decide not to dispose of the thing at all - he will hope to keep it. And against Nowhere, the best protection is fleeting. I will use all my persuasions! Thank you!'",
+  "dove": "recipes/talk.visitor.incident.success.agdistis.curse.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you. I have a meeting there next week, with someone I think I can trust. And now, I hope, I have enough material for him to take me seriously.'",
+  "dove": "recipes/talk.visitor.incident.success.serena.heist.mystery.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you. I have enough to make a start. I really don't want to go all that way to Miah myself - it's not so very exceptional a story! - but I think I might know someone who can help. Again, thank you.'",
+  "dove": "recipes/talk.visitor.incident.success.olympe.lost.find.mystery.moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you. I know now how to appease her. As long as I show sufficient respect.'",
+  "dove": "recipes/talk.visitor.incident.success.chaima.stalk.mystery.rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thank you. I know now how to protect myself. As long as I don't get too close.'",
+  "dove": "recipes/talk.visitor.incident.success.chaima.stalk.mystery.edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thanks for that. Got a much better idea of who might need arresting. Mrs M's going to like that. No time at all for the Church, Mrs M. Proper freethinker. 'Never mind all them poor mediums,' says she, 'lock up a bishop or two, save all that money on silly hats.' Told her once if we locked people up for spending too much on millinery, she'd need to watch out. Had to eat my dinner in the garden shed that evening. Anyway, ta ta.'",
+  "dove": "recipes/talk.visitor.incident.success.douglas.project.solar.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thanks, Librarian. I'll know what to look for now. Keep this between us, will you? I hope I can just buy the book, but its owner's reputation is, eh, he's not always co-operative, you know?'",
+  "dove": "recipes/talk.visitor.incident.success.corso.opera.apollo.mystery.grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'That clinches it. They've been sold a pup. Their manuscript can't be older than the eighteenth century. Maybe I won't tell them that, eh, Librarian? Clients don't like paying for bad news.'",
+  "dove": "recipes/talk.visitor.incident.success.corso.omen.dawn.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The 'Oracle of the Rising While'. I asked her a riddle; she had the temerity to ask me one in return. And so I am here.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arun.rising.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The 'Unfettered Eye'. It could mean any number of things. The Illuminates of the Labyrinth have asked me to seek wisdom in the other great libraries. I hope that you can help.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arthur.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Bureau can't get involved that far East, and the locals haven't requested our help. But something smells familiar about this one. I want to be ready if it comes West.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.connie.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Bureau has no business that far from home. But the local Duties have asked for our help.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.connie.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Cross, is it? After all these years, I find something else that Mehrad and I do not have in common. It is almost romantic! And all thanks to you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.azita.observe.scaly.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Green Sages have long been interested in these doctrines, and the Haustorium has long been disinclined to share. The Sages are concerned that this might be a Haustorium trap. I suspect they're being overly cautious; but I have learnt, over the years, to take their instincts seriously.' [Try a book with as much Mystery: <sprite name=nectar> as their <sprite name=nectar> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.stanislav.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Grove of Green Immortals has asked me to look into this…' [Try a book with as much Mystery: <sprite name=nectar> as their <sprite name=nectar> Interest.]",
+  "dove": "recipes/talk.visitor.intro.stanislav.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The High Executive for the Royal Endeavour has approached me for assistance with some of their more esoteric requirements…' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.fraser.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Legion is on the march again. They've been in touch about supplies…' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.azita.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Lionsmith is the patron of labhites; and of Mehrad, who is my dearest enemy. The Colonel is my patron, and the Lionsmith is to the Colonel as Mehrad is to me. It will please the Colonel to see this labhite die without honour. And now you know the pieces, and the game.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.azita.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Magpie would generally deputise a lesser power to arrange a suitable disaster at the Opera. But he has been known to attend the performances himself… and now I have an idea how I might encourage him to do so. Thank you, Librarian. I've been needing a chat with Ferezeref for a very long time indeed.'",
+  "dove": "recipes/talk.visitor.incident.success.arun.opera.wings.mystery.moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The New King's got a lot of Continental powers nervous, Librarian. So a friend of a friend has asked me to drop by and do a little reassuring research.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.corso.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The New King… I have some concerns. I am certain it is a coincidence that he came to the throne so soon after the fire here at the House. An unlucky time. But it's a coincidence I have always disliked.' [Try a book with as much Mystery: <sprite name=forge> or Mystery: <sprite name=lantern> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.intro.serena.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Obliviates long ago retreated to Port Noon, across the Western Sea. But I hear some of these new cults swearing an 'Ivory Oath' - very like the 'Ivory Chain' of the Obliviates. I'd like to look into other similarities. Illumination, Mansus references, solar doctrines.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.fraser.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Opera is dedicated to Ferezeref the Magpie, Name of the Moth. Ferezeref is a trouble-maker - perhaps the paramount trouble-maker. (I suppose I have a certain knack for trouble myself, but I acknowledge the master.) So there will be alarums, excursions, possibly exsanguinations. But from even the most irresponsible phoenix, we can hope to rescue an egg...' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arun.opera.wings.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The Sun's Plan… it is a labyrinth, just as much as the Labyrinth of Lions itself. For almost eighty years I have been guessing at its crossings and turnings. A long time, even with the measures I have taken to keep those years at bay. I am beginning to hope now that I will see the heart of it before I die.'",
+  "dove": "recipes/talk.visitor.incident.success.arthur.mystical.mystery.lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The best outcome, Librarian, seems to be that the rite involves the Hour named Applebright. The worst, that it involves the Crowned Growth. And both of these are Nowhere Hours. No one has ever been prepared to tell me what that really means, but I know enough not to roll around in it.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.rite.renewal.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The clouds have been called 'the dancers of the lower skies'. At sunset, I am their audience. I know their moods and modes, very well. But lately there has been a change. The dancers of the lower skies have become first coquettish - now insistent.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.agdistis.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The government will sell that wonderful piece of Zuthi's for scrap. I know it. But I have a collector in mind - a very wealthy woman. I hope to convince her to invest in it. But I need to understand better the properties of the work…' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.olympe.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The labhite Abecassis of Marrakech has begun to - let us be tactful here - to behave without decorum. I wish to understand why.' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.intro.aladim.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The local Duties have it in a box. So we know where the things are. But what interests me, darling, is where they <i>came</i> from. I didn't think there was anything at all like that in Kraków - not since the War anyhow.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.coquille.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The poor soul used to be my friend. I'm not sure what he is now.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.stanislav.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The priest has received the grace of gates. I will learn here what may pass through that gate.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.zachary.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The priest will open only outwards: a disappointing mode. But at least his suffering need not be drawn out any longer.'",
+  "dove": "recipes/talk.visitor.incident.success.zachary.wound.mystery.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The records <i>do</i> line up if a certain Brancrug resident bore a child at the chronological age of forty-nine. Which might be possible, if she'd traded extra years of life with Reckoners! That raised more questions than it answered... but I think I might have half an answer now.'",
+  "dove": "recipes/talk.visitor.incident.success.yvette.mob.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The sages of the Corrivality tell us that understanding leads to conflict. I wonder, then, if peace might arise from confusion?' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arun.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The shapes reported in the clouds of the West - I've heard of them - or I've seen them in my dreams - or both. I must be certain where my dreams end and where history begins.' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.fraser.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The text is useful - thank you! - but now that I'm back at Brancrug, I've realised the oddest thing. The work that's coming out of this place - it's very like the work that Thirza Blake used to do. I'm sure you know she was librarian here before you… perhaps a coincidence. Perhaps not.'",
+  "dove": "recipes/talk.visitor.incident.success.ehsan.pan.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are cases all up and down the western coasts, of Britain, Ireland, France… people swimming out to sea. We don't even know if they drowned. We haven't found any bodies.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.connie.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are dear memories here. I fear they will fade before I do. I am too close to eternity. Give me reminders, Librarian; diversions; indicators of blood…' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.rowena.numa.grail.a.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are many of us, you know, who have what you might call unhealed wounds… and many of us would not choose to heal them.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.agdistis.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There are prophecies of the Second Dawn, you know; of the Sun's rebirth. One of those prophecies is of 'the Unfettered Eye..'' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arthur.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is a tale that the Vagabond planted a black and white garden in Miah, before the curse, where the Moth would come at night. There are always tales…' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.olympe.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is an image in a church in Strasbourg that's been inspiring dreams of flight - dreams of blessed alteration. This, I would call spiritual progress. I'm concerned the Church may disagree.' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.intro.fraser.rite.awakening.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is an officer in the Legion - a <i>very special</i> friend of mine. I want him to have something to remember me by. But he also has <i>very special</i> tastes.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.coquille.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is something unseemly at work here, Librarian.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.azita.project.ingenious.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There is something within them that opens their eyes to the allure of the lower skies - something that seeks to change them. I must know how to quell it.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.ehsan.observe.scaly.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There will be a production in Paris of an opera that celebrates the Grail. I have decided to offer suitable gifts to the performers.' [Try a book with as much Mystery: <sprite name=grail> as their <sprite name=grail> Interest.]",
+  "dove": "recipes/talk.visitor.intro.hokobald.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There's always out, and there's always down.' [Try a book with as much Mystery: <sprite name=knock> or Mystery: <sprite name=winter> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.zachary.intrusion.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'There's laws and laws and Laws. One of the Laws is that there can only be so many Long in the world. It's mostly much higher ranks than me enforcing that one. <i>Much</i> higher. But I've been asked to look into it.' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.douglas.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'These Grunewald curios… I've acquired one of my own. A device. The Bureau had assured me it was safe… I had commissioned repairs… but now, as you can imagine, I'm having doubts.' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.intro.yvette.curse.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'These blindness, these revelations, in Messana… there is something familiar about them. I have the sense of a coming resolution.' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.fraser.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'These manias have happened before, you know - these enthusiasms. In the Wars of the Roads, the Worm Wars, the Intercalate… I wonder how many features they share with the cults of other times?' [Try a book with as much Mystery:  <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.serena.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'These patients; these alumni; shall I say, these initiates? My interest is doubly professional; as a priest, and as a gardener.' [Try a book with as much Mystery: <sprite name=heart> or Mystery: <sprite name=nectar> as their matching Interest.]",
+  "dove": "recipes/talk.visitor.intro.stanislav.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'They always think that all of us know everything. That a Lantern-long understands duendrazones, a labhite understands hill-children… but all of us are a mystery to all of us. And this one is a mystery to me.' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.ehsan.wound.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'They gave me a tour of the vaults at Oriflamme's once, you know. I  don't really believe anyone could have got in. Not without rather more excitement, not without rather more of a mess.' [Try a book with as much Mystery: <sprite name=knock> as their <sprite name=knock> Interest.]",
+  "dove": "recipes/talk.visitor.intro.coquille.heist.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'They need me to authenticate a manuscript. Mystic illustrations of the 'Unfettered Eye'. I need to do some cross-checking. ' [Try a book with as much Mystery: <sprite name=lantern> as their <sprite name=lantern> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.corso.omen.dawn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'They need rifles, they need boots, and they want taenite… knives, not bullets. I have no taenite knives. But I have an idea.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.azita.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'They're putting on a certain opera in Paris. A dear old enemy of mine is very fond of the opera, and I hope he might attend.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.azita.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'They've made up their minds I'm their appointed leader. I've made up my mind I'm not, but they're pretty insistent. They've got a bee in their bonnet about my family folklore...' [Try a book with as much Mystery: <sprite name=winter> as their <sprite name=winter> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.yvette.mystical.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This Royal Endeavour. I wonder what you think. No, don't tell me! I don't want us to get in trouble - either of us.' [Try a book with as much Mystery: <sprite name=forge> as their <sprite name=forge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.olympe.project.solar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This century, Librarian, this century. A knife beneath every pillow. I am minded, this season, to be a collector of knives.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.intro.arun.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This curious matter in the Black Forest. I hope I can find something in the collection here to understand it better…' [Try a book with as much Mystery: <sprite name=heart> as their <sprite name=heart> Interest.]",
+  "dove": "recipes/talk.visitor.intro.ehsan.pan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This has helped a little. I still have no idea what to tell my patient… but I think now that he will go, whatever happens. That seems to be the shape of these things. 'Always the tide.''",
+  "dove": "recipes/talk.visitor.incident.success.yvette.rite.renewal.mystery.moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is another time. That was the first time…'",
+  "dove": "recipes/talk.visitor.incident.success.zachary.box.mystery.knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is how it's going to be. How some of it has to be.'",
+  "dove": "recipes/talk.visitor.incident.success.zachary.mystical.mystery.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is not a matter for me, I think. The power I serve is not gentle. He has lost his skin, and he accepts the gifts of others' flayings… but there is a crueller Hour at work here. I will withdraw. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.agdistis.wound.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is not what I had expected, but if it had, it would not be inspiration, no? Thank you, my Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.morgen.opera.apollo.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This is what I need. It is always such a pity, the end of an artist. Let us hope he did not die in vain.'",
+  "dove": "recipes/talk.visitor.incident.success.morgen.project.ingenious.mystery.sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This may be enough. I hope that will be enough. Thank you, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.olympe.project.ingenious.mystery.forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This opera in Paris. I smell trouble.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.intro.connie.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This saint-icon in Strasbourg. Apparently the candles are putting forth buds, and the vestry is haunted by pines. I've been asked for an opinion.' [Try a book with as much Mystery: <sprite name=nectar> as their <sprite name=nectar> Interest.]",
+  "dove": "recipes/talk.visitor.intro.stanislav.rite.awakening.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This statuette in Strasbourg. I have people in the Church hierarchy, and I do not like what they are telling me…' [Try a book with as much Mystery: <sprite name=scale> as their <sprite name=scale> Interest.]",
+  "dove": "recipes/talk.visitor.intro.aladim.rite.awakening.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This story from Miah - it interests me. I have an idea the House might help me follow up.' [Try a book with as much Mystery: <sprite name=moth> as their <sprite name=moth> Interest.]",
+  "dove": "recipes/talk.visitor.intro.olympe.lost.find.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This stupid conflict is threatening my interests in Kaunas…' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.azita.mob.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This thing in St Mihail's Coffin. It'll get out; no doubt of it; that's its nature. Inevitable as breakfast. But what's interesting to me is where it might choose to hide, once it's out.' [Try a book with as much Mystery: <sprite name=moon> as their <sprite name=moon> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arun.box.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'This work is very special to me, Librarian - very special also to the Hour I serve. I want to be certain that the work is worthy of him. And that I do not disgrace the orchestra nor disappoint the audience! That always.' [Try a book with as much Mystery: <sprite name=sky> as their <sprite name=sky> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.agdistis.opera.apollo.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Thought so. 'O.R.' is a walking oneiric hazard. Well, not 'walking', poor bloke. Going to have to recommend something pretty permanent. Thanks, Librarian.'",
+  "dove": "recipes/talk.visitor.incident.success.douglas.wound.mystery.heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'To slay a labhite - that is difficult. To take a labhite alive - that is difficult enough to bring me here, to you, for help.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.incident.failure.arthur.hunt.changing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Trouble in the Bounds. The Legion's offered me a contract.' [Try a book with as much Mystery: <sprite name=edge> as their <sprite name=edge> Interest.]",
+  "dove": "recipes/talk.visitor.intro.chaima.revolution.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Truly it might mean a Second Dawn. Or a war. I would prefer the Dawn. But then it might be both… thank you, Librarian. Keep my visit between us two only, for now, if you don't mind.'",
+  "dove": "recipes/talk.visitor.incident.success.olympe.project.solar.mystery.forge.startdescription",
+  "ricorre": 1
+ }
+]

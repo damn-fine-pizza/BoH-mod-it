@@ -1,0 +1,33 @@
+{
+    "verbs": [
+        {
+            "id": "visits",
+          "label": "Visits",
+            "desc": "Visitors come and go.",
+            "spontaneous":true
+
+        },
+        {
+            "id": "postoffice.delivery",
+          "label": "Message sent from the Post Office",
+          "multiple":true,
+          "spontaneous":true
+        },
+
+
+        {
+          "id": "postoffice.invitation",
+        "label": "Visitor arriving after an invitation's been sent from the Post Office. We now use specific-art spontaneous ones for each visitor, so this is unused, but keeping it cos the multiple is important if we need a generic one again.",
+        "multiple":true,
+        "spontaneous":true
+      },
+
+        {
+          "id": "visit.return",
+        "label": "Time for a visitor to go",
+        "multiple":true,
+        "spontaneous":true
+
+      }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+ "elements": [
+  {
+   "id": "_tip"
+  },
+  {
+   "id": "tip.isolation",
+   "label": "Il Buono, il Brutto, il Cattivo",
+   "desc": "L’Archivista ha lasciato il mondo alle spalle. Questo ha i suoi vantaggi, ma anche il suo prezzo."
+  },
+  {
+   "id": "tip.navigate",
+   "label": "Muoversi per la Casa",
+   "desc": "Clic sinistro per interagire con oggetti e stanze; clic destro o tasti direzionali per spostare la visuale (puoi cambiare i tasti nelle Impostazioni)."
+  },
+  {
+   "id": "tip.slot",
+   "label": "Cos’è Più Adatto?",
+   "desc": "Clicca su uno slot per evidenziare tutto ciò che può andarci sopra; passa il mouse su un Aspetto per evidenziare tutto ciò che ha quell’Aspetto."
+  },
+  {
+   "id": "tip.zoom",
+   "label": "Da Vicino",
+   "desc": "Se è la prima volta che giochi a BOOK OF HOURS... potresti non renderti conto di quanto puoi ingrandire con la rotellina del mouse."
+  },
+  {
+   "id": "tip.time",
+   "label": "Tempo a Sufficienza",
+   "desc": "Le stagioni passeranno; non preoccuparti. Non c’è bisogno di affrettarsi... tranne che a Numa."
+  },
+  {
+   "id": "tip.wisdoms1",
+   "label": "L’Albero delle Sapienze",
+   "desc": "Assegna le Abilità all’Albero per ottenere più carte Anima... e anche per approfondire la tua comprensione del mondo e delle Storie."
+  },
+  {
+   "id": "tip.ink",
+   "label": "Inchiostro",
+   "desc": "Se hai esaurito l’inchiostro iniziale, non preoccuparti. Ci sono molti calamai nella Casa, e puoi imparare a preparare il tuo inchiostro."
+  },
+  {
+   "id": "tip.read",
+   "label": "LEGGI TUTTO",
+   "desc": "Tutto. Leggi <i>tutto</i>."
+  },
+  {
+   "id": "tip.save",
+   "label": "Salva la partita se temi ciò che potrebbe accadere in seguito",
+   "desc": "<i>BOOK OF HOURS</i> è un gioco più clemente di <i>Cultist Simulator</i> – puoi salvare e caricare quando vuoi."
+  },
+  {
+   "id": "tip.replacements",
+   "label": "Molto è tolto, molto rimane",
+   "desc": "Gli arredi della Casa sono a volte unici. Le risorse no. Se distruggi una risorsa, prima o poi potrai sempre procurartene un’altra."
+  },
+  {
+   "id": "tip.calm",
+   "label": "NIENTE PANICO",
+   "desc": "Se ti sembra di essere in un vicolo cieco, prova qualcos’altro. C’è sempre un modo per andare avanti, anche se potrebbe portarti in una direzione diversa da quella che avevi programmato..."
+  },
+  {
+   "id": "tip.workstationhints",
+   "label": "Suggerimenti della Postazione di Lavoro",
+   "desc": "Le icone in cima alla finestra della Postazione di Lavoro suggeriscono i Poteri rilevanti da usare nelle ricette di quella postazione."
+  },
+  {
+   "id": "tip.foundation",
+   "label": "Colomba Nera, Corvo Bianco",
+   "desc": "Prima della Curia, prima dei Dewulf, prima della Chiesa del Sole Invitto, le sorelle del Nodo custodivano i propri segreti nelle grotte dell’Isola."
+  },
+  {
+   "id": "tip.speed",
+   "label": "Controlli della Velocità",
+   "desc": "Spazio mette in pausa; + e - del tastierino numerico aumentano e diminuiscono la velocità; puoi cambiare queste scorciatoie da tastiera nelle Impostazioni."
+  },
+  {
+   "id": "tip.tree",
+   "label": "L’Albero del Guardiano",
+   "desc": "La Hush House è una delle nove grandi biblioteche dell’Albero del Guardiano – i pochi luoghi selezionati in cui le Ore sanciscono la conservazione della conoscenza proibita."
+  },
+  {
+   "id": "tip.send",
+   "label": "Invia allo Slot",
+   "desc": "Polso stanco? Shift+clic invia alla postazione di lavoro più vicina; ctrl+clic al verbo più vicino; puoi cambiare queste scorciatoie da tastiera nelle Impostazioni."
+  },
+  {
+   "id": "tip.journal",
+   "label": "Metti il Tuo Diario in un Posto Sicuro",
+   "desc": "Non puoi distruggerlo per errore, ma se lo metti sullo scaffale sbagliato, potresti spazientirti. È una simulazione fedele alla realtà."
+  },
+  {
+   "id": "tip.completedworkstations",
+   "label": "Vai alla Postazione col Lavoro Completato",
+   "desc": "Premi BACKSPACE per scorrere le postazioni di lavoro con ricette completate."
+  },
+  {
+   "id": "tip.thirza",
+   "label": "La Fine della Curia",
+   "desc": "Thirza Blake, Settima Archivista, spese tutto il denaro della Casa nei propri progetti prima della sua scomparsa... ed è allora che il Ramo Notturno intervenne."
+  },
+  {
+   "id": "tip.lessons",
+   "label": "Memorie e Lezioni",
+   "desc": "Quando migliori un’Abilità, puoi usare una Lezione da <i>qualsiasi</i> abilità, purché corrisponda ad almeno un Aspetto... e ti serve solo una Lezione. Il resto può essere qualsiasi Memoria corrispondente."
+  },
+  {
+   "id": "tip_platform.pc",
+   "label": "PC"
+  },
+  {
+   "id": "tip_platform.steamdeck",
+   "label": "SteamDeck"
+  },
+  {
+   "id": "tip.navigate.steamdeck",
+   "label": "Muoversi per la Casa",
+   "desc": "La levetta sinistra e il trackpad sinistro spostano il cursore; il tasto A o un tocco sul trackpad permettono di interagire con oggetti e stanze. La levetta destra sposta la visuale (puoi anche usare lo schermo touch)."
+  },
+  {
+   "id": "tip.slot.steamdeck",
+   "label": "Cos’è Più Adatto?",
+   "desc": "Tocca uno slot per evidenziare tutto ciò che può andarci sopra; tocca un Aspetto per evidenziare tutto ciò che ha quell’Aspetto."
+  },
+  {
+   "id": "tip.zoom.steamdeck",
+   "label": "Da Vicino",
+   "desc": "Se è la prima volta che giochi a BOOK OF HOURS... potresti non renderti conto di quanto puoi ingrandire con lo schermo touch."
+  },
+  {
+   "id": "tip.completedworkstations.steamdeck",
+   "label": "Vai alla Postazione col Lavoro Completato",
+   "desc": "Premi R1 per scorrere le postazioni di lavoro con ricette completate."
+  },
+  {
+   "id": "tip.speed.steamdeck",
+   "label": "Controlli della Velocità",
+   "desc": "Il D-Pad verso il basso mette in pausa; destra e sinistra modificano la velocità del gioco; puoi cambiare questi controlli nelle Impostazioni."
+  },
+  {
+   "id": "tip.send.steamdeck",
+   "label": "Invia allo Slot",
+   "desc": "Polso stanco? R2 + tocco invia alla postazione di lavoro più vicina; L2 + tocco al verbo più vicino; puoi cambiare questi controlli nelle Impostazioni."
+  }
+ ]
+}

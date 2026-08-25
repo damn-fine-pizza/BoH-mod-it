@@ -1,0 +1,44 @@
+{
+    "elements": [
+
+
+
+        {
+            "id": "retired_arthur",
+            "label": "Arthur is Gone...",
+            "icon":"Arthur",
+            "lifetime":30
+
+        },     
+        {
+            "id": "retired_azita",
+            "label": "Azita is Gone...",
+            "icon":"azita",
+            "lifetime":30
+
+        },
+
+        {
+            "id": "retired_chaima",
+            "label": "Chaima is Gone...",
+            "icon":"chaima",
+            "lifetime":30
+
+        },
+        {
+            "id": "retired_yvette",
+            "label": "Yvette is Gone...",
+            "icon":"yvette",
+            "lifetime":30
+
+        },
+        {
+            "id": "retired_zachary",
+            "label": "Zachary is Gone...",
+            "icon":"zachary",
+            "lifetime":30
+
+        }
+
+    ]
+}

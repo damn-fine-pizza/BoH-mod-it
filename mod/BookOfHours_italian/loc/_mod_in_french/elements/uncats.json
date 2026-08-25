@@ -1,0 +1,79 @@
+{
+    "elements": [
+
+        
+        {
+            "id": "uncatpile",
+            "label": "Pile de livres non catalogués",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.dawn",
+            "label": "Pile de livres non catalogués (Aube)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.solar",
+            "label": "Pile de livres non catalogués (Solaire)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.baronial",
+            "label": "Pile de livres non catalogués (Baronnial)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.curia",
+            "label": "Pile de livres non catalogués (Curie)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.nocturnal",
+            "label": "Pile de livres non catalogués (Nocturnale)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+
+        {
+            "id": "uncatbook.dawn",
+            "label": "Livre non catalogué (Aube)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.solar",
+            "label": "Livre non catalogué (Solaire)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.baronial",
+            "label": "Livre non catalogué (Baronnial)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.curia",
+            "label": "Livre non catalogué (Curie)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.nocturnal",
+            "label": "Livre non catalogué (Nocturnale)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.nocturnal.everyman",
+            "label": "Livre non catalogué (Nocturnale)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        }
+    ]
+}

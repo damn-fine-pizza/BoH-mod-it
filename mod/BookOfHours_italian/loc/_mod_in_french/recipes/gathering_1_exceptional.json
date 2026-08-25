@@ -1,0 +1,98 @@
+{"recipes": [
+
+     {"id": "_gather.retrieve.key",
+"label": "Quelque chose de Familier",
+"extantreqs":{"key.hush.house":-1},
+"aspects":{"fatiguing.ability":1},
+"reqs": {"ability":1,"skill":1},
+"effects":{"key.hush.house":1},
+"warmup":90,
+"craftable":true},
+
+
+{"id": "gather.garden.plot.key",
+"actionid": "garden.plot.*",
+"startdescription": "Un coin de quelque chose de métallique dépasse du sol…",
+"desc": "Voici encore une fois la Clé de la Hush House, à moitié enterrée dans le jardin.",
+"inherits":"_gather.retrieve.key"},
+
+
+{"id": "gather.beachcombing.key",
+"actionid": "world.beachcombing",
+"startdescription": "Quelque chose à moitié enfoui dans le sable…",
+"desc": "Une clé en fer familière s'est échouée sur la plage.",
+"inherits":"_gather.retrieve.key"},
+
+{"id": "gather.nests.key",
+"actionid": "world.nests",
+"startdescription": "Le scintillement lumineux du métalle…",
+"desc": "Une clé en fer familière est coincée dans une crevasse.",
+"inherits":"_gather.retrieve.key"},
+
+
+{"id": "gather.caves.key",
+"actionid": "world.caves",
+"startdescription": "Le scintillement lumineux du métalle…",
+"desc": "Une clé de fer familière se trouve dans un bassin rocheux peu profond.",
+"inherits":"_gather.retrieve.key"},
+
+
+{"id": "gather.well.key",
+"actionid": "library.well",
+"label": "Puiser de l'eau",
+"extantreqs":{"key.hush.house":-1},
+"reqs": {"ability":1},
+"aspects":{"fatiguing.ability":1},
+"effects":{"key.hush.house":1},
+"startdescription": "Un étrange raclement en dessous…",
+"desc": "Une clé en fer familière se niche dans le seau.",
+"warmup":90,
+"craftable":true},
+
+{"id": "gather.echidna.moor",
+"actionid": "world.moor",
+"label":"Inviter Échidna, la Mère des Monstres, à Brancrug",
+"startdescription": "L'invocation doit être effectuée hors d'écoute de toute oreille profane - et loin de toute protection concevable.",
+"desc": "Je verse le lait en un large cercle et je le regarde s'enfoncer dans la terre griffée. Des yeux de serpent brillent dans les ajoncs. Le vent se lève en sifflant. La pluie déferle du ciel. J'ai attiré l'attention de quelqu'un.",
+"reqs":{"ability":1,"technique.summon.echidna":1,"scale":7,"serpentmilk":1},
+"aspects":{"fatiguing":1},
+"preslots": [{"id": "serpentmilk","label":"Serpent-Milk","essential":{"serpentmilk":1}}],
+"warmup":60,
+"craftable":true,
+"linked":[{"id":"echidna.summon.normal"},
+{"id":"echidna.summon.persistent"}]
+},
+
+{"id": "echidna.summon.normal",
+"extantreqs":{"echidna.inspired":-1},
+"effects":{"echidna.enroute":1}
+},
+
+{"id": "echidna.summon.persistent",
+"extantreqs":{"echidna.inspired":1},
+"effects":{"echidna.enroute.persistent":1}
+},
+
+
+{"id": "gather.echidna.moor.hint",
+"actionid": "world.moor",
+"label":"Invoquer ou rassembler?",
+"startdescription": "[Pour invoquer Échidna, il faut fournir du Lait-de-Serpent et un total de 7 <sprite name=scale> - ou ne pas tenir compte de ces exigences et essayer de chercher dans les landes comme d'habitude]",
+"reqs":{"ability":1,"technique.summon.echidna":1},
+"aspects":{"fatiguing":1},
+"preslots": [{"id": "serpentmilk","label":"Serpent-Milk","essential":{"serpentmilk":1}}],
+"craftable":true,
+"linked":"gather.moor.*"
+}
+
+
+
+
+
+
+
+
+  
+]
+}
+    

@@ -1,0 +1,150 @@
+{"recipes": [
+
+  {"id":"unveil.altar.lady.serpentroot.hillhollow",
+  "actionid":"library.altar.lady",
+  "label":"Reveal a Treasure of the House",
+  "startdescription":"Make the proper invocations to the powers below the Earth, to reveal a treasure of the House.",
+  "desc":"There in a smoothed hollow at the altar's foot - something coiled like a serpent, but stiller by far.",
+  "extantreqs":{"t.serpentroot":-1},
+  "reqs":{"s.hill.hollow":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.serpentroot":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.altar.lady.serpentroot.tridesmahiera",
+  "actionid":"library.altar.lady",
+  "label":"Reveal a Treasure of the House",
+  "startdescription":"Make the proper invocations to the Three, to reveal a treasure of the House.",
+  "desc":"There in a smoothed hollow at the altar's foot - something coiled like a serpent, but stiller by far.",
+  "extantreqs":{"t.serpentroot":-1},
+  "reqs":{"s.tridesmahiera":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.serpentroot":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.oubliette.thesunsdesign.scar",
+  "actionid":"library.oubliette",
+  "label":"Unveil a Treasure of the House",
+  "startdescription":"Name the scars in iron and night, to unveil a treasure of the House.",
+  "desc":"Here, impossibly preserved, enfolded in the scars inflicted by the former prisoner's energies.",
+  "extantreqs":{"t.thesunsdesign":-1},
+  "reqs":{"s.disciplines.thescar":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesunsdesign":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.oubliette.thesunsdesign.hammer",
+  "actionid":"library.oubliette",
+  "label":"Unveil a Treasure of the House",
+  "startdescription":"Align the surfaces of fire and air, to unveil a treasure of the House.",
+  "desc":"Here, impossibly preserved, enfolded in the cage wrought to contain the former prisoner's energies.",
+  "extantreqs":{"t.thesunsdesign":-1},
+  "reqs":{"s.disciplines.thehammer":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesunsdesign":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.altar.chancel.thesundisfigured.sacralimiae",
+  "actionid":"library.altar.chancel*",
+  "label":"Reveal a Treasure of the House",
+  "startdescription":"Make the necessary invocations to the Three, to reveal a treasure of the House.",
+  "desc":"There in a narrow darkness beneath the lip of the altar's top - something waiting for me.",
+  "extantreqs":{"t.thesundisfigured":-1},
+  "reqs":{"s.sacralimiae":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesundisfigured":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  
+  {"id":"unveil.altar.chancel.thesundisfigured.sickle.eclipse",
+  "actionid":"library.altar.chancel*",
+  "label":"Reveal a Treasure of the House",
+  "startdescription":"Make the long-forbidden invocations to the Three, to reveal a treasure of the House.",
+  "desc":"There in a narrow dark beneath the lip of the altar's top - something waiting for me.",
+  "extantreqs":{"t.thesundisfigured":-1},
+  "reqs":{"s.sickle.eclipse":1,"ability":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thesundisfigured":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.rowenarium.towardsafundamentalaestheticsecondedition",
+  "actionid":"library.rowenarium*",
+  "label":"Reveal a Treasure of the House",
+  "startdescription":"If I insert a sufficient key...",
+  "desc":"It is very hard, among the reflections of the Rowenarium, to understand what exactly, or who, has just opened - but I can see very clearly what has just been revealed.",
+  "extantreqs":{"t.towardsafundamentalaestheticsecondedition":-1},
+  "reqs":{"knock":3,"winter":3,"key":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.towardsafundamentalaestheticsecondedition":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.altar.tentreto.thewritingonthewall.preliminal",
+  "actionid":"library.altar.tentreto*",
+  "label":"Elucidate Enlightenment from an Earlier Era",
+  "startdescription":"If I know what I'm doing - or perhaps acknowledge that I have no idea what I'm doing - I could curl up in the cold beneath the silent statue's shadow, and see what surfaces in sleep.",
+  "desc":"I recall how in sleep I heard the changeling's carven churrings. I recall how in sleep I curled my fingers into the forms I found. I recall how in sleep I scratched the signs of secrets spoken to my other self. Here I hold them in my hands.",
+  "extantreqs":{"t.thewritingonthewall":-1},
+  "reqs":{"s.preliminalmeter":1,"ability":1,"ink":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thewritingonthewall":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+  {"id":"unveil.altar.tentreto.resurgences",
+  "actionid":"library.altar.tentreto*",
+  "label":"Elucidate Enlightenment from an Earlier Era",
+  "startdescription":"If I know what I'm doing - or perhaps acknowledge that I have no idea what I'm doing - I could curl up in the cold beneath the silent statue's shadow, and see what surfaces in sleep.",
+  "desc":"I recall how in sleep I heard the changeling's carven churrings. I recall how in sleep I curled my fingers into the forms I found. I recall how in sleep I scratched the signs of secrets spoken to my other self. Here I hold them in my hands.",
+  "extantreqs":{"t.thewritingonthewall":-1},
+  "reqs":{"s.resurgences.emergences":1,"ability":1,"ink":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thewritingonthewall":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+
+  {"id":"unveil.bed.stone.threeandthethreestchiavi.inviolable",
+  "actionid":"library.bed.*",
+  "label":"Locate a Lost Treasure of the House",
+  "startdescription":"Sleep with the stone as a pillow. I don't know why, but I know a little of what the Calyptra has decreed, and what they have permitted.",
+  "desc":"Ninety-nine winks. And I wake with a book cradled in my arms.",
+  "extantreqs":{"t.thethreeandthethreestchiavimanuscript":-1},
+  "reqs":{"s.edictsinviolable":1,"ability":1,"stone.indecipherable":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thethreeandthethreestchiavimanuscript":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  },
+
+  {"id":"unveil.bed.stone.threeandthethreestchiavi.liminal",
+  "actionid":"library.bed.*",
+  "label":"Locate a Lost Treasure of the House",
+  "startdescription":"Sleep with the stone as a pillow. I don't know why, but I know a little of what the Calyptra has decreed, and what they have permitted.",
+  "desc":"Ninety-nine winks. And I wake with a book cradled in my arms.",
+  "extantreqs":{"t.thethreeandthethreestchiavimanuscript":-1},
+  "reqs":{"s.edictsliminal":1,"ability":1,"stone.indecipherable":1},
+  "aspects":{"fatiguing":1},
+  "effects":{"t.thethreeandthethreestchiavimanuscript":1},
+  "warmup":60,
+  "craftable":true,"ambittable":false
+  }
+
+
+
+]
+}

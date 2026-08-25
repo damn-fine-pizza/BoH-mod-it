@@ -1,0 +1,79 @@
+{
+ "elements": [
+  {
+   "id": "credits.wf",
+   "label": "WEATHER FACTORY È...",
+   "desc": ""
+  },
+  {
+   "id": "credits.ak",
+   "label": "Design, Scrittura, Programmazione",
+   "desc": "Alexis Kennedy"
+  },
+  {
+   "id": "credits.lb",
+   "label": "Arte, Produzione, Marketing",
+   "desc": "Lottie Bevan"
+  },
+  {
+   "id": "credits.moar",
+   "label": "\nE SALUTIAMO I NOSTRI COLLABORATORI...",
+   "desc": ""
+  },
+  {
+   "id": "credits.additionalcoding",
+   "label": "Codice Aggiuntivo",
+   "desc": "Roman Loskutov, Knights of Unity, Frgm"
+  },
+  {
+   "id": "credits.additionalart",
+   "label": "Arte Aggiuntiva",
+   "desc": "Adrian Deggan, Clockwork Cuckoo, Catherine Unger"
+  },
+  {
+   "id": "credits.music",
+   "label": "Musica",
+   "desc": "Maribeth Solomon & Brent Barkman per Mickymar Productions Ltd\n                    – RIP Micky Erbe –"
+  },
+  {
+   "id": "credits.sfx",
+   "label": "Effetti Sonori",
+   "desc": "SoundCuts"
+  },
+  {
+   "id": "credits.blankspace2",
+   "label": "Localizzazione Italiana",
+   "desc": "Traduzione: damn-fine-pizza\nCopertine dei libri ridisegnate con le sigle italiane"
+  },
+  {
+   "id": "credits.localisation.zhhans.cjk",
+   "label": "Localizzazione Cinese (Dove Archive)",
+   "desc": "\nCoordinamento: Karl Lin (林孙)\n Traduzione: Aigalas, Calendra, Lady Worm, Lester, Lokie, Marumba Dyras, Sero_2048, Sherri 梨, WM, 埃拉伽巴路斯, 沼泽渡鸦, 果茶, 鹤田阳葵, 黑叶残荷, 幻想家, 龙 的三次方, 暮色天帷, 褰澜, 天国君, 跳塔轮铡, 团块, 褪色回亿, 寻忆, 一般路过灯人, 幽空\nArtista Titolo Principale: 囤囤"
+  },
+  {
+   "id": "credits.localisation.ru",
+   "label": "Localizzazione Russa (RIOTLOC)",
+   "desc": "\nCoordinamento: Christina Ignatenko, Maria Yunger\n Traduzione: Mikhail Shvyriaev, Boris Shapiro"
+  },
+  {
+   "id": "credits.localisation.zhhans.hol.cjk",
+   "label": "Localizzazione Cinese HOUSE OF LIGHT:",
+   "desc": "Traduttori: 阿娜斯达奇, 团块, 三度迎来落日, 白前Cynanchum, 一瓶多芬洗面奶（试用装）,泷川葵, AloneOnGallifrey, 入迷鼠\nCoordinamento: Karl Lin (林孙)"
+  },
+  {
+   "id": "credits.localisation.jp",
+   "label": "Localizzazione Giapponese:",
+   "desc": "ClocQ, ぺぽた"
+  },
+  {
+   "id": "credits.localisation.steam.cjk",
+   "label": "Localizzazione Pagina Steam Di",
+   "desc": "Pedro Egler, Clocq, ぺぽた, Pierre Cathé, Revan Ji, Karl Sun, 天国君, Calendra, 寻七得七, 阿克里, 寻忆, Marumba Dyras, 历史分析学家喵, 夜雨, Fedor Rumyantsev, Diego Arellano, Leonardo Abate, Clara K"
+  },
+  {
+   "id": "credits.specialthanks",
+   "label": "Ringraziamenti Speciali",
+   "desc": "Tutti i nostri beta tester; Riley Labrecque per Steamworks.NET; Fingal’s Coffee su Trafalgar Road; Norman Chalk; Jonny Koschland e Mark Lewis; Alex Tutty e Anna Poulter-Jones; PK e Sonja; Matt e Taz; Sulo e Chi"
+  }
+ ]
+}

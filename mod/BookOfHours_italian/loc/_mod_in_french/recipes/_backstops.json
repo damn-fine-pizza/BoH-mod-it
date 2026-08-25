@@ -1,0 +1,10 @@
+{"recipes": [
+ 
+{"id": "deskhint",
+"label": "À un bureau",
+"actionid": "desk*",
+"startdescription": "À un bureau, vous pouvez écrire et déchiffrer des documents. Ajoutez de l'Encre pour les écrire ; ajoutez des cartes Âme et Compétence pour changer votre approche.",
+"hintonly":true
+}
+]
+}

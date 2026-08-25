@@ -1,0 +1,150 @@
+{
+	"elements": [
+        {
+            "id": "e.illumination",
+            "label": "Evolve via Illumination",
+            "desc": "I could use Illumination with this to evolve my Soul. [Once you've committed a skill to the Illumination Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+            "icon":"w.illumination",
+            "isAspect": true,
+			"sort":"group2_challenges.0"
+        },
+        {
+            "id": "e.horomachistry",
+            "label": "Evolve via Horomachistry",
+            "desc": "I could use Horomachistry with this to evolve my Soul. [Once you've committed a skill to the Horomachistry Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+            "icon":"w.horomachistry",
+            "isAspect": true,
+			"sort":"group2_challenges.0"
+        },
+        {
+            "id": "e.ithastry",
+            "label": "Evolve via Ithastry",
+            "desc": "I could use Ithastry with this to evolve my Soul. [Once you've committed a skill to the Ithastry Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+            "icon":"w.ithastry",
+            "isAspect": true,
+			"sort":"group2_challenges.0"
+        },
+        {
+            "id": "e.hushery",
+            "label": "Evolve via Hushery",
+            "desc": "I could use Hushery with this to evolve my Soul. [Once you've committed a skill to the Hushery Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+            "icon":"w.hushery",
+            "isAspect": true,
+			"sort":"group2_challenges.0"
+        },
+        {
+            "id": "e.nyctodromy",
+            "label": "Evolve via Nyctodromy",
+            "desc": "I could use Nyctodromy with this to evolve my Soul. [Once you've committed a skill to the Nyctodromy Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+            "icon":"w.nyctodromy",
+            "isAspect": true,
+			"sort":"group2_challenges.0"
+        },
+        {
+            "id": "e.skolekosophy",
+            "label": "Evolve via Skolekosophy",
+            "desc": "I could use Skolekosophy with this to evolve my Soul. [Once you've committed a skill to the Skolekosophy Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+            "icon":"w.skolekosophy",
+            "isAspect": true,
+			"sort":"group2_challenges.0"
+        },
+
+
+{
+    "id": "e.birdsong",
+    "label": "Evolve via Birdsong",
+    "desc": "I could use Birdsong with this to evolve my Soul. [Once you've committed a skill to the Birdsong Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+    "icon":"w.birdsong",
+    "isAspect": true,
+    "sort":"group2_challenges.z"
+},
+{
+    "id": "e.bosk",
+    "label": "Evolve via Bosk",
+    "desc": "I could use Bosk with this to evolve my Soul. [Once you've committed a skill to the Bosk Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+    "icon":"w.bosk",
+    "isAspect": true,
+    "sort":"group2_challenges.0"
+},
+{
+    "id": "e.preservation",
+    "label": "Evolve via Preservation",
+    "desc": "I could use Preservation with this to evolve my Soul. [Once you've committed a skill to the Preservation Wisdom, you can use that skill with this to combine two identical Soul cards into a greater one. But you must use a skill you've attuned to that Wisdom, and the attunement will only work once.]",
+    "icon":"w.preservation",
+    "isAspect": true,
+    "sort":"group2_challenges.0"
+},
+{
+    "id": "a.xhausted",
+    "label": "Attunement Fulfilled",
+    "desc": "This skill has already been used to evolve an Element of the Soul.",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+
+{
+    "id": "a.xcho",
+    "label": "Attuned: Chor",
+    "desc": "This skill is attuned to my Chor. [When you committed this Skill to the Tree, you gained Chor. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Chor cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xere",
+    "label": "Attuned: Ereb",
+    "desc": "This skill is attuned to my Ereb. [When you committed this Skill to the Tree, you gained Ereb. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Ereb cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xfet",
+    "label": "Attuned: Fet",
+    "desc": "This skill is attuned to my Fet. [When you committed this Skill to the Tree, you gained Fet. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Fet cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xhea",
+    "label": "Attuned: Health",
+    "desc": "This skill is attuned to my Health. [When you committed this Skill to the Tree, you gained Health. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Health cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xmet",
+    "label": "Attuned: Mettle",
+    "desc": "This skill is attuned to my Mettle. [When you committed this Skill to the Tree, you gained Mettle. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Mettle cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xpho",
+    "label": "Attuned: Phost",
+    "desc": "This skill is attuned to my Phost. [When you committed this Skill to the Tree, you gained Phost. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Phost cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xsha",
+    "label": "Attuned: Shapt",
+    "desc": "This skill is attuned to my Shapt. [When you committed this Skill to the Tree, you gained Shapt. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Shapt cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xtri",
+    "label": "Attuned: Trist",
+    "desc": "This skill is attuned to my Trist. [When you committed this Skill to the Tree, you gained Trist. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Trist cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+},
+{
+    "id": "a.xwis",
+    "label": "Attuned: Wist",
+    "desc": "This skill is attuned to my Wist. [When you committed this Skill to the Tree, you gained Wist. Find somewhere with a matching Evolve aspect, and you can use the Skill - once only - to combine two Wist cards into a stronger card.]",
+    "isAspect": true,
+    "sort":"group3_me"
+}
+
+    ]
+}

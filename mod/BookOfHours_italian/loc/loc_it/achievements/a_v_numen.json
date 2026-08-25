@@ -1,0 +1,73 @@
+{
+ "achievements": [
+  {
+   "id": "A_CATEGORY_V_NUMEN",
+   "label": "Numen Compiuto"
+  },
+  {
+   "id": "A_V_NUMEN_OLDL",
+   "label": "Numen: Quella Vecchia Musica Perduta",
+   "descriptionunlocked": "Ogni canzone mai cantata indugia ancora nel vento e nell’eco, non toccata dalle pretese dell’Eternità..."
+  },
+  {
+   "id": "A_V_NUMEN_UNDE",
+   "label": "Numen: una Comprensione Definitiva",
+   "descriptionunlocked": "L’Eternità e la Storia non possono conciliarsi. La Libertà non può essere perfezione – a meno che non si comprenda il paradosso della fine eterna..."
+  },
+  {
+   "id": "A_V_NUMEN_BALA",
+   "label": "Numen: Ritorno all’Equilibrio",
+   "descriptionunlocked": "Quando le stirpi erranti del Carapace passarono oltre l’onda e il cielo, presero disposizioni per il loro ritorno..."
+  },
+  {
+   "id": "A_V_NUMEN_THRE",
+   "label": "Numen: Tre Regole",
+   "descriptionunlocked": "Se conosciamo quelle regole più profonde, conosciamo ciò che nemmeno il Chancel e la Calyptra possono fare..."
+  },
+  {
+   "id": "A_V_NUMEN_LOOP",
+   "label": "Numen: Scappatoie",
+   "descriptionunlocked": "Quando l’Eternità giunse nel mondo, certe potenze prudenti predisposero scappatoie. Quelle scappatoie potrebbero aprirsi di nuovo..."
+  },
+  {
+   "id": "A_V_NUMEN_DESC",
+   "label": "Numen: la Debolezza del Sole",
+   "descriptionunlocked": "I peccati del Sole e le cicatrici del Sole sono la nostra salvezza. Ci sono Storie in cui ci intrappolano..."
+  },
+  {
+   "id": "A_V_NUMEN_BELL",
+   "label": "Numen: le Campane di Ys",
+   "descriptionunlocked": "Ys, grazie alle sue arti, trovò il tono di percussione che scuote le Ore. Una campana fusa con questo segreto potrebbe pronunciare la nota-Ys..."
+  },
+  {
+   "id": "A_V_NUMEN_SECR",
+   "label": "Numen: la Grande Contraffazione",
+   "descriptionunlocked": "Il Sole-in-Splendore e la Forgia dei Giorni non potevano unirsi. Ma Celia del Tramonto e il Re Cigno potevano..."
+  },
+  {
+   "id": "A_V_NUMEN_WORL",
+   "label": "Numen: Tessere il Mondo",
+   "descriptionunlocked": "Le Storie sono, dicono, intrecciate come capelli – o aggrovigliate come radici. Quale forma ha quel nodo...?"
+  },
+  {
+   "id": "A_V_NUMEN_FEAS",
+   "label": "Numen: un Banchetto Irresistibile",
+   "descriptionunlocked": "La Fame fece Vermi dei Draghi. Ma senza il segreto-sapore del Carapace, la loro fame non sarebbe bastata..."
+  },
+  {
+   "id": "A_V_NUMEN_ALTE",
+   "label": "Numen: un’Alterazione Spietata",
+   "descriptionunlocked": "Il difetto fondamentale; la scorciatoia irresistibile; l’odio che riscalda; il cambiamento che deturpa; la cicatrice che si apre..."
+  },
+  {
+   "id": "A_V_NUMEN_CONF",
+   "label": "Numen: Confinamento Ineluttabile",
+   "descriptionunlocked": "C’è un solo luogo in cui sei al sicuro da Eternità e Storia, e non è un luogo in cui qualcuno vorrebbe stare..."
+  },
+  {
+   "id": "A_V_NUMEN_ASCE",
+   "label": "Numen: I Sentieri del Sole",
+   "descriptionunlocked": "Il Sole ha tracciato i suoi Sentieri – sentieri oltre muri e boschi e Confini. Quando saremo pronti, entreremo tutti nell’Eternità..."
+  }
+ ]
+}

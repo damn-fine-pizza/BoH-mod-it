@@ -1,0 +1,219 @@
+{
+    "verbs": [
+
+      {
+        "id": "library.fireplace.entrance",
+      "category": "Workstation",
+      "label": "Entrance Hall Fireplace",
+        "desc": "Visitors found the warmth welcome after the battering winds of the bridge crossing.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.hermit",
+      "category": "Workstation",
+      "label": "Hermit's Stove",
+        "desc": "Grumbling like an old man.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.infirmary",
+      "category": "Workstation",
+      "label": "Infirmary Fireplace",
+        "desc": "A welcome warmth.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.librarian",
+      "category": "Workstation",
+      "label": "Librarian's Quarters Fireplace",
+        "desc": "Even when the wind buffets at the windows, the fire in the hearth keeps the room cosy.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.lodge",
+      "category": "Workstation",
+      "label": "Lodge Fireplace",
+        "desc": "Fire always accepts gifts. And boils the kettle for tea.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.long1",
+      "category": "Workstation",
+      "label": "Long Tower Study Fireplace",
+        "desc": "The fireplace doesn't exactly warm the room, but it keeps the chill more or less at bay.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.mirrors",
+      "category": "Workstation",
+      "label": "Hall of Division Fireplace",
+        "desc": "The firelight reflections in the mirrors are difficult to describe without risking a foray into pentameter.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.pale",
+      "category": "Workstation",
+      "label": "Pale Chamber Fireplace",
+        "desc": "Fire always accepts gifts. And boils the kettle for tea.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.refectory",
+      "category": "Workstation",
+      "label": "Refectory Fireplace",
+        "desc": "The fire mutters companionably in the grate.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.servants",
+      "category": "Workstation",
+      "label": "Servants' Hall Fireplace",
+        "desc": "The coals glow.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.staffroom",
+      "category": "Workstation",
+      "label": "Staff-Room Stove",
+        "desc": "A quiet little furnace.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "library.fireplace.westcott",
+      "category": "Workstation",
+      "label": "Westcott Room Fireplace",
+        "desc": "This is the only place in the House where fire was permitted near books.",
+        "audio":"Fire",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"correspondence":1}}]
+      },
+      {
+        "id": "world.sea.boathouse",
+      "category": "Workstation",
+      "label": "Brancrug Boathouse",
+        "desc": "The boat is gone, the Sea remains. That is, of course, the way it usually works. [Discard objects here; release beasts; or go for a swim.]",
+        "audio":"Splash",
+        "slots": [        {"id": "thing","label": "Object", "required":{"thing":1,"beast":1,"ability":1},"forbidden":{"fatigued":1,"malady":1}}]
+      },
+      {
+        "id": "world.sea.crane",
+      "category": "Workstation",
+      "label": "Loading Dock Crane",
+      "audio":"CreakingWheels",
+      "comments":"The only sea workstation which doesn't accept Abilities - prisoners couldn't swim to freedom.",
+        "desc": "Long ago, this was the route by which provisions entered the gaol, and by which prisoners failed to escape. [Discard objects here, or release beasts.]",
+        "slots": [         {"id": "thing","label": "Thing", "required":{"thing":1,"beast":1}}]
+      },
+      {
+        "id": "library.well",
+      "category": "Workstation",
+      "label": "Hush House Well",
+      "audio":"Splash",
+        "desc": "Here I can draw up water - or drop something in, most likely to be lost forever.",
+        "slots": [  {"id": "a","label": "Effort", "essential":{"ability": 1,"heart":1},"forbidden":{"fatigued":1,"malady":1}},
+        {"id": "thing","label": "Thing", "required":{"thing":1,"penny":1}}]
+      },
+      {
+        "id": "world.sea.beach",
+      "category": "Workstation",
+      "label": "Sea's Edge",
+      "audio":"sand",
+        "desc": "The Sea is always hungry; the Sea never sleeps; the Sea accepts offerings. [Discard objects here; release beasts; or go for a swim.]",
+        "slots": [
+        {"id": "object","label": "Object", "required":{"thing":1,"beast":1,"penny":1,"ability":1},"forbidden":{"fatigued":1,"malady":1}}]
+      },
+{	       "id": "world.tree.gate",
+	"label": "The Earl's Yew",	
+  "desc": "Since the Conquest, this has been waiting for you. The irreverent might even call it a <i>you tree</i>.",
+	"audio":"GardenMeadow",	
+"slots": [
+{	"id": "a","label": "Soul", "essential":{"ability": 1}},
+{	"id": "j","label": "Journal" ,
+"required":{  "journal":1}
+	}],	
+ 	"category": "Workstation"	},
+
+      {	       "id": "station.serving.lodge",
+      	"label": "Serve Here",	"desc": "Plates, cups and glasses, so that if I want to offer someone wine, I needn't give them the whole bottle.",
+        "audio":"Glassware",
+        	"slots": [{	"id": "p","label": "Serve", "essential":{"distributable": 1}}],
+            	"category": "Workstation"	},
+
+              {	       "id": "station.serving.kitchen",
+              "label": "Serve Here",	"desc": "Plates, cups and glasses, so that if I want to offer someone wine, I needn't give them the whole bottle.",
+              "audio":"Glassware",
+                "slots": [{	"id": "p","label": "Serve", "essential":{"distributable": 1}}],
+                    "category": "Workstation"	},
+
+                    {	       "id": "station.serving.gaol",
+                    "label": "Serve Here",	"desc": "Plates, cups and glasses, so that if I want to offer someone wine, I needn't give them the whole bottle.",
+                    "audio":"Glassware",
+                      "slots": [{	"id": "p","label": "Serve", "essential":{"distributable": 1}}],
+                          "category": "Workstation"	},
+
+              {	       "id": "pumps.upper",
+              "label": "Pumps: Upper Level",
+              	"desc": "The Curia installed these pumps to drain the lower levels - but they installed them in the late nineteenth century. I'll need to provide suitable materials and fuel - and I'll need a Prentice-level of Forge to jury-rig them.",
+                "audio":"pumps",
+                "hints": ["forge","knock"],
+                "slots": [{	"id": "s","label": "Skill", "essential":{"skill": 1},"required":{"forge":1,"knock":1}},
+                {	"id": "a","label": "Soul", "essential":{"ability": 1},"forbidden":{"fatigued":1}},
+                {	"id": "l","label": "Fuel", "essential":{"liquid": 1,"fuel":1}},
+                {	"id": "m1","label": "Metal", "essential":{"metal": 1}},
+                {	"id": "m2","label": "Metal", "essential":{"metal": 1}}
+              ],
+              "aspects":{"difficulty.prentice":5},      
+                "category": "Workstation"
+        	},
+
+          {	       "id": "pumps.lower",
+          "label": "Pumps: Lower Level",
+          "desc": "These machines are of different and newer manufacture than the ones above. They include something like a generator, too. But they're in even worse condition. I'll need to provide suitable materials and fuel - and I'll need Scholar-level of Forge to jury-rig them.",
+          "audio":"pumps",
+          "hints": ["forge","knock"],
+            "slots": [{	"id": "s","label": "Skill", "essential":{"skill": 1},"required":{"forge":1,"knock":1}},
+            {	"id": "a","label": "Soul", "essential":{"ability": 1},"forbidden":{"fatigued":1}},
+            {	"id": "l","label": "Fuel", "essential":{"liquid": 1,"fuel":1}},
+            {	"id": "m1","label": "Metal", "essential":{"metal": 1}},
+            {	"id": "m2","label": "Metal", "essential":{"metal": 1}}
+          ],
+          "aspects":{"difficulty.scholar":10},
+            "category": "Workstation"
+      },
+
+      {	       "id": "library.kitchen.gaol",	"label": "Kitchen Range: Gaol",	"Desc": "The food served in Brancrug Gaol was unexpectedly hearty and tasty - in keeping with Collers' more humane theories of rehabilitation.",	"hints": ["scale","lantern","nectar","grail"],	"audio":"Fire",	"slots": [{	"id": "a","label": "Soul", "essential":{"ability": 1} ,"required":{"scale":1,"lantern":1,"nectar":1,"grail":1}	},{	"id": "s","label": "Skill", "essential":{"skill": 1} ,"required":{"scale":1,"lantern":1,"nectar":1,"grail":1}	},{	"id": "m","label": "Memory", "essential":{"memory": 1} ,"required":{"scale":1,"lantern":1,"nectar":1,"grail":1}	},
+      {	"id": "i1","label": "Ingredient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "i2","label": "Ingredient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "t1","label": "Kitchenware" ,"required":{"kitchenware":1,"knife":1}	}],	 "aspects":{"difficulty.prentice":5,"difficulty.scholar":10,"difficulty.keeper":15	},		"ambits":true,	"category": "Workstation"	},
+      {	       "id": "library.kitchen.hallofvoices",	"label": "Hearth: Hall of Voices",	"Desc": "Here, the priestesses prepared those meals which they would not, or could not, entrust to their servants.",	"hints": ["moon","edge","nectar","grail"],	"audio":"Fire",	"slots": [{	"id": "a","label": "Soul", "essential":{"ability": 1} ,"required":{"moon":1,"edge":1,"nectar":1,"grail":1}	},{	"id": "s","label": "Skill", "essential":{"skill": 1} ,"required":{"moon":1,"edge":1,"nectar":1,"grail":1}	},{	"id": "m","label": "Memory", "essential":{"memory": 1} ,"required":{"moon":1,"edge":1,"nectar":1,"grail":1}	},{	"id": "i1","label": "Ingredient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "i2","label": "Ingredient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "t1","label": "Kitchenware" ,"required":{"kitchenware":1,"knife":1}	}],	 "aspects":{"difficulty.prentice":5,"difficulty.scholar":10,"difficulty.keeper":15	},		"ambits":true,	"category": "Workstation"	},
+      {	       "id": "library.kitchen.servants",	"label": "Kitchen Range: Servants",	"Desc": "It's good luck for the villagers to bring little gifts of food to the Librarian. That's already become a tradition. But sometimes the Librarian wants a hot meal, and, these days, the Librarian is the only entity in the house that can cook.",	"hints": ["scale","heart","nectar","grail"],	"audio":"Fire",	"slots": [{	"id": "a","label": "Soul", "essential":{"ability": 1} ,"required":{"scale":1,"heart":1,"nectar":1,"grail":1}	},{	"id": "s","label": "Skill", "essential":{"skill": 1} ,"required":{"scale":1,"heart":1,"nectar":1,"grail":1}	},{	"id": "m","label": "Memory", "essential":{"memory": 1} ,"required":{"scale":1,"heart":1,"nectar":1,"grail":1}	},{	"id": "i1","label": "Ingredient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},{	"id": "i2","label": "Ingredient" ,"required":{"sustenance":1,"beverage":1,"root":1,"flower":1,"leaf":1,"fuel":1,"ingredient":1},"forbidden":{"fatigued":1}	},
+      {	"id": "t1","label": "Kitchenware" ,"required":{"kitchenware":1,"knife":1}	}],	 "aspects":{"difficulty.prentice":5,"difficulty.scholar":10,"difficulty.keeper":15	},		"ambits":true,	"category": "Workstation"	}
+    
+
+     
+    ]
+}

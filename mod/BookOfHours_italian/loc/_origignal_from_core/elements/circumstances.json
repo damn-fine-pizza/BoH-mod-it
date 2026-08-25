@@ -1,0 +1,21 @@
+{
+    "elements": [
+        {
+            "id": "circ.waters.receding",
+          "label": "Receding Waters",
+          "inherits":"_circumstance",
+          "aspects":{"forge":3,"knock":3},
+            "desc": "Once more, the waters are in retreat in the lower levels of the House.",
+                 "unique":true
+        },
+        {
+            "id": "circ.depths.uncovered",
+          "label": "Uncovered Depths",
+          "inherits":"_circumstance",
+          "aspects":{"moon":3,"scale":3},
+            "desc": "Once more, the sea has withdrawn from the caves of the Isle.",
+            "unique":true
+        }
+
+    ]
+}

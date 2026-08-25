@@ -1,0 +1,30 @@
+{
+	"elements": [
+
+		{"id":"tx.agdistis","label":"Consulted By...","desc":"Mr Peter Agdistis came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.aladim","label":"Consulted By...","desc":"Dr Ibn al-Adim came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.arthur","label":"Consulted By...","desc":"Lt Arthur Thomas Moore came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.arun","label":"Consulted By...","desc":"Dr Arun Peel came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.auntmopsy","label":"Consulted By...","desc":"Aunt Mopsy came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.azita","label":"Consulted By...","desc":"Azita Bukhara came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.chaima","label":"Consulted By...","desc":"Lalla Chaima came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.connie","label":"Consulted By...","desc":"MCO Constance Lee came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.coquille","label":"Consulted By...","desc":"Princess Coquille Amirejibi came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.corso","label":"Consulted By...","desc":"Corso Reverte came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.dagmar","label":"Consulted By...","desc":"'Daymare' came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.douglas","label":"Consulted By...","desc":"DI Douglas Moore came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.ehsan","label":"Consulted By...","desc":"Ehsan Fekri came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.franklin","label":"Consulted By...","desc":"Lord Bancroft came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.fraser","label":"Consulted By...","desc":"Fraser Strathcoyne came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.hokobald","label":"Consulted By...","desc":"Magister Hokobald came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.julian","label":"Consulted By...","desc":"Julian Coseley came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.morgen","label":"Consulted By...","desc":"Mlle Matutine came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.olympe","label":"Consulted By...","desc":"Olympe Bechet came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.rowena","label":"Consulted By...","desc":"Rowena came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.serena","label":"Consulted By...","desc":"Dr Serena Blackwood came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.stanislav","label":"Consulted By...","desc":"Father Schaller came to the House seeking my help; so I let him consult this.", "isaspect":true},
+		{"id":"tx.yvette","label":"Consulted By...","desc":"Dr Southey came to the House seeking my help; so I let her consult this.", "isaspect":true},
+		{"id":"tx.zachary","label":"Consulted By...","desc":"Wakefield came to the House seeking my help; so I let him consult this.", "isaspect":true}	
+
+	]
+}

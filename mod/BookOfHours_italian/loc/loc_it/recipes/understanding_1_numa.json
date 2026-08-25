@@ -1,0 +1,59 @@
+{
+ "recipes": [
+  {
+   "id": "u.numa.skill.hint.committed",
+   "label": "A Numa...",
+   "startdescription": "In questa stagione, la memoria può talvolta essere uno specchio; ma non tutti gli specchi si possono infrangere. [Se questa Abilità non fosse ancora stata assegnata all’Albero, Numa ti avrebbe offerto un’azione insolita.]"
+  },
+  {
+   "id": "u.numa.skill.hint",
+   "label": "A Numa...",
+   "startdescription": "In questa stagione, la memoria può talvolta essere uno specchio; il che significa, fra le altre cose, che potremmo considerarne la frantumazione. [Aggiungi un Elemento dell’Anima per scoprire un’azione insolita disponibile solo a Numa.]"
+  },
+  {
+   "id": "u.numa.skill.1",
+   "startdescription": "Questa nebbia passerà. Cosa passerà con essa? <i>[Puoi scegliere di dimenticare tutto ciò che sai di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai una Lezione di Molte Sfaccettature, che può essere usata per migliorare qualsiasi altra abilità, ma che svanisce sempre all’alba – e che non può essere usata per riottenere l’abilità perduta.]</i>",
+   "desc": "[Usa saggiamente la tua Lezione di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.2to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità, riducendola al livello 1 – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 1 Lezione di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui... poiché per quanto molto rimanga, qualcosa viene sempre tolto. Le Lezioni di Molte Sfaccettature possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.3to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 4 Lezioni di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui... poiché per quanto molto rimanga, qualcosa viene sempre tolto. Le Lezioni di Molte Sfaccettature possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.4to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 8 Lezioni di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui... poiché per quanto molto rimanga, qualcosa viene sempre tolto. Le Lezioni di Molte Sfaccettature possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.5to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 13 Lezioni di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui... poiché per quanto molto rimanga, qualcosa viene sempre tolto. Le Lezioni di Molte Sfaccettature possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.6to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 19 Lezioni di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui, che possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.7to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 26 Lezioni di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui... poiché per quanto molto rimanga, qualcosa viene sempre tolto. Le Lezioni di Molte Sfaccettature possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.8to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 34 Lezioni di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui... poiché per quanto molto rimanga, qualcosa viene sempre tolto. Le Lezioni di Molte Sfaccettature possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  },
+  {
+   "id": "u.numa.skill.9to1",
+   "startdescription": "Quel bagliore nella nebbia – è il Sole? Potrebbe essere imprudente fissarlo. <i>[Puoi scegliere di dimenticare quasi tutto ciò che hai imparato di questa Abilità – poiché non l’hai ancora assegnata all’Albero delle Sapienze. Otterrai 43 Lezioni di Molte Sfaccettature, una in meno di quante ne hai spese per arrivare fin qui... poiché per quanto molto rimanga, qualcosa viene sempre tolto. Le Lezioni di Molte Sfaccettature possono essere usate per migliorare qualsiasi Abilità, ma svaniscono sempre all’alba.]</i>",
+   "desc": "[Questa abilità è ora di livello 1. Usa saggiamente le tue Lezioni di Molte Sfaccettature.]"
+  }
+ ]
+}

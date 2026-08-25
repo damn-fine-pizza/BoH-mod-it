@@ -1,0 +1,119 @@
+{"recipes": [
+
+
+    {
+        "id":"village.invite.timothy",
+         "label": "Invite the Rector to a Salon",
+         "actionid": "village.rectory.open*",
+         "startdescription":"Invite Reverend Timothy up to Hush House.",
+         "desc": "Reverend Timothy is almost speechless with excitement... almost. [Timothy has sent a gift ahead.]",
+         "reqs":{"wc":1},
+         "extantreqs":{"salon.past":-1,"visitor.villager":-1},
+         "effects":{"visiting.timothy":1},
+         "internaldeck": {
+            "spec": [
+                  "plums",
+                  "plums",
+                  "veg.basket.apples",
+                  "veg.basket.apples",
+                  "fruit.bowl.pears",
+                  "fruit.bowl.pears",
+                  "jam.blackberry"
+            ],
+            "draws": 1,
+            "defaultcard": "jam.blackberry",
+            "resetonexhaustion": true
+                        },   
+         "aspects":{"fatiguing.ability":1},
+               "warmup": 7
+     },
+     {
+        "id":"village.invite.denzil",
+         "label": "Invite the Blacksmith to Hush House",
+         "actionid": "village.smithy.open*",
+         "startdescription":"Invite Denzil up to Hush House.",
+         "desc": "Denzil inclines his head in thanks. [Denzil has sent a gift ahead.]",
+         "reqs":{"wc":1},
+         "extantreqs":{"salon.past":-1,"visitor.villager":-1},
+         "effects":{"visiting.denzil":1},
+         "internaldeck": {
+            "spec": [
+                  "butter",
+                  "pheasant",
+                  "pheasant",
+                  "potatoes",
+                  "milk",
+                  "mushrooms"
+            ],
+            "draws": 1,
+            "defaultcard": "mushrooms",
+            "resetonexhaustion": true
+                        },   
+         "aspects":{"fatiguing.ability":1},
+               "warmup": 5
+     },
+     {
+        "id":"village.invite.killes",
+         "label": "Invite the Killes to Hush House",
+         "actionid": "village.killes.open*",
+         "startdescription": "Invite the Killes up to Hush House.",
+         "desc": "Mr Kille is clearly excited, and remains courteous. Mrs Kille is courteous, and may be excited: as ever, it's difficult to tell. [The Killes have sent a gift ahead.]",
+         "reqs":{"wc":1},
+         "extantreqs":{"salon.past":-1,"visitor.villager":-1},
+         "effects":{"visiting.killes":1},
+         "internaldeck": {
+            "spec": [
+                  "veg.marrow.acrid",
+                  "veg.marrow.dark",
+                  "veg.marrow.golden",
+                  "veg.marrow.pale",
+                  "pheasant",
+                  "pumpkin",
+                  "pumpkin.amber",
+                  "bottle.dandelionwine"
+            ],
+            "draws": 1,
+            "defaultcard": "pumpkin",
+            "resetonexhaustion": true
+                        },   
+         "aspects":{"fatiguing.ability":1},
+               "warmup": 5
+     },
+
+
+
+     {
+      "id":"village.invite.timothy.block.hint",
+       "label": "Not Just Now - ",
+       "actionid": "village.rectory.open*",
+       "startdescription":"[You can't invite Timothy to a Salon if you've already invited a villager or already held a Salon this Season.]",
+      "hintonly":true,
+       "reqs":{"wc":1}
+   },
+
+   {
+      "id":"village.invite.killes.block.hint",
+       "label": "Not Just Now - ",
+       "actionid": "village.killes.open*",
+       "startdescription":"[You can't invite the Killes to a Salon if you've already invited a villager or already held a Salon this Season.]",
+      "hintonly":true,
+       "reqs":{"wc":1}
+   },
+
+   {
+      "id":"village.invite.denzil.block.hint",
+       "label": "Not Just Now - ",
+       "actionid": "village.smithy.open*",
+       "startdescription":"[You can't invite Denzil to a Salon if you've already invited a villager or already held a Salon this Season.]",
+      "hintonly":true,
+       "reqs":{"wc":1}
+   }
+    
+
+    
+
+    
+    
+    ]
+    }
+    

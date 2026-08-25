@@ -1,0 +1,43 @@
+{"elements": [
+
+    {"id":"houseoflight.menu.intro",
+    "label":"IN THE HOUSE OF LIGHT",
+    "desc":"<i>HOUSE OF LIGHT</i> is a big expansion, woven deep into the game. Here's a spoiler-light guide on how to find to the new bits. \nNOTE: HOUSE OF LIGHT is compatible with existing saves, though once HOUSE OF LIGHT has touched a save, that save won't work if you remove the DLC."
+  },
+
+  
+
+{"id":"houseoflight.menu.food",
+"label":"FOOD",
+"desc":"Combine ingredients at the three Kitchen workstations to create dozens of new dishes. You'll need Kitchenware items to find all the recipes. \nTIP: The Spice Scales, and the Spices & Savours skill, will substitute for each other."
+},
+
+{"id":"houseoflight.menu.writingcase",
+"label":"A WRITING-CASE",
+"desc":"Watch for a gift at the end of the first Spring after you've responded to St Rhonwen's Trust. Once you've received this gift, you can record addresses from the calling-cards left by satisfied visitors (excepting those that only come during Numa); and write to these visitors to invite them back to the House.\nTIP: Visitors don't arrive instantly; visitors don't leave calling cards until you've helped them; and some visitors are easier to summon than others.\nNOTE: The ink Perinculate is dreadfully poisonous and cannot be used for invitations. If an invitation kills its recipient, they are unlikely to respond constructively."
+},
+
+{"id":"houseoflight.menu.salons",
+"label":"SALONS",
+"desc":"Place food and drink in one of the six Salon rooms, and then use the bell to begin a Salon. Do it right and you'll be rewarded with sparkling conversation... and Lessons.\nTIP: Visitors usually prefer food and drink which matches their primary Interest, but some have additional requirements.\nADVICE: Be careful about leaving books in Salon rooms, if you don't want guests to touch them."
+},
+
+{"id":"houseoflight.menu.manuscripts",
+"label":"MANUSCRIPTS",
+"desc":"Use Paper, Ink, and a Skill to write a Manuscript based on that skill. These Manuscripts may be necessary to satisfy thirsts for <i>specific</i> knowledge in FURTHER STORIES. Lessons from Salons will help you improve those Skills and write more useful Manuscripts.\nTIP: You can't reliably control what Visitors will discuss - it's a party, not an interrogation - but they'll usually provide lessons related to their shared Interests.\nNOTE: Perinculate cannot be used to write Manuscripts. It would be rude to write a manuscript that might kill visitors. (And Hokobald is probably immune anyway.)"
+},
+
+{"id":"houseoflight.menu.furtherstories",
+"label":"FURTHER STORIES",
+"desc":"Once you've completed an Incident, follow it up in the Tree of Wisdoms. Visitors will need more specific help here - perhaps a book on a specific topic, or a specific book. \nTIP: An Affair opens to Further Stories once all interested Visitors have had the opportunity to ask you for help with it. Be aware in some Further Stories, it can make a difference who you originally helped. <b>Be careful. This is the one part of the game where choices can sometimes have permanent consequences</b>."
+},
+
+{"id":"houseoflight.menu.institute",
+"label":"THE INSTITUTE",
+"desc":"Look for the lighthouse, out at sea. When your Visitors are ready, use it to establish the true heirs to the Curia of the Isle. \nTIP: Further Stories outcomes can inspire your Visitors to support the Institute - for their own reasons. Their nature is constant, but some story outcomes can make them decide to emphasise one agenda over another."
+}
+    
+
+    
+    
+    ] }

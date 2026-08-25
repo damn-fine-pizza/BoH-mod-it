@@ -1,0 +1,156 @@
+{
+    "verbs": [
+      {
+        "id": "nx",
+      "label": "NX: pteifdlc",
+      "multiple":true
+
+
+    },
+
+    {
+        "id": "lighthouse",
+      "label": "Behind the Scenes",
+      "category":"Workstation",
+      "desc":"The Curia of the Isle is long gone. Once, it helped preserve a little knowledge and a kind of safety here in Brancrug - and established the position of Librarian. Rowena, Secretary Persistent of the Curia, a complex entity who has long protected Hush House, is both exhausted and compromised... and so it's time for the Librarian to return the favour, and establish a successor to the Curia. [Help Visitors to pursue their goals and develop their Agendas. When you've found six suitable candidates inspired by Agendas, you can suggest they found an organisation that's a worthy successor to the Curia of the Isle. If you cannot find a suitable Secretary Persistent, Rowena will continue to serve in that role, even as she continues to wane.]",
+      "xtriggers":{"advancing":"lighthouse.convene"},
+      "slots":[
+        {"id":"treasurer","label":"Treasurer","description":"The Treasurer would be responsible for the Institute's finances. This would be a good excuse to ask for an an initial endowment - so they should be wealthy.","essential":{"inspired":1},"required":{"fraser":1,"coquille":1,"dagmar":1,"hokobald":1}},
+        {"id":"salvant","label":"Secretary Salvant","description":"The Secretary Salvant would lead the Institute's healing and restoration efforts.",
+        "essential":{"inspired":1},"required":{"agdistis":1,"ehsan":1,"stanislav":1,"suitable.secretary.salvant.surprise":1}},
+        {"id":"vigilant","label":"Secretary Vigilant","description":"The Secretary Vigilant would ensure the Institute's safety.",
+        "essential":{"inspired":1},"required":{"chaima":1,"arthur":1,"azita":1,"douglas":1}},
+        {"id":"enigmatic","label":"Secretary Enigmatic","description":"The Secretary Enigmatic would conceal or reveal the Institute's secrets.",
+        "essential":{"inspired":1},"required":{"yvette":1,"corso":1,"zachary":1,"arun":1}},
+        {"id":"nunciant","label":"Secretary Nunciant","description":"The Secretary Nunciant would communicate and negotiate with other organisations.",
+        "essential":{"inspired":1},"required":{"aladim":1,"olympe":1,"serena":1,"connie":1,"suitable.secretary.nunciant.surprise":1}},
+        {"id":"persistent","label":"Secretary Persistent","description":"The Secretary Persistent must not only be immortal, but must stand with one foot outside the laws of the Hours... and so she must always be a Ligeian.","essential":{"inspired":1},"required":{"suitable.secretary.persistent.surprise":1,"morgen":1}},
+        {"id":"journal","label":"Records","description":"The Librarian will record who and where.","required":{"journal":1}}
+     
+      ]
+    },
+    {
+      "id": "lighthouse.convene",
+    "label": "The Agreed Signal",
+    "category":"Workstation",
+    "desc":"The founders agreed that when the time was right, they'd return to Hush House. Perhaps that time is now. [Place your Journal here to invite the Lighthouse founders to the House. When all the Founders have arrived, bring them to a meeting in the Salon room of your preference, with light refreshments.]",
+    "slots":[
+      {"id":"ink","label":"Records","description":"The Librarian knows who and where.","required":{"journal":1}}
+      
+    ]
+
+
+  },
+
+      {
+        "id": "salon.refectory",
+        "category": "Salon",
+      "label": "A Salon in the Refectory",
+        "desc": "The room where once the Curia met: a fitting venue for a Salon. [Here one might serve Lunch in the afternoon, or Supper in the evening. A good host will provide at least one first course, one main course, one side dish, and one pudding.]",
+        "aspects":{"venue.formal":1},
+        "ambits":true,
+        "slots": [   {"id": "g1","label": "Guest", "required":{"visitor":1,"visitor.villager":1}},
+        {"id": "g2","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g3","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g4","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g5","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "p","label": "Secretary Persistent",
+        "description":"In Hush House, an empty place is often traditionally left at table for Rowena, protectress of Hush House, and once Secretary Persistent of the Curia of the Isle. [If you one day propose a successor for Rowena... seat them here.]",
+        "required":{"appointment.persistent":1}}
+        ],
+        "MaxNotes":9
+      },
+
+      {
+        "id": "salon.division",
+        "category": "Salon",
+      "label": "A Salon in the Hall of Division",
+        "desc": "Bring light back to the mirrors where once Lady Eva held court. [Here one might have Lunch in the afternoon, or Supper in the evening. A good host will provide at least one first course, one main course, one side dish and one pudding.]",
+        "aspects":{"venue.formal":1},
+        "ambits":true,
+        "slots": [   {"id": "g1","label": "Guest", "required":{"visitor":1,"visitor.villager":1}},
+        {"id": "g2","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g3","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g4","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g5","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "p","label": "Secretary Persistent",
+        "description":"In Hush House, an empty place is often traditionally left at table for Rowena, protectress of Hush House, and once Secretary Persistent of the Curia of the Isle. [If you one day propose a successor for Rowena... seat them here.]",
+        "required":{"appointment.persistent":1}}
+        ],
+        "MaxNotes":9
+      },
+     
+      {
+        "id": "salon.voices",
+        "category": "Salon",
+      "label": "A Salon in the Hall of Voices",
+        "desc": "An eccentric, or at least atmospheric, choice of venue for a Salon. [Here one might have Elevenses in the morning, or Afternoon Tea later in the day. Neither event should include any Intoxicating drinks.]",
+        "aspects":{"venue.informal":1},
+        "ambits":true,
+        "slots": [   {"id": "g1","label": "Guest", "required":{"visitor":1,"visitor.villager":1}},
+        {"id": "g2","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g3","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g4","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g5","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "p","label": "Secretary Persistent",
+        "description":"In Hush House, an empty place is often traditionally left at table for Rowena, protectress of Hush House, and once Secretary Persistent of the Curia of the Isle. [If you one day propose a successor for Rowena... seat them here.]",
+        "required":{"appointment.persistent":1}}
+        ],
+        "MaxNotes":9
+      },
+      {
+        "id": "salon.chapter",
+        "category": "Salon",
+      "label": "A Salon in the Chapter House",
+        "desc": "Peaceful, with excellent acoustics; although a little draughty. [Here one might have Elevenses in the morning, and Afternoon Tea later in the day. Neither event should include any Intoxicating drinks.]",
+        "aspects":{"venue.informal":1},
+        "ambits":true,
+        "slots": [   {"id": "g1","label": "Guest", "required":{"visitor":1,"visitor.villager":1}},
+        {"id": "g2","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g3","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g4","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g5","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "p","label": "Secretary Persistent",
+        "description":"In Hush House, an empty place is often traditionally left at table for Rowena, protectress of Hush House, and once Secretary Persistent of the Curia of the Isle. [If you one day propose a successor for Rowena... seat them here.]",
+        "required":{"appointment.persistent":1}}
+        ],
+        "MaxNotes":9
+      },
+
+      {
+        "id": "salon.physic",
+        "category": "Salon",
+      "label": "A Picnic in the Physic Garden",
+        "desc": "The peace of flowers, the murmur of leaves. [Here one might have a Picnic, but only in Spring or Summer.]",
+        "aspects":{"venue.picnicking":1},
+        "ambits":true,
+        "slots": [   {"id": "g1","label": "Guest", "required":{"visitor":1,"visitor.villager":1}},
+        {"id": "g2","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g3","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g4","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g5","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "p","label": "Secretary Persistent",
+        "description":"In Hush House, an empty place is often traditionally left at table for Rowena, protectress of Hush House, and once Secretary Persistent of the Curia of the Isle. [If you one day propose a successor for Rowena... seat them here.]",
+        "required":{"appointment.persistent":1}}
+        ],
+        "MaxNotes":9
+      },
+      {
+        "id": "salon.gullscry",
+        "category": "Salon",
+      "label": "A Picnic in the Gullscry Loggia",
+        "desc": "Sombre conversations where once poor Valentine sat alone. [Here one might have a Picnic, but only in Spring or Summer.]",
+        "aspects":{"venue.picnicking":1},
+        "ambits":true,
+        "slots": [   {"id": "g1","label": "Guest", "required":{"visitor":1,"visitor.villager":1}},
+        {"id": "g2","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}},
+        {"id": "g3","label": "Guest", "required":{"visitor":1},"forbidden":{"visitor.villager":1}}
+        ],
+        "MaxNotes":9
+      }
+
+    
+
+     
+    ]
+}

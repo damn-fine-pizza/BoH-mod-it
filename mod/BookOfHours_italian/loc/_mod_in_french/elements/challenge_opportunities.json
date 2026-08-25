@@ -1,0 +1,104 @@
+﻿{
+	"elements": [
+		{
+			"id": "_opportunity",
+			"aspects":{"opportunity":1},
+			"lifetime":1,
+			"icon":"opportunity"
+		},
+		{
+			"id": "o.ability",
+			"label": "Effort supplémentaire: Âme",
+			"desc": "Une opportunité d’ajouter un Élément d'Âme. [Attention: un échec peut provoquer des Maladies]",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.weather",
+			"label": "Les Bon Cieux: Météo",
+			"desc": "Une opportunité d'utiliser une Carte Météo.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.memory",
+			"label": "Seulement Connecté: Mémoire",
+			"desc": "Une opportunité d'ajouter une Mémoire - qui sera utilisée.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.comfort",
+			"label": "Confort: Ameublement pertinents",
+			"desc": "Inspiration possible à partir de meubles pertinents, ou d'autres Conforts.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.thing",
+			"label": "Trucs: aussi des Choses",
+			"desc": "Inspiration possible à partir d'une Chose pertinente.",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.wallart",
+			"label": "Art: c'est Éducatif!!",
+			"desc": "Inspiration possible à partir d'une peinture pertinente ou d'un autre Art Mural",
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.awen",
+			"label": "Awen",
+			"desc": "Inspiration divine? Ou juste la bonne bouffée d'air au bon moment? [Cette humeur augmente certains Aspects]",
+			"xtriggers":{"opportunity.realise":"m.awen"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.epiphany",
+			"label": "Épiphanie",
+			"desc": "'Il appartenait à l'homme de lettres d'enregistrer ces épiphanies avec un soin extrême, voyant qu'elless sont elles-mêmes les moments les plus délicats et évanescents.' - Joyce [Cette humeur augmente certains Aspects]",
+			"xtriggers":{"opportunity.realise":"m.epiphany"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.duende",
+			"label": "Duende",
+			"desc": "'Le duende est pouvoir et non œuvre, combat et non pensée. - Lorca [Cette humeur augmente certains Aspects]",
+			"xtriggers":{"opportunity.realise":"m.duende"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "o.ubisunt",
+			"label": "'Ubi Sunt'?",
+			"desc": "'Où sont mes proches? Où est celui qui donne le trésor? Où sont les bancs pour nous porter? Les joies de la salle nous apporterons l'union?' [Cette humeur augmente certains Aspects]",
+			"xtriggers":{"opportunity.realise":"m.ubisunt"},
+			"inherits":"_opportunity"
+		},
+		{
+			"id": "m.awen",
+			"label": "Awen",
+			"desc": "Inspiration divine? Ou juste la bonne bouffée d’air au bon moment? [Cette humeur augmente certains aspects]",
+			"aspects":{"lantern":2,"knock":2,"rose":2,"sky":2},
+			"inherits":"_memory"
+		},
+		{
+			"id": "m.epiphany",
+			"label": "Epiphany",
+			"desc": "'Il appartenait à l'homme de lettres d'enregistrer ces épiphanies avec un soin extrême, voyant qu'elless sont elles-mêmes les moments les plus délicats et évanescents.' - Joyce \n\n [Cette humeur augmente certains Aspects]",
+			"aspects":{"forge":2,"moth":2,"moon":2},
+			"inherits":"_memory"
+		},
+		{
+			"id": "m.duende",
+			"label": "Duende",
+			"desc": "'Le duende est pouvoir et non œuvre, combat et non pensée.' - Lorca \n\n[Cette humeur augmente certains aspects]",
+			"aspects":{"grail":2,"heart":2,"nectar":2},
+			"inherits":"_memory"
+		},
+		{
+			"id": "m.ubisunt",
+			"label": "'Ubi Sunt'?",
+			"desc": "'Où sont mes proches? Où est celui qui donne le trésor? Où sont les bancs pour nous porter? Les joies de la salle nous apporterons l'union?' \n\n[Cette humeur augmente certains aspects]",
+			"aspects":{"edge":2,"winter":2,"scale":2},
+			"inherits":"_memory"
+		}
+
+		]
+
+}

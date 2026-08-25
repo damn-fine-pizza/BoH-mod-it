@@ -1,0 +1,118 @@
+{
+ "recipes": [
+  {
+   "id": "open.cache.bright.rarities",
+   "label": "Qualcosa di Luminoso",
+   "startdescription": "Quale lucente tesoro?",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.night.rarities",
+   "label": "Qualcosa di Oscuro",
+   "startdescription": "Quale dono di mezzanotte?",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.unregarded.rarities",
+   "label": "Qualcosa di Trascurato",
+   "startdescription": "Quale delizia passata inosservata?",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.sovereign.rarities",
+   "label": "Qualcosa di Esaltato",
+   "startdescription": "Quale sovrana meraviglia?",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.flotsam",
+   "label": "Qualcosa di Naufragato",
+   "startdescription": "Quale nave l’ha perso?",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.jetsam",
+   "label": "Qualcosa di Rinnegato",
+   "startdescription": "Chi l’ha gettato fuori bordo?",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.bureau",
+   "label": "Qualcosa di Confiscato",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.hardware",
+   "label": "Qualcosa di Utile",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.household",
+   "label": "Qualcosa di Abbandonato",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.provisions",
+   "label": "Qualcosa di Gustoso",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.provisions.oddity",
+   "label": "Qualcosa di Particolarmente Gustoso",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.oddity",
+   "label": "Qualcosa di Astuto",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.large",
+   "label": "Qualcosa di Perduto",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.large.oddity",
+   "label": "Qualcosa di Strano",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.souvenirs",
+   "label": "Qualcosa di Memorabile",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.large.rarity",
+   "label": "Qualcosa di Raro",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.small.oddity",
+   "label": "Qualcosa di Piccolo e Curioso",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.cache.small.rarity",
+   "label": "Qualcosa di Piccolo e Raro",
+   "startdescription": "Spacca il contenitore, e goditi la scoperta.",
+   "desc": "."
+  },
+  {
+   "id": "open.delivery",
+   "label": "Aprire un Pacco",
+   "startdescription": "Scarta, disimballa, scatena.",
+   "desc": "."
+  }
+ ]
+}

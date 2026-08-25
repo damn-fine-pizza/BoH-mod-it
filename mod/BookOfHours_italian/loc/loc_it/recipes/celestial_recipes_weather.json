@@ -1,0 +1,61 @@
+{
+ "recipes": [
+  {
+   "id": "daily.weather",
+   "label": "Meteo Quotidiano",
+   "startdescription": "Smistatore Meteo"
+  },
+  {
+   "id": "daily.weather.spring",
+   "label": "Meteo Quotidiano: Primavera",
+   "startdescription": "Estrazione Meteo: Primavera"
+  },
+  {
+   "id": "daily.weather.summer",
+   "label": "Meteo Quotidiano: Estate",
+   "startdescription": "Estrazione Meteo: Estate"
+  },
+  {
+   "id": "daily.weather.autumn",
+   "label": "Meteo Quotidiano: Autunno",
+   "startdescription": "Estrazione Meteo: Autunno"
+  },
+  {
+   "id": "daily.weather.winter",
+   "label": "Meteo Quotidiano: Inverno",
+   "startdescription": "Estrazione Meteo: Inverno"
+  },
+  {
+   "id": "weather.enactor.rain",
+   "label": "Una Giornata di Pioggia"
+  },
+  {
+   "id": "weather.enactor.snow",
+   "label": "Una Giornata di Neve"
+  },
+  {
+   "id": "weather.enactor.storm",
+   "label": "Una Giornata di Tempesta"
+  },
+  {
+   "id": "weather.enactor.fog",
+   "label": "Una Giornata di Nebbia"
+  },
+  {
+   "id": "weather.enactor.hail",
+   "label": "Grandine"
+  },
+  {
+   "id": "weather.enactor.gale",
+   "label": "Burrasca"
+  },
+  {
+   "id": "weather.enactor.sunny",
+   "label": "Soleggiato"
+  },
+  {
+   "id": "weather.enactor.clouds",
+   "label": "Nuvole"
+  }
+ ]
+}

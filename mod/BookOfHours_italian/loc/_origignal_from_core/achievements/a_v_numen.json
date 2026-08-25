@@ -1,0 +1,77 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_V_NUMEN", "label": "Numen Enacted", "iconUnlocked": "history" },
+
+  { "id": "A_V_NUMEN_OLDL", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Numen: That Old Lost Music",
+    "descriptionunlocked": "Every song ever sung still lingers in wind and echo, untouched by the demands of Eternity..."
+  },
+  { "id": "A_V_NUMEN_UNDE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Numen: A Final Understanding",
+  "descriptionunlocked": "Eternity and History cannot be reconciled. Freedom cannot be perfection - not unless we understand the paradox of the eternal ending..."
+},
+{ "id": "A_V_NUMEN_BALA", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Back into Balance",
+"descriptionunlocked": "When the travelling Carapace-kinds passed beyond the wave and the sky, they made arrangements for their return..."
+},
+{ "id": "A_V_NUMEN_THRE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Three Rules",
+"descriptionunlocked": "If we know those deepest rules, we know what even the Chancel and the Calyptra may not do..."
+},
+{ "id": "A_V_NUMEN_LOOP", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Loopholes",
+"descriptionunlocked": "When Eternity came into the world, certain prudent powers arranged loopholes. Those loopholes may open again..."
+},
+{ "id": "A_V_NUMEN_DESC", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: The Sun's Weakness",
+"descriptionunlocked": "The Sun's sins and the Sun's scars are our salvation. There are Histories where they will trap us..."
+},
+{ "id": "A_V_NUMEN_BELL", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: the Bells of Ys",
+"descriptionunlocked": "Ys, by her arts, found the strike-tone that shakes the Hours. A bell cast with this secret could speak the Ys-note..."
+},
+{ "id": "A_V_NUMEN_SECR", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: the Great Counterfeit",
+"descriptionunlocked": "The Sun-in-Splendour and the Forge of the Days could not be joined. But Sunset Celia and the Swan King could..."
+},
+
+{ "id": "A_V_NUMEN_WORL", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Weaving the World",
+"descriptionunlocked": "The Histories, they say, are braided like hair - or tangled like roots. What is the shape of that knot...?"
+},
+{ "id": "A_V_NUMEN_FEAS", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: an Irresistible Feast",
+"descriptionunlocked": "Hunger made Worms of Dragons. But without the savour-secret of the Carapace, their hunger would not have been sufficient..."
+},
+{ "id": "A_V_NUMEN_ALTE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: a Merciless Alteration",
+"descriptionunlocked": "The fundamental flaw; the irresistible shortcut; the hate that heats; the change that mars; the scar that opens..."
+},
+{ "id": "A_V_NUMEN_CONF", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: Inescapable Confinement",
+"descriptionunlocked": "There's only one place you're safe from Eternity and History, and it's not a place anyone would want to be..."
+},
+{ "id": "A_V_NUMEN_ASCE", "category": "A_CATEGORY_V_NUMEN", "iconUnlocked": "",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Numen: the Paths of the Sun",
+"descriptionunlocked": "The Sun has charted his Paths - paths beyond walls and woods and Bounds. When we are ready, all of us will enter Eternity..."
+}
+
+
+
+
+
+
+]}

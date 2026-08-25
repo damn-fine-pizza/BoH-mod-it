@@ -1,0 +1,126 @@
+{
+ "recipes": [
+  {
+   "id": "bed.rest.malady.forge",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "Ho bisogno di calore e luminosità mentre riposo. [Hai fornito abbastanza Forgia.]",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest.malady.grail",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "Una sensazione forte riporterà a casa il mio spirito errante.",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest.malady.heart",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "[Hai fornito abbastanza Cuore.]",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest.malady.lantern",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "[Hai fornito abbastanza Lanterna.]",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest.malady.moth",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "[Hai fornito abbastanza Falena.]",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest.malady.nectar",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "[Hai fornito abbastanza Nettare.]",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest.malady.sky",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "[Hai fornito abbastanza Cielo.]",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest.malady.winter",
+   "label": "Curare il Mio Malanno",
+   "startdescription": "[Hai fornito abbastanza Inverno.]",
+   "desc": "Tempo, pace, recupero."
+  },
+  {
+   "id": "bed.rest",
+   "label": "Riposare",
+   "startdescription": "Un pisolino veloce in un letto caldo con qualcosa di confortante da bere, mentre i venti inseguono le nuvole e le nuvole inseguono il sole. [Ripristina una carta Anima affaticata.]",
+   "desc": "Meritavo un po’ di quiete."
+  },
+  {
+   "id": "bed.guest.camp",
+   "label": "Accamparsi",
+   "startdescription": "Farò di questo il mio alloggio, per il momento. [Sposta i tuoi Effetti Personali in questa stanza; potrai poi usare questo letto per far riposare le carte Anima e curare i Malanni.]",
+   "desc": "Questo è ormai un luogo sicuro per me... per quanto i sogni possano esserlo."
+  },
+  {
+   "id": "bed.rest.decamp",
+   "label": "Levare le Tende",
+   "startdescription": "La Hush House è un maniero dalle molte stanze. Mi trasferirò in una diversa. [Oppure aggiungi altre carte se vuoi provare qualcos’altro.]",
+   "desc": "Ho raccolto i miei averi, rinfrescato le lenzuola per eventuali ospiti. Tempo di proseguire."
+  },
+  {
+   "id": "bed.rest.ability.restable.hint",
+   "label": "Riposare?",
+   "startdescription": "Potrei sistemarmi per un pisolino con una tazza di qualcosa di riscaldante, o un bicchiere di qualcosa di lenitivo. [Aggiungi qualcosa di Ristorativo, come una Bevanda o biancheria fresca, per ripristinare la tua carta Anima senza aspettare la notte.]"
+  },
+  {
+   "id": "bed.rest.malady.curable.hint",
+   "label": "Curare un Malanno?",
+   "startdescription": "Potrei curare questo Malanno con il riposo a letto, qualcosa di adatto da bere, e una quantità sufficiente dell’Aspetto pertinente. [Controlla la carta Malanno per i dettagli.]"
+  },
+  {
+   "id": "bed.guest.campedelsewhere.hint",
+   "label": "Un’Altra Stanza?",
+   "startdescription": "Al momento dormo altrove. [Usa una carta Anima nel tuo letto attuale per levare le tende; poi torna qui per trasferirti.]"
+  },
+  {
+   "id": "bed.guest.camp.hint",
+   "label": "Trasferirsi",
+   "startdescription": "Questo non è il mio letto... per ora. [Usa una carta Anima per portare qui i tuoi averi e farne il tuo letto.]"
+  },
+  {
+   "id": "bed.guest.camp.malady.hint",
+   "label": "Trasferirsi",
+   "startdescription": "Questo non è il mio letto... per ora. [Usa una carta Anima per portare qui i tuoi averi e farne il tuo letto.]"
+  },
+  {
+   "id": "bed.guest.visitor",
+   "label": "Accamparsi",
+   "startdescription": "[I Visitatori resteranno in un letto adatto un po’ più a lungo – nel caso tu pensi di aver quasi trovato un libro adatto.]",
+   "desc": "Il mio visitatore diventa impaziente..."
+  },
+  {
+   "id": "bed.rest.memory",
+   "label": "Sognare su una Memoria",
+   "startdescription": "Ora che la notte è scesa, posso riposare – e forse sognare sulle vicende del giorno. [Sognare su una Memoria la preserverà oltre l’Alba, permettendoti di conservarla fino al giorno seguente.]",
+   "desc": "Ho portato una Memoria come una fiaccola, al sicuro attraverso i labirinti della notte. [Questo si completerà quando sarà giunta l’alba.]"
+  },
+  {
+   "id": "bed.rest.memory.finish",
+   "label": "Sognare su una Memoria"
+  },
+  {
+   "id": "bed.rest.memory.hint",
+   "label": "Sognare su una Memoria?",
+   "startdescription": "La notte non è ancora scesa. Ma una volta scesa, potrò riposare – e forse sognare sulle vicende del giorno. [Sognare su una Memoria la preserverà oltre l’Alba, permettendoti di conservarla fino al giorno seguente. Aggiungi una Memoria una volta tramontato il sole.]"
+  },
+  {
+   "id": "bed.rest.memory.weather.hint",
+   "label": "Sognare su una Memoria?",
+   "startdescription": "Una volta scesa la notte, posso riposare – e forse sognare sulle vicende del giorno. [Sognare sulla maggior parte delle Memorie le preserverà oltre l’Alba – ma le Memorie Meteo non possono essere usate in questo modo.]"
+  },
+  {
+   "id": "bed.rest.crafting.blocker",
+   "label": "Creare a Letto Non È Sicuro",
+   "startdescription": "Se voglio creare qualcosa, dovrò alzarmi dal letto – ma se voglio curare un Malanno, posso usare Abilità e Memorie con qualcosa di Ristorativo, come biancheria fresca o una Bevanda."
+  }
+ ]
+}

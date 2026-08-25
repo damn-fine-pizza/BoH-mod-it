@@ -1,0 +1,51 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_V_ORIGIN", "label": "Origin Fulfilled", "iconUnlocked": "history" },
+
+  { "id": "A_V_ORIGIN_SYMURGIST", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "The Songs of Caer Adar",
+    "descriptionunlocked": "I eavesdropped on the Aviform Hours and live, still, to sing their songs."
+  },
+  { "id": "A_V_ORIGIN_MAGNATE", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Les Neiges D'Antan",
+    "descriptionunlocked": "Neither rags nor riches soothed my soul. But at last I found peace in Hush House."
+  },
+  { "id": "A_V_ORIGIN_REVOLUTIONARY", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Look on my Works,Ye Mighty",
+    "descriptionunlocked": "I spoke the name 'Calyptra' and lived. I won the last revolution, and I am free."
+  },
+  { "id": "A_V_ORIGIN_EXECUTIONER", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Apology Accepted",
+    "descriptionunlocked": "They had hands, organs, dimensions, senses, affections, passions. I know that now. I made, at last, amends."
+  },
+  { "id": "A_V_ORIGIN_TWICEBORN", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "A Third Way",
+    "descriptionunlocked": "I walked beneath the Sun, and I walked within the flesh. At last I found my final home."
+  },
+  { "id": "A_V_ORIGIN_PRODIGAL", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "A Reckoning Postponed Indefinitely",
+    "descriptionunlocked": "I was hunted. I was afraid. But now I am safe, and prepared."
+  },
+  { "id": "A_V_ORIGIN_CARTOGRAPHER", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Map of the Empire",
+    "descriptionunlocked": "I plumbed the depths. I plotted the impossible. I completed my masterwork, and mastered the Mansus itself."
+  },
+  { "id": "A_V_ORIGIN_ARTIST", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Perfectly Monstrous",
+    "descriptionunlocked": "Those who go beneath the surface do so at their peril. Those who read the symbol do so at their peril. I went and read and mastered all."
+  },
+  { "id": "A_V_ORIGIN_ARCHAEOLOGIST", "category": "A_CATEGORY_V_ORIGIN", "iconUnlocked": "",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "Naming the Shadow",
+    "descriptionunlocked": "I have faced my Crime and the Curse it freed. At last, I am whole."
+  }
+
+]}

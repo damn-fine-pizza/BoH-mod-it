@@ -1,0 +1,12 @@
+{
+    "elements": [
+ 		{
+            "id": "armchair.blue",
+            "label": "Fauteuil bleu",
+            "desc": "Dans les bras azuréens d'Aréthusa…",
+            "inherits":"_comfort",
+            "aspects":{"sky":1}
+        }
+       
+    ]
+}

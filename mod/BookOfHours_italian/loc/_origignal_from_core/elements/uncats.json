@@ -1,0 +1,79 @@
+{
+    "elements": [
+
+        
+        {
+            "id": "uncatpile",
+            "label": "Uncatalogued Pile of Books",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.dawn",
+            "label": "Uncatalogued Pile of Books (Dawn)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.solar",
+            "label": "Uncatalogued Pile of Books (Solar)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.baronial",
+            "label": "Uncatalogued Pile of Books (Baronial)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.curia",
+            "label": "Uncatalogued Pile of Books (Curia)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+        {
+            "id": "uncatpile.nocturnal",
+            "label": "Uncatalogued Pile of Books (Nocturnal)",
+            "inherits" : "_book.unc",
+            "aspects": {"count":3}
+        },
+
+        {
+            "id": "uncatbook.dawn",
+            "label": "Uncatalogued Book (Dawn)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.solar",
+            "label": "Uncatalogued Book (Solar)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.baronial",
+            "label": "Uncatalogued Book (Baronial)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.curia",
+            "label": "Uncatalogued Book (Curia)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.nocturnal",
+            "label": "Uncatalogued Book (Nocturnal)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        },
+        {
+            "id": "uncatbook.nocturnal.everyman",
+            "label": "Uncatalogued Book (Nocturnal)",
+            "inherits" : "_book.unc",
+            "audio":"Book"
+        }
+    ]
+}

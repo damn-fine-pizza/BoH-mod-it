@@ -1,0 +1,253 @@
+{
+	"elements": [
+
+		{
+			"id": "interest.edge",
+			"label": "Interested in Edge",
+			"desc": "Someone is interested in violence. [Edge is the principle of battle and of struggle.]",
+            "icon":"edge",
+			"sort": "group4_visitors.edge",
+			"isAspect": true
+		},
+		{
+			"id": "interest.forge",
+			"label": "Interested in Forge",
+			"desc": "Someone is interested in the shaping arts. [The principle of the Forge transforms and destroys.]",
+            "icon":"forge",
+			"sort": "group4_visitors.forge",
+			"isAspect": true
+		},
+
+		{
+			"id": "interest.grail",
+			"label": "Interested in Grail",
+			"desc": "Someone is interested in appetites. [The principle of the Grail honours both the birth and the feast.]",
+            "icon":"grail",
+			"sort": "group4_visitors.grail",
+			"isAspect": true
+		},
+		{
+			"id": "interest.heart",
+			"label": "Interested in Heart",
+			"desc": "Someone is interested in healing and protection. [The Heart is the principle that continues and preserves.]",
+            "icon":"heart",
+			"sort": "group4_visitors.heart",
+			"isAspect": true
+		},
+		{
+			"id": "interest.knock",
+			"label": "Interested in Knock",
+			"desc": "Someone is interested in unsealing. [The Knock is the principle that opens doors and unseams barriers.]",
+            "icon":"knock",
+			"sort": "group4_visitors.knock",
+			"isAspect": true
+		},
+		{
+			"id": "interest.lantern",
+			"label": "Interested in Lantern",
+			"desc": "Someone is interested in revelations. [Lantern is the principle of the secret place sometimes called the House of the Sun, and of the light above it.]",
+            "icon":"lantern",
+			"sort": "group4_visitors.lantern",
+			"isAspect": true
+	
+		},
+		{
+			"id": "interest.moon",
+			"label": "Interested in Moon",
+			"desc": "Someone is interested in hidden things. [The nocturnal, the forgotten.]",
+            "icon":"moon",
+			"sort": "group4_visitors.moon",
+			"isAspect": true
+		},
+		{
+			"id": "interest.moth",
+			"label": "Interested in Moth",
+			"desc": "Someone is interested in the unexpected. [Moth is the wild and perilous principle of chaos and yearning.]",
+            "icon":"moth",
+			"sort": "group4_visitors.moth",
+			"isAspect": true
+		},
+		{
+			"id": "interest.nectar",
+			"label": "Interested in Nectar",
+			"desc": "Someone is interested in the roots of things. [Long ago, some called this principle Blood.]",
+            "icon":"nectar",
+			"sort": "group4_visitors.nectar",
+			"isAspect": true
+		},
+		{
+			"id": "interest.rose",
+			"label": "Interested in Rose",
+			"desc": "Someone is interested in horizons. [Complexities, exploration, hope.]",
+            "icon":"rose",
+			"sort": "group4_visitors.rose",
+			"isAspect": true
+		},
+		{
+			"id": "interest.scale",
+			"label": "Interested in Scale",
+			"desc": "Someone is interested in ancient profundities. [What is left of the crude powers of the deep earth.]",
+            "icon":"scale",
+			"sort": "group4_visitors.scale",
+			"isAspect": true
+		},
+		{
+			"id": "interest.sky",
+			"label": "Interested in Sky",
+			"desc": "Someone is interested in the songs of earth and heaven. [The old powers of the sky are often overlooked by the impatient.]",
+            "icon":"sky",
+			"sort": "group4_visitors.sky",
+			"isAspect": true
+		},
+		{
+			"id": "interest.winter",
+			"label": "Interested in Winter",
+			"desc": "...? [Winter is the principle of silence, of endings, and of those things that are not quite dead.]",
+            "icon":"winter",
+			"sort": "group4_visitors.winter",
+			"isAspect": true
+		},
+		{"id": "v.comment","desc":"[v. mutations can be acquired in two ways: (1) visitor is magneted to House because they fit interests and/or (2) visitor successfully interacts with incident. This allows players to use WC to accelerate interaction]","ishidden":true},
+		{"id": "v.revolution","label": "Visitor: the Affair of the Threshold Revolution","desc": "Visited Hush House on business connected with the Threshold Revolution.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.heist","label": "Visitor: the Affair of the Oriflamme Heist","desc": "Visited Hush House on business connected with the Oriflamme Heist.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.stalk","label": "Visitor: the Affair of the Absent Friend","desc": "Visited Hush House on business connected with the Absent Friend.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.wound","label": "Visitor: the Affair of the Open Reverend","desc": "Visited Hush House on business connected with the Open Reverend.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.intrusion","label": "Visitor: the Affair of the Endless Guest","desc": "Visited Hush House on business connected with the Endless Guest.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.pan","label": "Visitor: the Affair of the God in the Wood","desc": "Visited Hush House on business connected with the God in the Wood.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.curse","label": "Visitor: the Affair of the Grunewald Provision","desc": "Visited Hush House on business connected with the Grunewald Provision.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.omen.dawn","label": "Visitor: the Affair of the Unfettered Eye","desc": "Visited Hush House on business connected with the Unfettered Eye.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.omen.horizon","label": "Visitor: the Affair of the Other Horizon","desc": "Visited Hush House on business connected with the Other Horizon.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.mob","label": "Visitor: the Affair of the Forgivable Debt","desc": "Visited Hush House on business connected with the Forgivable Debt.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.rising","label": "Visitor: the Affair of the Rising While","desc": "Visited Hush House on business connected with the Rising While.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.lost.find","label": "Visitor: the Affair of the Dappled Rose","desc": "Visited Hush House on business connected with the Dappled Rose.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.project.ingenious","label": "Visitor: the Affair of the Unfinished Lark","desc": "Visited Hush House on business connected with the Unfinished Lark.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.project.solar","label": "Visitor: the Affair of the Royal Endeavour","desc": "Visited Hush House on business connected with the Royal Endeavour.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.mystical","label": "Visitor: the Affair of the Particular Mystique","desc": "Visited Hush House on business connected with the Particular Mystique.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.opera.apollo","label": "Visitor: the Affair of 'Apollo and Marsyas'","desc": "Visited Hush House on business connected with 'Apollo and Marsyas'.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.opera.wings","label": "Visitor: the Affair of the Invisible Opera","desc": "Visited Hush House on business connected with the Invisible Opera.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.box","label": "Visitor: the Affair of the Messenger's Casket","desc": "Visited Hush House on business connected with the Messenger's Casket.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.rite.renewal","label": "Visitor: the Affair of the Friar's Tapestry","desc": "Visited Hush House on business connected with the Friar's Tapestry.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.rite.awakening","label": "Visitor: the Affair of the Sandalwood Saint","desc": "Visited Hush House on business connected with the Sandalwood Saint.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.hunt.changing","label": "Visitor: the Affair of the Second Skin","desc": "Visited Hush House on business connected with the Second Skin.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.observe.scaly","label": "Visitor: the Affair of the Claw and the Clouds","desc": "Visited Hush House on business connected with the Claw and the Clouds.","isAspect": true,"sort": "group4_visitors.zv"},
+		{"id": "v.numa.grail.a","label": "Visitor: a Season of the Sanctuary Draught","desc": "Visited Hush House in a season when the matter of the Sanctuary Draught was foremost.","isAspect": true,"sort": "group4_visitors.zv"},
+{"id": "v.numa.grail.b","label": "Visitor: a Matter of the Feasting Few","desc": "Visited Hush House in a season when the matter of the Feasting Few was foremost.","isAspect": true,"sort": "group4_visitors.zv"},
+{"id": "v.numa.moon.a","label": "Visitor: a Matter of the Counterfeit Memory","desc": "Visited Hush House in a season when the matter of the Counterfeit Memory was foremost.","isAspect": true,"sort": "group4_visitors.zv"},
+{"id": "v.numa.moon.b","label": "Visitor: a Matter of the Midnight Twin","desc": "Visited Hush House in a season when the matter of the Midnight Twin was foremost.","isAspect": true,"sort": "group4_visitors.zv"},
+{"id": "v.numa.winter.a","label": "Visitor: a Matter of the Softer Frost","desc": "Visited Hush House in a season when the matter of the Softer Frost was foremost.","isAspect": true,"sort": "group4_visitors.zv"},
+{"id": "v.numa.wood","label": "Visitor: a Matter of Knot and Tangle","desc": "Visited Hush House in a season when the matter of Knot and Tangle was foremost.","isAspect": true,"sort": "group4_visitors.zv"},
+
+{
+	"id": "relevance.edge",
+	"label": "Relevance: Edge",
+	"desc": "Relevant to visitors with an interest in violence.",
+	"icon":"edge",
+	"sort":"group2_challenges.edge",
+	"isAspect": true
+},
+{
+	"id": "relevance.forge",
+	"label": "Relevance: Forge",
+	"desc": "Relevant to visitors with an interest in the shaping arts.",
+	"icon":"forge",
+	"sort":"group2_challenges.forge",
+	"isAspect": true
+},
+
+{
+	"id": "relevance.grail",
+	"label": "Relevance: Grail",
+	"desc": "Relevant to visitors with an interest in appetites.",
+	"icon":"grail",
+	"sort":"group2_challenges.grail",
+	"isAspect": true
+},
+{
+	"id": "relevance.heart",
+	"label": "Relevance: Heart",
+	"desc": "Relevant to visitors with an interest in healing and protection.",
+	"icon":"heart",
+	"sort":"group2_challenges.heart",
+	"isAspect": true
+},
+{
+	"id": "relevance.knock",
+	"label": "Relevance: Knock",
+	"desc": "Relevant to visitors with an interest in unsealing.",
+	"icon":"knock",
+	"sort":"group2_challenges.knock",
+	"isAspect": true
+},
+{
+	"id": "relevance.lantern",
+	"label": "Relevance: Lantern",
+	"desc": "Relevant to visitors with an interest in revelations.",
+	"icon":"lantern",
+	"sort":"group2_challenges.lantern",
+	"isAspect": true
+
+},
+{
+	"id": "relevance.moon",
+	"label": "Relevance: Moon",
+	"desc": "Relevant to visitors with an interest in hidden things.",
+	"icon":"moon",
+	"sort":"group2_challenges.moon",
+	"isAspect": true
+},
+{
+	"id": "relevance.moth",
+	"label": "Relevance: Moth",
+	"desc": "Relevant to visitors with an interest in the unexpected.",
+	"icon":"moth",
+	"sort":"group2_challenges.moth",
+	"isAspect": true
+},
+{
+	"id": "relevance.nectar",
+	"label": "Relevance: Nectar",
+	"desc": "Relevant to visitors with an interest in the roots of things.",
+	"icon":"nectar",
+	"sort":"group2_challenges.nectar",
+	"isAspect": true
+},
+{
+	"id": "relevance.rose",
+	"label": "Relevance: Rose",
+	"desc": "Relevant to visitors with an interest in horizons.",
+	"icon":"rose",
+	"sort":"group2_challenges.rose",
+	"isAspect": true
+},
+{
+	"id": "relevance.scale",
+	"label": "Relevance: Scale",
+	"desc": "Relevant to visitors with an interest in ancient profundities.",
+	"icon":"scale",
+	"sort":"group2_challenges.scale",
+	"isAspect": true
+},
+{
+	"id": "relevance.sky",
+	"label": "Relevance: Sky",
+	"desc": "Relevant to visitors with an interest in the songs of earth and heaven.",
+	"icon":"sky",
+	"sort":"group2_challenges.sky",
+	"isAspect": true
+},
+{
+	"id": "relevance.winter",
+	"label": "Relevance: Winter",
+	"desc": "Relevant to the quieter visitors.",
+	"icon":"winter",
+	"sort":"group2_challenges.winter",
+	"isAspect": true
+}
+
+
+		
+
+						
+
+	]
+}

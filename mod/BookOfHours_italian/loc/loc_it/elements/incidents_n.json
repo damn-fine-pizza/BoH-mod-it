@@ -1,0 +1,236 @@
+{
+ "elements": [
+  {
+   "id": "incident.consultation",
+   "label": "Una Consultazione",
+   "desc": "Qualcuno vorrebbe sapere qualcosa."
+  },
+  {
+   "id": "affair.box"
+  },
+  {
+   "id": "affair.revolution"
+  },
+  {
+   "id": "affair.heist"
+  },
+  {
+   "id": "affair.stalk"
+  },
+  {
+   "id": "affair.wound"
+  },
+  {
+   "id": "affair.intrusion"
+  },
+  {
+   "id": "affair.pan"
+  },
+  {
+   "id": "affair.curse"
+  },
+  {
+   "id": "affair.omen.dawn"
+  },
+  {
+   "id": "affair.omen.horizon"
+  },
+  {
+   "id": "affair.mob"
+  },
+  {
+   "id": "affair.rising"
+  },
+  {
+   "id": "affair.lost.find"
+  },
+  {
+   "id": "affair.project.ingenious"
+  },
+  {
+   "id": "affair.project.solar"
+  },
+  {
+   "id": "affair.mystical"
+  },
+  {
+   "id": "affair.opera.apollo"
+  },
+  {
+   "id": "affair.opera.wings"
+  },
+  {
+   "id": "affair.box"
+  },
+  {
+   "id": "affair.rite.renewal"
+  },
+  {
+   "id": "affair.rite.awakening"
+  },
+  {
+   "id": "affair.hunt.changing"
+  },
+  {
+   "id": "affair.observe.scaly"
+  },
+  {
+   "id": "affair.numa.grail.a"
+  },
+  {
+   "id": "affair.numa.grail.b"
+  },
+  {
+   "id": "affair.numa.moon.a"
+  },
+  {
+   "id": "affair.numa.moon.b"
+  },
+  {
+   "id": "affair.numa.winter.a"
+  },
+  {
+   "id": "affair.numa.wood"
+  },
+  {
+   "id": "incident.box",
+   "label": "La Vicenda dello Scrigno del Messaggero",
+   "desc": "In una piega nascosta delle montagne sopra la città di Cluj giace l’enigmatica reliquia che chiamano la Bara di Saint Mihail. Decenni di paziente lavoro hanno infine sfondato il suo guscio esteriore. [I Visitatori interessati ai Misteri del <sprite name=knock> o della <sprite name=moon> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.curse",
+   "label": "La Vicenda della Fornitura di Grunewald",
+   "desc": "Dopo lo scioglimento del Circo Permanente di Grunewald, i suoi beni sono stati alienati dal Bureau. Questo è accaduto durante una delle occasionali crisi di finanziamento del Bureau, e la «Disposizione Grunewald» ha autorizzato la vendita dei beni del Circo in contanti, aggirando alcuni dei soliti controlli per il rischio onirico. Con il senno di poi, questo ha iniziato a sembrare un errore. [I Visitatori interessati a Misteri di <sprite name=heart> o <sprite name=winter> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.heist",
+   "label": "La Vicenda del Colpo all’Oriflamme",
+   "desc": "La Casa d’Aste di Oriflamme non viene mai derubata. Ma e se lo fosse? E se, in qualche modo, i tesori inestimabili fossero stati sostituiti con falsi costosi? Come potremmo esserne certi? [I Visitatori interessati ai Misteri del <sprite name=knock> o della <sprite name=forge> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.hunt.changing",
+   "label": "La Vicenda della Seconda Pelle",
+   "desc": "Gli Immortali cambiano più lentamente della maggior parte di noi, ma anche gli immortali cambiano talvolta. Nella città di Marrakech, il labhita Abecassis ha iniziato una metamorfosi drammatica e pericolosa – che sta allarmando tanto gli amici quanto i nemici… [I Visitatori interessati a Misteri di <sprite name=edge> o <sprite name=scale> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.intrusion",
+   "label": "La Vicenda dell’Ospite Infinito",
+   "desc": "Un «uomo abitato dai Vermi» non è mai da prendere alla leggera. In questo caso, i Vermi hanno scelto di abitare un tale Spencer Hobson, in missione per il Bureau a Cracovia. Hobson è rimasto inusualmente eloquente per un uomo abitato; e apparentemente, considera i Vermi suoi «ospiti». [I Visitatori interessati a Misteri di <sprite name=knock> o <sprite name=winter> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.lost.find",
+   "label": "La Vicenda della Rosa Screziata",
+   "desc": "Nei deserti sibilanti di sabbia dove una volta sorgeva una città chiamata Miah… un altro uomo è morto. Ma quasi ce l’ha fatta a uscire. È andato abbastanza lontano da farsi trovare da un capraio: delirava di giardini fino all’ultimo, con un fiore schiacciato in mano. [I Visitatori interessati ai Misteri della <sprite name=moth> o della <sprite name=rose> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.mob",
+   "label": "La Vicenda del Debito Perdonabile",
+   "desc": "Come molte imprese criminali, i Conteggiatori offrono prestiti ai disperati e agli incauti – ma i Conteggiatori possono offrire prestiti non solo di denaro contante, ma di anni di vita assegnati. Di solito mantengono un basso profilo, ma ora due bande di Conteggiatori sono in guerra nell’insignificante città lituana di Kaunas. Perché? Cosa c’è a Kaunas? [I Visitatori interessati ai Misteri della <sprite name=moon> o della <sprite name=edge> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.mystical",
+   "label": "La Vicenda della Mistica Particolare",
+   "desc": "Il Bureau di Soppressione ha un crescente interesse per la recente moda di movimenti religiosi non convenzionali – spesso profetici. Nessuna legge è stata infranta. Nulla di sinistro è venuto alla luce. Tutti questi movimenti sono di natura Solare, il che rassicura. Ma sembra che qualcosa stia accadendo. [I Visitatori interessati ai Misteri dell’<sprite name=winter> o della <sprite name=lantern> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.observe.scaly",
+   "label": "La Vicenda dell’Artiglio e delle Nuvole",
+   "desc": "Dal lontano monastero di St Tentreto alle Isole della Sera, sentiamo storie incerte e contraddittorie, di visitatori inaspettati, visitatori da dietro il cielo. [I Visitatori interessati a Misteri di <sprite name=scale> o <sprite name=sky> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.omen.dawn",
+   "label": "La Vicenda dell’Occhio Senza Catene",
+   "desc": "Messana: un piccolo prospero villaggio del deserto che è diventato, negli ultimi anni, un luogo di pellegrinaggio. Ci sono state strane manifestazioni lì di recente – abitanti dotati di vista, o colpiti da cecità. La Chiesa ha inviato i suoi rappresentanti a indagare. [I Visitatori interessati ai Misteri della <sprite name=lantern> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.omen.horizon",
+   "label": "La Vicenda dell’Altro Orizzonte",
+   "desc": "I marinai hanno un termine per il fenomeno del turbine della bussola che si verifica prima dell’avvistamento della città Ys. Dicono che una bussola abbia contratto «gli orizzonti vertiginosi». Quest’anno nel Mare del Nord c’è una specie di epidemia di vertigini. [I Visitatori interessati ai Misteri della <sprite name=rose> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.opera.apollo",
+   "label": "La Vicenda di «Apollo e Marsia»",
+   "desc": "Una produzione imminente di un’opera dal lignaggio davvero antichissimo. [I Visitatori interessati a Misteri di <sprite name=grail> o <sprite name=sky> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.opera.wings",
+   "label": "La Vicenda dell’Opera Invisibile",
+   "desc": "Nessuno ha mai messo in scena con successo un’intera rappresentazione di «Ali Dentro Ali». Ecco probabilmente perché la chiamano l’Opera Invisibile. Ma ora qualcuno sta provando di nuovo. [I Visitatori interessati ai Misteri del <sprite name=grail> o della <sprite name=moth> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.pan",
+   "label": "La Vicenda del Dio nel Bosco",
+   "desc": "Il «Lyterion», un campo di salute alla moda nella Foresta Nera, ha attirato l’attenzione dopo che molti dei suoi clienti sembrano aver sviluppato improvvise, talvolta sconvolgenti, capacità artistiche. [I Visitatori interessati ai Misteri del <sprite name=heart> o del <sprite name=nectar> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.project.ingenious",
+   "label": "La Vicenda dell’Allodola Incompiuta",
+   "desc": "Per tre anni, lo scultore-adepto Zuthimalim Zidane ha lavorato al suo capolavoro, una scultura astratta che «parla con la voce dell’allodola del deserto». E ora, enigmaticamente e all’improvviso, è morto. [I Visitatori interessati a Misteri di <sprite name=forge> o <sprite name=sky> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.project.solar",
+   "label": "La Vicenda dell’Impresa Reale",
+   "desc": "Il Nuovo Re ha autorizzato l’uso della ricchezza della Corona per finanziare un nuovo progetto industriale visionario – uno che trasformerà la nostra economia, e fornirà al regno un senso di missione patriottica. Il Parlamento, abbagliato, ha già approvato il Royal Endeavour Act, che impone la costruzione delle strutture necessarie, anche se i dettagli rimangono in alcuni aspetti vaghi. [I Visitatori interessati ai Misteri della <sprite name=forge> o della <sprite name=lantern> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.revolution",
+   "label": "La Vicenda della Rivoluzione della Soglia",
+   "desc": "Nelle zone più secche dei Confini, la Légion du Seuil mantiene una pace brutale. Forse anche necessaria. Ma la Légion recluta tra le bestie dei Confini. Quanto è davvero affidabile? [I Visitatori interessati ai Misteri della <sprite name=edge> o del <sprite name=grail> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.rising",
+   "label": "La Vicenda del Tempo dell’Ascesa",
+   "desc": "Al di là del mare interno, oltre le sabbie del deserto, qualcuno che si fa chiamare Oracolo del Tempo dell’Ascesa ha fondato una città di tende dove predica «la verità del quasi adesso» ai suoi seguaci. Questo non sarebbe di evidente interesse per gli studenti delle arti invisibili... tranne che sebbene abbia piantato le sue tende all’ombra del Tempio delle Sette Spire, niente sembra aver mangiato nessuno. [I Visitatori interessati a Misteri di <sprite name=moon> o <sprite name=scale> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.rite.awakening",
+   "label": "La Vicenda del Santo di Sandalo",
+   "desc": "Una strana piccola immagine in una chiesa a Strasburgo è diventata un luogo di affermazioni sfrenate di guarigioni e infestazioni. Quando arriva all’attenzione della gerarchia della Chiesa, la dichiareranno miracolosa o eretica… a meno che qualcuno non intervenga prima. [I Visitatori interessati a Misteri di <sprite name=nectar> o <sprite name=scale> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.rite.renewal",
+   "label": "La Vicenda dell’Arazzo del Frate",
+   "desc": "Un arazzo è stato rubato dall’Haustorium che ritrae dettagli di un rito davvero molto antico, uno che può essere eseguito solo al Lago Gladwyn «quando la luna è matura». Esattamente cosa potrebbe rinnovare non è chiaro, ma quasi inevitabilmente qualcuno ci proverà comunque. [I Visitatori interessati a Misteri di <sprite name=moon> o <sprite name=nectar> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.stalk",
+   "label": "La Vicenda dell’Amica Assente",
+   "desc": "La Medusa Ligeiana è morta da lungo tempo, come è ben attestato. Eppure è altrettanto ben attestato che cammina per le strade di Budapest al chiaro di luna. È solo una di quelle cose. Ma ora, per la prima volta, la stanno avvistando anche alla luce del giorno. Che cosa potrebbe presagire <i>questo</i>? [I Visitatori interessati ai Misteri della <sprite name=edge> o della <sprite name=rose> vorranno parlare di questo.]"
+  },
+  {
+   "id": "incident.wound",
+   "label": "La Vicenda del Reverendo Aperto",
+   "desc": "In una clinica altamente specializzata in un angolo oscuro della capitale, gli specialisti studiano le agonie estatiche del caso noto solo come «il Reverendo Aperto», che un tempo era il vicario della parrocchia di St Agnes Forestreet. Le benedizioni di St Agnes dei Fuochi e St Agnes delle Forbici non sono benigne. Ma St Agnes della Soglia potrebbe essere il suo aspetto più crudele... [I Visitatori interessati ai Misteri del <sprite name=heart> o dell’<sprite name=winter> vorranno parlarne.]"
+  },
+  {
+   "id": "incident.numa.grail.a",
+   "label": "Una Faccenda della Pozione del Santuario",
+   "desc": "In Numa, i visitatori saranno interessati a questioni di conforto, diletto e perdita. [Finché questa carta rimane, i visitatori di Numa avranno un interesse nei Misteri di <sprite name=grail>. I loro bisogni saranno solitamente più esigenti di quelli dei visitatori che vengono durante stagioni più tradizionali.]"
+  },
+  {
+   "id": "incident.numa.grail.b",
+   "label": "Una Faccenda dei Pochi del Banchetto",
+   "desc": "In Numa, i visitatori saranno interessati a questioni di appetito, di sangue, e dei loro pericoli associati. [I visitatori di Numa avranno un interesse nei Misteri di <sprite name=grail>. I loro bisogni saranno solitamente più esigenti di quelli dei visitatori che vengono durante stagioni più tradizionali.]"
+  },
+  {
+   "id": "incident.numa.moon.a",
+   "label": "Una Faccenda della Memoria Contraffatta",
+   "desc": "In Numa, i visitatori saranno interessati ai trucchi e alle strategie che potrebbero essere state usate in segreto dalle Ore. [Finché questa carta rimane, i visitatori di Numa avranno un interesse nei Misteri di <sprite name=moon>. I loro bisogni saranno solitamente più esigenti di quelli dei visitatori che vengono durante stagioni più tradizionali.]"
+  },
+  {
+   "id": "incident.numa.moon.b",
+   "label": "Una Faccenda del Gemello di Mezzanotte",
+   "desc": "In Numa, i visitatori saranno interessati a questioni di ombra e sostanza, rivelazione e oscurità. [Finché questa carta rimane, i visitatori di Numa avranno un interesse nei Misteri di <sprite name=moon>. I loro bisogni saranno solitamente più esigenti di quelli dei visitatori che vengono durante stagioni più tradizionali.]"
+  },
+  {
+   "id": "incident.numa.winter.a",
+   "label": "Una Faccenda del Gelo Più Tenero",
+   "desc": "In Numa, i visitatori saranno interessati a come e quando le cose finiscono. [Finché questa carta rimane, i visitatori di Numa avranno un interesse nei Misteri di <sprite name=winter>. I loro bisogni saranno solitamente più esigenti di quelli dei visitatori che vengono durante stagioni più tradizionali.]"
+  },
+  {
+   "id": "incident.numa.wood",
+   "label": "Una Faccenda di Nodo e Groviglio",
+   "desc": "In Numa, i visitatori saranno interessati alle Ore onorate dalla Sorellanza del Nodo. [Finché questa carta rimane, i visitatori di Numa avranno un interesse nei Misteri di <sprite name=grail> o <sprite name=nectar>. I loro bisogni saranno solitamente più esigenti di quelli dei visitatori che vengono durante stagioni più tradizionali.]"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+﻿{
+	"elements": [
+		{
+			"id": "credits.wf",
+			"label": "WEATHER FACTORY IS...",
+			"desc": "",
+			"noArtNeeded": true
+		},
+		{
+			"id": "credits.ak",
+			"label": "Design, Writing, Coding",
+			"desc": "Alexis Kennedy",
+			"icon": "xpho2"
+		},
+		{
+			"id": "credits.lb",
+			"label": "Art, Production, Marketing",
+			"desc": "Lottie Bevan",
+			"icon": "xwis2"
+
+		},
+		{
+			"id": "credits.moar",
+			"label": "\nAND WE SALUTE OUR COLLABORATORS...",
+			"desc": "",
+			"noArtNeeded": true
+		},
+		{
+			"id": "credits.additionalcoding",
+			"label": "Additional Coding",
+			"desc": "Roman Loskutov, Knights of Unity, Frgm",
+			"icon": "xtri2"
+		},
+		{
+			"id": "credits.additionalart",
+			"label": "Additional Art",
+			"desc": "Adrian Deggan, Clockwork Cuckoo, Catherine Unger",
+			"icon": "xmet2"
+		},
+		{
+			"id": "credits.music",
+			"label": "Music",
+			"desc": "Maribeth Solomon & Brent Barkman for Mickymar Productions Ltd\n                    - RIP Micky Erbe -",
+			"icon": "xcho2"
+		},
+		{
+			"id": "credits.sfx",
+			"label": "SFX",
+			"desc": "SoundCuts",
+			"icon": "xsha"
+		},
+
+		{
+			"id": "credits.blankspace2",
+			"label": "",
+			"desc": "",
+			"noArtNeeded": true
+		},
+
+		
+		{
+			"id": "credits.localisation.zhhans.cjk",
+			"label": "Chinese Localisation (Dove Archive)",
+			"desc": "\nCo-ordination: Karl Lin (林孙)\n Translation: Aigalas, Calendra, Lady Worm, Lester, Lokie, Marumba Dyras, Sero_2048, Sherri 梨, WM, 埃拉伽巴路斯, 沼泽渡鸦, 果茶, 鹤田阳葵, 黑叶残荷, 幻想家, 龙 的三次方, 暮色天帷, 褰澜, 天国君, 跳塔轮铡, 团块, 褪色回亿, 寻忆, 一般路过灯人, 幽空\nMain Title Artist: 囤囤",
+			"noArtNeeded": true
+		},
+
+		{
+			"id": "credits.localisation.ru",
+			"label": "Russian Localisation (RIOTLOC)",
+			"desc": "\nCo-ordination: Christina Ignatenko, Maria Yunger\n Translation: Mikhail Shvyriaev, Boris Shapiro",
+			"noArtNeeded": true
+		},
+
+		{
+			"id": "credits.localisation.zhhans.hol.cjk",
+			"label": "HOUSE OF LIGHT Chinese Localisation:",
+			"desc": "Translators: 阿娜斯达奇, 团块, 三度迎来落日, 白前Cynanchum, 一瓶多芬洗面奶（试用装）,泷川葵, AloneOnGallifrey, 入迷鼠\nCo-ordination: Karl Lin (林孙)",
+			"noArtNeeded": true
+		},
+
+		{
+			"id": "credits.localisation.jp",
+			"label": "Japanese Localisation:",
+			"desc": "ClocQ, ぺぽた",
+			"noArtNeeded": true
+		},
+
+		{
+			"id": "credits.localisation.steam.cjk",
+			"label": "Steam Page Localisation By",
+			"desc": "Pedro Egler, Clocq, ぺぽた, Pierre Cathé, Revan Ji, Karl Sun, 天国君, Calendra, 寻七得七, 阿克里, 寻忆, Marumba Dyras, 历史分析学家喵, 夜雨, Fedor Rumyantsev, Diego Arellano, Leonardo Abate, Clara K",
+			"noArtNeeded": true
+		},
+
+		{
+			"id": "credits.specialthanks",
+			"label": "Special Thanks",
+			"desc": "All our beta testers; Riley Labrecque for Steamworks.NET; Fingal's Coffee on Trafalgar Road; Norman Chalk; Jonny Koschland and Mark Lewis; Alex Tutty and Anna Poulter-Jones; PK and Sonja; Matt and Taz; Sulo and Chi",
+			"noArtNeeded": true
+		}
+		]
+
+}

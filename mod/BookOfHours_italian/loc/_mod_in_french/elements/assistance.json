@@ -1,0 +1,242 @@
+{
+    "elements": [
+        {
+            "id": "introduction.rector.start",
+            "label": "L'Adresse d'un Vieil Ami",
+            "desc": "J'ai entendu parler de Brancrug pour la première fois par l'intermédiaire de son Recteur, le Révérend Timothy. Depuis des années, j'échange des lettres avec lui. Je pourrai trouver refuge sous son toit cette nuit - <b>une fois arrivé à Brancrug Village</b>. [Le Recteur peut également vous présenter d'autres villageois]",
+			"aspects": {"introduction":1,"lantern":1},
+            "xtriggers": {"befriending":"mem.foresight"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Refuge!",
+                    "actionid":"village.rectory.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        }, 
+         {
+            "id": "introduction.blacksmith.start",
+            "label": "L'Adresse d'un Vieil Ami",
+            "desc": "Denzil est le forgeron du Village de Brancrug. Je me souviens de lui à la guerre. S'il se souvient de moi, je peux trouver refuge sous son toit - <b>une fois arrivé à Brancrug Village</b>.",
+			"aspects": {"introduction":1,"forge":1},
+            "xtriggers": {"befriending":"mem.revelation"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Refuge!",
+                    "actionid":"village.smithy.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        }, 
+        {
+            "id": "introduction.coffinmaker.start",
+            "label": "L'Adresse d'un Vieil Ami",
+            "desc": "Mr. Kille est le fabriquant de cercueil de Brancrug Village. Une fois, j'ai écrit gentiment sur sa poésie. Sa maison m'est toujours ouverte (même s'il m'a demandé de ne jamais parler de poésie devant Mme Kille). Je pourrai trouver refuge sous son toit cette nuit - <b>une fois arrivé à Brancrug Village</b>. ",
+			"aspects": {"introduction":1,"winter":1},
+            "xtriggers": {"befriending":"mem.satisfaction"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Refuge!",
+                    "actionid":"village.killes.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        },
+        {
+            "id": "introduction.midwife.start",
+            "label": "L'Adresse d'une Vieille Amie",
+            "desc": "Mme Kille est la factotum - la sage-femme - de Brancrug Village. Je l'ai connue il y a longtemps à Paris, quand son nom de famille n'était pas « Kille » mais « Raveline », et que sa sœur était vicomtesse. Sa maison m'est toujours ouverte (même si elle m'a demandé de ne pas évoquer le titre lorsque Mr. Kille est dans les parages). Je pourrai trouver refuge sous son toit cette nuit - <b>une fois arrivé à Brancrug Village</b>.",
+			"aspects": {"introduction":1,"grail":1},
+            "xtriggers": {"befriending":"mem.hindsight"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Refuge!",
+                    "actionid":"village.killes.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        },
+ 
+        {
+            "id": "assistance.fisherman",
+            "label": "Aide du pêcheur",
+            "desc": "Les pêcheurs de cette partie du monde ont une réputation de contrebandiers, et même pire que des contrebandiers. Ces jours sont pour la plupart révolus, et la plupart du temps, ils ne pêchent plus que des sardins. Mais ils se souviennent encore des paroles prononcées en silence à la Lune et à la Mer.",
+			"aspects": {"moon":2,"sky":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.fisherman.intro",
+            "label": "Aide du pêcheur",
+            "desc": "Un pêcheur de Brancrug Village! Il peut me guider sur le chemin de la falaise - s'il me fait confiance. [Les Aspects ci-dessous vous indiquent comment et où vous pouvez utiliser cette carte. Survolez-les pour en savoir plus - ou pour voir quels autres objets ont également ces Aspects]",
+			"aspects": {"moon":1,"sky":1,"assistance":1,"sceptical":1,"reluctant":1},
+            "icon": "assistance.fisherman",
+            "comments":"Variant, so we don't want to inherit the usual from the proto",
+            "slots":[     {
+                "id": "intro",
+                "label": "Un nom?",
+                "description": "Y a-t-il quelqu'un qui pourrait se porter garant de moi auprès des villageois?",
+                "actionid":"talk",                 
+                "required": {"introduction":1}
+            }]
+        },
+        {
+            "id": "assistance.orchardkeeper",
+            "label": "Aide du Gardien-du-Verger",
+            "desc": "'En Cornouailles, il est tout à fait possible de passer en quelques enjambées de la végétation la plus riche à l'abomination de la désolation. On a dit, en plaisantant, que la Cornouailles ne cultivent pas suffisamment de bois pour fabriquer des cercueils pour les gens.' - Sabine Baring-Gould",
+			"aspects": {"nectar":2,"heart":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.barber",
+            "label": "Aide du barbier",
+            "desc": "Les barbiers itinérants du Sud du pays vous garderont propre et soigné, veilleront à ce que vous ne manquiez aucune nouvelle ni aucun potin et arrangeront les choses pour que vous ne soyez pas trop dérangé par la vermine. Snip snip.",
+			"aspects": {"moth":2,"rose":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.miner",
+            "label": "Aide du mineur",
+            "desc": "'Ainsi, ils se gouvernaient plus ou moins eux-mêmes, avec l'aide de leur tempérament Celtique sauvage, rendu encore plus sauvage par la dureté de leur vie et les conditions vraiment épouvantables dans lesquelles ils travaillaient […] avec tout cela, il n'est pas étonnant que les étameurs aient acquis la réputation d'être à peine humains. Mais il faut se souvenir que parmi eux se trouvaient de tout temps ceux dont le caractère pouvait rivaliser avec le meilleur des hommes.' - L. Russell Muirhead",
+			"aspects": {"scale":2,"forge":1,"moon":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.rector",
+            "label": "Aide du Recteur",
+            "desc": "Révérend Timothy, Recteur de Brancrug, ordonné par l'Église du Soleil Invaincu. Un homme érudit, béni dans le Compte, la Porte et la Lumière. [Faites appel à l'aide du Recteur avant l'aube]",
+			"aspects": {"lantern":2,"knock":1},
+            "unique":true,
+            "inherits":"_assistance.usescandles"
+        },
+
+        {
+            "id": "assistance.coffinmaker",
+            "label": "Aide du fabricant de cercueil",
+            "desc": "Dompteur d'arbres, ouvrier des bois, consignateur de cadavres. Il est également connu pour s'essayer, très timidement, à la poésie. [Faites appel à l'aide du fabricant de cercueil avant l'aube]",
+			"aspects": {"winter":2,"sky":1},
+            "unique":true,
+            "inherits":"_assistance.useswood"
+        },
+        {
+            "id": "assistance.midwife",
+            "label": "Aide de la Sage-femme",
+            "desc": "Aussi sombre que l’automne, aussi doux que l’automne. Elle aime aussi sa bière. [Faites appel à l'aide de la Sage-femme avant l'aube]",
+			"aspects": {"grail":2,"heart":1},
+            "unique":true,
+            "inherits":"_assistance.usesfabric"
+        },
+        {
+            "id": "assistance.blacksmith",
+            "label": "Aide du forgeron",
+            "desc": "Denzil le forgeron me prêtera ses forces pour la journée. [Faites appel à l'aide du forgeron avant l'aube]",
+			"aspects": {"forge":2,"edge":2},
+            "unique":true,
+            "inherits":"_assistance.usesmetal"
+        },
+        {
+            "id": "employable.engineer",
+            "label": "De passage: une Ingénieure-Conseil?",
+            "icon":"assistance.engineer",
+            "desc": "Une Ingénieure-Conseil s'est arrêté au Sweet Bones sur le chemin du retour. [L'Ingénieure-Conseil fournit de l'aide pour <sprite name=forge>, <sprite name=sky> et <sprite name=lantern>. Parlez-lui avant qu'elle parte, si vous souhaitez utiliser ses services]",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.engineer"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.engineer",
+            "label": "Aide de l'Ingénieure-Conseil",
+            "desc": "Une Ingénieure-Conseil peut trouver beaucoup de travail dans les mines et les villes de la région. Mais la Hush House représente un défi inhabituel et intéressant.",
+			"aspects": {"forge":4,"sky":4,"lantern":4,"fee":24},
+            "inherits":"_assistance.usesfuel"
+        },
+        {
+            "id": "employable.fugitive",
+            "label": "Rôde à proximité: un Fugitif",
+            "icon":"assistance.fugitive",
+            "desc": "Quelqu'un a pris une chambre à l'étage pour la nuit. Il n'a pas montré son visage, mais le village fourmille de ragots… [le Fugitif fournit de l'aide pour <sprite name=scale>, <sprite name=edge> et <sprite name=heart>. Parlez-lui avant qu'il parte, si vous souhaitez utiliser ses services]",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.fugitive"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.fugitive",
+            "label": "Aide du Fugitif",
+            "desc": "'“Retenez votre bruit!” cria une voix terrible, alors qu'un homme surgissait des tombes près du porche de l'église. […] Un homme craintif, tout de gris grossier, avec les fers aux pieds. Un homme qui n'a pas de chapeau, qui a des chaussures cassées, qui a un vieux chiffon noué autour de la tête.' - Dickens",
+			"aspects": {"scale":4,"edge":4,"heart":4,"fee":24},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "employable.musician",
+            "label": "De passage: un Musicien",
+            "icon":"assistance.musician",
+            "desc": "Un musicien divertit les clients du Sweet Bones pour quelques pièces… pas beaucoup. Il sauterait sur une opportunité mieux payée. [Le Musicien Voyageur fournit de l'aide pour <sprite name=sky>, <sprite name=rose> et <sprite name=nectar>. Parlez-lui avant qu'il parte, si vous souhaitez utiliser ses services]",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.musician"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.musician",
+            "label": "Aide du Musicien Voyageur",
+            "desc": "'Je ne suis qu'un gamin roux, agaçant et menteur de Cornouailles qui aurait dû être enfermé […] J'ai juste réussi à m'échapper et à le mettre en musique.' - Richard James",
+			"aspects": {"sky":4,"rose":4,"nectar":4,"fee":24},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "employable.nun",
+            "label": "En pèlerinage insolite: une Nonne Inhabituelle",
+            "icon":"assistance.nun",
+            "desc": "Les religieuses ne voyagent généralement pas seules. Celle-ci le fait. [La Sœur du Triple Nœud fournit de l'aide pour <sprite name=knock>, <sprite name=moon> et <sprite name=grail>. Parlez-lui avant qu'elle parte, si vous souhaitez utiliser ses services]",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.nun"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.nun",
+            "label": "Aide de la Nonne",
+            "desc": "Les Sœurs du Triple Nœud ont disparu depuis longtemps de ce coin du monde… n'est-ce pas?",
+			"aspects": {"knock":4,"moon":4,"grail":4,"fee":24},
+            "inherits":"_assistance.usesomen"
+        },
+        {
+            "id": "employable.painter",
+            "label": "De passage: une Peintre Surréaliste",
+            "icon":"assistance.painter",
+            "desc": "Une peintre est venu en Cornouailles pour la célèbre lumière des après-midi de la région… [La Peintre Surréaliste fournit de l'aide pour <sprite name=grail>, <sprite name=moth> et <sprite name=rose>. Parlez-lui avant qu'elle parte, si vous souhaitez utiliser ses services]",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.painter"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.painter",
+            "label": "Aide de la Peintre Surréaliste",
+            "desc": "Quelle peintre digne de ce nom ne voudrait pas passer une journée à la Hush House?",
+			"aspects": {"grail":4,"moth":4,"rose":4,"fee":24},
+            "inherits":"_assistance.usespigment"
+        },
+        {
+            "id": "employable.poet",
+            "label": "De passage: un Poète",
+            "icon":"assistance.poet",
+            "desc": "Un poète est venu au Sweet Bones pour chercher l'inspiration, ce qui semble principalement signifier 'boire' mais aussi 'plaindre'. [Le Poète Élégiaque fournit de l'aide pour <sprite name=winter>, <sprite name=moth> et <sprite name=sky>. Parlez-lui avant qu'il parte, si vous souhaitez utiliser ses services]",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.poet"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.poet",
+            "label": "Aide du Poète Élégiaque",
+            "desc": "Les poètes, dit-on, ne font jamais la vaisselle. Celui-ci ne s'est pas brossé les cheveux non plus. Mais il a son utilité et ses talents.",
+			"aspects": {"winter":4,"moth":4,"sky":4,"fee":24},
+            "inherits":"_assistance.usesflower"
+        }
+
+    ]
+}

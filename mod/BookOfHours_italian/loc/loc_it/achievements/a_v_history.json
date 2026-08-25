@@ -1,0 +1,73 @@
+{
+ "achievements": [
+  {
+   "id": "A_CATEGORY_VICTORY",
+   "label": "Vittoria"
+  },
+  {
+   "id": "A_V_HISTORY_WHEELOFFORTUNE",
+   "label": "Destino",
+   "descriptionunlocked": "Ho sbloccato la carta Ruota della Fortuna."
+  },
+  {
+   "id": "A_V_HISTORY_FOOL",
+   "label": "Follia & Mania",
+   "descriptionunlocked": "Ho sbloccato la carta Matto."
+  },
+  {
+   "id": "A_V_HISTORY_WORLD",
+   "label": "Successo Assicurato",
+   "descriptionunlocked": "Ho sbloccato la carta Mondo."
+  },
+  {
+   "id": "A_V_HISTORY_MOON",
+   "label": "Forze Occulte",
+   "descriptionunlocked": "Ho sbloccato la carta Luna."
+  },
+  {
+   "id": "A_V_HISTORY_DEVIL",
+   "label": "Ciò Che È Predestinato",
+   "descriptionunlocked": "Ho sbloccato la carta Diavolo."
+  },
+  {
+   "id": "A_V_HISTORY_STAR",
+   "label": "Speranza & Prospettive",
+   "descriptionunlocked": "Ho sbloccato la carta Stella."
+  },
+  {
+   "id": "A_V_HISTORY_DEATH",
+   "label": "Fine e Mortalità",
+   "descriptionunlocked": "Ho sbloccato la carta Morte."
+  },
+  {
+   "id": "A_V_HISTORY_EMPRESS",
+   "label": "L’Ignoto",
+   "descriptionunlocked": "Ho sbloccato la carta Imperatrice."
+  },
+  {
+   "id": "A_V_HISTORY_JUDGEMENT",
+   "label": "Richiamo & Rinascita",
+   "descriptionunlocked": "Ho sbloccato la carta Giudizio."
+  },
+  {
+   "id": "A_V_HISTORY_HERMIT",
+   "label": "Vigilanza e Tradimento",
+   "descriptionunlocked": "Ho sbloccato la carta Eremita."
+  },
+  {
+   "id": "A_V_HISTORY_SUN",
+   "label": "Felicità Materiale",
+   "descriptionunlocked": "Ho sbloccato la carta Sole."
+  },
+  {
+   "id": "A_V_HISTORY_TOWER",
+   "label": "CATASTROFE",
+   "descriptionunlocked": "Ho sbloccato la carta Torre."
+  },
+  {
+   "id": "A_V_HISTORY_TEMPERANCE",
+   "label": "Compromesso & Adattamento",
+   "descriptionunlocked": "Ho sbloccato la carta Temperanza."
+  }
+ ]
+}

@@ -1,0 +1,814 @@
+{
+ "recipes": [
+  {
+   "id": "craft.edictsmartial_tincture.labhitic_edge",
+   "Label": "Crea: Tintura Labhitica",
+   "StartDescription": "Concentra le mie risorse, e quelle del luogo, per creare una piccola quantità di un ingrediente stabile di Lama. \n\n[Editti Marziali con <sprite name=edge> da Apprendista crea la Tintura Labhitica. O per una ricetta da Studioso: se schiaccio una Foglia adatta nella pozione, diventerà un inchiostro pericoloso.]",
+   "Desc": "Mentre si chiarifica, la Tintura vibra a scatti. Il termine tecnico per questo è «ringhio»."
+  },
+  {
+   "id": "craft.disciplines.thehammer_tincture.labhitic_edge",
+   "Label": "Crea: Tintura Labhitica",
+   "StartDescription": "Concentra le mie risorse, e quelle del luogo, per creare una piccola quantità di un ingrediente stabile di Lama. \n\n[Discipline del Martello con <sprite name=edge> da Apprendista crea la Tintura Labhitica. O per una ricetta da Studioso: aggiungi qualcosa con l’aspetto Memoria, e avrò gli elementi per una notevole Memoria di Lama.]",
+   "Desc": "Mentre si chiarifica, la Tintura vibra a scatti. Questo si chiama «ringhio»."
+  },
+  {
+   "id": "craft.raggedcrossroads_tincture.labhitic_edge",
+   "Label": "Crea: Tintura Labhitica",
+   "StartDescription": "Concentra le mie risorse, e quelle del luogo, per creare una piccola quantità di un ingrediente stabile di Lama. \n\n[Crocevia Logoro con <sprite name=edge> da Apprendista crea la Tintura Labhitica. O per una ricetta da Studioso: aggiungi qualcosa con l’aspetto Memoria, e avrò gli elementi per una notevole Memoria di Lama.]",
+   "Desc": "Mentre si chiarifica, la Tintura vibra a scatti. Questo si chiama «ringhio»."
+  },
+  {
+   "id": "craft.sickle.eclipse_tincture.labhitic_edge",
+   "Label": "Crea: Tintura Labhitica",
+   "StartDescription": "Concentra le mie risorse, e quelle del luogo, per creare una piccola quantità di un ingrediente stabile di Lama. \n\n[Falce & Eclissi con <sprite name=edge> da Apprendista crea la Tintura Labhitica. Oppure Lama da Studioso, più qualcosa con l’aspetto Foglia, mi permetteranno di preparare un inchiostro pericoloso.]",
+   "Desc": "Mentre si chiarifica, la Tintura vibra a scatti. Questo si chiama «ringhio»."
+  },
+  {
+   "id": "craft.sharps_midnight.mark_moon",
+   "Label": "Crea: Traccia di Mezzanotte",
+   "StartDescription": "Concentra risonanze notturne con un sigillo accurato. \n\n[Taglienti con <sprite name=moon> da Apprendista crea la Traccia di Mezzanotte. O per una ricetta da Studioso: se lo uso su dei Resti, posso ricavarne qualcosa di cupamente coriaceo e agghiacciantemente potente.]",
+   "Desc": "La Traccia non andrebbe esposta alla luce del sole, ma il motivo principale è che alla luce del sole appare sorprendentemente brutta."
+  },
+  {
+   "id": "craft.disciplines.thescar_torgues.cleansing_edge",
+   "Label": "Crea: Purga di Torgue",
+   "StartDescription": "Mi purgo delle risonanze armoniose, accumulando un po’ di Lama personale. Non sarà piacevole. \n\n[Discipline della Cicatrice con <sprite name=edge> da Apprendista crea la Purga di Torgue. Oppure Lama da Studioso, e qualcosa con l’aspetto Foglia, mi permetteranno di preparare un inchiostro pericoloso.]",
+   "Desc": "La Purga mi ha lasciato la pelle che brucia, i denti pulsanti. La Corrivalità rimbomba sotto le superfici membranose del mondo desto."
+  },
+  {
+   "id": "craft.auroralcontemplations_torgues.cleansing_edge",
+   "Label": "Crea: Purga di Torgue",
+   "StartDescription": "Mi purgo delle risonanze armoniose, accumulando un po’ di Lama personale. Non sarà piacevole. \n\n[Contemplazioni Aurorali con <sprite name=edge> da Apprendista crea la Purga di Torgue. O per una ricetta da Studioso: se aggiungo qualcosa con l’aspetto Memoria, avrò gli elementi per una notevole Memoria di Lama.]",
+   "Desc": "La Purga mi ha lasciato la pelle che brucia, i denti pulsanti. La Corrivalità rimbomba sotto le superfici membranose del mondo desto."
+  },
+  {
+   "id": "craft.sharps_torgues.cleansing_edge",
+   "Label": "Crea: Purga di Torgue",
+   "StartDescription": "Mi purgo delle risonanze armoniose, accumulando un po’ di Lama personale. Non sarà piacevole. \n\n[Taglienti con <sprite name=edge> da Apprendista crea la Purga di Torgue. O per una ricetta da Studioso: se aggiungo qualcosa con l’aspetto Memoria, avrò gli elementi per una notevole Memoria di Lama.]",
+   "Desc": "La Purga mi ha lasciato la pelle che brucia, i denti pulsanti. La Corrivalità rimbomba sotto le superfici membranose del mondo desto."
+  },
+  {
+   "id": "craft.meniscatereflections_torgues.cleansing_edge",
+   "Label": "Crea: Purga di Torgue",
+   "StartDescription": "Mi purgo delle risonanze armoniose, accumulando un po’ di Lama personale. Non sarà piacevole. \n\n[Riflessi Meniscati con <sprite name=edge> da Apprendista crea la Purga di Torgue. O per una ricetta da Studioso: se aggiungo qualcosa con l’aspetto Memoria, avrò gli elementi per una notevole Memoria di Lama.]",
+   "Desc": "La Purga mi ha lasciato la pelle che brucia, i denti pulsanti. La Corrivalità rimbomba sotto le superfici membranose del mondo desto."
+  },
+  {
+   "id": "craft.purifications.exaltations_torgues.cleansing_sky",
+   "Label": "Crea: Purga di Torgue",
+   "StartDescription": "Mi purgo delle influenze terrene, accumulando un po’ di Lama personale attraverso la ferocia del processo. \n\n[Purificazioni & Esaltazioni con <sprite name=sky> da Apprendista crea la Purga di Torgue. O per una ricetta da Studioso: se uso uno Strumento, posso usare l’esperienza come ispirazione per una musica incentrata su Cielo.]",
+   "Desc": "La Purga mi ha lasciato gli occhi abbagliati, la pelle che brucia. La Corrivalità si manifesta persino nelle operazioni del Sole."
+  },
+  {
+   "id": "craft.bells.brazieries_salts.bitterblack_forge",
+   "Label": "Crea: Sali Amaronero",
+   "StartDescription": "Concentra essenze covanti in un ingrediente di Forgia. \n\n[Campane & Bracieri con <sprite name=forge> da Apprendista crea i Sali Amaronero. Oppure, se aggiungo Metallo a Forgia da Studioso, potrei fonderlo in qualcosa di esotico.]",
+   "Desc": "Si <i>può</i> cucinare con i Sali Amaronero, ma solo usandoli con grande parsimonia."
+  },
+  {
+   "id": "craft.transformations.liberations_salts.bitterblack_forge",
+   "Label": "Crea: Sali Amaronero",
+   "StartDescription": "Concentra essenze covanti in un ingrediente di Forgia. \n\n[Trasformazioni & Liberazioni con <sprite name=forge> da Apprendista crea i Sali Amaronero. O per una ricetta da Studioso: se aggiungo Liquido a Forgia da Studioso, le essenze impiegheranno più tempo a raffreddarsi, e arrossiranno in qualcosa di più potente.]",
+   "Desc": "Si <i>può</i> cucinare con i Sali Amaronero, ma solo usandoli con grande parsimonia."
+  },
+  {
+   "id": "craft.disciplines.thehammer_salts.bitterblack_forge",
+   "Label": "Crea: Sali Amaronero",
+   "StartDescription": "Concentra essenze covanti in un ingrediente di Forgia. \n\n[Discipline del Martello con <sprite name=forge> da Apprendista crea i Sali Amaronero. O per una ricetta da Studioso: se aggiungo Metallo a Forgia da Studioso, potrei fonderlo in qualcosa di esotico.]",
+   "Desc": "Si <i>può</i> cucinare con i Sali Amaronero, ma solo usandoli con grande parsimonia."
+  },
+  {
+   "id": "craft.door.wall_salts.bitterblack_forge",
+   "Label": "Crea: Sali Amaronero",
+   "StartDescription": "Un vecchio trucco da muratore: concentra essenze fumanti in un ingrediente di Forgia. \n\n[Porta & Muro con <sprite name=forge> da Apprendista crea Sali Amaronero. Oppure, per una ricetta da Studioso: se aggiungo Metallo a Forgia da Studioso, potrei fonderlo in qualcosa di esotico.]",
+   "Desc": "I Sali Amaronero venivano usati nella malta, un tempo, ma hanno molti altri usi."
+  },
+  {
+   "id": "craft.anbary.lapidary_salts.bitterblack_forge",
+   "Label": "Crea: Sali Amaronero",
+   "StartDescription": "Qualcosa ai confini dell’arte orafa: concentra essenze covanti in un ingrediente di Forgia. \n\n[Ambreria & Lapidario con <sprite name=forge> da Apprendista crea i Sali Amaronero. O per una ricetta da Studioso: se aggiungo Liquido, ma mantengo Forgia da Studioso, le essenze impiegheranno più tempo a raffreddarsi, e arrossiranno in qualcosa di più potente.]",
+   "Desc": "I Sali Amaronero sono stati usati come ingrediente nel lucido per gioiellieri, ma hanno molti altri usi."
+  },
+  {
+   "id": "craft.sacralimiae_material.westcott_moth",
+   "Label": "Crea: Composti di Westcott",
+   "StartDescription": "L’Ordo Limiae insegnava a preparare composti intrisi di Forgia da materiali effimeri – «la Falena trova la Fiamma». \n\n[Sacra Limiae con <sprite name=moth> da Apprendista crea i Composti di Westcott. O per una ricetta da Studioso: se includo una Memoria e fumo il preparato mentre è ancora fresco, otterrò un’intuizione enigmatica.]",
+   "Desc": "Il nome comune ormai è «Composti di Westcott», ma l’Ordo Limiae è più antico di Westcott di… svariati secoli. Probabilmente. Per quanto se ne sia mai saputo, Westcott non era un Lungo."
+  },
+  {
+   "id": "craft.solutions.separations_material.westcott_moth",
+   "Label": "Crea: Composti di Westcott",
+   "StartDescription": "Un trucco alchemico per trasformare l’effimero in composti volatili – «la Falena trova la Fiamma». \n\n[Soluzioni & Separazioni con <sprite name=moth> da Apprendista crea Composti di Westcott. Oppure, per una ricetta da Studioso: se includo una Memoria e affumico la preparazione finché è fresca, otterrò un’intuizione enigmatica.]",
+   "Desc": "Westcott probabilmente non li inventò tutti, ma sapeva come far attecchire un nome."
+  },
+  {
+   "id": "craft.pyroglyphics_material.westcott_forge",
+   "Label": "Crea: Composti di Westcott",
+   "StartDescription": "Ordina, mescola, concentra: uno strano insieme di composti dai molteplici usi. \n\n[Piroglifici con <sprite name=forge> da Apprendista crea i Composti di Westcott. Oppure, se aggiungo Liquido a Forgia da Studioso, le essenze impiegheranno più tempo a raffreddarsi, e arrossiranno in qualcosa di più potente.]",
+   "Desc": "Westcott probabilmente non li inventò tutti, ma sapeva come far attecchire un nome."
+  },
+  {
+   "id": "craft.meniscatereflections_material.westcott_forge",
+   "Label": "Crea: Composti di Westcott",
+   "StartDescription": "I Riflessi includono tecniche alchemiche. Posso usarle per preparare uno strano insieme di composti dai molteplici usi. \n\n[Riflessi Meniscati con <sprite name=forge> da Apprendista creano i Composti di Westcott. Oppure, se aggiungo Liquido a Forgia da Studioso, le essenze impiegheranno più tempo a raffreddarsi, e arrossiranno in qualcosa di più potente.]",
+   "Desc": "Westcott probabilmente non li inventò tutti, ma sapeva come far attecchire un nome."
+  },
+  {
+   "id": "craft.spices.savours_material.westcott_forge",
+   "Label": "Crea: Composti di Westcott",
+   "StartDescription": "Ordina, mescola, concentra: uno strano insieme di composti dai molteplici usi. \n\n[Spezie & Sapori con <sprite name=forge> da Apprendista crea i Composti di Westcott. Oppure, se aggiungo liquido a Forgia da Studioso, le essenze impiegheranno più tempo a raffreddarsi, e arrossiranno in qualcosa di più potente.]",
+   "Desc": "Westcott probabilmente non li inventò tutti, ma sapeva come far attecchire un nome."
+  },
+  {
+   "id": "craft.applebrighteuphonies_music.beguiling_grail",
+   "Label": "Crea: Melodia Ammaliante",
+   "StartDescription": "Concepisci o richiama una deliziosa musichetta. \n\n[Eufonie di Applebright con <sprite name=grail> da Apprendista crea la Melodia Ammaliante. O per una ricetta da Studioso: se canticchio quella musica a una miscela che include un Fiore, le donerà una qualità inebriante.]",
+   "Desc": "La canticchierò per un bel po’. E lo farà anche chiunque passi di qui."
+  },
+  {
+   "id": "craft.resurgences.emergences_music.beguiling_grail",
+   "Label": "Crea: Melodia Ammaliante",
+   "StartDescription": "Concepisci o richiama una deliziosa musichetta. \n\n[Risorgenze & Emersioni con <sprite name=grail> da Apprendista crea la Melodia Ammaliante. O per una ricetta da Studioso: se aggiungo Tessuto, posso canticchiare un filo di vita in una piccola bambola di stoffa.]",
+   "Desc": "La canticchierò per un bel po’. E lo farà anche chiunque passi di qui."
+  },
+  {
+   "id": "craft.pentiments.precursors_music.beguiling_grail",
+   "Label": "Crea: Melodia Ammaliante",
+   "StartDescription": "Richiama una deliziosa musichetta di un’altra epoca... \n\n[Pentimenti & Precursori con <sprite name=grail> da Apprendista crea la Melodia Ammaliante. O per una ricetta da Studioso: se aggiungo Tessuto, posso canticchiare un filo di vita in una piccola bambola di stoffa.]",
+   "Desc": "La canticchierò per un bel po’. E lo farà anche chiunque passi di qui."
+  },
+  {
+   "id": "craft.tridesmahiera_music.beguiling_grail",
+   "Label": "Crea: Melodia Ammaliante",
+   "StartDescription": "Cuci insieme frasi di musica sacra per creare qualcosa di delizioso. \n\n[Tridesma Hiera con <sprite name=grail> da Apprendista crea la Melodia Ammaliante. O per una ricetta da Studioso: se aggiungo Tessuto, posso canticchiare un filo di vita in una piccola bambola di stoffa.]",
+   "Desc": "La canticchierò per un bel po’. E lo farà anche chiunque passi di qui."
+  },
+  {
+   "id": "craft.orchids.narcotics_witching.tisane_grail",
+   "Label": "Crea: Tisana Stregonesca",
+   "StartDescription": "Qualche petalo sparso e qualche stelo occasionale, essiccati per preparare una tisana. \n\n[Orchidee & Narcotici con <sprite name=grail> da Apprendista crea la Tisana Stregonesca. O per una ricetta da Studioso: se aggiungo un Fiore, la miscela diventerà inebriante.]",
+   "Desc": "È meglio calda; ma si conserva."
+  },
+  {
+   "id": "craft.leaves.thorns_witching.tisane_grail",
+   "Label": "Crea: Tisana Stregonesca",
+   "StartDescription": "Qualche foglia sparsa e qualche bacca occasionale, essiccate per preparare una tisana. \n\n[Foglie & Spine con <sprite name=grail> da Apprendista crea la Tisana Stregonesca. O per una ricetta da Studioso: se aggiungo un Fiore, la miscela diventerà inebriante.]",
+   "Desc": "È meglio calda; ma si conserva."
+  },
+  {
+   "id": "craft.desires.dissolutions_witching.tisane_grail",
+   "Label": "Crea: Tisana Stregonesca",
+   "StartDescription": "La Hush House risuona ancora di desideri frustrati. Li mescolerò in una tisana. \n\n[Desideri & Dissoluzioni con <sprite name=grail> da Apprendista crea la Tisana Stregonesca. O per una ricetta da Studioso: se aggiungo un Fiore, la miscela diventerà inebriante.]",
+   "Desc": "È meglio calda; ma si conserva."
+  },
+  {
+   "id": "craft.thegreatsignsandthegreatscars_witching.tisane_grail",
+   "Label": "Crea: Tisana Stregonesca",
+   "StartDescription": "Traccia sul recipiente segni adatti, e la tisana al suo interno acquisirà una potenza particolare. \n\n[I Grandi Segni e le Grandi Cicatrici con <sprite name=grail> da Apprendista crea la Tisana Stregonesca. O per una ricetta da Studioso: se immergo Tessuto nell’infuso, posso intrecciarlo in una piccola bambola di stoffa ricca di Graal.]",
+   "Desc": "È meglio calda; ma si conserva."
+  },
+  {
+   "id": "craft.seastories_witching.tisane_grail",
+   "Label": "Crea: Tisana Stregonesca",
+   "StartDescription": "Qui dove risuona il mare, posso mescolare una tisana toccata dalla marea. \n\n[Storie di Mare con <sprite name=grail> da Apprendista crea la Tisana Stregonesca. O per una ricetta da Studioso: se immergo Tessuto nell’infuso, posso intrecciarlo in una piccola bambola di stoffa ricca di Graal.]",
+   "Desc": "È meglio calda; ma si conserva."
+  },
+  {
+   "id": "craft.strings.songs_music.cheerful_heart",
+   "Label": "Crea: Canzoncina Allegra",
+   "StartDescription": "Concepisci o richiama un motivetto travolgente e orecchiabile. \n\n[Corde & Canti con <sprite name=heart> da Apprendista crea la Canzoncina Allegra. O per una ricetta da Studioso: se lavoro a uno Strumento, posso elevarlo a qualcosa di più potente.]",
+   "Desc": "Tirlin tirlin plin ti trillo. Plin!"
+  },
+  {
+   "id": "craft.drums.dances_music.cheerful_heart",
+   "Label": "Crea: Canzoncina Allegra",
+   "StartDescription": "Concepisci o richiama un motivetto travolgente e orecchiabile. \n\n[Tamburi & Danze con <sprite name=heart> da Apprendista crea la Canzoncina Allegra. O per una ricetta da Studioso: se lavoro a uno Strumento, posso elevarlo a qualcosa di più potente.]",
+   "Desc": "Bum ti bum ti bum. Babum!"
+  },
+  {
+   "id": "craft.stitching.binding_perhibiate_heart",
+   "Label": "Crea: Perhibiate",
+   "StartDescription": "Non tutti i legami sono fisici. Posso preparare un inchiostro di vincoli. \n\n[Cucitura & Rilegatura con <sprite name=heart> da Apprendista crea il Perhibiate. O per una ricetta da Studioso: se aggiungo Tessuto, posso impregnare le fibre con la pozione legante e cucire qualcosa di maggiore potere.]",
+   "Desc": "Alcuni esperti sostengono che sia difficile perdere un vasetto di inchiostro perhibiate, ma non hanno mai vissuto a Hush House."
+  },
+  {
+   "id": "craft.weaving.knotworking_perhibiate_heart",
+   "Label": "Crea: Perhibiate",
+   "StartDescription": "Non tutti i nodi sono fisici. Posso preparare un inchiostro che lega il nominare al nominato. \n\n[Tessitura & Annodatura con <sprite name=heart> da Apprendista crea il Perhibiate. O per una ricetta da Studioso: se aggiungo Tessuto, posso intrecciare le fibre impregnate in un legame più grande.]",
+   "Desc": "Alcuni esperti sostengono che sia difficile perdere un vasetto di inchiostro perhibiate, ma non hanno mai vissuto a Hush House."
+  },
+  {
+   "id": "craft.inks.power_perhibiate_scale",
+   "Label": "Crea: Perhibiate",
+   "StartDescription": "Posso preparare un Inchiostro di Potere minore: un inchiostro che lega. \n\n[Inchiostri di Potere con <sprite name=scale> da Apprendista crea il Perhibiate. O per una ricetta da Studioso: se vi schiaccio dentro una Foglia adatta, posso renderlo un Inchiostro più letale e più potente.]",
+   "Desc": "Alcuni esperti sostengono che sia difficile perdere un vasetto di inchiostro perhibiate, ma non hanno mai vissuto a Hush House."
+  },
+  {
+   "id": "craft.herbs.infusions_liquid.regensburg_heart",
+   "Label": "Crea: Balsamo di Ratisbona",
+   "StartDescription": "Distilla un palliativo erboristico. \n\n[Erbe & Infusi con <sprite name=heart> da Apprendista crea Balsamo di Ratisbona. Oppure, per una ricetta da Studioso: se aggiungo un Liquido dall’aspetto adatto, distillerò qualcosa di più potente.]",
+   "Desc": "La medicina dovrebbe avere questo odore: rassicurante proprio perché sgradevole."
+  },
+  {
+   "id": "craft.quenchings.quellings_liquid.regensburg_heart",
+   "Label": "Crea: Balsamo di Ratisbona",
+   "StartDescription": "Distilla un rimedio calmante. \n\n[Spegnimenti & Placamenti con <sprite name=heart> da Apprendista crea Balsamo di Ratisbona. Oppure, per una ricetta da Studioso: se aggiungo un Liquido dall’aspetto adatto, distillerò qualcosa di più potente.]",
+   "Desc": "La medicina dovrebbe avere questo odore: rassicurante proprio perché sgradevole."
+  },
+  {
+   "id": "craft.surgeries.exsanguinations_liquid.regensburg_heart",
+   "Label": "Crea: Balsamo di Ratisbona",
+   "StartDescription": "Mescola un semplice rimedio. \n\n[Chirurgie & Dissanguamenti con <sprite name=heart> da Apprendista crea il Balsamo di Ratisbona. O per una ricetta da Studioso: se aggiungo un Liquido dall’aspetto adatto, preparerò qualcosa di più potente.]",
+   "Desc": "La medicina dovrebbe avere questo odore: rassicurante proprio perché sgradevole."
+  },
+  {
+   "id": "craft.maggephenemysteries_liquid.regensburg_heart",
+   "Label": "Crea: Balsamo di Ratisbona",
+   "StartDescription": "Mescola qualcosa per tenere lontana la malattia. \n\n[Misteri Maggephene con <sprite name=heart> da Apprendista crea il Balsamo di Ratisbona. O per una ricetta da Studioso: se aggiungo un Liquido dall’aspetto adatto, preparerò qualcosa di più potente.]",
+   "Desc": "La medicina dovrebbe avere questo odore: rassicurante proprio perché sgradevole."
+  },
+  {
+   "id": "craft.edictsinviolable_liquid.regensburg_heart",
+   "Label": "Crea: Balsamo di Ratisbona",
+   "StartDescription": "Mescola qualcosa per tenere lontana la malattia. \n\n[Editti Inviolabili con <sprite name=heart> da Apprendista crea il Balsamo di Ratisbona. O per una ricetta da Studioso: se aggiungo un Liquido dall’aspetto adatto, preparerò qualcosa toccato dal potere del Pelledituono.]",
+   "Desc": "La medicina dovrebbe avere questo odore: rassicurante proprio perché sgradevole."
+  },
+  {
+   "id": "craft.edictsliminal_secret.threshold_knock",
+   "Label": "Crea: Soglia Segreta",
+   "StartDescription": "Invoca i nomi minori del Chancel per consacrare una nuova soglia. \n\n[Editti Liminali con <sprite name=knock> da Apprendista crea la Soglia Segreta. O per una ricetta da Studioso: se aggiungo Liquido, preparerò una potente tossina di Battente.]",
+   "Desc": "Un’opportunità d’apertura che durerà un po’."
+  },
+  {
+   "id": "craft.door.wall_secret.threshold_knock",
+   "Label": "Crea: Soglia Segreta",
+   "StartDescription": "Impiega le Arti meno note del guardiano di soglia per fondare una nuova soglia. \n\n[Porta & Muro con <sprite name=knock> da Apprendista crea la Soglia Segreta. O per una ricetta da Studioso: se aggiungo Liquido, preparerò una potente tossina di Battente.]",
+   "Desc": "Un’opportunità d’apertura che durerà un po’."
+  },
+  {
+   "id": "craft.horns.ivories_secret.threshold_knock",
+   "Label": "Crea: Soglia Segreta",
+   "StartDescription": "Invoca il potere dei cancelli inferiori del Mansus per fondare una nuova soglia. \n\n[Corna & Avori con <sprite name=knock> da Apprendista crea la Soglia Segreta. O per una ricetta da Studioso: se lo uso con un Uovo, farò schiudere qualcosa di privo di occhi, ma pulsante di potenziale.]",
+   "Desc": "Un’opportunità d’apertura che durerà un po’."
+  },
+  {
+   "id": "craft.preliminalmeter_secret.threshold_knock",
+   "Label": "Crea: Soglia Segreta",
+   "StartDescription": "Impiega un complesso giro di rime per fondare una nuova soglia. \n\n[Metro Preliminale con <sprite name=knock> da Apprendista crea la Soglia Segreta. O per una ricetta da Studioso: se aggiungo una Memoria, si risolverà in un’intuizione di Battente.]",
+   "Desc": "Un’opportunità d’apertura che durerà un po’."
+  },
+  {
+   "id": "craft.glassblowing.vesselcrafting_ampoule.amethyst_knock",
+   "Label": "Crea: Ampolla d’Ametista",
+   "StartDescription": "Modella, tingi, riempi un’ampolla paradossale di Battente. \n\n[Vetro Soffiato & Vasellame con <sprite name=knock> da Apprendista crea l’Ampolla d’Ametista. O per una ricetta da Studioso: se aggiungo un Metallo, creerò una lega esotica.]",
+   "Desc": "Ha i suoi usi, ma nessuno è semplice e pochi sono innocui."
+  },
+  {
+   "id": "craft.surgeries.exsanguinations_ampoule.amethyst_knock",
+   "Label": "Crea: Ampolla d’Ametista",
+   "StartDescription": "Crea una medicina insolita e pericolosa: un’ampolla paradossale di Battente. \n\n[Chirurgie & Dissanguamenti con <sprite name=knock> da Apprendista crea l’Ampolla d’Ametista. O per una ricetta da Studioso: se aggiungo Liquido, preparerò una potente tossina di Battente.]",
+   "Desc": "Ha i suoi usi, ma nessuno è semplice e pochi sono innocui."
+  },
+  {
+   "id": "craft.solutions.separations_ampoule.amethyst_knock",
+   "Label": "Crea: Ampolla d’Ametista",
+   "StartDescription": "Modella e riempi un’ampolla paradossale di Battente. \n\n[Soluzioni & Separazioni con <sprite name=knock> da Apprendista crea l’Ampolla d’Ametista. O per una ricetta da Studioso: se aggiungo Liquido, preparerò una potente tossina di Battente.]",
+   "Desc": "Ha i suoi usi, ma nessuno è semplice e pochi sono innocui."
+  },
+  {
+   "id": "craft.lockworks.clockworks_ampoule.amethyst_knock",
+   "Label": "Crea: Ampolla d’Ametista",
+   "StartDescription": "Mescola acidi per un’ampolla paradossale di Battente. \n\n[Serrature & Orologi con <sprite name=knock> da Apprendista crea Ampolla d’Ametista. Oppure, per una ricetta da Studioso: se aggiungo Vetro, creerò una lega di Battente d’interesse per gli orologiai più ambiziosi.]",
+   "Desc": "Ha i suoi usi, ma nessuno è semplice e pochi sono innocui."
+  },
+  {
+   "id": "craft.thegreatsignsandthegreatscars_ampoule.amethyst_knock",
+   "Label": "Crea: Ampolla d’Ametista",
+   "StartDescription": "Traccia glifi per potenziare un’ampolla paradossale di Battente. \n\n[I Grandi Segni e le Grandi Cicatrici con <sprite name=knock> da Apprendista crea l’Ampolla d’Ametista. O per una ricetta da Studioso: se aggiungo una Memoria, posso inalare i colori gemmati e ottenere un’intuizione di Battente più potente.]",
+   "Desc": "Ha i suoi usi, ma nessuno è semplice e pochi sono innocui."
+  },
+  {
+   "id": "craft.purifications.exaltations_pigment.refulgin_lantern",
+   "Label": "Crea: Refulgin",
+   "StartDescription": "Mescola un pigmento di un bianco accecante. \n\n[Purificazioni & Esaltazioni con <sprite name=lantern> da Apprendista crea il Refulgin. O per una ricetta da Studioso: se aggiungo Liquido, posso distillare un’essenza alchemica più potente.]",
+   "Desc": "Risplendi, piccolo colore."
+  },
+  {
+   "id": "craft.transformations.liberations_pigment.refulgin_lantern",
+   "Label": "Crea: Refulgin",
+   "StartDescription": "Mescola un pigmento di un bianco accecante. \n\n[Trasformazioni & Liberazioni con <sprite name=lantern> da Apprendista crea il Refulgin. O per una ricetta da Studioso: se aggiungo Liquido, posso distillare un’essenza alchemica più potente.]",
+   "Desc": "Risplendi, piccolo colore."
+  },
+  {
+   "id": "craft.sacrasolisinvicti_pigment.refulgin_lantern",
+   "Label": "Crea: Refulgin",
+   "StartDescription": "Mescola un pigmento di un bianco accecante, quello che la Chiesa usava per i suoi riti prima della Dissoluzione. \n\n[Sacra Solis Invicti con <sprite name=lantern> da Apprendista crea il Refulgin. O per una ricetta da Studioso: se aggiungo Vetro, posso risolverlo in un liquido di Lanterna più potente, una sostanza sacra.]",
+   "Desc": "Risplendi, piccolo colore."
+  },
+  {
+   "id": "craft.inks.revelation_pigment.refulgin_lantern",
+   "Label": "Crea: Refulgin",
+   "StartDescription": "Mescola un pigmento di un bianco accecante, quello che la Chiesa usava per i suoi riti prima della Dissoluzione. \n\n[Inchiostri di Rivelazione con <sprite name=lantern> da Apprendista crea il Refulgin. O per una ricetta da Studioso: se aggiungo Vetro, posso risolverlo in un liquido di Lanterna più potente, un precursore dell’inchiostro Ashartine.]",
+   "Desc": "Risplendi, piccolo colore."
+  },
+  {
+   "id": "craft.glaziery.lightsmithing_dearday.lens_lantern",
+   "Label": "Crea: Lente di Dearday",
+   "StartDescription": "Fabbrica un dispositivo ottico. \n\n[Vetreria & Lucefabbro con <sprite name=lantern> da Apprendista crea la Lente di Dearday. O per una ricetta da Studioso: se aggiungo Vetro, posso distillare un liquido di Lanterna più potente.]",
+   "Desc": "La Lente è asimmetrica – fragile – instabile. È questo che le dà potere."
+  },
+  {
+   "id": "craft.glassblowing.vesselcrafting_dearday.lens_lantern",
+   "Label": "Crea: Lente di Dearday",
+   "StartDescription": "Fabbrica un dispositivo ottico. \n\n[Vetro Soffiato & Vasellame con <sprite name=lantern> da Apprendista crea la Lente di Dearday. O per una ricetta da Studioso: se aggiungo Vetro, posso distillare un liquido di Lanterna più potente.]",
+   "Desc": "La Lente è asimmetrica – fragile – instabile. È questo che le dà potere."
+  },
+  {
+   "id": "craft.pyroglyphics_dearday.lens_lantern",
+   "Label": "Crea: Lente di Dearday",
+   "StartDescription": "Forgia un dispositivo ottico. \n\n[Piroglifici con <sprite name=lantern> da Apprendista crea la Lente di Dearday. O per una ricetta da Studioso: se aggiungo Liquido, posso distillare un’essenza di Lanterna più potente.]",
+   "Desc": "La Lente è asimmetrica – fragile – instabile. È questo che le dà potere."
+  },
+  {
+   "id": "craft.disciplines.thescar_dearday.lens_lantern",
+   "Label": "Crea: Lente di Dearday",
+   "StartDescription": "Mola un dispositivo ottico. \n\n[Discipline della Cicatrice con <sprite name=lantern> da Apprendista crea la Lente di Dearday. O per una ricetta da Studioso: se aggiungo Memoria, coglierò una potente intuizione con un po’ di Lanterna e più Squama.]",
+   "Desc": "La Lente è asimmetrica – fragile – instabile. È questo che le dà potere."
+  },
+  {
+   "id": "craft.desires.dissolutions_midnight.mark_moon",
+   "Label": "Crea: Traccia di Mezzanotte",
+   "StartDescription": "Concentra risonanze notturne con un sigillo accurato. \n\n[Desideri & Dissoluzioni con <sprite name=moon> da Apprendista crea la Traccia di Mezzanotte. O per una ricetta da Studioso: se la traccio sul Legno, esploderà in uno strano frutto.]",
+   "Desc": "La Traccia non andrebbe esposta alla luce del sole, ma il motivo principale è che alla luce del sole appare sorprendentemente brutta."
+  },
+  {
+   "id": "craft.snowstories_midnight.mark_moon",
+   "Label": "Crea: Traccia di Mezzanotte",
+   "StartDescription": "Concentra risonanze notturne con un sigillo accurato. \n\n[Storie di Neve con <sprite name=moon> da Apprendista crea la Traccia di Mezzanotte. O per una ricetta da Studioso: se lo uso con un Uovo, farò schiudere qualcosa di malizioso e argenteo.]",
+   "Desc": "La Traccia non andrebbe esposta alla luce del sole, ma il motivo principale è che alla luce del sole appare sorprendentemente brutta."
+  },
+  {
+   "id": "craft.serpents.venoms_midnight.mark_moon",
+   "Label": "Crea: Traccia di Mezzanotte",
+   "StartDescription": "Concentra risonanze notturne con un sigillo accurato. \n\n[Serpenti & Veleni con <sprite name=moon> da Apprendista crea la Traccia di Mezzanotte. O per una ricetta da Studioso: se lo uso con un Uovo, farò schiudere qualcosa di malizioso e argenteo.]",
+   "Desc": "La Traccia non andrebbe esposta alla luce del sole, ma il motivo principale è che alla luce del sole appare sorprendentemente brutta."
+  },
+  {
+   "id": "craft.insects.nectars_midnight.mark_moon",
+   "Label": "Crea: Traccia di Mezzanotte",
+   "StartDescription": "Concentra risonanze notturne con un sigillo accurato. \n\n[Insetti & Nettari con <sprite name=moon> da Apprendista crea la Traccia di Mezzanotte. O per una ricetta da Studioso: se lo uso con un Uovo, farò schiudere qualcosa di privo di occhi, ma pulsante di potenziale.]",
+   "Desc": "La Traccia non andrebbe esposta alla luce del sole, ma il motivo principale è che alla luce del sole appare sorprendentemente brutta."
+  },
+  {
+   "id": "craft.wolfstories_midnight.mark_moon",
+   "Label": "Crea: Traccia di Mezzanotte",
+   "StartDescription": "Concentra risonanze notturne con un sigillo accurato. \n\n[Storie di Lupo con <sprite name=moon> da Apprendista crea la Traccia di Mezzanotte. O per una ricetta da Studioso: se lo uso su dei Resti, posso ricavarne qualcosa di cupamente coriaceo e agghiacciantemente potente.]",
+   "Desc": "La Traccia non andrebbe esposta alla luce del sole, ma il motivo principale è che alla luce del sole appare sorprendentemente brutta."
+  },
+  {
+   "id": "craft.rhyme.remembrance_midnight.mark_moon",
+   "Label": "Crea: Traccia di Mezzanotte",
+   "StartDescription": "Concentra risonanze notturne con un sigillo accurato. \n\n[Rima & Rimembranza con <sprite name=moon> da Apprendista crea la Traccia di Mezzanotte. O per una ricetta da Studioso: se aggiungo un Uovo al bagno, farò schiudere qualcosa di malizioso e argenteo.]",
+   "Desc": "La Traccia non andrebbe esposta alla luce del sole, ma il motivo principale è che alla luce del sole appare sorprendentemente brutta."
+  },
+  {
+   "id": "craft.inks.containment_catwink_moon",
+   "Label": "Crea: Catwink",
+   "StartDescription": "Prepara un Inchiostro minore con virtù contro i parassiti. \n\n[Inchiostri di Contenimento con <sprite name=moon> da Apprendista crea il Catwink. Oppure, per una ricetta da Studioso: se lo uso con una Bevanda, mescolerò un liquore scuro che è anche un precursore di un Grande Inchiostro.]",
+   "Desc": "Scuro e pungente."
+  },
+  {
+   "id": "craft.sickle.eclipse_catwink_moon",
+   "Label": "Crea: Catwink",
+   "StartDescription": "Prepara un inchiostro che terrà lontani gli scarabei. \n\n[Falce & Eclissi con <sprite name=moon> da Apprendista crea il Catwink. O per una ricetta da Studioso: se lo uso su dei Resti, posso ricavarne qualcosa di cupamente coriaceo e agghiacciantemente potente.]",
+   "Desc": "Scuro e pungente."
+  },
+  {
+   "id": "craft.sandstories_catwink_moon",
+   "Label": "Crea: Catwink",
+   "StartDescription": "Prepara un inchiostro che risveglierà il rimpianto nei ratti. \n\n[Storie di Sabbia con <sprite name=moon> da Apprendista crea il Catwink. O per una ricetta da Studioso: se aggiungo un Uovo al bagno, farò schiudere qualcosa di malizioso e argenteo.]",
+   "Desc": "Scuro e pungente."
+  },
+  {
+   "id": "craft.putrefactions.calcinations_catwink_moon",
+   "Label": "Crea: Catwink",
+   "StartDescription": "Prepara un inchiostro che terrà a bada i pesciolini d’argento. \n\n[Putrefazioni & Calcinazioni con <sprite name=moon> da Apprendista crea il Catwink. O per una ricetta da Studioso: se aggiungo Liquido, preparerò un inchiostro più sottile e più potente.]",
+   "Desc": "Scuro e pungente."
+  },
+  {
+   "id": "craft.edictsinviolable_catwink_moon",
+   "Label": "Crea: Catwink",
+   "StartDescription": "Prepara un inchiostro che terrà lontani i vermi… anche se solo i più piccoli della loro specie. \n\n[Editti Inviolabili con <sprite name=moon> da Apprendista crea il Catwink. O per una ricetta da Studioso: mescola un ingrediente Fiore per un risultato più gelido.]",
+   "Desc": "Scuro e pungente."
+  },
+  {
+   "id": "craft.inks.revelation_paint.moth_moth",
+   "Label": "Crea: Colore: Oro Falena",
+   "StartDescription": "Mescola un colore dalla tonalità dorata e malinconica. \n\n[Inchiostri di Rivelazione con <sprite name=moth> da Apprendista crea il Colore Oro Falena. O per una ricetta da Studioso: se aggiungo Liquido, preparerò un argenteo inchiostro di luna.]",
+   "Desc": "Né chiaro né scuro."
+  },
+  {
+   "id": "craft.edictsliminal_tanglebrag_moth",
+   "Label": "Crea: Tanglebrag",
+   "StartDescription": "Crea un pegno per attirare l’attenzione di un Nome della Falena. \n\n[Editti Liminali con <sprite name=moth> da Apprendista crea il Tanglebrag. O per una ricetta da Studioso: se lavoro con Memoria, ricorderò invece un enigma.]",
+   "Desc": "Posalo con delicatezza, o potrebbe rotolare via, persino in salita."
+  },
+  {
+   "id": "craft.resurgences.emergences_tanglebrag_moth",
+   "Label": "Crea: Tanglebrag",
+   "StartDescription": "Crea un pegno per attirare l’attenzione di un Nome della Falena. \n\n[Risorgenze & Emersioni con <sprite name=moth> da Apprendista crea il Tanglebrag. O per una ricetta da Studioso: se annido un Uovo nel nodo, farò schiudere qualcosa di privo di occhi, ma pulsante di potenziale.]",
+   "Desc": "Posalo con delicatezza, o potrebbe rotolare via, persino in salita."
+  },
+  {
+   "id": "craft.watchmansparadoxes_tanglebrag_lantern",
+   "Label": "Crea: Tanglebrag",
+   "StartDescription": "Allinea le ombre per invitare l’attenzione di un nome di Falena. \n\n[Paradossi del Guardiano con <sprite name=lantern> da Apprendista crea Tanglebrag. Oppure, per una ricetta da Studioso: allinea le ombre attraverso il Vetro, e raccogli un liquido di Lanterna.]",
+   "Desc": "Posalo con delicatezza, o potrebbe rotolare via, persino in salita."
+  },
+  {
+   "id": "craft.rites.theroots_tanglebrag_moth",
+   "Label": "Crea: Tanglebrag",
+   "StartDescription": "Annoda un pegno per invitare l’attenzione di un Nome della Falena. \n\n[Riti delle Radici con <sprite name=moth> da Apprendista crea il Tanglebrag. O per una ricetta da Studioso: se lavoro con Memoria, ricorderò invece un enigma.]",
+   "Desc": "Posalo con delicatezza, o potrebbe rotolare via, persino in salita."
+  },
+  {
+   "id": "craft.weaving.knotworking_tanglebrag_moth",
+   "Label": "Crea: Tanglebrag",
+   "StartDescription": "Intreccia un pegno per invitare l’attenzione di un Nome della Falena. \n\n[Tessitura & Annodatura con <sprite name=moth> da Apprendista crea il Tanglebrag. O per una ricetta da Studioso: se lavoro con Memoria, ricorderò invece un enigma.]",
+   "Desc": "Posalo con delicatezza, o potrebbe rotolare via, persino in salita."
+  },
+  {
+   "id": "craft.herbs.infusions_liquid.thirza_nectar",
+   "Label": "Crea: Cordiali di Thirza",
+   "StartDescription": "Prepara un miscuglio aromatico di cordiali. \n\n[Erbe & Infusi con <sprite name=nectar> da Apprendista crea i Cordiali di Thirza. O per una ricetta da Studioso: se lo uso con una Bevanda, mescolerò un liquore più scuro e più forte.]",
+   "Desc": "Assaggia con cautela."
+  },
+  {
+   "id": "craft.coil.chasm_liquid.thirza_nectar",
+   "Label": "Crea: Cordiali di Thirza",
+   "StartDescription": "Prepara un miscuglio pungente di cordiali. \n\n[Spira & Baratro con <sprite name=nectar> da Apprendista crea i Cordiali di Thirza. O per una ricetta da Studioso: se lascio in infusione Legno nelle giuste proporzioni della miscela, esploderà in uno strano frutto.]",
+   "Desc": "Assaggia con cautela."
+  },
+  {
+   "id": "craft.spices.savours_liquid.thirza_nectar",
+   "Label": "Crea: Cordiali di Thirza",
+   "StartDescription": "Prepara un miscuglio speziato di cordiali. \n\n[Spezie & Sapori con <sprite name=nectar> da Apprendista crea i Cordiali di Thirza. O per una ricetta da Studioso: se lascio in infusione Legno nelle giuste proporzioni della miscela, esploderà in uno strano frutto.]",
+   "Desc": "Assaggia con cautela."
+  },
+  {
+   "id": "craft.orchids.narcotics_liquid.thirza_nectar",
+   "Label": "Crea: Cordiali di Thirza",
+   "StartDescription": "Prepara un miscuglio muschiato di cordiali. \n\n[Orchidee & Narcotici con <sprite name=nectar> da Apprendista crea i Cordiali di Thirza. O per una ricetta da Studioso: se lo uso con una Bevanda, mescolerò un liquore più scuro e più forte.]",
+   "Desc": "Assaggia con cautela."
+  },
+  {
+   "id": "craft.stonestories_liquid.thirza_nectar",
+   "Label": "Crea: Cordiali di Thirza",
+   "StartDescription": "Prepara un miscuglio ruvido e granuloso di cordiali. \n\n[Storie di Pietra con <sprite name=nectar> da Apprendista crea i Cordiali di Thirza. Oppure, per una ricetta da Studioso: se aggiungo Resti, potrei risvegliare memorie della terra profonde come le ossa.]",
+   "Desc": "Assaggia con cautela."
+  },
+  {
+   "id": "craft.insects.nectars_yewgall.ink_nectar",
+   "Label": "Crea: Inchiostro Yewgall",
+   "StartDescription": "Distilla un inchiostro scuro e persistente. \n\n[Insetti & Nettari con <sprite name=nectar> da Apprendista crea Inchiostro Yewgall. Oppure, per una ricetta da Studioso: se lo uso con una Bevanda, mescolerò un liquore più scuro e più forte.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.rites.theroots_yewgall.ink_nectar",
+   "Label": "Crea: Inchiostro Yewgall",
+   "StartDescription": "Distilla un inchiostro scuro e persistente. \n\n[Riti delle Radici con <sprite name=nectar> da Apprendista crea Inchiostro Yewgall. Oppure, per una ricetta da Studioso: se lo uso con una Bevanda, mescolerò un liquore più scuro e più forte.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.leaves.thorns_yewgall.ink_nectar",
+   "Label": "Crea: Inchiostro Yewgall",
+   "StartDescription": "Distilla un inchiostro scuro e persistente. \n\n[Foglie & Spine con <sprite name=nectar> da Apprendista crea Inchiostro Yewgall. Oppure, per una ricetta da Studioso: se metto in infusione del Legno nelle giuste proporzioni della miscela, esploderà in uno strano frutto.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.putrefactions.calcinations_yewgall.ink_winter",
+   "Label": "Crea: Inchiostro Yewgall",
+   "StartDescription": "Distilla un inchiostro scuro e persistente. \n\n[Putrefazioni & Calcinazioni con <sprite name=winter> da Apprendista crea Inchiostro Yewgall. Oppure, per una ricetta da Studioso: se ci schiaccio dentro una Foglia, distillerò un inchiostro più potente, e molto più pericoloso.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.preliminalmeter_confounding.parable_rose",
+   "Label": "Crea: Parabola Sconcertante",
+   "StartDescription": "Medita sullo spazio fra i suoni per richiamare una sottile memoria. \n\n[Metro Preliminale con <sprite name=rose> da Apprendista crea la Parabola Sconcertante. O per una ricetta da Studioso: se porto un’altra Memoria, posso concepire un’intuizione superiore.]",
+   "Desc": "Si adatta abbastanza ordinatamente nella mente, purché la si giri di lato."
+  },
+  {
+   "id": "craft.skystories_confounding.parable_rose",
+   "Label": "Crea: Parabola Sconcertante",
+   "StartDescription": "Lascia che i suoni del vento richiamino gradualmente una sottile memoria. \n\n[Storie di Cielo con <sprite name=rose> da Apprendista crea la Parabola Sconcertante. O per una ricetta da Studioso: se porto un’altra Memoria, posso concepire un’intuizione superiore.]",
+   "Desc": "Si adatta abbastanza ordinatamente nella mente, purché la si giri di lato."
+  },
+  {
+   "id": "craft.tridesmahiera_confounding.parable_moon",
+   "Label": "Crea: Parabola Sconcertante",
+   "StartDescription": "Impiega le invocazioni della Sorellanza per riportare alla mente una sottile memoria. \n\n[Tridesma Hiera con <sprite name=moon> da Apprendista crea la Parabola Sconcertante. O per una ricetta da Studioso: se pronuncio queste invocazioni su un Uovo, si schiuderà in qualcosa di argenteo e malizioso.]",
+   "Desc": "Si adatta abbastanza ordinatamente nella mente, purché la si giri di lato."
+  },
+  {
+   "id": "craft.applebrighteuphonies_confounding.parable_sky",
+   "Label": "Crea: Parabola Sconcertante",
+   "StartDescription": "Medita sulla tradizione, richiama la contraddizione. \n\n[Eufonie di Applebright con <sprite name=sky> da Apprendista crea la Parabola Sconcertante. O per una ricetta da Studioso: se uso uno Strumento, posso mettere in musica questa contraddizione.]",
+   "Desc": "Si adatta abbastanza ordinatamente nella mente, purché la si giri di lato."
+  },
+  {
+   "id": "craft.sacrasolisinvicti_confounding.parable_sky",
+   "Label": "Crea: Parabola Sconcertante",
+   "StartDescription": "Ricorda le parabole degli antichi insegnamenti. \n\n[Sacra Solis Invicti con <sprite name=sky> da Apprendista crea la Parabola Sconcertante. O per una ricetta da Studioso: se aggiungo Legno, posso usare questa intuizione per incantare uno strumento.]",
+   "Desc": "Si adatta abbastanza ordinatamente nella mente, purché la si giri di lato."
+  },
+  {
+   "id": "craft.pearl.tide_sign.salt_rose",
+   "Label": "Crea: Segno di Sale",
+   "StartDescription": "Usa il sale per tracciare un sigillo di viaggio notturno e suono del tramonto. \n\n[Perla & Marea con <sprite name=rose> da Apprendista crea il Segno di Sale. O per una ricetta da Studioso: se aggiungo una Memoria, posso ottenere un’intuizione più potente di questo Segno.]",
+   "Desc": "Elegante come un petalo di fiore."
+  },
+  {
+   "id": "craft.seastories_sign.salt_moon",
+   "Label": "Crea: Segno di Sale",
+   "StartDescription": "Usa il sale per tracciare un sigillo di canto delle onde e viaggio notturno. \n\n[Storie di Mare con <sprite name=moon> da Apprendista crea il Segno di Sale. O per una ricetta da Studioso: se consacro un Liquido con questo segno, si chiarificherà in un Inchiostro di Rivelazione.]",
+   "Desc": "Elegante come un’onda."
+  },
+  {
+   "id": "craft.path.pilgrim_sign.salt_rose",
+   "Label": "Crea: Segno di Sale",
+   "StartDescription": "Usa il sale per tracciare un sigillo di viaggi e ritorni. \n\n[Cammino & Pellegrino con <sprite name=rose> da Apprendista crea il Segno di Sale. O per una ricetta da Studioso: se aggiungo una Memoria, posso ottenere un’intuizione più potente di questo Segno.]",
+   "Desc": "Elegante come un’orma."
+  },
+  {
+   "id": "craft.sandstories_sign.salt_rose",
+   "Label": "Crea: Segno di Sale",
+   "StartDescription": "Usa il sale per tracciare un sigillo segreto delle soglie del deserto. \n\n[Storie di Sabbia con <sprite name=rose> da Apprendista crea il Segno di Sale. O per una ricetta da Studioso: se traccio il segno con una Luce, posso spremere un’essenza rosea dall’aria.]",
+   "Desc": "Elegante come il tramonto."
+  },
+  {
+   "id": "craft.inks.power_sign.salt_rose",
+   "Label": "Crea: Segno di Sale",
+   "StartDescription": "Usa un inchiostro rudimentale per tracciare un sigillo di senso e tramonto. \n\n[Inchiostri di Potere con <sprite name=rose> da Apprendista crea il Segno di Sale. O per una ricetta da Studioso: se traccio il segno con una Luce, posso spremere un’essenza rosea dall’aria.]",
+   "Desc": "Elegante come una formula alchemica."
+  },
+  {
+   "id": "craft.hill.hollow_sign.salt_moon",
+   "Label": "Crea: Segno di Sale",
+   "StartDescription": "Usa il fango per tracciare un sigillo della notte inargentata. \n\n[Colle & Valle con <sprite name=moon> da Apprendista crea il Segno di Sale. O per una ricetta da Studioso: se traccio il segno su un Uovo, posso far schiudere qualcosa di privo di occhi, ma pulsante di potenziale.]",
+   "Desc": "Elegante come un ciottolo levigato."
+  },
+  {
+   "id": "craft.path.pilgrim_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa la terra per tracciare un sigillo dei Figli della Collina. \n\n[Cammino & Pellegrino con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: aggiungi una Memoria per richiamare qualcosa di più antico e più potente.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.serpents.venoms_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa le mie stesse lacrime per tracciare un sigillo di rimpianto. \n\n[Serpenti & Veleni con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: mescola un Liquido con le mie lacrime consacrate, per chiarificarlo in una tossina di Battente.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.coil.chasm_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa il mio stesso sangue per tracciare un sigillo selvaggio. \n\n[Spira & Baratro con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: aggiungi una Memoria per richiamare qualcosa di più antico e più potente.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.stonestories_music.savage_scale",
+   "Label": "Crea: Inno Selvaggio",
+   "StartDescription": "Innalza i ritmi della terra a una musica ricordata. \n\n[Storie di Pietra con <sprite name=scale> da Apprendista crea l’Inno Selvaggio. O per una ricetta da Studioso: sussurralo a un Uovo e fai schiudere qualcosa che richiama un’epoca più antica.]",
+   "Desc": "Aspro sulla lingua."
+  },
+  {
+   "id": "craft.drums.dances_music.savage_scale",
+   "Label": "Crea: Inno Selvaggio",
+   "StartDescription": "Richiama gli inni dei culti delle colline. \n\n[Tamburi & Danze con <sprite name=scale> da Apprendista crea l’Inno Selvaggio.]",
+   "Desc": "Aspro sulla lingua."
+  },
+  {
+   "id": "craft.horns.ivories_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa la terra per tracciare un sigillo dei Figli della Collina. \n\n[Corna & Avori con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: aggiungi una Memoria per richiamare qualcosa di più antico e più potente.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.furs.feathers_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa la terra per tracciare un sigillo dei Figli della Collina. \n\n[Pellicce & Piume con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: traccialo su un Uovo per far schiudere qualcosa che richiama un’epoca più antica.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.wolfstories_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa il mio stesso sangue per tracciare un sigillo selvaggio. \n\n[Storie di Lupo con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: aggiungi una Memoria per richiamare qualcosa di più antico e più potente.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.pentiments.precursors_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa le mie stesse lacrime per tracciare un sigillo di rimpianto. \n\n[Pentimenti & Precursori con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: traccialo su un Uovo per far schiudere qualcosa che richiama un’epoca più antica.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.hill.hollow_bisclavrets.knot_scale",
+   "Label": "Crea: Il Nodo di Bisclavret",
+   "StartDescription": "Usa le mie stesse lacrime per tracciare un sigillo di rimpianto. \n\n[Colle & Valle con <sprite name=scale> da Apprendista crea il Nodo di Bisclavret. O per una ricetta da Studioso: traccialo su un Uovo per far schiudere qualcosa che richiama un’epoca più antica.]",
+   "Desc": "Un difficile groviglio di linee."
+  },
+  {
+   "id": "craft.anbary.lapidary_awakened.feather_sky",
+   "Label": "Crea: Piuma Ridestata",
+   "StartDescription": "Innesca una corrente vitale in una piuma abbandonata. \n\n[Ambreria & Lapidario con <sprite name=sky> da Apprendista crea la Piuma Ridestata. O per una ricetta da Studioso: innesca quelle energie in un Liquido, facendolo rapprendere in un’essenza alchemica.]",
+   "Desc": "Un morbido tratto di penna, vibrante di vita."
+  },
+  {
+   "id": "craft.lockworks.clockworks_awakened.feather_sky",
+   "Label": "Crea: Piuma Ridestata",
+   "StartDescription": "Induci una corrente vitale in una piuma abbandonata. \n\n[Serrature & Orologi con <sprite name=sky> da Apprendista crea la Piuma Ridestata. O per una ricetta da Studioso: induci quelle correnti vitali nel Metallo, e crea una lega esotica.]",
+   "Desc": "Un morbido tratto di penna, vibrante di vita."
+  },
+  {
+   "id": "craft.stitching.binding_awakened.feather_sky",
+   "Label": "Crea: Piuma Ridestata",
+   "StartDescription": "Lega un poco di vita errante a una piuma abbandonata. \n\n[Cucitura & Rilegatura con <sprite name=sky> da Apprendista crea Piuma Ridestata. Oppure, per una ricetta da Studioso: lega quella vita a un Uovo, e fai schiudere qualcosa che rievoca un’epoca più antica.]",
+   "Desc": "Un morbido tratto di penna, vibrante di vita."
+  },
+  {
+   "id": "craft.sights.sensations_awakened.feather_sky",
+   "Label": "Crea: Piuma Ridestata",
+   "StartDescription": "Allinea una piuma abbandonata alle correnti di luce. \n\n[Visioni & Sensazioni con <sprite name=sky> da Apprendista crea Piuma Ridestata. Oppure, per una ricetta da Studioso: sfiora una Luce con la piuma, e osserva l’essenza dell’alba gocciolare dall’aria.]",
+   "Desc": "Un morbido tratto di penna, vibrante di vita."
+  },
+  {
+   "id": "craft.sacralimiae_awakened.feather_sky",
+   "Label": "Crea: Piuma Ridestata",
+   "StartDescription": "Sussurra un incantesimo d’ascesa per risvegliare una piuma abbandonata. \n\n[Sacra Limiae con <sprite name=sky> da Apprendista crea la Piuma Ridestata. O per una ricetta da Studioso: sussurralo a Legno intagliato, e incanta uno strumento.]",
+   "Desc": "Un morbido tratto di penna, vibrante di vita."
+  },
+  {
+   "id": "craft.strings.songs_music.wistful_sky",
+   "Label": "Crea: Aria Nostalgica",
+   "StartDescription": "Richiama un canto dolce e malinconico. \n\n[Corde & Canti con <sprite name=sky> da Apprendista crea l’Aria Nostalgica. O per una ricetta da Studioso: usa uno Strumento per elevarlo a una musica più grande.]",
+   "Desc": "Lascia che si innalzi in testa e nel cuore."
+  },
+  {
+   "id": "craft.bells.brazieries_music.wistful_sky",
+   "Label": "Crea: Aria Nostalgica",
+   "StartDescription": "Richiama un canto dolce e malinconico. \n\n[Campane & Bracieri con <sprite name=sky> da Apprendista crea l’Aria Nostalgica. O per una ricetta da Studioso: usa uno Strumento per elevarlo a una musica più grande.]",
+   "Desc": "Lascia che si innalzi in testa e nel cuore."
+  },
+  {
+   "id": "craft.ouranoscopy_music.wistful_sky",
+   "Label": "Crea: Aria Nostalgica",
+   "StartDescription": "Trova un canto dolce e malinconico nel volgere dei cieli. \n\n[Uranoscopia con <sprite name=sky> da Apprendista crea l’Aria Nostalgica. O per una ricetta da Studioso: incidi il canto nel Legno per incantare uno strumento.]",
+   "Desc": "Lascia che si innalzi in testa e nel cuore."
+  },
+  {
+   "id": "craft.watchmansparadoxes_music.wistful_sky",
+   "Label": "Crea: Aria Nostalgica",
+   "StartDescription": "Trova un canto dolce e malinconico negli incroci delle formule paradossali. \n\n[Paradossi del Guardiano con <sprite name=sky> da Apprendista crea l’Aria Nostalgica. O per una ricetta da Studioso: applica le formule a una Luce, e osserva un’essenza rosea stillare dall’aria.]",
+   "Desc": "Lascia che si innalzi in testa e nel cuore."
+  },
+  {
+   "id": "craft.skystories_music.wistful_sky",
+   "Label": "Crea: Aria Nostalgica",
+   "StartDescription": "Richiama un canto dolce e malinconico. \n\n[Storie di Cielo con <sprite name=sky> da Apprendista crea l’Aria Nostalgica. O per una ricetta da Studioso: usa uno Strumento per elevarlo a una musica più grande.]",
+   "Desc": "Lascia che si innalzi in testa e nel cuore."
+  },
+  {
+   "id": "craft.ouranoscopy_bittersweet.certainty_moon",
+   "Label": "Crea: Certezza Agrodolce",
+   "StartDescription": "Trova un’intuizione gelida nel chiaro di luna. \n\n[Uranoscopia con <sprite name=moon> da Apprendista crea la Certezza Agrodolce. O per una ricetta da Studioso: aggiungi una Lente e concentra quel chiaro di luna in un argenteo Inchiostro di Rivelazione.]",
+   "Desc": "Tienila stretta."
+  },
+  {
+   "id": "craft.rhyme.remembrance_bittersweet.certainty_winter",
+   "Label": "Crea: Certezza Agrodolce",
+   "StartDescription": "Trova un’intuizione gelida nei labirinti della memoria. \n\n[Rima & Rimembranza con <sprite name=winter> da Apprendista crea la Certezza Agrodolce. O per una ricetta da Studioso: lascia che guidi la mia mano quando seziono dei Resti, e potrò rendere qualcosa di cupamente coriaceo, agghiacciantemente potente.]",
+   "Desc": "Tienila stretta."
+  },
+  {
+   "id": "craft.raggedcrossroads_bittersweet.certainty_winter",
+   "Label": "Crea: Certezza Agrodolce",
+   "StartDescription": "Trova un’intuizione gelida negli intrichi del rimpianto. \n\n[Crocevia Logoro con <sprite name=winter> da Apprendista crea la Certezza Agrodolce. O per una ricetta da Studioso: schiaccia un Fiore per mescolare una pozione pallida e gelida.]",
+   "Desc": "Tienila stretta."
+  },
+  {
+   "id": "craft.snowstories_bittersweet.certainty_winter",
+   "Label": "Crea: Certezza Agrodolce",
+   "StartDescription": "Trova un’intuizione gelida nel ricordo della neve. \n\n[Storie di Neve con <sprite name=winter> da Apprendista crea la Certezza Agrodolce. O per una ricetta da Studioso: lascia che guidi la mia mano quando seziono dei Resti, e potrò rendere qualcosa di cupamente coriaceo, agghiacciantemente potente.]",
+   "Desc": "Tienila stretta."
+  },
+  {
+   "id": "craft.auroralcontemplations_eigengrau_lantern",
+   "Label": "Crea: Eigengrau",
+   "StartDescription": "Distilla una sorta di possibilità. \n\n[Contemplazioni Aurorali con <sprite name=lantern> da Apprendista crea l’Eigengrau. O per una ricetta da Studioso: mescola un altro Liquido per produrre un’essenza alchemica.]",
+   "Desc": "La superficie della sostanza è difficile da mettere a fuoco – quasi come se non ci fosse affatto."
+  },
+  {
+   "id": "craft.sights.sensations_eigengrau_winter",
+   "Label": "Crea: Eigengrau",
+   "StartDescription": "Distilla una sorta di possibilità. \n\n[Visioni & Sensazioni con <sprite name=winter> da Apprendista crea l’Eigengrau. O per una ricetta da Studioso: schiaccia dentro un Fiore, e mescola una pozione pallida e gelida.]",
+   "Desc": "La superficie della sostanza è difficile da mettere a fuoco – quasi come se non ci fosse affatto."
+  },
+  {
+   "id": "craft.quenchings.quellings_eigengrau_winter",
+   "Label": "Crea: Eigengrau",
+   "StartDescription": "Distilla una sorta di possibilità. \n\n[Spegnimenti & Placamenti con <sprite name=winter> da Apprendista crea l’Eigengrau. O per una ricetta da Studioso: schiaccia dentro un Fiore, e mescola una pozione pallida e gelida.]",
+   "Desc": "La superficie della sostanza è difficile da mettere a fuoco – quasi come se non ci fosse affatto."
+  },
+  {
+   "id": "craft.inks.containment_eigengrau_winter",
+   "Label": "Crea: Eigengrau",
+   "StartDescription": "Distilla una sorta di possibilità. \n\n[Inchiostri di Contenimento con <sprite name=winter> da Apprendista crea l’Eigengrau. O per una ricetta da Studioso: schiaccia dentro un Fiore, e mescola una pozione pallida e gelida.]",
+   "Desc": "La superficie della sostanza è difficile da mettere a fuoco – quasi come se non ci fosse affatto."
+  },
+  {
+   "id": "craft.maggephenemysteries_eigengrau_moon",
+   "Label": "Crea: Eigengrau",
+   "StartDescription": "Distilla una sorta di possibilità. \n\n[Misteri Maggephene con <sprite name=moon> da Apprendista crea l’Eigengrau. O per una ricetta da Studioso: schiaccia dentro un Fiore, e mescola una pozione pallida e gelida.]",
+   "Desc": "La superficie della sostanza è difficile da mettere a fuoco – quasi come se non ci fosse affatto."
+  },
+  {
+   "id": "craft.pearl.tide_eigengrau_moon",
+   "Label": "Crea: Eigengrau",
+   "StartDescription": "Distilla una sorta di possibilità. \n\n[Perla & Marea con <sprite name=moon> da Apprendista crea l’Eigengrau. O per una ricetta da Studioso: aggiungi Liquido per rafforzarlo in un argenteo Inchiostro di Rivelazione.]",
+   "Desc": "La superficie della sostanza è difficile da mettere a fuoco – quasi come se non ci fosse affatto."
+  },
+  {
+   "id": "craft.glaziery.lightsmithing_dearday.lens_sky",
+   "Label": "Crea: Lente di Dearday",
+   "StartDescription": "Fabbrica un dispositivo ottico. \n\n[Vetreria & Lucefabbro con <sprite name=sky> da Apprendista crea la Lente di Dearday. O per una ricetta da Studioso: aggiungi Metallo e crea una sostanza dalle proprietà più sottili.]",
+   "Desc": "La Lente è asimmetrica – fragile – instabile. È questo che le dà potere."
+  },
+  {
+   "id": "craft.edictsmartial_old.wound_moon",
+   "Label": "Crea: Vecchia Ferita",
+   "StartDescription": "Esplora una vecchia ferita per risvegliare le risonanze violente al suo interno. \n\n[Editti Marziali con <sprite name=moon> da Apprendista crea la Vecchia Ferita. O per una ricetta da Studioso: aggiungi una Memoria e trova un sogno ancora più amaro.]",
+   "Desc": "Muoviti con cautela finché dura il dolore."
+  },
+  {
+   "id": "craft.furs.feathers_awakened.feather_sky",
+   "Label": "Crea: Piuma Ridestata",
+   "StartDescription": "Leviga una piuma abbandonata fino a un’incantata vigilanza. \n\n[Pellicce & Piume con <sprite name=sky> da Apprendista crea la Piuma Ridestata. O per una ricetta da Studioso: usala con uno Strumento per trovare una musica celeste.]",
+   "Desc": "Un morbido tratto di penna, vibrante di vita."
+  },
+  {
+   "id": "craft.inks.power_yewgall.ink_nectar",
+   "Label": "Crea: Inchiostro Yewgall",
+   "StartDescription": "Distilla un inchiostro scuro e persistente. \n\n[Inchiostri di Potere con <sprite name=nectar> da Apprendista crea Inchiostro Yewgall.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.inks.power_stargall.ink_sky",
+   "Label": "Crea: Inchiostro Stargall",
+   "StartDescription": "Distilla un inchiostro luminoso e persistente. \n\n[Inchiostri di Potere con <sprite name=sky> da Apprendista crea Inchiostro Stargall.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.inks.revelation_yewgall.ink_nectar",
+   "Label": "Crea: Inchiostro Yewgall",
+   "StartDescription": "Distilla un inchiostro scuro e persistente. \n\n[Inchiostri di Rivelazione con <sprite name=nectar> da Apprendista crea Inchiostro Yewgall.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.inks.revelation_stargall.ink_sky",
+   "Label": "Crea: Inchiostro Stargall",
+   "StartDescription": "Distilla un inchiostro luminoso e persistente. \n\n[Inchiostri di Rivelazione con <sprite name=sky> da Apprendista crea Inchiostro Stargall.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.inks.containment_yewgall.ink_nectar",
+   "Label": "Crea: Inchiostro Yewgall",
+   "StartDescription": "Distilla un inchiostro scuro e persistente. \n\n[Inchiostri di Contenimento con <sprite name=nectar> da Apprendista crea Inchiostro Yewgall.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.inks.containment_stargall.ink_sky",
+   "Label": "Crea: Inchiostro Stargall",
+   "StartDescription": "Distilla un inchiostro luminoso e persistente. \n\n[Inchiostri di Contenimento con <sprite name=sky> da Apprendista crea Inchiostro Stargall.]",
+   "Desc": "Non versarlo."
+  },
+  {
+   "id": "craft.drums.dances_music.savage_nectar",
+   "Label": "Crea: Inno Selvaggio",
+   "StartDescription": "Richiama gli inni dei culti delle colline. \n\n[Tamburi & Danze con <sprite name=nectar> da Apprendista crea l’Inno Selvaggio. O per una ricetta da Studioso: usa uno Strumento per risolverlo in un canto ronzante e più antico.]",
+   "Desc": "Aspro sulla lingua."
+  },
+  {
+   "id": "craft.glassblowing.vesselcrafting_dearday.lens_sky",
+   "Label": "Crea: Lente di Dearday",
+   "StartDescription": "Fabbrica un dispositivo ottico. \n\n[Vetro Soffiato & Vasellame con <sprite name=sky> da Apprendista crea la Lente di Dearday. O per una ricetta da Studioso: se aggiungo Vetro, posso distillare un potente liquido di Lanterna.]",
+   "Desc": "La Lente è asimmetrica – fragile – instabile. È questo che le dà potere."
+  },
+  {
+   "id": "craft.ouranoscopy_bittersweet.certainty_winter",
+   "Label": "Crea: Certezza Agrodolce",
+   "StartDescription": "Trova un’intuizione gelida nella luce delle stelle. \n\n[Uranoscopia con <sprite name=winter> da Apprendista crea la Certezza Agrodolce. Se usassi Luna al posto di Inverno, forse potrei spingermi oltre.]",
+   "Desc": "Tienila stretta."
+  }
+ ]
+}

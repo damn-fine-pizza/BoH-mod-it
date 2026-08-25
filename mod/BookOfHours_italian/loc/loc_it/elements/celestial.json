@@ -1,0 +1,99 @@
+{
+ "elements": [
+  {
+   "id": "time.daybreak",
+   "label": "Spuntare del Giorno",
+   "desc": "[spuntare del giorno]"
+  },
+  {
+   "id": "time.dawn",
+   "label": "Alba",
+   "desc": "«L’ora in cui i sogni sono più luminosi e i venti più freddi.» – Flecker"
+  },
+  {
+   "id": "time.morning",
+   "label": "Mattina",
+   "desc": "Terza"
+  },
+  {
+   "id": "time.midday",
+   "label": "Mezzogiorno",
+   "desc": "Sesta"
+  },
+  {
+   "id": "time.afternoon",
+   "label": "Pomeriggio",
+   "desc": "Nona"
+  },
+  {
+   "id": "time.dusk",
+   "label": "Crepuscolo",
+   "desc": "Vespri"
+  },
+  {
+   "id": "time.night",
+   "label": "Notte",
+   "desc": "Veglia"
+  },
+  {
+   "id": "season.spring",
+   "label": "Primavera",
+   "desc": ".."
+  },
+  {
+   "id": "season.summer",
+   "label": "Estate",
+   "desc": ".."
+  },
+  {
+   "id": "season.autumn",
+   "label": "Autunno",
+   "desc": ".."
+  },
+  {
+   "id": "season.winter",
+   "label": "Inverno",
+   "desc": ".."
+  },
+  {
+   "id": "season.numa",
+   "label": "Numa",
+   "desc": ".."
+  },
+  {
+   "id": "season.spring.paused",
+   "label": "Primavera [Sospesa]",
+   "desc": ".."
+  },
+  {
+   "id": "season.summer.paused",
+   "label": "Estate [Sospesa]",
+   "desc": ".."
+  },
+  {
+   "id": "season.autumn.paused",
+   "label": "Autunno [Sospeso]",
+   "desc": ".."
+  },
+  {
+   "id": "season.winter.paused",
+   "label": "Inverno [Sospeso]",
+   "desc": ".."
+  },
+  {
+   "id": "towards.numa",
+   "label": "Verso Numa",
+   "desc": "La stagione chiamata Numa visita Brancrug una volta ogni nove stagioni; ma Numa è capricciosa come la nebbia. Esattamente quando in quelle nove stagioni cadrà, è molto difficile da sapere. Ma quanto più questo numero si avvicina a nove, tanto più presto Numa arriverà."
+  },
+  {
+   "id": "next.numa",
+   "label": "Prossima Numa",
+   "desc": "La prossima stagione sarà Numa."
+  },
+  {
+   "id": "block.numa",
+   "label": "Numa Non Ancora",
+   "desc": "Impedisce che Numa venga estratto per un po’ – uno di questi dovrebbe essere purgato a ogni estrazione di numa."
+  }
+ ]
+}

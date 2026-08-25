@@ -1,0 +1,24 @@
+{
+    "elements": [
+
+        {"id":"hint.workstation","label":"Workstation Hints",
+        "desc":"Aspects most likely to be useful here: \n\n[further]"},
+
+        {"id":"hint.tothethresholdofthehouse","label":"TO THE THRESHOLD OF THE HOUSE",
+        "icon":"button_overflow",
+        "desc":"[You can only keep five things in your belongings. A sixth item will be abandoned unless it already has a home. Abandoned items will wait for you outside the House.]"},
+
+        {"id":"hint.essential","label":"ESSENTIAL",
+        "desc":"To go in this slot, an object must match all of these.", "icon":"slotessential"},
+
+        {"id":"hint.required","label":"REQUIRED",
+        "desc":"To go in this slot, an object must match at least one of these.", "icon":"slotyes"},
+
+        {"id":"hint.forbidden","label":"FORBIDDEN",
+        "desc":"If an object matches any of these, it can't go in this slot.", "icon":"slotno"}
+
+
+
+
+    ]
+}

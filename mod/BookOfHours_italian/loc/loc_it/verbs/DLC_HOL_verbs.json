@@ -1,0 +1,241 @@
+{
+ "verbs": [
+  {
+   "id": "nx",
+   "label": "NX: pteifdlc"
+  },
+  {
+   "id": "lighthouse",
+   "label": "Dietro le Quinte",
+   "desc": "La Curia dell’Isola è ormai scomparsa da tempo. Un tempo aiutò a preservare una certa conoscenza e una sorta di sicurezza qui a Brancrug – e istituì la carica di Archivista. Rowena, Segretaria Persistente della Curia, un’entità complessa che ha a lungo protetto la Hush House, è sia esausta che compromessa... e così è tempo che l’Archivista restituisca il favore, e istituisca un successore della Curia. [Aiuta i Visitatori a perseguire i loro obiettivi e sviluppare i loro Programmi. Quando avrai trovato sei candidati adatti ispirati da Programmi, potrai suggerire di fondare un’organizzazione che sia un degno successore della Curia dell’Isola. Se non potrai trovare una Segretaria Persistente adatta, Rowena continuerà a servire in quel ruolo, anche mentre continua ad affievolirsi.]",
+   "slots": [
+    {
+     "id": "treasurer",
+     "label": "Tesoriere",
+     "description": "Il Tesoriere sarebbe responsabile delle finanze dell’Istituto. Questa sarebbe una buona scusa per chiedere una dotazione iniziale – quindi dovrebbe trattarsi di qualcuno di facoltoso."
+    },
+    {
+     "id": "salvant",
+     "label": "Segretario Salvante",
+     "description": "Il Segretario Salvante guiderebbe le opere di cura e restauro dell’Istituto."
+    },
+    {
+     "id": "vigilant",
+     "label": "Segretario Vigilante",
+     "description": "Il Segretario Vigilante provvederebbe alla sicurezza dell’Istituto."
+    },
+    {
+     "id": "enigmatic",
+     "label": "Segretario Enigmatico",
+     "description": "Il Segretario Enigmatico celerebbe o rivelerebbe i segreti dell’Istituto."
+    },
+    {
+     "id": "nunciant",
+     "label": "Segretario Nunziante",
+     "description": "Il Segretario Nunziante comunicherebbe e tratterebbe con le altre organizzazioni."
+    },
+    {
+     "id": "persistent",
+     "label": "Segretaria Persistente",
+     "description": "La Segretaria Persistente non deve essere solo immortale, ma deve stare con un piede fuori dalle leggi delle Ore... e quindi deve essere sempre una Ligeiana."
+    },
+    {
+     "id": "journal",
+     "label": "Registri",
+     "description": "L’Archivista registrerà chi e dove."
+    }
+   ]
+  },
+  {
+   "id": "lighthouse.convene",
+   "label": "Il Segnale Concordato",
+   "desc": "I fondatori concordarono che quando il momento fosse opportuno, sarebbero tornati alla Hush House. Forse quel momento è adesso. [Colloca il tuo Diario qui per invitare i fondatori del Faro alla Casa. Quando tutti i Fondatori saranno arrivati, portali a un incontro nel Salotto della tua scelta, con rinfreschi leggeri.]",
+   "slots": [
+    {
+     "id": "ink",
+     "label": "Registri",
+     "description": "L’Archivista sa chi e dove."
+    }
+   ]
+  },
+  {
+   "id": "salon.refectory",
+   "label": "Un Salotto nel Refettorio",
+   "desc": "La stanza dove un tempo si riuniva la Curia: un luogo adatto per un Salotto. [Qui si potrebbe servire il Pranzo nel pomeriggio, o la Cena la sera. Un buon padrone di casa offrirà almeno un Primo Piatto, un Piatto Principale, un Contorno e un Dolce.]",
+   "slots": [
+    {
+     "id": "g1",
+     "label": "Ospite"
+    },
+    {
+     "id": "g2",
+     "label": "Ospite"
+    },
+    {
+     "id": "g3",
+     "label": "Ospite"
+    },
+    {
+     "id": "g4",
+     "label": "Ospite"
+    },
+    {
+     "id": "g5",
+     "label": "Ospite"
+    },
+    {
+     "id": "p",
+     "label": "Segretaria Persistente",
+     "description": "Nella Hush House, un posto vuoto è spesso tradizionalmente lasciato a tavola per Rowena, protettrice della Hush House, un tempo Segretaria Persistente della Curia dell’Isola. [Se un giorno proponi un successore per Rowena... fallo sedere qui.]"
+    }
+   ]
+  },
+  {
+   "id": "salon.division",
+   "label": "Un Salotto nell’Aula della Divisione",
+   "desc": "Riporta la luce negli specchi dove un tempo Lady Eva teneva corte. [Qui si può fare Pranzo nel pomeriggio, o Cena la sera. Un buon padrone di casa offrirà almeno una portata iniziale, un piatto principale, un contorno e un dolce.]",
+   "slots": [
+    {
+     "id": "g1",
+     "label": "Ospite"
+    },
+    {
+     "id": "g2",
+     "label": "Ospite"
+    },
+    {
+     "id": "g3",
+     "label": "Ospite"
+    },
+    {
+     "id": "g4",
+     "label": "Ospite"
+    },
+    {
+     "id": "g5",
+     "label": "Ospite"
+    },
+    {
+     "id": "p",
+     "label": "Segretaria Persistente",
+     "description": "Nella Hush House, un posto vuoto è spesso tradizionalmente lasciato a tavola per Rowena, protettrice della Hush House, un tempo Segretaria Persistente della Curia dell’Isola. [Se un giorno proponi un successore per Rowena... fallo sedere qui.]"
+    }
+   ]
+  },
+  {
+   "id": "salon.voices",
+   "label": "Un Salotto nell’Aula delle Voci",
+   "desc": "Una scelta eccentrica, o almeno suggestiva, di luogo per un Salotto. [Qui si potrebbe avere Merenda Mattutina al mattino, o Tè del Pomeriggio più tardi nella giornata. Nessuno dei due eventi dovrebbe includere bevande Inebrianti.]",
+   "slots": [
+    {
+     "id": "g1",
+     "label": "Ospite"
+    },
+    {
+     "id": "g2",
+     "label": "Ospite"
+    },
+    {
+     "id": "g3",
+     "label": "Ospite"
+    },
+    {
+     "id": "g4",
+     "label": "Ospite"
+    },
+    {
+     "id": "g5",
+     "label": "Ospite"
+    },
+    {
+     "id": "p",
+     "label": "Segretaria Persistente",
+     "description": "Nella Hush House, un posto vuoto è spesso tradizionalmente lasciato a tavola per Rowena, protettrice della Hush House, un tempo Segretaria Persistente della Curia dell’Isola. [Se un giorno proponi un successore per Rowena... fallo sedere qui.]"
+    }
+   ]
+  },
+  {
+   "id": "salon.chapter",
+   "label": "Un Salotto nella Sala Capitolare",
+   "desc": "Tranquilla, con un’acustica eccellente; anche se un po’ piena di spifferi. [Qui si potrebbe avere Merenda Mattutina al mattino, e Tè del Pomeriggio più tardi nella giornata. Nessuno dei due eventi dovrebbe includere bevande Inebrianti.]",
+   "slots": [
+    {
+     "id": "g1",
+     "label": "Ospite"
+    },
+    {
+     "id": "g2",
+     "label": "Ospite"
+    },
+    {
+     "id": "g3",
+     "label": "Ospite"
+    },
+    {
+     "id": "g4",
+     "label": "Ospite"
+    },
+    {
+     "id": "g5",
+     "label": "Ospite"
+    },
+    {
+     "id": "p",
+     "label": "Segretaria Persistente",
+     "description": "Nella Hush House, un posto vuoto è spesso tradizionalmente lasciato a tavola per Rowena, protettrice della Hush House, un tempo Segretaria Persistente della Curia dell’Isola. [Se un giorno proponi un successore per Rowena... fallo sedere qui.]"
+    }
+   ]
+  },
+  {
+   "id": "salon.physic",
+   "label": "Un Picnic nell’Orto dei Semplici",
+   "desc": "La pace dei fiori, il mormorio delle foglie. [Qui si potrebbe fare un Picnic, ma solo in Primavera o Estate.]",
+   "slots": [
+    {
+     "id": "g1",
+     "label": "Ospite"
+    },
+    {
+     "id": "g2",
+     "label": "Ospite"
+    },
+    {
+     "id": "g3",
+     "label": "Ospite"
+    },
+    {
+     "id": "g4",
+     "label": "Ospite"
+    },
+    {
+     "id": "g5",
+     "label": "Ospite"
+    },
+    {
+     "id": "p",
+     "label": "Segretaria Persistente",
+     "description": "Nella Hush House, un posto vuoto è spesso tradizionalmente lasciato a tavola per Rowena, protettrice della Hush House, un tempo Segretaria Persistente della Curia dell’Isola. [Se un giorno proponi un successore per Rowena... fallo sedere qui.]"
+    }
+   ]
+  },
+  {
+   "id": "salon.gullscry",
+   "label": "Un Picnic nella Loggia di Gullscry",
+   "desc": "Conversazioni cupe dove un tempo il povero Valentine sedeva solo. [Qui si potrebbe fare un Picnic, ma solo in Primavera o Estate.]",
+   "slots": [
+    {
+     "id": "g1",
+     "label": "Ospite"
+    },
+    {
+     "id": "g2",
+     "label": "Ospite"
+    },
+    {
+     "id": "g3",
+     "label": "Ospite"
+    }
+   ]
+  }
+ ]
+}

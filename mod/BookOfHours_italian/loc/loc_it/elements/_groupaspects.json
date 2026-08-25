@@ -1,0 +1,44 @@
+{
+ "elements": [
+  {
+   "id": "group1_primary",
+   "label": "Poteri",
+   "desc": "[Categorie fondamentali di potere riconosciute dagli studiosi delle Arti Invisibili. Le trovi nelle carte Anima, nelle abilità, nelle memorie, negli oggetti; usale per riuscire nelle sfide di studio e creazione.]"
+  },
+  {
+   "id": "group2_challenges",
+   "label": "Sfide",
+   "desc": "[Difficoltà o prezzi che devi eguagliare.]"
+  },
+  {
+   "id": "group3_me",
+   "label": "Competenza",
+   "desc": "[Capacità, Abilità e risorse personali.]"
+  },
+  {
+   "id": "group4_visitors",
+   "label": "Visitatori",
+   "desc": "[Le nature e gli interessi dei visitatori della Hush House.]"
+  },
+  {
+   "id": "group6_exaltation",
+   "label": "Esaltazioni",
+   "desc": "[Modi in cui stai collaborando oggi con questo assistente.]"
+  },
+  {
+   "id": "group7_histories",
+   "label": "Storie",
+   "desc": "[Quando l’Archivista della Hush House prende in considerazione una nuova Storia, perfino le Ore potrebbero prenderne nota.]"
+  },
+  {
+   "id": "groupzzz",
+   "label": "Forme",
+   "desc": "[Le forme delle nature delle cose visibili e invisibili. Usale per capire cosa potresti essere in grado di farne.]"
+  },
+  {
+   "id": "workstation",
+   "label": "Postazione di Lavoro",
+   "desc": "[«La ricompensa di una cosa ben fatta – è averla fatta.» – Emerson]"
+  }
+ ]
+}

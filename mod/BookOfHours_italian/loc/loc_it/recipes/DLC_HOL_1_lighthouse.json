@@ -1,0 +1,48 @@
+{
+ "recipes": [
+  {
+   "id": "lighthouse.basehint",
+   "label": "Un Inizio",
+   "startdescription": "Mi serviranno sei candidati adatti – a sufficienza per ricostituire la vecchia struttura della Curia dell’Isola, con una nuova Segretaria Persistente al posto di Rowena."
+  },
+  {
+   "id": "lighthouse.flush",
+   "label": "Involo!",
+   "startdescription": "!"
+  },
+  {
+   "id": "lighthouse.foundation",
+   "label": "Una Fondazione",
+   "startdescription": "Sei notabili si accingono a fondare l’Istituto del Faro, il successore della Curia dell’Isola. [Una volta compiuto questo passo, non potrai più modificare le tue preferenze riguardo ai candidati – e se un candidato muore o scompare, l’Istituto del Faro non vedrà mai la luce. <b>Se hai selezionato candidati con Agende, Timori o Simpatie contrastanti, quelle ispirazioni resteranno in stallo.</b>]",
+   "desc": "Questi sono i sei fondatori; sono quasi pronti a inaugurare il proprio Istituto. Il settimo, non riconosciuto, è l’Archivista. [Per continuare, posiziona il tuo diario in una stanza della Hush House con tutti e sei i fondatori. Posiziona il tuo diario nel Faro per convocarli rapidamente.]"
+  },
+  {
+   "id": "lighthouse.foundation.rowena",
+   "label": "Una Fondazione",
+   "startdescription": "Cinque notabili si accingono a fondare l’Istituto del Faro, il successore della Curia dell’Isola. Poiché non è disponibile alcun sostituto per Rowena, continuerà come Segretaria Persistente. Forse questo conferma la Legge di Clogg: «Col tempo, un’organizzazione occulta si rivela sempre meno capace di liberarsi dei propri membri immortali.» [Una volta compiuto questo passo, non potrai più modificare le tue preferenze riguardo ai candidati – e se un candidato muore o scompare, l’Istituto del Faro non vedrà mai la luce. <b>Se hai selezionato candidati con Agende, Timori o Simpatie contrastanti, quelle ispirazioni resteranno in stallo.</b>]",
+   "desc": "Questi sono i sei fondatori; sono quasi pronti a inaugurare il proprio Istituto. Il settimo, non riconosciuto, è l’Archivista. [Per continuare, posiziona il tuo diario in una stanza della Hush House con tutti e sei i fondatori. Posiziona il tuo diario nel Faro per convocarli rapidamente.]"
+  },
+  {
+   "id": "lighthouse.convene",
+   "label": "Convoca l’Istituto",
+   "startdescription": "Non è un passo da compiere alla leggera. Dovrei convocare l’Istituto soltanto quando sarò pronto a ospitare un incontro che prenda le decisioni finali: con tè e dolci adeguati, o alternative adatte. [I fondatori verranno alla Hush House, a meno che non siano in viaggio verso casa o altrimenti non disponibili.]"
+  },
+  {
+   "id": "lighthouse.convene.grab",
+   "slots": [
+    {
+     "id": "founder"
+    }
+   ],
+   "startdescription": "Da ogni parte della Veglia arrivano, per terra, per mare e per cielo, come uccelli al tramonto..."
+  },
+  {
+   "id": "lighthouse.convene.succeeded",
+   "startdescription": "I fondatori dell’Istituto del Faro sono tornati a Brancrug. [Per continuare, posiziona il tuo diario in una stanza della Hush House con tutti e sei i fondatori.]"
+  },
+  {
+   "id": "lighthouse.convene.failed",
+   "startdescription": "Per qualche motivo, non tutti possono presenziare. In viaggio? Perduti? Se ripeto il segnale concordato, funzionerà questa volta?"
+  }
+ ]
+}

@@ -1,0 +1,210 @@
+{
+ "recipes": [
+  {
+   "id": "lesson.hint",
+   "label": "Una Lezione di...?",
+   "startdescription": "[Con questo da solo non posso farci nulla – forse volevo Esaminare un’Abilità corrispondente per poterla aumentare?.]"
+  },
+  {
+   "id": "language.hint",
+   "label": "Parole, Azioni?",
+   "startdescription": "[Le Lingue non possono <i>di norma</i> essere usate per la Creazione.]"
+  },
+  {
+   "id": "prentice.edge.noskillmatch.hint",
+   "label": "Un Inizio?",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=edge> per una ricetta da Apprendista di Lama... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.edge.hint",
+   "label": "Un Inizio?",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta di Lama da Apprendista, fornisci cinque <sprite name=edge>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di unico e specifico per ciascun caso.]"
+  },
+  {
+   "id": "prentice.forge.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=forge> per una ricetta da Apprendista di Forgia... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.forge.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta di Forgia da Apprendista, fornisci cinque <sprite name=forge>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di unico e specifico per ciascun caso.]"
+  },
+  {
+   "id": "prentice.grail.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=grail> per una ricetta da Apprendista di Graal... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.grail.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta di Graal da Apprendista, fornisci cinque <sprite name=grail>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di unico e specifico per ciascun caso.]"
+  },
+  {
+   "id": "prentice.heart.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=heart> per una ricetta da Apprendista di Cuore... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.heart.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta di Cuore da Apprendista, fornisci cinque <sprite name=heart>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di unico e specifico per ciascun caso.]"
+  },
+  {
+   "id": "prentice.knock.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=knock> per una ricetta da Apprendista di Battente... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.knock.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta di Battente da Apprendista, fornisci cinque <sprite name=knock>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di unico e specifico per ciascun caso.]"
+  },
+  {
+   "id": "prentice.lantern.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=lantern> per una ricetta da Apprendista di Lanterna... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.lantern.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Lanterna, fornisci cinque <sprite name=lantern>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.moon.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=moon> per una ricetta da Apprendista di Luna... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.moon.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Luna, fornisci cinque <sprite name=moon>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.moth.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=moth> per una ricetta da Apprendista di Falena... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.moth.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Falena, fornisci cinque <sprite name=moth>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.nectar.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=nectar> per una ricetta da Apprendista di Nettare... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.nectar.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Nettare, fornisci cinque <sprite name=nectar>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.rose.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=rose> per una ricetta da Apprendista di Rosa... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.rose.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Rosa, fornisci cinque <sprite name=rose>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.scale.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=scale> per una ricetta da Apprendista di Squama... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.scale.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Squama, fornisci cinque <sprite name=scale>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.sky.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=sky> per una ricetta da Apprendista di Cielo... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.sky.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Cielo, fornisci cinque <sprite name=sky>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.winter.noskillmatch.hint",
+   "startdescription": "Non mi viene in mente nulla. [Hai abbastanza <sprite name=winter> per una ricetta da Apprendista di Inverno... ma forse qui non c’è una ricetta adatta. Prova un’altra Abilità?]"
+  },
+  {
+   "id": "prentice.winter.hint",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista di Inverno, fornisci cinque <sprite name=winter>. Per una ricetta da Studioso, forniscine dieci, e un ingrediente adatto. Le ricette da Custode ne richiedono quindici... e qualcosa di specificamente unico in ciascun caso.]"
+  },
+  {
+   "id": "prentice.hint",
+   "label": "Un Inizio?",
+   "startdescription": "C’è del potenziale qui. [Per una ricetta da Apprendista, fornisci cinque Aspetti corrispondenti e un’Abilità adatta.]"
+  },
+  {
+   "id": "fireplace.missing.thing.hint",
+   "label": "E...?",
+   "startdescription": "[Aggiungi una carta Cosa.] "
+  },
+  {
+   "id": "fireplace.ability.surplus.hint",
+   "label": "Non serve –",
+   "startdescription": "Se ho in mente solo di bruciare qualcosa, non mi servirà una carta Anima."
+  },
+  {
+   "id": "skill.missing.skill.hint",
+   "label": "Abilità?",
+   "startdescription": "Sono pronto; ma per cosa?\n\n [Aggiungi una carta Abilità; cerca di far combaciare gli aspetti di Potere se vuoi creare qualcosa.] "
+  },
+  {
+   "id": "skill.missing.ability.hint",
+   "label": "Anima?",
+   "startdescription": "Un’Abilità senza Impegno è come il tè senza acqua bollente. Nessuno vuole mangiare le foglie di tè. [Aggiungi una carta Anima.] "
+  },
+  {
+   "id": "edge.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "forge.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "grail.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "heart.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "knock.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "lantern.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "moon.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "moth.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "nectar.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "rose.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "scale.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "sky.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  },
+  {
+   "id": "winter.only.hint",
+   "label": "E Adesso?",
+   "startdescription": "C’è del potenziale qui. [Inizia aggiungendo una carta Anima.]"
+  }
+ ]
+}

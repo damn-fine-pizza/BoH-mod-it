@@ -1,0 +1,21 @@
+{
+    "elements": [
+        {
+            "id": "circ.waters.receding",
+          "label": "Les eaux en baisse",
+          "inherits":"_circumstance",
+          "aspects":{"forge":3,"knock":3},
+            "desc": "Une fois de plus, les eaux se retirent dans les niveaux inférieurs de la Hush House.",
+                 "unique":true
+        },
+        {
+            "id": "circ.depths.uncovered",
+          "label": "Profondeurs découvertes",
+          "inherits":"_circumstance",
+          "aspects":{"moon":3,"scale":3},
+            "desc": "Une fois de plus, la mer s'est retirée des grottes de l'Île.",
+            "unique":true
+        }
+
+    ]
+}

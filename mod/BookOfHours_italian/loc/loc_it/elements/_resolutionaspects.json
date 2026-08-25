@@ -1,0 +1,264 @@
+{
+ "elements": [
+  {
+   "id": "de.edge",
+   "label": "Parola, la Spada",
+   "desc": "La Lingua è un’arma. Con la Lingua abbiamo violato il Mansus; senza la Lingua, non avremmo potuto combattere guerre; senza la Lingua, saremmo ancora scimmie, scarabei, pietra. [Questa Determinazione si prende con Lama; fornisce Lama e Graal.]"
+  },
+  {
+   "id": "de.forge",
+   "label": "Rosso, il Primo Fiore",
+   "desc": "L’Albero del Guardiano è il patto che vieta la conoscenza ai mortali, ma la permette nelle case del patto dell’Albero... come l’Isola di Brancrug. Il Fiore Rosso della Calyptra – «il fuoco alimentato dalla verità» – fu la sua prima difesa. Il fuoco consuma la conoscenza... ma il fuoco dà anche luce. L’Albero affonda le radici nel paradosso. [Questa Determinazione si prende con Forgia; fornisce Forgia e Rosa.]"
+  },
+  {
+   "id": "de.grail",
+   "label": "Graal, il Più Antico",
+   "desc": "Il Graal Rosso dà la vita; il Graal toglie la vita; il Graal non è mai sazio. Il Graal, che disdegna la contraddizione, è l’Ora più antica che persista. Qualunque cosa sembri più antica viene, alla fine, sommersa nelle maree del Graal. [Questa Determinazione si prende con Graal; fornisce Graal e Nettare.]"
+  },
+  {
+   "id": "de.heart",
+   "label": "Ascia Cornuta, la Più Antica",
+   "desc": "L’Ascia Cornuta porta due lame; permette il passaggio quando il passaggio dev’essere permesso; attende sulla soglia. L’Ascia Cornuta, che vieta la contraddizione, è l’Ora più antica. Altre Ore potrebbero sembrare più antiche. Non lo sono. [Questa Determinazione si prende con Cuore; fornisce Cuore e Battente.]"
+  },
+  {
+   "id": "de.knock",
+   "label": "Parola, la Ferita",
+   "desc": "La Lingua è una cicatrice. Fu la Lingua a squarciare il Mansus; senza la Lingua, non avremmo potuto avere guerre; senza la Lingua, saremmo ancora fuoco, cielo, terra. [Questa Determinazione si prende con Battente; fornisce Battente e Inverno.]"
+  },
+  {
+   "id": "de.lantern",
+   "label": "Venimmo dalla Gloria",
+   "desc": "Le prime scintille del nostro io discesero dalla luce sopra il mondo che chiamiamo la Gloria. Senza la Gloria, saremmo bestie nel buio, e i doni del nostro passato illuminano il nostro futuro, che è l’Eternità. [Questa Determinazione si prende con Lanterna; fornisce Lanterna e Falena.]"
+  },
+  {
+   "id": "de.moon",
+   "label": "Nero, il Primo Fiore",
+   "desc": "L’Albero del Guardiano è il patto che vieta la conoscenza ai mortali, ma la permette nelle case del patto dell’Albero... come l’Isola di Brancrug. Il Fiore Nero della Calyptra – «la notte non ferita» – fu la sua prima difesa. La conoscenza proibita non dev’essere pronunciata; non dev’essere scritta; non dev’essere conosciuta. L’Albero affonda le radici nella notte. [Questa Determinazione si prende con Luna; fornisce Luna e Squama.]"
+  },
+  {
+   "id": "de.moth",
+   "label": "Falena, la Più Antica",
+   "desc": "La Falena batte dentro il cranio; cerca fra gli alberi del Bosco; è screziata. La Falena, che si diletta nella contraddizione, è l’Ora più antica che resti. Qualunque cosa sembri più antica, un tempo lo fu la Falena, quando anche quella cosa era. [Questa Determinazione si prende con Falena; fornisce Falena e Lanterna.]"
+  },
+  {
+   "id": "de.nectar",
+   "label": "Sorgemmo dalla Lordura del Bosco",
+   "desc": "I nostri antenati nacquero nudi tra le radici del Bosco. Tutto ciò che siamo mai stati è sorto da quel buio. Con le nostre mani e le nostre bocche plasmammo il linguaggio dal fango. Con le nostre bocche e le nostre mani plasmeremo il nostro futuro [Questa Determinazione si prende con Nettare; fornisce Nettare e Luna]."
+  },
+  {
+   "id": "de.rose",
+   "label": "Parola, la Chiave",
+   "desc": "La Lingua è la chiave. Fu la Lingua ad aprire le porte del Mansus; senza la Lingua, non avremmo potuto avere pace; senza la Lingua, saremmo ancora bestie, vermi, fango. [Questa Determinazione si prende con Rosa; fornisce Rosa e Cielo.]"
+  },
+  {
+   "id": "de.scale",
+   "label": "Ci schiudemmo dal Guscio",
+   "desc": "La Croce del Carapace è una razza ibrida, e un tempo eravamo la Croce del Carapace. Dalla stirpe Seglaz ereditammo ciò che oggi chiamiamo la Lingua. Bramiamo ciò che eravamo; e anche la Storia è ibrida. [Questa Determinazione si prende con Squama; fornisce Squama e Cuore.]"
+  },
+  {
+   "id": "de.sky",
+   "label": "Venimmo dal Nessun Luogo",
+   "desc": "La stirpe Thritige della Croce del Carapace sognò se stessa fuori dal vetro nero, per essere il proprio Monarca. Se ereditiamo il trono vuoto, sogniamo noi stessi in ogni notte a venire. [Questa Determinazione si prende con Cielo; fornisce Cielo e Forgia.]"
+  },
+  {
+   "id": "de.winter",
+   "label": "Bianco, il Primo Fiore",
+   "desc": "L’Albero del Guardiano è il patto che vieta la conoscenza ai mortali, ma la permette nelle case del patto dell’Albero... come l’Isola di Brancrug. Il Fiore Bianco della Calyptra – «il silenzio che è dato» – fu la sua prima difesa. Quando una conoscenza proibita è conosciuta, dev’essere dimenticata. Ma per essere dimenticata, dev’essere prima conosciuta. L’Albero affonda le radici nel paradosso. [Questa Determinazione si prende con Inverno; fornisce Inverno e Lama.]"
+  },
+  {
+   "id": "h.sky.oldl",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui Noon è il sito della Città Non Costruita, attraverso il Numen <i>Quella Vecchia Musica Perduta</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.sky.unde",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui Noon è il sito della Città Non Costruita, attraverso il Numen <i>Una Comprensione Definitiva</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.sky.bala",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui Noon è il sito della Città Non Costruita, attraverso il Numen <i>Ritorno all’Equilibrio</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.moth.thre",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Città Non Costruita resta <i>in potentia</i>, attraverso il Numen <i>Tre Regole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.moth.loop",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Città Non Costruita resta <i>in potentia</i>, attraverso il Numen <i>Scappatoie</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.moth.desc",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Città Non Costruita resta <i>in potentia</i>, attraverso il Numen <i>La Debolezza del Sole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.rose.bell",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui Ys diventa la Città Non Costruita, attraverso il Numen <i>Le Campane di Ys</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.rose.oldl",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui Ys diventa la Città Non Costruita, attraverso il Numen <i>Quella Vecchia Musica Perduta</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.rose.unde",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui Ys diventa la Città Non Costruita, attraverso il Numen <i>Una Comprensione Definitiva</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.moon.secr",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Città Non Costruita sorge nel Mansus, attraverso il Numen <i>La Grande Contraffazione</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.moon.loop",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Città Non Costruita sorge nel Mansus, attraverso il Numen <i>Scappatoie</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.moon.worl",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Città Non Costruita sorge nel Mansus, attraverso il Numen <i>Tessere il Mondo</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.grail.feas",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra vengono consumati, attraverso il Numen <i>Un Banchetto Irresistibile</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.grail.alte",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra vengono consumati, attraverso il Numen <i>Alterazione Spietata</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.grail.desc",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra vengono consumati, attraverso il Numen <i>La Debolezza del Sole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.heart.worl",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra vengono ricordati, attraverso il Numen <i>Tessere il Mondo</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.heart.bala",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra vengono ricordati, attraverso il Numen <i>Ritorno all’Equilibrio</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.heart.thre",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra vengono ricordati, attraverso il Numen <i>Tre Regole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.knock.conf",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra compiono la loro vendetta, attraverso il Numen <i>Confinamento Ineluttabile</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.knock.loop",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra compiono la loro vendetta, attraverso il Numen <i>Scappatoie</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.knock.asce",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra compiono la loro vendetta, attraverso il Numen <i>I Sentieri del Sole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.nectar.feas",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra rinascono, attraverso il Numen <i>Un Banchetto Irresistibile</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.nectar.worl",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra rinascono, attraverso il Numen <i>Tessere il Mondo</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.nectar.secr",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dalla-Pietra rinascono, attraverso il Numen <i>La Grande Contraffazione</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.forge.asce",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dall’Acciaio portano la Seconda Alba, attraverso il Numen <i>I Sentieri del Sole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.forge.alte",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dall’Acciaio portano la Seconda Alba, attraverso il Numen <i>Alterazione Spietata</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.forge.bell",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui i Dèi-dall’Acciaio portano la Seconda Alba, attraverso il Numen <i>Le Campane di Ys</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.scale.oldl",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba è l’alba di un sole più antico e più rosso, attraverso il Numen <i>Quella Vecchia Musica Perduta</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.scale.conf",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba è l’alba di un sole più antico e più rosso, attraverso il Numen <i>Confinamento Ineluttabile</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.scale.thre",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba è l’alba di un sole più antico e più rosso, attraverso il Numen <i>Tre Regole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.lantern.asce",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba verrà presto, attraverso il Numen <i>I Sentieri del Sole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.lantern.desc",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba verrà presto, attraverso il Numen <i>La Debolezza del Sole</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.lantern.secr",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba verrà presto, attraverso il Numen <i>La Grande Contraffazione</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.edge.bell",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba verrà quando tutte le Ore tranne una saranno cadute, attraverso il Numen <i>Le Campane di Ys</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.edge.feas",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba verrà quando tutte le Ore tranne una saranno cadute, attraverso il Numen <i>Un Banchetto Irresistibile</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.edge.alte",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba verrà quando tutte le Ore tranne una saranno cadute, attraverso il Numen <i>Alterazione Spietata</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.winter.unde",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba non verrà mai, attraverso il Numen <i>Una Comprensione Definitiva</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.winter.conf",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba non verrà mai, attraverso il Numen <i>Confinamento Ineluttabile</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  },
+  {
+   "id": "h.winter.bala",
+   "label": "La Mia Storia",
+   "desc": "Ho registrato una Storia in cui la Seconda Alba non verrà mai, attraverso il Numen <i>Ritorno all’Equilibrio</i>. [Porta il tuo diario all’Albero nella stagione di Numa se scegli di concludere la partita.]"
+  }
+ ]
+}

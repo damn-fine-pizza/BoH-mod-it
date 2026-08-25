@@ -1,0 +1,72 @@
+{
+ "recipes": [
+  {
+   "id": "salon.mission.corrivality",
+   "label": "Missione: Corrivalità",
+   "startdescription": "La Corrivalità sostiene il mondo, letteralmente e anche metaforicamente. Senza le costanti innovazioni e il rinnovamento della guerra, l’intera umanità ristagnerebbe. L’Istituto si assicurerà che ciò non accada."
+  },
+  {
+   "id": "salon.mission.peace",
+   "label": "Missione: Pace",
+   "startdescription": "In tutte le storie a lungo registrate del genere pensante, la guerra è stata un flagello inimmaginabile. L’Istituto si dedicherà a proteggere il mondo da quel flagello."
+  },
+  {
+   "id": "salon.mission.secrecy",
+   "label": "Missione: Segretezza",
+   "startdescription": "Certa conoscenza è troppo pericolosa per la mente comune. Calyptra potrà anche essere tirannica, ma nel suo nucleo c’è una verità – e anche se Calyptra dovesse cadere, l’Istituto ne raccoglierebbe il fardello."
+  },
+  {
+   "id": "salon.mission.revelation",
+   "label": "Missione: Rivelazione",
+   "startdescription": "La conoscenza può essere pericolosa: ma l’ignoranza lo è ancora di più. L’Istituto lavorerà per liberare tutto il genere mortale dalla tirannia di Calyptra."
+  },
+  {
+   "id": "salon.mission.autarchy",
+   "label": "Missione: Autarchia",
+   "startdescription": "L’Istituto imparerà a sopravvivere senza il patrocinio di alcuna Ora... affinché un giorno il genere mortale possa fare lo stesso."
+  },
+  {
+   "id": "salon.mission.better.gods",
+   "label": "Missione: Dèi Migliori",
+   "startdescription": "L’Istituto si adopererà per creare alternative alle Ore – sostituti delle primalità cosmiche che siano più benevoli, o più remissivi."
+  },
+  {
+   "id": "salon.mission.stone.remembered",
+   "label": "Missione: Pietra Ricordata",
+   "startdescription": "L’Istituto riporterà alla luce, preserverà, onorerà, rievocherà qualcosa degli dèi-dalla-pietra, venuti prima delle Ore che conosciamo."
+  },
+  {
+   "id": "salon.mission.stone.consumed",
+   "label": "La Missione dell’Istituto: Pietra Consumata",
+   "startdescription": "Gli dèi-dalla-Pietra vennero prima delle Ore che ora conosciamo. Il loro ritorno sarebbe terremoto, carestia, natura selvaggia che si aggira per le strade. Non sarà permesso. Ma sono risorse preziose quanto il petrolio o l’oro o il sapere nel midollo. L’Istituto li studierà; li porterà alla luce; li ridestinerà, a beneficio di tutto il genere mortale."
+  },
+  {
+   "id": "salon.mission.uncertain",
+   "label": "La Missione dell’Istituto: Incerta",
+   "startdescription": "<i>Dopo ore di discussione, non fummo in grado di stabilire una missione precisa, oltre a «tenere tutto il genere mortale lontano dagli scogli della notte eterna».</i>"
+  },
+  {
+   "id": "salon.mission.corrivality.peace.deadlock",
+   "label": "Stallo",
+   "startdescription": "<i>Un fondatore argomentò a favore dei benefici del conflitto. Un altro insistette sulla sua inutilità...</i>",
+   "desc": "[Stallo: i fondatori hanno Agende opposte. Non possiamo inaugurare l’Istituto né con la Missione: Pace né con la Missione: Corrivalità.]"
+  },
+  {
+   "id": "salon.mission.revelation.secrecy.deadlock",
+   "label": "Stallo",
+   "startdescription": "<i>Un fondatore sostenne che la Calyptra ci proteggesse – un altro, che ci opprimesse in modo intollerabile...</i>",
+   "desc": "[Stallo: i fondatori hanno Agende opposte. Non possiamo inaugurare l’Istituto né con la Missione: Segretezza né con la Missione: Rivelazione.]"
+  },
+  {
+   "id": "salon.mission.consumed.remembered.deadlock",
+   "label": "Stallo",
+   "startdescription": "<i>Un fondatore sostenne che dovessimo onorare gli dèi del sole più rosso – un altro, che fossero al contempo un pericolo e una risorsa da consumare...</i>",
+   "desc": "[Stallo: i fondatori hanno Agende opposte. Non possiamo inaugurare l’Istituto con la Missione: Pietra Ricordata o Consumata.]"
+  },
+  {
+   "id": "salon.institute.hint",
+   "label": "Tutto pronto per l’Incontro Inaugurale dell’Istituto?",
+   "startdescription": "[Una volta radunati tutti i Fondatori, assicurati che la stanza contenga rinfreschi – da mangiare e da bere – oltre al tuo Diario.]"
+  }
+ ]
+}

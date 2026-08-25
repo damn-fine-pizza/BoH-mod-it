@@ -1,0 +1,1975 @@
+{
+ "verbs": [
+  {
+   "id": "library.altar.ascite",
+   "label": "Altare: Ascite",
+   "Desc": "L’Ascia Cornuta, che apre la via e custodisce la soglia, è ritenuta l’ultima tra gli Dèi-dalla-Pietra.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.atrium",
+   "label": "Santuario: St Januarius",
+   "Desc": "St Januarius è il Nome che fu ferito; il Nome delle eccezioni; il piccolo dio alla porta.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.calicite",
+   "label": "Altare di Calicite",
+   "Desc": "Il Graal Rosso, nascita e appetenza, negato e condannato dal clero del Sole per il suo ruolo di tentatrice nella divisione del Sole. Coloro di noi che si oppongono all’Eternità potrebbero invece dargli grazie e lode. Ma con cautela.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.catacombs",
+   "label": "Altare delle Catacombe",
+   "Desc": "«L’OSSO È LA MEMORIA CHE NON MUORE.»",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.chancel",
+   "label": "Santuario: il Chancel",
+   "Desc": "Non nominiamo queste Ore, ma riconosciamo che insieme sono il Chancel, il Cruciforme, e il Rode.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.glorious",
+   "label": "Santuario: la Madrugad",
+   "Desc": "La Madrugad è l’Ora che non può essere squilibrata; che placa e acquieta; che viene prima del sole.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.lady",
+   "label": "Altare del Nodo",
+   "Desc": "La Storia è tessuta; un nodo è una testimonianza.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.malachite",
+   "label": "Altare: Malachite",
+   "Desc": "Miele, il sangue; rame, il cuore; tasso, la radice.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.radiant",
+   "label": "Santuario: il Guardiano",
+   "Desc": "Il Guardiano è l’Ora che naviga; che illumina; che non è compassionevole.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.solar",
+   "label": "Altare Solare",
+   "Desc": "Il Sole-in-Splendore è l’Ora che fu divisa; l’Ora che non è conquistata; l’Ora da cui procedono tutte le altre Ore del giorno. Almeno così insegna la Chiesa.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.altar.tentreto",
+   "label": "Altare: St Tentreto",
+   "Desc": "Saint Tentreto della Porta Profonda, che ha quattro ali: per la stirpe Scīmafectra; la stirpe Glaeterfleoge; la stirpe Thritige; per la stirpe-interiore.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Devozione"
+    },
+    {
+     "id": "i2",
+     "label": "Rimembranza"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.cell.adept",
+   "label": "Il Mio Letto: Cella dell’Adepto",
+   "Desc": "Un letto contrassegnato con sigilli per scoraggiare l’accesso al Mansus in sogno. [Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria per sognare su di esso.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.cell.long",
+   "label": "Il Mio Letto: Cella dei Lunghi",
+   "Desc": "Un letto a castello costruito per due immortali che non potevano né stare insieme, né separati. [Ma qui dormi in solitudine. Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria per sognare su di esso.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.hermit",
+   "label": "Il Mio Letto: Eremita",
+   "Desc": "Un angolo accogliente dove assolutamente nessuno ti disturberà. [Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta calata la notte) una Memoria su cui sognare.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.infirmary",
+   "label": "Il Mio Letto: Infermeria",
+   "Desc": "Lenzuola bianche pulite e il caratteristico <i>tintinnio</i> militare di un telaio di letto in acciaio. [Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta che la notte è caduta) una Memoria per sognare su di esso.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.librarian",
+   "label": "Il Mio Letto: Alloggi dell’Archivista",
+   "Desc": "Gli archivisti sono inclini al mal di schiena, e il materasso qui è sempre stato duro, anche ai tempi di Westcott. [Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta calata la notte) una Memoria per sognarci sopra.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.lodge",
+   "label": "Il Mio Letto: Casa del Custode",
+   "Desc": "Robusto, rustico, accogliente. [Aggiungi una carta Anima Affaticata per fare un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria per sognarci sopra.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.motley",
+   "label": "Il Mio Letto: Variopinto",
+   "Desc": "Un esule ha dormito qui, molto tempo fa. [Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta calata la notte) una Memoria per sognarci sopra.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.pale",
+   "label": "Il Mio Letto: Pallido",
+   "Desc": "Sette generazioni di Dewulf dormirono qui… come pure Kitty Mazarine, a cui non è mai importato molto della tradizione. [Aggiungi una carta Anima Affaticata per fare un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria per sognarci sopra.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.servants1",
+   "label": "Il Mio Letto: Alloggi dei Servitori",
+   "Desc": "Stretto, ma confortevole. [Aggiungi una carta Anima Affaticata per fare un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria su cui sognare.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.servants2",
+   "label": "Il Mio Letto: Alloggi dei Servitori",
+   "Desc": "Stretto, ma confortevole. [Aggiungi una carta Anima Affaticata per fare un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria su cui sognare.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.servants3",
+   "label": "Il Mio Letto: Alloggi dei Servitori",
+   "Desc": "Stretto, ma confortevole. [Aggiungi una carta Anima Affaticata per fare un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria su cui sognare.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.servants4",
+   "label": "Il Mio Letto: Alloggi dei Servitori",
+   "Desc": "Stretto, ma confortevole. [Aggiungi una carta Anima Affaticata per fare un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria su cui sognare.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.severn",
+   "label": "Il Mio Letto: Camera Severn",
+   "Desc": "Per coloro che preferiscono i materassi morbidi. [Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta calata la notte) una Memoria per sognarci sopra.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.solomon",
+   "label": "Il Mio Letto: Solomon",
+   "Desc": "Julian Coseley e Solomon Husher – entrambi grandi saggi di Inverno – hanno dormito in questo letto. Anche se non contemporaneamente. Nessuno, si racconta, è mai riuscito a dormirvi una notte serena da allora. [Eccetto te, apparentemente. Aggiungi una carta Anima Affaticata per un pisolino, una carta Anima Malata per curarla, o (una volta calata la notte) una Memoria per sognarvi sopra.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.bed.rest.violet",
+   "label": "Il Mio Letto: Camera Violetta",
+   "Desc": "Sei generazioni di eredi Dewulf nacquero in questa stanza. Sarebbero state sette, ma Hafren Waters ebbe la maleducazione di partorire il Barone Walter in (come vuole la leggenda familiare) una stalla di mucche fuori Kerisham. [Aggiungi una carta Anima Affaticata per fare un pisolino, una carta Anima Malata per curarla, o (una volta che è scesa la notte) una Memoria per sognarci sopra.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.cage",
+   "label": "Gabbia",
+   "Desc": "Valentine Dewulf mise in gabbia i suoi unici amici. Chiuse le porte delle gabbie?",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Ripristina"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.chair.barber",
+   "label": "Sedia del Barbiere",
+   "Desc": "Nessuno esce immutato dalla sedia del barbiere. Forse se ne esce solo un poco più belli.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Rimpianto"
+    },
+    {
+     "id": "i2",
+     "label": "Richiamo"
+    }
+   ]
+  },
+  {
+   "id": "library.chrysalis",
+   "label": "Crisalide",
+   "Desc": "Qualcosa potrebbe emergere, se solo potesse essere assicurata una Storia ospitale. Fino a quel momento, i suoi sogni potrebbero essere udibili per chi preme un orecchio contro il suo calore tremante, profumato di cielo.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Dorsale"
+    },
+    {
+     "id": "i2",
+     "label": "Ventrale"
+    }
+   ]
+  },
+  {
+   "id": "library.clock.great",
+   "label": "Grande Orologio",
+   "Desc": "Ogni fiamma ha il suo combustibile, e ogni tic ha il suo tac.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Azione"
+    },
+    {
+     "id": "i2",
+     "label": "Rievocazione"
+    }
+   ]
+  },
+  {
+   "id": "library.condignator",
+   "label": "Condignatore",
+   "Desc": "Il terribile cuore del terribile progetto del Governatore.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Soggetto"
+    },
+    {
+     "id": "i2",
+     "label": "Modo"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.ambrose.consider",
+   "label": "Scrivania: Ambrose",
+   "Desc": "Ambrose svolse la maggior parte del suo lavoro al piano inferiore nella fonderia e in cucina, o al piano superiore nel laboratorio che in seguito divenne la Galleria Fludd, ma fu a questa scrivania che compose «Le Tentazioni dell’Architettura» e scrisse lunghe lettere furibonde al Times sui difetti della costituzione britannica.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.eva.consider",
+   "label": "Scrivania: Eva",
+   "Desc": "Una magnifica scrivania segreteria del diciottesimo secolo commissionata per Lady Eva Dewulf, l’ultima dei Dewulf di Brancrug.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.governor.consider",
+   "label": "Scrivania: Governatore",
+   "Desc": "Una scrivania severa e pratica quanto Collers stesso.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.natan.consider",
+   "label": "Scrivania: Natan",
+   "Desc": "È una scrivania da speziale, proprio così, ma risale ad almeno cento anni dopo che Natan di Ratisbona è venuto qui. Naturalmente, anche suo figlio, suo nipote e suo pronipote si chiamavano tutti Natan…",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.nonna.consider",
+   "label": "Scrivania: Nonna",
+   "Desc": "Badessa Nonna, speziale, studiosa, ballerina.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.pale.consider",
+   "label": "Scrivania: Pale",
+   "Desc": "Solomon Husher in persona lo fece ricavare dal tasso di torbiera di Lockwood Fen, annerito e semi-fossilizzato da secoli sott’acqua. Qui, a questo scrittoio, scrisse la sua tetra allegoria dell’Inverno e del suo idillio con il sole. Quando asciugò con la carta assorbente l’ultima parola del manoscritto e si alzò dal lavoro, il legno era diventato pallido come acero appena tagliato. Almeno così racconta la storia.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.reading.consider",
+   "label": "Scrivania: Sala di Lettura",
+   "Desc": "La ruota di lettura è un cimelio Dewulf – un dono a Eva Dewulf dal suo ammiratore, l’adepto Franklin Bancroft. Lo scrittoio e il leggio sono molto più recenti. Targhe d’acciaio su entrambi recitano «A GERVINUS VAN LAUREN – IN GRATITUDINE PER IL SUO AIUTO NELLA CHIUSURA DELLA SCALA A CHIOCCIOLA – E. ABNEY-HASTINGS, SEGRETARIO NOTTURNO, 1928»",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.desk.vagabond.consider",
+   "label": "Scrivania: Vagabonda",
+   "Desc": "Un’elegante reliquia, riadattata da Greene per la sua piccola e segreta guerra.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Carte"
+    },
+    {
+     "id": "i2",
+     "label": "Con"
+    }
+   ]
+  },
+  {
+   "id": "library.dispensary",
+   "label": "Farmacia",
+   "Desc": "Un laboratorio ben fornito per uno studioso di terapie non convenzionali.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Materia"
+    },
+    {
+     "id": "i2",
+     "label": "Sostanza"
+    }
+   ]
+  },
+  {
+   "id": "library.duelhall",
+   "label": "Equipaggiamento per l’Esercizio",
+   "Desc": "Ancora il luogo migliore della Casa per farsi male.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Azione"
+    },
+    {
+     "id": "i2",
+     "label": "Rievocazione"
+    }
+   ]
+  },
+  {
+   "id": "library.foundry",
+   "label": "Fonderia",
+   "Desc": "Anche il metallo non può resistere a queste persuasioni.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Metallo"
+    },
+    {
+     "id": "i2",
+     "label": "Combustibile"
+    }
+   ]
+  },
+  {
+   "id": "library.glassware.alchemist",
+   "label": "Vetreria dell’Alchimista",
+   "Desc": "Delicati recipienti in cui nuove sostanze vengono vivificate.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Sostanza"
+    },
+    {
+     "id": "i2",
+     "label": "Soluzione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.bells",
+   "label": "Strumento: Campane",
+   "Desc": "«Questi sono i suoni che possono rispondere al tuono.»",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.doublebass",
+   "label": "Strumento: Contrabbasso Tremolante",
+   "Desc": "«Più migliora, meno siamo a saperlo.» – Ray Brown \n\n [Questo strumento possiede un’energia inquieta.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.drum",
+   "label": "Strumento: Tamburo Consacrato",
+   "Desc": "«Celebra il dio della gioia – con la tua gioia!» – Le Baccanti \n\n [La pelle di questi tamburi era la pelle di qualcosa di raro.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.harp",
+   "label": "Strumento: Arpa del Tramonto",
+   "Desc": "«Sono stato una corda in un’arpa; camuffato per nove anni nell’acqua, nella schiuma del mare.» – La Battaglia degli Alberi\n\n [Quest’arpa è incordata con qualcosa che luccica di rosso come le onde al tramonto.]",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.harp2",
+   "label": "Strumento: Arpa del Cacciatore",
+   "Desc": "Un tempo era incordata con budella di cane-yeth. Quelle corde devono essere sparite da tempo, ma nelle note dell’arpa resta un’insolita ferocia.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.organ",
+   "label": "Strumento: Organo",
+   "Desc": "«Bisogna esercitarsi lentamente, poi ancora più lentamente, e infine lentamente.» – Camille Saint-Saëns",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.piano.grand",
+   "label": "Strumento: Pianoforte a Coda",
+   "Desc": "«La semplicità è il traguardo finale. Dopo aver suonato una gran quantità di note e ancora note, è la semplicità a emergere come suprema ricompensa dell’arte.» – Fryderyk Chopin",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.instrument.piano.servants",
+   "label": "Strumento: Pianoforte",
+   "Desc": "Un dono di Kitty Mazarine, che a volte passava di sera a cantare. Ma il suo successore Solomon, mai grande amante della musica, non gradiva il modo in cui le note salivano le scale verso la Sala di Lettura, e vietò al personale di suonare il loro pianoforte prima del tramonto.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Applicazione"
+    },
+    {
+     "id": "i2",
+     "label": "Ispirazione"
+    }
+   ]
+  },
+  {
+   "id": "library.loom",
+   "label": "Telaio",
+   "Desc": "«E lì i fili d’oro che tessevano – e nella Casa della Luna, saldamente li legavano» – dal Lai di Helgi Hundingsbane",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Catena"
+    },
+    {
+     "id": "i2",
+     "label": "Trama"
+    }
+   ]
+  },
+  {
+   "id": "library.mirrors",
+   "label": "Specchi",
+   "Desc": "Si diceva spesso di Lady Eva, più tardi, che era sempre brava con gli specchi.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Vista"
+    },
+    {
+     "id": "i2",
+     "label": "Riflesso"
+    }
+   ]
+  },
+  {
+   "id": "library.nocturnary",
+   "label": "Notturnario",
+   "Desc": "Costruito da Thirza per i suoi oscuri propositi; mantenuto dal Bureau di Soppressione per quelli ancora più oscuri; e disponibile, ora, per i miei.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Sostanza"
+    },
+    {
+     "id": "i2",
+     "label": "Ombra"
+    }
+   ]
+  },
+  {
+   "id": "library.oubliette",
+   "label": "Contenimento dell’Oubliette",
+   "Desc": "Fuoco, ferro, crepuscolo, aria, tutto contorto in una configurazione progettata per confinare qualcosa di molto pericoloso. Quella cosa è ormai scomparsa da tempo, ma la configurazione ha ancora i suoi usi.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.practic.dummy",
+   "label": "Manichino del Giardino dell’Esercizio",
+   "Desc": "Dal tempo delle Guerre Napoleoniche lo hanno preso a pugni, bastonato, accoltellato e crivellato di colpi dilettanti, professionisti e ospiti brilli dopo cena. Non c’è da meravigliarsi che abbia un’aria così risentita.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.phonograph.consider",
+   "label": "Fonografo del Governatore",
+   "Desc": "Collers generalmente preferiva che i suoi dispositivi fossero il più possibile modernamente lucenti, ma preferiva i cilindri fonografici ai dischi da grammofono più recenti. Il cilindro, come i dischi, esemplificava l’ingegno e ripeteva affidabilmente i suoni desiderati, ma poteva anche essere riposto ordinatamente in un mobiletto senza causare alcun disturbo.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Disco"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.phonograph.severn.consider",
+   "label": "Fonografo di Thirza",
+   "Desc": "Thirza Blake invitò un’amica senza nome (o secondo la tradizione di Brancrug, sua sorella) alla Hush House per rimettersi da una malattia. Thirza fu inusualmente segreta sull’intera faccenda, forse perché la sua stessa sollecitudine l’imbarazzava. Cucinava lei stessa i pasti della sua ospite; le leggeva nel pomeriggio; e acquistò questo fonografo affinché la sua ospite potesse ascoltare l’opera viennese.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Disco"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.projector.consider",
+   "label": "Proiettore",
+   "Desc": "Il Governatore Collers fece installare questo apparecchio negli anni ’20, come un regalo per i detenuti autorizzati a rimettersi in salute nell’infermeria. O così disse. Si diceva fosse un fan segreto di Keaton, e non volesse guidare fino a Exeter per vedere l’ultimo film.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "Film"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.prospect.loggia",
+   "label": "Veduta della Loggia",
+   "Desc": "Chiedi consiglio ai mari.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.prospect.spire",
+   "label": "Prospettiva della Guglia",
+   "Desc": "Chiedi consiglio ai cieli.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.prospect.towertop",
+   "label": "Veduta dalla Cima della Torre",
+   "Desc": "Ricorda ciò che è passato.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.rowenarium",
+   "label": "Rowenarium",
+   "Desc": "Rowena la Ligeiana, protettrice della Casa, detiene la Chiave della Giumenta in pietra-verme, che apre la porta verso il Nessun Luogo. Di tanto in tanto l’ha prestata senza saggezza. Ma una sola volta l’ha prestata a Ys.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.sarcophagus.columbic",
+   "label": "Sarcofago Columbico",
+   "Desc": "«Sarcofago»: il divoratore di carne. Nessun osso rimane, ma il marmo è gelido di potenza.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.spring",
+   "label": "Sorgente Sacra",
+   "Desc": "Qui un pellegrino si bagnava, faceva offerte, o annegava, secondo le sue preferenze.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.table.necropsy",
+   "label": "Tavolo di Necroscopia",
+   "Desc": "Un luogo igienico per l’esame scrupoloso di ciò che potrebbe rimanere.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.telescope",
+   "label": "Telescopio",
+   "Desc": "Gli studiosi della Casa osservavano i corsi delle stelle per determinare i loro passati e comprendere i loro futuri.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.workbench.gallery",
+   "label": "Banco di Lavoro Rischiarato dal Vento",
+   "Desc": "Lavora tranquillamente.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.workbench.governor",
+   "label": "Banco dello Scultore",
+   "Desc": "Lavora seriamente.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.workbench.gullscry",
+   "label": "Banco da Lavoro di Gullscry",
+   "Desc": "Lavora solennemente.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.workbench.hermit",
+   "label": "Banco da Lavoro dell’Eremita",
+   "Desc": "Lavora in solitudine.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.yard.exercise",
+   "label": "Cortile degli Esercizi",
+   "Desc": "Ai prigionieri nella Cucurbita non era concesso divenire né troppo forti né troppo deboli. Qui erano sottoposti a un regime rigoroso che sviluppava sia i loro corpi sia le loro anime, secondo i disegni del Governatore.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  },
+  {
+   "id": "library.corals.deeplight",
+   "label": "Coralli Deeplight",
+   "Desc": "Dove i pochi selvaggi commerciano con le maree.",
+   "slots": [
+    {
+     "id": "a",
+     "label": "Anima"
+    },
+    {
+     "id": "s",
+     "label": "Abilità"
+    },
+    {
+     "id": "m",
+     "label": "Memoria"
+    },
+    {
+     "id": "i1",
+     "label": "+"
+    },
+    {
+     "id": "i2",
+     "label": "+"
+    }
+   ]
+  }
+ ]
+}

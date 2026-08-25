@@ -1,0 +1,494 @@
+{
+ "recipes": [
+  {
+   "id": "incident.setup",
+   "label": "Attualità",
+   "startdescription": "Che cosa sta succedendo nel mondo oltre Brancrug? Quali visitatori porterà questa stagione?\n\n [Pescheremo un nuovo Incidente; troveremo un Visitatore adatto per l’Incidente in corso; oppure ritireremo l’Incidente in corso se non restano visitatori per esso.]",
+   "slots": [
+    {
+     "id": "i"
+    }
+   ]
+  },
+  {
+   "id": "incident.retire",
+   "label": "La Fine della Vicenda",
+   "startdescription": "«Una storia non ha inizio né fine: si sceglie arbitrariamente quel momento dell’esperienza da cui guardare indietro o da cui guardare avanti.» – Graham Greene\n\n [Questo Incidente ha ricevuto il suo pieno contingente di visitatori, ed è concluso. Ci sarà un intervallo prima del prossimo Incidente, durante il quale i Visitatori cercheranno una consultazione generale.]"
+  },
+  {
+   "id": "incident.mark.finished",
+   "label": "Finito!"
+  },
+  {
+   "id": "incident.draw.consultation",
+   "label": "Una Consultazione",
+   "startdescription": "Non c’è nulla di particolare in corso; i visitatori di questa stagione vorranno probabilmente solo una consultazione generale."
+  },
+  {
+   "id": "incident.new",
+   "label": "La Vicenda del...?",
+   "startdescription": "Sviluppi nel mondo oltre Brancrug. [Si pesca un nuovo Incidente.]"
+  },
+  {
+   "id": "incident.setup.numa",
+   "label": "Fiume, Ruota, Fiamma",
+   "startdescription": "Il Tempo. C’è chi lo chiama una ruota, ma la mia famiglia lo considera una fiamma: più freddo al cuore, ma più selvaggio ai margini...[Pescheremo un Incidente di Numa; troveremo un Visitatore adatto per l’Incidente di Numa in corso; oppure ritireremo l’Incidente di Numa in corso se non restano visitatori per esso.]",
+   "slots": [
+    {
+     "id": "i"
+    }
+   ]
+  },
+  {
+   "id": "incident.retire.numa",
+   "label": "Una Fine, e una Consultazione",
+   "startdescription": "«Le stelle si muovono ancora; il tempo corre; l’orologio suonerà.» – Marlowe\n\n [Questo Incidente ha visto tutto il proprio novero di visitatori, ed è concluso. In questo Numa non ci sarà alcun Incidente; i Visitatori Numatici cercheranno una consultazione generale.]"
+  },
+  {
+   "id": "incident.new.numa",
+   "label": "Una Faccenda di...?",
+   "startdescription": "Cosa si muove nella nebbia? [Si pesca un nuovo Incidente di Numa.]"
+  },
+  {
+   "id": "visitor.for.revolution",
+   "label": "Un Visitatore interessato a una rivoluzione",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.heist",
+   "label": "Un Visitatore interessato a un crimine",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.stalk",
+   "label": "Un Visitatore interessato a un pedinamento",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.wound",
+   "label": "Un Visitatore interessato a una ferita",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.intrusion",
+   "label": "Un Visitatore interessato a un’intrusione",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.pan",
+   "label": "Un Visitatore interessato a una selvatichezza",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.curse",
+   "label": "Un Visitatore interessato a una maledizione",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.omen.dawn",
+   "label": "Un Visitatore interessato a un presagio d’alba",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.omen.horizon",
+   "label": "Un Visitatore interessato al presagio degli orizzonti",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.mob",
+   "label": "Un Visitatore interessato ai Conteggiatori",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.rising",
+   "label": "Un Visitatore interessato all’ascesa",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.lost.find",
+   "label": "Un Visitatore interessato a qualcosa di riscoperto",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.project.ingenious",
+   "label": "Un Visitatore interessato a un progetto ingegnoso",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.project.solar",
+   "label": "Un Visitatore interessato a un progetto solare",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.mystical",
+   "label": "Un Visitatore interessato al misticismo",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.opera.apollo",
+   "label": "Un Visitatore interessato all’opera",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.opera.wings",
+   "label": "Un Visitatore interessato all’opera pericolosa",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.box",
+   "label": "Un Visitatore interessato a una scatola",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.rite.renewal",
+   "label": "Un Visitatore interessato a un rito di rinnovamento",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.rite.awakening",
+   "label": "Un Visitatore interessato a un rito di risveglio",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.hunt.changing",
+   "label": "Un Visitatore interessato a una caccia",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.observe.scaly",
+   "label": "Un Visitatore interessato all’osservazione",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.numa.grail.a",
+   "label": "Un Visitatore interessato al santuario",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.numa.grail.b",
+   "label": "Un Visitatore interessato ai banchetti",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.numa.moon.a",
+   "label": "Un Visitatore interessato alla memoria",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.numa.moon.b",
+   "label": "Un Visitatore interessato alla mezzanotte",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.numa.winter.a",
+   "label": "Un Visitatore interessato al gelo",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.numa.wood",
+   "label": "Un Visitatore interessato alla complicazione",
+   "startdescription": "C’è qualcuno diretto alla Hush House?",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.consultation",
+   "label": "Consultazione",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.for.consultation.numa",
+   "label": "Consultazione Numatica",
+   "startdescription": "In questo Numa, nulla di più insolito del solito si muove. Un visitatore potrebbe comunque arrivare per una consultazione generale.",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitorpatrol",
+   "label": "Pattuglia dei Visitatori",
+   "startdescription": "Grabs embarking visitors every thirty seconds",
+   "slots": [
+    {
+     "id": "v"
+    }
+   ]
+  },
+  {
+   "id": "visitor.embarking.sendoffstage"
+  },
+  {
+   "id": "wc.send.basegame",
+   "label": "Un Dono dalla Dr Blackwood",
+   "startdescription": "[disabled pro tem]"
+  },
+  {
+   "id": "ch.orderform.send",
+   "label": "Una Pubblicità di Cater & Hero",
+   "startdescription": "La ditta Cater & Hero, sensibile alla possibilità di far commercio, ha inviato un catalogo stampato in modo sbavato e indirizzato a «l’Arcivista»."
+  },
+  {
+   "id": "ch.respond.begin"
+  },
+  {
+   "id": "ch.respond.provision",
+   "label": "Approvvigionamento di Cater & Hero",
+   "startdescription": "Activates xtriggers on orders"
+  },
+  {
+   "id": "ch.respond.reset",
+   "label": "Ripristino di Cater & Hero",
+   "startdescription": "Cleans up orders and cost"
+  },
+  {
+   "id": "trn.orderform.send",
+   "label": "Un Invito da T.R.N. Limited",
+   "startdescription": "Ho ricevuto un breve catalogo, stampato con cura su una carta liscia e color crema, da T.R.N. Limited. Un biglietto di cortesia mi informa che mi hanno riservato un posto nella loro lista clienti."
+  },
+  {
+   "id": "trn.respond.begin"
+  },
+  {
+   "id": "trn.respond.provision",
+   "label": "Approvvigionamento di T.R.N.",
+   "startdescription": "Activates xtriggers on orders"
+  },
+  {
+   "id": "trn.respond.reset",
+   "label": "Ripristino di T.R.N.",
+   "startdescription": "Cleans up orders and cost"
+  },
+  {
+   "id": "rhonwen.reminder.trysend",
+   "label": "Un Promemoria dal Trust"
+  },
+  {
+   "id": "rhonwen.reminder.send",
+   "label": "Un Promemoria",
+   "startdescription": "È arrivato un messaggio dal Trust di St Rhonwen."
+  },
+  {
+   "id": "rhonwen.correspondence.trysend",
+   "label": "Un Messaggio dal Trust",
+   "startdescription": "Opzioni qui per variare il messaggio"
+  },
+  {
+   "id": "rhonwen.stipend",
+   "label": "Stipendio Annuale",
+   "startdescription": "È arrivato lo stipendio annuale dal Trust di St Rhonwen, insieme al solito promemoria piuttosto sussiegoso che dovrei spenderlo con saggezza."
+  },
+  {
+   "id": "lot.oriflammes.setup",
+   "label": "Un Messaggio da Oriflamme’s",
+   "startdescription": "Set up Oriflamme's offer",
+   "slots": [
+    {
+     "id": "p"
+    }
+   ]
+  },
+  {
+   "id": "lot.oriflammes.draw",
+   "label": "Estrazione dell’Offerta di Oriflamme’s",
+   "startdescription": "Oriflamme's: draw new books. This will give us a basic stock to draw from if the player keeps refusing the first choice."
+  },
+  {
+   "id": "_lot.oriflammes.offer",
+   "label": "Un’Offerta da Oriflamme’s",
+   "startdescription": "«ORIFLAMME’S, est. 1776 – SENTORI – SEGNI – SCIENZE. Gentile Archivista; vorremmo offrirti l’opportunità di acquistare...» [Controlla l’icona del libro a destra.]",
+   "desc": "«Oriflamme’s ti ringrazia per il tuo interesse costante. [Il libro potrebbe tornare disponibile per l’acquisto più avanti.]»"
+  },
+  {
+   "id": "lot.oriflammes.offer.5",
+   "slots": [
+    {
+     "id": "t"
+    }
+   ]
+  },
+  {
+   "id": "lot.oriflammes.offer.4",
+   "slots": [
+    {
+     "id": "t"
+    }
+   ]
+  },
+  {
+   "id": "lot.oriflammes.offer.3",
+   "slots": [
+    {
+     "id": "t"
+    }
+   ]
+  },
+  {
+   "id": "lot.oriflammes.offer.2",
+   "slots": [
+    {
+     "id": "t"
+    }
+   ]
+  },
+  {
+   "id": "lot.oriflammes.offer.1",
+   "slots": [
+    {
+     "id": "t"
+    }
+   ]
+  },
+  {
+   "id": "lot.oriflammes.purchase",
+   "startdescription": "«Oriflamme’s ti ringrazia per la tua fiducia.»"
+  },
+  {
+   "id": "lot.oriflammes.pass",
+   "startdescription": "Passa!"
+  }
+ ]
+}

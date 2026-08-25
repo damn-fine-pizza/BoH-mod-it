@@ -1,0 +1,79 @@
+{
+ "achievements": [
+  {
+   "id": "A_EXPLORE_VILLAGE",
+   "label": "All’Ombra dell’Isola",
+   "descriptionunlocked": "Attraverso la tempesta, ho trovato la strada per il Villaggio di Brancrug."
+  },
+  {
+   "id": "A_EXPLORE_BARONIAL",
+   "label": "Esce Dewulf",
+   "descriptionunlocked": "Ho restaurato il santuario dell’ultimo Barone Dewulf."
+  },
+  {
+   "id": "A_EXPLORE_CURIA",
+   "label": "La Curia dell’Isola",
+   "descriptionunlocked": "Ho restaurato le stanze riservate dalla Curia all’Archivista."
+  },
+  {
+   "id": "A_EXPLORE_CHURCH",
+   "label": "I Fratelli e le Sorelle di St Brandan",
+   "descriptionunlocked": "Ho restaurato la Chiesa dell’Abbazia dell’Isola, fino alla sua guglia più alta."
+  },
+  {
+   "id": "A_EXPLORE_GAOL",
+   "label": "Buio a Mezzogiorno",
+   "descriptionunlocked": "Ho restaurato le camere più profonde della Prigione del Cucurbit."
+  },
+  {
+   "id": "A_EXPLORE_UNDERGROUND",
+   "label": "Sotto l’Abbazia della Colomba Nera",
+   "descriptionunlocked": "Ho dissotterrato il segreto finale delle grotte sotto la Hush House."
+  },
+  {
+   "id": "A_EXPLORE_BIRDSONG",
+   "label": "Padronanza: Canto degli Uccelli",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza della musica, degli enigmi e della miscellanea."
+  },
+  {
+   "id": "A_EXPLORE_BOSK",
+   "label": "Padronanza: Il Boschetto",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza del bosco primordiale."
+  },
+  {
+   "id": "A_EXPLORE_HOROMACHISTRY",
+   "label": "Padronanza: Oromachia",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza delle leggi (e dei dissensi) delle Ore."
+  },
+  {
+   "id": "A_EXPLORE_HUSHERY",
+   "label": "Padronanza: Silenzieria",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza del silenzio e del suo infrangersi."
+  },
+  {
+   "id": "A_EXPLORE_ILLUMINATION",
+   "label": "Padronanza: Illuminazione",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza della purificazione del sé e di ciò che lo circonda."
+  },
+  {
+   "id": "A_EXPLORE_ITHASTRY",
+   "label": "Padronanza: Ithastria",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza dell’alchimia, della metallurgia e della pirotecnica."
+  },
+  {
+   "id": "A_EXPLORE_NYCTODROMY",
+   "label": "Padronanza: Nittodromia",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza delle vie e dei sentieri secondari del transmondano."
+  },
+  {
+   "id": "A_EXPLORE_PRESERVATION",
+   "label": "Padronanza: Preservazione",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza della cura e del restauro."
+  },
+  {
+   "id": "A_EXPLORE_SKOLEKOSOPHY",
+   "label": "Padronanza: Scolecosofia",
+   "descriptionunlocked": "Ho padroneggiato la Sapienza delle cose che non dovrebbero essere studiate."
+  }
+ ]
+}

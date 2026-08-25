@@ -1,0 +1,252 @@
+{
+ "recipes": [
+  {
+   "id": "wc.send.enabled",
+   "label": "Un Dono dalla Dr Blackwood",
+   "startdescription": "Un pacco da parte della Dr Serena Blackwood, che un tempo fu anche Archivista qui:\n\n«Archivista: ricordo bene quanto remota sia Brancrug dal resto del mondo. Ad Alessandria, ho sia un ufficio telegrafico che più compagnia di quanta riesca a sopportare. Penso che tu ne farai miglior uso di me.\n\nCordiali saluti\n Serena»"
+  },
+  {
+   "id": "_write.summon"
+  },
+  {
+   "id": "write.summon.agdistis",
+   "label": "Richiedere la Presenza di Agdistis",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Agdistis a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.aladim",
+   "label": "Richiedere la Presenza di al-Adim",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per al-Adim a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.arthur",
+   "label": "Richiedere la Presenza di Arthur Moore",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Arthur Moore a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.arun",
+   "label": "Richiedere la Presenza di Peel",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Peel a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.azita",
+   "label": "Richiedere la Presenza di Azita",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Azita a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.chaima",
+   "label": "Richiedere la Presenza di Chaima",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Chaima a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.connie",
+   "label": "Richiedere la Presenza di Connie",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Connie a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.coquille",
+   "label": "Richiedere la Presenza di Coquille",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Coquille a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.corso",
+   "label": "Richiedere la Presenza di Corso",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Corso a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.dagmar",
+   "label": "Richiedere la Presenza di Daymare",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Daymare a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.douglas",
+   "label": "Richiedere la Presenza di Douglas Moore",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Douglas Moore a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.ehsan",
+   "label": "Richiedere la Presenza di Ehsan",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Ehsan a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.fraser",
+   "label": "Richiedere la Presenza di Strathcoyne",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Strathcoyne a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.hokobald",
+   "label": "Richiedere la Presenza di Hokobald",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Hokobald a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.morgen",
+   "label": "Richiedere la Presenza di Morgen",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Morgen a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.olympe",
+   "label": "Richiedere la Presenza di Olympe",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Olympe a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.serena",
+   "label": "Richiedere la Presenza di Serena",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Serena a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.stanislav",
+   "label": "Richiedere la Presenza di Padre Stanislav",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Padre Stanislav a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.yvette",
+   "label": "Richiedere la Presenza di Yvette",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Yvette a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "write.summon.zachary",
+   "label": "Richiedere la Presenza di Zachary",
+   "startdescription": "Ho abbastanza qui per comporre una lettera di invito per Zachary a Brancrug.",
+   "desc": "Adesso devo solo spedirla."
+  },
+  {
+   "id": "wc.callingcard.add.agdistis",
+   "label": "Annota l’Indirizzo di Agdistis",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.aladim",
+   "label": "Annota l’Indirizzo di al-Adim",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.arthur",
+   "label": "Annota l’Indirizzo di Arthur Moore",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.arun",
+   "label": "Annota l’Indirizzo di Peel",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.azita",
+   "label": "Annota l’Indirizzo di Azita",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.chaima",
+   "label": "Annota l’Indirizzo di Chaima",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.connie",
+   "label": "Annota l’Indirizzo di Connie",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.coquille",
+   "label": "Annota l’Indirizzo di Coquille",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.corso",
+   "label": "Annota l’Indirizzo di Corso",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.dagmar",
+   "label": "Annota l’Indirizzo di Daymare",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.douglas",
+   "label": "Annota l’Indirizzo di Douglas Moore",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.ehsan",
+   "label": "Annota l’Indirizzo di Ehsan",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.fraser",
+   "label": "Annota l’Indirizzo di Strathcoyne",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.hokobald",
+   "label": "Annota l’Indirizzo di Hokobald",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.morgen",
+   "label": "Annota l’Indirizzo di Morgen",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.olympe",
+   "label": "Annota l’Indirizzo di Olympe",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.serena",
+   "label": "Annota l’Indirizzo di Serena",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.stanislav",
+   "label": "Annota l’Indirizzo di Padre Stanislav",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.yvette",
+   "label": "Annota l’Indirizzo di Yvette",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  },
+  {
+   "id": "wc.callingcard.add.zachary",
+   "label": "Annota l’Indirizzo di Zachary",
+   "startdescription": "Per quella che potresti chiamare una «corrispondenza occulta».",
+   "desc": "«Ma verranno quando le chiami?»"
+  }
+ ]
+}

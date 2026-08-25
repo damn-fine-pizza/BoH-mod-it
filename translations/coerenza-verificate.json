@@ -1,0 +1,23 @@
+{
+ "_nota": "I termini che tools/consistency.py segnala e che hanno davvero due rese, per buone ragioni: sensi diversi della stessa parola inglese, o contesti che chiedono forme diverse. Lo strumento li legge e non li ripropone.",
+ "Wood": "Due sensi: «the Wood» del sogno e' il Bosco, «wood» materiale e' legno.",
+ "Glass": "Due sensi: il materiale e' vetro, il recipiente e' bicchiere.",
+ "Pot": "Il te' si serve in teiera, il cacao in bricco: «(Pot)» segue la bevanda.",
+ "Return": "Due verbi diversi: «Return later» e' ritornare, «Return this to» e' restituire.",
+ "Room": "Stanze diverse: Smoking-Room e' la Sala Fumatori, Staff-Room la Sala del Personale.",
+ "Crime": "«Crime» e' sempre Crimine; la Maledizione che compare accanto e' «Curse».",
+ "Britain": "«Gran Bretagna» nei contesti moderni, «Britannia» dove il testo parla dell'isola nel mito o nell'antichita'.",
+ "Weft": "«Wyrd-Weft» ha una resa italiana naturale (Trama del Fato); «Frith-Weft» no, e resta invariato come il resto del lessico inventato.",
+ "Journal": "Falso positivo: «Aggiungere Determinazioni» non e' una resa di Journal, e' una frase che gli ricorre accanto.",
+ "Red": "Falso positivo: «Rosso e Basso» e «Il Rosso» sono due carte diverse.",
+ "Nothing": "Falso positivo: «Seziona» e «Analizza» sono verbi di ricette che ricorrono accanto a «Nothing».",
+ "Solar": "«Solar Gothic Period» resta invariato perche' e' il nome di un periodo; «solar» aggettivo e' solare.",
+ "Shadowless Kings": "Artefatto del trattino: «Re Senza-Ombra» viene spezzato in due dalla sonda.",
+ "Amethyst Imago": "Uniformato a «Imago d'Ametista»; resta segnalato finche' la sonda vede anche il titolo «Su Matthias e...» accanto.",
+ "Half-": "Come «Pot»: mezza teiera per il te', mezzo bricco per il cacao.",
+ "Book": "Non e' una divergenza: sono due titoli diversi che contengono la stessa parola, «Shuritic Book of Suns» -> Libro dei Soli e «the Authorised Version of the Book» -> La Versione Autorizzata del Libro.",
+ "Days": "Due Ore diverse, non due rese: «Forge of Days» -> Forgia dei Giorni e «Key of Days» -> Chiave dei Giorni. L'euristica raggruppa per parola piena e le vede come lo stesso termine.",
+ "Chrysalis": "Una sola resa vera, «La Crisalide». L'altra e' un artefatto: lo strumento raccoglie le maiuscole italiane vicine e pesca «Teoricamente» a inizio frase.",
+ "Divided": "Non e' un termine a se': compare solo dentro «Wolf-Divided», l'Ora resa «Lupo-Diviso». Lo strumento spezza sul trattino e poi accosta le maiuscole italiane che trova vicino.",
+ "Shell": "Due sensi: «Shell» e' il Guscio della Croce del Carapace (Ombra-di-Guscio, Guscio-Crociato, «Guscio e Ascia e Pietra»), ma in «Mistress Twitch-Shell» e' la conchiglia marina - il personaggio della commedia fa coppia con Mistress Nether-Pearls, e «Guizza-Guscio» perderebbe il mare."
+}

@@ -1,0 +1,83 @@
+{
+    "elements": [
+        {
+            "id": "departure.assistance",
+            "label": "Departure",
+            "desc": "Someone has finished their work.",
+            "lifetime":1
+        },
+
+        {
+            "id": "departure.assistance.longer",
+            "label": "Departing Assistance",
+            "icon":"departure.assistance",
+            "desc": "Someone's time is up, and now they're going home.",
+            "lifetime":30
+        },
+        {
+            "id": "departure.visiting",
+            "label": "Departing Guest",
+            "icon":"departure.assistance",
+            "desc": "Someone's going home.",
+            "lifetime":1
+        },
+        {
+            "id": "dregs",
+            "label": "Dregs",
+            "desc": "This was something.",
+            "lifetime":1
+        },
+        {
+            "id": "dust",
+            "label": "Dust",
+            "desc": "This was something.",
+            "lifetime":1
+        },
+        {
+            "id": "echo",
+            "icon":"echo",
+            "label": "Echo",
+            "desc": "[This memory has become part of something else.]",
+            "lifetime":1
+        },
+{
+    "id": "fleeting",
+    "label": "Fleeting Reminiscence",
+    "desc": "A moment in time. In another moment, it'll be gone. [If unused, Memories disappear with the dawn.]",
+    "lifetime":1
+},
+{
+    "id": "lesson.giribrago",
+    "label": "A Lesson of Many Facets",
+    "desc": "Light leaks in where, from, how. [An unusual and versatile lesson that will NOT PERSIST PAST DAWN. Use it quickly.]",
+    "aspects":{"lesson":1,"edge":1,"forge":1,"grail":1,"heart":1,"knock":1,"lantern":1,"moth":1,"moon":1,"nectar":1,"rose":1,"scale":1,"sky":1,"winter":1},
+    "inherits":"_memory"
+},
+
+        {
+            "id": "residue",
+            "label": "Residue",
+            "desc": "This was something.",
+            "lifetime":1
+        },
+        {
+            "id": "rind",
+            "label": "Rind",
+            "desc": "This held something.",
+            "lifetime":1
+        },
+        {
+            "id": "scraps",
+            "label": "Scraps",
+            "desc": "This was something more.",
+            "lifetime":1
+        },
+        {
+            "id": "vapours",
+            "label": "Vapours",
+            "desc": "A passing atmosphere.",
+            "lifetime":1
+        }
+        
+    ]
+}

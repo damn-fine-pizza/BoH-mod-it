@@ -1,0 +1,369 @@
+{
+ "elements": [
+  {
+   "id": "manuscript.preliminalmeter",
+   "label": "Manoscritto di Metro Preliminale",
+   "desc": "Qui ho annotato i miei pensieri su Metro Preliminale."
+  },
+  {
+   "id": "manuscript.pyroglyphics",
+   "label": "Manoscritto di Piroglifici",
+   "desc": "Qui ho annotato i miei pensieri su Piroglifici."
+  },
+  {
+   "id": "manuscript.inks.containment",
+   "label": "Manoscritto di Inchiostri di Contenimento",
+   "desc": "Qui ho annotato i miei pensieri su Inchiostri di Contenimento."
+  },
+  {
+   "id": "manuscript.inks.revelation",
+   "label": "Manoscritto di Inchiostri di Rivelazione",
+   "desc": "Qui ho annotato i miei pensieri su Inchiostri di Rivelazione."
+  },
+  {
+   "id": "manuscript.inks.power",
+   "label": "Manoscritto di Inchiostri di Potere",
+   "desc": "Qui ho annotato i miei pensieri su Inchiostri di Potere."
+  },
+  {
+   "id": "manuscript.drums.dances",
+   "label": "Manoscritto di Tamburi & Danze",
+   "desc": "Qui ho annotato i miei pensieri su Tamburi & Danze."
+  },
+  {
+   "id": "manuscript.strings.songs",
+   "label": "Manoscritto di Corde & Canti",
+   "desc": "Qui ho annotato i miei pensieri su Corde & Canti."
+  },
+  {
+   "id": "manuscript.bells.brazieries",
+   "label": "Manoscritto di Campane & Bracieri",
+   "desc": "Qui ho annotato i miei pensieri su Campane & Bracieri."
+  },
+  {
+   "id": "manuscript.horns.ivories",
+   "label": "Manoscritto di Corna & Avori",
+   "desc": "Qui ho annotato i miei pensieri su Corna & Avori."
+  },
+  {
+   "id": "manuscript.surgeries.exsanguinations",
+   "label": "Manoscritto di Chirurgie & Dissanguamenti",
+   "desc": "Qui ho annotato i miei pensieri su Chirurgie & Dissanguamenti."
+  },
+  {
+   "id": "manuscript.stitching.binding",
+   "label": "Manoscritto di Cucitura & Rilegatura",
+   "desc": "Qui ho annotato i miei pensieri su Cucitura & Rilegatura."
+  },
+  {
+   "id": "manuscript.furs.feathers",
+   "label": "Manoscritto di Pellicce & Piume",
+   "desc": "Qui ho annotato i miei pensieri su Pellicce & Piume."
+  },
+  {
+   "id": "manuscript.pearl.tide",
+   "label": "Manoscritto di Perla & Marea",
+   "desc": "Qui ho annotato i miei pensieri su Perla & Marea."
+  },
+  {
+   "id": "manuscript.insects.nectars",
+   "label": "Manoscritto di Insetti & Nettari",
+   "desc": "Qui ho annotato i miei pensieri su Insetti & Nettari."
+  },
+  {
+   "id": "manuscript.herbs.infusions",
+   "label": "Manoscritto di Erbe & Infusi",
+   "desc": "Qui ho annotato i miei pensieri su Erbe & Infusi."
+  },
+  {
+   "id": "manuscript.spices.savours",
+   "label": "Manoscritto di Spezie & Sapori",
+   "desc": "Qui ho annotato i miei pensieri su Spezie & Sapori."
+  },
+  {
+   "id": "manuscript.leaves.thorns",
+   "label": "Manoscritto di Foglie & Spine",
+   "desc": "Qui ho annotato i miei pensieri su Foglie & Spine."
+  },
+  {
+   "id": "manuscript.orchids.narcotics",
+   "label": "Manoscritto di Orchidee & Narcotici",
+   "desc": "Qui ho annotato i miei pensieri su Orchidee & Narcotici."
+  },
+  {
+   "id": "manuscript.serpents.venoms",
+   "label": "Manoscritto di Serpenti & Veleni",
+   "desc": "Qui ho annotato i miei pensieri su Serpenti & Veleni."
+  },
+  {
+   "id": "manuscript.sights.sensations",
+   "label": "Manoscritto di Visioni & Sensazioni",
+   "desc": "Qui ho annotato i miei pensieri su Visioni & Sensazioni."
+  },
+  {
+   "id": "manuscript.desires.dissolutions",
+   "label": "Manoscritto di Desideri & Dissoluzioni",
+   "desc": "Qui ho annotato i miei pensieri su Desideri & Dissoluzioni."
+  },
+  {
+   "id": "manuscript.resurgences.emergences",
+   "label": "Manoscritto di Risorgenze & Emersioni",
+   "desc": "Qui ho annotato i miei pensieri su Risorgenze & Emersioni."
+  },
+  {
+   "id": "manuscript.rhyme.remembrance",
+   "label": "Manoscritto di Rima & Rimembranza",
+   "desc": "Qui ho annotato i miei pensieri su Rima & Rimembranza."
+  },
+  {
+   "id": "manuscript.disciplines.thehammer",
+   "label": "Manoscritto di Discipline del Martello",
+   "desc": "Qui ho annotato i miei pensieri su Discipline del Martello."
+  },
+  {
+   "id": "manuscript.disciplines.thescar",
+   "label": "Manoscritto di Discipline della Cicatrice",
+   "desc": "Qui ho annotato i miei pensieri su Discipline della Cicatrice."
+  },
+  {
+   "id": "manuscript.auroralcontemplations",
+   "label": "Manoscritto di Contemplazioni Aurorali",
+   "desc": "Qui ho annotato i miei pensieri su Contemplazioni Aurorali."
+  },
+  {
+   "id": "manuscript.applebrighteuphonies",
+   "label": "Manoscritto di Eufonie di Applebright",
+   "desc": "Qui ho annotato i miei pensieri su Eufonie di Applebright."
+  },
+  {
+   "id": "manuscript.watchmansparadoxes",
+   "label": "Manoscritto dei Paradossi del Guardiano",
+   "desc": "Qui ho annotato i miei pensieri su Paradossi del Guardiano."
+  },
+  {
+   "id": "manuscript.raggedcrossroads",
+   "label": "Manoscritto di Crocevia Logoro",
+   "desc": "Qui ho annotato i miei pensieri su Crocevia Logoro."
+  },
+  {
+   "id": "manuscript.meniscatereflections",
+   "label": "Manoscritto di Riflessi Meniscati",
+   "desc": "Qui ho annotato i miei pensieri su Riflessi Meniscati."
+  },
+  {
+   "id": "manuscript.putrefactions.calcinations",
+   "label": "Manoscritto di Putrefazioni & Calcinazioni",
+   "desc": "Qui ho annotato i miei pensieri su Putrefazioni & Calcinazioni."
+  },
+  {
+   "id": "manuscript.solutions.separations",
+   "label": "Manoscritto di Soluzioni & Separazioni",
+   "desc": "Qui ho annotato i miei pensieri su Soluzioni & Separazioni."
+  },
+  {
+   "id": "manuscript.path.pilgrim",
+   "label": "Manoscritto di Cammino & Pellegrino",
+   "desc": "Qui ho annotato i miei pensieri su Cammino & Pellegrino."
+  },
+  {
+   "id": "manuscript.purifications.exaltations",
+   "label": "Manoscritto di Purificazioni & Esaltazioni",
+   "desc": "Qui ho annotato i miei pensieri su Purificazioni & Esaltazioni."
+  },
+  {
+   "id": "manuscript.transformations.liberations",
+   "label": "Manoscritto di Trasformazioni & Liberazioni",
+   "desc": "Qui ho annotato i miei pensieri su Trasformazioni & Liberazioni."
+  },
+  {
+   "id": "manuscript.lockworks.clockworks",
+   "label": "Manoscritto di Serrature & Orologi",
+   "desc": "Qui ho annotato i miei pensieri su Serrature & Orologeria."
+  },
+  {
+   "id": "manuscript.seastories",
+   "label": "Manoscritto di Storie di Mare",
+   "desc": "Qui ho annotato i miei pensieri su Storie di Mare."
+  },
+  {
+   "id": "manuscript.wolfstories",
+   "label": "Manoscritto di Storie di Lupo",
+   "desc": "Qui ho annotato i miei pensieri su Storie di Lupo."
+  },
+  {
+   "id": "manuscript.sandstories",
+   "label": "Manoscritto di Storie di Sabbia",
+   "desc": "Qui ho annotato i miei pensieri su Storie di Sabbia."
+  },
+  {
+   "id": "manuscript.skystories",
+   "label": "Manoscritto di Storie di Cielo",
+   "desc": "Qui ho annotato i miei pensieri su Storie di Cielo."
+  },
+  {
+   "id": "manuscript.snowstories",
+   "label": "Manoscritto di Storie di Neve",
+   "desc": "Qui ho annotato i miei pensieri su Storie di Neve."
+  },
+  {
+   "id": "manuscript.stonestories",
+   "label": "Manoscritto di Storie di Pietra",
+   "desc": "Qui ho annotato i miei pensieri su Storie di Pietra."
+  },
+  {
+   "id": "manuscript.vak",
+   "label": "Manoscritto di Vak",
+   "desc": "Qui ho annotato i miei pensieri su Vak."
+  },
+  {
+   "id": "manuscript.mandaic",
+   "label": "Manoscritto di Mandaico Profondo",
+   "desc": "Qui ho annotato i miei pensieri su Mandaico Profondo."
+  },
+  {
+   "id": "manuscript.killasimi",
+   "label": "Manoscritto di Killasimi",
+   "desc": "Qui ho annotato i miei pensieri su Killasimi."
+  },
+  {
+   "id": "manuscript.fucine",
+   "label": "Manoscritto di Fucine",
+   "desc": "Qui ho annotato i miei pensieri su Fucine."
+  },
+  {
+   "id": "manuscript.sabazine",
+   "label": "Manoscritto di Sabazine",
+   "desc": "Qui ho annotato i miei pensieri su Sabazine."
+  },
+  {
+   "id": "manuscript.cracktrack",
+   "label": "Manoscritto di Cracktrack",
+   "desc": "Qui ho annotato i miei pensieri su Cracktrack."
+  },
+  {
+   "id": "manuscript.hyksos",
+   "label": "Manoscritto di Hyksos",
+   "desc": "Qui ho annotato i miei pensieri su Hyksos."
+  },
+  {
+   "id": "manuscript.ericapaean",
+   "label": "Manoscritto di Ericapaean",
+   "desc": "Qui ho annotato i miei pensieri su Ericapaean."
+  },
+  {
+   "id": "manuscript.ramsund",
+   "label": "Manoscritto di Ramsund",
+   "desc": "Qui ho annotato i miei pensieri su Ramsund."
+  },
+  {
+   "id": "manuscript.sacrasolisinvicti",
+   "label": "Manoscritto di Sacra Solis Invicti",
+   "desc": "Qui ho annotato i miei pensieri su Sacra Solis Invicti."
+  },
+  {
+   "id": "manuscript.tridesmahiera",
+   "label": "Manoscritto di Tridesma Hiera",
+   "desc": "Qui ho annotato i miei pensieri su Tridesma Hiera."
+  },
+  {
+   "id": "manuscript.sacralimiae",
+   "label": "Manoscritto di Sacra Limiae",
+   "desc": "Qui ho annotato i miei pensieri su Sacra Limiae."
+  },
+  {
+   "id": "manuscript.sickle.eclipse",
+   "label": "Manoscritto di Falce & Eclissi",
+   "desc": "Qui ho annotato i miei pensieri su Falce & Eclissi."
+  },
+  {
+   "id": "manuscript.hill.hollow",
+   "label": "Manoscritto di Colle & Valle",
+   "desc": "Qui ho annotato i miei pensieri su Colle & Valle."
+  },
+  {
+   "id": "manuscript.pentiments.precursors",
+   "label": "Manoscritto di Pentimenti & Precursori",
+   "desc": "Qui ho annotato i miei pensieri su Pentimenti & Precursori."
+  },
+  {
+   "id": "manuscript.coil.chasm",
+   "label": "Manoscritto di Spira & Baratro",
+   "desc": "Qui ho annotato i miei pensieri su Spira & Baratro."
+  },
+  {
+   "id": "manuscript.rites.theroots",
+   "label": "Manoscritto di Riti delle Radici",
+   "desc": "Qui ho annotato i miei pensieri su Riti delle Radici."
+  },
+  {
+   "id": "manuscript.door.wall",
+   "label": "Manoscritto di Porta & Muro",
+   "desc": "Qui ho annotato i miei pensieri su Porta & Muro."
+  },
+  {
+   "id": "manuscript.edictsliminal",
+   "label": "Manoscritto di Editti Liminali",
+   "desc": "Qui ho annotato i miei pensieri su Editti Liminali."
+  },
+  {
+   "id": "manuscript.edictsmartial",
+   "label": "Manoscritto di Editti Marziali",
+   "desc": "Qui ho annotato i miei pensieri su Editti Marziali."
+  },
+  {
+   "id": "manuscript.edictsinviolable",
+   "label": "Manoscritto di Editti Inviolabili",
+   "desc": "Qui ho annotato i miei pensieri su Editti Inviolabili."
+  },
+  {
+   "id": "manuscript.thegreatsignsandthegreatscars",
+   "label": "Manoscritto dei Grandi Segni e delle Grandi Cicatrici",
+   "desc": "Qui ho annotato i miei pensieri sui Grandi Segni e sulle Grandi Cicatrici."
+  },
+  {
+   "id": "manuscript.maggephenemysteries",
+   "label": "Manoscritto di Misteri Maggephene",
+   "desc": "Qui ho annotato i miei pensieri su Misteri Maggephene."
+  },
+  {
+   "id": "manuscript.weaving.knotworking",
+   "label": "Manoscritto di Tessitura & Annodatura",
+   "desc": "Qui ho annotato i miei pensieri su Tessitura & Annodatura."
+  },
+  {
+   "id": "manuscript.anbary.lapidary",
+   "label": "Manoscritto di Ambreria & Lapidario",
+   "desc": "Qui ho annotato i miei pensieri su Ambreria & Lapidario."
+  },
+  {
+   "id": "manuscript.quenchings.quellings",
+   "label": "Manoscritto di Spegnimenti & Placamenti",
+   "desc": "Qui ho annotato i miei pensieri su Spegnimenti & Placamenti."
+  },
+  {
+   "id": "manuscript.glassblowing.vesselcrafting",
+   "label": "Manoscritto di Vetro Soffiato & Vasellame",
+   "desc": "Qui ho annotato i miei pensieri su Vetro Soffiato & Vasellame."
+  },
+  {
+   "id": "manuscript.glaziery.lightsmithing",
+   "label": "Manoscritto di Vetreria & Lucefabbro",
+   "desc": "Qui ho annotato i miei pensieri su Vetreria & Lucefabbro."
+  },
+  {
+   "id": "manuscript.sharps",
+   "label": "Manoscritto di Taglienti",
+   "desc": "Qui ho annotato i miei pensieri su Taglienti."
+  },
+  {
+   "id": "manuscript.ouranoscopy",
+   "label": "Manoscritto di Uranoscopia",
+   "desc": "Qui ho annotato i miei pensieri sull’Uranoscopia."
+  },
+  {
+   "id": "manuscript.henavek",
+   "label": "Manoscritto di Henavek",
+   "desc": "Qui ho annotato i miei pensieri su Henavek."
+  }
+ ]
+}

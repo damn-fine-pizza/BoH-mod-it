@@ -1,0 +1,77 @@
+{
+ "recipes": [
+  {
+   "id": "salon.alliance.chandler",
+   "label": "Alleato: il Chandler",
+   "startdescription": "L’Istituto ha deciso di collaborare con il Chandler... quando il Chandler infine si manifesterà."
+  },
+  {
+   "id": "salon.alliance.ys",
+   "label": "Alleato: Ys",
+   "startdescription": "L’Istituto ha deciso che i benefici della collaborazione con Ys superano di gran lunga i suoi pericoli."
+  },
+  {
+   "id": "salon.alliance.carapace",
+   "label": "Alleato: la Croce del Carapace",
+   "startdescription": "L’Istituto ha deciso di stringere alleanze con la Croce del Carapace, mentre il loro ritorno ha inizio."
+  },
+  {
+   "id": "salon.alliance.reckoners",
+   "label": "Alleato: i Signori Conteggiatori",
+   "startdescription": "L’Istituto ha deciso di stringere un accordo reciprocamente vantaggioso con i mercanti degli anni."
+  },
+  {
+   "id": "salon.alliance.none",
+   "label": "Alleato: Nessuno",
+   "startdescription": "I fondatori dell’Istituto non riuscirono a concordare con chi collaborare."
+  },
+  {
+   "id": "salon.foe.chandler",
+   "label": "Nemico: il Chandler",
+   "startdescription": "L’Istituto ha deciso che l’Ora imminente chiamata Chandler è la più grave minaccia occulta per il genere mortale."
+  },
+  {
+   "id": "salon.foe.ys",
+   "label": "Nemico: Ys",
+   "startdescription": "L’Istituto ha deciso che Ys, la città oltre l’onda, è stata lasciata indisturbata troppo a lungo: le sue seduzioni potrebbero capovolgere il mondo della veglia."
+  },
+  {
+   "id": "salon.foe.carapace",
+   "label": "Nemico: la Croce del Carapace",
+   "startdescription": "L’Istituto ha deciso che il ritorno della Croce del Carapace, e i cambiamenti che potrebbe portare, rappresentano la più significativa minaccia occulta per il genere mortale."
+  },
+  {
+   "id": "salon.foe.devourers",
+   "label": "Nemico: i Divoratori",
+   "startdescription": "L’Istituto ha deciso di premunire anzitutto il genere mortale contro le insidie del mondo nascosto: aluchiti, spiriti del Mansus, fantasmi affamati..."
+  },
+  {
+   "id": "salon.foe.nowhere",
+   "label": "Nemico: le Ore del Nessun Luogo",
+   "startdescription": "L’Istituto ha deciso che l’orrore divorante degli dèi-dal-Nessun Luogo è la più grande minaccia che il genere mortale debba mai temere."
+  },
+  {
+   "id": "salon.foe.none",
+   "label": "Nemico: Nessuno",
+   "startdescription": "I fondatori dell’Istituto non riuscirono a concordare sulla natura della minaccia occulta più significativa."
+  },
+  {
+   "id": "salon.carapace.deadlock",
+   "label": "Stallo",
+   "startdescription": "<i>Un fondatore insistette che dovessimo abbracciare la nostra parentela con la Croce del Carapace; un altro rifiutò di tollerare qualsiasi perdita della nostra più autentica umanità.</i>",
+   "desc": "[Stallo: i fondatori hanno Timore/Simpatia opposti. Non possiamo inaugurare l’Istituto con la Croce del Carapace né come Alleato né come Nemico.]"
+  },
+  {
+   "id": "salon.chandler.deadlock",
+   "label": "Stallo",
+   "startdescription": "<i>Un fondatore insistette che dovessimo allearci con il Chandler; un altro inorridì all’idea di qualsiasi rapporto con quella potenza nascente.</i>",
+   "desc": "[Stallo: i fondatori hanno Timore/Simpatia opposti. Non possiamo inaugurare l’Istituto con il Chandler né come Alleato né come Nemico.]"
+  },
+  {
+   "id": "salon.ys.deadlock",
+   "label": "Stallo",
+   "startdescription": "<i>Un fondatore insistette che dovessimo allearci con Ys; un altro si rifiutò, ammonendo sulla proverbiale e fondamentale perfidia di Ys.</i>",
+   "desc": "[Stallo: i fondatori hanno Timore/Simpatia opposti. Non possiamo inaugurare l’Istituto con Ys né come Alleato né come Nemico]"
+  }
+ ]
+}

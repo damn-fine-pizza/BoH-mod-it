@@ -1,0 +1,198 @@
+{
+    "elements": [
+
+      {
+        "id": "connie.resigned",
+        "label": "Constance Lee",
+        "desc":"'En fin de compte, le Bureau de suppression n'est qu'une cabale de plus qui décide quels livres les autres doivent lire… et qui les lit elle-même. Ma lettre de démission est prête. Je l'enverrai d'un endroit sûr… sans adresse de retour. Voici comment me joindre si vous en avez vraiment besoin…' [Connie n'est plus un Visiteur et ne participera plus aux histoires, mais elle peut encore devenir une fondatrice du Lighthouse Institute]",
+        "icon":"connie" ,
+        "aspects":{"visitor":1,"unsociable":1,"agenda.revelation":1,"inspired":1,
+        "suitable.secretary.nunciant.surprise":1},
+        "comments":"She's not a _visitor, so the imm doesn't trigger - so we make her explicitly inspired",
+        "xtriggers":{"appointing":[{"id":"appointment.nunciant","morpheffect":"mutate","level":1}]}
+
+    },    
+
+         {
+      "id": "echidna",
+      "label": "Mme E",
+      "desc": "L'autoproclamée Mère des Monstres. Une femme joyeuse et ronde, vêtue d'un vêtement vert-gris semblable à un dirndl ample.",
+      "inherits": "_visitor",
+      "aspects": {
+        "u.hyksos":1,
+        "u.killasimi":1,
+        "u.greek":1,
+        "unsociable":1
+      },
+      "decayto": "departure.assistance",
+      "lifetime":360, "xtriggers":{"satisfying":"departure.assistance","satisfying.echidna":"departure.assistance",
+      "dissatisfying":"departure.assistance"}
+    },
+    {
+      "id": "echidna.persistent",
+      "label": "Mme E",      
+      "desc": "L'autoproclamée Mère des Monstres. Une femme joyeuse et ronde, vêtue d'un vêtement vert-gris semblable à un dirndl ample.",
+      "inherits": "_visitor",
+      "icon":"echidna",
+      "aspects": {
+        "u.hyksos":1,
+        "u.killasimi":1,
+        "u.greek":1,
+        "agenda.corrivality":1,
+        "agenda.secrecy":1,
+        "agenda.stone.consumed":1,
+        "unsociable":1,
+        "suitable.secretary.persistent.surprise":1
+      },
+      "xtriggers":{"appointing":[{"id":"appointment.persistent","morpheffect":"mutate","level":1}]},
+      "comments":"If we lose the _visitor, we'll need inspired to be explicit"
+    },
+    {
+      "id": "elie.persistent",
+      "label": "Promesse d'Elie",
+      "icon":"elie",
+      "desc": "Autrefois, Elie la Noire était la Matriarche des Sœurs du Triple Nœud à Damas. Aujourd'hui, elle est une alliée d'Ys - et une candidate à l'Institut du Phare.",
+      "inherits": "_visitor",
+      "aspects": {
+        "u.hyksos":1,
+        "u.killasimi":1,
+        "u.greek":1,
+        "u.phrygian":1,
+        "u.aramaic":1,
+        "agenda.peace":1,
+        "sympathy.ys":1,
+        "fear.nowhere":1,
+        "unsociable":1,
+        "suitable.secretary.salvant.surprise":1
+      },
+      "xtriggers":{"appointing":[{"id":"appointment.salvant","morpheffect":"mutate","level":1}]},
+      "comments":"If we lose the _visitor, we'll need inspired to be explicit"
+    },
+    {
+      "id": "liselotte",
+      "label": "La Tâche de Liselotte",
+      "desc": "Liselotte - Directrice de Lyterion ; diététicienne ; alliée des Blomberende. Liselotte souhaite apporter une caisse de larves nobles de Blomberende endormies, afin qu'elles puissent trouver refuge ici, à la Hush House. [Utilisez cette carte dans la ruche de Hush House pour leur donner refuge - ou si vous décidez de la refuser, retournez cette carte à Stanislav dans le nœud du 'Dieu dans le Bois']",
+      "xtriggers":{"retiring.liselotte":"retiring_liselotte"},
+      "aspects":{"visitor":1,"lyterion":1,"skill":1,"unsociable":1}
+    },
+    {
+      "id": "liselotte.lyterion.new",
+      "label": "La Gratitude de Liselotte",
+      "desc": "Liselotte - directrice du Lyterion, diététicienne, alliée des Blomberende - a installé ses 'landgravines-en-exil' dans la ruche de Hush House. [Retournez cette carte à Stanislav dans le nœud du Dieu dans le bois]",
+      "icon":"liselotte",
+      "xtriggers":{"retiring.liselotte":"retiring_liselotte"},
+      "aspects":{"visitor":1,"unsociable":1}
+    },
+
+    {
+      "id": "retiring_liselotte",
+      "label": "Liselotte, au Départ",
+      "desc": "Liselotte - directrice de Lyterion, diététicienne, alliée des Blomberende - est partie dans le monde. Peut-être que le Bureau des Suppressions ne la cherchera pas.",
+      "icon":"liselotte",
+      "lifetime":5
+    },
+
+    {
+      "id": "rowena.persistent",
+      "label": "Le Fardeau de Rowena",
+      "icon":"rowena",
+      "desc": "Rowena, prise entre la lune et la marée, le sang et l'or, Ys et les Marches, a depuis longtemps accepté son châtiment. Elle restera sa protectrice, même si son appétit s'estompe et que la mer emporte ce qu'il reste d'elle, vague après vague. Jusqu'à ce qu'elle disparaisse, la Clé de la Jument reste son fardeau, à elle seule.",
+      "aspects": {
+        "appointment.persistent":1,
+        "agenda.secrecy":1,
+        "fear.ys":1,
+        "inspired":1
+      }
+    },
+
+    {
+      "id": "spencer.enroute.out",
+      "label": "Spencer Hobson: au prochain Numa",
+      "icon":"spencer",
+      "desc": "Spencer arrivera avec le Numa.",
+"xtriggers":{"numa.other.visitors.arrive":"spencer.out"}
+    },
+    {
+      "id": "spencer.enroute.down",
+      "label": "Spencer Hobson: au prochain Numa",
+      "icon":"spencer",
+      "desc": "Spencer arrivera avec le Numa.",
+"xtriggers":{"numa.other.visitors.arrive":"spencer.down"}
+    },
+    {
+      "id": "spencer.out",
+      "label": "Spencer Hobson",
+      "desc": "Spencer a été plusieurs choses: journaliste, détective privé, prêtre, irrégulier du Bureau de Suppression. Il l'est toujours. Ce n'est peut-être pas un problème. Il n'a pas envie de parler. Il espère visiter le Rowenarium sous la Hush House - le traverser - pour 'sortir' quelque part. [Emmenez-le au Rowenarium, ou refusez-lui l'entrée en le renvoyant au nœud de l'Invité Perpétuel. Notez que Spencer arrive avec Numa, mais qu'il se tapira dans les brumes de Cornouailles même après la fin de Numa, jusqu'à ce que vous ayez résolu son problème]",
+      "icon":"spencer",
+      "xtriggers":{"retiring.spencer":"fleeting"},
+      "aspects": {"key":1,"memory":1,"numatic":1,"spencer":1}
+    },
+    {
+      "id": "spencer.down",
+      "label": "Spencer Hobson",
+      "desc": "Spencer a été plusieurs choses: journaliste, détective privé, prêtre, irrégulier du Bureau de Suppression. Il l'est toujours. Ce n'est peut-être pas un problème. Il n'a pas envie de parler. Il espère visiter le Rowenarium sous la Hush House - le traverser - pour 'descendre' quelque part. [Emmenez-le au Rowenarium, ou refusez-lui l'entrée en le renvoyant au nœud de l'Invité Perpétuel. Notez que Spencer arrive avec Numa, mais qu'il se tapira dans les brumes de Cornouailles même après la fin de Numa, jusqu'à ce que vous ayez résolu son problème]",
+      "icon":"spencer",
+      "xtriggers":{"retiring.spencer":"fleeting"},
+      "aspects": {"key":1,"memory":1,"numatic":1,"spencer":1}
+    },
+
+    {
+      "id": "spencer.trace",
+      "label": "L'Espace de Spencer",
+      "desc": "C'est ici que Spencer était. [Retournez ceci au nœud de l'Invité Perpétuel]",
+      "xtriggers":{"retiring.spencer":"fleeting"},
+      "aspects": {"memory":1,"numatic":1}
+    },
+
+    {
+      "id": "wisp.agdistis",
+      "label": "Feu follet d'Agdistis",
+      "icon":"wisp",
+      "audio":"wisp",
+      "desc": "Un 'pauvre feu follet' préservé par Agdistis de la catastrophe de Grunewald. Roucoulant, miaulant, chaud au toucher. Notablement inoffensif. [Agdistis vous a demandé de le placer dans la Chrysalide que vous trouverez à la Cucurbit Prison, mais vous pouvez le détruire dans le four si vous avez des doutes]",
+      "aspects":{"memory":1,"fuel":1}
+    },
+    {
+      "id": "wisp.skin.agdistis",
+      "icon":"wisp.trace.chrysalis",
+      "audio":"wisp",
+      "label": "Feu follet d'Agdistis: Exuvie",
+      "desc": "L'exuvie d'un 'pauvre feu follet' préservée par Agdistis lors de la catastrophe de Grunewald. Le feu follet lui-même réside désormais dans la Chrysalide. [Rendez-le à Agdistis]",
+      "xtriggers":{"retiring.wisp":"fleeting"},
+      "aspects":{"memory":1}
+    },
+    {
+      "id": "wisp.trace.agdistis",
+      "label": "Feu follet d'Agdistis: Trace Cendrée",
+      "icon":"wisp.trace.crucible",
+      "desc": "Les restes calcinés d'un 'pauvre feu follet' préservés par Agdistis du désastre de Grunewald. Ce n'était probablement pas aussi inoffensif qu'il y paraissait… [Rendez ceci à Agdistis]",
+      "xtriggers":{"retiring.wisp":"fleeting"},
+      "aspects":{"memory":1}
+    },
+    {
+      "id": "wisp.ehsan",
+      "label": "Feu follet d'Ehsan",
+      "icon":"wisp",
+      "desc": "Un 'pauvre feu follet' préservé par Ehsan de la catastrophe de Grunewald. Roucoulant, miaulant, chaud au toucher. Notablement inoffensif. [Ehsan vous a demandé de le placer dans la Chrysalide que vous trouverez à la Cucurbit Prison, mais vous pouvez le détruire dans le four si vous avez des doutes]",
+     "aspects":{"memory":1,"fuel":1}
+    },
+    {
+      "id": "wisp.skin.ehsan",
+      "label": "Feu follet d'Ehsan: Exuvie",
+      "icon":"wisp.trace.chrysalis",
+      "desc": "L'exuvie d'un 'pauvre feu follet' préservée par Ehsan lors de la catastrophe de Grunewald. Le feu follet lui-même réside désormais dans la Chrysalide. [Rendez-le à Ehsan]",
+      "xtriggers":{"retiring.wisp":"fleeting"},
+      "aspects":{"memory":1}
+    },
+    {
+      "id": "wisp.trace.ehsan",
+      "label": "Feu follet d'Ehsan: Trace Cendrée",
+      "icon":"wisp.trace.crucible",
+      "desc": "Les restes calcinés d'un 'pauvre feu follet' préservés par Ehsan du désastre de Grunewald. Ce n'était probablement pas aussi inoffensif qu'il y paraissait… [Rendez ceci à Ehsan]",
+      "xtriggers":{"retiring.wisp":"fleeting"},
+      "aspects":{"memory":1}
+    }
+
+
+    ]
+}

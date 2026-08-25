@@ -1,0 +1,76 @@
+{
+ "recipes": [
+  {
+   "id": "well.renounce.journal",
+   "label": "Rinuncia a Ciò che Potrebbe Essere",
+   "startdescription": "Voglio davvero gettare il mio diario nel pozzo? [QUESTO DISTRUGGERÀ IL TUO DIARIO, rendendo IMPOSSIBILE COMPLETARE LA PARTITA. Non ci sarà più via d’uscita! Ma puoi farlo, se lo vuoi davvero.]",
+   "desc": "«Che sciocchezza, Archivista!» [Non è più possibile completare la partita.]"
+  },
+  {
+   "id": "fire.renounce.journal",
+   "label": "Rinuncia a Ciò che Potrebbe Essere",
+   "startdescription": "Voglio davvero bruciare un libro? Voglio davvero bruciare <i>questo</i> libro? [QUESTO DISTRUGGERÀ IL TUO DIARIO, rendendo IMPOSSIBILE COMPLETARE LA PARTITA. Non ci sarà più via d’uscita! Ma puoi farlo, se lo vuoi davvero.]",
+   "desc": "Pagina dopo pagina, il mio futuro si arriccia, annerisce, si disintegra. Il fumo si arriccia pensieroso, poi il Fiore Rosso lo spazza via. [Non è più possibile completare la partita.]"
+  },
+  {
+   "id": "sea.renounce.journal",
+   "label": "Rinuncia a Ciò che Potrebbe Essere",
+   "startdescription": "Il mio diario non sopravvivrà a un secondo bagno. [QUESTO DISTRUGGERÀ IL TUO DIARIO, rendendo IMPOSSIBILE COMPLETARE LA PARTITA. Non ci sarà più via d’uscita! Ma puoi farlo, se lo vuoi davvero.]",
+   "desc": "Succede qualcosa? Un braccio vestito di bianco sciamito sorge dal mare per accogliere il libro? No. Solo l’acqua che lambisce la spiaggia, e la lunga onda che si infrange, come disse un tempo il vecchio cavaliere... e il Fiore Bianco ha trionfato. [Non è più possibile completare la partita.]"
+  },
+  {
+   "id": "fire.renounce.brewable",
+   "label": "Rinuncia (o Infondi?)",
+   "startdescription": "Se getto un oggetto nel fuoco, sarà trasformato; distrutto; perduto. [Se l’oggetto è Da Infondere, aggiungi una carta Anima per infonderlo invece di distruggerlo.]",
+   "desc": "Le fiamme si levano, e si spengono."
+  },
+  {
+   "id": "well.renounce.penny",
+   "label": "Rinuncia",
+   "startdescription": "Il più piccolo dei desideri. [Disfati di un penny smarrito.]",
+   "desc": "(Plip.)"
+  },
+  {
+   "id": "well.renounce",
+   "label": "Rinuncia",
+   "startdescription": "Se lascio cadere un oggetto nel pozzo, è improbabile che lo riveda. [Usalo per disfarti di cianfrusaglie, o di pericoli.]",
+   "desc": "(Plosh.)"
+  },
+  {
+   "id": "fire.renounce.correspondence",
+   "label": "Brucia la Corrispondenza",
+   "startdescription": "Forse questa lettera è irritante; o inutile; o pericolosa.",
+   "desc": "Le fiamme si levano, e si spengono."
+  },
+  {
+   "id": "fire.renounce",
+   "label": "Rinuncia",
+   "startdescription": "Se getto un oggetto nel fuoco, sarà trasformato; distrutto; perduto. [Usalo per disfarti di cianfrusaglie, o di pericoli.]",
+   "desc": "Le fiamme si levano, e si spengono."
+  },
+  {
+   "id": "sea.renounce.penny.numa",
+   "label": "Rinuncia",
+   "startdescription": "Donare una moneta al mare in questa stagione – un tempo si diceva fosse il pedaggio dovuto a Ys. [Disfati di un penny smarrito.]",
+   "desc": "E le onde marciano verso l’orizzonte."
+  },
+  {
+   "id": "sea.renounce.penny",
+   "label": "Rinuncia",
+   "startdescription": "Perché? Perché no? [Disfati di un penny smarrito.]",
+   "desc": "E le onde proseguono la loro marcia."
+  },
+  {
+   "id": "sea.renounce",
+   "label": "Rinuncia",
+   "startdescription": "Se getto un oggetto in mare, sarà perduto, forse per sempre. [Usalo per disfarti di cianfrusaglie, o di pericoli.]",
+   "desc": "Quando qualcosa viene donato al mare raramente ritorna... anche se, naturalmente, io sì."
+  },
+  {
+   "id": "sea.release",
+   "label": "Rilascia",
+   "startdescription": "Potrei restituirlo alle onde, ai venti, o alle sabbie, come preferisce.",
+   "desc": "Eravamo due, e ora ne resta uno."
+  }
+ ]
+}

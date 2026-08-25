@@ -1,0 +1,60 @@
+{"achievements": [
+
+  { "isCategory": true, "id": "A_CATEGORY_LIGHTHOUSE_VICTORY", "label": "Lighthouse Victory", "iconUnlocked": "history" },
+
+
+  { "id": "A_LV_GENERIC", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "mem.salt",
+    "singleDescription": true, "validateOnStorefront": true,
+    "label": "À Travers L'Éveiller Ils Viennent",
+    "descriptionunlocked": "J'ai fondé l'Institut Lighthouse, avec un parcours incertain à travers le monde."
+  },
+
+  { "id": "A_LV_AUTARCHY", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.blacksmith.start",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "Chaque Falaise Est Une Forteresse",
+  "descriptionunlocked": "J'ai fondé L'Institut Lighthouse avec pour mission l'autosuffisance des mortels."
+},
+{ "id": "A_LV_CORRIVALITY", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.blacksmith.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Seuls Les Jumeaux Se Noient Deux fois",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec pour mission la force à travers le conflit."
+},
+{ "id": "A_LV_PEACE", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.coffinmaker.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Le Silence Après La Foudre",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec pour mission de soutenir la paix."
+},
+{ "id": "A_LV_REVELATION", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.rector.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Lampe en Haut, Rochers en Bas",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec une mission de révélation occulte."
+},
+{ "id": "A_LV_SECRECY", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.coffinmaker.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Pas Plus Tranchant Dans L'Obscurité",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec une mission de secret occulte."
+},
+{ "id": "A_LV_BETTER_GODS", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.blacksmith.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Chaque Flamme A Son Combustible",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec pour mission de faire progresser la création de meilleures Heures."
+},
+{ "id": "A_LV_STONE_CONSUMED", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.midwife.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Beaucoup de Galets, Une Plage",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec pour mission d'utiliser ce qui reste des dieux-de-la-pierre."
+},
+{ "id": "A_LV_STONE_REMEMBERED", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.coffinmaker.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Le Monde Perdu",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec pour mission d'honorer ce qui reste des dieux-de-la-pierre."
+},
+{ "id": "A_LV_UNCERTAIN", "category": "A_CATEGORY_LIGHTHOUSE_VICTORY", "iconUnlocked": "introduction.midwife.start",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "La Hush House Perdure",
+"descriptionunlocked": "J'ai fondé l'Institut Lighthouse avec une mission obscure de promotion personnelle."
+}
+ 
+  
+
+]}

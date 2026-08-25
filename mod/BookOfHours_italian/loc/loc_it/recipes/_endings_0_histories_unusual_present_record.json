@@ -1,0 +1,14 @@
+{
+ "recipes": [
+  {
+   "id": "present.u.winter",
+   "label": "L’Agonalia di Janus",
+   "startdescription": "9 gennaio 1838. Una fitta nevicata cade su Brancrug. Quando il personale si scava fuori, Solomon Husher, terzo Archivista della Casa, è scomparso dai propri alloggi nella Torre Lunga, lasciando una lettera di dimissioni. «L’Inverno,» conclude la lettera, «non aspetta in eterno; anche se Janus forse sì.» Di Husher non si saprà più nulla, ma ogni anno, nello stesso giorno, le sue impronte si trovano sotto l’Albero.\n\n [Questo è un finale nascosto.]"
+  },
+  {
+   "id": "present.u.evening",
+   "label": "Tramonto sotto l’Albero",
+   "startdescription": "La Hush House vive di nuovo. Forse è tutto ciò che voglio. Alcuni fra i migliori Archivisti hanno lavorato bene, vissuto in pace, reso il mondo un posto migliore...\n[Questo concluderà la partita. Gli Archivisti ambiziosi potrebbero preferire continuare a cercare un’altra vittoria. Gli Archivisti contenti capiscono che restaurare la Casa, e trovare l’Albero, è vittoria sufficiente. Oppure, naturalmente, puoi scegliere questo finale quando vuoi – e ricominciare con un altro Archivista.]"
+  }
+ ]
+}

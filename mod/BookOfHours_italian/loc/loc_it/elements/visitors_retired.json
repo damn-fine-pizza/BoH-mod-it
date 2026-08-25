@@ -1,0 +1,24 @@
+{
+ "elements": [
+  {
+   "id": "retired_arthur",
+   "label": "Arthur se n’è andato..."
+  },
+  {
+   "id": "retired_azita",
+   "label": "Azita se n’è andata..."
+  },
+  {
+   "id": "retired_chaima",
+   "label": "Chaima se n’è andata..."
+  },
+  {
+   "id": "retired_yvette",
+   "label": "Yvette se n’è andata..."
+  },
+  {
+   "id": "retired_zachary",
+   "label": "Zachary se n’è andato..."
+  }
+ ]
+}

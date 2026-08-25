@@ -1,0 +1,23 @@
+ {"recipes": [
+ 
+
+{
+        "id": "desk.repair.cracked",
+        "label": "Réparer une Reliure Craquée",
+        "actionid": "desk",
+		"reqs": {"readable":1,"state.cracked":1},
+        "startdescription": "Les jointures et les articulations grincent, mais le dos tient bon.",
+		"desc": "La reliure craquée est restaurée. Le livre s'ouvre proprement comme des ailes.",
+              "warmup": 10,
+        "craftable": true,
+		           "mutations": [
+                {
+                    "filter": "readable",
+                    "mutate": "state.cracked",
+                    "level": -1
+                }
+				]
+	}
+
+]
+}

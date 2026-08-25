@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "<sprite name=lantern> I could offer help with correspondence and arithmetic. There's no school in Brancrug, and not everyone here knows their letters. [Or add a coin to find visitors seeking employment.]",
+  "dove": "recipes/work.lantern.sweetbones.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "<sprite name=moth> I've garnered enough mystique to tell fortunes for pennies. Undignified, perhaps, for the Librarian of Hush House, but times are hard. [Or add a coin to find visitors seeking employment.]",
+  "dove": "recipes/work.moth.sweetbones.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "@#mem.gossip|Just gossip; but even gossip is knowledge.#mem.fear|A story of the old things that still prowl the moors.#mem.foresight|Practical advice from practical people.#mem.hindsight|Every village has its tiny tragedies; today, I learnt another.#mem.regret|A half-hour chatting with someone uncomplicatedly happy. Could that have been me? Would I want that?#|I've learnt something. Something useful? Too early to tell.@",
+  "dove": "recipes/work.edge.sweetbones.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Bird-Marked Seal",
+  "dove": "recipes/postoffice.letter.send.occult.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Clergyman Distrait",
+  "dove": "recipes/act1start.acquaintance.rectory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Clergyman Distrait?",
+  "dove": "recipes/act1start.acquaintance.rectory.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Fair Arrangement?",
+  "dove": "recipes/hint.recruit.12.rectory.label",
+  "ricorre": 2
+ },
+ {
+  "en": "A Fair Price?",
+  "dove": "recipes/hint.recruit.24.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Firelit Doorway",
+  "dove": "recipes/acquaintance.denzil.label",
+  "ricorre": 2
+ },
+ {
+  "en": "A Firelit Doorway?",
+  "dove": "recipes/act1start.acquaintance.denzil.start.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A King-Marked Stamp",
+  "dove": "recipes/postoffice.letter.send.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Little Respect",
+  "dove": "recipes/work.edge.sweetbones.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Reasonable Price?",
+  "dove": "recipes/hint.recruit.12.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Silver Tongue",
+  "dove": "recipes/acquaintance.sweetbones.shapt.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Wary Welcome at the Inn",
+  "dove": "recipes/acquaintance.sweetbones.buy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A crown broken into a muted rainbow of silver.",
+  "dove": "recipes/postoffice.break.crown.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A mutual acquaintance has induced Reverend Timothy, the Rector, to invite me for tea. There may even be crumpets.",
+  "dove": "recipes/acquaintance.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A mutual acquaintance has induced the Killes to invite me for a fish supper.  If I'm lucky, 'fish supper' may mean Mrs Kille's celebrated galettes.",
+  "dove": "recipes/acquaintance.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A mutual acquaintance will introduce me to Denzil the Smith. I might get six or even ten words out of him if I'm patient.",
+  "dove": "recipes/acquaintance.denzil.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A pedant, or a poet, might suggest that a half crown cannot ever have been whole, and so might not be broken. They wouldn't suggest it to the Postmistress, though..",
+  "dove": "recipes/postoffice.break.halfcrown.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A tough audience. I've charmed tougher.",
+  "dove": "recipes/acquaintance.sweetbones.shapt.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Afterwards I don't remember what work I performed, except in scents and sensations - leaf-mould, a rhythmic musical clicking like melodious castanets, soft blue flame like antique gaslight. And cold; I remember that where we went, it was cold.",
+  "dove": "recipes/work.heart.sweetbones.numa.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Agdistis Incoming?",
+  "dove": "recipes/postoffice.invitation.send.agdistis.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Impossibility?",
+  "dove": "recipes/village.invite.denzil.stub.label",
+  "ricorre": 3
+ },
+ {
+  "en": "An afternoon spent profitably, reading newspapers to the curious, writing affectionate letters for the lonely, steering farmers through the requirements of the Ministry of Agriculture.",
+  "dove": "recipes/work.lantern.sweetbones.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Arthur Moore Incoming?",
+  "dove": "recipes/postoffice.invitation.send.arthur.label",
+  "ricorre": 1
+ },
+ {
+  "en": "As they used to say in my youth, 'The day is done, and so am I; but I've earned my pay.'",
+  "dove": "recipes/work.forge.sweetbones.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Ask Denzil about something specific; or offer him payment for his help.",
+  "dove": "recipes/chat.smithy.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Mr Kille about something specific; or leave this empty to wait for him to finish with his hammer and lend his assistance.",
+  "dove": "recipes/chat.mr.k.friend.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Mr Kille about something specific; or offer him payment for his help.",
+  "dove": "recipes/chat.mr.k.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Mrs Kille about something specific; or leave this empty to wait until she's free and can lend her assistance.",
+  "dove": "recipes/chat.mrs.k.friend.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Mrs Kille about something specific; or offer him payment for her help.",
+  "dove": "recipes/chat.mrs.k.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Reverend Timothy about something specific; or leave this empty to wait for him to finish with his correspondence and lend his assistance.",
+  "dove": "recipes/chat.rectory.friend.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Ask Reverend Timothy about something specific; or offer him payment for his help.",
+  "dove": "recipes/chat.rectory.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "Assistance from Denzil the Blacksmith",
+  "dove": "recipes/recruit.smithy.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Assistance from Mr Kille",
+  "dove": "recipes/recruit.mr.k.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Assistance from Mrs Kille",
+  "dove": "recipes/recruit.mrs.k.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Assistance from Reverend Timothy",
+  "dove": "recipes/recruit.rectory.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Assistance from a Fisherman",
+  "dove": "recipes/recruit.sweetbones.fisherman.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assistance from a Miner",
+  "dove": "recipes/recruit.sweetbones.miner.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assistance from a Travelling Barber",
+  "dove": "recipes/recruit.sweetbones.barber.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Assistance from an Orchard-Keeper",
+  "dove": "recipes/recruit.sweetbones.orchardkeeper.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Azita Incoming?",
+  "dove": "recipes/postoffice.invitation.send.azita.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Better now.",
+  "dove": "recipes/rest.sweetbones.autumn.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Break a Crown",
+  "dove": "recipes/postoffice.break.crown.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break a Five Pound Note",
+  "dove": "recipes/postoffice.break.fivepoundnote.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break a Florin",
+  "dove": "recipes/postoffice.break.florin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break a Half Crown",
+  "dove": "recipes/postoffice.break.halfcrown.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break a One Pound Note",
+  "dove": "recipes/postoffice.break.onepoundnote.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break a Seven Pound Note",
+  "dove": "recipes/postoffice.break.sevenpoundnote.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break a Shilling",
+  "dove": "recipes/postoffice.break.shilling.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Break a Ten-Shilling Note",
+  "dove": "recipes/postoffice.break.tenshillingnote.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Chaima Incoming?",
+  "dove": "recipes/postoffice.invitation.send.chaima.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Connie Incoming?",
+  "dove": "recipes/postoffice.invitation.send.connie.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Coquille Incoming?",
+  "dove": "recipes/postoffice.invitation.send.coquille.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Corso Incoming?",
+  "dove": "recipes/postoffice.invitation.send.corso.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cradles and Coffins",
+  "dove": "recipes/acquaintance.killes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Daymare Incoming?",
+  "dove": "recipes/postoffice.invitation.send.dagmar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil is a surprising source of practical advice. [The Smithy is now available.]",
+  "dove": "recipes/acquaintance.denzil.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil is absent",
+  "dove": "recipes/chat.smithy.block.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil looms in the fire-bright doorway. 'You? Here? How?'",
+  "dove": "recipes/act1start.acquaintance.denzil.start.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil looms in the fire-bright doorway. [The storm-wind plucks at you both.]",
+  "dove": "recipes/act1start.acquaintance.denzil.start.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil only has the one bed, but he can offer me a straw mattress in the smithy. It's smoky, but the warmth is very welcome.",
+  "dove": "recipes/act1start.dry.health.smithy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil pauses at the door as I wish him goodnight. 'Sun'll be back,' he observes. 'Always do. Used to say that in the War, dint we?' The words linger as he clumps up the passage. The lamp-flame flickers red, gold, red.",
+  "dove": "recipes/act1start.dry.health.smithy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil rarely works for free. But he won't take payment for helping a friend. [But if you find occult coinage, you can give it to him for the Service of Division.]",
+  "dove": "recipes/recruit.smithy.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil ushers me silently from the room while he does his work. I do not hear the sound of his hammer; perhaps he only keeps a secret cache of spintria. But when he comes out to hand me the coins, they are almost too hot to touch.",
+  "dove": "recipes/split.spintria.smithy.bronze.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Denzil ushers me silently from the room while he does his work. There is a brief sound - a kind of crackling shriek of joy or pain - that seems to come from within the smithy - but when I listen, it is not repeated. When Denzil comes out to hand me the coins, they are almost too hot to touch.",
+  "dove": "recipes/split.spintria.smithy.tin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil watches with grave interest as I dry the book in the warmth of his forge-fire. He provides wads of cotton to put between the pages, but otherwise he keeps his distance. He is wary of the written word. I am beginning to suspect he cannot read. I do not expect he will ever tell me.",
+  "dove": "recipes/dry.book.smithy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil will allow me to use the forge fire - which does mean whatever I dry will smell afterwards of smoke.",
+  "dove": "recipes/dry.thing.generic.smithy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Denzil will talk about practical matters, though he prefers to sit in silence. A shilling will buy his help for a day. [If you give him occult coinage, he will perform the Service of Division instead.]",
+  "dove": "recipes/chat.smithy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Agdistis receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.agdistis.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Arthur Moore receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.arthur.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Azita receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.azita.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Chaima receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.chaima.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Connie receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.connie.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Coquille receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.coquille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Corso receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.corso.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Daymare receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.dagmar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Douglas Moore receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.douglas.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Ehsan receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.ehsan.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Father Stanislav receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.stanislav.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Hokobald receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.hokobald.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Morgen receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.morgen.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Olympe receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.olympe.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Peel receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.arun.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Serena receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.serena.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Strathcoyne receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.fraser.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Yvette receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.yvette.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did Zachary receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.zachary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Did al-Adim receive my invitation?",
+  "dove": "recipes/postoffice.invitation.send.aladim.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Divide Bronze",
+  "dove": "recipes/split.spintria.smithy.bronze.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Divide Gold",
+  "dove": "recipes/split.spintria.smithy.gold.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Divide Silver",
+  "dove": "recipes/split.spintria.smithy.silver.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Divide Tin",
+  "dove": "recipes/split.spintria.smithy.tin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Douglas Moore Incoming?",
+  "dove": "recipes/postoffice.invitation.send.douglas.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dry Something at the Killes",
+  "dove": "recipes/dry.thing.generic.killes.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dry Something at the Rectory",
+  "dove": "recipes/dry.thing.generic.rectory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dry Something at the Smithy",
+  "dove": "recipes/dry.thing.generic.smithy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Dry Something at the Sweet Bones",
+  "dove": "recipes/dry.thing.generic.sweetbones.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ehsan Incoming?",
+  "dove": "recipes/postoffice.invitation.send.ehsan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Eventually the other patrons unbend enough sufficiently to let me buy them a pint, and let me listen to them complain about the weather. I'll find a warmer welcome here next time.",
+  "dove": "recipes/acquaintance.sweetbones.mettle.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Eventually the other patrons unbend enough to let me buy them a pint, and let me listen to them complain about the weather. I'll find a warmer welcome here next time.",
+  "dove": "recipes/acquaintance.sweetbones.chor.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Eventually, the other patrons unbend enough to let me buy them a pint, and let me listen to them complain about the weather. I'll find a warmer welcome here next time.",
+  "dove": "recipes/acquaintance.sweetbones.introduction.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Father Stanislav Incoming?",
+  "dove": "recipes/postoffice.invitation.send.stanislav.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fixing and Mending",
+  "dove": "recipes/work.forge.sweetbones.label",
+  "ricorre": 1
+ },
+ {
+  "en": "For a shilling, the Sweet Bones will take care of my laundry...",
+  "dove": "recipes/clean.thing.generic.sweetbones.try.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Force of Personality",
+  "dove": "recipes/acquaintance.sweetbones.mettle.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Fortune-Telling",
+  "dove": "recipes/work.moth.sweetbones.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Four lesser notes and a handful of greater-sibling lesser-sibling coins. 'Thus is Equilibrium maintained.'",
+  "dove": "recipes/postoffice.break.fivepoundnote.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Fresh, clean, dry.",
+  "dove": "recipes/clean.thing.generic.sweetbones.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Have Something Cleaned at the Sweet Bones",
+  "dove": "recipes/clean.thing.generic.sweetbones.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Help with Letters",
+  "dove": "recipes/work.lantern.sweetbones.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Here's an opportunity.",
+  "dove": "recipes/recruit.sweetbones.exotic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Hokobald Incoming?",
+  "dove": "recipes/postoffice.invitation.send.hokobald.label",
+  "ricorre": 1
+ },
+ {
+  "en": "I bought a round for everyone. And another. And one more for luck. And thus was I accounted 'not so bad for a foreigner'. I'll find a warmer welcome here next time.",
+  "dove": "recipes/acquaintance.sweetbones.buy.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I have eaten, I have drunk. A cloying taste lingers. My lips are stained with grey.",
+  "dove": "recipes/rest.sweetbones.numa.malady.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I haven't come alone. @#assistance.rector|Reverend Timothy's presence demands respect.#assistance.coffinmaker|Mr Kille repeats a long string of well-worn jokes that leaves everyone groaning happily.#assistance.midwife|Mrs Kille asks one surly youth about his mother's health, and clouts another round the back of the head when she suspects him of looking at me funny. #assistance.blacksmith|Denzil doesn't say a word. He sits with his arms folded and waits until others come to pay their respects to him at our table. #|My companion makes introductions.@",
+  "dove": "recipes/acquaintance.sweetbones.introduction.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I sit up talking with Mr and Mrs K, as the wind rattles the shutters and the fire shrugs its way emberward. I'm very hungry, and Mrs K's galettes are impossibly good. Mr K pretends to grumble about foreign cooking. No-one is convinced.",
+  "dove": "recipes/act1start.dry.health.mrkille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I stagger into the smithy, out of the cold at last. Without another word, Denzil hands me a blanket and sets about stoking the fire: the warmest welcome of which he is capable.",
+  "dove": "recipes/act1start.acquaintance.denzil.start.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I surrender the florin and receive an unruly handful of lesser coins",
+  "dove": "recipes/postoffice.break.florin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "I'm always welcome at Denzil's smithy. [Denzil will offer help for free, as a friend. If you give him occult coinage, he will perform the Service of Division.]",
+  "dove": "recipes/chat.smithy.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'm known at the Sweet Bones. They'll let me drip on the flagstone floor even if I don't buy beer.",
+  "dove": "recipes/dry.thing.generic.sweetbones.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'm not going away. They don't have to <i>like</i> me.",
+  "dove": "recipes/acquaintance.sweetbones.mettle.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I'm welcome to use the fire in the Killes' parlour.",
+  "dove": "recipes/dry.thing.generic.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've learnt that honest enthusiasm is a solvent for surliness.",
+  "dove": "recipes/acquaintance.sweetbones.chor.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In autumn, the orchard-keepers come to sell their wares at Brancrug. A shilling will buy one's help. [Orchard-keepers offer <sprite name=nectar> and a little <sprite name=heart>. Alternatively, add a Soul card to find any rarer guests who might be seeking employment...]",
+  "dove": "recipes/recruit.sweetbones.orchardkeeper.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In spring, the local miners often travel to the Feast of Lights Below. If one breaks his journey at the Sweet Bones, a shilling will buy his labour for a day. [Miners offer <sprite name=scale>, <sprite name=forge>, and a little <sprite name=moon>. Alternatively, add a Soul card to find any rarer guests who might be seeking employment...]",
+  "dove": "recipes/recruit.sweetbones.miner.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In summer, the barber comes by to keep the villagers kempt. A shilling will buy his services. [Barbers offer <sprite name=moth> and a little <sprite name=rose>. Alternatively, add a Soul card to find any rarer guests who might be seeking employment...]",
+  "dove": "recipes/recruit.sweetbones.barber.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In the time of the Heptarchy, a ring-giver was accounted generous. In this bright and civilised century, a beer-buyer enjoys the same regard.",
+  "dove": "recipes/acquaintance.sweetbones.buy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "In winter when the storms close the seas, the fishermen will offer their services for a shilling a day. [Fishermen will offer <sprite name=moon> and a little <sprite name=sky>. Alternatively, add a Soul card to find any rarer guests who might be seeking employment...]",
+  "dove": "recipes/recruit.sweetbones.fisherman.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Introductions",
+  "dove": "recipes/acquaintance.sweetbones.introduction.label",
+  "ricorre": 1
+ },
+ {
+  "en": "It is Autumn when the leaves rustle. The silent landlady has served me apple pie with steamed cream in the window-nook.",
+  "dove": "recipes/rest.sweetbones.autumn.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It is Spring; and the landlady has served me a slice of her starygazy pie, with the pilchard-heads poking cheekily through the hot crust.",
+  "dove": "recipes/rest.sweetbones.spring.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It is Summer; I am sitting on the bench outside the Sweet Bones, eating crumbly cheese in nettle wrappings and good black rye bread, soaking up the sun.",
+  "dove": "recipes/rest.sweetbones.summer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "It is Winter and the storms have tightened the seas. I am sitting before the fire in the Sweet Bones with a beef and potato pasty in one hand, and a hot ale posset in the other.",
+  "dove": "recipes/rest.sweetbones.winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Just Keep Smiling",
+  "dove": "recipes/acquaintance.sweetbones.chor.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Manual Labour",
+  "dove": "recipes/work.heart.sweetbones.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mist and Silence",
+  "dove": "recipes/numa.killes.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Morgen Incoming?",
+  "dove": "recipes/postoffice.invitation.send.morgen.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr K constructed the bed himself - I rather fear with the same tools he uses to shape coffins. It is not a comfortable bed. But it's dry, clean, and warm.",
+  "dove": "recipes/act1start.dry.health.mrskille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille always enjoys a chance to catch up with me. [If you don't choose a topic, Mr Kille will offer help, as a friend.]",
+  "dove": "recipes/chat.mr.k.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille can always spare a few hours to help a friend.",
+  "dove": "recipes/recruit.mr.k.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille constructed the bed himself - I rather fear with the same tools he uses to shape coffins. It is not a comfortable bed. But it's dry, clean, and warm.",
+  "dove": "recipes/act1start.dry.health.mrkille.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille is absent",
+  "dove": "recipes/chat.mr.k.block.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille is absent... on the Librarian's business. But I already knew that, didn't I?",
+  "dove": "recipes/chat.mr.k.block.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille is grinning like the happiest of skulls. 'Come in, come in! Less 'ee wants fitted for a box?' And he leads me into the warmth of the parlour, calling for Mrs Kille to come see, come see the rescue.",
+  "dove": "recipes/act1start.acquaintance.coffinmaker.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille likes conversations about endings. (His wife prefers to talk about beginnings.)  A shilling will buy his help for a day.",
+  "dove": "recipes/chat.mr.k.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille pumps my hand. 'Just me and thee and the Mrs tonight! Eh, well, there's a client in the back, but if thee don't bother he, he won't bother thee.' [The Killes household is now available.]",
+  "dove": "recipes/acquaintance.killes.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille struggles with the door. The wind almost snatches it from his hands. His eyes widen as he sees me.",
+  "dove": "recipes/act1start.acquaintance.coffinmaker.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mr Kille struggles with the door. The wind almost snatches it from his hands. [The storm-wind plucks at you both.]",
+  "dove": "recipes/act1start.acquaintance.coffinmaker.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs K and I sit up late talking over old times in the Latin Quarter, when the world and we were very different. Mr K listens as he cleans his pipe. 'Wine and roses,' he observes. 'Spose the wine is all spilt now, but the roses'll come up again, won't them?'",
+  "dove": "recipes/act1start.dry.health.mrskille.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille is absent",
+  "dove": "recipes/chat.mrs.k.block.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille is absent... on the Librarian's business. But I already knew that, didn't I?",
+  "dove": "recipes/chat.mrs.k.block.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille likes conversations about beginnings. (Her husband prefers to talk about endings.) A shilling will buy her help for a day.",
+  "dove": "recipes/chat.mrs.k.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille opens the door with caution, but flings it wide, letting the wind bang it, when she sees me.",
+  "dove": "recipes/act1start.acquaintance.midwife.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille stands ready to help. 'You always cheer me up,' she says morosely.",
+  "dove": "recipes/recruit.mrs.k.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille struggles with the door. The wind almost snatches it from her hands. [The storm-wind plucks at you both.]",
+  "dove": "recipes/act1start.acquaintance.midwife.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille's mood always improves when I drop by. [If you don't choose a topic, Mrs Kille will offer help, as a friend.]",
+  "dove": "recipes/chat.mrs.k.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Mrs Kille, gloomy as always, kind as ever, lights the kitchen fire and helps me dry the book, while Mr Kille saws away in the next room. 'Birth always leaves marks,' she opines, as she carefully tucks fragments of muslin between the damp pages.",
+  "dove": "recipes/dry.book.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "No Room at the Inn?",
+  "dove": "recipes/acquaintance.sweetbones.notyet.ability.hint.label",
+  "ricorre": 2
+ },
+ {
+  "en": "No payment, no laundry.",
+  "dove": "recipes/clean.thing.generic.sweetbones.try.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "No tuppence, no beer.",
+  "dove": "recipes/rest.sweetbones.try.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Olympe Incoming?",
+  "dove": "recipes/postoffice.invitation.send.olympe.label",
+  "ricorre": 1
+ },
+ {
+  "en": "On its way!",
+  "dove": "recipes/postoffice.delivery.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "One pound note exchanged for a handful of lesser coins. 'Thus is Equilibrium maintained.'",
+  "dove": "recipes/postoffice.break.onepoundnote.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "One shilling - twelve pence - will hire a casual labourer's services.",
+  "dove": "recipes/hint.recruit.12.sweetbones.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "One shilling - twelve pence - will hire this one's services.",
+  "dove": "recipes/hint.recruit.12.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Patience. Thus the mountain awaits the fall of the snow; thus Monday awaits the death of the week-end; thus the Postmistress waits for me to purchase the necessary stamp.",
+  "dove": "recipes/postoffice.mailorder.send.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Peel Incoming?",
+  "dove": "recipes/postoffice.invitation.send.arun.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Quiet grey light through a quiet grey window...",
+  "dove": "recipes/rest.sweetbones.general.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rest and Refreshment",
+  "dove": "recipes/rest.sweetbones.general.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Rest and Refreshment: Autumn",
+  "dove": "recipes/rest.sweetbones.autumn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rest and Refreshment: Spring",
+  "dove": "recipes/rest.sweetbones.spring.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rest and Refreshment: Summer",
+  "dove": "recipes/rest.sweetbones.summer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Rest and Refreshment: Winter",
+  "dove": "recipes/rest.sweetbones.winter.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy always jumps at the offer of my company.",
+  "dove": "recipes/recruit.rectory.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy enjoys thoughtful conversation, prayer, and tea. And he'll offer his assistance in return for a one-shilling donation to church funds.",
+  "dove": "recipes/chat.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy flutters fussily while Terrence the Housekeeper busies herself with practicalities.",
+  "dove": "recipes/dry.thing.generic.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy flutters fussily while Terrence the Housekeeper busies herself with practicalities. She shows me to a warm room at the top of the house where a fire is already made up.",
+  "dove": "recipes/act1start.dry.health.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy is absent",
+  "dove": "recipes/chat.rectory.block.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy is absent... on the Librarian's business. But I already knew that, didn't I?",
+  "dove": "recipes/chat.rectory.block.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy is not a man to miss an opportunity for conversation, so the whole business takes longer than it might... but he's anxious to help.",
+  "dove": "recipes/dry.book.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy is touchingly excited to meet his correspondent in person. I am still too exhausted to hold up my end of the conversation, and Terrence is not a talkative woman, but the Reverend can talk for three. At last however he suddenly realises how exhausted I am, and lets me sleep.",
+  "dove": "recipes/act1start.dry.health.rectory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy's door is always open to me. [Timothy will offer help for free, as a friend.]",
+  "dove": "recipes/chat.rectory.friend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Reverend Timothy's tea goes cold while he expostulates about post-Restoration politics, and theorises about the pagan traditions of the miners. [The Rectory is now available.]",
+  "dove": "recipes/acquaintance.rectory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Seek Unusual Help",
+  "dove": "recipes/recruit.sweetbones.exotic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sell a Bronze Spintria",
+  "dove": "recipes/postoffice.break.spintria.bronze.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sell a Gold Spintria",
+  "dove": "recipes/postoffice.break.spintria.gold.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sell a Silver Spintria",
+  "dove": "recipes/postoffice.break.spintria.silver.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sell a Tin Spintria",
+  "dove": "recipes/postoffice.break.spintria.tin.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Sell an Iron Spintria",
+  "dove": "recipes/postoffice.break.spintria.iron.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Send an Invitation to a Visitor",
+  "dove": "recipes/postoffice.invitation.send.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Serena Incoming?",
+  "dove": "recipes/postoffice.invitation.send.serena.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Shelter?",
+  "dove": "recipes/act1start.acquaintance.coffinmaker.hint.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Since the time of the Curia, the smiths of Brancrug have performed 'the service of division' for the Librarian. But Denzil only shakes his head. 'Iron is iron,' is all he says.",
+  "dove": "recipes/split.spintria.smithy.iron.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Since the time of the Curia, the smiths of Brancrug have performed 'the service of division' for them. [This will break your spintria into more manageable coinage.]",
+  "dove": "recipes/split.spintria.smithy.bronze.startdescription",
+  "ricorre": 4
+ },
+ {
+  "en": "Something for me?",
+  "dove": "recipes/postoffice.open.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak with Denzil",
+  "dove": "recipes/chat.smithy.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Speak with Mr Kille",
+  "dove": "recipes/chat.mr.k.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Speak with Mrs Kille",
+  "dove": "recipes/chat.mrs.k.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Speak with Reverend Timothy",
+  "dove": "recipes/chat.rectory.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth five shillings.]",
+  "dove": "recipes/postoffice.break.spintria.iron.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth one pound and ten shillings.]",
+  "dove": "recipes/postoffice.break.spintria.silver.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth one pound.]",
+  "dove": "recipes/postoffice.break.spintria.tin.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth ten shillings.]",
+  "dove": "recipes/postoffice.break.spintria.bronze.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Spintriae are not legal tender. But no law prevents the Postmistress from purchasing them from me. Perhaps she collects them. [This is worth two pounds.]",
+  "dove": "recipes/postoffice.break.spintria.gold.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Stamp, envelope, send!",
+  "dove": "recipes/postoffice.invitation.send.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Strathcoyne Incoming?",
+  "dove": "recipes/postoffice.invitation.send.fraser.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Surrender silver, collect copper.",
+  "dove": "recipes/postoffice.break.shilling.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Take Shelter at the Rectory",
+  "dove": "recipes/act1start.dry.health.rectory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Take Shelter at the Smithy",
+  "dove": "recipes/act1start.dry.health.smithy.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Take Shelter with the Killes",
+  "dove": "recipes/act1start.dry.health.mrkille.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Tea with the Rector",
+  "dove": "recipes/acquaintance.rectory.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Ten shillings, discarnated into lesser coins.",
+  "dove": "recipes/postoffice.break.tenshillingnote.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Post",
+  "dove": "recipes/postoffice.delivery.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress accepts the message, weighs the spintria, finds them both sufficient. 'I guarantee nothing,' she tells me.",
+  "dove": "recipes/postoffice.letter.send.occult.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress examines the letter, and deems it sufficient. 'It'll go with the next post,' she assures me.",
+  "dove": "recipes/postoffice.invitation.send.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "The Postmistress regards me with the chilly gaze of a goddess-image in an ancient hill-shrine. 'The Librarian,' says she, 'yes. I have something for you. Wait here, please.'",
+  "dove": "recipes/postoffice.open.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress returns with an envelope addressed to 'The Librarian, Hush House, Brancrug Isle' - postmarked in Wales a week ago.",
+  "dove": "recipes/postoffice.open.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress scrutinises the design on the spintria's surface. Is she smiling? She says nothing, only hands me the payment.",
+  "dove": "recipes/postoffice.break.spintria.silver.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress scrutinises the design on the spintria. 'And they say that <i>speech</i> is a sword,' she remarks. She hands me a coin.",
+  "dove": "recipes/postoffice.break.spintria.iron.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress scrutinises the design on the spintria. She sighs. 'This is why the King came here,' she says quietly, 'so long ago. But it was not enough.' She hands me a single pound note.",
+  "dove": "recipes/postoffice.break.spintria.tin.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress scrutinises the design on the spintria.'Fire warms,' she says softly, 'night ends.' She hands me a ten shilling note.",
+  "dove": "recipes/postoffice.break.spintria.bronze.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress scrutinises the spintria's surface. 'A noble endeavour,' she remarks. She hands me two crisp pound notes.",
+  "dove": "recipes/postoffice.break.spintria.gold.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress will accept the offering and bestow upon me the appropriate change.",
+  "dove": "recipes/postoffice.break.crown.startdescription",
+  "ricorre": 7
+ },
+ {
+  "en": "The Postmistress will accept the offering and bestow upon me the appropriate change. (This is the smallest coin she will deign to change.)",
+  "dove": "recipes/postoffice.break.shilling.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Postmistress will break larger currency into change, but don't tempt her anger with so mean and small a coin as this.",
+  "dove": "recipes/postoffice.break.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Refreshments of the Labyrinth Season",
+  "dove": "recipes/rest.sweetbones.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Reverend staggers back as if he'd received a blow, and then he's bombarding me with terrified, delighted questions before I'm even through the door.",
+  "dove": "recipes/act1start.acquaintance.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Sweet Bones is barred and shuttered against the storm... and against unwelcome visitors. There must be somewhere in the village that will give me shelter.",
+  "dove": "recipes/acquaintance.sweetbones.notyet.ability.hint.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "The Sweet Bones is taking care of my laundry.",
+  "dove": "recipes/clean.thing.generic.sweetbones.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The clock ticks in the snug; a distant wireless crackles musically; carefully, page by page, I dry the book.",
+  "dove": "recipes/dry.book.sweetbones.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The door is open, the fire is cold, the shapes at the tables are hunched and quiet, dressed in furs and dark feathers. Mist presses against the walls and strokes the flagstones with its fingers. A drum taps an irregular rhythm somewhere beneath the inn. Numa.",
+  "dove": "recipes/sweetbones.numa.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The door opens a few cautious inches. 'Who's there? I say, who's there?' [The storm-wind plucks at you, plucks at the door, shakes the trees around the house...]",
+  "dove": "recipes/act1start.acquaintance.rectory.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The fortunes I tell may be true, and they may be real. The money, at least, is real.",
+  "dove": "recipes/work.moth.sweetbones.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The house is dark; the Killes will be tucked up in bed. I should be, too.",
+  "dove": "recipes/night.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The house is quiet. The signs above the door are written in a language even I cannot read. No-one comes in answer to my knocking. Numa.",
+  "dove": "recipes/numa.killes.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The inn is crowded with Numa's heralds and pilgrims. Their meat is unfamiliar; their drink is unknown. As I linger at the window, an electric bulb flares like a marsh-light: a guest raises her glinting eyes and sees me. She beckons me in with a gloved hand.",
+  "dove": "recipes/rest.sweetbones.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The inn is crowded with Numa's heralds and pilgrims. They will be gone by morning. Until then, I could offer my services for payment. I might regret it.",
+  "dove": "recipes/work.heart.sweetbones.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The mists are thick, but as I approached, I saw lamplight in the Rector's study. Now, though, I see the windows are shuttered, and the light I saw was a fugitive wisp, like a lost star. Numa.",
+  "dove": "recipes/numa.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The price of hospitality.",
+  "dove": "recipes/rest.sweetbones.try.slots.tuppence.description",
+  "ricorre": 1
+ },
+ {
+  "en": "The rectory is dark, and Terrence the housekeeper is probably aprowl. I should return after dawn.",
+  "dove": "recipes/night.rectory.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The smith is absent... on the Librarian's business. But I already knew that, didn't I?",
+  "dove": "recipes/chat.smithy.block.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The smithy fire still glows, but through the window I see a gaunt, eyeless shape working the bellows. There is no sign of Denzil, and I know better than to interrupt this visitor. Numa.",
+  "dove": "recipes/numa.smithy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The smithy is dark, and Denzil values his sleep. I should return after dawn.",
+  "dove": "recipes/night.smithy.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The telegraph-line crackles. The mist surges and retreats. From far away - it might be the hills above the village - I hear the Postmistress' voice crying out, imprecations and lamentations, in the Cornish tongue. But there is no sign of her here. Numa.",
+  "dove": "recipes/postoffice.numa.hint.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Three lesser notes. 'Thus is Equilibrium maintained.'",
+  "dove": "recipes/postoffice.break.sevenpoundnote.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Timothy ushers me into the bright hall, casting about for his housekeeper, and asking questions the whole time. 'How did you come here? Was it the wreck? Terrence! Terrence, do fetch towels!'",
+  "dove": "recipes/act1start.acquaintance.rectory.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Too Petty Cash",
+  "dove": "recipes/postoffice.break.hint.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Topic",
+  "dove": "recipes/chat.mr.k.slots.topic.label",
+  "ricorre": 8
+ },
+ {
+  "en": "Tuppence",
+  "dove": "recipes/rest.sweetbones.try.slots.tuppence.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Tuppence will buy me a hearty meal and a quiet place where I can rest and gather my thoughts.",
+  "dove": "recipes/rest.sweetbones.try.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Two shillings - twenty-four pence - will hire this one's services.",
+  "dove": "recipes/hint.recruit.24.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Uncanny Labours",
+  "dove": "recipes/work.heart.sweetbones.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Unsociable Hours",
+  "dove": "recipes/night.killes.label",
+  "ricorre": 3
+ },
+ {
+  "en": "What visitors might be passing through? [Find out what unusual passersby might be looking for employment.]",
+  "dove": "recipes/recruit.sweetbones.exotic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Yvette Incoming?",
+  "dove": "recipes/postoffice.invitation.send.yvette.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Zachary Incoming?",
+  "dove": "recipes/postoffice.invitation.send.zachary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[Ask Denzil about something specific; or leave this empty to wait for him to finish at his anvil and lend you his assistance.]",
+  "dove": "recipes/chat.smithy.friend.slots.topic.description",
+  "ricorre": 1
+ },
+ {
+  "en": "[You should never see this.]",
+  "dove": "recipes/village.invite.denzil.stub.startdescription",
+  "ricorre": 3
+ },
+ {
+  "en": "al-Adim Incoming?",
+  "dove": "recipes/postoffice.invitation.send.aladim.label",
+  "ricorre": 1
+ },
+ {
+  "en": "'A story has no beginning or end: arbitrarily one chooses that moment of experience from which to look back or from which to look ahead.' - Graham Greene\n\n [This Incident has seen its full complement of visitors, and is concluded. There will be an interval before the next Incident, when Visitors will seek a general consultation.]",
+  "dove": "recipes/incident.retire.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'ORIFLAMME'S, est. 1776 - SCENTS - SIGNS - SCIENCES. Dear Librarian; we would like to offer you this opportunity to purchase...' [Check the book icon to the right.]",
+  "dove": "recipes/_lot.oriflammes.offer.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oriflamme's thanks you for your continued interest. [The book may become available for purchase again later.]'",
+  "dove": "recipes/_lot.oriflammes.offer.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "'Oriflamme's thanks you for your custom.'",
+  "dove": "recipes/lot.oriflammes.purchase.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "'The stars move still; time runs; the clock will strike.' - Marlowe\n\n [This Incident has seen its full complement of visitors, and is concluded. This Numa there will be no Incident; Numatic Visitors will seek a general consultation.]",
+  "dove": "recipes/incident.retire.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A Gift from Dr Blackwood",
+  "dove": "recipes/wc.send.basegame.label",
+  "ricorre": 2
+ },
+ {
+  "en": "A Matter of...?",
+  "dove": "recipes/incident.new.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Message from Oriflamme's",
+  "dove": "recipes/lot.oriflammes.setup.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Message from the Trust",
+  "dove": "recipes/rhonwen.correspondence.trysend.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Reminder",
+  "dove": "recipes/rhonwen.reminder.send.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Reminder from the Trust",
+  "dove": "recipes/rhonwen.reminder.trysend.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in Reckoners",
+  "dove": "recipes/visitor.for.mob.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a box",
+  "dove": "recipes/visitor.for.box.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a crime",
+  "dove": "recipes/visitor.for.heist.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a curse",
+  "dove": "recipes/visitor.for.curse.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a hunt",
+  "dove": "recipes/visitor.for.hunt.changing.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a revolution",
+  "dove": "recipes/visitor.for.revolution.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a rite of awakening",
+  "dove": "recipes/visitor.for.rite.awakening.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a rite of renewal",
+  "dove": "recipes/visitor.for.rite.renewal.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a solar project",
+  "dove": "recipes/visitor.for.project.solar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a stalk",
+  "dove": "recipes/visitor.for.stalk.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a wildness",
+  "dove": "recipes/visitor.for.pan.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in a wound",
+  "dove": "recipes/visitor.for.wound.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in an ingenious project",
+  "dove": "recipes/visitor.for.project.ingenious.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in an intrusion",
+  "dove": "recipes/visitor.for.intrusion.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in an omen of dawn",
+  "dove": "recipes/visitor.for.omen.dawn.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in complication",
+  "dove": "recipes/visitor.for.numa.wood.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in feasts",
+  "dove": "recipes/visitor.for.numa.grail.b.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in frost",
+  "dove": "recipes/visitor.for.numa.winter.a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in memory",
+  "dove": "recipes/visitor.for.numa.moon.a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in midnight",
+  "dove": "recipes/visitor.for.numa.moon.b.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in observation",
+  "dove": "recipes/visitor.for.observe.scaly.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in omen of horizons",
+  "dove": "recipes/visitor.for.omen.horizon.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in opera",
+  "dove": "recipes/visitor.for.opera.apollo.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in perilous opera",
+  "dove": "recipes/visitor.for.opera.wings.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in rising",
+  "dove": "recipes/visitor.for.rising.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in sanctuary",
+  "dove": "recipes/visitor.for.numa.grail.a.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in something rediscovered",
+  "dove": "recipes/visitor.for.lost.find.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Visitor interested in the mystical",
+  "dove": "recipes/visitor.for.mystical.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A message from St Rhonwen's Trust has arrived.",
+  "dove": "recipes/rhonwen.reminder.send.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "An Advertisement from Cater & Hero",
+  "dove": "recipes/ch.orderform.send.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Ending, and a Consultation",
+  "dove": "recipes/incident.retire.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Invitation from T.R.N. Limited",
+  "dove": "recipes/trn.orderform.send.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Offer from Oriflamme's",
+  "dove": "recipes/_lot.oriflammes.offer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cater & Hero Provisioning",
+  "dove": "recipes/ch.respond.provision.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cater & Hero Reset",
+  "dove": "recipes/ch.respond.reset.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cleans up orders and cost",
+  "dove": "recipes/ch.respond.reset.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Consultation",
+  "dove": "recipes/visitor.for.consultation.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Current Affairs",
+  "dove": "recipes/incident.setup.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Developments in the world beyond Brancrug. [Drawing a new Incident.]",
+  "dove": "recipes/incident.new.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Finished!",
+  "dove": "recipes/incident.mark.finished.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Grabs embarking visitors every thirty seconds",
+  "dove": "recipes/visitorpatrol.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "I've received a short catalogue, neatly printed on paper of creamy smoothness, from T.R.N. Limited. A compliment slip advises me that they have reserved a space for me in their client list.",
+  "dove": "recipes/trn.orderform.send.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Is there someone en route to Hush House?",
+  "dove": "recipes/visitor.for.box.startdescription",
+  "ricorre": 28
+ },
+ {
+  "en": "Nothing particular is afoot; any visitors this season will likely just want a general consultation.",
+  "dove": "recipes/incident.draw.consultation.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Numatic Consultation",
+  "dove": "recipes/visitor.for.consultation.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Options here to vary message",
+  "dove": "recipes/rhonwen.correspondence.trysend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Oriflamme's Offer Draw",
+  "dove": "recipes/lot.oriflammes.draw.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Oriflamme's: draw new books. This will give us a basic stock to draw from if the player keeps refusing the first choice.",
+  "dove": "recipes/lot.oriflammes.draw.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Pass!",
+  "dove": "recipes/lot.oriflammes.pass.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "River, Wheel, Flame",
+  "dove": "recipes/incident.setup.numa.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Set up Oriflamme's offer",
+  "dove": "recipes/lot.oriflammes.setup.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "T.R.N. Provisioning",
+  "dove": "recipes/trn.respond.provision.label",
+  "ricorre": 1
+ },
+ {
+  "en": "T.R.N. Reset",
+  "dove": "recipes/trn.respond.reset.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The Affair of the...?",
+  "dove": "recipes/incident.new.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The End of the Affair",
+  "dove": "recipes/incident.retire.label",
+  "ricorre": 1
+ },
+ {
+  "en": "The firm Cater & Hero, alive to the possibility of commerce, has sent a smudgily printed catalogue addressed to 'The Libarianm'.",
+  "dove": "recipes/ch.orderform.send.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The yearly stipend from St Rhonwen's has arrived, along with the usual rather sniffy reminder that I should spend it wisely.",
+  "dove": "recipes/rhonwen.stipend.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This Numa, nothing more unusual than usual stirs. A visitor may still arrive for a general consultation.",
+  "dove": "recipes/visitor.for.consultation.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Time. It has been called a wheel, but my family perceive it as a flame: coolest at its heart, but wildest at its edge...[We'll draw a Numa Incident; find a suitable Visitor for the current Numa Incident; or retire the current Numa Incident if there are no visitors left for it.]",
+  "dove": "recipes/incident.setup.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Visitor Patrol",
+  "dove": "recipes/visitorpatrol.label",
+  "ricorre": 1
+ },
+ {
+  "en": "What moves in the mist? [Drawing a new Numa Incident.]",
+  "dove": "recipes/incident.new.numa.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "What's happening in the world beyond Brancrug? What visitors will the season bring?\n\n [We'll either draw a new Incident; find a suitable Visitor for the current Incident; or retire the current Incident if there are no visitors left for it.]",
+  "dove": "recipes/incident.setup.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Yearly Stipend",
+  "dove": "recipes/rhonwen.stipend.label",
+  "ricorre": 1
+ },
+ {
+  "en": "[disabled pro tem]",
+  "dove": "recipes/wc.send.basegame.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A City",
+  "dove": "recipes/commit.bir.s.sandstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Light Above",
+  "dove": "recipes/commit.hor.s.sacrasolisinvicti.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Light Within",
+  "dove": "recipes/commit.ill.s.sacrasolisinvicti.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Queen could love no other, only her own image. She sought nine colours to grace the image, and the last was the turquoise of her eyes, a gift from the Shadowless King. Her court poet hymned his Queen and her image, and in his poem she heard the truth: that the image was greater. So she fled into the Wood, and the image ruled her domain with the poet as its consort, but it always remembered her kindly.",
+  "dove": "recipes/commit.hus.s.fucine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Queen's realm was invaded by a great army. When she learnt that there were nine invaders for every defender, she ordered her army to surrender its swords. Night and day her smiths laboured to melt down the swords to bronze, while her generals threatened mutiny and the enemy advanced unhindered. They used the bronze to cast a Bell, but each time the Bell was rung, it cracked and had to be recast. At last on the night before the invaders reached the city, the Queen surrendered her crown to the casting. When at dawn the smiths rang the Bell, it cracked the moon like an egg and drove the sun from the sky. The invaders fled. But the Queen without a crown was no longer any queen at all.",
+  "dove": "recipes/commit.ith.s.fucine.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A Red Blossom",
+  "dove": "recipes/commit.ith.s.pyroglyphics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Temple",
+  "dove": "recipes/commit.sko.s.sandstories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Tongue of Earth",
+  "dove": "recipes/commit.pre.s.cracktrack.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Tongue of Sky",
+  "dove": "recipes/commit.ill.s.cracktrack.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Vengeance",
+  "dove": "recipes/commit.bir.s.stonestories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Vigilance",
+  "dove": "recipes/commit.pre.s.stonestories.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A War in Dreams",
+  "dove": "recipes/commit.sko.s.sharps.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A Wound in Dreams",
+  "dove": "recipes/commit.hus.s.sharps.label",
+  "ricorre": 1
+ },
+ {
+  "en": "A certain parable of the Bright Arts tells of a priest who raised an altar of steel and glass to an old god; but then found a new god within the altar.",
+  "dove": "recipes/commit.ill.s.disciplines.thehammer.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A certain parable of the Night Arts tells of a pilgrim who raised a gate of amber and orichalcum that they might pass to reach their destination; but then found their destination lay on this side of the gate.",
+  "dove": "recipes/commit.nyc.s.disciplines.thehammer.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "A deft enough binding might contain anything: flesh; spirit; gods; light.",
+  "dove": "recipes/commit.ith.s.stitching.binding.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A deft enough binding might contain anything: flesh; spirit; gods; light. That would be Ithastry.",
+  "dove": "recipes/commit.ith.s.stitching.binding.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A deft enough binding might heal anything: flesh; spirit; song; stone.",
+  "dove": "recipes/commit.pre.s.stitching.binding.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A deft enough binding might heal anything: flesh; spirit; song; stone. That would be Preservation.",
+  "dove": "recipes/commit.pre.s.stitching.binding.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A farmers' proverb in Brancrug: 'What starts in the roots, ends in the sky.'  A superstition goes with it, that before a child's first birthday you should leave her for a summer night sleeping in the roots of an apple-tree, to make sure she grows tall and straight-backed. Not many pay heed to the superstition now, but everyone remembers the proverb.",
+  "dove": "recipes/commit.bos.s.henavek.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A farmers' proverb in Brancrug: 'What starts in the roots, ends in the sky.'  A superstition goes with it, that before a child's first birthday you should leave her for a summer night sleeping in the roots of an apple-tree, to make sure she grows tall and straight-backed. Not many pay heed to the superstition now, but everyone remembers the proverb. It would probably count as Bosk.",
+  "dove": "recipes/commit.bos.s.henavek.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A great and golden King held the only key to his deepest prison cell. One day he asked his minister to make eight copies, and distribute them among the people. 'But Sire,' the minister said, 'if a rebel contrives to enter our palace, might they not release their confederates?'\n\n'They might,' answered the King. 'But all kingdoms fall, and one day I might myself seek release from that cell.'",
+  "dove": "recipes/commit.ill.s.ericapaean.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A great and golden King held the only key to his deepest prison cell. One day he gave the key to his minister, and offered him a choice: to submit to execution, or to visit the cell and tell him what he found there. The minister made the wiser choice, and returned to show the King what he had found in the cell: a mirror.\n\n'Then I release you,' the King declared. The minister left the palace that same day. His reflection, of course, said nothing at all.",
+  "dove": "recipes/commit.hus.s.ericapaean.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A lesson from Ithastry: fire reveals, smoke conceals. This is the lesson of the Red Flower of the Watchman's Tree: even the most dangerous of knowledge is no danger at all when it is given to the fire.",
+  "dove": "recipes/commit.ith.s.glaziery.lightsmithing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A master candle-maker made a wager with a master of the potter's guild. The potter's oldest cup (she said) was older far than the chandler's oldest candle. However often one drinks from a cup, it can always be refilled. So they brought their witnesses to the judging on the appointed day, and the potter's witness brought a cup he had used for seventy years until its shattering. But the chandler's witness brought a candle seventy-<i>seven</i> years old: every month, the chandler had bought the old stumps, returned their matter to the vat, and used them in his wares, so that each newest candle was also the oldest. Perhaps there's always a way.",
+  "dove": "recipes/commit.ith.s.mandaic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A master jeweller who made a wager with a keeper of butterflies. The master-jeweller claimed his jewelled egg would hatch something greater than any of the butterfly-keeper's chrysalids. Of course, after a month, the butterfly-keeper's gardens were bright with wings and the egg had hatched nothing at all. The jeweller, unable to pay his debts, fled into the desert with his egg. Perhaps we should be careful of our limits.",
+  "dove": "recipes/commit.hor.s.mandaic.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A paradox of Illumination: light reveals, light blinds. This is the lesson of the White Flower of the Watchman's Tree: even the most dangerous of knowledge is no danger at all when it is forgotten.",
+  "dove": "recipes/commit.ill.s.glaziery.lightsmithing.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A smiths' proverb in Brancrug: 'What starts in the sky, ends in the earth.' A story goes with it, that the village smith's anvil in the time of the Dewulfs was hatched from a meteor stone, and so every plough in the village knows something of the stars. Not many remember the story, but everyone remembers the proverb.",
+  "dove": "recipes/commit.ith.s.henavek.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A smiths' proverb in Brancrug: 'What starts in the sky, ends in the earth.' A story goes with it, that the village smith's anvil in the time of the Dewulfs was hatched from a meteor stone, and so every plough in the village knows something of the stars. Not many remember the story, but everyone remembers the proverb. It would probably count as Ithastry.",
+  "dove": "recipes/commit.ith.s.henavek.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A thief of sights, a scavenger of thrones,\nA border-reaver and a thief of knots\nA thief of colours and a thief of bones.",
+  "dove": "recipes/commit.bir.s.skystories.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A thief of sights, a scavenger of thrones,\nA border-reaver and a thief of knots\nA thief of colours and a thief of bones.\n\nThis is Birdsong.",
+  "dove": "recipes/commit.bir.s.skystories.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Above",
+  "dove": "recipes/commit.hor.s.desires.dissolutions.label",
+  "ricorre": 1
+ },
+ {
+  "en": "All days are death, all lives are sunset. For a time, light persists, but we should not fear the scorch of a Second Dawn.",
+  "dove": "recipes/commit.sko.s.putrefactions.calcinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "All days are death, all lives are sunset. For a time, light persists, but we should not fear the scorch of a Second Dawn. This is Skolekosophy at its most merciful.",
+  "dove": "recipes/commit.sko.s.putrefactions.calcinations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "All days are death, all lives are sunset. No fire will last without fuel; there can be no Second Dawn without a war to burn the bones of earth.",
+  "dove": "recipes/commit.ith.s.putrefactions.calcinations.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "All days are death, all lives are sunset. No fire will last without fuel; there can be no Second Dawn without a war to burn the bones of earth. This is Ithastry at its most merciless.",
+  "dove": "recipes/commit.ith.s.putrefactions.calcinations.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "All the Hours are defined by their opposition to other Hours... just as we are defined by the battles we choose. This is a matter of the Horomachistry Wisdom.",
+  "dove": "recipes/commit.hor.s.edictsmartial.startdescription",
+  "ricorre": 2
+ },
+ {
+  "en": "Amber",
+  "dove": "recipes/commit.ith.s.anbary.lapidary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Amber, Orichalcum",
+  "dove": "recipes/commit.nyc.s.disciplines.thehammer.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Arrangement",
+  "dove": "recipes/commit.nyc.s.vak.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An End",
+  "dove": "recipes/commit.nyc.s.sights.sensations.label",
+  "ricorre": 1
+ },
+ {
+  "en": "An Opportunity",
+  "dove": "recipes/commit.bir.s.vak.label",
+  "ricorre": 1
+ },
+ {
+  "en": "At the Threshold",
+  "dove": "recipes/commit.sko.s.raggedcrossroads.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Before speech, we could not dream, which is to say that before speech tore open the Peacock Gate to dreams, the Mansus was unwounded and at peace. It's not obligatory for Long to pass that gate, but they generally choose to. Perhaps that's why the Hours charge their Names to hunt down Long - even the Long who claim to serve them.",
+  "dove": "recipes/commit.hus.s.sharps.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Before speech, we could not dream, which is to say that before speech tore open the Peacock Gate to dreams, the Mansus was unwounded and at peace. It's not obligatory for Long to pass that gate, but they generally choose to. Perhaps that's why the Hours charge their Names to hunt down Long - even the Long who claim to serve them. Hushery recognises this truth.",
+  "dove": "recipes/commit.hus.s.sharps.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Before speech, we could not dream, which is to say that before we could wield words, we were weaponless, and even Long dared not enter the Mansus for fear of being devoured. It's not obligatory for Long to wield the weapons of speech, but they generally choose to. Perhaps that's why the Hours charge their Names to hunt down Long - even the Long who claim to serve them.",
+  "dove": "recipes/commit.sko.s.sharps.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Before speech, we could not dream, which is to say that before we could wield words, we were weaponless, and even Long dared not enter the Mansus for fear of being devoured. It's not obligatory for Long to wield the weapons of speech, but they generally choose to. Perhaps that's why the Hours charge their Names to hunt down Long - even the Long who claim to serve them. Skolekosophy recognises this truth.",
+  "dove": "recipes/commit.sko.s.sharps.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Birds of a scale, wings and talons bright\nWorms of a feather, kissed again by stones\nKissed by fire, kissed by snow, by blight.",
+  "dove": "recipes/commit.ith.s.preliminalmeter.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Birds of a scale, wings and talons bright\nWorms of a feather, kissed again by stones\nKissed by fire, kissed by snow, by blight.\n\n This is Ithastry.",
+  "dove": "recipes/commit.ith.s.preliminalmeter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Birth in Fire",
+  "dove": "recipes/commit.ill.s.pyroglyphics.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Black Sapphire",
+  "dove": "recipes/commit.hor.s.anbary.lapidary.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Calyptra is the law that requires secret knowledge to be concealed - except in the libraries of the Watchman's Tree. The number of the Hours of the Calyptra is three, and we do not speak of the oldest Hour, though we remember her.",
+  "dove": "recipes/commit.bos.s.applebrighteuphonies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Calyptra is the law that requires secret knowledge to be concealed - except in the libraries of the Watchman's Tree. The number of the Hours of the Calyptra is three, and we do not speak of the oldest Hour. This observance is a matter of Bosk.",
+  "dove": "recipes/commit.bos.s.applebrighteuphonies.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Calyptra is the law that requires secret knowledge to be forgotten - except in the libraries of the Watchman's Tree. The number of the Hours of the Calyptra is three, and we do not trust the third Hour, though we heed her.",
+  "dove": "recipes/commit.ill.s.applebrighteuphonies.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Calyptra is the law that requires secret knowledge to be forgotten - except in the libraries of the Watchman's Tree. The number of the Hours of the Calyptra is three, and we do not trust the third Hour, though we heed her. This paradox is a matter of Illumination.",
+  "dove": "recipes/commit.ill.s.applebrighteuphonies.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carapace",
+  "dove": "recipes/commit.sko.s.pentiments.precursors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain knowledge is forbidden to mortals… except in nine great libraries protected by the covenant-stones they hold, where this knowledge can be safely recorded in the inks called <i>encaustum terminale</i>. These libraries are together called the Watchman's Tree, and the covenant marked by these stones shares that name. All this, then, is a matter of Preservation.",
+  "dove": "recipes/commit.pre.s.inks.containment.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain knowledge is forbidden to mortals… except in nine great libraries protected by the covenant-stones they hold, where this knowledge can be safely recorded in the inks called <i>encaustum</i>. These libraries are together called the Watchman's Tree, and the covenant marked by these stones shares that name.",
+  "dove": "recipes/commit.pre.s.inks.containment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain knowledge is forbidden to mortals… unless it's wisely contained. This law is named Calyptra; the enforcement of this law is named Calyptra also; the three Hours who enforce it share that name. They permit that knowledge to persist only in certain sanctioned places, and the most dangerous secrets must only be recorded in the inks called <i>encaustum terminale</i>. Horomachistry teaches us Calyptra's importance.",
+  "dove": "recipes/commit.hor.s.inks.containment.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain knowledge is forbidden to mortals… unless it's wisely contained. This law is named Calyptra; the enforcement of this law is named Calyptra also; the three Hours who enforce it share that name. They permit that knowledge to persist only in certain sanctioned places, and the most dangerous secrets must only be recorded in the inks called <i>encaustum</i>.",
+  "dove": "recipes/commit.hor.s.inks.containment.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Conflict Creates Gods",
+  "dove": "recipes/commit.hor.s.edictsmartial.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Copper, coal, fire, cinnamon, sunlight, obsidian. Add salt to taste. Serve.",
+  "dove": "recipes/commit.ith.s.spices.savours.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Copper, coal, fire, cinnamon, sunlight, obsidian. Add salt to taste. Serve. That's Ithastry.",
+  "dove": "recipes/commit.ith.s.spices.savours.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coral",
+  "dove": "recipes/commit.bir.s.pentiments.precursors.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Cracktrack is the native tongue of the living world. As long as Cracktrack is spoken, in cloud-shape and hill-form, life persists.",
+  "dove": "recipes/commit.pre.s.cracktrack.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Cracktrack is the native tongue of the living world. As long as Cracktrack is spoken, in cloud-shape and hill-form, life persists. This is a matter of Preservation.",
+  "dove": "recipes/commit.pre.s.cracktrack.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Cracktrack was a gift from the light above the world. When Glory touched the first life-motes with this language, they entered the waking world.",
+  "dove": "recipes/commit.ill.s.cracktrack.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Cracktrack was a gift from the light above the world. When Glory touched the first life-motes with this language, they entered the waking world. They were Illuminated.",
+  "dove": "recipes/commit.ill.s.cracktrack.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Cut a thread, and the tapestry must be healed.",
+  "dove": "recipes/commit.bos.s.weaving.knotworking.desc",
+  "ricorre": 1
+ }
+]

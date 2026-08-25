@@ -1,0 +1,242 @@
+{
+    "elements": [
+        {
+            "id": "introduction.rector.start",
+            "label": "An Old Friend's Address",
+            "desc": "I first heard of Brancrug through its Rector, Reverend Timothy. For years now I've been exchanging letters with him. I can find shelter for tonight under his roof - <b>once I've reached Brancrug Village</b>. [The Rector can also introduce you to other villagers.]",
+			"aspects": {"introduction":1,"lantern":1},
+            "xtriggers": {"befriending":"mem.foresight"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Shelter!",
+                    "actionid":"village.rectory.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        }, 
+         {
+            "id": "introduction.blacksmith.start",
+            "label": "An Old Friend's Address",
+            "desc": "Denzil is the blacksmith of Brancrug Village. I remember him from the War. If he remembers me, I can find shelter beneath his roof - <b>once I've reached Brancrug Village</b>.",
+			"aspects": {"introduction":1,"forge":1},
+            "xtriggers": {"befriending":"mem.revelation"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Shelter!",
+                    "actionid":"village.smithy.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        }, 
+        {
+            "id": "introduction.coffinmaker.start",
+            "label": "An Old Friend's Address",
+            "desc": "Mr Kille is the coffinmaker of Brancrug Village. I once wrote kindly of his poetry. His home is always open to me (though he's asked me never to mention poetry in front of Mrs Kille). I can find shelter for tonight under their roof - <b>once I've reached Brancrug Village</b>. ",
+			"aspects": {"introduction":1,"winter":1},
+            "xtriggers": {"befriending":"mem.satisfaction"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Shelter!",
+                    "actionid":"village.killes.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        },
+        {
+            "id": "introduction.midwife.start",
+            "label": "An Old Friend's Address",
+            "desc": "Mrs Kille is the handywoman - the midwife - of Brancrug village. I knew her long ago in Paris, when her surname was not 'Kille' but 'Raveline', and her sister was a viscountess. Her home is always open to me (though she's asked me not to bring up the title thing when Mr Kille's around).  I can find shelter for tonight under their roof  - <b>once I've reached Brancrug Village</b>. ",
+			"aspects": {"introduction":1,"grail":1},
+            "xtriggers": {"befriending":"mem.hindsight"},
+            "slots": [
+                {
+                    "id": "h",
+                    "label": "Shelter!",
+                    "actionid":"village.killes.closed",                 
+                    "essential":{"soaked":1,"ability":1}
+                }
+            
+                ]
+        },
+ 
+        {
+            "id": "assistance.fisherman",
+            "label": "Fisherman's Assistance",
+            "desc": "Fishermen in this part of the world have a reputation as smugglers, and worse than smugglers. Those days are past, mostly, and mostly they just catch pilchards now. But they still remember the words spoken in silence to the Moon and the Sea.",
+			"aspects": {"moon":2,"sky":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.fisherman.intro",
+            "label": "Fisherman's Assistance",
+            "desc": "A fisherman from Brancrug village! He can guide me up the cliff path - if he trusts me. [The Aspects below tell you more about how and where you can use this card. Hover over them to learn more - or to see what other things also have these Aspects.]",
+			"aspects": {"moon":1,"sky":1,"assistance":1,"sceptical":1,"reluctant":1},
+            "icon": "assistance.fisherman",
+            "comments":"Variant, so we don't want to inherit the usual from the proto",
+            "slots":[     {
+                "id": "intro",
+                "label": "A name?",
+                "description": "Is there someone who might vouch for me with the villagers?",
+                "actionid":"talk",                 
+                "required": {"introduction":1}
+            }]
+        },
+        {
+            "id": "assistance.orchardkeeper",
+            "label": "Orchard-Keeper's Assistance",
+            "desc": "'In Cornwall, it is quite possible to take a stride from the richest vegetation into the abomination of desolation. It has been said in mockery that Cornwall does not grow wood enough to make coffins for the people.' - Sabine Baring-Gould",
+			"aspects": {"nectar":2,"heart":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.barber",
+            "label": "Barber's Assistance",
+            "desc": "The itinerant barbers of the south country will keep you clean and kempt, make sure you don't miss out on any news or gossip, and arrange matters so you aren't too troubled by vermin. Snip snip.",
+			"aspects": {"moth":2,"rose":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.miner",
+            "label": "Miner's Assistance",
+            "desc": "'Thus they more or less ruled themselves, with the help of their wild Celtic temperament, made wilder by the hardness of their lives and the truly ghastly conditions under which they worked [...] with all this it is not to be wondered that the tinners acquired the reputation of being scarcely human. But it must be remembered that among them at all times were those whose characters could stand comparison with the best of men.' - L. Russell Muirhead",
+			"aspects": {"scale":2,"forge":1,"moon":1},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "assistance.rector",
+            "label": "Rector's Assistance",
+            "desc": "Reverend Timothy, Rector of Brancrug, ordained by the Church of the Unconquered Sun. A learned man, blessed in the Tally, the Gate, and the Light. [Make use of the Rector's help before dawn.]",
+			"aspects": {"lantern":2,"knock":1},
+            "unique":true,
+            "inherits":"_assistance.usescandles"
+        },
+
+        {
+            "id": "assistance.coffinmaker",
+            "label": "Coffinmaker's Assistance",
+            "desc": "A tamer of trees, a worker of woods, a consigner of cadavers. He has also been known to try his hand, very diffidently, at poetry. [Make use of the Coffinmaker's help before dawn.]",
+			"aspects": {"winter":2,"sky":1},
+            "unique":true,
+            "inherits":"_assistance.useswood"
+        },
+        {
+            "id": "assistance.midwife",
+            "label": "Midwife's Assistance",
+            "desc": "As somber as autumn, as kind as autumn. She also likes her beer. [Make use of the Midwife's help before dawn.]",
+			"aspects": {"grail":2,"heart":1},
+            "unique":true,
+            "inherits":"_assistance.usesfabric"
+        },
+        {
+            "id": "assistance.blacksmith",
+            "label": "Blacksmith's Assistance",
+            "desc": "Denzil the blacksmith will lend me his strength for the day. [Make use of the Blacksmith's help before dawn.]",
+			"aspects": {"forge":2,"edge":2},
+            "unique":true,
+            "inherits":"_assistance.usesmetal"
+        },
+        {
+            "id": "employable.engineer",
+            "label": "Passing By: a Consulting Engineer?",
+            "icon":"assistance.engineer",
+            "desc": "A consulting engineer has stopped by the Sweet Bones on the way home. [The Consulting Engineer provides <sprite name=forge>, <sprite name=sky> and <sprite name=lantern> assistance. Talk to her before she leaves if you want to use her services.].",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.engineer"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.engineer",
+            "label": "Consulting Engineer's Assistance",
+            "desc": "A consulting engineer can find plenty of work in the mines and towns of the region. But Hush House represents an unusual and interesting challenge.",
+			"aspects": {"forge":4,"sky":4,"lantern":4,"fee":24},
+            "inherits":"_assistance.usesfuel"
+        },
+        {
+            "id": "employable.fugitive",
+            "label": "Skulking Nearby: a Fugitive",
+            "icon":"assistance.fugitive",
+            "desc": "Someone's taken a room upstairs for the night. He hasn't shown his face, but the village is abuzz with gossip... [The Fugitive provides <sprite name=scale>, <sprite name=edge>, and <sprite name=heart> assistance. Talk to him before he leaves if you want to use his services.]",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.fugitive"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.fugitive",
+            "label": "Fugitive's Assistance",
+            "desc": "'Hold your noise!' called a terrible voice, as a man started up from among the graves at the side of the church porch. [...] A fearful man, all in coarse grey, with a great iron on his leg. A man with no hat, and with broken shoes, and with an old rag tied around his head.' - Dickens",
+			"aspects": {"scale":4,"edge":4,"heart":4,"fee":24},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "employable.musician",
+            "label": "Passing By: a Musician",
+            "icon":"assistance.musician",
+            "desc": "A musician is entertaining the patrons of the Sweet Bones for pennies... not very many pennies. He'd jump at a better-paid opportunity. [The Travelling Musician provides <sprite name=sky>, <sprite name=rose>, and <sprite name=nectar> assistance. Talk to him before he leaves if you want to use his services.].",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.musician"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.musician",
+            "label": "Travelling Musician's Assistance",
+            "desc": "'I'm just some irritating, lying, ginger kid from Cornwall who should have been locked up [...] I just managed to escape and blag it into music.' - Richard James",
+			"aspects": {"sky":4,"rose":4,"nectar":4,"fee":24},
+            "inherits":"_assistance"
+        },
+        {
+            "id": "employable.nun",
+            "label": "On an Unusual Pilgrimage: an Unusual Nun",
+            "icon":"assistance.nun",
+            "desc": "Nuns don't usually travel alone. This one does. [The Sister of the Triple Knot provides <sprite name=knock>, <sprite name=moon>, and <sprite name=grail> assistance. Talk to her before she leaves if you want to use her services.].",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.nun"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.nun",
+            "label": "Nun's Assistance",
+            "desc": "The Sisters of the Triple Knot are long gone from this corner of the world... aren't they?",
+			"aspects": {"knock":4,"moon":4,"grail":4,"fee":24},
+            "inherits":"_assistance.usesomen"
+        },
+        {
+            "id": "employable.painter",
+            "label": "Passing By: a Surrealist Painter",
+            "icon":"assistance.painter",
+            "desc": "A painter has come to Cornwall for the famous light of the region's afternoons... [The Surrealist Painter provides <sprite name=grail>, <sprite name=moth>, and <sprite name=rose> assistance. Talk to her before she leaves if you want to use her services.].",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.painter"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.painter",
+            "label": "Surrealist Painter's Assistance",
+            "desc": "What painter worth their pigments wouldn't want to spend a day at Hush House?",
+			"aspects": {"grail":4,"moth":4,"rose":4,"fee":24},
+            "inherits":"_assistance.usespigment"
+        },
+        {
+            "id": "employable.poet",
+            "label": "Passing By: a Poet",
+            "icon":"assistance.poet",
+            "desc": "A poet has come to the Sweet Bones seeking inspiration, which mostly seems to mean 'drinking' but also 'complaining'. [The Elegiac Poet provides <sprite name=winter>, <sprite name=moth>, and <sprite name=sky> assistance. Talk to him before he leaves if you want to use his services.].",
+			"aspects": {"fee":24},
+            "xtriggers":{"recruiting":"assistance.poet"},
+            "inherits":"_employable"
+        },
+        {
+            "id": "assistance.poet",
+            "label": "Elegiac Poet's Assistance",
+            "desc": "Poets, they say, never do the washing up. This one hasn't brushed his hair either. But he has his uses and his talents.",
+			"aspects": {"winter":4,"moth":4,"sky":4,"fee":24},
+            "inherits":"_assistance.usesflower"
+        }
+
+    ]
+}

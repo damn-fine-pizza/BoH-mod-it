@@ -1,0 +1,51 @@
+{
+    "elements": [
+		{
+			"id": "nx.opening",
+			"label": "Ouverture",
+			"isAspect": true
+		},
+        {
+			"id": "nx.sealing",
+			"label": "Scellage",
+			"isAspect": true
+		},
+		{
+			"id": "nx.harming",
+			"label": "nuisant",
+			"isAspect": true
+		},
+		{
+			"id": "nx.healing",
+			"label": "guérison",
+			"isAspect": true
+		},
+		{
+			"id": "nx.revealing",
+			"label": "révélant",
+			"isAspect": true
+		},
+		{
+			"id": "nx.obscuring",
+			"label": "obscurcissant",
+			"isAspect": true
+		},
+		{
+			"id": "nx.helping",
+			"label": "aidant",
+			"isAspect": true
+		},
+		{
+			"id": "nx.thwarting",
+			"label": "contrecarrant",
+			"isAspect": true
+		},
+		{
+			"id": "nx.concluding",
+			"label": "concluant",
+			"isAspect": true
+		}
+
+
+    ]
+}

@@ -1,0 +1,28 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+*~
+translations/.corpus.json
+translations/parts/.andamento.jsonl
+# i frammenti che join.py mette da parte dopo averli fusi: sono la rete di
+# sicurezza di chi traduce, non il risultato. Il risultato e' part_N.json.
+translations/parts/fatti/
+translations/parts/scartati/*.json
+# le pagine di revisione: le riscrivono index.py e compare.py in un attimo,
+# e pesano quanto tutto il resto del repository messo insieme.
+art/*.html
+# l'arte di Weather Factory non si ridistribuisce. art/originali/ e' il loro ZIP
+# pubblico, art/estratte/ sono gli sprite del gioco installato: tools/sources.py
+# rimette in casa tutt'e due. Nostre sono le lastre, il manifest e le sigle.
+art/originali/
+art/estratte/
+dist/
+# dove sta il gioco su questo computer: dipende dall'installazione, non dal
+# progetto. Si copia percorsi.esempio.json, o si passa tutto dall'ambiente.
+percorsi.json
+# l'impalcatura degli agenti e i prompt di sessione: sono di chi lavora, non del
+# mod. Quello che ha senso rendere pubblico sta in CLAUDE.md.
+.claude/
+docs/prompt-*.md
+docs/briefing-traduttori.md

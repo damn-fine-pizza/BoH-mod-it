@@ -1,0 +1,24 @@
+{
+ "elements": [
+  {
+   "id": "technique.summon.echidna",
+   "Label": "Tecnica: Le Scorrerie di Echidna",
+   "desc": "L’Echidna Ligeiana si aggira nei luoghi vuoti. [Cammina sulla Brughiera e invoca Echidna con sufficiente autorità per essere credibile. Avrai bisogno di questa Abilità, una carta Anima, un’offerta di Latte di Serpente (che può essere creato da Perinculate con <sprite name=edge> da Custode e alcune ricette <sprite name=scale>) e un totale di 7 <sprite name=scale>]."
+  },
+  {
+   "id": "x.summon.echidna",
+   "Label": "Lezione: Le Scorrerie di Echidna",
+   "desc": "So che l’Echidna Ligeiana si aggira nei luoghi vuoti. [Esamina questo con la tua abilità più forte tra Spira & Baratro, Pentimenti & Precursori, Serpenti & Veleni o Storie di Lupo. Imparerai come invitare Echidna a Brancrug.]"
+  },
+  {
+   "id": "echidna.enroute",
+   "Label": "Echidna sta Arrivando",
+   "desc": "Ferita di guerra e cicatrice di serpente, per la strada del cielo e nel profondo del deserto. Preparati."
+  },
+  {
+   "id": "echidna.enroute.persistent",
+   "Label": "Echidna sta Arrivando",
+   "desc": "Ferita di guerra e cicatrice di serpente, per la strada del cielo e nel profondo del deserto. Preparati."
+  }
+ ]
+}

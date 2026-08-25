@@ -1,0 +1,194 @@
+{
+ "recipes": [
+  {
+   "id": "salon.begin.elevenses",
+   "label": "Merenda Mattutina",
+   "startdescription": "I miei ospiti prendono posto per la Merenda Mattutina. [Tieni d’occhio il Salotto man mano che procede – dovrai aggiungere carte Anima per incoraggiare la conversazione a scorrere. Ospiti diversi richiederanno carte Anima diverse. Più ospiti ci sono, più a lungo durerà il Salotto.]"
+  },
+  {
+   "id": "salon.begin.lunch.noon",
+   "label": "Pranzo",
+   "startdescription": "I miei ospiti prendono posto per il Pranzo. [Tieni d’occhio il Salotto man mano che procede – dovrai aggiungere carte Anima per incoraggiare la conversazione a scorrere. Ospiti diversi richiederanno carte Anima diverse. Più ospiti ci sono, più a lungo durerà il Salotto.]"
+  },
+  {
+   "id": "salon.begin.lunch.afternoon",
+   "label": "Pranzo",
+   "startdescription": "I miei ospiti prendono posto per un Pranzo tardivo. [Tieni d’occhio il Salotto man mano che procede – dovrai aggiungere carte Anima per incoraggiare la conversazione a scorrere. Ospiti diversi richiederanno carte Anima diverse. Più ospiti ci sono, più a lungo durerà il Salotto.]"
+  },
+  {
+   "id": "salon.begin.afternoon.tea",
+   "label": "Tè del Pomeriggio",
+   "startdescription": "I miei ospiti prendono posto per il Tè del Pomeriggio. [Tieni d’occhio il Salotto man mano che procede – dovrai aggiungere carte Anima per incoraggiare la conversazione a scorrere. Ospiti diversi richiederanno carte Anima diverse. Più ospiti ci sono, più a lungo durerà il Salotto.]"
+  },
+  {
+   "id": "salon.begin.supper.dusk",
+   "label": "Cena",
+   "startdescription": "I miei ospiti prendono posto per la Cena. [Tieni d’occhio il Salotto man mano che procede – dovrai aggiungere carte Anima per incoraggiare la conversazione a scorrere. Ospiti diversi richiederanno carte Anima diverse. Più ospiti ci sono, più a lungo durerà il Salotto.]"
+  },
+  {
+   "id": "salon.begin.supper.night",
+   "label": "Cena",
+   "startdescription": "I miei ospiti prendono posto per una Cena tardiva. [Tieni d’occhio il Salotto man mano che procede – dovrai aggiungere carte Anima per incoraggiare la conversazione a scorrere. Ospiti diversi richiederanno carte Anima diverse. Più ospiti ci sono, più a lungo durerà il Salotto.]"
+  },
+  {
+   "id": "salon.begin.picnic",
+   "label": "Picnic",
+   "startdescription": "I miei ospiti si sistemano per un Picnic. [Tieni d’occhio il Salotto man mano che procede – dovrai aggiungere carte Anima per incoraggiare la conversazione a scorrere. Ospiti diversi richiederanno carte Anima diverse. Più ospiti ci sono, più a lungo durerà il Salotto.]"
+  },
+  {
+   "id": "salon.setup.formal",
+   "label": "Un Pasto Formale",
+   "startdescription": "[Il Pranzo e la Cena durano più a lungo dei Salotti meno formali – permettendo un’interazione in più tra i tuoi ospiti. [+ Tempo Rimanente]"
+  },
+  {
+   "id": "salon.router",
+   "label": "Salotto: E Adesso?",
+   "startdescription": "La conversazione fluisce e rifluisce..."
+  },
+  {
+   "id": "slnch.needs.ability.mettle",
+   "label": "Discussioni Serie",
+   "startdescription": "Lancia una sfida. [Aggiungi una carta Mettle.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.needs.ability.chor",
+   "label": "Chiacchiere Vivaci",
+   "startdescription": "Inietta un po’ di allegria... [Aggiungi una carta Chor.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.needs.ability.ereb",
+   "label": "Scambi Animati",
+   "startdescription": "Rendi più piccante la conversazione... [Aggiungi una carta Ereb.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.needs.ability.fet",
+   "label": "Racconti del Mansus",
+   "startdescription": "Chiedi dei sogni... [Aggiungi una carta Fet.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.needs.ability.phost",
+   "label": "Dibattiti Elevati",
+   "startdescription": "Un tono più sobrio... [Aggiungi una carta Phost.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.needs.ability.shapt",
+   "label": "Conversazione Vivace",
+   "startdescription": "Di’ qualcosa di spiritoso... [Aggiungi una carta Shapt.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.needs.ability.trist",
+   "label": "Digressioni Malinconiche",
+   "startdescription": "Istinto ed emozione... [Aggiungi una carta Trist.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.needs.ability.wist",
+   "label": "Discussione Ragionata",
+   "startdescription": "Poni una domanda complessa... [Aggiungi una carta Wist.]",
+   "slots": [
+    {
+     "id": "ability",
+     "label": "Anima"
+    }
+   ]
+  },
+  {
+   "id": "slnch.satisfied.ability"
+  },
+  {
+   "id": "lastresortfallthroughslnev",
+   "startdescription": "La conversazione sale, scende, rifluisce, fluisce."
+  },
+  {
+   "id": "salon.end.lively.formal",
+   "label": "Si Conclude un Pasto Vivace",
+   "startdescription": "I miei ospiti se ne vanno felici. [Hai ottenuto una Memoria potente aggiuntiva.]"
+  },
+  {
+   "id": "salon.end.quiet.formal",
+   "label": "Si Conclude un Pasto Tranquillo",
+   "startdescription": "I miei ospiti se ne vanno soddisfatti. [Per un Salotto di maggior successo, aggiungi più ospiti, assicurati di avere le carte Anima giuste, o entrambe le cose.]"
+  },
+  {
+   "id": "salon.end.sombre.formal",
+   "label": "Si Conclude un Pasto Cupo",
+   "startdescription": "I miei ospiti se ne vanno in silenzio. [Per un Salotto di maggior successo, aggiungi più ospiti, assicurati di avere le carte Anima giuste, o entrambe le cose.]"
+  },
+  {
+   "id": "salon.end.lively.informal",
+   "label": "Si Conclude una Chiacchierata Vivace",
+   "startdescription": "I miei ospiti se ne vanno felici. [Hai ottenuto una Memoria potente aggiuntiva.]"
+  },
+  {
+   "id": "salon.end.quiet.informal",
+   "label": "Si Conclude una Chiacchierata Tranquilla",
+   "startdescription": "I miei ospiti se ne vanno soddisfatti. [Per un Salotto di maggior successo, aggiungi più ospiti, assicurati di avere le carte Anima giuste, o entrambe le cose.]"
+  },
+  {
+   "id": "salon.end.sombre.informal",
+   "label": "Si Conclude una Chiacchierata Cupa",
+   "startdescription": "I miei ospiti se ne vanno in silenzio. [Per un Salotto di maggior successo, aggiungi più ospiti, assicurati di avere le carte Anima giuste, o entrambe le cose.]"
+  },
+  {
+   "id": "salon.end.lively.picnic",
+   "label": "Si Conclude un Picnic Vivace",
+   "startdescription": "I miei ospiti se ne vanno felici. [Hai ottenuto una Memoria potente aggiuntiva.]"
+  },
+  {
+   "id": "salon.end.quiet.picnic",
+   "label": "Si Conclude un Picnic Tranquillo",
+   "startdescription": "I miei ospiti se ne vanno soddisfatti. [Per un Salotto di maggior successo, aggiungi più ospiti, assicurati di avere le carte Anima giuste, o entrambe le cose.]"
+  },
+  {
+   "id": "salon.end.sombre.picnic",
+   "label": "Si Conclude un Picnic Cupo",
+   "startdescription": "I miei ospiti se ne vanno in silenzio. [Per un Salotto di maggior successo, aggiungi più ospiti, assicurati di avere le carte Anima giuste, o entrambe le cose.]"
+  },
+  {
+   "id": "salon.recent.hint",
+   "label": "Non Proprio Ora –",
+   "startdescription": "[Puoi tenere solo un Salotto per stagione.]"
+  }
+ ]
+}

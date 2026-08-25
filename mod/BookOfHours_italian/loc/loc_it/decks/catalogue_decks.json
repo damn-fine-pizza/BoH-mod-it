@@ -1,0 +1,39 @@
+{
+ "decks": [
+  {
+   "id": "d.books.dawn",
+   "label": "Libri dell’Alba",
+   "desc": "Libri associati al periodo (all’incirca) dell’Alba della Hush House"
+  },
+  {
+   "id": "d.books.solar",
+   "label": "Libri del Gotico Solare",
+   "desc": "Libri associati al periodo (all’incirca) Gotico Solare della Hush House"
+  },
+  {
+   "id": "d.books.baronial",
+   "label": "Libri Baronali",
+   "desc": "Libri associati al periodo (all’incirca) Baronale della Hush House"
+  },
+  {
+   "id": "d.books.curia",
+   "label": "Libri della Curia",
+   "desc": "Libri associati al periodo (all’incirca) della Curia della Hush House"
+  },
+  {
+   "id": "d.books.nocturnal",
+   "label": "Libri Notturni",
+   "desc": "Libri associati, all’incirca, al periodo Notturno della Hush House"
+  },
+  {
+   "id": "d.books.divers",
+   "label": "Libri Diversi e Strani",
+   "desc": "Tutto quanto"
+  },
+  {
+   "id": "d.books.nocturnal.everyman",
+   "label": "Libri Notturni: Tre Essenziali Everyman",
+   "desc": "Libri associati, all’incirca, al periodo Notturno della Hush House"
+  }
+ ]
+}

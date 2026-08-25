@@ -1,0 +1,147 @@
+
+{"recipes": [
+    {
+        "id": "well.renounce.journal",
+        "actionid": "library.well",
+        "label": "Renounce What Could Be",
+        "reqs":{"journal":1,"skill":-1,"ability":-1,"memory":-1},
+        "startdescription": "Do I really want to fling my journal into the well? [THIS WILL DESTROY YOUR JOURNAL, which will make it IMPOSSIBLE TO COMPLETE THE GAME. You'll be stuck! But you can do it if you really want.]",
+        "desc": "'Fool of a Librarian!' [It is no longer possible to complete the game.]",
+        "warmup":10,
+        "effects":{"journal":-1,"mem.sound":1},
+        "craftable":true
+    },
+    {
+        "id": "fire.renounce.journal",
+        "actionid": "library.fireplace.*",
+        "label": "Renounce What Could Be",
+        "reqs":{"journal":1,"skill":-1,"ability":-1,"memory":-1,"soaked":-1},
+        "startdescription": "Do I really want to burn a book? Do I really want to burn <i>this</i> book? [THIS WILL DESTROY YOUR JOURNAL, which will make it IMPOSSIBLE TO COMPLETE THE GAME. You'll be stuck! But you can do it if you really want.]",
+        "desc": "Page by page, my future curls, blackens, disintegrates. Smoke curls thoughtfully, and then the Red Flower thrusts it aside. [It is no longer possible to complete the game.]",
+        "warmup":10,
+        "effects":{"thing":-1,"invincible.audacity":1},
+        "craftable":true
+    },
+
+    {
+        "id": "sea.renounce.journal",
+        "actionid": "world.sea.*",
+        "label": "Renounce What Could Be",
+        "reqs":{"journal":1,"skill":-1,"ability":-1,"memory":-1},
+        "startdescription": "My journal won't survive a second soaking. [THIS WILL DESTROY YOUR JOURNAL, which will make it IMPOSSIBLE TO COMPLETE THE GAME. You'll be stuck! But you can do it if you really want.]",
+        "desc": "Does anything happen? Does an arm in white samite rise from the sea to accept the book? No. Only the water lapping on the beach, and the long ripple washing, as the old knight once said... and the White Flower has triumphed. [It is no longer possible to complete the game.]",
+        "warmup":10,
+        "effects":{"journal":-1,"old.moment":1},
+        "achievements":["A_EVENT_PROSPERO"],
+        "craftable":true
+    },
+    {
+        "id": "fire.renounce.brewable",
+        "actionid": "library.fireplace.*",
+        "label": "Renounce (or Brew?)",
+        "reqs":{"brewable":1,"skill":-1,"ability":-1,"memory":-1},
+        "startdescription": "If I cast an object into the fire, it will be transformed; destroyed; lost. [If the item is Brewable, add a Soul card to brew it instead of destroying it.]",
+        "desc": "The flames leap up, and die away.",
+        "warmup":10,
+        "effects":{"brewable":-1,"mem.sight":1},
+        "craftable":true
+    },
+    {
+        "id": "well.renounce.penny",
+        "actionid": "library.well",
+        "label": "Renounce",
+        "reqs":{"penny":1,"skill":-1,"ability":-1,"memory":-1,"journal":-1,"beast":-1},
+        "startdescription": "The smallest of wishes. [Dispose of a stray penny.]",
+        "desc": "(Plip.)",
+        "warmup":10,
+        "effects":{"penny":-1,"mem.satisfaction":1},
+        "craftable":true
+    },
+    {
+        "id": "well.renounce",
+        "actionid": "library.well",
+        "label": "Renounce",
+        "reqs":{"thing":1,"skill":-1,"ability":-1,"memory":-1,"journal":-1,"beast":-1},
+        "startdescription": "If I drop an object into the well, I'm unlikely to see it again. [Use this to dispose of junk, or of danger.]",
+        "desc": "(Plosh.)",
+        "warmup":10,
+        "effects":{"thing":-1,"mem.sound":1},
+        "craftable":true
+    },
+    {
+        "id": "fire.renounce.correspondence",
+        "actionid": "library.fireplace.*",
+        "label": "Burn Correspondence",
+        "reqs":{"correspondence":1,"skill":-1,"ability":-1,"memory":-1,"brewable":-1,"journal":-1,"beast":-1},
+        "startdescription": "Perhaps this letter is irritating; or useless; or dangerous.",
+        "desc": "The flames leap up, and die away.",
+        "warmup":10,
+        "effects":{"correspondence":-1,"mem.sight":1},
+        "craftable":true
+    },
+    {
+        "id": "fire.renounce",
+        "actionid": "library.fireplace.*",
+        "label": "Renounce",
+        "reqs":{"thing":1,"skill":-1,"ability":-1,"memory":-1,"brewable":-1,"journal":-1,"beast":-1},
+        "startdescription": "If I cast an object into the fire, it will be transformed; destroyed; lost. [Use this to dispose of junk, or of danger.]",
+        "desc": "The flames leap up, and die away.",
+        "warmup":10,
+        "effects":{"thing":-1,"mem.sight":1},
+        "craftable":true
+    },
+    {
+        "id": "sea.renounce.penny.numa",
+        "actionid": "world.sea*",
+        "label": "Renounce",
+        "reqs":{"penny":1,"skill":-1,"ability":-1,"memory":-1,"journal":-1,"beast":-1},
+        "extantreqs":{"season.numa":1},
+        "startdescription": "To give a coin to the sea at this season - once, this was said to be the toll due to Ys. [Dispose of a stray penny.]",
+        "desc": "And the waves march on to the horizon.",
+        "warmup":10,
+        "effects":{"penny":-1,"horizonsight":1},
+        "craftable":true
+    },
+    {
+        "id": "sea.renounce.penny",
+        "actionid": "world.sea*",
+        "label": "Renounce",
+        "reqs":{"penny":1,"skill":-1,"ability":-1,"memory":-1,"journal":-1,"beast":-1},
+        "extantreqs":{"season.numa":-1},
+        "startdescription": "Why? Why not? [Dispose of a stray penny.]",
+        "desc": "And the waves march on.",
+        "warmup":10,
+        "effects":{"penny":-1,"mem.impulse":1},
+        "craftable":true
+    },
+    {
+        "id": "sea.renounce",
+        "actionid": "world.sea*",
+        "label": "Renounce",
+        "reqs":{"thing":1,"skill":-1,"ability":-1,"memory":-1,"journal":-1,"beast":-1},
+        "startdescription": "If I cast an object into the sea, it will be lost, perhaps irretrievably. [Use this to dispose of junk, or of danger.]",
+        "desc": "When something is given to the sea it rarely returns... although, of course, I did.",
+        "warmup":10,
+        "effects":{"thing":-1,"mem.loss":1},
+        "craftable":true
+    },
+
+    {
+        "id": "sea.release",
+        "actionid": "world.sea*",
+        "label": "Release",
+        "reqs":{"beast":1},
+        "startdescription": "I could release it to the waves, the winds, or the sands, as it prefers.",
+        "desc": "There were two of us, and now there's one.",
+        "warmup":10,
+        "effects":{"beast":-1,"mem.hindsight":1},
+        "craftable":true
+    }
+
+    
+    
+   
+    
+    ]
+    }
+    

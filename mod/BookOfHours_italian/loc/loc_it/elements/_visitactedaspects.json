@@ -1,0 +1,709 @@
+{
+ "elements": [
+  {
+   "id": "acted.agdistis.curse.heart",
+   "label": "Agì: Agdistis",
+   "desc": "Mr Agdistis decise di fare il possibile per aiutare un amico che aveva acquistato oggetti maledetti."
+  },
+  {
+   "id": "acted.agdistis.observe.scaly.sky",
+   "label": "Agì: Agdistis",
+   "desc": "Mr Agdistis decise di ignorare la chiamata ad andare verso Ovest, scegliendo di rifiutare la possibilità di trasformazione, e di restare ciò che era."
+  },
+  {
+   "id": "acted.agdistis.opera.apollo.sky",
+   "label": "Agì: Agdistis",
+   "desc": "Mr Agdistis contribuì a orchestrare la partitura di «Apollo e Marsia»."
+  },
+  {
+   "id": "acted.agdistis.pan.heart",
+   "label": "Agì: Agdistis",
+   "desc": "Mr Agdistis decise di sperimentare con il miele."
+  },
+  {
+   "id": "acted.agdistis.project.ingenious.sky",
+   "label": "Agì: Agdistis",
+   "desc": "Mr Agdistis scrisse un brano commemorativo per Zuthimalim Zidane."
+  },
+  {
+   "id": "acted.agdistis.wound.heart",
+   "label": "Agì: Agdistis",
+   "desc": "Mr Agdistis apprese che il «Reverendo Aperto» non era collegato al potere che Agdistis serve."
+  },
+  {
+   "id": "acted.aladim.hunt.changing.scale",
+   "label": "Agì: al-Adim",
+   "desc": "L’Aleppino giunse a credere che Abecassis avesse accettato doni di nutrimento da «colei che allatta serpenti»."
+  },
+  {
+   "id": "acted.aladim.lost.find.rose",
+   "label": "Agì: al-Adim",
+   "desc": "Su incarico della sua patrona, la Vagabonda, l’Aleppino si mise in cerca del giardino pezzato nelle terre desolate... ma il cuore gli era in tumulto."
+  },
+  {
+   "id": "acted.aladim.observe.scaly.scale",
+   "label": "Agì: al-Adim",
+   "desc": "L’Aleppino decise che la faccenda della Croce fra le nuvole sopra St Tentreto meritava la sua attenzione."
+  },
+  {
+   "id": "acted.aladim.omen.horizon.rose",
+   "label": "Agì: al-Adim",
+   "desc": "L’Aleppino sospettava che Hendrik Dewulf non fosse stato un comune capitano mercenario... e che un legame fra Brancrug e Ys significasse che il suo viaggio verso Ys potesse cominciare proprio qui, sull’Isola."
+  },
+  {
+   "id": "acted.aladim.rising.scale",
+   "label": "Agì: al-Adim",
+   "desc": "L’Aleppino, sospettando un qualche legame fra il Sette-Spire e il Sole, temendo cosa avrebbe potuto trovare se avesse visitato l’Oracolo del Tempo dell’Ascesa... scelse di non andare."
+  },
+  {
+   "id": "acted.aladim.rite.awakening.scale",
+   "label": "Agì: al-Adim",
+   "desc": "L’Aleppino dichiarò l’intenzione di affidare alle fiamme l’immagine di sandalo, per timore che il diacono potesse «cominciare a ronzare»."
+  },
+  {
+   "id": "acted.aladim.stalk.rose",
+   "label": "Agì: al-Adim",
+   "desc": "L’Aleppino non riuscì a stabilire la risposta migliore per l’Enigma di Medusa, «Cos’è che Non Si Vede?» Suggerì con ironia che la risposta dovesse essere proprio lui."
+  },
+  {
+   "id": "acted.arthur.hunt.changing.edge",
+   "label": "Agì: Arthur Moore",
+   "desc": "Il tenente Moore decise di affidare Abecassis alla custodia del Labirinto dei Leoni."
+  },
+  {
+   "id": "acted.arthur.mob.edge",
+   "label": "Agì: Arthur Moore",
+   "desc": "Il tenente Moore trovò l’arma di cui aveva bisogno per abbattere i Conteggiatori a Kaunas."
+  },
+  {
+   "id": "acted.arthur.mystical.lantern",
+   "label": "Agì: Arthur Moore",
+   "desc": "Il tenente Moore osò sperare di poter cominciare a comprendere «il Piano del Sole»."
+  },
+  {
+   "id": "acted.arthur.omen.dawn.lantern",
+   "label": "Agì: Arthur Moore",
+   "desc": "Il tenente Moore giunse a credere che i miracoli di Messana potessero significare che la Seconda Alba fosse vicina. «Quando il mondo cambierà», osservò, «cambierà tutto in una volta.»"
+  },
+  {
+   "id": "acted.arthur.project.solar.lantern",
+   "label": "Agì: Arthur Moore",
+   "desc": "Il tenente Moore era preoccupato per il ruolo del pronipote nell’Impresa Reale – ma una visita alla Hush House placò quelle preoccupazioni."
+  },
+  {
+   "id": "acted.arthur.revolution.edge",
+   "label": "Agì: Arthur Moore",
+   "desc": "Il tenente Moore simpatizzava con i ribelli nei Confini... ma le sue preoccupazioni sulla loro onestà gli pesavano molto."
+  },
+  {
+   "id": "acted.arthur.stalk.edge",
+   "label": "Agì: Arthur Moore",
+   "desc": "Il tenente Moore, preparandosi ad affrontare Medusa, giunse a temere che la risposta al suo enigma – «Cos’è che Non Si Vede?» – non fosse «Luce», come aveva a lungo creduto."
+  },
+  {
+   "id": "acted.arun.box.moon",
+   "label": "Agì: Peel",
+   "desc": "Il Dr Peel, sicuro che l’occupante della Bara di St Mihail sarebbe presto fuggito, era altrettanto sicuro che qualcuno, o qualcosa, sarebbe stato divorato da qualcosa, o qualcuno. Sembrava piuttosto allegro al riguardo."
+  },
+  {
+   "id": "acted.arun.lost.find.moth",
+   "label": "Agì: Peel",
+   "desc": "Il Dr Peel, come spesso accade, trovò ciò che cercava a Brancrug, si liberò di un enigma, e se ne andò, con le sue intenzioni ancora oscure."
+  },
+  {
+   "id": "acted.arun.mob.moon",
+   "label": "Agì: Peel",
+   "desc": "Il Dr Peel partì per Kaunas per raccogliere coltelli, o seminare confusione, o portare pace. O qualcosa del genere."
+  },
+  {
+   "id": "acted.arun.opera.wings.moth",
+   "label": "Agì: Peel",
+   "desc": "Il Dr Peel sperava in «una chiacchierata» con Ferezeref la Gazza, Nome della Falena, che riteneva responsabile dei disastri dell’opera."
+  },
+  {
+   "id": "acted.arun.rising.moon",
+   "label": "Agì: Peel",
+   "desc": "Il Dr Peel espose un’oscura teoria su un sacramento di sangue che potrebbe essere condiviso con il Sole al crepuscolo e all’alba; e uscì di scena a sinistra."
+  },
+  {
+   "id": "acted.arun.rite.renewal.moon",
+   "label": "Agì: Peel",
+   "desc": "Il Dr Peel partì per assistere al rito al Lago Gladwyn, intonando nomi sinistri: Robigo il Generoso con gli Ospiti; il Germoglio Incoronato; Ortucchio..."
+  },
+  {
+   "id": "acted.auntmopsy.numa.moon.a.moon",
+   "label": "Agì: Zia M",
+   "desc": "«Sì, tesoro. Se non sappiamo cosa abbiamo perso quando lo seppelliamo, non lo sapremo finché non avranno seppellito noi. Io, al tuo posto, penserei a cosa sono disposta a seppellire. Dormi placidamente.»"
+  },
+  {
+   "id": "acted.auntmopsy.numa.moon.b.moon",
+   "label": "Agì: Zia M",
+   "desc": "«Sì, tesoro. Senza tutti quegli dèi nel buio, non credo che vedremmo molto Sole al di sotto dell’Eternità. Dormi placidamente.»"
+  },
+  {
+   "id": "acted.auntmopsy.numa.wood.nectar",
+   "label": "Agì: Zia M",
+   "desc": "«Sì, tesoro. Niente carta senza alberi; niente foresta senza l’ascia; nessuna perdita senza memoria. Dormi placidamente.»"
+  },
+  {
+   "id": "acted.azita.hunt.changing.edge",
+   "label": "Agì: Azita",
+   "desc": "Mehrad, l’eterno gemello-nemico di Azita, la Lunga della Lama, progettava di dare ad Abecassis una morte con onore. Con rammarico, Azita si mise in cammino per impedirlo."
+  },
+  {
+   "id": "acted.azita.mob.edge",
+   "label": "Agì: Azita",
+   "desc": "Azita andò a Kaunas per, a suo dire, sbattere insieme le teste di alcuni Conteggiatori."
+  },
+  {
+   "id": "acted.azita.observe.scaly.sky",
+   "label": "Agì: Azita",
+   "desc": "Azita, la Lunga della Lama, giunse a credere che il suo gemello-nemico Mehrad fosse uno di coloro in cui la natura della Croce perdurava; e lo seguì verso Ovest."
+  },
+  {
+   "id": "acted.azita.opera.apollo.sky",
+   "label": "Agì: Azita",
+   "desc": "Azita voleva assicurarsi che la produzione cogliesse ogni dettaglio nel modo giusto – per farne la migliore esca possibile per il suo «carissimo nemico» Mehrad."
+  },
+  {
+   "id": "acted.azita.project.ingenious.sky",
+   "label": "Agì: Azita",
+   "desc": "Azita credette che Zidane fosse stato assassinato – e, dopo aver indagato su possibili moventi, ipotizzò che avesse «origliato ai buchi delle serrature del cielo»."
+  },
+  {
+   "id": "acted.azita.revolution.edge",
+   "label": "Agì: Azita",
+   "desc": "Azita trovò un «sostituto accettabile» per i coltelli di taenite di cui la Légion du Seuil aveva bisogno."
+  },
+  {
+   "id": "acted.azita.stalk.edge",
+   "label": "Agì: Azita",
+   "desc": "Azita partì per giocare ai suoi «giochetti sciocchi» con il suo gemello-nemico Mehrad a Budapest... in gara per tagliare un lembo dalla veste della stessa Medusa."
+  },
+  {
+   "id": "acted.chaima.hunt.changing.edge",
+   "label": "Agì: Chaima",
+   "desc": "Lalla Chaima si mise in cammino per porre fine alla sofferenza di Abecassis... sebbene la sua intenzione ultima restasse incerta, perfino per lei."
+  },
+  {
+   "id": "acted.chaima.lost.find.rose",
+   "label": "Agì: Chaima",
+   "desc": "Lalla Chaima accettò un incarico per il Bureau a Miah – se dovesse trovare il giardino pezzato, o nasconderlo, non fu mai chiaro."
+  },
+  {
+   "id": "acted.chaima.mob.edge",
+   "label": "Agì: Chaima",
+   "desc": "Lalla Chaima partì, senza entusiasmo, per completare un incarico per un Signore Conteggiatore nelle fogne di Kaunas."
+  },
+  {
+   "id": "acted.chaima.omen.horizon.rose",
+   "label": "Agì: Chaima",
+   "desc": "Lalla Chaima si mise in cammino per dare la caccia agli emissari di Ys su incarico del Bureau – sebbene, anche con ciò che aveva appreso a Brancrug, non si aspettasse di trovarli."
+  },
+  {
+   "id": "acted.chaima.revolution.edge",
+   "label": "Agì: Chaima",
+   "desc": "Lalla Chaima, armata di ciò che aveva appreso alla Hush House, partì per dare battaglia ai nemici della Légion du Seuil."
+  },
+  {
+   "id": "acted.chaima.stalk.edge",
+   "label": "Agì: Chaima",
+   "desc": "Lalla Chaima partì per Budapest per seguire e sorvegliare Medusa – dopo aver prima stabilito alla Hush House che, soprattutto, non doveva avvicinarsi troppo."
+  },
+  {
+   "id": "acted.chaima.stalk.rose",
+   "label": "Agì: Chaima",
+   "desc": "Lalla Chaima partì per Budapest per seguire e sorvegliare Medusa – dopo aver prima stabilito alla Hush House che, soprattutto, doveva mostrare rispetto."
+  },
+  {
+   "id": "acted.connie.box.moon",
+   "label": "Agì: Connie",
+   "desc": "MCO Lee sospettava che la Bara di St Mihail potesse contenere un nome del Chandler... forse, disse, il secondo di cui sentiva parlare quell’anno. Era chiaramente turbata da questa possibilità."
+  },
+  {
+   "id": "acted.connie.mob.moon",
+   "label": "Agì: Connie",
+   "desc": "MCO Lee, assai preoccupata che un Conteggiatore avesse in qualche modo trovato un modo per raggirare la Madrugad, partì in fretta per Kaunas."
+  },
+  {
+   "id": "acted.connie.observe.scaly.sky",
+   "label": "Agì: Connie",
+   "desc": "MCO Lee, preoccupata dal richiamo dell’Ovest, decise di non recarvisi di persona – risolvendo invece che il Bureau facesse il possibile per mantenere sicure le coste."
+  },
+  {
+   "id": "acted.connie.opera.apollo.sky",
+   "label": "Agì: Connie",
+   "desc": "MCO Lee fu rassicurata sul fatto che l’opera potesse presentare un pericolo onirico minore di quanto temesse... ma decise comunque di parlare con «i nostri cugini dei Doveri» a Parigi."
+  },
+  {
+   "id": "acted.connie.project.ingenious.sky",
+   "label": "Agì: Connie",
+   "desc": "MCO Lee partì per rintracciare l’entità che credeva avesse assassinato Zidane – uno spirito rinnegato dei cieli inferiori."
+  },
+  {
+   "id": "acted.connie.rising.moon",
+   "label": "Agì: Connie",
+   "desc": "MCO Lee, preoccupata dalla richiesta dei suoi superiori di indagare su un oracolo dato dal Tempo dell’Ascesa, cominciò a sospettare che una «Grande Contraffazione» avesse un ruolo negli affari del regno."
+  },
+  {
+   "id": "acted.connie.rite.renewal.moon",
+   "label": "Agì: Connie",
+   "desc": "MCO Lee fece ricerche su «contromisure» alla Hush House, sperando di limitare qualunque danno causato dal rito"
+  },
+  {
+   "id": "acted.coquille.box.knock",
+   "label": "Agì: Coquille",
+   "desc": "La principessa Coquille credeva di aver appreso dalle sue ricerche alla Hush House come forzare la Bara."
+  },
+  {
+   "id": "acted.coquille.heist.knock",
+   "label": "Agì: Coquille",
+   "desc": "La principessa Coquille, indagando sui modi in cui il Colpo all’Oriflamme potrebbe essere stato condotto, si imbatté in «qualcosa di piuttosto sensazionale»."
+  },
+  {
+   "id": "acted.coquille.intrusion.knock",
+   "label": "Agì: Coquille",
+   "desc": "La principessa Coquille sospettava che l’irruzione di Vermi a Cracovia potesse essere collegata, in qualche modo, alla spada Ebrehel."
+  },
+  {
+   "id": "acted.coquille.opera.apollo.grail",
+   "label": "Agì: Coquille",
+   "desc": "La principessa Coquille era sicura che sarebbe stata la donna vestita meglio fra il pubblico."
+  },
+  {
+   "id": "acted.coquille.opera.wings.grail",
+   "label": "Agì: Coquille",
+   "desc": "La principessa Coquille sperava di trovare la propria famiglia all’opera – vale a dire, la sua famiglia più recente."
+  },
+  {
+   "id": "acted.coquille.revolution.grail",
+   "label": "Agì: Coquille",
+   "desc": "La principessa Coquille trovò un dono molto speciale per il suo amico ufficiale, molto speciale, della Legione."
+  },
+  {
+   "id": "acted.corso.mystical.lantern",
+   "label": "Agì: Corso",
+   "desc": "Corso suggerì che le nuove dottrine gli avessero suggerito un collegamento – fra l’enigmatica Ora detta Chandler, e un Nome del Guardiano: Celia del Tramonto."
+  },
+  {
+   "id": "acted.corso.omen.dawn.lantern",
+   "label": "Agì: Corso",
+   "desc": "Corso stabilì che il manoscritto affidatogli dalla Chiesa per l’autenticazione – con i suoi dettagli sulla profezia dell’Occhio Senza Catene – era un falso."
+  },
+  {
+   "id": "acted.corso.opera.apollo.grail",
+   "label": "Agì: Corso",
+   "desc": "Corso approfondì la propria conoscenza delle «macchie»... con la speranza che bastasse a identificare il libro di «arti del sapore» che sperava di acquisire a Parigi."
+  },
+  {
+   "id": "acted.corso.opera.wings.grail",
+   "label": "Agì: Corso",
+   "desc": "Corso trovò una bustarella che pensò potesse persuadere qualcuno a «sedersi in fondo» durante la rappresentazione, e ad aiutarlo ad autenticare un libro che poteva essere una copia del libretto."
+  },
+  {
+   "id": "acted.corso.project.solar.lantern",
+   "label": "Agì: Corso",
+   "desc": "Corso tornò mestamente dai suoi «amici stranieri», per avvertirli che le loro preoccupazioni sulla natura dell’Impresa Reale potevano essere giustificate."
+  },
+  {
+   "id": "acted.corso.revolution.grail",
+   "label": "Agì: Corso",
+   "desc": "Corso cercò un’opera sconosciuta di Hattington nei Confini – e sperò di aver individuato una bustarella adatta per la «dama» che la deteneva."
+  },
+  {
+   "id": "acted.dagmar.box.knock",
+   "label": "Agì: Dagmar",
+   "desc": "«Daymare» lasciò la Hush House con un piano per assicurarsi che «St Mihail», qualunque cosa fosse in realtà, restasse nella sua bara."
+  },
+  {
+   "id": "acted.dagmar.heist.knock",
+   "label": "Agì: Dagmar",
+   "desc": "«Daymare» era chiaramente preoccupata di poter essere incolpata del colpo, reale o no, giustamente o no – ma le sue ricerche alla Hush House le diedero speranza di poter sfuggire ai sospetti."
+  },
+  {
+   "id": "acted.dagmar.intrusion.knock",
+   "label": "Agì: Dagmar",
+   "desc": "«Daymare», per nulla impressionata dalle pretese di competenza del Bureau, partì per Cracovia per assicurarsi che i sigilli che trattenevano i Vermi fossero all’altezza dei suoi standard."
+  },
+  {
+   "id": "acted.dagmar.lost.find.rose",
+   "label": "Agì: Dagmar",
+   "desc": "Qualcosa nella storia della Rosa Screziata fece chiedere a «Daymare» se dovesse tornare a Miah, ancora una volta..."
+  },
+  {
+   "id": "acted.dagmar.omen.horizon.rose",
+   "label": "Agì: Dagmar",
+   "desc": "«Daymare» decise, di certo, di non cercare Ys. Di certo. In nessuna circostanza."
+  },
+  {
+   "id": "acted.dagmar.stalk.rose",
+   "label": "Agì: Dagmar",
+   "desc": "«Daymare» partì per Budapest per indagare sulla faccenda di Medusa, insistendo che non lo faceva come favore di alcun tipo per alcun tipo di amico, specialmente non uno il cui nome potesse iniziare per K."
+  },
+  {
+   "id": "acted.douglas.curse.heart",
+   "label": "Agì: Douglas Moore",
+   "desc": "L’ispettore Moore partì per risolvere il problema di Grunewald, incoraggiato da ciò che aveva appreso alla Hush House."
+  },
+  {
+   "id": "acted.douglas.mystical.lantern",
+   "label": "Agì: Douglas Moore",
+   "desc": "L’ispettore Moore era soprattutto preoccupato che i culti potessero essere un terreno fertile per i Lunghi – aumentando così l’incidenza del Crimine del Cielo."
+  },
+  {
+   "id": "acted.douglas.omen.dawn.lantern",
+   "label": "Agì: Douglas Moore",
+   "desc": "L’ispettore Moore restò incerto sugli eventi di Messana, ma promise di riferire al Bureau che avevo prestato aiuto."
+  },
+  {
+   "id": "acted.douglas.pan.heart",
+   "label": "Agì: Douglas Moore",
+   "desc": "L’ispettore Moore decise che al Lyterion non c’era nulla che meritasse un’indagine del Bureau."
+  },
+  {
+   "id": "acted.douglas.project.solar.lantern",
+   "label": "Agì: Douglas Moore",
+   "desc": "L’ispettore Moore venne a indagare sui probabili moventi di un sabotaggio dell’Impresa Reale da parte di clero anticonformista... e se ne andò con «un’idea molto più chiara su chi potrebbe aver bisogno di essere arrestato»."
+  },
+  {
+   "id": "acted.douglas.wound.heart",
+   "label": "Agì: Douglas Moore",
+   "desc": "L’ispettore Moore concluse che il «Reverendo Aperto» avrebbe dovuto essere chiuso in modo permanente."
+  },
+  {
+   "id": "acted.ehsan.curse.heart",
+   "label": "Agì: Ehsan",
+   "desc": "Ehsan, a cui il Bureau aveva chiesto di aiutarlo a risolvere la faccenda di Grunewald, venne alla Hush House in cerca di modi per proteggersi durante il processo."
+  },
+  {
+   "id": "acted.ehsan.observe.scaly.sky",
+   "label": "Agì: Ehsan",
+   "desc": "Ehsan si mise a soccorrere i pazienti che avevano udito il richiamo delle nuvole – sopprimendo la loro mania di viaggiare verso Ovest – sebbene non senza qualche scrupolo."
+  },
+  {
+   "id": "acted.ehsan.opera.apollo.sky",
+   "label": "Agì: Ehsan",
+   "desc": "Ciò che Ehsan apprese alla Hush House lo convinse che la produzione non avrebbe turbato i cieli inferiori – specialmente, forse, con la sua intercessione."
+  },
+  {
+   "id": "acted.ehsan.pan.heart",
+   "label": "Agì: Ehsan",
+   "desc": "Ehsan notò una somiglianza fra le operazioni del Lyterion, e l’opera di Thirza Blake, settima Archivista della Casa."
+  },
+  {
+   "id": "acted.ehsan.project.ingenious.sky",
+   "label": "Agì: Ehsan",
+   "desc": "Ehsan aveva sperato che la composizione commemorativa di Zidane potesse essere eseguita proprio sull’Allodola Incompiuta – ma dopo aver approfondito la questione alla Hush House, giunse a credere che potesse essere troppo pericoloso."
+  },
+  {
+   "id": "acted.ehsan.wound.heart",
+   "label": "Agì: Ehsan",
+   "desc": "Ehsan si convinse che il Reverendo Aperto avesse attirato l’attenzione della Madre delle Formiche – ma decise, ciò nonostante, che avrebbe tentato di guarire il pover’uomo."
+  },
+  {
+   "id": "acted.franklin.numa.grail.a.grail",
+   "label": "Agì: Bancroft",
+   "desc": "«...fare affidamento su un poeta per…ciarlatano. Nostra figlia...»"
+  },
+  {
+   "id": "acted.franklin.numa.grail.b.grail",
+   "label": "Agì: Bancroft",
+   "desc": "«...una volta iniziato, non ha fine. Senza il Graal, nessun Intercalato; senza l’Intercalato, come farebbero le Ore a non...»"
+  },
+  {
+   "id": "acted.franklin.numa.wood.grail",
+   "label": "Agì: Bancroft",
+   "desc": "«...ottimismo? Se così vuoi chiamarlo! Non nego le Ore. Ma chi altri se non noi scriverebbe queste Storie, di fronte a tutte le luci della Gloria, se...»"
+  },
+  {
+   "id": "acted.fraser.hunt.changing.scale",
+   "label": "Agì: Strathcoyne",
+   "desc": "Fraser Strathcoyne sperava, ma non si aspettava, di proteggere Abecassis dai suoi cacciatori."
+  },
+  {
+   "id": "acted.fraser.mystical.lantern",
+   "label": "Agì: Strathcoyne",
+   "desc": "Fraser Strathcoyne credeva che qualcosa avesse richiamato al mondo gli Obliviat – i Lunghi che si erano ritirati in isolamento a Port Noon."
+  },
+  {
+   "id": "acted.fraser.observe.scaly.scale",
+   "label": "Agì: Strathcoyne",
+   "desc": "Fraser Strathcoyne era impaziente di viaggiare verso Ovest e abbracciare la propria seconda natura latente."
+  },
+  {
+   "id": "acted.fraser.omen.dawn.lantern",
+   "label": "Agì: Strathcoyne",
+   "desc": "Fraser Strathcoyne decise, con un certo rammarico, che gli eventi di Messana non avevano nulla a che fare con i propri sogni ricorrenti di occhi..."
+  },
+  {
+   "id": "acted.fraser.project.solar.lantern",
+   "label": "Agì: Strathcoyne",
+   "desc": "Il comitato approvvigionamenti dell’Impresa Reale era, a quanto pare, uno dei tanti clienti di Fraser Strathcoyne. E così venne alla Hush House per approfondire le loro richieste. «Corazzate; aerostati; locomotive. Cos’hanno in comune tutte queste cose, Archivista? Te lo dico io: i nomi.»"
+  },
+  {
+   "id": "acted.fraser.rising.scale",
+   "label": "Agì: Strathcoyne",
+   "desc": "Fraser Strathcoyne venne a Brancrug per interpretare un oracolo dato dal Tempo dell’Ascesa; e si convinse di discendere dalla stirpe Scimafectra della Croce del Carapace; gli «Alati di Gloria»."
+  },
+  {
+   "id": "acted.fraser.rite.awakening.scale",
+   "label": "Agì: Strathcoyne",
+   "desc": "Fraser Strathcoyne dichiarò l’intenzione di affogare l’immagine di sandalo della chiesa di Strasburgo, sperando che potesse «svilupparsi ulteriormente»."
+  },
+  {
+   "id": "acted.hokobald.heist.forge",
+   "label": "Agì: Hokobald",
+   "desc": "Il Magister Hokobald, assunto da Oriflamme per apportare migliorie al loro caveau, pensava di aver forse trovato informazioni utili alla Hush House... sebbene tenesse a precisare che non erano <i>molto</i> utili."
+  },
+  {
+   "id": "acted.hokobald.opera.apollo.grail",
+   "label": "Agì: Hokobald",
+   "desc": "Dopo aver visitato la Hush House, il Magister Hokobald credette di aver stabilito i doni più adatti per gli interpreti. Per poco non mi ringraziò."
+  },
+  {
+   "id": "acted.hokobald.opera.wings.grail",
+   "label": "Agì: Hokobald",
+   "desc": "Dopo aver visitato la Hush House, il Magister Hokobald si sentì pronto a trarre «pieno vantaggio» dall’imminente disastro operistico. Sebbene non sembrasse particolarmente grato."
+  },
+  {
+   "id": "acted.hokobald.project.ingenious.forge",
+   "label": "Agì: Hokobald",
+   "desc": "Il Magister Hokobald progettava di «recuperare» l’opera di Zidane quando fosse stata (come sperava) venduta come rottame."
+  },
+  {
+   "id": "acted.hokobald.project.solar.forge",
+   "label": "Agì: Hokobald",
+   "desc": "Il Magister Hokobald venne alla Hush House per apprendere quanto possibile sugli scopi e la natura dell’Impresa Reale. Sembrò soddisfatto dell’Impresa; sembrò quasi soddisfatto della Hush House."
+  },
+  {
+   "id": "acted.hokobald.revolution.grail",
+   "label": "Agì: Hokobald",
+   "desc": "Hokobald trovò ciò che gli serviva su «genealogia, o cucina, o argomenti affini», sebbene non fosse disposto a rivelare quale legame questi argomenti potessero avere con la rivoluzione nei Confini."
+  },
+  {
+   "id": "acted.julian.numa.moon.a.moon",
+   "label": "Agì: Coseley",
+   "desc": "«...Ys, l’eccezione, ma nessuna eccezione all’Eternità può durare per sempre. Ecco, è proprio questo il punto! Solo quando l’ho accettato...»"
+  },
+  {
+   "id": "acted.julian.numa.moon.b.moon",
+   "label": "Agì: Coseley",
+   "desc": "«...la mia arroganza, lottai per rovesciare la Necessità. Non dirò che il mio tempo fu sprecato – nessun colpo inferto contro la tirannia è sprecato. Ma solo quando vidi...»"
+  },
+  {
+   "id": "acted.julian.numa.winter.a.winter",
+   "label": "Agì: Coseley",
+   "desc": "«...finali come la luce pallida prima di un’alba pallida. Di una prima volta possiamo sempre essere certi – non possiamo mai essere certi di quando sia l’ultima...»"
+  },
+  {
+   "id": "acted.morgen.observe.scaly.sky",
+   "label": "Agì: Morgen",
+   "desc": "Mlle Matutine, armata di conoscenza, viaggiò verso Ovest per vedere la faccenda con i propri occhi; e avvertì che qualcosa avrebbe potuto raggiungere anche le nuvole sopra Brancrug."
+  },
+  {
+   "id": "acted.morgen.opera.apollo.grail",
+   "label": "Agì: Morgen",
+   "desc": "Mlle Matutine era sicura che sarebbe stata la donna vestita meglio fra il pubblico."
+  },
+  {
+   "id": "acted.morgen.opera.apollo.sky",
+   "label": "Agì: Morgen",
+   "desc": "Mlle Matutine era sicura che sarebbe stata la donna vestita meglio fra il pubblico... anche se aveva deciso di allontanarsi dal proprio stile abituale."
+  },
+  {
+   "id": "acted.morgen.opera.wings.grail",
+   "label": "Agì: Morgen",
+   "desc": "Mlle Matutine si recò a Venezia, pronta per una «catastrofe» alla prima dell’opera. Rifletté che «la Terra è più densa del sangue» – alludendo, forse, a un qualche legame con la stirpe di Antaios?"
+  },
+  {
+   "id": "acted.morgen.project.ingenious.sky",
+   "label": "Agì: Morgen",
+   "desc": "Mlle Matutine sperava di completare l’opera di Zidane; e alla Hush House, o almeno così credeva, trovò ciò che le serviva per farlo."
+  },
+  {
+   "id": "acted.morgen.revolution.grail",
+   "label": "Agì: Morgen",
+   "desc": "Mlle Matutine era certa che avrebbe trovato il pasto che cercava, tra le battaglie nei Confini."
+  },
+  {
+   "id": "acted.olympe.heist.forge",
+   "label": "Agì: Olympe",
+   "desc": "Mme Bechet pensava di aver individuato delle stranezze nel resoconto di Oriflamme sulle proprie misure di sicurezza... e ciò che trovò alla Hush House la incoraggiò ad approfondire la questione."
+  },
+  {
+   "id": "acted.olympe.lost.find.moth",
+   "label": "Agì: Olympe",
+   "desc": "Mme Bechet non aveva alcuna intenzione di spingersi fino a Miah... ma dopo aver approfondito la questione alla Casa, si ricordò di una persona di sua fiducia che avrebbe potuto andarci al posto suo."
+  },
+  {
+   "id": "acted.olympe.opera.wings.moth",
+   "label": "Agì: Olympe",
+   "desc": "Mme Bechet sperava di aiutare un amico a portare a termine la rappresentazione, o quantomeno a sopravviverle. Alla Hush House, trovò qualcosa che sperava potesse essere d’aiuto."
+  },
+  {
+   "id": "acted.olympe.project.ingenious.forge",
+   "label": "Agì: Olympe",
+   "desc": "Alla Hush House, Mme Bechet apprese abbastanza (sperava) da persuadere una ricca mecenate ad acquistare l’Allodola Incompiuta, e salvarla dalla vendita come rottame da parte delle autorità."
+  },
+  {
+   "id": "acted.olympe.project.solar.forge",
+   "label": "Agì: Olympe",
+   "desc": "Dopo la sua visita alla Hush House, Mme Bechet giunse a credere che l’Impresa Reale fosse associata alla Seconda Alba... che, a suo parere, avrebbe preferito a una guerra."
+  },
+  {
+   "id": "acted.rowena.numa.grail.a.grail",
+   "label": "Agì: Rowena",
+   "desc": "«Se fossi qui, questo mi conforterebbe; se fossi qui, ti ricompenserei meglio di quanto faccia ora.»"
+  },
+  {
+   "id": "acted.rowena.numa.grail.b.grail",
+   "label": "Agì: Rowena",
+   "desc": "«Se fossi qui… forse sarebbero stati i Gemelli a portarmi. Sono i Gemelli a unire ciò che non dev’essere separato. E così condivido il loro patrocinio con le mie sorelle-di-sangue. Come diceva Bancroft, esistono altri appetiti oltre all’amore.»"
+  },
+  {
+   "id": "acted.rowena.numa.winter.a.winter",
+   "label": "Agì: Rowena",
+   "desc": "«Quando ero qui – quando arrivai qui, la prima volta – che rabbia provavo. Essere stata scartata dopo aver aperto la via – quello era il meno. Aver aperto la via – quello era il peggio. Sebbene, un tempo, pensassi fosse il contrario.»"
+  },
+  {
+   "id": "acted.rowena.numa.wood.grail",
+   "label": "Agì: Rowena",
+   "desc": "«Quando ero qui – la prima volta – il primo sacrificio che feci fu al Graal. Senza quello, non ci sarebbe affatto la Hush House. Oh, la pietra del patto, l’albero, tutto quanto, forse. Ma ricorda che tutto comincia con una nascita.»"
+  },
+  {
+   "id": "acted.serena.heist.forge",
+   "label": "Agì: Serena",
+   "desc": "La Dr Blackwood sospettò che qualcuno presso Oriflamme avesse inventato di persona la storia del colpo. Non riusciva a immaginare perché – ma apprese abbastanza da me da essere presa sul serio dal suo contatto lì."
+  },
+  {
+   "id": "acted.serena.mystical.lantern",
+   "label": "Agì: Serena",
+   "desc": "La Dr Blackwood liquidò l’intera faccenda dei culti come un’illusione popolare in un’epoca di cambiamento."
+  },
+  {
+   "id": "acted.serena.omen.dawn.lantern",
+   "label": "Agì: Serena",
+   "desc": "Dopo la sua visita a Brancrug, la Dr Blackwood sospettò fortemente che la causa della faccenda di Messana non fosse un Nome del Guardiano... ma un Nome del Chandler."
+  },
+  {
+   "id": "acted.serena.project.ingenious.forge",
+   "label": "Agì: Serena",
+   "desc": "Qualunque cosa la Dr Blackwood avesse trovato alla Hush House, la convinse che Zidane avesse usato «metallo di Ys» nella propria opera."
+  },
+  {
+   "id": "acted.serena.project.solar.forge",
+   "label": "Agì: Serena",
+   "desc": "La Dr Blackwood temeva che l’Impresa Reale potesse essere, in un certo senso, la rinascita delle «alchimie della Casa di Lancaster»... forse perfino un ritorno, in un certo senso, ai giorni dei Sovrani della Fiamma Incatenata."
+  },
+  {
+   "id": "acted.serena.project.solar.lantern",
+   "label": "Agì: Serena",
+   "desc": "La Dr Blackwood era convinta che l’Impresa Reale fosse fondamentalmente una questione di luce... ma che potesse essere collegata all’Ora paradossale e minacciosa nota come Chandler."
+  },
+  {
+   "id": "acted.stanislav.curse.heart",
+   "label": "Agì: Padre Stanislav",
+   "desc": "Padre Schaller partì per il Frutteto degli Immortali Verdi con una «scultura di cera irrequieta» – dopo aver trovato alla Hush House ciò che gli serviva per tenere la cosa contenuta durante il viaggio."
+  },
+  {
+   "id": "acted.stanislav.pan.heart",
+   "label": "Agì: Padre Stanislav",
+   "desc": "Padre Schaller decise di parlare con alcuni dei frequentatori del Lyterion, sperando di comprendere un mutamento «nel ritmo del battito del mondo»."
+  },
+  {
+   "id": "acted.stanislav.pan.nectar",
+   "label": "Agì: Padre Stanislav",
+   "desc": "Padre Schaller decise di visitare la Foresta Nera, intuendo un’opportunità perché qualcosa di antico rinascesse – «nel modo giusto o in quello sbagliato»."
+  },
+  {
+   "id": "acted.stanislav.rite.awakening.nectar",
+   "label": "Agì: Padre Stanislav",
+   "desc": "Padre Schaller dichiarò l’intenzione di seppellire l’immagine detta «Santo di Sandalo», sperando che potesse crescere... ma solo lentamente, e nella stagione giusta."
+  },
+  {
+   "id": "acted.stanislav.rite.renewal.nectar",
+   "label": "Agì: Padre Stanislav",
+   "desc": "Padre Schaller venne alla Hush House per indagare sulla possibilità che il rito fosse una trappola dell’Haustorium... e menzionò, forse solo di sfuggita, di aver curato la «reincorporazione» di Teresa Galmier."
+  },
+  {
+   "id": "acted.stanislav.wound.heart",
+   "label": "Agì: Padre Stanislav",
+   "desc": "Padre Schaller, che un tempo era stato amico del Reverendo Aperto, sentì di aver appreso abbastanza da dargli «ciò che avrebbe potuto desiderare»."
+  },
+  {
+   "id": "acted.yvette.box.moon",
+   "label": "Agì: Yvette",
+   "desc": "La Dr Southey, ispirata dalle storie sulla Bara di St Mihail a indagare sulla storia del sarcofago di St Columba, sembrò trovare ciò che cercava. «Sempre la marea», disse..."
+  },
+  {
+   "id": "acted.yvette.curse.winter",
+   "label": "Agì: Yvette",
+   "desc": "La Dr Southey aveva acquistato uno degli articoli di Grunewald. Ciò che apprese alla Hush House la convinse a disfarsene."
+  },
+  {
+   "id": "acted.yvette.intrusion.winter",
+   "label": "Agì: Yvette",
+   "desc": "La Dr Southey andò a interrogare Hobson a Cracovia – ma passò prima dalla Hush House per assicurarsi di comprendere i pericoli che ciò avrebbe potuto comportare."
+  },
+  {
+   "id": "acted.yvette.mob.moon",
+   "label": "Agì: Yvette",
+   "desc": "La Dr Southey giunse a sospettare che il commercio di anni di vita dei Conteggiatori potesse spiegare come mai un’antenata a Brancrug avesse partorito un figlio così tardi nella vita..."
+  },
+  {
+   "id": "acted.yvette.mystical.winter",
+   "label": "Agì: Yvette",
+   "desc": "La Dr Southey rifiutò le lusinghe del culto detto Alba d’Avorio... ma sospettò che la onorassero a motivo di una «pre-immortale» nel suo lignaggio."
+  },
+  {
+   "id": "acted.yvette.rising.moon",
+   "label": "Agì: Yvette",
+   "desc": "La Dr Southey, tormentata dai sogni, temeva la morte per acqua."
+  },
+  {
+   "id": "acted.yvette.rite.renewal.moon",
+   "label": "Agì: Yvette",
+   "desc": "Il paziente della Dr Southey credeva che sarebbe rinato al Lago Gladwyn sotto la luna – e lei decise, dopo aver visitato la Hush House, che sarebbe stato inutile tentare di impedirgli di andare. «Sempre la marea...»"
+  },
+  {
+   "id": "acted.yvette.wound.winter",
+   "label": "Agì: Yvette",
+   "desc": "La Dr Southey sapeva che non avrebbe mai potuto sperare di guarire la carne del Reverendo Aperto – ma lui era stato uno dei suoi pazienti, e pensò che forse sarebbe potuto tornare a esserlo."
+  },
+  {
+   "id": "acted.zachary.box.knock",
+   "label": "Agì: Zachary",
+   "desc": "Zachary Wakefield sembrava pensare di aver trovato, qui alla Hush House, il nome della chiave della bara."
+  },
+  {
+   "id": "acted.zachary.curse.winter",
+   "label": "Agì: Zachary",
+   "desc": "Zachary Wakefield concluse in modo oscuro che, nella faccenda di Grunewald, poteva avere abbastanza per comprendere le possibilità di chiarità, conducività, e «forme ovitiche»."
+  },
+  {
+   "id": "acted.zachary.heist.knock",
+   "label": "Agì: Zachary",
+   "desc": "Zachary Wakefield fu reticente riguardo ai propri sospetti su cosa fosse realmente accaduto da Oriflamme, ma condivise comunque un indizio: «Una porta si chiude, un’altra porta si apre. E un’altra ancora.»"
+  },
+  {
+   "id": "acted.zachary.intrusion.knock",
+   "label": "Agì: Zachary",
+   "desc": "Zachary Wakefield opinò che Hobson, che era stato suo amico, potesse ora essere i suoi amici. Posto di fronte a una scelta fra «fuori» e «giù», scelse «fuori»."
+  },
+  {
+   "id": "acted.zachary.intrusion.winter",
+   "label": "Agì: Zachary",
+   "desc": "Zachary Wakefield opinò che Hobson, che era stato suo amico, potesse ora essere i suoi amici. Posto di fronte a una scelta fra «fuori» e «giù», scelse «giù»."
+  },
+  {
+   "id": "acted.zachary.mystical.winter",
+   "label": "Agì: Zachary",
+   "desc": "Non era chiaro cosa Zachary Wakefield intendesse fare con la nuova ondata di culti... ma era chiaro che non si trattava di nulla di particolarmente costruttivo."
+  },
+  {
+   "id": "acted.zachary.wound.winter",
+   "label": "Agì: Zachary",
+   "desc": "Zachary Wakefield si rammaricò che il Reverendo Aperto potesse aprirsi solo verso l’esterno... ma espresse sollievo per il fatto che «la sua sofferenza non dovesse più protrarsi»."
+  }
+ ]
+}

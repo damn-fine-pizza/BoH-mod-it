@@ -1,0 +1,235 @@
+{
+    "elements": [
+        {
+            "id": "embarking_agdistis",
+            "label": "Mr Peter Agdistis",
+            "desc":"[Mr Agdistis will leave soon.]",
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.heart":1,"interest.sky":1},
+            "xtriggers":{"arriving":"agdistis"},
+            "xexts":{"dissatisfying":"'You have nothing? No matter, no matter! There's always another time.'"}
+        },
+
+  {
+            "id": "embarking_aladim",
+            "label": "Dr Ibn al-Adim",
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.scale":1,"interest.rose":1},
+            "xtriggers":{"arriving":"aladim"},
+            "xexts":{"dissatisfying":"'Mm. Well, no doubt we shall see each other again.'"}
+        },
+
+        {
+            "id": "embarking_arthur",
+            "label": "Lt Arthur Thomas Moore (Ret.)",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.lantern":1,"interest.edge":1},
+            "xtriggers":{"arriving":"arthur"},
+            "xexts":{"dissatisfying":"'Then I'll have to find my enlightenment somewhere else. Good day to you.'"}
+        },        {
+            "id": "embarking_arun",
+            "label": "Dr Arun Peel",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.moon":1,"interest.moth":1},
+            "xtriggers":{"arriving":"arun"},
+            "xexts":{"dissatisfying":"'Never mind. The traveller is always returning, no? So if I come back later, am I returning then? Or am I returning now?'"}
+        },
+        {
+            "id": "embarking_azita",
+            "label": "Ms Azita Bukhara",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.edge":1,"interest.grail":1},
+            "xtriggers":{"arriving":"azita"},
+            "xexts":{"dissatisfying":"'My move, then...'"}
+        },
+        {
+            "id": "embarking_auntmopsy",
+            "label": "A.M.",
+            "inherits":"_visitor.embarking",
+            "aspects":{"numatic":1,"interest.moon":1,"interest.nectar":1},
+            "xtriggers":{"arriving":"auntmopsy"},
+            "xexts":{"dissatisfying":"'The Mare's blessings on you. And your Tree.'"}
+        },
+        {
+            "id": "embarking_chaima",
+            "label": "Lalla Chaima",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.edge":1,"interest.rose":1},
+            "xtriggers":{"arriving":"chaima"},
+            "xexts":{"dissatisfying":"'And your weather. Your weather is also a disappointment.'"}
+        },
+        {
+            "id": "embarking_connie",
+            "label": "MCO Constance Lee",
+
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.sky":1,"interest.moon":1},
+            "xtriggers":{"arriving":"connie"},
+            "xexts":{"dissatisfying":"'I can't believe we used to fund this place.'"}
+        },
+        {
+            "id": "embarking_coquille",
+            "label": "Princess Coquille Amirejibi",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.grail":1,"interest.knock":1},
+            "xtriggers":{"arriving":"coquille"},
+            "xexts":{"dissatisfying":"'Oh, sweetie. I'm not disappointed, just... well, perhaps I'm a <i>little</i> disappointed.'"}
+        },
+        {
+            "id": "embarking_corso",
+            "label": "Sr. Corso Reverte",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.grail":1,"interest.lantern":1},
+            "xtriggers":{"arriving":"corso"},
+            "xexts":{"dissatisfying":"'Well, I have other contacts...'"}
+        },
+        {
+            "id": "embarking_dagmar",
+            "label": "'Daymare'",
+  
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.knock":1,"interest.rose":1},
+            "xtriggers":{"arriving":"dagmar"},
+            "xexts":{"dissatisfying":"'Not to worry! Nice to get a bit of sea air.'"}
+        },
+        {
+            "id": "embarking_douglas",
+            "label": "DI Douglas Moore",
+    
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.lantern":1,"interest.heart":1},
+            "xtriggers":{"arriving":"douglas"},
+            "xexts":{"dissatisfying":"'Well, mustn't grumble.'"}
+        },
+        {
+            "id": "embarking_ehsan",
+            "label": "Mr Ehsan Fekri",
+       
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.sky":1,"interest.forge":1},
+            "xtriggers":{"arriving":"ehsan"},
+            "xexts":{"dissatisfying":"'I know the House has been through hard times. But though much is taken, much abides, does it not? Another time.'"}
+        },
+
+        {
+            "id": "embarking_franklin",
+            "label": "Lord Franklin Bancroft",
+            "inherits": "_visitor.embarking",
+            "aspects": {
+                "numatic":1,
+                "interest.grail": 1,
+                "interest.winter": 1
+            },
+             "xtriggers":{"arriving":"franklin"},
+             "xexts":{"dissatisfying":"'That's the bloody thing about bloody libraries."}
+          },
+
+        {
+            "id": "embarking_fraser",
+            "label": "Mr Fraser Strathcoyne",            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.lantern":1,"interest.sky":1},
+            "xtriggers":{"arriving":"fraser"},
+            "xexts":{"dissatisfying":"'This would not have happened in the time of the Curia of the Isle. Goodbye.'"}
+        },
+
+
+        {
+            "id": "embarking_hokobald",
+            "label": "Magister Hokobald",
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.forge":5,"interest.grail":5},
+            "xtriggers":{"arriving":"hokobald"},
+            "xexts":{"dissatisfying":"'Why is this damned place always so damned desperate to waste my damned time?'"}
+        },
+
+        {
+            "id": "embarking_julian",
+            "label": "Julian Coseley",
+            "inherits":"_visitor.embarking",
+            "aspects":{"numatic":1,"interest.moon":5,"interest.winter":5},
+            "xtriggers":{"arriving":"julian"},
+            "xexts":{"dissatisfying":"'Sometimes, the end comes sooner. Sometimes, there's no damned end to it at all.'"}
+        },
+
+
+        {
+            "id": "embarking_morgen",
+            "label": "Mlle Margot Matutine",
+   
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.sky":1,"interest.grail":1},
+            "xtriggers":{"arriving":"morgen"},
+            "xexts":{"dissatisfying":"'I arrive hungry. I leave <i>famished</i>. Someone will regret that... but not you, not today.'"}  
+        },
+        {
+            "id": "embarking_olympe",
+            "label": "Mme Olympe Bechet",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.forge":1,"interest.moth":1},
+            "xtriggers":{"arriving":"olympe"},
+            "xexts": {
+              "dissatisfying": "'<i>C'est la vie.</i>'"
+            }
+        },
+        {
+            "id": "embarking_rowena",
+            "label": "Professor Rowena Hengerst",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"numatic":1,"interest.nectar":1,"interest.winter":1},
+            "xtriggers":{"arriving":"rowena"},
+            "xexts": {
+              "dissatisfying": "The Trust expects better...'"}
+        },
+
+        
+        {
+            "id": "embarking_serena",
+            "label": "Dr Serena Blackwood",
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.forge":1,"interest.lantern":1},
+            "xtriggers":{"arriving":"serena"},
+            "xexts": {
+              "dissatisfying": "'So much has been lost, hasn't it? I don't envy you. Good luck.'"
+            }
+        },   
+        {
+            "id": "embarking_stanislav",
+            "label": "Fr. Stanislav John Schaller",
+            
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.heart":1,"interest.nectar":1},
+            "xtriggers":{"arriving":"stanislav"},
+            "xexts": {
+              "dissatisfying": "'As God wills, I suppose. (Don't ask me which God!)'"
+            }
+        },
+        {
+            "id": "embarking_yvette",
+            "label": "Dr Yvette Southey",
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.moon":1,"interest.winter":1},
+            "xtriggers":{"arriving":"yvette"},
+            "xexts":{"dissatisfying":"'Perhaps I'll never understand...'"}
+        },
+        {
+            "id": "embarking_zachary",
+            "label": "Mr Zachary Wakefield",
+            "inherits":"_visitor.embarking",
+            "aspects":{"interest.winter":1,"interest.knock":1},
+            "xtriggers":{"arriving":"zachary"},
+            "xexts": {
+              "dissatisfying": "Wakefield says nothing at all. But then, he seldom does."
+            }
+        }
+
+    ]
+}

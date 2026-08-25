@@ -1,0 +1,2027 @@
+[
+ {
+  "en": "Brew the bright ink ashartine from the ichor.\n\n[Watchman's Paradoxes with Keeper-level <sprite name=lantern>, plus Ichor Vitreous, creates Ashartine.]",
+  "dove": "recipes/craft.keeper.watchmansparadoxes_lantern_ichor.vitreous_ashartine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brighten the essence into the <i>encaustum terminale</i> Uzult.\n\n[Glaziery & Lightsmithing with Keeper-level <sprite name=lantern>, plus Xanthotic Essence, creates Uzult.]",
+  "dove": "recipes/craft.keeper.glaziery.lightsmithing_lantern_essence.xanthotic_uzult.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brighten the essence into the <i>encaustum terminale</i> Uzult.\n\n[Inks of Revelation with Keeper-level <sprite name=lantern>, plus Xanthotic Essence, creates Uzult.]",
+  "dove": "recipes/craft.keeper.inks.revelation_lantern_essence.xanthotic_uzult.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brighten the essence into the <i>encaustum terminale</i> Uzult.\n\n[Sacra Solis Invicti with Keeper-level <sprite name=lantern>, plus Xanthotic Essence, creates Uzult.]",
+  "dove": "recipes/craft.keeper.sacrasolisinvicti_lantern_essence.xanthotic_uzult.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brighten the essence into the <i>encaustum terminale</i> Uzult.\n\n[Watchman's Paradoxes with Keeper-level <sprite name=lantern>, plus Xanthotic Essence, creates Uzult.]",
+  "dove": "recipes/craft.keeper.watchmansparadoxes_lantern_essence.xanthotic_uzult.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain Relic… byproducts… can be repurposed to brew a Scale-ink.\n\n[Horns & Ivories with Keeper-level <sprite name=scale>, plus Living Relic, creates Houndsgall.]",
+  "dove": "recipes/craft.keeper.horns.ivories_scale_relic.living_houndsgall.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain Relic… byproducts… can be repurposed to brew a Scale-ink.\n\n[Inks of Containment with Keeper-level <sprite name=scale>, plus Living Relic, creates Houndsgall.]",
+  "dove": "recipes/craft.keeper.inks.containment_scale_relic.living_houndsgall.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain Relic… byproducts… can be repurposed to brew a Scale-ink.\n\n[Path & Pilgrim with Keeper-level <sprite name=scale>, plus Living Relic, creates Houndsgall.]",
+  "dove": "recipes/craft.keeper.path.pilgrim_scale_relic.living_houndsgall.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Certain Relic… byproducts… can be repurposed to brew a Scale-ink.\n\n[Pentiments & Precursors with Keeper-level <sprite name=scale>, plus Living Relic, creates Houndsgall.]",
+  "dove": "recipes/craft.keeper.pentiments.precursors_scale_relic.living_houndsgall.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Clarify the preparation into the <i>encaustum terminale</i> Nillycant.\n\n[Inks of Containment with Keeper-level <sprite name=winter>, plus Solomon's Preparation, creates Nillycant.]",
+  "dove": "recipes/craft.keeper.inks.containment_winter_liquid.solomon_nillycant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Clarify the preparation into the <i>encaustum terminale</i> Nillycant.\n\n[Sights & Sensations with Keeper-level <sprite name=winter>, plus Solomon's Preparation, creates Nillycant.]",
+  "dove": "recipes/craft.keeper.sights.sensations_winter_liquid.solomon_nillycant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coax the larva to develop into a greater Moth-beast.\n\n[Insects & Nectars with Keeper-level <sprite name=moth>, plus Chimeric Larva, creates Perilous Imago.]",
+  "dove": "recipes/craft.keeper.insects.nectars_moth_larva.chimeric_perilous imago.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coax the larva to develop into a greater Moth-beast.\n\n[Resurgences & Emergences with Keeper-level <sprite name=moth>, plus Chimeric Larva, creates Perilous Imago.]",
+  "dove": "recipes/craft.keeper.resurgences.emergences_moth_larva.chimeric_perilous imago.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Coax the larva to develop into a greater Moth-beast.\n\n[Transformations & Liberations with Keeper-level <sprite name=moth>, plus Chimeric Larva, creates Perilous Imago.]",
+  "dove": "recipes/craft.keeper.transformations.liberations_moth_larva.chimeric_perilous imago.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft a remedy against age from the celestial influence-trace that striate these remnants.\n\n[Ouranoscopy with Keeper-level <sprite name=sky>, plus Essential Periost, creates Year-Tally.]",
+  "dove": "recipes/craft.keeper.ouranoscopy_sky_essential.periost_year-tally.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft: Ashartine",
+  "dove": "recipes/craft.keeper.anbary.lapidary_sky_ichor.vitreous_ashartine.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Azoth",
+  "dove": "recipes/craft.keeper.bells.brazieries_forge_wire.orichalcum_azoth.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Craft: Black Sapphire Wash",
+  "dove": "recipes/craft.keeper.desires.dissolutions_moon_asimel_black sapphire wash.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Chronsichord",
+  "dove": "recipes/craft.keeper.glassblowing.vesselcrafting_knock_gervinite_chronsichord.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Didumos",
+  "dove": "recipes/craft.keeper.applebrighteuphonies_sky_ascendant.harmony_didumos.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Earthquake Name",
+  "dove": "recipes/craft.keeper.coil.chasm_scale_old.moment_earthquake name.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Flushed Mommet",
+  "dove": "recipes/craft.keeper.desires.dissolutions_grail_pale.mommet_flushed mommet.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Forbidden Epic",
+  "dove": "recipes/craft.keeper.edictsmartial_moon_confounding.parable_forbidden epic.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft: Horizon-Sight",
+  "dove": "recipes/craft.keeper.path.pilgrim_rose_enduring.reflection_horizon-sight.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Houndsgall",
+  "dove": "recipes/craft.keeper.horns.ivories_scale_relic.living_houndsgall.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Invincible Audacity",
+  "dove": "recipes/craft.keeper.auroralcontemplations_edge_winning.move_invincible audacity.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Iotic Essence",
+  "dove": "recipes/craft.keeper.disciplines.thehammer_forge_essence.xanthotic_iotic essence.label",
+  "ricorre": 11
+ },
+ {
+  "en": "Craft: January Sanguinary",
+  "dove": "recipes/craft.keeper.edictsinviolable_heart_liquid.gideon_january sanguinary.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Marakat",
+  "dove": "recipes/craft.keeper.inks.power_nectar_leathy_marakat.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Nillycant",
+  "dove": "recipes/craft.keeper.inks.containment_winter_liquid.solomon_nillycant.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Orpiment Exultant",
+  "dove": "recipes/craft.keeper.anbary.lapidary_forge_essence.iotic_orpiment exultant.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Perilous Imago",
+  "dove": "recipes/craft.keeper.insects.nectars_moon_larva.chimeric_perilous imago.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Porphyrine",
+  "dove": "recipes/craft.keeper.auroralcontemplations_lantern_ichor.auroral_porphyrine.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Sacrament Ascite",
+  "dove": "recipes/craft.keeper.door.wall_knock_toxin.glassfinger_sacrament ascite.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Sacrament Calicite",
+  "dove": "recipes/craft.keeper.applebrighteuphonies_grail_rubywise.ruin_sacrament calicite.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Sacrament Malachite",
+  "dove": "recipes/craft.keeper.coil.chasm_nectar_pyrus.auricalcinus_sacrament malachite.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Craft: Serpent-Milk",
+  "dove": "recipes/craft.keeper.disciplines.thescar_edge_perinculate_serpent-milk.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Skinshuck Mead",
+  "dove": "recipes/craft.keeper.edictsliminal_moth_honey.cuckoo_skinshuck mead.label",
+  "ricorre": 11
+ },
+ {
+  "en": "Craft: Swaddled Thunder",
+  "dove": "recipes/craft.keeper.drums.dances_heart_music.thunderskin_swaddled thunder.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Uzult",
+  "dove": "recipes/craft.keeper.anbary.lapidary_lantern_essence.xanthotic_uzult.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Wind-in-Waiting",
+  "dove": "recipes/craft.keeper.furs.feathers_sky_mazarine.fife_wind-in-waiting.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Wormwood Dream",
+  "dove": "recipes/craft.keeper.edictsinviolable_moon_stymphling_wormwood dream.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Wyrd-Weft",
+  "dove": "recipes/craft.keeper.stitching.binding_winter_fabric_wyrd-weft.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Craft: Xanthotic Essence",
+  "dove": "recipes/craft.keeper.purifications.exaltations_lantern_essence.iotic_xanthotic essence.label",
+  "ricorre": 7
+ },
+ {
+  "en": "Craft: Year-Tally",
+  "dove": "recipes/craft.keeper.ouranoscopy_sky_essential.periost_year-tally.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Darken the asimel into a potent Moon-pigment.\n\n[Desires & Dissolutions with Keeper-level <sprite name=moon>, plus Asimel, creates Black Sapphire Wash.]",
+  "dove": "recipes/craft.keeper.desires.dissolutions_moon_asimel_black sapphire wash.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Darken the asimel into a potent Moon-pigment.\n\n[Pearl & Tide with Keeper-level <sprite name=moon>, plus Asimel, creates Black Sapphire Wash.]",
+  "dove": "recipes/craft.keeper.pearl.tide_moon_asimel_black sapphire wash.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Darken the asimel into a potent Moon-pigment.\n\n[Putrefactions & Calcinations with Keeper-level <sprite name=moon>, plus Asimel, creates Black Sapphire Wash.]",
+  "dove": "recipes/craft.keeper.putrefactions.calcinations_moon_asimel_black sapphire wash.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Darken the asimel into a potent Moon-pigment.\n\n[Sea Stories with Keeper-level <sprite name=moon>, plus Asimel, creates Black Sapphire Wash.]",
+  "dove": "recipes/craft.keeper.seastories_moon_asimel_black sapphire wash.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Darken the asimel into a potent Moon-pigment.\n\n[Tridesma Hiera with Keeper-level <sprite name=moon>, plus Asimel, creates Black Sapphire Wash.]",
+  "dove": "recipes/craft.keeper.tridesmahiera_moon_asimel_black sapphire wash.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Deepen the ichor into the <i>encaustum terminale</i> Porphyrine.\n\n[Auroral Contemplations with Keeper-level <sprite name=lantern>, plus Ichor Auroral, creates Porphyrine.]",
+  "dove": "recipes/craft.keeper.auroralcontemplations_lantern_ichor.auroral_porphyrine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Deepen the ichor into the <i>encaustum terminale</i> Porphyrine.\n\n[Inks of Power with Keeper-level <sprite name=rose>, plus Ichor Auroral, creates Porphyrine.]",
+  "dove": "recipes/craft.keeper.inks.power_rose_ichor.auroral_porphyrine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Deepen the ichor into the <i>encaustum terminale</i> Porphyrine.\n\n[Inks of Revelation with Keeper-level <sprite name=rose>, plus Ichor Auroral, creates Porphyrine.]",
+  "dove": "recipes/craft.keeper.inks.revelation_rose_ichor.auroral_porphyrine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Deepen the ichor into the <i>encaustum terminale</i> Porphyrine.\n\n[Sand Stories with Keeper-level <sprite name=rose>, plus Ichor Auroral, creates Porphyrine.]",
+  "dove": "recipes/craft.keeper.sandstories_rose_ichor.auroral_porphyrine.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Discern a potency of Scale.\n\n[Coil & Chasm with Keeper-level <sprite name=scale>, plus Old Moment, creates Earthquake Name.]",
+  "dove": "recipes/craft.keeper.coil.chasm_scale_old.moment_earthquake name.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Discern a potency of Scale.\n\n[Disciplines of the Scar with Keeper-level <sprite name=lantern>, plus Old Moment, creates Earthquake Name.]",
+  "dove": "recipes/craft.keeper.disciplines.thescar_lantern_old.moment_earthquake name.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Discern a potency of Scale.\n\n[Hill & Hollow with Keeper-level <sprite name=scale>, plus Old Moment, creates Earthquake Name.]",
+  "dove": "recipes/craft.keeper.hill.hollow_scale_old.moment_earthquake name.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Discern a potency of Scale.\n\n[Stone Stories with Keeper-level <sprite name=scale>, plus Old Moment, creates Earthquake Name.]",
+  "dove": "recipes/craft.keeper.stonestories_scale_old.moment_earthquake name.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Discern a potency of Scale.\n\n[Wolf Stories with Keeper-level <sprite name=scale>, plus Old Moment, creates Earthquake Name.]",
+  "dove": "recipes/craft.keeper.wolfstories_scale_old.moment_earthquake name.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Winter into a web of little fates.\n\n[Stitching & Binding with Keeper-level <sprite name=winter>, plus fabric, creates Wyrd-Weft.]",
+  "dove": "recipes/craft.keeper.stitching.binding_winter_fabric_wyrd-weft.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw Winter into a web of little fates.\n\n[Weaving & Knotworking with Keeper-level <sprite name=winter>, plus fabric, creates Wyrd-Weft.]",
+  "dove": "recipes/craft.keeper.weaving.knotworking_winter_fabric_wyrd-weft.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw a Rose-vision from this memory.\n\n[Path & Pilgrim with Keeper-level <sprite name=rose>, plus Enduring Reflection, creates Horizon-Sight.]",
+  "dove": "recipes/craft.keeper.path.pilgrim_rose_enduring.reflection_horizon-sight.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw a Rose-vision from this memory.\n\n[Preliminal Meter with Keeper-level <sprite name=rose>, plus Enduring Reflection, creates Horizon-Sight.]",
+  "dove": "recipes/craft.keeper.preliminalmeter_rose_enduring.reflection_horizon-sight.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw a Rose-vision from this memory.\n\n[Sand Stories with Keeper-level <sprite name=rose>, plus Enduring Reflection, creates Horizon-Sight.]",
+  "dove": "recipes/craft.keeper.sandstories_rose_enduring.reflection_horizon-sight.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw a Rose-vision from this memory.\n\n[Sky Stories with Keeper-level <sprite name=rose>, plus Enduring Reflection, creates Horizon-Sight.]",
+  "dove": "recipes/craft.keeper.skystories_rose_enduring.reflection_horizon-sight.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw storm-potential into the weft, to capture more Heart-aspect.\n\n[Quenchings & Quellings with Keeper-level <sprite name=heart>, plus Frith-Weft, creates Swaddled Thunder.]",
+  "dove": "recipes/craft.keeper.quenchings.quellings_heart_frithweft_swaddled thunder.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw storm-potential into the weft, to capture more Heart-aspect.\n\n[Stitching & Binding with Keeper-level <sprite name=heart>, plus Frith-Weft, creates Swaddled Thunder.]",
+  "dove": "recipes/craft.keeper.stitching.binding_heart_frithweft_swaddled thunder.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw storm-potential into the weft, to capture more Heart-aspect.\n\n[Weaving & Knotworking with Keeper-level <sprite name=heart>, plus Frith-Weft, creates Swaddled Thunder.]",
+  "dove": "recipes/craft.keeper.weaving.knotworking_heart_frithweft_swaddled thunder.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw the moon-ink sigils that will bring a star's chilly dream to earth.\n\n[Ouranoscopy with Keeper-level <sprite name=moon>, plus Asimel, creates Didumos.]",
+  "dove": "recipes/craft.keeper.ouranoscopy_moon_asimel_didumos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw, very carefully, on an ancient privilege of the House to manifest Winter.\n\n[Putrefactions & Calcinations with Keeper-level <sprite name=winter>, plus Essential Periost, creates Year-Tally.]",
+  "dove": "recipes/craft.keeper.putrefactions.calcinations_winter_essential.periost_year-tally.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw, very carefully, on an ancient privilege of the House to manifest Winter.\n\n[Ragged Crossroads with Keeper-level <sprite name=winter>, plus Essential Periost, creates Year-Tally.]",
+  "dove": "recipes/craft.keeper.raggedcrossroads_winter_essential.periost_year-tally.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw, very carefully, on an ancient privilege of the House to manifest Winter.\n\n[Rhyme & Remembrance with Keeper-level <sprite name=winter>, plus Essential Periost, creates Year-Tally.]",
+  "dove": "recipes/craft.keeper.rhyme.remembrance_winter_essential.periost_year-tally.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Draw, very carefully, on an ancient privilege of the House to manifest Winter.\n\n[Snow Stories with Keeper-level <sprite name=winter>, plus Essential Periost, creates Year-Tally.]",
+  "dove": "recipes/craft.keeper.snowstories_winter_essential.periost_year-tally.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Drink it in, little one. Drink it in….",
+  "dove": "recipes/craft.keeper.desires.dissolutions_grail_pale.mommet_flushed mommet.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Drum storm-potential into the weft, to capture more Heart-aspect.\n\n[Drums & Dances with Keeper-level <sprite name=heart>, plus Thunderskin's Paean, creates Swaddled Thunder.]",
+  "dove": "recipes/craft.keeper.drums.dances_heart_music.thunderskin_swaddled thunder.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Elaborate the parable into a potent Edge-epic.\n\n[Edicts Martial with Keeper-level <sprite name=moon>, plus Confounding Parable, creates Forbidden Epic.]",
+  "dove": "recipes/craft.keeper.edictsmartial_moon_confounding.parable_forbidden epic.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enliven the soaks into something with a greater Heart-aspect.\n\n[Edicts Inviolable with Keeper-level <sprite name=heart>, plus Gideon's Soaks, creates January Sanguinary.]",
+  "dove": "recipes/craft.keeper.edictsinviolable_heart_liquid.gideon_january sanguinary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enliven the soaks into something with a greater Heart-aspect.\n\n[Herbs & Infusions with Keeper-level <sprite name=heart>, plus Gideon's Soaks, creates January Sanguinary.]",
+  "dove": "recipes/craft.keeper.herbs.infusions_heart_liquid.gideon_january sanguinary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enliven the soaks into something with a greater Heart-aspect.\n\n[Maggephene Mysteries with Keeper-level <sprite name=heart>, plus Gideon's Soaks, creates January Sanguinary.]",
+  "dove": "recipes/craft.keeper.maggephenemysteries_heart_liquid.gideon_january sanguinary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enliven the soaks into something with a greater Heart-aspect.\n\n[Surgeries & Exsanguinations with Keeper-level <sprite name=heart>, plus Gideon's Soaks, creates January Sanguinary.]",
+  "dove": "recipes/craft.keeper.surgeries.exsanguinations_heart_liquid.gideon_january sanguinary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enliven the toxin into something with a greater Heart-aspect.\n\n[Surgeries & Exsanguinations with Keeper-level <sprite name=knock>, plus Glassfinger Toxin, creates January Sanguinary.]",
+  "dove": "recipes/craft.keeper.surgeries.exsanguinations_knock_toxin.glassfinger_january sanguinary.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enrich the ink to a fluid vibrant with Edge-power.\n\n[Disciplines of the Scar with Keeper-level <sprite name=edge>, plus Perinculate, creates Serpent-Milk.]",
+  "dove": "recipes/craft.keeper.disciplines.thescar_edge_perinculate_serpent-milk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enrich the ink to a fluid vibrant with Edge-power.\n\n[Meniscate Reflections with Keeper-level <sprite name=edge>, plus Perinculate, creates Serpent-Milk.]",
+  "dove": "recipes/craft.keeper.meniscatereflections_edge_perinculate_serpent-milk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enrich the ink to a fluid vibrant with Edge-power.\n\n[Serpents & Venoms with Keeper-level <sprite name=scale>, plus Perinculate, creates Serpent-Milk.]",
+  "dove": "recipes/craft.keeper.serpents.venoms_scale_perinculate_serpent-milk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enrich the ink to a fluid vibrant with Edge-power.\n\n[Sharps with Keeper-level <sprite name=edge>, plus Perinculate, creates Serpent-Milk.]",
+  "dove": "recipes/craft.keeper.sharps_edge_perinculate_serpent-milk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Enrich the ink to a fluid vibrant with Edge-power.\n\n[Sickle & Eclipse with Keeper-level <sprite name=edge>, plus Perinculate, creates Serpent-Milk.]",
+  "dove": "recipes/craft.keeper.sickle.eclipse_edge_perinculate_serpent-milk.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Every thread a future, and every other thread a past.",
+  "dove": "recipes/craft.keeper.stitching.binding_winter_fabric_wyrd-weft.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Evoke a chilly Sky-influence.\n\n[Applebright Euphonies with Keeper-level <sprite name=sky>, plus Ascendant Harmony, creates Didumos.]",
+  "dove": "recipes/craft.keeper.applebrighteuphonies_sky_ascendant.harmony_didumos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Evoke a chilly Sky-influence.\n\n[Bells & Brazieries with Keeper-level <sprite name=sky>, plus Ascendant Harmony, creates Didumos.]",
+  "dove": "recipes/craft.keeper.bells.brazieries_sky_ascendant.harmony_didumos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Evoke a chilly Sky-influence.\n\n[Ouranoscopy with Keeper-level <sprite name=sky>, plus Ascendant Harmony, creates Didumos.]",
+  "dove": "recipes/craft.keeper.ouranoscopy_sky_ascendant.harmony_didumos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Evoke a chilly Sky-influence.\n\n[Sacra Limiae with Keeper-level <sprite name=sky>, plus Ascendant Harmony, creates Didumos.]",
+  "dove": "recipes/craft.keeper.sacralimiae_sky_ascendant.harmony_didumos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Evoke a chilly Sky-influence.\n\n[Sights & Sensations with Keeper-level <sprite name=sky>, plus Ascendant Harmony, creates Didumos.]",
+  "dove": "recipes/craft.keeper.sights.sensations_sky_ascendant.harmony_didumos.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Exalt these salts into a golden essence of Lantern-power.\n\n[Purifications & Exaltations with Keeper-level <sprite name=lantern>, plus Bitterblack Salts, creates Xanthotic Essence.]",
+  "dove": "recipes/craft.keeper.purifications.exaltations_lantern_salts.bitterblack_xanthotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Extend your understanding into a more potent Edge-lesson.\n\n[Auroral Contemplations with Keeper-level <sprite name=edge>, plus Winning Move, creates Invincible Audacity.]",
+  "dove": "recipes/craft.keeper.auroralcontemplations_edge_winning.move_invincible audacity.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Extend your understanding into a more potent Edge-lesson.\n\n[Disciplines of the Hammer with Keeper-level <sprite name=edge>, plus Winning Move, creates Invincible Audacity.]",
+  "dove": "recipes/craft.keeper.disciplines.thehammer_edge_winning.move_invincible audacity.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Extend your understanding into a more potent Edge-lesson.\n\n[Edicts Martial with Keeper-level <sprite name=edge>, plus Winning Move, creates Invincible Audacity.]",
+  "dove": "recipes/craft.keeper.edictsmartial_edge_winning.move_invincible audacity.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "From these green-dark earth-memories bone-borne, from these sticks of soul and substance, brew the sacrament which the earth might again claim as blood…\n\n[Stone Stories with Keeper-level <sprite name=nectar>, plus Essential Periost, creates Sacrament Malachite.]",
+  "dove": "recipes/craft.keeper.stonestories_nectar_essential.periost_sacrament malachite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Golden as noon….",
+  "dove": "recipes/craft.keeper.anbary.lapidary_lantern_essence.xanthotic_uzult.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "I wish I hadn't had to see exactly what I was doing, there….",
+  "dove": "recipes/craft.keeper.horns.ivories_scale_relic.living_houndsgall.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "In the name of the Hour that gives life; of the Hour that takes life; of the Hour that is not sated….",
+  "dove": "recipes/craft.keeper.applebrighteuphonies_grail_rubywise.ruin_sacrament calicite.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "In the name of the roots, of the blood, of the buzzing within….",
+  "dove": "recipes/craft.keeper.coil.chasm_nectar_pyrus.auricalcinus_sacrament malachite.desc",
+  "ricorre": 7
+ },
+ {
+  "en": "In the name of the two blades that are one, of the threshold which has two sides….",
+  "dove": "recipes/craft.keeper.door.wall_knock_toxin.glassfinger_sacrament ascite.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "Induce a change in the toxin, to make it more Knock-potent but safer.\n\n[Door & Wall with Keeper-level <sprite name=knock>, plus Glassfinger Toxin, creates Sacrament Ascite.]",
+  "dove": "recipes/craft.keeper.door.wall_knock_toxin.glassfinger_sacrament ascite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Induce a change in the toxin, to make it more Knock-potent but safer.\n\n[Edicts Liminal with Keeper-level <sprite name=knock>, plus Glassfinger Toxin, creates Sacrament Ascite.]",
+  "dove": "recipes/craft.keeper.edictsliminal_knock_toxin.glassfinger_sacrament ascite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Induce a change in the toxin, to make it more Knock-potent but safer.\n\n[Glassblowing & Vesselcrafting with Keeper-level <sprite name=knock>, plus Glassfinger Toxin, creates Sacrament Ascite.]",
+  "dove": "recipes/craft.keeper.glassblowing.vesselcrafting_knock_toxin.glassfinger_sacrament ascite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Induce a change in the toxin, to make it more Knock-potent but safer.\n\n[Horns & Ivories with Keeper-level <sprite name=knock>, plus Glassfinger Toxin, creates Sacrament Ascite.]",
+  "dove": "recipes/craft.keeper.horns.ivories_knock_toxin.glassfinger_sacrament ascite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Induce a change in the toxin, to make it more Knock-potent but safer.\n\n[Serpents & Venoms with Keeper-level <sprite name=moon>, plus Glassfinger Toxin, creates Sacrament Ascite.]",
+  "dove": "recipes/craft.keeper.serpents.venoms_moon_toxin.glassfinger_sacrament ascite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Induce a change in the toxin, to make it more Knock-potent but safer.\n\n[Solutions & Separations with Keeper-level <sprite name=knock>, plus Glassfinger Toxin, creates Sacrament Ascite.]",
+  "dove": "recipes/craft.keeper.solutions.separations_knock_toxin.glassfinger_sacrament ascite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Interpret the stymphling's hisses into a crime-prophecy of Moon and Winter.\n\n[Edicts Inviolable with Keeper-level <sprite name=moon>, plus Stymphling, creates Wormwood Dream.]",
+  "dove": "recipes/craft.keeper.edictsinviolable_moon_stymphling_wormwood dream.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Interpret the stymphling's hisses into a crime-prophecy of Moon and Winter.\n\n[Rhyme & Remembrance with Keeper-level <sprite name=moon>, plus Stymphling, creates Wormwood Dream.]",
+  "dove": "recipes/craft.keeper.rhyme.remembrance_moon_stymphling_wormwood dream.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Interpret the stymphling's hisses into a crime-prophecy of Moon and Winter.\n\n[Sickle & Eclipse with Keeper-level <sprite name=moon>, plus Stymphling, creates Wormwood Dream.]",
+  "dove": "recipes/craft.keeper.sickle.eclipse_moon_stymphling_wormwood dream.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Interpret the stymphling's hisses into a crime-prophecy of Moon and Winter.\n\n[Snow Stories with Keeper-level <sprite name=moon>, plus Stymphling, creates Wormwood Dream.]",
+  "dove": "recipes/craft.keeper.snowstories_moon_stymphling_wormwood dream.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Interpret the stymphling's hisses into a crime-prophecy of Moon and Winter.\n\n[Wolf Stories with Keeper-level <sprite name=moon>, plus Stymphling, creates Wormwood Dream.]",
+  "dove": "recipes/craft.keeper.wolfstories_moon_stymphling_wormwood dream.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Let's hope it's equally possible to forget this again.",
+  "dove": "recipes/craft.keeper.edictsinviolable_moon_stymphling_wormwood dream.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "Lift your eyes. That's often good advice, but when we're about this business, it's the best. Lift your eyes, and look around.",
+  "dove": "recipes/craft.keeper.path.pilgrim_rose_enduring.reflection_horizon-sight.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "No Librarian of Hush House has ever died during the preparation of serpent-milk. Thankfully, this was true yesterday and it is still true today.",
+  "dove": "recipes/craft.keeper.disciplines.thescar_edge_perinculate_serpent-milk.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "One last pipe-shrill, and the wind is still.",
+  "dove": "recipes/craft.keeper.furs.feathers_sky_mazarine.fife_wind-in-waiting.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "One wet wing, then the other, and then it shakes them dry; and from that point, it will bear watching always.",
+  "dove": "recipes/craft.keeper.insects.nectars_moon_larva.chimeric_perilous imago.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "Place the gervinite at the heart of a Knock-device.\n\n[Glassblowing & Vesselcrafting with Keeper-level <sprite name=knock>, plus Gervinite, creates Chronsichord.]",
+  "dove": "recipes/craft.keeper.glassblowing.vesselcrafting_knock_gervinite_chronsichord.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Place the gervinite at the heart of a Knock-device.\n\n[Glaziery & Lightsmithing with Keeper-level <sprite name=knock>, plus Gervinite, creates Chronsichord.]",
+  "dove": "recipes/craft.keeper.glaziery.lightsmithing_knock_gervinite_chronsichord.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Place the gervinite at the heart of a Knock-device.\n\n[Lockworks & Clockworks with Keeper-level <sprite name=knock>, plus Gervinite, creates Chronsichord.]",
+  "dove": "recipes/craft.keeper.lockworks.clockworks_knock_gervinite_chronsichord.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Place the gervinite at the heart of a Knock-device.\n\n[Preliminal Meter with Keeper-level <sprite name=knock>, plus Gervinite, creates Chronsichord.]",
+  "dove": "recipes/craft.keeper.preliminalmeter_knock_gervinite_chronsichord.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Place the gervinite at the heart of a Knock-device.\n\n[The Great Signs and the Great Scars with Keeper-level <sprite name=knock>, plus Gervinite, creates Chronsichord.]",
+  "dove": "recipes/craft.keeper.thegreatsignsandthegreatscars_knock_gervinite_chronsichord.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Purify this into a golden essence of Lantern-power.\n\n[Anbary & Lapidary with Keeper-level <sprite name=lantern>, plus Xanthotic Essence, creates Uzult.]",
+  "dove": "recipes/craft.keeper.anbary.lapidary_lantern_essence.xanthotic_uzult.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Purify this into a golden essence of Lantern-power.\n\n[Purifications & Exaltations with Keeper-level <sprite name=lantern>, plus Iotic Essence, creates Xanthotic Essence.]",
+  "dove": "recipes/craft.keeper.purifications.exaltations_lantern_essence.iotic_xanthotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Red as sunset….",
+  "dove": "recipes/craft.keeper.disciplines.thehammer_forge_essence.xanthotic_iotic essence.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "Secure a wind's promise from the Sky.\n\n[Furs & Feathers with Keeper-level <sprite name=sky>, plus Mazarine Fife, creates Wind-in-Waiting.]",
+  "dove": "recipes/craft.keeper.furs.feathers_sky_mazarine.fife_wind-in-waiting.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Secure a wind's promise from the Sky.\n\n[Sacra Solis Invicti with Keeper-level <sprite name=sky>, plus Mazarine Fife, creates Wind-in-Waiting.]",
+  "dove": "recipes/craft.keeper.sacrasolisinvicti_sky_mazarine.fife_wind-in-waiting.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Secure a wind's promise from the Sky.\n\n[Sky Stories with Keeper-level <sprite name=sky>, plus Mazarine Fife, creates Wind-in-Waiting.]",
+  "dove": "recipes/craft.keeper.skystories_sky_mazarine.fife_wind-in-waiting.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Secure a wind's promise from the Sky.\n\n[Strings & Songs with Keeper-level <sprite name=sky>, plus Mazarine Fife, creates Wind-in-Waiting.]",
+  "dove": "recipes/craft.keeper.strings.songs_sky_mazarine.fife_wind-in-waiting.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Sing storm-potential into the weft, to capture more Heart-aspect.\n\n[Strings & Songs with Keeper-level <sprite name=heart>, plus Thunderskin's Paean, creates Swaddled Thunder.]",
+  "dove": "recipes/craft.keeper.strings.songs_heart_music.thunderskin_swaddled thunder.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Sleep, o thou tempest; for now, bow thy head….",
+  "dove": "recipes/craft.keeper.drums.dances_heart_music.thunderskin_swaddled thunder.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Soften the toxin into the <i>encaustum terminale</i> Nillycant.\n\n[Ragged Crossroads with Keeper-level <sprite name=winter>, plus Glassfinger Toxin, creates Nillycant.]",
+  "dove": "recipes/craft.keeper.raggedcrossroads_winter_toxin.glassfinger_nillycant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Speak half a syllable, and feel the beast stir half a coil....",
+  "dove": "recipes/craft.keeper.coil.chasm_scale_old.moment_earthquake name.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Stopper it quickly. Quickly!.",
+  "dove": "recipes/craft.keeper.edictsinviolable_heart_liquid.gideon_january sanguinary.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "The Colonel's lessons, and the Lionsmith's lessons, have been unkindly, and reductively, rendered as 'stab' versus 'thump'.",
+  "dove": "recipes/craft.keeper.auroralcontemplations_edge_winning.move_invincible audacity.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "The dream of a star is not apparent to the human eye; but its presence, once felt, could not be mistaken for anything else.",
+  "dove": "recipes/craft.keeper.applebrighteuphonies_sky_ascendant.harmony_didumos.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "The jasmine-juices must be prepared very carefully as a coating for the vessel, so that the azoth does not escape. Careless alchemists have to move house frequently.",
+  "dove": "recipes/craft.keeper.spices.savours_forge_honeyscar.jasmine_azoth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "The orichalcum must be incorporated, very carefully, into the vessel, so that the azoth does not escape. Careless alchemists have to move house frequently.",
+  "dove": "recipes/craft.keeper.bells.brazieries_forge_wire.orichalcum_azoth.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "This pear can be a basis for a Nectar-sacrament of the deep woods.\n\n[Coil & Chasm with Keeper-level <sprite name=nectar>, plus Pyrus Auricalcinus, creates Sacrament Malachite.]",
+  "dove": "recipes/craft.keeper.coil.chasm_nectar_pyrus.auricalcinus_sacrament malachite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This pear can be a basis for a Nectar-sacrament of the deep woods.\n\n[Drums & Dances with Keeper-level <sprite name=nectar>, plus Pyrus Auricalcinus, creates Sacrament Malachite.]",
+  "dove": "recipes/craft.keeper.drums.dances_nectar_pyrus.auricalcinus_sacrament malachite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This pear can be a basis for a Nectar-sacrament of the deep woods.\n\n[Herbs & Infusions with Keeper-level <sprite name=nectar>, plus Pyrus Auricalcinus, creates Sacrament Malachite.]",
+  "dove": "recipes/craft.keeper.herbs.infusions_nectar_pyrus.auricalcinus_sacrament malachite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This pear can be a basis for a Nectar-sacrament of the deep woods.\n\n[Leaves & Thorns with Keeper-level <sprite name=nectar>, plus Pyrus Auricalcinus, creates Sacrament Malachite.]",
+  "dove": "recipes/craft.keeper.leaves.thorns_nectar_pyrus.auricalcinus_sacrament malachite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This pear can be a basis for a Nectar-sacrament of the deep woods.\n\n[Rites of the Roots with Keeper-level <sprite name=nectar>, plus Pyrus Auricalcinus, creates Sacrament Malachite.]",
+  "dove": "recipes/craft.keeper.rites.theroots_nectar_pyrus.auricalcinus_sacrament malachite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "This pear can be a basis for a Nectar-sacrament of the deep woods.\n\n[Spices & Savours with Keeper-level <sprite name=nectar>, plus Pyrus Auricalcinus, creates Sacrament Malachite.]",
+  "dove": "recipes/craft.keeper.spices.savours_nectar_pyrus.auricalcinus_sacrament malachite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform the essence into the <i>encaustum terminale</i> Orpiment Exultant.\n\n[Anbary & Lapidary with Keeper-level <sprite name=forge>, plus Iotic Essence, creates Orpiment Exultant.]",
+  "dove": "recipes/craft.keeper.anbary.lapidary_forge_essence.iotic_orpiment exultant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform the essence into the <i>encaustum terminale</i> Orpiment Exultant.\n\n[Inks of Power with Keeper-level <sprite name=forge>, plus Iotic Essence, creates Orpiment Exultant.]",
+  "dove": "recipes/craft.keeper.inks.power_forge_essence.iotic_orpiment exultant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform the essence into the <i>encaustum terminale</i> Orpiment Exultant.\n\n[Transformations & Liberations with Keeper-level <sprite name=forge>, plus Iotic Essence, creates Orpiment Exultant.]",
+  "dove": "recipes/craft.keeper.transformations.liberations_forge_essence.iotic_orpiment exultant.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform these salts into a ruddy essence of Forge-power.\n\n[Disciplines of the Hammer with Keeper-level <sprite name=forge>, plus Bitterblack Salts, creates Iotic Essence.]",
+  "dove": "recipes/craft.keeper.disciplines.thehammer_forge_salts.bitterblack_iotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform these salts into a ruddy essence of Forge-power.\n\n[Meniscate Reflections with Keeper-level <sprite name=forge>, plus Bitterblack Salts, creates Iotic Essence.]",
+  "dove": "recipes/craft.keeper.meniscatereflections_forge_salts.bitterblack_iotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform these salts into a ruddy essence of Forge-power.\n\n[Transformations & Liberations with Keeper-level <sprite name=forge>, plus Bitterblack Salts, creates Iotic Essence.]",
+  "dove": "recipes/craft.keeper.transformations.liberations_forge_salts.bitterblack_iotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform this into a ruddy essence of Forge-power.\n\n[Disciplines of the Hammer with Keeper-level <sprite name=forge>, plus Xanthotic Essence, creates Iotic Essence.]",
+  "dove": "recipes/craft.keeper.disciplines.thehammer_forge_essence.xanthotic_iotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform this into a ruddy essence of Forge-power.\n\n[Meniscate Reflections with Keeper-level <sprite name=forge>, plus Xanthotic Essence, creates Iotic Essence.]",
+  "dove": "recipes/craft.keeper.meniscatereflections_forge_essence.xanthotic_iotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform this into a ruddy essence of Forge-power.\n\n[Transformations & Liberations with Keeper-level <sprite name=forge>, plus Xanthotic Essence, creates Iotic Essence.]",
+  "dove": "recipes/craft.keeper.transformations.liberations_forge_essence.xanthotic_iotic essence.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use a little-known technique to craft a Knock-device from silver.\n\n[Lockworks & Clockworks with Keeper-level <sprite name=sky>, plus Wire (Silver), creates Chronsichord.]",
+  "dove": "recipes/craft.keeper.lockworks.clockworks_sky_wire.silver_chronsichord.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use orichalcum to catalyse the ferocious Knock-solvent called the azoth.\n\n[Bells & Brazieries with Keeper-level <sprite name=forge>, plus Wire (Orichalcum), creates Azoth.]",
+  "dove": "recipes/craft.keeper.bells.brazieries_forge_wire.orichalcum_azoth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use orichalcum to catalyse the ferocious Knock-solvent called the azoth.\n\n[Disciplines of the Hammer with Keeper-level <sprite name=forge>, plus Wire (Orichalcum), creates Azoth.]",
+  "dove": "recipes/craft.keeper.disciplines.thehammer_forge_wire.orichalcum_azoth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use orichalcum to catalyse the ferocious Knock-solvent called the azoth.\n\n[Door & Wall with Keeper-level <sprite name=forge>, plus Wire (Orichalcum), creates Azoth.]",
+  "dove": "recipes/craft.keeper.door.wall_forge_wire.orichalcum_azoth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use orichalcum to catalyse the ferocious Knock-solvent called the azoth.\n\n[Meniscate Reflections with Keeper-level <sprite name=forge>, plus Wire (Orichalcum), creates Azoth.]",
+  "dove": "recipes/craft.keeper.meniscatereflections_forge_wire.orichalcum_azoth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use orichalcum to catalyse the ferocious Knock-solvent called the azoth.\n\n[Purifications & Exaltations with Keeper-level <sprite name=forge>, plus Wire (Orichalcum), creates Azoth.]",
+  "dove": "recipes/craft.keeper.purifications.exaltations_forge_wire.orichalcum_azoth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use orichalcum to catalyse the ferocious Knock-solvent called the azoth.\n\n[Pyroglyphics with Keeper-level <sprite name=forge>, plus Wire (Orichalcum), creates Azoth.]",
+  "dove": "recipes/craft.keeper.pyroglyphics_forge_wire.orichalcum_azoth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this liquor as a base for a Grail-sacrament.\n\n[Applebright Euphonies with Keeper-level <sprite name=grail>, plus Rubywise Ruin, creates Sacrament Calicite.]",
+  "dove": "recipes/craft.keeper.applebrighteuphonies_grail_rubywise.ruin_sacrament calicite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this liquor as a base for a Grail-sacrament.\n\n[Leaves & Thorns with Keeper-level <sprite name=grail>, plus Rubywise Ruin, creates Sacrament Calicite.]",
+  "dove": "recipes/craft.keeper.leaves.thorns_grail_rubywise.ruin_sacrament calicite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this liquor as a base for a Grail-sacrament.\n\n[Orchids & Narcotics with Keeper-level <sprite name=grail>, plus Rubywise Ruin, creates Sacrament Calicite.]",
+  "dove": "recipes/craft.keeper.orchids.narcotics_grail_rubywise.ruin_sacrament calicite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this liquor as a base for a Grail-sacrament.\n\n[Sea Stories with Keeper-level <sprite name=grail>, plus Rubywise Ruin, creates Sacrament Calicite.]",
+  "dove": "recipes/craft.keeper.seastories_grail_rubywise.ruin_sacrament calicite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this liquor as a base for a Grail-sacrament.\n\n[Tridesma Hiera with Keeper-level <sprite name=grail>, plus Rubywise Ruin, creates Sacrament Calicite.]",
+  "dove": "recipes/craft.keeper.tridesmahiera_grail_rubywise.ruin_sacrament calicite.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use with care. The Madrugad, for her own reasons, tolerates the house. Let's not test her tolerance.",
+  "dove": "recipes/craft.keeper.ouranoscopy_sky_essential.periost_year-tally.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "When a chronsichord is completed, it is fully wound, for the first and only time.",
+  "dove": "recipes/craft.keeper.glassblowing.vesselcrafting_knock_gervinite_chronsichord.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "Whence came the light in the House of the Moon? We still don't know; but perhaps this colour is its darkness.",
+  "dove": "recipes/craft.keeper.desires.dissolutions_moon_asimel_black sapphire wash.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "While the vapours of ashartine's making hang in the air, it is very difficult to speak a lie aloud….",
+  "dove": "recipes/craft.keeper.anbary.lapidary_sky_ichor.vitreous_ashartine.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "With Grail-essence, the mommet will redden into something more potent.\n\n[Desires & Dissolutions with Keeper-level <sprite name=grail>, plus Pale Mommet, creates Flushed Mommet.]",
+  "dove": "recipes/craft.keeper.desires.dissolutions_grail_pale.mommet_flushed mommet.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With Grail-essence, the mommet will redden into something more potent.\n\n[Furs & Feathers with Keeper-level <sprite name=grail>, plus Pale Mommet, creates Flushed Mommet.]",
+  "dove": "recipes/craft.keeper.furs.feathers_grail_pale.mommet_flushed mommet.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With Grail-essence, the mommet will redden into something more potent.\n\n[Pentiments & Precursors with Keeper-level <sprite name=grail>, plus Pale Mommet, creates Flushed Mommet.]",
+  "dove": "recipes/craft.keeper.pentiments.precursors_grail_pale.mommet_flushed mommet.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With Grail-essence, the mommet will redden into something more potent.\n\n[Resurgences & Emergences with Keeper-level <sprite name=grail>, plus Pale Mommet, creates Flushed Mommet.]",
+  "dove": "recipes/craft.keeper.resurgences.emergences_grail_pale.mommet_flushed mommet.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "With Grail-essence, the mommet will redden into something more potent.\n\n[The Great Signs and the Great Scars with Keeper-level <sprite name=grail>, plus Pale Mommet, creates Flushed Mommet.]",
+  "dove": "recipes/craft.keeper.thegreatsignsandthegreatscars_grail_pale.mommet_flushed mommet.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[This is an <i>encaustum terminale</i>: one of the Great Inks. Use it with your journal to record a History and fulfil your reason for coming to Hush House… if you so choose.].",
+  "dove": "recipes/craft.keeper.anbary.lapidary_forge_essence.iotic_orpiment exultant.desc",
+  "ricorre": 17
+ },
+ {
+  "en": "A beating in the heart… \n\n[Drums & Dances with Scholar-level <sprite name=nectar>, plus Instrument, creates Hive's Lament.]",
+  "dove": "recipes/craft.scholar.drums.dances_instrument_music.hive_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "A buzzing in the skull…",
+  "dove": "recipes/craft.scholar.drums.dances_instrument_music.hive_nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Awaken the green-dark earth-memories bone-borne. \n\n[Stone Stories with Scholar-level <sprite name=nectar>, plus Remains, creates Essential Periost.]",
+  "dove": "recipes/craft.scholar.stonestories_remains_essential.periost_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Beneath the auspices of dusk, hatch an eyeless larva pulsing with Moth-potential. \n\n[Insects & Nectars with Scholar-level <sprite name=moon>, plus Egg, creates Chimeric Larva.]",
+  "dove": "recipes/craft.scholar.insects.nectars_egg_larva.chimeric_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Grail-liquor. \n\n[Applebright Euphonies with Scholar-level <sprite name=grail>, plus Flower, creates Rubywise Ruin.]",
+  "dove": "recipes/craft.scholar.applebrighteuphonies_flower_rubywise.ruin_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Grail-liquor. \n\n[Desires & Dissolutions with Scholar-level <sprite name=grail>, plus Flower, creates Rubywise Ruin.]",
+  "dove": "recipes/craft.scholar.desires.dissolutions_flower_rubywise.ruin_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Grail-liquor. \n\n[Leaves & Thorns with Scholar-level <sprite name=grail>, plus Flower, creates Rubywise Ruin.]",
+  "dove": "recipes/craft.scholar.leaves.thorns_flower_rubywise.ruin_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Grail-liquor. \n\n[Orchids & Narcotics with Scholar-level <sprite name=grail>, plus Flower, creates Rubywise Ruin.]",
+  "dove": "recipes/craft.scholar.orchids.narcotics_flower_rubywise.ruin_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor. \n\n[Herbs & Infusions with Scholar-level <sprite name=nectar>, plus Beverage, creates Leathy.]",
+  "dove": "recipes/craft.scholar.herbs.infusions_beverage_leathy_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor. \n\n[Inks of Containment with Scholar-level <sprite name=moon>, plus Beverage, creates Leathy.]",
+  "dove": "recipes/craft.scholar.inks.containment_beverage_leathy_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor. \n\n[Insects & Nectars with Scholar-level <sprite name=nectar>, plus Beverage, creates Leathy.]",
+  "dove": "recipes/craft.scholar.insects.nectars_beverage_leathy_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor. \n\n[Orchids & Narcotics with Scholar-level <sprite name=nectar>, plus Beverage, creates Leathy.]",
+  "dove": "recipes/craft.scholar.orchids.narcotics_beverage_leathy_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a Moth-liquor. \n\n[Rites of the Roots with Scholar-level <sprite name=nectar>, plus Beverage, creates Leathy.]",
+  "dove": "recipes/craft.scholar.rites.theroots_beverage_leathy_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and lethal Knock-toxin. \n\n[Door & Wall with Scholar-level <sprite name=knock>, plus Liquid, creates Glassfinger Toxin.]",
+  "dove": "recipes/craft.scholar.door.wall_liquid_toxin.glassfinger_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and lethal Knock-toxin. \n\n[Edicts Liminal with Scholar-level <sprite name=knock>, plus Liquid, creates Glassfinger Toxin.]",
+  "dove": "recipes/craft.scholar.edictsliminal_liquid_toxin.glassfinger_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and lethal Knock-toxin. \n\n[Serpents & Venoms with Scholar-level <sprite name=scale>, plus Liquid, creates Glassfinger Toxin.]",
+  "dove": "recipes/craft.scholar.serpents.venoms_liquid_toxin.glassfinger_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and lethal Knock-toxin. \n\n[Solutions & Separations with Scholar-level <sprite name=knock>, plus Liquid, creates Glassfinger Toxin.]",
+  "dove": "recipes/craft.scholar.solutions.separations_liquid_toxin.glassfinger_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and lethal Knock-toxin. \n\n[Surgeries & Exsanguinations with Scholar-level <sprite name=knock>, plus Liquid, creates Glassfinger Toxin.]",
+  "dove": "recipes/craft.scholar.surgeries.exsanguinations_liquid_toxin.glassfinger_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a notoriously deadly Ink of Power. \n\n[Disciplines of the Scar with Scholar-level <sprite name=edge>, plus Leaf, creates Perinculate.]",
+  "dove": "recipes/craft.scholar.disciplines.thescar_leaf_perinculate_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a notoriously deadly Ink of Power. \n\n[Edicts Martial with Scholar-level <sprite name=edge>, plus Leaf, creates Perinculate.]",
+  "dove": "recipes/craft.scholar.edictsmartial_leaf_perinculate_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a notoriously deadly Ink of Power. \n\n[Inks of Power with Scholar-level <sprite name=scale>, plus Leaf, creates Perinculate.]",
+  "dove": "recipes/craft.scholar.inks.power_leaf_perinculate_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a notoriously deadly Ink of Power. \n\n[Putrefactions & Calcinations with Scholar-level <sprite name=winter>, plus Leaf, creates Perinculate.]",
+  "dove": "recipes/craft.scholar.putrefactions.calcinations_leaf_perinculate_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a notoriously deadly Ink of Power. \n\n[Sickle & Eclipse with Scholar-level <sprite name=edge>, plus Leaf, creates Perinculate.]",
+  "dove": "recipes/craft.scholar.sickle.eclipse_leaf_perinculate_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a silvery Moon-ink. \n\n[Inks of Revelation with Scholar-level <sprite name=moth>, plus Liquid, creates Asimel.]",
+  "dove": "recipes/craft.scholar.inks.revelation_liquid_asimel_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a silvery Moon-ink. \n\n[Pearl & Tide with Scholar-level <sprite name=moon>, plus Liquid, creates Asimel.]",
+  "dove": "recipes/craft.scholar.pearl.tide_liquid_asimel_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a silvery Moon-ink. \n\n[Putrefactions & Calcinations with Scholar-level <sprite name=moon>, plus Liquid, creates Asimel.]",
+  "dove": "recipes/craft.scholar.putrefactions.calcinations_liquid_asimel_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a silvery Moon-ink. \n\n[Sea Stories with Scholar-level <sprite name=moon>, plus Liquid, creates Asimel.]",
+  "dove": "recipes/craft.scholar.seastories_liquid_asimel_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew healing Heart-soaks. \n\n[Edicts Inviolable with Scholar-level <sprite name=heart>, plus Liquid, creates Gideon's Soaks.]",
+  "dove": "recipes/craft.scholar.edictsinviolable_liquid_liquid.gideon_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew healing Heart-soaks. \n\n[Herbs & Infusions with Scholar-level <sprite name=heart>, plus Liquid, creates Gideon's Soaks.]",
+  "dove": "recipes/craft.scholar.herbs.infusions_liquid_liquid.gideon_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew healing Heart-soaks. \n\n[Maggephene Mysteries with Scholar-level <sprite name=heart>, plus Liquid, creates Gideon's Soaks.]",
+  "dove": "recipes/craft.scholar.maggephenemysteries_liquid_liquid.gideon_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew healing Heart-soaks. \n\n[Quenchings & Quellings with Scholar-level <sprite name=heart>, plus Liquid, creates Gideon's Soaks.]",
+  "dove": "recipes/craft.scholar.quenchings.quellings_liquid_liquid.gideon_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew healing Heart-soaks. \n\n[Surgeries & Exsanguinations with Scholar-level <sprite name=heart>, plus Liquid, creates Gideon's Soaks.]",
+  "dove": "recipes/craft.scholar.surgeries.exsanguinations_liquid_liquid.gideon_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Candesce this liquid into a ruddy essence of Forge-power. \n\n[Pyroglyphics with Scholar-level <sprite name=forge>, plus Liquid, creates Iotic Essence.]",
+  "dove": "recipes/craft.scholar.pyroglyphics_liquid_essence.iotic_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Candesce this liquid to a golden essence of Lantern-power. \n\n[Pyroglyphics with Scholar-level <sprite name=lantern>, plus Liquid, creates Xanthotic Essence.]",
+  "dove": "recipes/craft.scholar.pyroglyphics_liquid_essence.xanthotic_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carve a Sky-aspected instrument. \n\n[Ouranoscopy with Scholar-level <sprite name=sky>, plus Wood, creates Mazarine Fife.]",
+  "dove": "recipes/craft.scholar.ouranoscopy_wood_mazarine.fife_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carve a Sky-aspected instrument. \n\n[Sacra Limiae with Scholar-level <sprite name=sky>, plus Wood, creates Mazarine Fife.]",
+  "dove": "recipes/craft.scholar.sacralimiae_wood_mazarine.fife_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Carve a Sky-aspected instrument. \n\n[Sacra Solis Invicti with Scholar-level <sprite name=sky>, plus Wood, creates Mazarine Fife.]",
+  "dove": "recipes/craft.scholar.sacrasolisinvicti_wood_mazarine.fife_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive a Mothly riddle. \n\n[Edicts Liminal with Scholar-level <sprite name=moth>, plus Memory, creates Nameday Riddle.]",
+  "dove": "recipes/craft.scholar.edictsliminal_memory_riddle.nameday_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive a Mothly riddle. \n\n[Rites of the Roots with Scholar-level <sprite name=moth>, plus Memory, creates Nameday Riddle.]",
+  "dove": "recipes/craft.scholar.rites.theroots_memory_riddle.nameday_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive a Mothly riddle. \n\n[Sacra Limiae with Scholar-level <sprite name=moth>, plus Memory, creates Nameday Riddle.]",
+  "dove": "recipes/craft.scholar.sacralimiae_memory_riddle.nameday_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive a Mothly riddle. \n\n[Solutions & Separations with Scholar-level <sprite name=moth>, plus Memory, creates Nameday Riddle.]",
+  "dove": "recipes/craft.scholar.solutions.separations_memory_riddle.nameday_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conceive a Mothly riddle. \n\n[Weaving & Knotworking with Scholar-level <sprite name=moth>, plus Memory, creates Nameday Riddle.]",
+  "dove": "recipes/craft.scholar.weaving.knotworking_memory_riddle.nameday_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Condense light to a Rose-fluid. \n\n[Auroral Contemplations with Scholar-level <sprite name=rose>, plus Light, creates Ichor Auroral.]",
+  "dove": "recipes/craft.scholar.auroralcontemplations_light_ichor.auroral_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Condense light to a Rose-fluid. \n\n[Inks of Power with Scholar-level <sprite name=rose>, plus Light, creates Ichor Auroral.]",
+  "dove": "recipes/craft.scholar.inks.power_light_ichor.auroral_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Condense light to a Rose-fluid. \n\n[Sand Stories with Scholar-level <sprite name=rose>, plus Light, creates Ichor Auroral.]",
+  "dove": "recipes/craft.scholar.sandstories_light_ichor.auroral_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Condense light to a Rose-fluid. \n\n[Sights & Sensations with Scholar-level <sprite name=sky>, plus Light, creates Ichor Auroral.]",
+  "dove": "recipes/craft.scholar.sights.sensations_light_ichor.auroral_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Condense light to a Rose-fluid. \n\n[Watchman's Paradoxes with Scholar-level <sprite name=sky>, plus Light, creates Ichor Auroral.]",
+  "dove": "recipes/craft.scholar.watchmansparadoxes_light_ichor.auroral_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conjure bright Sky-music. \n\n[Applebright Euphonies with Scholar-level <sprite name=sky>, plus Instrument, creates Ascendant Harmony.]",
+  "dove": "recipes/craft.scholar.applebrighteuphonies_instrument_ascendant.harmony_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conjure bright Sky-music. \n\n[Bells & Brazieries with Scholar-level <sprite name=sky>, plus Instrument, creates Ascendant Harmony.]",
+  "dove": "recipes/craft.scholar.bells.brazieries_instrument_ascendant.harmony_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conjure bright Sky-music. \n\n[Furs & Feathers with Scholar-level <sprite name=sky>, plus Instrument, creates Ascendant Harmony.]",
+  "dove": "recipes/craft.scholar.furs.feathers_instrument_ascendant.harmony_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conjure bright Sky-music. \n\n[Purifications & Exaltations with Scholar-level <sprite name=sky>, plus Instrument, creates Ascendant Harmony.]",
+  "dove": "recipes/craft.scholar.purifications.exaltations_instrument_ascendant.harmony_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conjure bright Sky-music. \n\n[Sky Stories with Scholar-level <sprite name=sky>, plus Instrument, creates Ascendant Harmony.]",
+  "dove": "recipes/craft.scholar.skystories_instrument_ascendant.harmony_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Conjure bright Sky-music. \n\n[Strings & Songs with Scholar-level <sprite name=sky>, plus Instrument, creates Ascendant Harmony.]",
+  "dove": "recipes/craft.scholar.strings.songs_instrument_ascendant.harmony_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft: Ascendant Harmony",
+  "dove": "recipes/craft.scholar.applebrighteuphonies_instrument_ascendant.harmony_sky.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Asimel",
+  "dove": "recipes/craft.scholar.inks.revelation_liquid_asimel_moth.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Chimeric Larva",
+  "dove": "recipes/craft.scholar.hill.hollow_egg_larva.chimeric_moon.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Curious Hunch",
+  "dove": "recipes/craft.scholar.preliminalmeter_memory_curious.hunch_knock.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Craft: Enduring Reflection",
+  "dove": "recipes/craft.scholar.path.pilgrim_memory_enduring.reflection_rose.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Essential Periost",
+  "dove": "recipes/craft.scholar.rhyme.remembrance_remains_essential.periost_winter.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Frith-Weft",
+  "dove": "recipes/craft.scholar.stitching.binding_fabric_frithweft_heart.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Craft: Gervinite",
+  "dove": "recipes/craft.scholar.glaziery.lightsmithing_metal_gervinite_sky.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Craft: Gideon's Soaks",
+  "dove": "recipes/craft.scholar.edictsinviolable_liquid_liquid.gideon_heart.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Glassfinger Toxin",
+  "dove": "recipes/craft.scholar.door.wall_liquid_toxin.glassfinger_knock.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Hive's Lament",
+  "dove": "recipes/craft.scholar.drums.dances_instrument_music.hive_nectar.label",
+  "ricorre": 1
+ },
+ {
+  "en": "Craft: Ichor Auroral",
+  "dove": "recipes/craft.scholar.auroralcontemplations_light_ichor.auroral_rose.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Ichor Vitreous",
+  "dove": "recipes/craft.scholar.glassblowing.vesselcrafting_glass_ichor.vitreous_lantern.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Leathy",
+  "dove": "recipes/craft.scholar.herbs.infusions_beverage_leathy_nectar.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Living Relic",
+  "dove": "recipes/craft.scholar.furs.feathers_egg_relic.living_scale.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Mazarine Fife",
+  "dove": "recipes/craft.scholar.ouranoscopy_wood_mazarine.fife_sky.label",
+  "ricorre": 3
+ },
+ {
+  "en": "Craft: Nameday Riddle",
+  "dove": "recipes/craft.scholar.edictsliminal_memory_riddle.nameday_moth.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Old Moment",
+  "dove": "recipes/craft.scholar.coil.chasm_memory_old.moment_scale.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Pale Mommet",
+  "dove": "recipes/craft.scholar.pentiments.precursors_fabric_pale.mommet_grail.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Perinculate",
+  "dove": "recipes/craft.scholar.disciplines.thescar_leaf_perinculate_edge.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Pyrus Auricalcinus",
+  "dove": "recipes/craft.scholar.coil.chasm_wood_pyrus.auricalcinus_nectar.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Rubywise Ruin",
+  "dove": "recipes/craft.scholar.applebrighteuphonies_flower_rubywise.ruin_grail.label",
+  "ricorre": 4
+ },
+ {
+  "en": "Craft: Solomon's Preparation",
+  "dove": "recipes/craft.scholar.edictsinviolable_flower_liquid.solomon_moon.label",
+  "ricorre": 6
+ },
+ {
+  "en": "Craft: Stymphling",
+  "dove": "recipes/craft.scholar.rhyme.remembrance_egg_stymphling_moon.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Thunderskin's Paean",
+  "dove": "recipes/craft.scholar.drums.dances_instrument_music.thunderskin_heart.label",
+  "ricorre": 2
+ },
+ {
+  "en": "Craft: Winning Move",
+  "dove": "recipes/craft.scholar.auroralcontemplations_memory_winning.move_edge.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Craft: Wire (Orichalcum)",
+  "dove": "recipes/craft.scholar.bells.brazieries_metal_wire.orichalcum_forge.label",
+  "ricorre": 5
+ },
+ {
+  "en": "Distil a pale and watchful Lantern-fluid. \n\n[Glassblowing & Vesselcrafting with Scholar-level <sprite name=lantern>, plus Glass, creates Ichor Vitreous.]",
+  "dove": "recipes/craft.scholar.glassblowing.vesselcrafting_glass_ichor.vitreous_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a pale and watchful Lantern-fluid. \n\n[Glassblowing & Vesselcrafting with Scholar-level <sprite name=sky>, plus Glass, creates Ichor Vitreous.]",
+  "dove": "recipes/craft.scholar.glassblowing.vesselcrafting_glass_ichor.vitreous_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a pale and watchful Lantern-fluid. \n\n[Glaziery & Lightsmithing with Scholar-level <sprite name=lantern>, plus Glass, creates Ichor Vitreous.]",
+  "dove": "recipes/craft.scholar.glaziery.lightsmithing_glass_ichor.vitreous_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a pale and watchful Lantern-fluid. \n\n[Inks of Revelation with Scholar-level <sprite name=lantern>, plus Glass, creates Ichor Vitreous.]",
+  "dove": "recipes/craft.scholar.inks.revelation_glass_ichor.vitreous_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a pale and watchful Lantern-fluid. \n\n[Sacra Solis Invicti with Scholar-level <sprite name=lantern>, plus Glass, creates Ichor Vitreous.]",
+  "dove": "recipes/craft.scholar.sacrasolisinvicti_glass_ichor.vitreous_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Distil a pale and watchful Lantern-fluid. \n\n[Watchman's Paradoxes with Scholar-level <sprite name=lantern>, plus Glass, creates Ichor Vitreous.]",
+  "dove": "recipes/craft.scholar.watchmansparadoxes_glass_ichor.vitreous_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Drum up a Heart-music. \n\n[Drums & Dances with Scholar-level <sprite name=heart>, plus Instrument, creates Thunderskin's Paean.]",
+  "dove": "recipes/craft.scholar.drums.dances_instrument_music.thunderskin_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Energise this liquid into a golden essence of Lantern-power. \n\n[Anbary & Lapidary with Scholar-level <sprite name=sky>, plus Liquid, creates Xanthotic Essence.]",
+  "dove": "recipes/craft.scholar.anbary.lapidary_liquid_essence.xanthotic_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Energise this liquid into a ruddy essence of Forge-power. \n\n[Anbary & Lapidary with Scholar-level <sprite name=forge>, plus Liquid, creates Iotic Essence.]",
+  "dove": "recipes/craft.scholar.anbary.lapidary_liquid_essence.iotic_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Equilibrate this liquid into a ruddy essence of Forge-power. \n\n[Meniscate Reflections with Scholar-level <sprite name=forge>, plus Liquid, creates Iotic Essence.]",
+  "dove": "recipes/craft.scholar.meniscatereflections_liquid_essence.iotic_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Establish a synthesis of alternatives. \n\n[Auroral Contemplations with Scholar-level <sprite name=edge>, plus Memory, creates Winning Move.]",
+  "dove": "recipes/craft.scholar.auroralcontemplations_memory_winning.move_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Establish a synthesis of alternatives. \n\n[Disciplines of the Hammer with Scholar-level <sprite name=edge>, plus Memory, creates Winning Move.]",
+  "dove": "recipes/craft.scholar.disciplines.thehammer_memory_winning.move_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Establish a synthesis of alternatives. \n\n[Meniscate Reflections with Scholar-level <sprite name=edge>, plus Memory, creates Winning Move.]",
+  "dove": "recipes/craft.scholar.meniscatereflections_memory_winning.move_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Establish a synthesis of alternatives. \n\n[Ragged Crossroads with Scholar-level <sprite name=edge>, plus Memory, creates Winning Move.]",
+  "dove": "recipes/craft.scholar.raggedcrossroads_memory_winning.move_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Establish a synthesis of alternatives. \n\n[Sharps with Scholar-level <sprite name=edge>, plus Memory, creates Winning Move.]",
+  "dove": "recipes/craft.scholar.sharps_memory_winning.move_edge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Exalt this liquid into a golden essence of Lantern-power. \n\n[Purifications & Exaltations with Scholar-level <sprite name=lantern>, plus Liquid, creates Xanthotic Essence.]",
+  "dove": "recipes/craft.scholar.purifications.exaltations_liquid_essence.xanthotic_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Focus the light of the heavens to enliven a silvery Moon-ink. \n\n[Ouranoscopy with Scholar-level <sprite name=moon>, plus Lens, creates Asimel.]",
+  "dove": "recipes/craft.scholar.ouranoscopy_lens_asimel_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a Scale-relic from the egg. \n\n[Furs & Feathers with Scholar-level <sprite name=scale>, plus Egg, creates Living Relic.]",
+  "dove": "recipes/craft.scholar.furs.feathers_egg_relic.living_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a Scale-relic from the egg. \n\n[Hill & Hollow with Scholar-level <sprite name=scale>, plus Egg, creates Living Relic.]",
+  "dove": "recipes/craft.scholar.hill.hollow_egg_relic.living_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a Scale-relic from the egg. \n\n[Pentiments & Precursors with Scholar-level <sprite name=scale>, plus Egg, creates Living Relic.]",
+  "dove": "recipes/craft.scholar.pentiments.precursors_egg_relic.living_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a Scale-relic from the egg. \n\n[Stitching & Binding with Scholar-level <sprite name=sky>, plus Egg, creates Living Relic.]",
+  "dove": "recipes/craft.scholar.stitching.binding_egg_relic.living_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a Scale-relic from the egg. \n\n[Stone Stories with Scholar-level <sprite name=scale>, plus Egg, creates Living Relic.]",
+  "dove": "recipes/craft.scholar.stonestories_egg_relic.living_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a mischievous Moon-thing from the egg. \n\n[Rhyme & Remembrance with Scholar-level <sprite name=moon>, plus Egg, creates Stymphling.]",
+  "dove": "recipes/craft.scholar.rhyme.remembrance_egg_stymphling_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a mischievous Moon-thing from the egg. \n\n[Sand Stories with Scholar-level <sprite name=moon>, plus Egg, creates Stymphling.]",
+  "dove": "recipes/craft.scholar.sandstories_egg_stymphling_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a mischievous Moon-thing from the egg. \n\n[Serpents & Venoms with Scholar-level <sprite name=moon>, plus Egg, creates Stymphling.]",
+  "dove": "recipes/craft.scholar.serpents.venoms_egg_stymphling_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a mischievous Moon-thing from the egg. \n\n[Snow Stories with Scholar-level <sprite name=moon>, plus Egg, creates Stymphling.]",
+  "dove": "recipes/craft.scholar.snowstories_egg_stymphling_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch a mischievous Moon-thing from the egg. \n\n[Tridesma Hiera with Scholar-level <sprite name=moon>, plus Egg, creates Stymphling.]",
+  "dove": "recipes/craft.scholar.tridesmahiera_egg_stymphling_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch an eyeless larva pulsing with Moth-potential. \n\n[Hill & Hollow with Scholar-level <sprite name=moon>, plus Egg, creates Chimeric Larva.]",
+  "dove": "recipes/craft.scholar.hill.hollow_egg_larva.chimeric_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch an eyeless larva pulsing with Moth-potential. \n\n[Horns & Ivories with Scholar-level <sprite name=knock>, plus Egg, creates Chimeric Larva.]",
+  "dove": "recipes/craft.scholar.horns.ivories_egg_larva.chimeric_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch an eyeless larva pulsing with Moth-potential. \n\n[Resurgences & Emergences with Scholar-level <sprite name=moth>, plus Egg, creates Chimeric Larva.]",
+  "dove": "recipes/craft.scholar.resurgences.emergences_egg_larva.chimeric_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Hatch an eyeless larva pulsing with Moth-potential. \n\n[Transformations & Liberations with Scholar-level <sprite name=moth>, plus Egg, creates Chimeric Larva.]",
+  "dove": "recipes/craft.scholar.transformations.liberations_egg_larva.chimeric_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invest Grail-power in an almost-living doll. \n\n[Pentiments & Precursors with Scholar-level <sprite name=grail>, plus Fabric, creates Pale Mommet.]",
+  "dove": "recipes/craft.scholar.pentiments.precursors_fabric_pale.mommet_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invest Grail-power in an almost-living doll. \n\n[Resurgences & Emergences with Scholar-level <sprite name=grail>, plus Fabric, creates Pale Mommet.]",
+  "dove": "recipes/craft.scholar.resurgences.emergences_fabric_pale.mommet_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invest Grail-power in an almost-living doll. \n\n[Sea Stories with Scholar-level <sprite name=grail>, plus Fabric, creates Pale Mommet.]",
+  "dove": "recipes/craft.scholar.seastories_fabric_pale.mommet_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invest Grail-power in an almost-living doll. \n\n[The Great Signs and the Great Scars with Scholar-level <sprite name=grail>, plus Fabric, creates Pale Mommet.]",
+  "dove": "recipes/craft.scholar.thegreatsignsandthegreatscars_fabric_pale.mommet_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Invest Grail-power in an almost-living doll. \n\n[Tridesma Hiera with Scholar-level <sprite name=grail>, plus Fabric, creates Pale Mommet.]",
+  "dove": "recipes/craft.scholar.tridesmahiera_fabric_pale.mommet_grail.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Is this a way to the Wood? But perhaps the Wood is not a suitable place for a Librarian.",
+  "dove": "recipes/craft.scholar.edictsliminal_memory_riddle.nameday_moth.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "Knit memories into certainty. \n\n[Preliminal Meter with Scholar-level <sprite name=knock>, plus Memory, creates Curious Hunch.]",
+  "dove": "recipes/craft.scholar.preliminalmeter_memory_curious.hunch_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Knit memories into certainty. \n\n[The Great Signs and the Great Scars with Scholar-level <sprite name=knock>, plus Memory, creates Curious Hunch.]",
+  "dove": "recipes/craft.scholar.thegreatsignsandthegreatscars_memory_curious.hunch_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Lighten this liquid to a golden essence of Lantern-power. \n\n[Auroral Contemplations with Scholar-level <sprite name=lantern>, plus Liquid, creates Xanthotic Essence.]",
+  "dove": "recipes/craft.scholar.auroralcontemplations_liquid_essence.xanthotic_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Muddle and mix a wintry preparation. \n\n[Edicts Inviolable with Scholar-level <sprite name=moon>, plus Flower, creates Solomon's Preparation.]",
+  "dove": "recipes/craft.scholar.edictsinviolable_flower_liquid.solomon_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Muddle and mix a wintry preparation. \n\n[Inks of Containment with Scholar-level <sprite name=winter>, plus Flower, creates Solomon's Preparation.]",
+  "dove": "recipes/craft.scholar.inks.containment_flower_liquid.solomon_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Muddle and mix a wintry preparation. \n\n[Maggephene Mysteries with Scholar-level <sprite name=moon>, plus Flower, creates Solomon's Preparation.]",
+  "dove": "recipes/craft.scholar.maggephenemysteries_flower_liquid.solomon_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Muddle and mix a wintry preparation. \n\n[Quenchings & Quellings with Scholar-level <sprite name=winter>, plus Flower, creates Solomon's Preparation.]",
+  "dove": "recipes/craft.scholar.quenchings.quellings_flower_liquid.solomon_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Muddle and mix a wintry preparation. \n\n[Ragged Crossroads with Scholar-level <sprite name=winter>, plus Flower, creates Solomon's Preparation.]",
+  "dove": "recipes/craft.scholar.raggedcrossroads_flower_liquid.solomon_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Muddle and mix a wintry preparation. \n\n[Sights & Sensations with Scholar-level <sprite name=winter>, plus Flower, creates Solomon's Preparation.]",
+  "dove": "recipes/craft.scholar.sights.sensations_flower_liquid.solomon_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perform a peace-weaving to manifest Heart-aspect. \n\n[Stitching & Binding with Scholar-level <sprite name=heart>, plus Fabric, creates Frith-Weft.]",
+  "dove": "recipes/craft.scholar.stitching.binding_fabric_frithweft_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Perform a peace-weaving to manifest Heart-aspect. \n\n[Weaving & Knotworking with Scholar-level <sprite name=heart>, plus Fabric, creates Frith-Weft.]",
+  "dove": "recipes/craft.scholar.weaving.knotworking_fabric_frithweft_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Pluck up a Heart-music. \n\n[Strings & Songs with Scholar-level <sprite name=heart>, plus Instrument, creates Thunderskin's Paean.]",
+  "dove": "recipes/craft.scholar.strings.songs_instrument_music.thunderskin_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall a forgotten crime of Moon and Winter. \n\n[Edicts Martial with Scholar-level <sprite name=moon>, plus Memory, creates Wormwood Dream.]",
+  "dove": "recipes/craft.scholar.edictsmartial_memory_wormwood.dream_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall something lost, something Scale-aspected… \n\n[Coil & Chasm with Scholar-level <sprite name=scale>, plus Memory, creates Old Moment.]",
+  "dove": "recipes/craft.scholar.coil.chasm_memory_old.moment_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall something lost, something Scale-aspected… \n\n[Disciplines of the Scar with Scholar-level <sprite name=lantern>, plus Memory, creates Old Moment.]",
+  "dove": "recipes/craft.scholar.disciplines.thescar_memory_old.moment_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall something lost, something Scale-aspected… \n\n[Horns & Ivories with Scholar-level <sprite name=scale>, plus Memory, creates Old Moment.]",
+  "dove": "recipes/craft.scholar.horns.ivories_memory_old.moment_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall something lost, something Scale-aspected… \n\n[Path & Pilgrim with Scholar-level <sprite name=scale>, plus Memory, creates Old Moment.]",
+  "dove": "recipes/craft.scholar.path.pilgrim_memory_old.moment_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Recall something lost, something Scale-aspected… \n\n[Wolf Stories with Scholar-level <sprite name=scale>, plus Memory, creates Old Moment.]",
+  "dove": "recipes/craft.scholar.wolfstories_memory_old.moment_scale.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Refine memory to something of Rose. \n\n[Path & Pilgrim with Scholar-level <sprite name=rose>, plus Memory, creates Enduring Reflection.]",
+  "dove": "recipes/craft.scholar.path.pilgrim_memory_enduring.reflection_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Refine memory to something of Rose. \n\n[Pearl & Tide with Scholar-level <sprite name=rose>, plus Memory, creates Enduring Reflection.]",
+  "dove": "recipes/craft.scholar.pearl.tide_memory_enduring.reflection_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Refine memory to something of Rose. \n\n[Preliminal Meter with Scholar-level <sprite name=rose>, plus Memory, creates Enduring Reflection.]",
+  "dove": "recipes/craft.scholar.preliminalmeter_memory_enduring.reflection_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Refine memory to something of Rose. \n\n[Sky Stories with Scholar-level <sprite name=rose>, plus Memory, creates Enduring Reflection.]",
+  "dove": "recipes/craft.scholar.skystories_memory_enduring.reflection_rose.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Render a Winter-aspected remnant. \n\n[Rhyme & Remembrance with Scholar-level <sprite name=winter>, plus Remains, creates Essential Periost.]",
+  "dove": "recipes/craft.scholar.rhyme.remembrance_remains_essential.periost_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Render a Winter-aspected remnant. \n\n[Sharps with Scholar-level <sprite name=moon>, plus Remains, creates Essential Periost.]",
+  "dove": "recipes/craft.scholar.sharps_remains_essential.periost_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Render a Winter-aspected remnant. \n\n[Sickle & Eclipse with Scholar-level <sprite name=moon>, plus Remains, creates Essential Periost.]",
+  "dove": "recipes/craft.scholar.sickle.eclipse_remains_essential.periost_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Render a Winter-aspected remnant. \n\n[Snow Stories with Scholar-level <sprite name=winter>, plus Remains, creates Essential Periost.]",
+  "dove": "recipes/craft.scholar.snowstories_remains_essential.periost_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Render a Winter-aspected remnant. \n\n[Wolf Stories with Scholar-level <sprite name=moon>, plus Remains, creates Essential Periost.]",
+  "dove": "recipes/craft.scholar.wolfstories_remains_essential.periost_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Resolve a Knock-alloy. \n\n[Glaziery & Lightsmithing with Scholar-level <sprite name=sky>, plus Metal, creates Gervinite.]",
+  "dove": "recipes/craft.scholar.glaziery.lightsmithing_metal_gervinite_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Resolve a Knock-alloy. \n\n[Lockworks & Clockworks with Scholar-level <sprite name=knock>, plus Glass, creates Gervinite.]",
+  "dove": "recipes/craft.scholar.lockworks.clockworks_glass_gervinite_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rouse strange fruit, ripe with both Forge and Nectar aspect, to burst from the wood. \n\n[Coil & Chasm with Scholar-level <sprite name=nectar>, plus Wood, creates Pyrus Auricalcinus.]",
+  "dove": "recipes/craft.scholar.coil.chasm_wood_pyrus.auricalcinus_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rouse strange fruit, ripe with both Forge and Nectar aspect, to burst from the wood. \n\n[Desires & Dissolutions with Scholar-level <sprite name=moon>, plus Wood, creates Pyrus Auricalcinus.]",
+  "dove": "recipes/craft.scholar.desires.dissolutions_wood_pyrus.auricalcinus_moon.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rouse strange fruit, ripe with both Forge and Nectar aspect, to burst from the wood. \n\n[Leaves & Thorns with Scholar-level <sprite name=nectar>, plus Wood, creates Pyrus Auricalcinus.]",
+  "dove": "recipes/craft.scholar.leaves.thorns_wood_pyrus.auricalcinus_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Rouse strange fruit, ripe with both Forge and Nectar aspect, to burst from the wood. \n\n[Spices & Savours with Scholar-level <sprite name=nectar>, plus Wood, creates Pyrus Auricalcinus.]",
+  "dove": "recipes/craft.scholar.spices.savours_wood_pyrus.auricalcinus_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Spice this liquid into a ruddy essence of Forge-power. \n\n[Spices & Savours with Scholar-level <sprite name=forge>, plus Liquid, creates Iotic Essence.]",
+  "dove": "recipes/craft.scholar.spices.savours_liquid_essence.iotic_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "The Moth's gift? Or mine?",
+  "dove": "recipes/craft.scholar.preliminalmeter_memory_curious.hunch_knock.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "Transform this liquid into a golden essence of Lantern-power. \n\n[Transformations & Liberations with Scholar-level <sprite name=lantern>, plus Liquid, creates Xanthotic Essence.]",
+  "dove": "recipes/craft.scholar.transformations.liberations_liquid_essence.xanthotic_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Transform this liquid into a ruddy essence of Forge-power. \n\n[Transformations & Liberations with Scholar-level <sprite name=forge>, plus Liquid, creates Iotic Essence.]",
+  "dove": "recipes/craft.scholar.transformations.liberations_liquid_essence.iotic_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this metal as a base for the fabled Forge-alloy called orichalcum. \n\n[Bells & Brazieries with Scholar-level <sprite name=forge>, plus Metal, creates Wire (Orichalcum).]",
+  "dove": "recipes/craft.scholar.bells.brazieries_metal_wire.orichalcum_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this metal as a base for the fabled Forge-alloy called orichalcum. \n\n[Disciplines of the Hammer with Scholar-level <sprite name=forge>, plus Metal, creates Wire (Orichalcum).]",
+  "dove": "recipes/craft.scholar.disciplines.thehammer_metal_wire.orichalcum_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this metal as a base for the fabled Forge-alloy called orichalcum. \n\n[Door & Wall with Scholar-level <sprite name=forge>, plus Metal, creates Wire (Orichalcum).]",
+  "dove": "recipes/craft.scholar.door.wall_metal_wire.orichalcum_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this metal as a base for the fabled Forge-alloy called orichalcum. \n\n[Glassblowing & Vesselcrafting with Scholar-level <sprite name=knock>, plus Metal, creates Wire (Orichalcum).]",
+  "dove": "recipes/craft.scholar.glassblowing.vesselcrafting_metal_wire.orichalcum_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Use this metal as a base for the fabled Forge-alloy called orichalcum. \n\n[Lockworks & Clockworks with Scholar-level <sprite name=sky>, plus Metal, creates Wire (Orichalcum).]",
+  "dove": "recipes/craft.scholar.lockworks.clockworks_metal_wire.orichalcum_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-Level Winter - not Moon -  this is a precursor to a Year-Tally.]",
+  "dove": "recipes/craft.scholar.sharps_remains_essential.periost_moon.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "[With Keeper-Level Winter, this is a precursor to a Year-Tally.]",
+  "dove": "recipes/craft.scholar.rhyme.remembrance_remains_essential.periost_winter.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level  Rose - not Sky - the Ichor Auroral is a precursor to the Great Ink Porphyrine.]",
+  "dove": "recipes/craft.scholar.sights.sensations_light_ichor.auroral_sky.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level  Rose, an Enduring Reflection can give rise to visions of wilder possibilities...]",
+  "dove": "recipes/craft.scholar.path.pilgrim_memory_enduring.reflection_rose.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "[With Keeper-level  Rose, the Ichor Auroral is a precursor to the Great Ink Porphyrine.]",
+  "dove": "recipes/craft.scholar.auroralcontemplations_light_ichor.auroral_rose.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "[With Keeper-level Edge, Perinculate is the precursor to Serpent-Milk.]",
+  "dove": "recipes/craft.scholar.disciplines.thescar_leaf_perinculate_edge.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Edge, a Winning Move is the precursor to Invincible Audacity.]",
+  "dove": "recipes/craft.scholar.auroralcontemplations_memory_winning.move_edge.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Forge, Iotic Essence is the precursor to the Great Ink called Orpiment Exultant; with Keeper-level Lantern, it can become Xanthotic Essence instead.]",
+  "dove": "recipes/craft.scholar.anbary.lapidary_liquid_essence.iotic_forge.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Forge, orichalcum can catalyse and contain the Azoth.]",
+  "dove": "recipes/craft.scholar.bells.brazieries_metal_wire.orichalcum_forge.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Grail, Rubywise Ruin is a precursor to the Sacrament Calicite.]",
+  "dove": "recipes/craft.scholar.applebrighteuphonies_flower_rubywise.ruin_grail.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "[With Keeper-level Grail, a Pale Mommet is a precursor to a Flushed Mommet.]",
+  "dove": "recipes/craft.scholar.pentiments.precursors_fabric_pale.mommet_grail.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Heart, a Frith-Weft is a precursor to Swaddled Thunder.]",
+  "dove": "recipes/craft.scholar.stitching.binding_fabric_frithweft_heart.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Heart, the Paean is the precursor to Swaddled Thunder.]",
+  "dove": "recipes/craft.scholar.drums.dances_instrument_music.thunderskin_heart.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Heart, the Soaks are the precursor to January Sanguinary.]",
+  "dove": "recipes/craft.scholar.edictsinviolable_liquid_liquid.gideon_heart.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Knock, Glassfinger Toxin is the precursor of the Sacrament Ascite.]",
+  "dove": "recipes/craft.scholar.door.wall_liquid_toxin.glassfinger_knock.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Knock, and this skill, Glassfinger Toxin is the precursor of the Sacrament Ascite.]",
+  "dove": "recipes/craft.scholar.solutions.separations_liquid_toxin.glassfinger_knock.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Knock, gervinite is the essential ingredient of a Chronsichord.]",
+  "dove": "recipes/craft.scholar.glaziery.lightsmithing_metal_gervinite_sky.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Lantern - not Sky -  Xanthotic Essence is the precursor of the Great Ink Uzult.]",
+  "dove": "recipes/craft.scholar.anbary.lapidary_liquid_essence.xanthotic_sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Lantern,  Ichor Vitreous is the precursor of the ink ashartine.]",
+  "dove": "recipes/craft.scholar.glassblowing.vesselcrafting_glass_ichor.vitreous_lantern.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Lantern, Ichor Vitreous is the precursor of the ink ashartine.]",
+  "dove": "recipes/craft.scholar.glaziery.lightsmithing_glass_ichor.vitreous_lantern.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "[With Keeper-level Lantern, Xanthotic Essence is the precursor of the Great Ink Uzult.]",
+  "dove": "recipes/craft.scholar.auroralcontemplations_liquid_essence.xanthotic_lantern.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "[With Keeper-level Moon - not Moth - asimel can deepen to black sapphire.]",
+  "dove": "recipes/craft.scholar.inks.revelation_liquid_asimel_moth.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Moon, asimel can deepen to black sapphire.]",
+  "dove": "recipes/craft.scholar.pearl.tide_liquid_asimel_moon.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "[With Keeper-level Moon, asimel sigils can evoke a celestial influence.]",
+  "dove": "recipes/craft.scholar.ouranoscopy_lens_asimel_moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Moon, perhaps I could coax this to develop further - as long as it's well-fed.]",
+  "dove": "recipes/craft.scholar.insects.nectars_egg_larva.chimeric_moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Moon, stymphlings can produce Wormwood Dreams.]",
+  "dove": "recipes/craft.scholar.rhyme.remembrance_egg_stymphling_moon.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Moth - not Knock - and a more suitable skill, perhaps I could coax this to develop further - as long as it's well-fed.]",
+  "dove": "recipes/craft.scholar.horns.ivories_egg_larva.chimeric_knock.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Moth - not Moon - and a more suitable skill, perhaps I could coax this to develop further - as long as it's well-fed.]",
+  "dove": "recipes/craft.scholar.hill.hollow_egg_larva.chimeric_moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Moth, perhaps I could coax this to develop further - as long as it's well-fed.]",
+  "dove": "recipes/craft.scholar.resurgences.emergences_egg_larva.chimeric_moth.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Nectar - not Moon - Leathy is a precursor to the Great Ink Marakat.]",
+  "dove": "recipes/craft.scholar.herbs.infusions_beverage_leathy_nectar.desc",
+  "ricorre": 5
+ },
+ {
+  "en": "[With Keeper-level Nectar - not Moon - Pyrus Auricalcinus is a precursor to the Sacrament Malachite.]",
+  "dove": "recipes/craft.scholar.desires.dissolutions_wood_pyrus.auricalcinus_moon.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Nectar, Pyrus Auricalcinus is a precursor to the Sacrament Malachite.]",
+  "dove": "recipes/craft.scholar.coil.chasm_wood_pyrus.auricalcinus_nectar.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "[With Keeper-level Nectar, and this skill, Essential Periost can be used to brew the Sacrament Malachite.]",
+  "dove": "recipes/craft.scholar.stonestories_remains_essential.periost_nectar.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Scale - not Lantern - an Old Moment can lead to an Earthquake Name.]",
+  "dove": "recipes/craft.scholar.disciplines.thescar_memory_old.moment_lantern.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Scale - not Sky - a Living Relic can be induced to help with the production of Houndsgall.]",
+  "dove": "recipes/craft.scholar.stitching.binding_egg_relic.living_sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Scale, a Living Relic can be induced to help with the production of Houndsgall.]",
+  "dove": "recipes/craft.scholar.furs.feathers_egg_relic.living_scale.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "[With Keeper-level Scale, an Old Moment can lead to an Earthquake Name.]",
+  "dove": "recipes/craft.scholar.coil.chasm_memory_old.moment_scale.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "[With Keeper-level Sky, Ichor Vitreous is the precursor of the ink ashartine.]",
+  "dove": "recipes/craft.scholar.glassblowing.vesselcrafting_glass_ichor.vitreous_sky.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "[With Keeper-level Sky, a Mazarine Fife is an essential tool to conjure a Wind-in-Waiting.]",
+  "dove": "recipes/craft.scholar.ouranoscopy_wood_mazarine.fife_sky.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "[With Keeper-level Sky, an Ascendant Harmony might conjure a Didumos.]",
+  "dove": "recipes/craft.scholar.applebrighteuphonies_instrument_ascendant.harmony_sky.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "[With Keeper-level Winter - not Moon - Solomon's Preparations are a precursor to the Great Ink Nillycant.]",
+  "dove": "recipes/craft.scholar.edictsinviolable_flower_liquid.solomon_moon.desc",
+  "ricorre": 2
+ },
+ {
+  "en": "[With Keeper-level Winter, Solomon's Preparations are a precursor to the Great Ink Nillycant.]",
+  "dove": "recipes/craft.scholar.inks.containment_flower_liquid.solomon_winter.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "[With Serpents & Venoms, and Keeper-level Moon - not Scale -  Glassfinger Toxin is the precursor of the Sacrament Ascite.]",
+  "dove": "recipes/craft.scholar.serpents.venoms_liquid_toxin.glassfinger_scale.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "A difficult tangle of lines.",
+  "dove": "recipes/craft.coil.chasm_bisclavrets.knot_scale.desc",
+  "ricorre": 8
+ },
+ {
+  "en": "A smooth sweep of quill alert with life.",
+  "dove": "recipes/craft.anbary.lapidary_awakened.feather_sky.desc",
+  "ricorre": 6
+ },
+ {
+  "en": "Align an abandoned feather to the currents of light. \n\n[Sights & Sensations with Prentice-level <sprite name=sky> creates Awakened Feather. Or for a Scholar-level recipe: brush a Light with the feather, and see dawn-essence drip from the air.]",
+  "dove": "recipes/craft.sights.sensations_awakened.feather_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Align shadows to invite the attention of a Moth-name. \n\n[Watchman's Paradoxes with Prentice-level <sprite name=lantern> creates Tanglebrag. Or for a Scholar-level recipe: align the shadows through Glass, and gather a Lantern-liquid.]",
+  "dove": "recipes/craft.watchmansparadoxes_tanglebrag_lantern.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "An alchemical trick for rendering the ephemeral into volatile compounds - 'the Moth finds the Flame'. \n\n[Solutions & Separations with Prentice-level <sprite name=moth> creates Westcott's Compounds. Or for a Scholar-level recipe:  if I include a Memory and smoke the preparation while it's fresh, I'll gain a riddlesome insight.]",
+  "dove": "recipes/craft.solutions.separations_material.westcott_moth.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "An old mason's trick: concentrate smouldering essences into a Forge ingredient. \n\n[Door & Wall with Prentice-level <sprite name=forge> creates Bitterblack Salts. Or for a Scholar-level recipe: if I add Metal to Scholar-level Forge, I could alloy it into something exotic.]",
+  "dove": "recipes/craft.door.wall_salts.bitterblack_forge.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "An opening-opportunity that'll last a little while.",
+  "dove": "recipes/craft.door.wall_secret.threshold_knock.desc",
+  "ricorre": 4
+ },
+ {
+  "en": "As it clarifies, the Tincture vibrates judderingly. The technical term for this is 'growling'.",
+  "dove": "recipes/craft.edictsmartial_tincture.labhitic_edge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "As it clarifies, the Tincture vibrates judderingly. This is called 'growling'.",
+  "dove": "recipes/craft.disciplines.thehammer_tincture.labhitic_edge.desc",
+  "ricorre": 3
+ },
+ {
+  "en": "Bind a little wandering life to an abandoned feather. \n\n[Stitching & Binding with Prentice-level <sprite name=sky> creates Awakened Feather. Or for a Scholar-level recipe: bind that life to an Egg, and hatch something that recalls an earlier era.]",
+  "dove": "recipes/craft.stitching.binding_awakened.feather_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Bitterblack Salts have been used as an ingredient in jeweller's polish, but they have many other purposes.",
+  "dove": "recipes/craft.anbary.lapidary_salts.bitterblack_forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Bitterblack Salts were used in mortar once, but they have many other purposes.",
+  "dove": "recipes/craft.door.wall_salts.bitterblack_forge.desc",
+  "ricorre": 1
+ },
+ {
+  "en": "Blend acids for a paradoxical Knock-ampoule. \n\n[Lockworks & Clockworks with Prentice-level <sprite name=knock> creates Amethyst Ampoule. Or for a Scholar-level recipe: if I add Glass, I'll create a Knock-alloy of interest to the most ambitious clockmakers.]",
+  "dove": "recipes/craft.lockworks.clockworks_ampoule.amethyst_knock.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and persistent ink. \n\n[Inks of Containment with Prentice-level <sprite name=sky> creates Stargall Ink.]",
+  "dove": "recipes/craft.inks.containment_stargall.ink_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and persistent ink. \n\n[Inks of Power with Prentice-level <sprite name=sky> creates Stargall Ink.]",
+  "dove": "recipes/craft.inks.power_stargall.ink_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a bright and persistent ink. \n\n[Inks of Revelation with Prentice-level <sprite name=sky> creates Stargall Ink.]",
+  "dove": "recipes/craft.inks.revelation_stargall.ink_sky.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a calming cure. \n\n[Quenchings & Quellings with Prentice-level <sprite name=heart> creates Regensburg Balm. Or for a Scholar-level recipe: if I add a suitably aspected Liquid, I'll brew something more potent.]",
+  "dove": "recipes/craft.quenchings.quellings_liquid.regensburg_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a dark and persistent ink. \n\n[Inks of Containment with Prentice-level <sprite name=nectar> creates Yewgall Ink.]",
+  "dove": "recipes/craft.inks.containment_yewgall.ink_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a dark and persistent ink. \n\n[Inks of Power with Prentice-level <sprite name=nectar> creates Yewgall Ink.]",
+  "dove": "recipes/craft.inks.power_yewgall.ink_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a dark and persistent ink. \n\n[Inks of Revelation with Prentice-level <sprite name=nectar> creates Yewgall Ink.]",
+  "dove": "recipes/craft.inks.revelation_yewgall.ink_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a dark and persistent ink. \n\n[Insects & Nectars with Prentice-level <sprite name=nectar> creates Yewgall Ink. Or for a Scholar-level recipe: if I use this with a Beverage, I'll mix a darker, stronger liquor.]",
+  "dove": "recipes/craft.insects.nectars_yewgall.ink_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a dark and persistent ink. \n\n[Leaves & Thorns with Prentice-level <sprite name=nectar> creates Yewgall Ink. Or for a Scholar-level recipe: if I steep Wood in the right proportions of the mixture, it'll burst into strange fruit.]",
+  "dove": "recipes/craft.leaves.thorns_yewgall.ink_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a dark and persistent ink. \n\n[Putrefactions & Calcinations with Prentice-level <sprite name=winter> creates Yewgall Ink. Or for a Scholar-level recipe: if I crush in a Leaf, I'll brew a more potent, and much more dangerous, ink.]",
+  "dove": "recipes/craft.putrefactions.calcinations_yewgall.ink_winter.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a dark and persistent ink. \n\n[Rites of the Roots with Prentice-level <sprite name=nectar> creates Yewgall Ink. Or for a Scholar-level recipe: if I use this with a Beverage, I'll mix a darker, stronger liquor.]",
+  "dove": "recipes/craft.rites.theroots_yewgall.ink_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a gritty, grainy miscellany of cordials. \n\n[Stone Stories with Prentice-level <sprite name=nectar> creates Thirza's Cordials. Or for a Scholar-level recipe: if I add Remains, I might awaken bone-deep earth-memories.]",
+  "dove": "recipes/craft.stonestories_liquid.thirza_nectar.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a herbal palliative. \n\n[Herbs & Infusions with Prentice-level <sprite name=heart> creates Regensburg Balm. Or for a Scholar-level recipe: if I add a suitably aspected Liquid, I'll brew something more potent.]",
+  "dove": "recipes/craft.herbs.infusions_liquid.regensburg_heart.startdescription",
+  "ricorre": 1
+ },
+ {
+  "en": "Brew a minor Ink with a virtue against vermin. \n\n[Inks of Containment with Prentice-level <sprite name=moon> creates Catwink. Or for a Scholar-level recipe: if I use this with a Beverage, I'll mix a dark liquor that is also a precursor to a Great Ink.]",
+  "dove": "recipes/craft.inks.containment_catwink_moon.startdescription",
+  "ricorre": 1
+ }
+]

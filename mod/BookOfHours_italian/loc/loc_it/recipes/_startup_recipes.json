@@ -1,0 +1,223 @@
+{
+ "recipes": [
+  {
+   "id": "setup.librarian.day",
+   "label": "Dopo la Tempesta: l’Alba si Avvicina",
+   "startdescription": "Le stelle hanno lottato per farsi strada tra i brandelli di nubi della tempesta, ma ora si ritirano mentre l’alba si avvicina..."
+  },
+  {
+   "id": "setup.librarian.season",
+   "label": "Il Crocevia delle Stagioni",
+   "startdescription": "Inizia un nuovo anno!"
+  },
+  {
+   "id": "setup.librarian.bookcase"
+  },
+  {
+   "id": "setup.librarian.visitors"
+  },
+  {
+   "id": "setup.librarian.consider",
+   "label": "Il freddo viene prima",
+   "startdescription": "Tuoni che rombano. Onde che scrosciano...",
+   "desc": "Tuoni che rombano. Onde che scrosciano... e infine io, riverso sulla sabbia fradicia della spiaggia. C’è qualcosa nella mia mano."
+  },
+  {
+   "id": "setup.librarian.shipwrecked",
+   "label": "Ricordo...",
+   "startdescription": "Ci fu una tempesta. Fracassò la nave come un uovo. Ma io afferrai questo libro mentre il mare afferrava me... poi il mare mi portò qui, a Brancrug.",
+   "desc": "Ci fu una tempesta. Fracassò la nave come un uovo. Ma io afferrai questo libro mentre il mare afferrava me... poi il mare mi portò qui, a Brancrug. E Brancrug è dove volevo essere. Ma è difficile ricordare perché. Cos’altro ho perso nella tempesta?"
+  },
+  {
+   "id": "setup.librarian.consider.shipwrecked.halfdrowned.hint",
+   "label": "Dita Assiderate",
+   "startdescription": "Il libro è ridotto male, e io non sto molto meglio. Entrambi abbiamo bisogno di un posto caldo, asciutto e sicuro, al più presto."
+  },
+  {
+   "id": "setup.librarian.consider.journalwithability.hint",
+   "label": "Sì?",
+   "startdescription": "Questo libro mi ha aiutato a ricordare qualcosa. Cos’altro riesco a rievocare?"
+  },
+  {
+   "id": "setup.librarian.consider.shipwrecked.hint",
+   "label": "Ricordo...?",
+   "startdescription": "Forse questo libro può aiutarmi a rimettere insieme i pezzi."
+  },
+  {
+   "id": "setup.librarian.consider.mem.storm.hint",
+   "label": "Memorie Disperse",
+   "startdescription": "Non riesco a mettere ordine nei pensieri. Ma c’è qualcosa nella mia mano... [Il tuo unico possesso rimasto si trova in uno slot Effetti Personali in alto.]"
+  },
+  {
+   "id": "setup.librarian.consider.xhea.halfdrowned.hint",
+   "label": "In Vita, Più o Meno",
+   "startdescription": "Sono fradicio, sto gelando, ma per quanto ne so, sono ancora vivo. [Hai ancora un po’ di Salute. Non perderla. Ti serve, se vuoi restare in vita. Cos’altro hai? Il tuo unico bene rimasto è in uno slot Effetti Personali in alto.]"
+  },
+  {
+   "id": "setup.librarian.consider.ability.hint",
+   "label": "Ho iniziato a ricordare –",
+   "startdescription": "Questo elemento della mia anima è forte. Cos’altro? [Scegli un’altra Memoria, e recupera un altro Elemento dell’Anima.]"
+  },
+  {
+   "id": "setup.librarian.fet",
+   "label": "Cosa Resta di Me? I Sogni?",
+   "startdescription": "L’anima umana è composta da nove parti. <i>Fet</i> è quella parte dell’anima che sogna. Il mio <i>fet</i> è forte? [Recupera questo. Le altre due possibilità andranno perdute nel mare... per ora.]",
+   "desc": "Questa è la costa dove si trova l’Isola di Brancrug. L’ho vista nei miei sogni, notte dopo notte. So che non c’è modo di raggiungere l’isola con questo mare. Dovrò trovare riparo per la notte."
+  },
+  {
+   "id": "setup.librarian.cho",
+   "label": "Cosa Resta di Me? L’Istinto?",
+   "startdescription": "L’anima umana è composta da nove parti. Esuberanza, entusiasmo, istinto sorgono tutti da quella parte dell’anima che chiamiamo <i>chor</i>. Il mio <i>chor</i> è forte? [Recupera questo. Le altre due possibilità andranno perdute nel mare... per ora.]",
+   "desc": "Questa è la costa dove si trova l’Isola di Brancrug. Non è stato facile arrivare fin qui... ma non mi arrendo facilmente. Ciò nonostante, so che non c’è modo di raggiungere l’isola con questo mare. Dovrò trovare riparo per la notte."
+  },
+  {
+   "id": "setup.librarian.shapt",
+   "label": "Cosa Resta di Me? Le Parole?",
+   "startdescription": "L’anima umana è composta da nove parti. Eloquenza e comprensione sorgono da quella parte dell’anima che chiamiamo <i>shapt</i>. Il mio <i>shapt</i> è forte? [Recupera questo. Le altre due possibilità andranno perdute nel mare... per ora.]",
+   "desc": "Questa è la costa dove si trova l’Isola di Brancrug. Le mie fonti mi hanno informato a fondo su questo luogo, e so che non c’è modo di raggiungere l’isola con questo mare. Dovrò trovare riparo per la notte."
+  },
+  {
+   "id": "setup.librarian.mettle",
+   "label": "Cosa Resta di Me? La Mia Forza di Carattere?",
+   "startdescription": "<i>Mettle</i> è la tempra dell’anima – volontà; autodisciplina; quella parte di noi che compie la scelta giusta. [Scegli un <i>mettle</i> forte, e un passato in cui hai commesso errori. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Forse qui potrò espiare tutto ciò che ho fatto. Ma cos’era, di preciso?\n\nPrima le cose importanti. Ricordo che c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  },
+  {
+   "id": "setup.librarian.phost",
+   "label": "Cosa Resta di Me? La Luce?",
+   "startdescription": "<i>Phost</i> è la luce interiore: vista, percezione, ispirazione. [Scegli un <i>phost</i> forte, e un passato con un inseguitore capace di vedere la luce dentro di te. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Forse qui troverò salvezza da ciò che mi insegue. Ma cos’era, di preciso?\n\nPrima le cose importanti. Ricordo che c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  },
+  {
+   "id": "setup.librarian.ereb",
+   "label": "Cosa Resta di Me? La Passione?",
+   "startdescription": "<i>Ereb</i> è l’ombra nella cantina dell’anima: orgoglio, paura, odio, compassione. [Scegli un <i>ereb</i> forte, e un passato in cui le tue passioni erano supreme. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Volevo qualcosa che non avevo. Ora non ho quasi più nulla, no? Suppongo che questo dovrebbe rendere tutto più facile.\n\nPrima le cose importanti. Ricordo che c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  },
+  {
+   "id": "setup.librarian.wist",
+   "label": "Cosa Resta di Me? La Conoscenza?",
+   "startdescription": "<i>Wist</i> è la memoria dell’anima, il vero nome inciso sulla sua pietra angolare, ciò che resta quando tutto il resto è passato. [Scegli un <i>wist</i> forte, e un passato in cui hai cercato voci che erano cadute nel silenzio. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Ci sono ancora cose che non ricordo. Ma questo <i>lo ricordo</i>: c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  },
+  {
+   "id": "setup.librarian.talk",
+   "label": "Riparo?",
+   "startdescription": "Il Villaggio di Brancrug dev’essere qui vicino. Ma è dura, trascinare il mio corpo fradicio sulla sabbia fradicia, contro questo vento che morde. Da che parte?"
+  },
+  {
+   "id": "setup.librarian.talk.cho",
+   "label": "Qualcosa nel Vento?",
+   "startdescription": "Il mio istinto mi dice che potrebbe essere questa la strada – e senza una mappa, l’istinto vale quanto qualunque bussola.",
+   "desc": "Le scogliere si scuriscono contro le stelle sfilacciate – e poi, alla fine, vedo la luce di una lampada a vento ondeggiare nel buio. Man mano che si avvicina, un volto brilla sopra la lampada."
+  },
+  {
+   "id": "setup.librarian.talk.fet",
+   "label": "Déjà Vu?",
+   "startdescription": "Ho sognato questa spiaggia e questo vento? Se è così, potrei ricordare il sentiero che presi in quel sogno – un sentiero che mi portò la luce.",
+   "desc": "Alla fine, la luce di una lampada a vento che ondeggia nel buio. Man mano che si avvicina, un volto emerge dalla notte."
+  },
+  {
+   "id": "setup.librarian.talk.shapt",
+   "label": "Un Grido d’Aiuto?",
+   "startdescription": "Forse c’è qualcuno là fuori, anche con questo tempo. Posso riempire i polmoni e urlare aiuto. (Questo significherebbe anche non dover più strisciare.)",
+   "desc": "Alla fine vedo la luce di una lampada a vento ondeggiare nel buio. Man mano che si avvicina, un volto brilla sopra la lampada."
+  },
+  {
+   "id": "catalogue.journal.revolutionary",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? Quella copertina di metallo grigio mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – ora non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui... per comprendere le possibilità di una rivoluzione cosmica. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.executioner",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? La copertina liscia e screziata mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui... per rimediare. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.archaeologist",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? Quella copertina di cuoio consunto mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui... per comprendere la mia maledizione, e redimermi. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.cartographer",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? Quella copertina dalle squame morbide mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui – per completare il mio capolavoro – la mia ultima mappa. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.prodigal",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? Quella copertina ramata mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui... e il pericolo da cui sono in fuga. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.twiceborn",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? Quella copertina tempestata d’ambra mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui... e le due vite che ho vissuto. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.magnate",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? Questa rilegatura d’argento mi è familiare. Ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui. Con tempo e pace, ricorderò di più. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.symurgist",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? Questa copertina piumata mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui... e la conoscenza a cui anelo. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "catalogue.journal.artist",
+   "label": "Un Diario?",
+   "startdescription": "<i>Il mio</i> diario? La rilegatura di seta mi è familiare – ma la tempesta ha così disperso i miei pensieri...",
+   "desc": "Il mio diario – non ho dubbi. La tempesta ha disperso i miei pensieri, ma ogni pagina che volto mi è familiare. Comincio a ricordare ora perché mi trovo qui. Per l’arte. O meglio, per l’Arte. Un’Arte veramente, veramente grande. [Altro sulle tue origini, e sulle tue aspirazioni, nel tuo diario. Ora puoi anche accedere all’Albero delle Sapienze dalla parte superiore dello schermo.]"
+  },
+  {
+   "id": "legacy.setup.librarian.fet",
+   "label": "Cosa Resta di Me? I Sogni?",
+   "startdescription": "L’anima umana è composta da nove parti. <i>Fet</i> è quella parte dell’anima che sogna. Il mio <i>fet</i> è forte? [Recupera questo. Le altre due possibilità andranno perdute nel mare... per ora.]",
+   "desc": "Questa è la costa dove si trova l’Isola di Brancrug. L’ho vista nei miei sogni, notte dopo notte. So che non c’è modo di raggiungere l’isola con questo mare. Dovrò trovare riparo per la notte."
+  },
+  {
+   "id": "legacy.setup.librarian.cho",
+   "label": "Cosa Resta di Me? L’Istinto?",
+   "startdescription": "L’anima umana è composta da nove parti. Esuberanza, entusiasmo, istinto sorgono tutti da quella parte dell’anima che chiamiamo <i>chor</i>. Il mio <i>chor</i> è forte? [Recupera questo. Le altre due possibilità andranno perdute nel mare... per ora.]",
+   "desc": "Questa è la costa dove si trova l’Isola di Brancrug. Non è stato facile arrivare fin qui... ma non mi arrendo facilmente. Ciò nonostante, so che non c’è modo di raggiungere l’isola con questo mare. Dovrò trovare riparo per la notte."
+  },
+  {
+   "id": "legacy.setup.librarian.shapt",
+   "label": "Cosa Resta di Me? Le Parole?",
+   "startdescription": "L’anima umana è composta da nove parti. Eloquenza e comprensione sorgono da quella parte dell’anima che chiamiamo <i>shapt</i>. Il mio <i>shapt</i> è forte? [Recupera questo. Le altre due possibilità andranno perdute nel mare... per ora.]",
+   "desc": "Questa è la costa dove si trova l’Isola di Brancrug. Le mie fonti mi hanno informato a fondo su questo luogo, e so che non c’è modo di raggiungere l’isola con questo mare. Dovrò trovare riparo per la notte."
+  },
+  {
+   "id": "legacy.setup.librarian.mettle",
+   "label": "Cosa Resta di Me? La Mia Forza di Carattere?",
+   "startdescription": "<i>Mettle</i> è la tempra dell’anima – volontà; autodisciplina; quella parte di noi che compie la scelta giusta. [Scegli un <i>mettle</i> forte, e un passato in cui hai commesso errori. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Forse qui potrò espiare tutto ciò che ho fatto. Ma cos’era, di preciso?\n\nPrima le cose importanti. Ricordo che c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  },
+  {
+   "id": "legacy.setup.librarian.phost",
+   "label": "Cosa Resta di Me? La Luce?",
+   "startdescription": "<i>Phost</i> è la luce interiore: vista, percezione, ispirazione. [Scegli un <i>phost</i> forte, e un passato con un inseguitore capace di vedere la luce dentro di te. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Forse qui troverò salvezza da ciò che mi insegue. Ma cos’era, di preciso?\n\nPrima le cose importanti. Ricordo che c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  },
+  {
+   "id": "legacy.setup.librarian.ereb",
+   "label": "Cosa Resta di Me? La Passione?",
+   "startdescription": "<i>Ereb</i> è l’ombra nella cantina dell’anima: orgoglio, paura, odio, compassione. [Scegli un <i>ereb</i> forte, e un passato in cui le tue passioni erano supreme. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Volevo qualcosa che non avevo. Ora non ho quasi più nulla, no? Suppongo che questo dovrebbe rendere tutto più facile.\n\nPrima le cose importanti. Ricordo che c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  },
+  {
+   "id": "legacy.setup.librarian.wist",
+   "label": "Cosa Resta di Me? La Conoscenza?",
+   "startdescription": "<i>Wist</i> è la memoria dell’anima, il vero nome inciso sulla sua pietra angolare, ciò che resta quando tutto il resto è passato. [Scegli un <i>wist</i> forte, e un passato in cui hai cercato voci che erano cadute nel silenzio. Le onde spazzeranno via le altre... per ora.]",
+   "desc": "Ci sono ancora cose che non ricordo. Ma questo <i>lo ricordo</i>: c’è qualcuno nel villaggio che mi darà rifugio – se riesco ad arrivarci.\n\n[Dei Misteri sono stati aggiunti al tuo Diario. Potrai iniziare a indagarli quando tu e il tuo diario sarete entrambi asciutti.]"
+  }
+ ]
+}

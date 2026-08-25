@@ -1,0 +1,219 @@
+{"recipes": [
+
+
+  {"id":"bed.rest.malady.forge",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"I need warmth and brightness as I rest. [You've supplied enough Forge.]",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.forge":1,"forge":"malady.cure.forge"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id":"bed.rest.malady.grail",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"Strong sensation will bring my wandering spirit home.",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.grail":1,"grail":"malady.cure.grail"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id":"bed.rest.malady.heart",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"[You've supplied enough Heart.]",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.heart":1,"heart":"malady.cure.heart"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id":"bed.rest.malady.lantern",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"[You've supplied enough Lantern.]",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.lantern":1,"lantern":"malady.cure.lantern"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id":"bed.rest.malady.moth",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"[You've supplied enough Moth.]",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.moth":1,"moth":"malady.cure.moth"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id":"bed.rest.malady.nectar",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"[You've supplied enough Nectar.]",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.nectar":1,"nectar":"malady.cure.nectar"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id":"bed.rest.malady.sky",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"[You've supplied enough Sky.]",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.sky":1,"sky":"malady.cure.sky"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id":"bed.rest.malady.winter",
+  "actionid":"library.bed.rest.*",
+  "label":"Cure my Malady",
+  "startdescription":"[You've supplied enough Winter.]",
+  "desc":"Time, peace, recovery.",
+  "reqs":{"restorative":1,"malady.cure.winter":1,"winter":"malady.cure.winter"},
+  "aspects":{"malady.curing":1,"fatiguing":1},
+  "warmup":180,
+  "craftable":true
+  },
+
+  {"id": "bed.rest",
+  "actionid": "library.bed.rest*",
+  "label":"Rest",
+  "startdescription": "A quick nap in a warm bed with something comforting to drink, while the winds chase the clouds and the clouds chase the sun. [Restore a fatigued Soul card.]",
+  "desc": "I deserved a little quiet time.",
+  "reqs": {"ability":1,"fatigued":1,"restorative":1},
+  "aspects":{"fatiguing":1,"recovering.ability":1},
+  "warmup":90,
+"craftable":true},
+
+
+
+{"id": "bed.guest.camp",
+"actionid": "library.bed.guest.*",
+"label":"Camp",
+"startdescription": "I'll make this my lodgings for the time being. [Move your belongings into this room; you can then use this bed to rest Soul cards and recover Maladies.]",
+"desc": "This is a safe place for me now... to the extent that dreams are safe.",
+"extantreqs":{"mybed":-1},
+"reqs": {"ability":1,"fatigued":-1},
+"aspects":{"camping":1,"fatiguing.ability":1},
+"warmup":90,
+"craftable":true},
+
+{"id": "bed.rest.decamp",
+"label": "Decamp",
+"actionid": "library.bed.rest.*",
+"startdescription": "Hush House is a mansion of many rooms. I'll move to a different one. [Or add other cards if you'd like to try something else.]",
+"desc": "Gathered my belongings, refreshed the sheets for any guests I might have. Ready to move on.",
+"reqs": {"ability":1,"skill":-1,"fatigued":-1,"malady":-1,"memory":-1,"thing":-1},
+"warmup":30,
+"aspects":{"decamping":1,"fatiguing.ability":1},
+"craftable":true},
+
+{"id": "bed.rest.ability.restable.hint",
+"label": "Rest?",
+"actionid": "library.bed.rest.*",
+"startdescription": "I could settle in for a nap with a cup of something warming, or a glass of something soothing. [Add something Restorative, like a Beverage or fresh linen, to restore your Soul card without waiting overnight.]",
+"reqs": {"ability":1,"fatigued":1,"restorative":-1},
+"hintonly":true},
+
+{"id": "bed.rest.malady.curable.hint",
+"label": "Cure a Malady?",
+"actionid": "library.bed.rest.*",
+"startdescription": "I could cure this Malady with bed rest, something suitable to drink, and enough of the relevant Aspect. [Check the Malady card for details.]",
+"reqs": {"malady":1,"restorative":-1},
+"hintonly":true},
+
+
+{"id": "bed.guest.campedelsewhere.hint",
+"label": "Another Room?",
+"actionid": "library.bed.guest.*",
+"startdescription": "I'm sleeping somewhere else at the moment. [Use a Soul card in your current bed to decamp; and then come back here to move in.]",
+"extantreqs":{"mybed":1},
+"reqs": {"ability":1},
+"hintonly":true},
+
+{"id": "bed.guest.camp.hint",
+"label": "Moving In",
+"actionid": "library.bed.guest.*",
+"startdescription": "This isn't my bed... yet. [Use a Soul card to move your belongings in and make this your bed.]",
+"extantreqs":{"mybed":-1},
+"reqs": {"fatigued":1,"ability":1},
+"hintonly":true},
+
+{"id": "bed.guest.camp.malady.hint",
+"label": "Moving In",
+"actionid": "library.bed.guest.*",
+"startdescription": "This isn't my bed... yet. [Use a Soul card to move your belongings in and make this your bed.]",
+"extantreqs":{"mybed":-1},
+"reqs": {"malady":1},
+"hintonly":true},
+
+{"id": "bed.guest.visitor",
+"actionid": "library.bed.guest.*",
+"label":"Camp",
+"startdescription": "[Visitors will stay in a suitable bed for a little longer - in case you think you might be close to finding a suitable book.]",
+"desc": "My visitor grows impatient...",
+"reqs": {"visitor":1},
+"warmup":180,
+"craftable":true},
+
+{"id":"bed.rest.memory",
+"actionid":"library.bed.rest.*",
+"label":"Dream on a Memory",
+"startdescription":"Now that night has fallen, I can rest - and perhaps dream on the day's doings. [Dreaming on a Memory will preserve it past Dawn, allowing you to keep it until the following day.]", 
+"desc":"I've carried a Memory like a flambeau safe through the mazes of night. [This will complete once dawn has come.]",
+"reqs":{"memory":1,"fatigued":-1,"malady":-1,"weather":-1},
+"extantreqs":{"sleepytime":1},
+"warmup":30,
+"craftable":true,
+"linked":[{"id":"bed.rest.memory.finish"}]
+},
+{"id":"bed.rest.memory.finish",
+"actionid":"library.bed.rest.*",
+"label":"Dream on a Memory",
+
+"reqs":{"memory":1,"fatigued":-1,"malady":-1,"weather":-1},
+"extantreqs":{"sleepytime":1},
+"warmup":30,
+"linked":[{"id":"bed.rest.memory.finish"}]
+},
+
+{"id":"bed.rest.memory.hint",
+"actionid":"library.bed.rest.*",
+"label":"Dream on a Memory?",
+"startdescription":"Night has not yet fallen. But once it has, I can rest - and perhaps dream on the day's doings. [Dreaming on a Memory will preserve it past Dawn, allowing you to keep it until the following day. Add a Memory once the sun has set.]",
+"reqs":{"memory":1,"fatigued":-1,"malady":-1,"weather":-1},
+"hintonly":true
+},
+{"id":"bed.rest.memory.weather.hint",
+"actionid":"library.bed.rest.*",
+"label":"Dream on a Memory?",
+"startdescription":"Once night has fallen, I can rest - and perhaps dream on the day's doings. [Dreaming on most Memories will preserve them past Dawn - but Weather Memories can't be used in this way.]",
+"reqs":{"memory":1,"fatigued":-1,"malady":-1,"weather":1},
+"hintonly":true
+},
+
+{"id":"bed.rest.crafting.blocker",
+"actionid":"library.bed.rest.*",
+"label":"Crafting in Bed is Not Safe",
+"startdescription":"If I want to make something, I'll need to get out of bed - but if I want to cure a Malady, I can use Skills and Memories with something Restorative, like fresh linen or a Beverage.",
+"reqs":{"skill":1,"ability":1},
+"craftable":true,
+"hintonly":true
+}
+
+]
+}

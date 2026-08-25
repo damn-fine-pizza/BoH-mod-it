@@ -1,0 +1,13 @@
+{"recipes": [
+
+       {"id": "present.u.winter",	"actionid": "world.tree.gate",	"label":"The Agonalia of Janus",
+       	"startdescription":"January 9th, 1838. A heavy snow falls on Brancrug. When the staff dig themselves out, Solomon Husher, third Librarian of the House, has disappeared from his quarters in the Long Tower, leaving a letter of resignation. 'Winter,' the letter concludes, 'does not wait forever; though Janus might.' Husher is never seen again, but every year on the same day, his footprints can be found beneath the Tree.\n\n [This is a hidden ending.]",	"reqs":{"ability":1,"journal":1,"winter":3,"de.winter":1},
+        "ending":"end.u.winter",	"extantreqs":{"season.winter":1},"warmup":10,"craftable":true	},
+
+
+        {"id": "present.u.evening",	"actionid": "world.tree.gate",	"label":"Sunset Beneath the Tree",
+        "startdescription":"Hush House lives again. Perhaps that's all I want. Some of the very best Librarians have worked well, lived quietly, left the world a better place...\n[This will end your game. Ambitious Librarians might prefer to keep looking for another victory. Contented librarians understand that to restore the House, and find the Tree, is victory enough. Or, of course, you could choose this ending any time you like - and begin again with another Librarian.]",	"reqs":{"ability":1,"journal":1,"history":-1},
+     "ending":"end.u.evening","warmup":10,"craftable":true	}
+ 
+]
+}

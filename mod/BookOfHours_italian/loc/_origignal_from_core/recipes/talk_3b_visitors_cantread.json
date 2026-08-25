@@ -1,0 +1,125 @@
+{"recipes": [
+ 
+
+
+
+
+{"id": "talk.visitor.cantread.aramaic",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Aramaic. This text is of no use to them.",
+"reqs": {"u.aramaic":-1,"w.aramaic":1},
+"aspects":{"dissatisfying":1}
+},
+
+{"id": "talk.visitor.cantread.greek",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Greek. This text is of no use to them.",
+"reqs": {"u.greek":-1,"w.greek":1},
+"aspects":{"dissatisfying":1}
+},
+
+{"id": "talk.visitor.cantread.latin",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Latin. This text is of no use to them.",
+"reqs": {"u.latin":-1,"w.latin":1},
+"aspects":{"dissatisfying":1}
+},
+
+{"id": "talk.visitor.cantread.phrygian",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Phrygian. This text is of no use to them.",
+"reqs": {"u.phrygian":-1,"w.phrygian":1},
+"aspects":{"dissatisfying":1}
+},
+
+{"id": "talk.visitor.cantread.sanskrit",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Sanskrit. This text is of no use to them.",
+"reqs": {"u.sanskrit":-1,"w.sanskrit":1},
+"aspects":{"dissatisfying":1}
+},
+
+{"id": "talk.visitor.cantread.cracktrack",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Cracktrack. This text is of no use to them.",
+"reqs": {"u.cracktrack":-1,"w.cracktrack":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.ericapaean",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Ericapaean. This text is of no use to them.",
+"reqs": {"u.ericapaean":-1,"w.ericapaean":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.fucine",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Fucine. This text is of no use to them.",
+"reqs": {"u.fucine":-1,"w.fucine":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.henavek",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Kernewek Henavek. This text is of no use to them.",
+"reqs": {"u.henavek":-1,"w.henavek":1},
+"aspects":{"dissatisfying":1}
+},
+
+{"id": "talk.visitor.cantread.hyksos",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Hyksos. This text is of no use to them.",
+"reqs": {"u.hyksos":-1,"w.hyksos":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.killasimi",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Killasimi. This text is of no use to them.",
+"reqs": {"u.killasimi":-1,"w.killasimi":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.mandaic",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Mandaic. This text is of no use to them.",
+"reqs": {"u.mandaic":-1,"w.mandaic":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.ramsund",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Ramsund. This text is of no use to them.",
+"reqs": {"u.ramsund":-1,"w.ramsund":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.sabazine",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Sabazine. This text is of no use to them.",
+"reqs": {"u.sabazine":-1,"w.sabazine":1},
+"aspects":{"dissatisfying":1}
+},
+{"id": "talk.visitor.cantread.vak",
+"label": "'Um...'",
+"actionid": "talk",
+"startdescription": "My visitor can't read Vak. This text is of no use to them.",
+"reqs": {"u.vak":-1,"w.vak":1},
+"aspects":{"dissatisfying":1}
+}
+
+
+
+
+
+
+]
+}

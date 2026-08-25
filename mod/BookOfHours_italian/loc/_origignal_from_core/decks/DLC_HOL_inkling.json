@@ -1,0 +1,25 @@
+ {"decks": [
+ 
+         {
+            "id": "d.inkling",
+            "label": "Inkling Outcomes",
+            "desc": "Memories that might spawn from an Inkling.",
+            "spec": [
+               "winning.move",
+                "curious.hunch",
+                "enduring.reflection",
+                "forbidden.epic",
+                "horizonsight",
+                "invincible.audacity",
+                "occult.scrap",
+                "windinwaiting",
+                "wormwood.dream"
+                
+            ],
+            "resetonexhaustion": true,
+            "defaultcard":  "forbidden.epic"
+        }
+       
+
+]
+}

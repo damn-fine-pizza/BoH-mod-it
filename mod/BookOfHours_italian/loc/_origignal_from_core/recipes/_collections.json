@@ -1,0 +1,22 @@
+{"recipes": [
+ 
+{"id": "collection.busts",
+"label": "Librarians Past, Present, Future",
+"actionid": "collection.busts",
+"startdescription": "I am the twelfth Librarian of Hush House...",
+"desc": "I am the twelfth Librarian of Hush House; and I, too, will be remembered.",
+"craftable":true,
+"effects":{"xwis":1},
+"warmup":30,
+"achievements":["A_EVENT_BUSTMASTER"]
+},
+{"id": "collection.test",
+"label": "rawr",
+"actionid": "collection.test",
+"startdescription": "!",
+"craftable":true,
+"effects":{"cat.tame":1},
+"warmup":2
+}
+]
+}

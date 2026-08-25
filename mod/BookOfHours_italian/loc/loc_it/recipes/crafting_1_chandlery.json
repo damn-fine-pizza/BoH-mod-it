@@ -1,0 +1,46 @@
+{
+ "recipes": [
+  {
+   "id": "chandlery.aglaophotis",
+   "label": "Preparare una Candela Profumata all’Aglaophotis",
+   "startdescription": "Per protezione, forse.",
+   "desc": "L’aria si libera, e così i miei pensieri."
+  },
+  {
+   "id": "chandlery.fragrant.chalice",
+   "label": "Preparare una Candela-Calice",
+   "startdescription": "Per diletto, senza dubbio.",
+   "desc": "L’odore è ricco come le rose."
+  },
+  {
+   "id": "chandlery.historywax",
+   "label": "Preparare una Candela di Cera-Storia",
+   "startdescription": "Per vedere come tutto cambia.",
+   "desc": "La fiamma tremolerà, e le Storie ondeggeranno."
+  },
+  {
+   "id": "chandlery.honeyscar",
+   "label": "Preparare una Candela al Profumo di Honeyscar",
+   "startdescription": "Per portare un dolce calore.",
+   "desc": "Una fiamma arancione e ruggente, una dolcezza ramata."
+  },
+  {
+   "id": "chandlery.mothorchid",
+   "label": "Preparare una Candela Profumata all’Orchidea Falena",
+   "startdescription": "Per portare sogni.",
+   "desc": "Un profumo come la sera."
+  },
+  {
+   "id": "chandlery.pyrus",
+   "label": "Preparare una Candela di <i>pyrus auricalcinus</i>",
+   "startdescription": "Una luce potente, nel posto giusto.",
+   "desc": "Forgia e Nettare: in molti li considerano opposti. C’è un’altra verità nelle ombre della Malachite?"
+  },
+  {
+   "id": "chandlery.beeswax",
+   "label": "Preparare una Candela di Cera d’Api",
+   "startdescription": "[Oppure aggiungi un secondo ingrediente adatto.]",
+   "desc": "Semplice e luminosa."
+  }
+ ]
+}

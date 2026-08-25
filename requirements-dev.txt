@@ -1,0 +1,5 @@
+# Serve solo a chi lavora al repository: i test.
+#     .venv/bin/pip install -r requirements-dev.txt
+#     .venv/bin/python -m pytest
+-r requirements.txt
+pytest>=8

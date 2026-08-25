@@ -1,0 +1,124 @@
+{"achievements": [
+
+
+
+  { "id": "A_AFFAIR_CASKET", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+  "singleDescription": true, "validateOnStorefront": true,
+  "label": "L'Affaire du Cercueil du Messager",
+  "descriptionunlocked": "Dans un repli caché des montagnes au-dessus de la ville de Cluj se trouve la relique énigmatique qu'on appelle le Cercueil de Saint Mihail…"
+},
+{ "id": "A_AFFAIR_GRUNEWALD", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de la Provision Grunewald",
+"descriptionunlocked": "Les actifs du Cirque Permanent de Grunewald ont été liquidés par le Bureau. Avec le recul, on peut dire que c'était une erreur…"
+},
+{ "id": "A_AFFAIR_HEIST", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire du Vol d'Oriflamme",
+"descriptionunlocked": "L'Hôtel des Ventes Oriflamme n'est jamais cambriolé. Mais… si c’était le cas?"
+},
+{ "id": "A_AFFAIR_SKIN", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de la Seconde Peau",
+"descriptionunlocked": "Le labhite Abecassis a entamé une métamorphose dramatique et dangereuse…"
+},
+{ "id": "A_AFFAIR_GUEST", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de l'Invité Perpétuel",
+"descriptionunlocked": "Une 'habitation de Vers' n'est jamais à prendre à la légère…"
+},
+{ "id": "A_AFFAIR_ROSE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de la Rose Pommelée",
+"descriptionunlocked": "Un autre homme est mort dans le désert. Il s'est extasié jusqu'à la fin sur les jardins, une fleur écrasée dans la main…"
+},
+{ "id": "A_AFFAIR_DEBT", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L’Affaire de la Dette Remboursable",
+"descriptionunlocked": "Deux bandes de Calculateurs sont entrées en guerre dans la banale ville lituanienne de Kaunas. Pourquoi? Qu’y a-t-il à Kaunas?"
+},
+{ "id": "A_AFFAIR_MYSTIQUE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L’Affaire de la Mystique Particulière",
+"descriptionunlocked": "Le Bureau de Suppression s'intéresse de plus en plus à l'engouement récent pour des mouvements religieux - souvent prophétiques - non conventionnels…"
+},
+{ "id": "A_AFFAIR_CLAWCLOUDS", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de la Griffe et des Nuages",
+"descriptionunlocked": "Depuis le lointain monastère de St Tentreto, nous entendons des histoires de visiteurs inattendus - de visiteurs venus de derrière le ciel…"
+},
+{ "id": "A_AFFAIR_EYE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de l'Œil Sans-Entrave",
+"descriptionunlocked": "Messana: un petit village prospère du désert devenu, ces dernières années, un lieu de pèlerinage. Il y a eu des manifestations particulières là-bas ces derniers temps…"
+},
+{ "id": "A_AFFAIR_HORIZON", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de l'Autre Horizon",
+"descriptionunlocked": "Les marins ont un terme pour désigner le phénomène de tourbillon de la boussole qui se produit avant l'observation de la ville d'Ys…"
+},
+
+{ "id": "A_AFFAIR_APOLLOMARSYAS", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire 'Apollon et Marsyas'",
+"descriptionunlocked": "Une prochaine production d’un opéra au pedigree très ancien…"
+},
+{ "id": "A_AFFAIR_OPERA", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de l'Opéra Invisible",
+"descriptionunlocked": "Personne n’a jamais réussi à mettre en scène une représentation complète de 'Wings Within Wings'. Mais maintenant, quelqu'un essaie à nouveau…"
+},
+{ "id": "A_AFFAIR_GOD", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire du Dieu dans le Bois",
+"descriptionunlocked": "Un camp de santé à la mode a attiré l'attention après que plusieurs de ses clients aient développé des capacités artistiques soudaines, parfois dérangeantes…"
+},
+{ "id": "A_AFFAIR_LARK", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de l'Alouette Inachevée",
+"descriptionunlocked": "Pendant des années, un expert en sculpture a travaillé à son chef-d'œuvre. Et voilà qu'il meurt soudainement, de façon surprenante…"
+},
+{ "id": "A_AFFAIR_ENDEAVOUR", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire du 'Royal Endeavour Act'",
+"descriptionunlocked": "Le Nouveau Roi a autorisé l'utilisation des richesses de la Couronne pour financer un nouveau projet industriel visionnaire…"
+},
+
+{ "id": "A_AFFAIR_REVOLUTION", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de la Révolution du Seuil",
+"descriptionunlocked": "La Légion du Seuil (en français dans le texte) recrute parmi les Bêtes-des-Limites. Dans quelle mesure est-elle digne de confiance?"
+},
+
+{ "id": "A_AFFAIR_WHILE", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire du Moment Ascendant",
+"descriptionunlocked": "Une oracle autoproclamé prêche la 'vérité de presque maintenant' à ses disciples. Elle campe près du Temple des Sept-Spirales et n'a pas été mangée…"
+},
+{ "id": "A_AFFAIR_SAINT", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire du Saint de Bois de Santal",
+"descriptionunlocked": "Une étrange et petite image dans une église de Strasbourg est devenue le lieu d’affirmations folles, de guérison et de hantise. Lorsqu'elle sera portée à l'attention de la hiérarchie de l'Église, elle la jugera miraculeuse ou hérétique… à moins que quelqu'un se mêle de ça avant."
+},
+{ "id": "A_AFFAIR_TAPESTRY", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire de la Tapisserie des Frères",
+"descriptionunlocked": "Une tapisserie a été volée à l'Haustorium et représente les détails d'un rite très ancien…"
+},
+{ "id": "A_AFFAIR_FRIEND", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L’affaire de l’Ami Absent",
+"descriptionunlocked": "La Ligeienne Meduse est morte depuis longtemps. Mais elle se promène dans les rues de Budapest au clair de lune et, pour la première fois, elle est également aperçue à la lumière du jour…"
+},
+{ "id": "A_AFFAIR_WOUND", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "L'Affaire du Révérend Ouvert",
+"descriptionunlocked": "Dans une clinique hautement spécialisée, des spécialistes étudient les agonies extatiques du cas connu uniquement sous le nom de 'Révérend ouvert'…"
+},
+{ "id": "A_AFFAIR_NUMA", "category": "A_CATEGORY_AFFAIR", "iconUnlocked": "trophy",
+"singleDescription": true, "validateOnStorefront": true,
+"label": "Dans le Brouillard",
+"descriptionunlocked": "Ce qui se passe à Numa reste à Numa. En général."
+}
+
+]}

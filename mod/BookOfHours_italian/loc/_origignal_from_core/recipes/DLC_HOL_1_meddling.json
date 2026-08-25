@@ -1,0 +1,57 @@
+{"recipes": [
+
+  {
+    "id": "meddle.combine",
+    "label": "Combine two Inklings",
+    "actionid": "consider",
+  "reqs":{"inkling":2},
+    "startdescription": "It is not the Librarian's business to meddle in the world beyond Hush House. But sometimes the Librarian gets curious. [This will create an Avenue of Enquiry.]",
+          "warmup": 10,
+"effects":{"inkling":-2,"avenue.enquiry":1},
+    "craftable": true
+
+},
+
+  {
+    "id": "meddle.avoid",
+    "label": "Consider an Inkling",
+    "actionid": "consider",
+  "reqs":{"inkling":1},
+    "startdescription": "Investigate insight from an incident. [This will give you a Persistent Memory. Alternatively, combine two Inklings if you'd like to try something unwise.]",
+          "warmup": 10,
+          "effects":{"inkling":-1},
+          "deckeffects":{"d.inkling":1},
+    "craftable": true
+
+},
+
+  {
+    "id": "meddle.summon",
+    "label": "Meddle",
+    "actionid": "*.consider",
+  "reqs":{"avenue.enquiry":1,"encaustum":1,"ability":1,"blank":1,"skill":-1},
+    "startdescription": "It is not the Librarian's business to meddle in the world beyond Hush House. But sometimes the Librarian gets curious; sometimes the Librarian misuses their prerogatives because they grow restless. [This will precipitate an Incident, if any yet remain undrawn. If there's already an Incident, Visitors might not initially interact with the one you intend. Instigate informedly, Ys-incipient.]",
+          "warmup": 10,
+"aspects":{"fatiguing":1},
+          "deckeffects":{"incidents":1},
+          "linked":[{"id":"meddle.consultation.catch"}],
+    "craftable": true
+
+},
+{
+  "id":"meddle.consultation.catch",
+  "label":"Approaching the End",
+  "startdescription":"[No Incident has occurred, this time. Perhaps some kind of ending approaches. We might even say <i>immanesces</i>, if we were those sort of people.]",
+  "warmup": 2,
+  "reqs":{"incident.consultation":1},
+  "effects":{"incident.consultation":-1},
+  "deckeffects":{"d.inkling":1}
+
+}
+
+
+
+
+
+]
+}

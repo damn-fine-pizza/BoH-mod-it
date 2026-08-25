@@ -1,0 +1,52 @@
+{
+ "recipes": [
+  {
+   "id": "remove.contamination.actinic",
+   "label": "Dissipare il Teoplasma Attinico",
+   "startdescription": "Il Metodo Westcott. Il procedimento è stato affinato nel corso degli anni, e non richiede più fumo di tabacco. Ammesso che mai davvero lo richiedesse.",
+   "desc": "«Il Sole è Oro, la Forgia è Rossa.» [La contaminazione da Teoplasma Attinico è stata rimossa.]"
+  },
+  {
+   "id": "remove.contamination.bloodlines",
+   "label": "Purgare l’Infestazione dei Lignaggi",
+   "startdescription": "Ogni parola va trattata separatamente.",
+   "desc": "«Da dove viene il sangue? Il Graal lo sa. Dove va a finire? La Falena lo ricorda.» [La contaminazione da Lignaggi è stata rimossa.]"
+  },
+  {
+   "id": "remove.contamination.chionic",
+   "label": "Attenuare il Teoplasma Chionico",
+   "startdescription": "Il Metodo Dewulf. Alcuni lo attribuiscono a Gideon, altri a Eva.",
+   "desc": "Il problema di un approccio diretto all’attenuazione teoplasmica è che, se invochiamo una qualsiasi delle Ore, potremmo finire teoplasmati peggio di quando abbiamo iniziato... perciò dobbiamo procedere con cautela. [La contaminazione da Teoplasma Chionico è stata rimossa.]"
+  },
+  {
+   "id": "remove.contamination.curse.fifth.eye",
+   "label": "Revocare la Maledizione del Quinto Occhio",
+   "startdescription": "Il principio del Cuore può placare la malizia della maledizione. Esiste una tecnica più rozza che si basa sull’Inverno, ma è così che si finisce con un problema di teoplasma chionico.",
+   "desc": "«Quando il sole era sempre rosso e basso, avevamo bisogno di tutti i nostri occhi. Ora, la Gloria entra senza pietà se li apriamo con imprudenza.» [La Maledizione del Quinto Occhio è stata revocata.]"
+  },
+  {
+   "id": "remove.contamination.keeperskin",
+   "label": "Trattare la Corruzione da Keeperskin",
+   "startdescription": "Il Keeperskin è persistente, ma ha le sue debolezze.",
+   "desc": "Thirza Blake teorizzò che il keeperskin fosse una stirpe degradata del Carapace – o forse la sua prole. Ma non riuscì mai a convincerlo a parlare. [La contaminazione da keeperskin è stata rimossa.]"
+  },
+  {
+   "id": "remove.contamination.sthenic.taint",
+   "label": "Risolvere la Contaminazione Stenica",
+   "startdescription": "Il Metodo van Lauren. Gervinus van Lauren lo perfezionò negli ultimi anni della Prigione del Cucurbit. Anche allora, la Hush House fece più bene che male.",
+   "desc": "«A ogni serpente, la sua cura.» [La Contaminazione Stenica è stata rimossa.]"
+  },
+  {
+   "id": "remove.contamination.winkwell",
+   "label": "Sopprimere la Corruzione da Winkwell",
+   "startdescription": "Il margine più tenue dell’oscurità avvolgente del Velluto – invocato con cura tramite il Fiore Nero dell’Albero del Guardiano – è una cura certa per il winkwell.",
+   "desc": "Ci sono state molte teorie su cosa sia il winkwell, e perché. Ma il Velluto è un’Ora di segreti, e se la interroghiamo troppo da vicino, potrebbe ritirare la propria protezione. [La contaminazione da Winkwell è stata rimossa.]"
+  },
+  {
+   "id": "remove.contamination.witchworms",
+   "label": "Sedare la Contaminazione dagli Stregovermi",
+   "startdescription": "La penombra più tenue della luce della Madrugad – invocata con cura tramite il Fiore Bianco dell’Albero del Guardiano – spinge gli Stregovermi verso una morte convulsa.",
+   "desc": "Cosucce orribili. Posso consolarmi al pensiero che le loro urla siano quasi impercettibili. [L’infestazione dagli Stregovermi è stata rimossa.]"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "recipes": [
+  {
+   "id": "talk.visitor.consultation.edge.reading.success",
+   "label": "Lama: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha un interesse per la violenza. La mia collezione può aiutare.",
+   "desc": "«Che rinvigorente.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.forge.reading.success",
+   "label": "Forgia: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha domande su questioni di forgiatura e mutamento. La mia collezione ha risposte.",
+   "desc": "«Che... divorante.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.grail.reading.success",
+   "label": "Graal: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha domande su sangue, nascita, o entrambi. La mia collezione ha risposte.",
+   "desc": "«Che viscerale.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.heart.reading.success",
+   "label": "Cuore: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha domande su benedizioni, protezioni, o vita. La mia collezione ha risposte.",
+   "desc": "«Che incoraggiante.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.knock.reading.success",
+   "label": "Battente: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha bisogno di qualcosa di sigillato... o dissigillato. La mia collezione può aiutare.",
+   "desc": "«Che promettente.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.lantern.reading.success",
+   "label": "Lanterna: Lettura Adatta",
+   "startdescription": "Il mio visitatore è in cerca di rivelazioni. Le risposte si possono trovare nella mia collezione.",
+   "desc": "«Che illuminante.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.moon.reading.success",
+   "label": "Luna: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha domande su cose nascoste. Le risposte si possono trovare nella mia collezione.",
+   "desc": "«Che inaspettato.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.moth.reading.success",
+   "label": "Falena: Lettura Adatta",
+   "startdescription": "Le domande del mio visitatore sono anticonvenzionali. Ma lo è anche la mia collezione.",
+   "desc": "«Che avvincente.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.nectar.reading.success",
+   "label": "Nettare: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha interessi orticoli. Le risposte si possono trovare nella mia collezione.",
+   "desc": "«Che fruttuoso.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.rose.reading.success",
+   "label": "Rosa: Lettura Adatta",
+   "startdescription": "Il mio visitatore vuole parlare di orizzonti e speranza. Le risposte si possono trovare nella mia collezione.",
+   "desc": "«Che curioso!» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.scale.reading.success",
+   "label": "Squama: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha domande su questioni solitamente lasciate sepolte. Le risposte si possono trovare nella mia collezione.",
+   "desc": "«Che... profondo.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.sky.reading.success",
+   "label": "Cielo: Lettura Adatta",
+   "startdescription": "Il mio visitatore ha domande sulle questioni dei cieli inferiori. La mia collezione ha risposte.",
+   "desc": "«Che promettente.» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.consultation.winter.reading.success",
+   "label": "Inverno: Lettura Adatta",
+   "startdescription": "Il mio visitatore si chiede come finirà qualcosa. La mia collezione ha risposte.",
+   "desc": "«...» [Hai soddisfatto il tuo visitatore e guadagnato una ricompensa. Ma più impara, più sarà difficile accontentarlo in futuro.]"
+  },
+  {
+   "id": "talk.visitor.reading.failure",
+   "label": "Lettura Non Consigliata",
+   "startdescription": "«Non credo...» [Ti serve materiale di lettura con un aspetto Mistero che soddisfi l’Interesse del tuo visitatore.]",
+   "desc": "[Non hai trovato nulla di adatto nella tua collezione – o hai deciso di non aiutare.] "
+  }
+ ]
+}

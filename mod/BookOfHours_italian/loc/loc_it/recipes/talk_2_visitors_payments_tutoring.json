@@ -1,0 +1,75 @@
+{
+ "recipes": [
+  {
+   "id": "talk.visitor.payment.language.cracktrack.tutor",
+   "label": "Ripetizioni: Cracktrack",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti della lingua primordiale che chiamiamo, piuttosto deludentemente, «Cracktrack» – perché non esiste un nome per quella lingua in quella lingua. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.ericapaean.tutor",
+   "label": "Ripetizioni: Ericapaean",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua elegante – il cui nome è notoriamente difficile da scrivere in qualsiasi lingua, compresa se stessa. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.fucine.tutor",
+   "label": "Ripetizioni: Fucine",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua arida. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.henavek.tutor",
+   "label": "Ripetizioni: Kernewek Henavek",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua dimenticata. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.hyksos.tutor",
+   "label": "Ripetizioni: Hyksos",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua scaltra. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.killasimi.tutor",
+   "label": "Ripetizioni: Killasimi",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua intessuta. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.mandaic.tutor",
+   "label": "Ripetizioni: Mandaico Profondo",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua risonante. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.ramsund.tutor",
+   "label": "Ripetizioni: Ramsund",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua vivace. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.sabazine.tutor",
+   "label": "Ripetizioni: Sabazine",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua enigmatica. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.language.vak.tutor",
+   "label": "Ripetizioni: Vak",
+   "startdescription": "Il mio visitatore può insegnarmi i rudimenti di questa lingua audace. [Dopo averti fatto lezione, il visitatore se ne andrà, anche se era arrivato per un altro motivo.]",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.payment.nothing",
+   "label": "Pagamento per...?",
+   "startdescription": "Il mio visitatore non ha nulla da offrirmi al momento.",
+   "desc": "Ho imparato abbastanza da decifrare libri in questa lingua, anche se potrebbe essere lento. [Puoi anche usarla e migliorarla come qualsiasi altra abilità.]"
+  },
+  {
+   "id": "talk.visitor.what",
+   "label": "Riguardo a...?",
+   "startdescription": "[Scegli un Incidente che possa interessargli; oppure offrigli delle spintriae per le ripetizioni.]"
+  }
+ ]
+}
