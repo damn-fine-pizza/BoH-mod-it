@@ -38,6 +38,12 @@ arte di Weather Factory in una forma più riutilizzabile della copertina finita:
 `python3 tools/plates.py build`, che le ricava da un gioco installato mettendo a
 confronto le quattro localizzazioni ufficiali.
 
+Con un'eccezione misurata: **quattordici lastre non si rigenerano**, perché nel
+2026 sono state ritoccate a mano dove la cancellatura automatica lasciava
+inchiostro o mangiava un pezzo di disegno. Quali sono, e quanto se ne discosta
+il risultato automatico, sta in [`art/LASTRE-A-MANO.md`](art/LASTRE-A-MANO.md) —
+che è un elenco di nomi, non arte, e per questo sta in git.
+
 ## Il font: EB Garamond, OFL
 
 `art/font/` contiene EB Garamond sotto SIL Open Font License 1.1. La licenza sta
