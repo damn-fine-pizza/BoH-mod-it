@@ -323,7 +323,7 @@ usa per quel personaggio, come per le Ore al punto 3-bis.
 `MASCHILE` non può sapere chi parla, e segnalerebbe anche queste. Le battute
 verificate si esentano una per una in `glossario.json`, sezione
 `neutro_non_si_applica`: chiave inglese, e accanto la prova — chi parla e quale
-pronome lo dichiara. `validate.py` e `checkpart.py` la leggono. Il cancello
+pronome lo dichiara. `validate.py` e `checkpart.py` la leggono. Il gate
 resta severo dove serve, cioè sulle 276.000 parole di monologo dell'Archivista.
 
 Il *lui stesso* di al-Adim, nelle prime venti esenzioni, non era nemmeno una
@@ -332,7 +332,7 @@ felice* stava in quella lista, finché non si è capito che l'aggettivo epiceno
 era un difetto della regex e non un caso da esentare — vedi 5-quaterdecies. La
 regex è un'approssimazione, e va trattata come tale.
 
-**Non si esenta per far passare il cancello.** Si esenta dopo aver verificato
+**Non si esenta per far passare il gate.** Si esenta dopo aver verificato
 il genere nell'originale, e la ragione si scrive accanto. Tutte le esenzioni
 finora sono battute `recipes/talk.visitor.*`.
 

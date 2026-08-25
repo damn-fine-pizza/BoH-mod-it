@@ -16,7 +16,7 @@ qui c'è come si tocca senza romperlo.
    `pack.py` scrive `synopsis.json`, nell'albero di lavoro e nel pacchetto. Se
    lo zip di quella versione esiste già, `pack.py` si ferma invece di pubblicare
    due contenuti diversi con lo stesso numero.
-3. **Niente esce se un cancello non è pulito.** `pack.py` li esegue tutti e si
+3. **Niente esce se un gate non è pulito.** `pack.py` li esegue tutti e si
    rifiuta di costruire il pacchetto se uno segnala.
 
 ## I test
@@ -31,7 +31,7 @@ un test a uno strumento che scrive lo punta a `tmp_path`, non al dizionario.
 Chi tocca uno strumento fa girare la suite prima di committare — lo smoke passa
 su tutti e 39 gli script e prende i guasti da rinomino.
 
-## I cancelli
+## I gates
 
 Si rilanciano dopo ogni tornata, non alla fine.
 

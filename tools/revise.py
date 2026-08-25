@@ -32,7 +32,7 @@ Selettori, si combinano fra loro:
     --ampiezza punteggiatura|funzionali|corte|medie|lunghe|riscritture
     --cerca REGEX        sulla chiave inglese
     --righe 12,44,90     le righe del JSONL, quando la scelta e' stata fatta a mano
-    --fermate            solo quelle che i cancelli non fanno passare
+    --fermate            solo quelle che i gates non fanno passare
     --tutto              nessun filtro: --apply e --respingi non lavorano al buio
 
 Le fermate per «genere fissato» sono quasi sempre battute di visitatori, e li'
@@ -178,7 +178,7 @@ def classify(items, strings, labels, rejected, italian=None):
 
 
 def gates(items):
-    """Quali proposte i cancelli non farebbero passare -> {riga di origine: motivo}.
+    """Quali proposte i gates non farebbero passare -> {riga di origine: motivo}.
 
     Si confronta con la resa attuale, non in assoluto: una stringa che gia' viola
     qualcosa non e' colpa della proposta, e bocciarla lascerebbe l'errore dov'e'.
@@ -248,7 +248,7 @@ def triage(items, blocked):
         if sizes[name]:
             print(f"    {sizes[name]:5}  {WIDTH_LABEL[name]}")
     ready = [i for i in items if i["stato"] == "applicabile" and i["origine"] not in blocked]
-    print(f"\n  {len(ready)} si applicano subito, {len(blocked)} le fermano i cancelli")
+    print(f"\n  {len(ready)} si applicano subito, {len(blocked)} le fermano i gates")
     if blocked:
         for why, n in collections.Counter(blocked.values()).most_common(6):
             print(f"    {n:5}  {why}")
@@ -333,7 +333,7 @@ def apply_findings(items, blocked):
         if item["stato"] != "applicabile":
             skipped[item["stato"]] += 1
         elif item["origine"] in blocked:
-            skipped["fermata dai cancelli"] += 1
+            skipped["fermata dai gates"] += 1
         elif strings.get(item["en"]) != item["it_attuale"]:
             skipped["cambiata mentre lavoravo"] += 1     # due --apply nella stessa tornata
         else:
@@ -346,7 +346,7 @@ def apply_findings(items, blocked):
     for name, n in skipped.most_common():
         print(f"  {n:5} saltate: {name}")
     if done:
-        print("\nadesso i cancelli: validate.py, prose.py, grammar.py, logic.py")
+        print("\nadesso i gates: validate.py, prose.py, grammar.py, logic.py")
     return done
 
 

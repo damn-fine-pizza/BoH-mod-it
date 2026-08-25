@@ -1,4 +1,4 @@
-"""I cancelli sul testo: logic, checkpart, identical, grammar, validate.
+"""I gates sul testo: logic, checkpart, identical, grammar, validate.
 
 Sono i controlli che decidono se il mod si pubblica. Ognuno ha una zona grigia,
 e i casi qui sotto sono quelli in cui una versione precedente sbagliava: il

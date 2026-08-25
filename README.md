@@ -73,7 +73,23 @@ tools/                        script di analisi (richiedono json5)
 
 ## Requisiti
 
-Tre cose, e una che le verifica tutte.
+**Serve BOOK OF HOURS installato**, e non per comodità. `bohloc.py` punta dentro
+`bhcontent/core`, cioè dentro il gioco, e da lì leggono quasi tutti gli
+strumenti:
+
+- `apply.py` percorre i file del gioco per sapere quali campi tradurre, quindi
+  **senza il gioco il mod non si rigenera dal dizionario** — e `pack.py` comincia
+  proprio da `apply.py`, quindi non si costruisce nemmeno il pacchetto;
+- `validate.py` e `glyphcheck.py` ci cercano `_core.txt`, l'atlante dei glifi del
+  font, per sapere quali caratteri il gioco sa disegnare;
+- `plates.py` tira le quattro localizzazioni ufficiali fuori da
+  `resources.assets` per ricostruire `art/lastre/`, che in git non c'è (vedi
+  [`NOTICE.md`](NOTICE.md)), e senza le lastre `covers.py` non rifà le copertine.
+
+Per **usare** la traduzione niente di tutto questo serve: si scarica dal
+Workshop e basta. I requisiti qui sotto riguardano chi ci lavora.
+
+Poi tre cose, e una che le verifica tutte.
 
 **1. Il venv e le dipendenze.** Quattro pacchetti: `json5` legge i JSON del
 gioco (virgole finali, a volte UTF-16), `Pillow` e `numpy` rifanno copertine e
@@ -96,18 +112,21 @@ sudo apt install fonts-urw-base35     # Debian, Ubuntu
 Vanno bene anche FreeSans Bold o Liberation Sans Bold: `bohloc.py` prova i tre
 in fila, e con la chiave `font_insegna` in `percorsi.json` se ne indica un altro.
 
-**3. Il materiale che non ridistribuiamo.** `art/originali/` e `art/estratte/`
-sono arte di Weather Factory e stanno fuori da git; le estratte servono anche a
-`covers.py`, che ricava da lì la zona della scritta cancellata.
+**3. Il materiale che non ridistribuiamo.** `art/originali/`, `art/estratte/` e
+`art/lastre/` sono arte di Weather Factory e stanno fuori da git. Si rimettono in
+casa in tre comandi, tutti su un gioco installato:
 
 ```sh
 python3 tools/sources.py originals   # lo ZIP che WF pubblica per i modder
-python3 tools/sources.py extracted    # gli sprite del gioco installato, via UnityPy
+python3 tools/sources.py extracted    # gli sprite del gioco, via UnityPy
+python3 tools/plates.py extract       # le quattro localizzazioni ufficiali
+python3 tools/plates.py build          # e da quelle, art/lastre/
 ```
 
-Il gioco installato serve per il secondo comando e per i confronti con
-l'originale; i percorsi stanno in `percorsi.json` (si copia
-`percorsi.esempio.json`).
+`plates.py build` non chiede niente a mano: ricava dove sta il testo confrontando
+inglese e russo, e per ogni pixel dentro quel riquadro sceglie fra le quattro
+lingue quella che lì ha il pannello pulito. Ci vuole qualche minuto. I percorsi
+del gioco stanno in `percorsi.json` (si copia `percorsi.esempio.json`).
 
 **La verifica.** Dice che cosa manca e come si rimedia, riga per riga:
 
@@ -134,7 +153,7 @@ materiale di riferimento.
 python3 tools/pack.py --no-zip --install
 ```
 
-Rigenera i file dal dizionario, passa i cancelli — e **si ferma se uno non è
+Rigenera i file dal dizionario, passa i gates — e **si ferma se uno non è
 pulito** — costruisce `dist/BookOfHours_italian/` con solo ciò che il gioco
 legge, e lo copia nella cartella `mods` del gioco. Il
 `serapeum_catalogue_number.txt`, che il gioco scrive al primo caricamento sul
@@ -175,7 +194,7 @@ sassone contato come virgoletta aperta, il nome proprio scambiato per resa
 mancante, «dall'XI secolo» segnalato come elisione sbagliata, i tre libri con lo
 sprite quattro pixel piu' alto.
 
-## I cancelli
+## I gates
 
 Si rilanciano dopo ogni tornata, non alla fine. `tools/pack.py` li esegue tutti
 e **si rifiuta di costruire il pacchetto** se uno non è pulito.
@@ -257,7 +276,7 @@ prende il primo che esiste.
 | `split.py` | divide il da fare in slice, una per agente |
 | `context.py` | per ogni slice, il campione di registro e il glossario che le servono |
 | `join.py` | ricompone una slice dai salvataggi incrementali |
-| `checkpart.py` | controlla una slice prima che rientri: il cancello di chi traduce, incluse le rese rimaste in inglese |
+| `checkpart.py` | controlla una slice prima che rientri: il gate di chi traduce, incluse le rese rimaste in inglese |
 | `merge.py` | fonde le slice nel dizionario, intercettando orfane e collisioni |
 | `titles.py` | riporta i titoli dei libri alla sola forma italiana (ha sostituito `booktitles.py`) |
 | `validate.py` | controlla il dizionario: glossario, nomi propri, neutro, markup, glifi |
@@ -311,6 +330,13 @@ codice, immagini, file del gioco né percorsi di questo computer.
 | `consistency.py` | un termine inglese reso in due modi diversi (ci mette minuti) |
 | `sample.py` | campione affiancato CORE / IT / ES per ispezione visiva |
 | `donottranslate.py`, `refine.py` | termini lasciati in inglese da FR ed ES |
+
+## Diritti
+
+Il codice di `tools/` è MIT ([`LICENSE`](LICENSE)). Il testo e l'arte del gioco
+sono di Weather Factory; la traduzione italiana è mia, ed è una traduzione della
+comunità fatta col loro sistema di locmod. Chi è proprietario di che cosa, e
+perché le lastre non stanno in git, è spiegato in [`NOTICE.md`](NOTICE.md).
 
 ## Riferimenti
 

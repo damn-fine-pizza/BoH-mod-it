@@ -122,7 +122,7 @@ def main():
     # l'inserimento viene dall'iterazione di un set di stringhe: cioe' dal seed
     # di hash del processo. Su 'Brittany', con 2 rese a pari merito, lo stesso
     # comando diceva «nessun termine» o segnalava una divergenza a seconda del
-    # seed. Il pareggio ora si rompe in ordine alfabetico, e il cancello dice
+    # seed. Il pareggio ora si rompe in ordine alfabetico, e il gate dice
     # sempre la stessa cosa.
     dominant = {g: min(c.items(), key=lambda kv: (-kv[1], kv[0]))[0]
                 for g, c in count.items() if c}

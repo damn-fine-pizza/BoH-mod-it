@@ -14,9 +14,16 @@ translations/parts/scartati/*.json
 art/*.html
 # l'arte di Weather Factory non si ridistribuisce. art/originali/ e' il loro ZIP
 # pubblico, art/estratte/ sono gli sprite del gioco installato: tools/sources.py
-# rimette in casa tutt'e due. Nostre sono le lastre, il manifest e le sigle.
+# rimette in casa tutt'e due. Anche le lastre sono arte loro, non nostra: sono
+# le copertine con la scritta inglese cancellata, e plates.py le compone
+# mettendo a confronto le quattro localizzazioni ufficiali. Si rifanno con
+# `plates.py build`, quindi non c'e' niente da conservare qui. art/lastre.zip
+# e' la copia locale, per non ricostruirle a ogni giro. Nostri sono il manifest,
+# le sigle, e il modo di comporle.
 art/originali/
 art/estratte/
+art/lastre/
+art/lastre.zip
 dist/
 # dove sta il gioco su questo computer: dipende dall'installazione, non dal
 # progetto. Si copia percorsi.esempio.json, o si passa tutto dall'ambiente.

@@ -23,7 +23,7 @@ DICT = os.path.join(PROJ, "translations", "it.json")
 # Le stringhe che restano in inglese per scelta verificata: le tiene
 # identical.py, e le legge anche questo controllo. Senza, i diciassette titoli
 # della colonna sonora - musica che esiste davvero, e i titoli delle opere reali
-# non si traducono - farebbero fallire il cancello a ogni giro, e l'unico modo
+# non si traducono - farebbero fallire il gate a ogni giro, e l'unico modo
 # di chiuderlo sarebbe tradurli, cioe' sbagliare.
 INTENDED = os.path.join(PROJ, "translations", "identiche-volute.json")
 
