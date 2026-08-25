@@ -55,7 +55,7 @@ translations/
   identiche-volute.json       le rese uguali all'inglese per scelta, con la ragione
   parts/                      le slice in lavorazione
 art/                          il laboratorio delle copertine
-  lastre/                     le copertine con la scritta inglese cancellata
+  plates/                     le copertine con la scritta inglese cancellata
   font/                       EB Garamond (SIL OFL), il serif del gioco
   manifest.json               titolo inglese, titolo italiano e sigla, per libro
   originali/ estratte/        arte di Weather Factory: fuori da git, le rimette
@@ -66,7 +66,7 @@ mod/BookOfHours_italian/      albero di lavoro del mod
   images/books/loc_it/            le copertine e i dorsi con le sigle italiane
   cover.png                       l'immagine della scheda, generata da tools/cover.py
   loc/_origignal_from_core/       copia dell'originale inglese, per riferimento
-  loc/_mod_in_french/             il mod francese, per riferimento
+  loc/_mod_in_french/             il mod francese, per riferimento (fuori da git)
 dist/                         il pacchetto costruito da pack.py (fuori da git)
 tools/                        script di analisi (richiedono json5)
 ```
@@ -83,8 +83,8 @@ strumenti:
 - `validate.py` e `glyphcheck.py` ci cercano `_core.txt`, l'atlante dei glifi del
   font, per sapere quali caratteri il gioco sa disegnare;
 - `plates.py` tira le quattro localizzazioni ufficiali fuori da
-  `resources.assets` per ricostruire `art/lastre/`, che in git non c'è (vedi
-  [`NOTICE.md`](NOTICE.md)), e senza le lastre `covers.py` non rifà le copertine.
+  `resources.assets`. `art/plates/` è versionata, quindi per rifare solo le
+  copertine il gioco non serve; serve se si vogliono ricostruire le plates.
 
 Per **usare** la traduzione niente di tutto questo serve: si scarica dal
 Workshop e basta. I requisiti qui sotto riguardano chi ci lavora.
@@ -112,27 +112,30 @@ sudo apt install fonts-urw-base35     # Debian, Ubuntu
 Vanno bene anche FreeSans Bold o Liberation Sans Bold: `bohloc.py` prova i tre
 in fila, e con la chiave `font_insegna` in `percorsi.json` se ne indica un altro.
 
-**3. Il materiale che non ridistribuiamo.** `art/originali/`, `art/estratte/` e
-`art/lastre/` sono arte di Weather Factory e stanno fuori da git. Si rimettono in
-casa in tre comandi, tutti su un gioco installato:
+**3. La materia prima, che non sta in git.** `art/originali/` e `art/estratte/`
+sono lo ZIP che Weather Factory pubblica per i modder e gli sprite del gioco
+installato: pesano, si riscaricano, e restano fuori. `art/plates/` invece **è
+versionata** — arriva col clone, e [`NOTICE.md`](NOTICE.md) dice con quale
+permesso.
 
 ```sh
 python3 tools/sources.py originals   # lo ZIP che WF pubblica per i modder
 python3 tools/sources.py extracted    # gli sprite del gioco, via UnityPy
-python3 tools/plates.py extract       # le quattro localizzazioni ufficiali
-python3 tools/plates.py build          # e da quelle, art/lastre/
 ```
 
-`plates.py build` non chiede niente a mano: ricava dove sta il testo confrontando
-inglese e russo, e per ogni pixel dentro quel riquadro sceglie fra le quattro
-lingue quella che lì ha il pannello pulito. Ci vuole qualche minuto. I percorsi
-del gioco stanno in `percorsi.json` (si copia `percorsi.esempio.json`).
+Servono solo per **ricostruire** le plates, cosa che quasi mai si deve fare:
 
-**Quattordici lastre però non si rigenerano**: sono state ritoccate a mano dove
-l'automatico lasciava inchiostro o mangiava un pezzo di disegno. L'elenco, e di
-quanto il risultato automatico se ne discosta, è in
-[`art/LASTRE-A-MANO.md`](art/LASTRE-A-MANO.md). Chi riparte da zero le rifà
-tutte tranne quelle quattordici, che vanno recuperate da una copia.
+```sh
+python3 tools/plates.py extract      # le quattro localizzazioni ufficiali
+python3 tools/plates.py build         # e da quelle, art/plates/
+```
+
+E attenzione, perché un `build` non è una rigenerazione fedele: **quattordici
+plates sono state ritoccate a mano**, e un build le peggiora. Quali sono, e di
+quanto, è in [`art/RITOCCHI-A-MANO.md`](art/RITOCCHI-A-MANO.md). È il motivo per
+cui `art/plates/` sta in git invece di essere considerata materiale usa e getta.
+I percorsi del gioco stanno in `percorsi.json` (si copia
+`percorsi.esempio.json`).
 
 **La verifica.** Dice che cosa manca e come si rimedia, riga per riga:
 
@@ -340,9 +343,10 @@ codice, immagini, file del gioco né percorsi di questo computer.
 ## Diritti
 
 Il codice di `tools/` è MIT ([`LICENSE`](LICENSE)). Il testo e l'arte del gioco
-sono di Weather Factory; la traduzione italiana è mia, ed è una traduzione della
-comunità fatta col loro sistema di locmod. Chi è proprietario di che cosa, e
-perché le lastre non stanno in git, è spiegato in [`NOTICE.md`](NOTICE.md).
+sono di Weather Factory, che per i locmod concede esplicitamente «permission for
+use and customisation of these images to create mods»; la traduzione italiana è
+mia, ed è una traduzione della comunità. Chi è proprietario di che cosa, con le
+citazioni e i link, è in [`NOTICE.md`](NOTICE.md).
 
 ## Riferimenti
 

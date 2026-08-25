@@ -84,7 +84,7 @@ def state():
         n = count_of(os.path.join(EXTRACTED, c))
         print(f"art/estratte/{c:<8}{n:>4} PNG"
               f"{'' if n else '           -> python3 tools/sources.py extracted'}")
-    print(f"art/lastre/          {count_of(os.path.join(ART, 'lastre')):>4} PNG   "
+    print(f"art/plates/          {count_of(os.path.join(ART, 'plates')):>4} PNG   "
           f"le nostre, versionate: si rifanno con plates.py build")
 
 

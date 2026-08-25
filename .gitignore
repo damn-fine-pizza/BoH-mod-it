@@ -12,19 +12,19 @@ translations/parts/scartati/*.json
 # le pagine di revisione: le riscrivono index.py e compare.py in un attimo,
 # e pesano quanto tutto il resto del repository messo insieme.
 art/*.html
-# l'arte di Weather Factory non si ridistribuisce. art/originali/ e' il loro ZIP
-# pubblico, art/estratte/ sono gli sprite del gioco installato: tools/sources.py
-# rimette in casa tutt'e due. Anche le lastre sono arte loro, non nostra: sono
-# le copertine con la scritta inglese cancellata, e plates.py le compone
-# mettendo a confronto le quattro localizzazioni ufficiali. Si rifanno con
-# `plates.py build`, quindi non c'e' niente da conservare qui. art/lastre.zip
-# e' la copia locale, per non ricostruirle a ogni giro. Nostri sono il manifest,
-# le sigle, e il modo di comporle.
+# art/originali/ e art/estratte/ sono la MATERIA PRIMA, e si rimettono in casa
+# con tools/sources.py: lo ZIP che Weather Factory pubblica per i modder, e gli
+# sprite del gioco installato. Fuori da git perche' sono grosse e si riscaricano,
+# non per una questione di diritti: art/plates/ invece ci sta, e NOTICE.md dice
+# con quale permesso. Gli zip di scorta non servono piu' da quando le plates sono
+# versionate.
 art/originali/
 art/estratte/
-art/lastre/
-art/lastre.zip
-art/lastre-ritoccate-a-mano.zip
+art/*.zip
+# il mod francese: e' lavoro di un altro modder, non nostro e non di Weather
+# Factory. Serve come riferimento a chi traduce e resta sul disco, ma non si
+# ripubblica. Si recupera da Nexus: nexusmods.com/bookofhours/mods/42
+mod/BookOfHours_italian/loc/_mod_in_french/
 dist/
 # dove sta il gioco su questo computer: dipende dall'installazione, non dal
 # progetto. Si copia percorsi.esempio.json, o si passa tutto dall'ambiente.

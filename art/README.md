@@ -13,7 +13,7 @@ partire dalle immagini originali.
 ## Cosa c'è qui
 
 ```
-lastre/      483 PNG: le copertine con la scritta inglese cancellata. Sono il
+plates/     483 PNG: le copertine con la scritta inglese cancellata. Sono il
              nostro lavoro, e sono versionate.
 font/        EB Garamond (SIL OFL), lo stesso serif del gioco. Ridistribuibile.
 manifest.json  per ogni libro: titolo inglese, titolo italiano, sigla proposta.
@@ -41,7 +41,7 @@ Il font viene da `https://github.com/octaviopardo/EBGaramond12`.
 
 ## Il lavoro, diviso in due
 
-**A mano**: cancellare la scritta inglese dai file in `lastre/`, in place.
+**A mano**: cancellare la scritta inglese dai file in `plates/`, in place.
 Nient'altro. Non spostare, non ritagliare, non riscalare, non rinominare: il
 file deve restare delle stesse dimensioni dell'originale.
 
