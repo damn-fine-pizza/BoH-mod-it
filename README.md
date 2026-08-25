@@ -1,7 +1,12 @@
 # Traduzione italiana di BOOK OF HOURS
 
 Localisation mod (locmod) per BOOK OF HOURS e il DLC HOUSE OF LIGHT, secondo il
-sistema ufficiale di Weather Factory.
+sistema ufficiale di Weather Factory. Il sistema è ufficiale; la traduzione no,
+è una traduzione della comunità.
+
+**È fatta con l'IA.** Il testo l'ha prodotto Claude, e l'hanno riletto ChatGPT e
+di nuovo Claude. Le convenzioni di traduzione, le decisioni sui casi dubbi e gli
+undici controlli automatici sono lavoro umano. La scheda del mod lo dichiara.
 
 ## Stato
 

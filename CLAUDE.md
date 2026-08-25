@@ -1,7 +1,8 @@
 # Come si lavora a questo repository
 
-Traduzione italiana di BOOK OF HOURS e del DLC HOUSE OF LIGHT, come locmod
-ufficiale di Weather Factory. Il `README.md` dice che cos'è e come si installa;
+Traduzione italiana di BOOK OF HOURS e del DLC HOUSE OF LIGHT: una traduzione
+della comunità, fatta col sistema di localizzazione ufficiale di Weather
+Factory. Ufficiale è il sistema, non questa resa. Il `README.md` dice che cos'è e come si installa;
 qui c'è come si tocca senza romperlo.
 
 ## Le tre regole che valgono sempre
