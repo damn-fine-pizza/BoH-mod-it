@@ -7,10 +7,16 @@ tenerle distinte, e dire per ognuna con quale permesso sta qui.
 
 Non è una deduzione: è scritto nella loro pagina per chi fa un locmod.
 
-> «Weather Factory grants permission for use and customisation of these images
-> to create mods!»
+> *[Weather Factory grants permission for use and customisation of these images
+> to create mods!]*
 >
-> — [Book of Hours locmod creation reference](https://weatherfactory.biz/book-of-hours-locmod-creation-reference/)
+> — [Book of Hours locmod creation reference](https://weatherfactory.biz/book-of-hours-locmod-creation-reference/),
+> sezione «Certain Subfolders?»
+
+![Il permesso, sulla pagina di Weather Factory](art/citations/locmod-image-permission.jpg)
+
+Lo screenshot è in [`art/citations/`](art/citations/): le pagine web cambiano, e
+una citazione senza la prova invecchia male.
 
 Il permesso vale per tre categorie di immagini, che sono esattamente quelle che
 questo mod tocca: le **immagini localizzate** (i cartelli dei luoghi, le insegne),
