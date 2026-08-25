@@ -128,6 +128,12 @@ inglese e russo, e per ogni pixel dentro quel riquadro sceglie fra le quattro
 lingue quella che lì ha il pannello pulito. Ci vuole qualche minuto. I percorsi
 del gioco stanno in `percorsi.json` (si copia `percorsi.esempio.json`).
 
+**Quattordici lastre però non si rigenerano**: sono state ritoccate a mano dove
+l'automatico lasciava inchiostro o mangiava un pezzo di disegno. L'elenco, e di
+quanto il risultato automatico se ne discosta, è in
+[`art/LASTRE-A-MANO.md`](art/LASTRE-A-MANO.md). Chi riparte da zero le rifà
+tutte tranne quelle quattordici, che vanno recuperate da una copia.
+
 **La verifica.** Dice che cosa manca e come si rimedia, riga per riga:
 
 ```sh
